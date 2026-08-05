@@ -1,0 +1,16 @@
+{
+  "project": "SOMatiq Knowledge Platform",
+  "template_version": "1.0",
+  "created": "2026-08-05",
+  "primary_source": "module.json",
+  "generated_outputs": [
+    "module.md",
+    "rag_chunks.jsonl",
+    "module.docx"
+  ],
+  "workflow": [
+    "drafts",
+    "approved",
+    "bedrock-export"
+  ]
+}

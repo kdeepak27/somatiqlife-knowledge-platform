@@ -1,0 +1,18 @@
+{
+  "project_name": "SOMatiq Knowledge Platform",
+  "volume_id": "BIO",
+  "volume_title": "Foundations of Human Biology",
+  "default_model": "gpt-5.6",
+  "modules_per_run": 1,
+  "minimum_customer_questions": 8,
+  "minimum_sections": 8,
+  "minimum_key_takeaways": 5,
+  "minimum_illustrations": 3,
+  "review_status": "AI draft - scientific, clinical, and editorial review required",
+  "output_formats": [
+    "json",
+    "markdown",
+    "jsonl",
+    "docx"
+  ]
+}

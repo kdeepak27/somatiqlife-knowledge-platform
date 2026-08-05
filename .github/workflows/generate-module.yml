@@ -1,0 +1,51 @@
+name: Generate next SOMatiq module
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: somatiq-module-generation
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate next pending module
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+        run: python scripts/generate_module.py
+
+      - name: Build indexes
+        run: python scripts/build_indexes.py
+
+      - name: Commit generated files
+        run: |
+          git config user.name "somatiq-content-bot"
+          git config user.email "somatiq-content-bot@users.noreply.github.com"
+          git add drafts indexes config/curriculum.csv
+
+          if git diff --cached --quiet; then
+            echo "No changes were generated."
+            exit 0
+          fi
+
+          git commit -m "Generate next SOMatiq module"
+          git push
