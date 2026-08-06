@@ -1,0 +1,32 @@
+{
+  "module_id": "BIO-043",
+  "title": "The Hypothalamus and Pituitary Gland",
+  "subtitle": "Central coordination of endocrine function",
+  "domain": "Human Biology",
+  "category": "Endocrinology",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Students",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "hypothalamus",
+    "pituitary gland",
+    "endocrine system",
+    "hormones",
+    "feedback loops",
+    "neuroendocrine regulation"
+  ],
+  "related_modules": [
+    "BIO-044: Thyroid Gland Function and Regulation",
+    "BIO-045: Adrenal Gland Physiology and Disorders",
+    "BIO-046: Hormonal Control of Reproduction"
+  ],
+  "evidence_strength": "Established scientific consensus with ongoing research into detailed mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

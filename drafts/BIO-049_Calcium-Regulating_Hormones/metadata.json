@@ -1,0 +1,35 @@
+{
+  "module_id": "BIO-049",
+  "title": "Calcium-Regulating Hormones",
+  "subtitle": "Parathyroid hormone, vitamin D, calcitonin, and mineral balance",
+  "domain": "Human Biology",
+  "category": "Endocrinology",
+  "som_stages": [
+    "Basic Understanding",
+    "Mechanisms of Hormonal Regulation",
+    "Clinical Implications"
+  ],
+  "audience": [
+    "General Adult",
+    "Healthcare Students",
+    "Health Educators"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Calcium regulation",
+    "Parathyroid hormone",
+    "Vitamin D",
+    "Calcitonin",
+    "Mineral balance",
+    "Endocrinology",
+    "Calcium homeostasis"
+  ],
+  "related_modules": [
+    "BIO-015 Endocrine System Overview",
+    "BIO-050 Bone Metabolism and Remodeling",
+    "BIO-052 Kidney Function and Electrolyte Balance"
+  ],
+  "evidence_strength": "Established scientific understanding supported by clinical research and biochemical studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
