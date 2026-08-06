@@ -8,12 +8,11 @@ on:
         default: gpt-4.1-mini
         type: string
       module_count:
-        description: Number of pending modules (1-5)
+        description: Number of modules
         required: true
-        default: "1"
-        type: choice
-        options: ["1", "2", "3", "4", "5"]
-permissions:
+        default: "10"
+        type: string
+  permissions:
   contents: write
 concurrency:
   group: somatiq-generation
