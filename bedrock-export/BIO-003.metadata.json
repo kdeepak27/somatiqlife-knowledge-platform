@@ -1,0 +1,34 @@
+{
+  "module_id": "BIO-003",
+  "title": "Levels of Biological Organization",
+  "subtitle": "From molecules and cells to the whole person",
+  "domain": "Human Biology",
+  "category": "Foundational Biology",
+  "som_stages": [
+    "Foundational Knowledge"
+  ],
+  "audience": [
+    "General Adult Learners",
+    "Health Students",
+    "Health Educators"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "biological organization",
+    "molecules",
+    "cells",
+    "tissues",
+    "organs",
+    "organ systems",
+    "organism",
+    "biology"
+  ],
+  "related_modules": [
+    "BIO-001 Cell Biology Basics",
+    "BIO-002 Human Anatomy Overview",
+    "BIO-010 Physiology of Organ Systems"
+  ],
+  "evidence_strength": "Established scientific consensus",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

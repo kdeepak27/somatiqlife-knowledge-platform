@@ -1,0 +1,32 @@
+{
+  "module_id": "BIO-005",
+  "title": "Biological Adaptation",
+  "subtitle": "How repeated demands change future capacity",
+  "domain": "Human Biology",
+  "category": "Physiology",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "adaptation",
+    "biological adaptation",
+    "physiology",
+    "homeostasis",
+    "stress response",
+    "cellular adaptation",
+    "organ adaptation",
+    "exercise adaptation"
+  ],
+  "related_modules": [
+    "BIO-002: Cellular Physiology",
+    "BIO-009: Muscle Physiology",
+    "BIO-014: Exercise and Health"
+  ],
+  "evidence_strength": "Established evidence with ongoing research into molecular details",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
