@@ -10,7 +10,7 @@ CATEGORY: {category}
 Requirements:
 - General adult reading level.
 - At least 8 natural-language customer questions.
-- Retrieval summary of approximately 200–350 words.
+- The retrieval summary must contain at least 220 words and no more than 350 words. It must explain the definition, major mechanisms, practical relevance, limitations, and important related concepts.
 - At least 8 substantial main sections.
 - Each section must stand alone when retrieved in a RAG application.
 - Do not use phrases such as "as discussed above."
