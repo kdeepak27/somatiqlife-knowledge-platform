@@ -1,0 +1,34 @@
+{
+  "module_id": "BIO-051",
+  "title": "The Cardiovascular System",
+  "subtitle": "Heart, blood vessels, circulation, and tissue perfusion",
+  "domain": "Human Biology",
+  "category": "Cardiovascular System",
+  "som_stages": [
+    "Adult Biology"
+  ],
+  "audience": [
+    "General Public",
+    "Students",
+    "Healthcare Enthusiasts"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "heart",
+    "blood vessels",
+    "circulation",
+    "cardiovascular system",
+    "tissue perfusion",
+    "blood pressure",
+    "arteries",
+    "veins"
+  ],
+  "related_modules": [
+    "BIO-032 - Respiratory System",
+    "BIO-060 - Blood and Lymphatic Systems",
+    "BIO-070 - Human Physiology Overview"
+  ],
+  "evidence_strength": "Established evidence from standard human biology and physiology literature",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

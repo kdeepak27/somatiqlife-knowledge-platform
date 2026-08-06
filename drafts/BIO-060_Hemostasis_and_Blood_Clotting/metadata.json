@@ -1,0 +1,34 @@
+{
+  "module_id": "BIO-060",
+  "title": "Hemostasis and Blood Clotting",
+  "subtitle": "How the body limits bleeding while preserving circulation",
+  "domain": "Human Biology",
+  "category": "Hematology",
+  "som_stages": [
+    "Healthy Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Students",
+    "Health Educators"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "hemostasis",
+    "blood clotting",
+    "platelets",
+    "coagulation",
+    "fibrinolysis",
+    "bleeding",
+    "thrombosis",
+    "vascular injury"
+  ],
+  "related_modules": [
+    "BIO-030-Blood-Cells-and-Functions",
+    "BIO-045-Cardiovascular-Physiology",
+    "BIO-080-Liver-Function-and-Coagulation-Factors"
+  ],
+  "evidence_strength": "Established scientific knowledge and clinical consensus",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
