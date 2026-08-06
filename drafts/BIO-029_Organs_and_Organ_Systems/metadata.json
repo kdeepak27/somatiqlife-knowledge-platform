@@ -1,0 +1,32 @@
+{
+  "module_id": "BIO-029",
+  "title": "Organs and Organ Systems",
+  "subtitle": "How tissues combine into coordinated functional units",
+  "domain": "Human Biology",
+  "category": "Anatomy and Physiology",
+  "som_stages": [
+    "Adult Learning"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Organ",
+    "Organ system",
+    "Tissue",
+    "Human biology",
+    "Physiology",
+    "Anatomy",
+    "Functional units",
+    "Body systems"
+  ],
+  "related_modules": [
+    "BIO-015 Tissue Types and Functions",
+    "BIO-032 Human Cardiovascular System",
+    "BIO-045 Respiratory Physiology"
+  ],
+  "evidence_strength": "Established scientific consensus based on classical human anatomy and physiology knowledge",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
