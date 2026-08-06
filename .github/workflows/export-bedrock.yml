@@ -1,37 +1,21 @@
 name: Build Bedrock export
-
-on:
-  workflow_dispatch:
-
+on: {workflow_dispatch: {}}
 permissions:
   contents: write
-
 jobs:
   export:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Build Bedrock export
-        run: python scripts/export_bedrock.py
-
+      - uses: actions/checkout@v6
+        with: {fetch-depth: 0}
+      - uses: actions/setup-python@v6
+        with: {python-version: "3.12"}
+      - run: python -m scripts.export
       - name: Commit export
         run: |
           git config user.name "somatiq-content-bot"
           git config user.email "somatiq-content-bot@users.noreply.github.com"
           git add bedrock-export
-
-          if git diff --cached --quiet; then
-            echo "No export changes."
-            exit 0
-          fi
-
+          if git diff --cached --quiet; then echo "No export changes."; exit 0; fi
           git commit -m "Refresh Bedrock export"
           git push

@@ -1,0 +1,54 @@
+from __future__ import annotations
+from pydantic import BaseModel, ConfigDict
+
+class StrictModel(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+class Section(StrictModel):
+    heading: str
+    content: str
+class Misconception(StrictModel):
+    misconception: str
+    reality: str
+class GlossaryItem(StrictModel):
+    term: str
+    definition: str
+class Illustration(StrictModel):
+    illustration_id: str
+    title: str
+    illustration_type: str
+    description: str
+    alt_text: str
+class Reference(StrictModel):
+    title: str
+    organization_or_authors: str
+    year: str
+    identifier: str
+    verification_status: str
+class ModuleContent(StrictModel):
+    module_id: str
+    title: str
+    subtitle: str
+    domain: str
+    category: str
+    som_stages: list[str]
+    audience: list[str]
+    reading_level: str
+    keywords: list[str]
+    customer_questions: list[str]
+    retrieval_summary: str
+    learning_objectives: list[str]
+    definition: str
+    why_this_matters: str
+    sections: list[Section]
+    practical_guidance: list[str]
+    safety_notes: list[str]
+    misconceptions: list[Misconception]
+    clinical_pearls: list[str]
+    key_takeaways: list[str]
+    glossary: list[GlossaryItem]
+    related_modules: list[str]
+    illustrations: list[Illustration]
+    references: list[Reference]
+    evidence_strength: str
+    version: str
+    review_status: str

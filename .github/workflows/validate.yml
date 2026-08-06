@@ -1,0 +1,31 @@
+name: Validate SOMatiq Studio V2
+on:
+  workflow_dispatch:
+    inputs:
+      model:
+        description: Model to verify
+        required: true
+        default: gpt-4.1-mini
+        type: string
+  push:
+    branches: [main]
+    paths: ["somatiq/**", "scripts/**", "tests/**", "requirements.txt", "pyproject.toml", ".github/workflows/**"]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: pytest -q
+      - name: Verify API key and model access
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ inputs.model }}
+        run: python -m scripts.doctor
