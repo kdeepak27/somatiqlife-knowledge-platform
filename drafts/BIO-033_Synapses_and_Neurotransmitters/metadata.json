@@ -1,0 +1,33 @@
+{
+  "module_id": "BIO-033",
+  "title": "Synapses and Neurotransmitters",
+  "subtitle": "How neurons communicate across neural networks",
+  "domain": "Human Biology",
+  "category": "Neuroscience",
+  "som_stages": [
+    "Cellular Level",
+    "Tissue Level"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "synapse",
+    "neurotransmitter",
+    "neuron communication",
+    "neural networks",
+    "chemical signaling",
+    "electrical synapse",
+    "receptor",
+    "synaptic cleft"
+  ],
+  "related_modules": [
+    "BIO-005 Neurons and Neural Circuits",
+    "BIO-034 Neuropharmacology",
+    "BIO-022 Brain Structure and Function"
+  ],
+  "evidence_strength": "Established evidence with ongoing research advances",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

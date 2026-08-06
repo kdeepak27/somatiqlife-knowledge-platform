@@ -1,0 +1,35 @@
+{
+  "module_id": "BIO-031",
+  "title": "The Nervous System",
+  "subtitle": "Organization, signaling, sensation, movement, and control",
+  "domain": "Human Biology",
+  "category": "Nervous System",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General public",
+    "Students",
+    "Healthcare learners"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "nervous system",
+    "neurons",
+    "brain",
+    "spinal cord",
+    "sensory receptors",
+    "motor control",
+    "neurotransmitters",
+    "reflexes"
+  ],
+  "related_modules": [
+    "BIO-028 Human Anatomy",
+    "BIO-029 Muscle Physiology",
+    "BIO-034 Sensory Systems",
+    "BIO-035 Autonomic Nervous System"
+  ],
+  "evidence_strength": "well established",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
