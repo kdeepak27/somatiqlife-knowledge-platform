@@ -1,0 +1,34 @@
+{
+  "module_id": "BIO-091",
+  "title": "The Musculoskeletal System",
+  "subtitle": "Bones, joints, muscles, tendons, and coordinated movement",
+  "domain": "Human Biology",
+  "category": "Musculoskeletal System",
+  "som_stages": [
+    "adult"
+  ],
+  "audience": [
+    "general public",
+    "students",
+    "health educators"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "musculoskeletal system",
+    "bones",
+    "joints",
+    "muscles",
+    "tendons",
+    "movement",
+    "anatomy",
+    "physiology"
+  ],
+  "related_modules": [
+    "BIO-045 Muscular System Function",
+    "BIO-072 Human Skeletal Anatomy",
+    "BIO-083 Connective Tissue and Ligaments"
+  ],
+  "evidence_strength": "Established foundational knowledge supported by anatomical and physiological research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
