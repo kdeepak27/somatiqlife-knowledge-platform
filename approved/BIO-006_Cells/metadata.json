@@ -1,0 +1,31 @@
+{
+  "module_id": "BIO-006",
+  "title": "Cells",
+  "subtitle": "The fundamental units of human life",
+  "domain": "Human Biology",
+  "category": "Cell Biology",
+  "som_stages": [
+    "All stages"
+  ],
+  "audience": [
+    "General adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "cells",
+    "cell structure",
+    "cell functions",
+    "cell biology",
+    "human body",
+    "cell division",
+    "organelles"
+  ],
+  "related_modules": [
+    "BIO-007: Stem Cells and Regeneration",
+    "BIO-008: Cell Signaling and Communication",
+    "BIO-009: Genetics and Cellular Function"
+  ],
+  "evidence_strength": "Established scientific consensus",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
