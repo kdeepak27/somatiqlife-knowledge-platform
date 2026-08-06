@@ -1,0 +1,36 @@
+{
+  "module_id": "BIO-079",
+  "title": "Kidney Structure and Filtration",
+  "subtitle": "Nephrons, glomeruli, and the first stage of urine formation",
+  "domain": "Human Biology",
+  "category": "Renal Physiology",
+  "som_stages": [
+    "Anatomical Understanding",
+    "Physiological Mechanisms"
+  ],
+  "audience": [
+    "General Public",
+    "Students",
+    "Health Professionals"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "kidney",
+    "nephron",
+    "glomerulus",
+    "urine formation",
+    "renal filtration",
+    "Bowman's capsule",
+    "glomerular filtration rate",
+    "renal physiology"
+  ],
+  "related_modules": [
+    "BIO-080 Renal Tubular Function",
+    "BIO-081 Kidney Diseases and Disorders",
+    "BIO-082 Fluid and Electrolyte Balance",
+    "BIO-078 Cardiovascular Impact on Kidney Function"
+  ],
+  "evidence_strength": "Established evidence from human anatomical and physiological research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
