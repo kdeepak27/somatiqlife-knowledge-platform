@@ -1,0 +1,31 @@
+{
+  "module_id": "BIO-013",
+  "title": "Carbohydrates",
+  "subtitle": "Structure, biological roles, storage, and metabolism",
+  "domain": "Human Biology",
+  "category": "Biochemistry",
+  "som_stages": [
+    "Basic Science"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "carbohydrates",
+    "sugars",
+    "polysaccharides",
+    "metabolism",
+    "energy storage",
+    "glycolysis",
+    "glycogen"
+  ],
+  "related_modules": [
+    "BIO-014-Metabolism",
+    "BIO-015-Enzymes",
+    "BIO-016-Nutrition"
+  ],
+  "evidence_strength": "Established evidence for biochemical roles and metabolism; practical nutritional guidance based on consensus guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,33 @@
+{
+  "module_id": "BIO-015",
+  "title": "Nucleic Acids",
+  "subtitle": "DNA, RNA, nucleotides, and information transfer",
+  "domain": "Human Biology",
+  "category": "Biochemistry",
+  "som_stages": [
+    "Foundations",
+    "Cellular Mechanisms"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "DNA",
+    "RNA",
+    "nucleotides",
+    "genetic information",
+    "protein synthesis",
+    "gene expression",
+    "molecular biology",
+    "genetics"
+  ],
+  "related_modules": [
+    "BIO-010-Cell-Biology",
+    "BIO-020-Genetics",
+    "BIO-025-Protein-Synthesis"
+  ],
+  "evidence_strength": "Established scientific knowledge",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
