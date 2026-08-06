@@ -1,0 +1,35 @@
+{
+  "module_id": "BIO-017",
+  "title": "ATP and Cellular Energy",
+  "subtitle": "How cells capture, store, and spend usable energy",
+  "domain": "Human Biology",
+  "category": "Bioenergetics",
+  "som_stages": [
+    "Adult Education",
+    "Higher Education"
+  ],
+  "audience": [
+    "General Public",
+    "Students",
+    "Health Professionals"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "ATP",
+    "Adenosine Triphosphate",
+    "Cellular Energy",
+    "Bioenergetics",
+    "Energy Metabolism",
+    "Mitochondria",
+    "Cellular Respiration",
+    "Energy Storage"
+  ],
+  "related_modules": [
+    "BIO-005 Cellular Metabolism",
+    "BIO-023 Mitochondrial Function and Disease",
+    "BIO-011 Muscle Physiology and Energy Use"
+  ],
+  "evidence_strength": "Established scientific understanding with ongoing research developments",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

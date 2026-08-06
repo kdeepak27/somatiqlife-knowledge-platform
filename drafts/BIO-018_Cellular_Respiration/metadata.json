@@ -1,0 +1,32 @@
+{
+  "module_id": "BIO-018",
+  "title": "Cellular Respiration",
+  "subtitle": "How nutrients and oxygen are converted into ATP",
+  "domain": "Human Biology",
+  "category": "Bioenergetics",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "ATP",
+    "Cellular respiration",
+    "Glycolysis",
+    "Krebs cycle",
+    "Electron transport chain",
+    "Mitochondria",
+    "Aerobic metabolism",
+    "Anaerobic metabolism"
+  ],
+  "related_modules": [
+    "BIO-010 Cell Metabolism",
+    "BIO-025 Mitochondrial Function and Dysfunction",
+    "BIO-030 Muscle Physiology"
+  ],
+  "evidence_strength": "Established scientific consensus",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
