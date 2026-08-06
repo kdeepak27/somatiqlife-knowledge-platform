@@ -1,0 +1,34 @@
+{
+  "module_id": "BIO-002",
+  "title": "The Human Body as an Integrated System",
+  "subtitle": "How biological systems communicate and cooperate",
+  "domain": "Human Biology",
+  "category": "Systems Biology",
+  "som_stages": [
+    "adult"
+  ],
+  "audience": [
+    "general public",
+    "adult learners"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "human body",
+    "biological systems",
+    "homeostasis",
+    "cell communication",
+    "nervous system",
+    "endocrine system",
+    "immune system",
+    "circulatory system",
+    "integration"
+  ],
+  "related_modules": [
+    "BIO-001 Human Cell Structure and Function",
+    "BIO-003 Body Systems and Disease",
+    "BIO-004 Physiology of Organ Systems"
+  ],
+  "evidence_strength": "Established scientific consensus with supporting peer-reviewed literature",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
