@@ -12,7 +12,7 @@ on:
       module_count:
         description: Number of pending modules to generate
         required: true
-        default: "5"
+        default: "10"
         type: choice
         options:
           - "1"
