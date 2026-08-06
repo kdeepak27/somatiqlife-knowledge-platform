@@ -1,0 +1,33 @@
+{
+  "module_id": "BIO-023",
+  "title": "Stem Cells",
+  "subtitle": "Self-renewal, differentiation, and tissue maintenance",
+  "domain": "Human Biology",
+  "category": "Regenerative Biology",
+  "som_stages": [
+    "basic understanding",
+    "clinical application awareness"
+  ],
+  "audience": [
+    "general adult"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "stem cells",
+    "self-renewal",
+    "differentiation",
+    "tissue maintenance",
+    "regenerative medicine",
+    "cell therapy",
+    "plasticity",
+    "adult stem cells"
+  ],
+  "related_modules": [
+    "BIO-017 Cellular Biology Basics",
+    "BIO-031 Tissue Regeneration",
+    "MED-102 Regenerative Medicine"
+  ],
+  "evidence_strength": "Established evidence with ongoing research on clinical applications and safety.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
