@@ -1,0 +1,33 @@
+{
+  "module_id": "BIO-081",
+  "title": "Fluid and Electrolyte Balance",
+  "subtitle": "Water, sodium, potassium, and osmotic regulation",
+  "domain": "Human Biology",
+  "category": "Renal Physiology",
+  "som_stages": [
+    "Adult Health Maintenance"
+  ],
+  "audience": [
+    "General Adult Audience"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Fluid balance",
+    "Electrolytes",
+    "Sodium",
+    "Potassium",
+    "Osmosis",
+    "Kidney function",
+    "Homeostasis",
+    "Renal physiology"
+  ],
+  "related_modules": [
+    "BIO-065 - Renal Anatomy and Physiology",
+    "BIO-090 - Acid-Base Balance",
+    "BIO-073 - Cardiovascular Physiology",
+    "BIO-102 - Endocrine Regulation"
+  ],
+  "evidence_strength": "Well-established scientific consensus with clinical corroboration",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

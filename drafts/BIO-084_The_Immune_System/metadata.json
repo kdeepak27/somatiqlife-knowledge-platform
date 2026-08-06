@@ -1,0 +1,32 @@
+{
+  "module_id": "BIO-084",
+  "title": "The Immune System",
+  "subtitle": "Innate and adaptive defense, surveillance, and regulation",
+  "domain": "Human Biology",
+  "category": "Immune System",
+  "som_stages": [
+    "adult"
+  ],
+  "audience": [
+    "general adult"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "immune system",
+    "innate immunity",
+    "adaptive immunity",
+    "immune surveillance",
+    "immune regulation",
+    "immune cells",
+    "pathogens",
+    "inflammation"
+  ],
+  "related_modules": [
+    "BIO-073 Immunity and Infection",
+    "BIO-077 Vaccines and Immunization",
+    "BIO-080 Autoimmune Disorders"
+  ],
+  "evidence_strength": "well-established with emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
