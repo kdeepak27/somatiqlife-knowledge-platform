@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-177",
+  "title": "Concurrent Training",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for concurrent training",
+  "domain": "Exercise",
+  "category": "Programming and Recovery",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "Fitness enthusiasts",
+    "Personal trainers",
+    "Physical therapists",
+    "Athletes",
+    "Exercise physiologists"
+  ],
+  "reading_level": "Intermediate (health literate)",
+  "keywords": [
+    "concurrent training",
+    "exercise programming",
+    "endurance and strength",
+    "training interference",
+    "muscle hypertrophy",
+    "cardiovascular fitness",
+    "exercise progression",
+    "training safety"
+  ],
+  "related_modules": [
+    "EXE-023",
+    "EXE-087",
+    "EXE-154"
+  ],
+  "evidence_strength": "Established evidence with some moderate and emerging evidence regarding molecular mechanisms and programming optimization.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-176",
+  "title": "Exercise Program Design",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise program design",
+  "domain": "Exercise",
+  "category": "Programming and Recovery",
+  "som_stages": [
+    "Initiation",
+    "Adaptation",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Fitness Professionals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "exercise program",
+    "training design",
+    "progression",
+    "safety",
+    "physiology",
+    "mechanisms",
+    "recovery",
+    "programming"
+  ],
+  "related_modules": [
+    "EXE-102",
+    "EXE-153",
+    "EXE-181"
+  ],
+  "evidence_strength": "Established evidence with moderate evidence for some population-specific protocols",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
