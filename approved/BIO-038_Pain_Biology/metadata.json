@@ -1,0 +1,32 @@
+{
+  "module_id": "BIO-038",
+  "title": "Pain Biology",
+  "subtitle": "Nociception, pain perception, sensitization, and modulation",
+  "domain": "Human Biology",
+  "category": "Neuroscience",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare professionals",
+    "Students"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Pain",
+    "Nociception",
+    "Neuroscience",
+    "Sensitization",
+    "Pain modulation",
+    "Neurobiology"
+  ],
+  "related_modules": [
+    "BIO-039 - Chronic Pain Mechanisms",
+    "BIO-040 - Neurotransmitters and Pain",
+    "BIO-041 - Psychological Aspects of Pain"
+  ],
+  "evidence_strength": "Established scientific understanding with ongoing research developments",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

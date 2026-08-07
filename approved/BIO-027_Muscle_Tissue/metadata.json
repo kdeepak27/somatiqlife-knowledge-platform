@@ -1,0 +1,33 @@
+{
+  "module_id": "BIO-027",
+  "title": "Muscle Tissue",
+  "subtitle": "Skeletal, cardiac, and smooth muscle biology",
+  "domain": "Human Biology",
+  "category": "Histology",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "Students",
+    "Healthcare professionals",
+    "General public"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "muscle tissue",
+    "skeletal muscle",
+    "cardiac muscle",
+    "smooth muscle",
+    "muscle contraction",
+    "histology",
+    "muscle fibers"
+  ],
+  "related_modules": [
+    "BIO-015 Neuromuscular Junction",
+    "BIO-042 Cardiovascular Physiology",
+    "BIO-030 Cellular Metabolism"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

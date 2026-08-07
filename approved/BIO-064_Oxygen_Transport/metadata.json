@@ -1,0 +1,35 @@
+{
+  "module_id": "BIO-064",
+  "title": "Oxygen Transport",
+  "subtitle": "Hemoglobin, blood oxygen content, and tissue delivery",
+  "domain": "Human Biology",
+  "category": "Respiratory Physiology",
+  "som_stages": [
+    "Physiology Understanding",
+    "Clinical Application"
+  ],
+  "audience": [
+    "General Public",
+    "Students",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Oxygen transport",
+    "Hemoglobin",
+    "Blood oxygen content",
+    "Tissue oxygen delivery",
+    "Respiratory physiology",
+    "Oxygen saturation",
+    "Oxygen dissociation curve",
+    "Carbon dioxide transport"
+  ],
+  "related_modules": [
+    "BIO-063_Respiratory_Gas_Exchange",
+    "BIO-070_Blood_Gases_and_Acid-Base_Balance",
+    "BIO-081_Cardiovascular_Physiology"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,33 @@
+{
+  "module_id": "BIO-090",
+  "title": "Immune Tolerance and Autoimmunity",
+  "subtitle": "How the immune system distinguishes self from threat",
+  "domain": "Human Biology",
+  "category": "Immunology",
+  "som_stages": [
+    "Understanding",
+    "Managing"
+  ],
+  "audience": [
+    "General adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "immune tolerance",
+    "autoimmunity",
+    "immune system",
+    "self recognition",
+    "autoimmune diseases",
+    "immune response",
+    "immune regulation",
+    "immunology"
+  ],
+  "related_modules": [
+    "BIO-085_The_Immune_System_Basics",
+    "BIO-100_Autoimmune_Diseases_Overview",
+    "BIO-110_Immunotherapy_Principles"
+  ],
+  "evidence_strength": "Established evidence with emerging research insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

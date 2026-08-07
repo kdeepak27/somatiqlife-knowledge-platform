@@ -1,0 +1,35 @@
+{
+  "module_id": "BIO-044",
+  "title": "Thyroid Physiology",
+  "subtitle": "Thyroid hormones, metabolism, growth, and temperature regulation",
+  "domain": "Human Biology",
+  "category": "Endocrinology",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Students"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "thyroid gland",
+    "thyroid hormones",
+    "metabolism",
+    "growth",
+    "temperature regulation",
+    "endocrinology",
+    "thyroxine",
+    "triiodothyronine",
+    "TSH"
+  ],
+  "related_modules": [
+    "BIO-025 - Endocrine System Overview",
+    "BIO-054 - Metabolic Regulation and Hormones",
+    "BIO-032 - Autoimmune Diseases"
+  ],
+  "evidence_strength": "Established evidence from endocrinology literature",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

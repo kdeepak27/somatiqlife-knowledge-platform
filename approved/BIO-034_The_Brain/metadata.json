@@ -1,0 +1,32 @@
+{
+  "module_id": "BIO-034",
+  "title": "The Brain",
+  "subtitle": "Major structures, functions, integration, and plasticity",
+  "domain": "Human Biology",
+  "category": "Neuroscience",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Brain anatomy",
+    "Neuroscience",
+    "Neuroplasticity",
+    "Brain functions",
+    "Cognitive integration",
+    "Neural pathways",
+    "Synaptic plasticity",
+    "Brain health"
+  ],
+  "related_modules": [
+    "BIO-012_Nervous_System_Basics",
+    "BIO-045_Neurological_Disorders",
+    "BIO-052_Neuropharmacology"
+  ],
+  "evidence_strength": "Established evidence with ongoing research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,35 @@
+{
+  "module_id": "BIO-020",
+  "title": "Cell Communication",
+  "subtitle": "Receptors, signaling pathways, and coordinated cellular responses",
+  "domain": "Human Biology",
+  "category": "Cell Biology",
+  "som_stages": [
+    "All Adults"
+  ],
+  "audience": [
+    "General Public",
+    "Students",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "cell communication",
+    "receptors",
+    "signaling pathways",
+    "cell signaling",
+    "cellular response",
+    "second messengers",
+    "signal transduction",
+    "ligands",
+    "cell biology"
+  ],
+  "related_modules": [
+    "BIO-001: Cell Structure and Function",
+    "BIO-025: Immune System Signaling",
+    "BIO-030: Molecular Basis of Cancer"
+  ],
+  "evidence_strength": "Established scientific understanding with continuing research developments",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

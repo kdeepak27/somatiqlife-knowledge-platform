@@ -1,0 +1,33 @@
+{
+  "module_id": "BIO-025",
+  "title": "Epithelial Tissue",
+  "subtitle": "Barriers, absorption, secretion, and protection",
+  "domain": "Human Biology",
+  "category": "Histology",
+  "som_stages": [
+    "biology-foundation",
+    "human-anatomy"
+  ],
+  "audience": [
+    "general-adult"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "epithelial tissue",
+    "barrier function",
+    "absorption",
+    "secretion",
+    "histology",
+    "protection",
+    "cell junctions",
+    "basement membrane"
+  ],
+  "related_modules": [
+    "BIO-010-Connective-Tissue",
+    "BIO-030-Cell-Biology-Basics",
+    "BIO-035-Histological-Techniques"
+  ],
+  "evidence_strength": "established scientific consensus",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

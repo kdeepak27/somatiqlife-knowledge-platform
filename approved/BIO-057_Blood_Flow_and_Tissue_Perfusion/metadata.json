@@ -1,0 +1,34 @@
+{
+  "module_id": "BIO-057",
+  "title": "Blood Flow and Tissue Perfusion",
+  "subtitle": "How circulation delivers oxygen and nutrients to tissues",
+  "domain": "Human Biology",
+  "category": "Cardiovascular Physiology",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Students",
+    "Healthcare Learners"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "blood flow",
+    "tissue perfusion",
+    "oxygen delivery",
+    "nutrient transport",
+    "cardiovascular system",
+    "capillaries",
+    "hemodynamics",
+    "vascular resistance"
+  ],
+  "related_modules": [
+    "BIO-012 cardiovascular system overview",
+    "BIO-034 oxygen transport and hemoglobin",
+    "BIO-066 microcirculation and endothelial function"
+  ],
+  "evidence_strength": "Established evidence with emerging insights in microvascular research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

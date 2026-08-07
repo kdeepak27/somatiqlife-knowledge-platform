@@ -1,0 +1,32 @@
+{
+  "module_id": "BIO-093",
+  "title": "Muscle Contraction",
+  "subtitle": "Actin, myosin, calcium, ATP, and force production",
+  "domain": "Human Biology",
+  "category": "Muscle Physiology",
+  "som_stages": [
+    "Mature Adult"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "muscle contraction",
+    "actin",
+    "myosin",
+    "calcium",
+    "ATP",
+    "force production",
+    "cross-bridge cycle",
+    "sarcomere"
+  ],
+  "related_modules": [
+    "BIO-042-Muscle-Energy-Metabolism",
+    "BIO-055-Neuromuscular-Signaling",
+    "BIO-067-Muscle-Fatigue-and-Recovery"
+  ],
+  "evidence_strength": "Established scientific consensus",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

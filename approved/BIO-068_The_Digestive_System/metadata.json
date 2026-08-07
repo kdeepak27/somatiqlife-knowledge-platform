@@ -1,0 +1,35 @@
+{
+  "module_id": "BIO-068",
+  "title": "The Digestive System",
+  "subtitle": "Digestion, absorption, motility, and gastrointestinal regulation",
+  "domain": "Human Biology",
+  "category": "Digestive System",
+  "som_stages": [
+    "adult"
+  ],
+  "audience": [
+    "general public",
+    "students"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "digestion",
+    "absorption",
+    "gastrointestinal motility",
+    "digestive enzymes",
+    "nutrient absorption",
+    "gastrointestinal regulation",
+    "stomach",
+    "small intestine",
+    "large intestine"
+  ],
+  "related_modules": [
+    "BIO-065: Human Anatomy and Physiology Overview",
+    "BIO-070: The Endocrine System",
+    "BIO-072: The Immune System",
+    "BIO-075: Nutrition and Metabolism"
+  ],
+  "evidence_strength": "Established physiological knowledge with emerging research areas noted",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

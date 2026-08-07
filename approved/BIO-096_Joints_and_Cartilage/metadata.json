@@ -1,0 +1,34 @@
+{
+  "module_id": "BIO-096",
+  "title": "Joints and Cartilage",
+  "subtitle": "Movement, stability, lubrication, and load distribution",
+  "domain": "Human Biology",
+  "category": "Musculoskeletal Biology",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare learners",
+    "Health educators"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "joint anatomy",
+    "cartilage",
+    "synovial fluid",
+    "joint stability",
+    "load distribution",
+    "joint lubrication",
+    "osteoarthritis",
+    "cartilage damage"
+  ],
+  "related_modules": [
+    "BIO-045 Bone Biology and Health",
+    "BIO-078 Muscle Structure and Function",
+    "BIO-089 Musculoskeletal Disorders and Rehabilitation"
+  ],
+  "evidence_strength": "Established scientific understanding with ongoing research in cartilage repair therapies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

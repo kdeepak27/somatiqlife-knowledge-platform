@@ -1,0 +1,34 @@
+{
+  "module_id": "BIO-050",
+  "title": "Circadian Biology",
+  "subtitle": "Biological clocks, light, timing, and daily physiological rhythms",
+  "domain": "Human Biology",
+  "category": "Chronobiology",
+  "som_stages": [
+    "Adult Health Maintenance"
+  ],
+  "audience": [
+    "General Adult Public",
+    "Health Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Circadian rhythms",
+    "Biological clock",
+    "Chronobiology",
+    "Suprachiasmatic nucleus",
+    "Melatonin",
+    "Light exposure",
+    "Sleep-wake cycle",
+    "Chronotherapy"
+  ],
+  "related_modules": [
+    "BIO-030 Sleep Physiology",
+    "BIO-055 Endocrine Regulation",
+    "BIO-060 Neurobiology of Behavior"
+  ],
+  "evidence_strength": "Established evidence from animal and human research supports circadian clocks as fundamental biological timing mechanisms with clear health implications, though nuances of individual variation and peripheral clock interactions remain active research areas.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

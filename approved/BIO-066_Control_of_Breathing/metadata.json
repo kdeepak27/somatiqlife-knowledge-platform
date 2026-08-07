@@ -1,0 +1,34 @@
+{
+  "module_id": "BIO-066",
+  "title": "Control of Breathing",
+  "subtitle": "Brainstem, chemoreceptors, mechanics, and behavioral influences",
+  "domain": "Human Biology",
+  "category": "Respiratory Physiology",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Students",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "breathing control",
+    "respiratory physiology",
+    "brainstem",
+    "chemoreceptors",
+    "lung mechanics",
+    "behavioral influences",
+    "respiratory centers",
+    "ventilation"
+  ],
+  "related_modules": [
+    "BIO-045_Gas_Exchange",
+    "BIO-075_Respiratory_Muscle_Function",
+    "BIO-088_Sleep_Physiology"
+  ],
+  "evidence_strength": "Established evidence with prevailing consensus in respiratory physiology",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,32 @@
+{
+  "module_id": "BIO-089",
+  "title": "Vaccination and Immune Memory",
+  "subtitle": "How controlled antigen exposure builds protection",
+  "domain": "Human Biology",
+  "category": "Immunology",
+  "som_stages": [
+    "Mature Adult"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "vaccination",
+    "immune memory",
+    "antigen exposure",
+    "immune system",
+    "immunologic memory",
+    "immunity",
+    "immunization",
+    "pathogens"
+  ],
+  "related_modules": [
+    "BIO-012 Immunology Fundamentals",
+    "BIO-067 Infectious Diseases and Immunity",
+    "BIO-103 Vaccine Development and Public Health"
+  ],
+  "evidence_strength": "Established scientific consensus with ongoing research in vaccine technologies and immune memory durability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
