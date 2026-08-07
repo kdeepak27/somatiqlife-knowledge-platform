@@ -204,6 +204,56 @@ EXE-102,Exercise Selection for Strength Training,Exercise,Strength Training,1.0,
 EXE-103,Compound Exercises,Exercise,Strength Training,1.0,drafts,drafts/EXE-103_Compound_Exercises/module.json
 EXE-104,Isolation Exercises,Exercise,Strength Training,1.0,drafts,drafts/EXE-104_Isolation_Exercises/module.json
 EXE-105,Free Weights vs Machines,Exercise,Strength Training,1.0,drafts,drafts/EXE-105_Free_Weights_vs_Machines/module.json
+EXE-106,Dumbbell Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-106_Dumbbell_Training/module.json
+EXE-107,Barbell Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-107_Barbell_Training/module.json
+EXE-108,Resistance Band Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-108_Resistance_Band_Training/module.json
+EXE-109,Bodyweight Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-109_Bodyweight_Training/module.json
+EXE-110,Kettlebell Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-110_Kettlebell_Training/module.json
+EXE-111,Cable Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-111_Cable_Training/module.json
+EXE-112,Home Strength Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-112_Home_Strength_Training/module.json
+EXE-113,Gym Strength Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-113_Gym_Strength_Training/module.json
+EXE-114,Full-Body Strength Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-114_Full-Body_Strength_Training/module.json
+EXE-115,Upper-Lower Split Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-115_Upper-Lower_Split_Training/module.json
+EXE-116,Push-Pull-Legs Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-116_Push-Pull-Legs_Training/module.json
+EXE-117,Strength Training Frequency,Exercise,Strength Training,1.0,drafts,drafts/EXE-117_Strength_Training_Frequency/module.json
+EXE-118,Weekly Set Volume,Exercise,Strength Training,1.0,drafts,drafts/EXE-118_Weekly_Set_Volume/module.json
+EXE-119,Progressive Overload for Strength,Exercise,Strength Training,1.0,drafts,drafts/EXE-119_Progressive_Overload_for_Strength/module.json
+EXE-120,Double Progression,Exercise,Strength Training,1.0,drafts,drafts/EXE-120_Double_Progression/module.json
+EXE-121,Deloading,Exercise,Strength Training,1.0,drafts,drafts/EXE-121_Deloading/module.json
+EXE-122,Strength Plateaus,Exercise,Strength Training,1.0,drafts,drafts/EXE-122_Strength_Plateaus/module.json
+EXE-123,Beginner Strength Programs,Exercise,Strength Training,1.0,drafts,drafts/EXE-123_Beginner_Strength_Programs/module.json
+EXE-124,Intermediate Strength Programs,Exercise,Strength Training,1.0,drafts,drafts/EXE-124_Intermediate_Strength_Programs/module.json
+EXE-125,Advanced Strength Programming,Exercise,Strength Training,1.0,drafts,drafts/EXE-125_Advanced_Strength_Programming/module.json
+EXE-126,Strength Training for Women,Exercise,Strength Training,1.0,drafts,drafts/EXE-126_Strength_Training_for_Women/module.json
+EXE-127,Strength Training for Men,Exercise,Strength Training,1.0,drafts,drafts/EXE-127_Strength_Training_for_Men/module.json
+EXE-128,Strength Training After 40,Exercise,Strength Training,1.0,drafts,drafts/EXE-128_Strength_Training_After_40/module.json
+EXE-129,Strength Training After 60,Exercise,Strength Training,1.0,drafts,drafts/EXE-129_Strength_Training_After_60/module.json
+EXE-130,Squat Pattern,Exercise,Strength Training,1.0,drafts,drafts/EXE-130_Squat_Pattern/module.json
+EXE-131,Hip Hinge Pattern,Exercise,Strength Training,1.0,drafts,drafts/EXE-131_Hip_Hinge_Pattern/module.json
+EXE-132,Lunge Pattern,Exercise,Strength Training,1.0,drafts,drafts/EXE-132_Lunge_Pattern/module.json
+EXE-133,Horizontal Push,Exercise,Strength Training,1.0,drafts,drafts/EXE-133_Horizontal_Push/module.json
+EXE-134,Vertical Push,Exercise,Strength Training,1.0,drafts,drafts/EXE-134_Vertical_Push/module.json
+EXE-135,Horizontal Pull,Exercise,Strength Training,1.0,drafts,drafts/EXE-135_Horizontal_Pull/module.json
+EXE-136,Vertical Pull,Exercise,Strength Training,1.0,drafts,drafts/EXE-136_Vertical_Pull/module.json
+EXE-137,Core Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-137_Core_Training/module.json
+EXE-138,Grip Strength,Exercise,Strength Training,1.0,drafts,drafts/EXE-138_Grip_Strength/module.json
+EXE-139,Power Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-139_Power_Training/module.json
+EXE-140,Explosive Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-140_Explosive_Training/module.json
+EXE-141,Mobility,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-141_Mobility/module.json
+EXE-142,Flexibility,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-142_Flexibility/module.json
+EXE-143,Static Stretching,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-143_Static_Stretching/module.json
+EXE-144,Dynamic Stretching,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-144_Dynamic_Stretching/module.json
+EXE-145,Proprioceptive Neuromuscular Facilitation Stretching,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-145_Proprioceptive_Neuromuscular_Facilitation_Stretching/module.json
+EXE-146,Stretching Before Exercise,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-146_Stretching_Before_Exercise/module.json
+EXE-147,Stretching After Exercise,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-147_Stretching_After_Exercise/module.json
+EXE-148,Mobility Training for Beginners,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-148_Mobility_Training_for_Beginners/module.json
+EXE-149,Hip Mobility,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-149_Hip_Mobility/module.json
+EXE-150,Ankle Mobility,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-150_Ankle_Mobility/module.json
+EXE-151,Thoracic Spine Mobility,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-151_Thoracic_Spine_Mobility/module.json
+EXE-152,Shoulder Mobility,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-152_Shoulder_Mobility/module.json
+EXE-153,Balance,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-153_Balance/module.json
+EXE-154,Static Balance Training,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-154_Static_Balance_Training/module.json
+EXE-155,Dynamic Balance Training,Exercise,Mobility and Movement,1.0,drafts,drafts/EXE-155_Dynamic_Balance_Training/module.json
 NUT-001,Fundamentals of Human Nutrition,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-001_Fundamentals_of_Human_Nutrition/module.json
 NUT-002,Nutrients and Energy Balance,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-002_Nutrients_and_Energy_Balance/module.json
 NUT-003,Macronutrients Overview,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-003_Macronutrients_Overview/module.json
