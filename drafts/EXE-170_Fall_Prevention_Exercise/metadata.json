@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-170",
+  "title": "Fall Prevention Exercise",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for fall prevention exercise",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Physical Therapists",
+    "Exercise Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Fall prevention",
+    "Balance training",
+    "Strength training",
+    "Mobility",
+    "Physical therapy",
+    "Exercise progression",
+    "Safety",
+    "Risk factors"
+  ],
+  "related_modules": [
+    "EXE-042",
+    "EXE-115",
+    "EXE-152"
+  ],
+  "evidence_strength": "Strong evidence from randomized controlled trials and systematic reviews supports the effectiveness of multifactorial fall prevention exercise programs incorporating balance and strength training.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

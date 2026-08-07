@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-168",
+  "title": "Sit-to-Stand Ability",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for sit-to-stand ability",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Evaluation",
+    "Intervention",
+    "Monitoring"
+  ],
+  "audience": [
+    "General Public",
+    "Physical Therapists",
+    "Healthcare Providers",
+    "Fitness Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sit-to-stand",
+    "mobility",
+    "functional movement",
+    "exercise progression",
+    "fall prevention",
+    "lower limb strength",
+    "balance",
+    "neuromuscular control"
+  ],
+  "related_modules": [
+    "EXE-045",
+    "EXE-089",
+    "EXE-112"
+  ],
+  "evidence_strength": "Established evidence with emerging modalities",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
