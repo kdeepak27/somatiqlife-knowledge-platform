@@ -104,6 +104,56 @@ EXE-002,Physical Activity vs Exercise,Exercise,Exercise Foundations,1.0,drafts,d
 EXE-003,Health Benefits of Regular Exercise,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-003_Health_Benefits_of_Regular_Exercise/module.json
 EXE-004,Exercise Dose,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-004_Exercise_Dose/module.json
 EXE-005,The FITT Principle,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-005_The_FITT_Principle/module.json
+EXE-006,Exercise Intensity,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-006_Exercise_Intensity/module.json
+EXE-007,Measuring Exercise Intensity,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-007_Measuring_Exercise_Intensity/module.json
+EXE-008,Training Adaptation,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-008_Training_Adaptation/module.json
+EXE-009,Specificity of Training,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-009_Specificity_of_Training/module.json
+EXE-010,Progressive Overload,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-010_Progressive_Overload/module.json
+EXE-011,Recovery and Supercompensation,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-011_Recovery_and_Supercompensation/module.json
+EXE-012,Detraining,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-012_Detraining/module.json
+EXE-013,Individual Variation in Exercise Response,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-013_Individual_Variation_in_Exercise_Response/module.json
+EXE-014,Exercise Readiness,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-014_Exercise_Readiness/module.json
+EXE-015,Exercise Screening,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-015_Exercise_Screening/module.json
+EXE-016,Warm-Up,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-016_Warm-Up/module.json
+EXE-017,Cool-Down,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-017_Cool-Down/module.json
+EXE-018,Exercise Technique,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-018_Exercise_Technique/module.json
+EXE-019,Exercise Progression,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-019_Exercise_Progression/module.json
+EXE-020,Training Volume,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-020_Training_Volume/module.json
+EXE-021,Training Frequency,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-021_Training_Frequency/module.json
+EXE-022,Training Intensity Distribution,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-022_Training_Intensity_Distribution/module.json
+EXE-023,Exercise Consistency,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-023_Exercise_Consistency/module.json
+EXE-024,Exercise Adherence,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-024_Exercise_Adherence/module.json
+EXE-025,Building an Exercise Habit,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-025_Building_an_Exercise_Habit/module.json
+EXE-026,Aerobic Exercise,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-026_Aerobic_Exercise/module.json
+EXE-027,Cardiorespiratory Fitness,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-027_Cardiorespiratory_Fitness/module.json
+EXE-028,VO2 Max,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-028_VO2_Max/module.json
+EXE-029,Submaximal Aerobic Fitness,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-029_Submaximal_Aerobic_Fitness/module.json
+EXE-030,Heart Rate During Exercise,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-030_Heart_Rate_During_Exercise/module.json
+EXE-031,Resting Heart Rate and Fitness,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-031_Resting_Heart_Rate_and_Fitness/module.json
+EXE-032,Heart Rate Zones,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-032_Heart_Rate_Zones/module.json
+EXE-033,Maximum Heart Rate,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-033_Maximum_Heart_Rate/module.json
+EXE-034,Heart Rate Reserve,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-034_Heart_Rate_Reserve/module.json
+EXE-035,Rate of Perceived Exertion,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-035_Rate_of_Perceived_Exertion/module.json
+EXE-036,The Talk Test,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-036_The_Talk_Test/module.json
+EXE-037,Zone 2 Training,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-037_Zone_2_Training/module.json
+EXE-038,Moderate-Intensity Continuous Training,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-038_Moderate-Intensity_Continuous_Training/module.json
+EXE-039,Vigorous Aerobic Exercise,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-039_Vigorous_Aerobic_Exercise/module.json
+EXE-040,Interval Training,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-040_Interval_Training/module.json
+EXE-041,High-Intensity Interval Training,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-041_High-Intensity_Interval_Training/module.json
+EXE-042,Sprint Interval Training,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-042_Sprint_Interval_Training/module.json
+EXE-043,Aerobic Base Building,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-043_Aerobic_Base_Building/module.json
+EXE-044,Lactate Threshold,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-044_Lactate_Threshold/module.json
+EXE-045,Ventilatory Threshold,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-045_Ventilatory_Threshold/module.json
+EXE-046,Stroke Volume and Exercise,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-046_Stroke_Volume_and_Exercise/module.json
+EXE-047,Cardiac Output During Exercise,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-047_Cardiac_Output_During_Exercise/module.json
+EXE-048,Blood Flow During Exercise,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-048_Blood_Flow_During_Exercise/module.json
+EXE-049,Oxygen Delivery During Exercise,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-049_Oxygen_Delivery_During_Exercise/module.json
+EXE-050,Mitochondrial Adaptation to Endurance Training,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-050_Mitochondrial_Adaptation_to_Endurance_Training/module.json
+EXE-051,Capillary Adaptation to Endurance Training,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-051_Capillary_Adaptation_to_Endurance_Training/module.json
+EXE-052,Fat Oxidation During Exercise,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-052_Fat_Oxidation_During_Exercise/module.json
+EXE-053,Carbohydrate Use During Exercise,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-053_Carbohydrate_Use_During_Exercise/module.json
+EXE-054,Exercise Economy,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-054_Exercise_Economy/module.json
+EXE-055,Endurance Training Progression,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-055_Endurance_Training_Progression/module.json
 NUT-001,Fundamentals of Human Nutrition,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-001_Fundamentals_of_Human_Nutrition/module.json
 NUT-002,Nutrients and Energy Balance,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-002_Nutrients_and_Energy_Balance/module.json
 NUT-003,Macronutrients Overview,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-003_Macronutrients_Overview/module.json
