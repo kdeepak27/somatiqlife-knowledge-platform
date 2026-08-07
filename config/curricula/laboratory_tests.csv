@@ -1,0 +1,151 @@
+module_id,title,subtitle,domain,category,status
+LAB-001,Understanding Laboratory Tests,"What understanding laboratory tests measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-002,Reference Ranges,"What reference ranges measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-003,Normal vs Optimal Lab Values,"What normal vs optimal lab values measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-004,Fasting Before Blood Tests,"What fasting before blood tests measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-005,Preparing for Blood Tests,"What preparing for blood tests measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-006,Biological Variation in Lab Results,"What biological variation in lab results measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-007,Lab Measurement Error,"What lab measurement error measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-008,False Positive Lab Results,"What false positive lab results measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-009,False Negative Lab Results,"What false negative lab results measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-010,Repeat Testing,"What repeat testing measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-011,Trending Lab Results Over Time,"What trending lab results over time measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-012,Units in Laboratory Testing,"What units in laboratory testing measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-013,Age and Lab Values,"What age and lab values measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-014,Sex and Lab Values,"What sex and lab values measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-015,Medication Effects on Lab Tests,"What medication effects on lab tests measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lab Testing Foundations,pending
+LAB-016,Complete Blood Count,"What complete blood count measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-017,Hemoglobin,"What hemoglobin measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-018,Hematocrit,"What hematocrit measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-019,Red Blood Cell Count,"What red blood cell count measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-020,Mean Corpuscular Volume,"What mean corpuscular volume measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-021,White Blood Cell Count,"What white blood cell count measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-022,Neutrophils,"What neutrophils measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-023,Lymphocytes,"What lymphocytes measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-024,Platelet Count,"What platelet count measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-025,Ferritin,"What ferritin measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-026,Serum Iron,"What serum iron measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-027,Total Iron-Binding Capacity,"What total iron-binding capacity measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-028,Transferrin Saturation,"What transferrin saturation measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-029,Vitamin B12 Test,"What vitamin b12 test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-030,Folate Test,"What folate test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Blood Count and Iron,pending
+LAB-031,Fasting Glucose,"What fasting glucose measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-032,HbA1c,"What hba1c measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-033,Oral Glucose Tolerance Test,"What oral glucose tolerance test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-034,Random Glucose,"What random glucose measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-035,Fasting Insulin,"What fasting insulin measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-036,C-Peptide,"What c-peptide measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-037,HOMA-IR,"What homa-ir measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-038,Fructosamine,"What fructosamine measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-039,Ketones,"What ketones measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-040,Lactate,"What lactate measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-041,Uric Acid,"What uric acid measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-042,Metabolic Panel,"What metabolic panel measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-043,Anion Gap,"What anion gap measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-044,Bicarbonate,"What bicarbonate measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-045,Serum Osmolality,"What serum osmolality measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Glucose and Metabolism,pending
+LAB-046,Total Cholesterol,"What total cholesterol measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-047,LDL Cholesterol,"What ldl cholesterol measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-048,HDL Cholesterol,"What hdl cholesterol measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-049,Triglycerides,"What triglycerides measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-050,Non-HDL Cholesterol,"What non-hdl cholesterol measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-051,Apolipoprotein B,"What apolipoprotein b measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-052,Lipoprotein(a),"What lipoprotein(a) measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-053,LDL Particle Number,"What ldl particle number measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-054,Small Dense LDL,"What small dense ldl measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-055,High-Sensitivity C-Reactive Protein,"What high-sensitivity c-reactive protein measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-056,Troponin,"What troponin measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-057,BNP and NT-proBNP,"What bnp and nt-probnp measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-058,Homocysteine,"What homocysteine measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-059,Coronary Artery Calcium Score,"What coronary artery calcium score measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-060,Cardiovascular Risk Calculators,"What cardiovascular risk calculators measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Lipids and Cardiovascular,pending
+LAB-061,ALT,"What alt measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-062,AST,"What ast measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-063,Alkaline Phosphatase,"What alkaline phosphatase measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-064,GGT,"What ggt measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-065,Bilirubin,"What bilirubin measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-066,Albumin,"What albumin measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-067,Total Protein,"What total protein measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-068,Creatinine,"What creatinine measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-069,Estimated GFR,"What estimated gfr measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-070,Blood Urea Nitrogen,"What blood urea nitrogen measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-071,Urine Albumin-to-Creatinine Ratio,"What urine albumin-to-creatinine ratio measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-072,Urinalysis,"What urinalysis measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-073,Urine Protein,"What urine protein measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-074,Cystatin C,"What cystatin c measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-075,Kidney Function Trends,"What kidney function trends measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Liver and Kidney,pending
+LAB-076,TSH,"What tsh measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-077,Free T4,"What free t4 measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-078,Free T3,"What free t3 measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-079,Thyroid Peroxidase Antibodies,"What thyroid peroxidase antibodies measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-080,Thyroglobulin Antibodies,"What thyroglobulin antibodies measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-081,Cortisol Test,"What cortisol test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-082,Testosterone Test,"What testosterone test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-083,Free Testosterone,"What free testosterone measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-084,Estradiol,"What estradiol measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-085,Progesterone,"What progesterone measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-086,FSH,"What fsh measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-087,LH,"What lh measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-088,Prolactin,"What prolactin measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-089,DHEA-S,"What dhea-s measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-090,SHBG,"What shbg measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Thyroid and Hormones,pending
+LAB-091,25-Hydroxy Vitamin D,"What 25-hydroxy vitamin d measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-092,Serum Calcium,"What serum calcium measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-093,Ionized Calcium,"What ionized calcium measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-094,Parathyroid Hormone,"What parathyroid hormone measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-095,Magnesium Test,"What magnesium test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-096,Phosphate Test,"What phosphate test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-097,Zinc Test,"What zinc test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-098,Copper Test,"What copper test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-099,Selenium Test,"What selenium test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-100,Iodine Testing,"What iodine testing measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-101,Bone Density Scan,"What bone density scan measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-102,T-Score,"What t-score measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-103,Z-Score,"What z-score measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-104,Vitamin A Test,"What vitamin a test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-105,Vitamin E Test,"What vitamin e test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,pending
+LAB-106,C-Reactive Protein,"What c-reactive protein measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-107,Erythrocyte Sedimentation Rate,"What erythrocyte sedimentation rate measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-108,ANA Test,"What ana test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-109,Rheumatoid Factor,"What rheumatoid factor measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-110,Anti-CCP Antibodies,"What anti-ccp antibodies measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-111,Immunoglobulin Levels,"What immunoglobulin levels measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-112,Complement Levels,"What complement levels measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-113,Celiac Antibody Testing,"What celiac antibody testing measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-114,Allergy IgE Testing,"What allergy ige testing measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-115,HIV Testing,"What hiv testing measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-116,Hepatitis B Testing,"What hepatitis b testing measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-117,Hepatitis C Testing,"What hepatitis c testing measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-118,Inflammatory Marker Interpretation,"What inflammatory marker interpretation measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-119,Autoimmune Test False Positives,"What autoimmune test false positives measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-120,When Inflammation Tests Are Useful,"What when inflammation tests are useful measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Inflammation and Immunity,pending
+LAB-121,PSA Test,"What psa test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-122,CA-125,"What ca-125 measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-123,CEA,"What cea measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-124,AFP,"What afp measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-125,CA 19-9,"What ca 19-9 measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-126,Cancer Biomarkers Overview,"What cancer biomarkers overview measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-127,Tumor Markers and Screening,"What tumor markers and screening measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-128,HPV Testing,"What hpv testing measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-129,Fecal Immunochemical Test,"What fecal immunochemical test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-130,Cologuard,"What cologuard measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-131,Pap Test,"What pap test measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-132,Mammography,"What mammography measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-133,Low-Dose CT Screening,"What low-dose ct screening measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-134,Genetic Cancer Testing,"What genetic cancer testing measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-135,Liquid Biopsy Basics,"What liquid biopsy basics measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,pending
+LAB-136,Continuous Glucose Monitoring,"What continuous glucose monitoring measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending
+LAB-137,Home Blood Pressure Monitoring,"What home blood pressure monitoring measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending
+LAB-138,Home Cholesterol Tests,"What home cholesterol tests measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending
+LAB-139,Home HbA1c Tests,"What home hba1c tests measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending
+LAB-140,Home Sleep Tests,"What home sleep tests measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending
+LAB-141,Genetic Testing,"What genetic testing measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending
+LAB-142,Direct-to-Consumer Genetic Tests,"What direct-to-consumer genetic tests measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending
+LAB-143,Microbiome Tests,"What microbiome tests measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending
+LAB-144,Food Sensitivity Tests,"What food sensitivity tests measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending
+LAB-145,Biological Age Tests,"What biological age tests measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending
+LAB-146,Telomere Tests,"What telomere tests measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending
+LAB-147,Hormone Panels,"What hormone panels measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending
+LAB-148,Wellness Lab Panels,"What wellness lab panels measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending
+LAB-149,When More Testing Is Not Better,"What when more testing is not better measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending
+LAB-150,Building a Personal Lab Monitoring Plan,"What building a personal lab monitoring plan measures, how to interpret it, limitations, and when it is clinically useful.",Laboratory Tests and Biomarkers,Advanced and Consumer Testing,pending

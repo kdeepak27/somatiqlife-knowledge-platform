@@ -1,0 +1,101 @@
+module_id,title,subtitle,domain,category,status
+CHD-001,Healthy Growth in Children,"Age-appropriate evidence, prevention, and practical guidance related to healthy growth in children.",Children and Adolescents,Growth and Development,pending
+CHD-002,Child Development Milestones,"Age-appropriate evidence, prevention, and practical guidance related to child development milestones.",Children and Adolescents,Growth and Development,pending
+CHD-003,Adolescent Development,"Age-appropriate evidence, prevention, and practical guidance related to adolescent development.",Children and Adolescents,Growth and Development,pending
+CHD-004,Puberty,"Age-appropriate evidence, prevention, and practical guidance related to puberty.",Children and Adolescents,Growth and Development,pending
+CHD-005,Growth Spurts,"Age-appropriate evidence, prevention, and practical guidance related to growth spurts.",Children and Adolescents,Growth and Development,pending
+CHD-006,Healthy Weight in Children,"Age-appropriate evidence, prevention, and practical guidance related to healthy weight in children.",Children and Adolescents,Growth and Development,pending
+CHD-007,Body Image in Children,"Age-appropriate evidence, prevention, and practical guidance related to body image in children.",Children and Adolescents,Growth and Development,pending
+CHD-008,Body Image in Adolescents,"Age-appropriate evidence, prevention, and practical guidance related to body image in adolescents.",Children and Adolescents,Growth and Development,pending
+CHD-009,Pediatric Preventive Care,"Age-appropriate evidence, prevention, and practical guidance related to pediatric preventive care.",Children and Adolescents,Growth and Development,pending
+CHD-010,School Health,"Age-appropriate evidence, prevention, and practical guidance related to school health.",Children and Adolescents,Growth and Development,pending
+CHD-011,Nutrition for Young Children,Evidence-based nutrition and practical family guidance related to nutrition for young children.,Children and Adolescents,Nutrition,pending
+CHD-012,Nutrition for School-Age Children,Evidence-based nutrition and practical family guidance related to nutrition for school-age children.,Children and Adolescents,Nutrition,pending
+CHD-013,Nutrition for Adolescents,Evidence-based nutrition and practical family guidance related to nutrition for adolescents.,Children and Adolescents,Nutrition,pending
+CHD-014,Protein for Children,Evidence-based nutrition and practical family guidance related to protein for children.,Children and Adolescents,Nutrition,pending
+CHD-015,Fiber for Children,Evidence-based nutrition and practical family guidance related to fiber for children.,Children and Adolescents,Nutrition,pending
+CHD-016,Calcium for Children,Evidence-based nutrition and practical family guidance related to calcium for children.,Children and Adolescents,Nutrition,pending
+CHD-017,Iron for Children,Evidence-based nutrition and practical family guidance related to iron for children.,Children and Adolescents,Nutrition,pending
+CHD-018,Vitamin D for Children,Evidence-based nutrition and practical family guidance related to vitamin d for children.,Children and Adolescents,Nutrition,pending
+CHD-019,Healthy Snacks for Children,Evidence-based nutrition and practical family guidance related to healthy snacks for children.,Children and Adolescents,Nutrition,pending
+CHD-020,Family Meals,Evidence-based nutrition and practical family guidance related to family meals.,Children and Adolescents,Nutrition,pending
+CHD-021,Physical Activity for Children,"Benefits, safety, evidence, and practical guidance related to physical activity for children.",Children and Adolescents,Physical Activity,pending
+CHD-022,Exercise for Adolescents,"Benefits, safety, evidence, and practical guidance related to exercise for adolescents.",Children and Adolescents,Physical Activity,pending
+CHD-023,Strength Training for Youth,"Benefits, safety, evidence, and practical guidance related to strength training for youth.",Children and Adolescents,Physical Activity,pending
+CHD-024,Sports Participation,"Benefits, safety, evidence, and practical guidance related to sports participation.",Children and Adolescents,Physical Activity,pending
+CHD-025,Motor Skill Development,"Benefits, safety, evidence, and practical guidance related to motor skill development.",Children and Adolescents,Physical Activity,pending
+CHD-026,Outdoor Play,"Benefits, safety, evidence, and practical guidance related to outdoor play.",Children and Adolescents,Physical Activity,pending
+CHD-027,Screen Time and Activity,"Benefits, safety, evidence, and practical guidance related to screen time and activity.",Children and Adolescents,Physical Activity,pending
+CHD-028,Sedentary Behavior in Children,"Benefits, safety, evidence, and practical guidance related to sedentary behavior in children.",Children and Adolescents,Physical Activity,pending
+CHD-029,Exercise Safety for Youth,"Benefits, safety, evidence, and practical guidance related to exercise safety for youth.",Children and Adolescents,Physical Activity,pending
+CHD-030,Building Active Family Habits,"Benefits, safety, evidence, and practical guidance related to building active family habits.",Children and Adolescents,Physical Activity,pending
+CHD-031,Sleep Needs in Children,"Evidence, common problems, practical routines, and safety related to sleep needs in children.",Children and Adolescents,Sleep,pending
+CHD-032,Sleep Needs in Teenagers,"Evidence, common problems, practical routines, and safety related to sleep needs in teenagers.",Children and Adolescents,Sleep,pending
+CHD-033,Bedtime Routines for Children,"Evidence, common problems, practical routines, and safety related to bedtime routines for children.",Children and Adolescents,Sleep,pending
+CHD-034,Teen Circadian Rhythm,"Evidence, common problems, practical routines, and safety related to teen circadian rhythm.",Children and Adolescents,Sleep,pending
+CHD-035,Screen Time and Sleep in Children,"Evidence, common problems, practical routines, and safety related to screen time and sleep in children.",Children and Adolescents,Sleep,pending
+CHD-036,Insomnia in Children,"Evidence, common problems, practical routines, and safety related to insomnia in children.",Children and Adolescents,Sleep,pending
+CHD-037,Snoring in Children,"Evidence, common problems, practical routines, and safety related to snoring in children.",Children and Adolescents,Sleep,pending
+CHD-038,Sleep Apnea in Children,"Evidence, common problems, practical routines, and safety related to sleep apnea in children.",Children and Adolescents,Sleep,pending
+CHD-039,Napping in Children,"Evidence, common problems, practical routines, and safety related to napping in children.",Children and Adolescents,Sleep,pending
+CHD-040,Healthy Sleep Habits for Families,"Evidence, common problems, practical routines, and safety related to healthy sleep habits for families.",Children and Adolescents,Sleep,pending
+CHD-041,Stress in Children,"Recognition, prevention, support, and safety related to stress in children.",Children and Adolescents,Mental and Emotional Health,pending
+CHD-042,Stress in Teenagers,"Recognition, prevention, support, and safety related to stress in teenagers.",Children and Adolescents,Mental and Emotional Health,pending
+CHD-043,Anxiety in Children,"Recognition, prevention, support, and safety related to anxiety in children.",Children and Adolescents,Mental and Emotional Health,pending
+CHD-044,Anxiety in Teenagers,"Recognition, prevention, support, and safety related to anxiety in teenagers.",Children and Adolescents,Mental and Emotional Health,pending
+CHD-045,Depression in Teenagers,"Recognition, prevention, support, and safety related to depression in teenagers.",Children and Adolescents,Mental and Emotional Health,pending
+CHD-046,School Stress,"Recognition, prevention, support, and safety related to school stress.",Children and Adolescents,Mental and Emotional Health,pending
+CHD-047,Bullying,"Recognition, prevention, support, and safety related to bullying.",Children and Adolescents,Mental and Emotional Health,pending
+CHD-048,Cyberbullying,"Recognition, prevention, support, and safety related to cyberbullying.",Children and Adolescents,Mental and Emotional Health,pending
+CHD-049,Resilience in Children,"Recognition, prevention, support, and safety related to resilience in children.",Children and Adolescents,Mental and Emotional Health,pending
+CHD-050,When a Child Needs Mental Health Support,"Recognition, prevention, support, and safety related to when a child needs mental health support.",Children and Adolescents,Mental and Emotional Health,pending
+CHD-051,Childhood Fever,"Common causes, home care principles, red flags, and when professional evaluation matters for childhood fever.",Children and Adolescents,Common Health Issues,pending
+CHD-052,Common Colds in Children,"Common causes, home care principles, red flags, and when professional evaluation matters for common colds in children.",Children and Adolescents,Common Health Issues,pending
+CHD-053,Cough in Children,"Common causes, home care principles, red flags, and when professional evaluation matters for cough in children.",Children and Adolescents,Common Health Issues,pending
+CHD-054,Sore Throat in Children,"Common causes, home care principles, red flags, and when professional evaluation matters for sore throat in children.",Children and Adolescents,Common Health Issues,pending
+CHD-055,Stomach Pain in Children,"Common causes, home care principles, red flags, and when professional evaluation matters for stomach pain in children.",Children and Adolescents,Common Health Issues,pending
+CHD-056,Constipation in Children,"Common causes, home care principles, red flags, and when professional evaluation matters for constipation in children.",Children and Adolescents,Common Health Issues,pending
+CHD-057,Diarrhea in Children,"Common causes, home care principles, red flags, and when professional evaluation matters for diarrhea in children.",Children and Adolescents,Common Health Issues,pending
+CHD-058,Headaches in Children,"Common causes, home care principles, red flags, and when professional evaluation matters for headaches in children.",Children and Adolescents,Common Health Issues,pending
+CHD-059,Growing Pains,"Common causes, home care principles, red flags, and when professional evaluation matters for growing pains.",Children and Adolescents,Common Health Issues,pending
+CHD-060,Allergies in Children,"Common causes, home care principles, red flags, and when professional evaluation matters for allergies in children.",Children and Adolescents,Common Health Issues,pending
+CHD-061,Childhood Vaccinations,"Prevention, safety, and evidence-based guidance related to childhood vaccinations.",Children and Adolescents,Prevention and Safety,pending
+CHD-062,Adolescent Vaccinations,"Prevention, safety, and evidence-based guidance related to adolescent vaccinations.",Children and Adolescents,Prevention and Safety,pending
+CHD-063,Hand Hygiene for Children,"Prevention, safety, and evidence-based guidance related to hand hygiene for children.",Children and Adolescents,Prevention and Safety,pending
+CHD-064,Food Safety for Children,"Prevention, safety, and evidence-based guidance related to food safety for children.",Children and Adolescents,Prevention and Safety,pending
+CHD-065,Sun Safety for Children,"Prevention, safety, and evidence-based guidance related to sun safety for children.",Children and Adolescents,Prevention and Safety,pending
+CHD-066,Water Safety,"Prevention, safety, and evidence-based guidance related to water safety.",Children and Adolescents,Prevention and Safety,pending
+CHD-067,Bike Safety,"Prevention, safety, and evidence-based guidance related to bike safety.",Children and Adolescents,Prevention and Safety,pending
+CHD-068,Car Seat Safety,"Prevention, safety, and evidence-based guidance related to car seat safety.",Children and Adolescents,Prevention and Safety,pending
+CHD-069,Sports Injury Prevention,"Prevention, safety, and evidence-based guidance related to sports injury prevention.",Children and Adolescents,Prevention and Safety,pending
+CHD-070,Concussion Prevention,"Prevention, safety, and evidence-based guidance related to concussion prevention.",Children and Adolescents,Prevention and Safety,pending
+CHD-071,Teen Nutrition,"Age-appropriate education, prevention, risk reduction, and support related to teen nutrition.",Children and Adolescents,Adolescent Health,pending
+CHD-072,Teen Exercise,"Age-appropriate education, prevention, risk reduction, and support related to teen exercise.",Children and Adolescents,Adolescent Health,pending
+CHD-073,Teen Sleep,"Age-appropriate education, prevention, risk reduction, and support related to teen sleep.",Children and Adolescents,Adolescent Health,pending
+CHD-074,Teen Stress,"Age-appropriate education, prevention, risk reduction, and support related to teen stress.",Children and Adolescents,Adolescent Health,pending
+CHD-075,Teen Sexual Health,"Age-appropriate education, prevention, risk reduction, and support related to teen sexual health.",Children and Adolescents,Adolescent Health,pending
+CHD-076,Sexually Transmitted Infection Prevention for Teens,"Age-appropriate education, prevention, risk reduction, and support related to sexually transmitted infection prevention for teens.",Children and Adolescents,Adolescent Health,pending
+CHD-077,Substance Use Prevention,"Age-appropriate education, prevention, risk reduction, and support related to substance use prevention.",Children and Adolescents,Adolescent Health,pending
+CHD-078,Vaping Prevention in Teens,"Age-appropriate education, prevention, risk reduction, and support related to vaping prevention in teens.",Children and Adolescents,Adolescent Health,pending
+CHD-079,Alcohol Prevention in Teens,"Age-appropriate education, prevention, risk reduction, and support related to alcohol prevention in teens.",Children and Adolescents,Adolescent Health,pending
+CHD-080,Healthy Relationships for Teens,"Age-appropriate education, prevention, risk reduction, and support related to healthy relationships for teens.",Children and Adolescents,Adolescent Health,pending
+CHD-081,Healthy Family Routines,Practical family strategies and evidence related to healthy family routines.,Children and Adolescents,Family Health,pending
+CHD-082,Parents as Health Role Models,Practical family strategies and evidence related to parents as health role models.,Children and Adolescents,Family Health,pending
+CHD-083,Talking to Children About Health,Practical family strategies and evidence related to talking to children about health.,Children and Adolescents,Family Health,pending
+CHD-084,Talking to Teens About Health,Practical family strategies and evidence related to talking to teens about health.,Children and Adolescents,Family Health,pending
+CHD-085,Healthy Food Environment at Home,Practical family strategies and evidence related to healthy food environment at home.,Children and Adolescents,Family Health,pending
+CHD-086,Active Family Weekends,Practical family strategies and evidence related to active family weekends.,Children and Adolescents,Family Health,pending
+CHD-087,Family Screen Rules,Practical family strategies and evidence related to family screen rules.,Children and Adolescents,Family Health,pending
+CHD-088,Family Sleep Routines,Practical family strategies and evidence related to family sleep routines.,Children and Adolescents,Family Health,pending
+CHD-089,Managing Health During School Holidays,Practical family strategies and evidence related to managing health during school holidays.,Children and Adolescents,Family Health,pending
+CHD-090,Building Sustainable Family Habits,Practical family strategies and evidence related to building sustainable family habits.,Children and Adolescents,Family Health,pending
+CHD-091,Childhood Obesity Prevention,"Evidence, safety, lifestyle considerations, and when professional care matters for childhood obesity prevention.",Children and Adolescents,Special Topics,pending
+CHD-092,Prediabetes in Adolescents,"Evidence, safety, lifestyle considerations, and when professional care matters for prediabetes in adolescents.",Children and Adolescents,Special Topics,pending
+CHD-093,High Blood Pressure in Youth,"Evidence, safety, lifestyle considerations, and when professional care matters for high blood pressure in youth.",Children and Adolescents,Special Topics,pending
+CHD-094,Asthma and Exercise,"Evidence, safety, lifestyle considerations, and when professional care matters for asthma and exercise.",Children and Adolescents,Special Topics,pending
+CHD-095,Food Allergies in Children,"Evidence, safety, lifestyle considerations, and when professional care matters for food allergies in children.",Children and Adolescents,Special Topics,pending
+CHD-096,ADHD and Lifestyle,"Evidence, safety, lifestyle considerations, and when professional care matters for adhd and lifestyle.",Children and Adolescents,Special Topics,pending
+CHD-097,Autism and Healthy Routines,"Evidence, safety, lifestyle considerations, and when professional care matters for autism and healthy routines.",Children and Adolescents,Special Topics,pending
+CHD-098,Eating Disorders in Adolescents,"Evidence, safety, lifestyle considerations, and when professional care matters for eating disorders in adolescents.",Children and Adolescents,Special Topics,pending
+CHD-099,Menstrual Health for Teen Girls,"Evidence, safety, lifestyle considerations, and when professional care matters for menstrual health for teen girls.",Children and Adolescents,Special Topics,pending
+CHD-100,Healthy Transition to College,"Evidence, safety, lifestyle considerations, and when professional care matters for healthy transition to college.",Children and Adolescents,Special Topics,pending

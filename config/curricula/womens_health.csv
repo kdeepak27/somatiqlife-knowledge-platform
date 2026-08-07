@@ -1,0 +1,126 @@
+module_id,title,subtitle,domain,category,status
+WOM-001,Women's Health Across Adulthood,"Evidence, physiology, prevention, and practical implications of women's health across adulthood.",Women's Health,Women's Health Foundations,pending
+WOM-002,Female Reproductive Anatomy,"Evidence, physiology, prevention, and practical implications of female reproductive anatomy.",Women's Health,Women's Health Foundations,pending
+WOM-003,Female Reproductive Hormones,"Evidence, physiology, prevention, and practical implications of female reproductive hormones.",Women's Health,Women's Health Foundations,pending
+WOM-004,Menstrual Cycle,"Evidence, physiology, prevention, and practical implications of menstrual cycle.",Women's Health,Women's Health Foundations,pending
+WOM-005,Tracking the Menstrual Cycle,"Evidence, physiology, prevention, and practical implications of tracking the menstrual cycle.",Women's Health,Women's Health Foundations,pending
+WOM-006,Normal Menstrual Variation,"Evidence, physiology, prevention, and practical implications of normal menstrual variation.",Women's Health,Women's Health Foundations,pending
+WOM-007,Women's Preventive Care,"Evidence, physiology, prevention, and practical implications of women's preventive care.",Women's Health,Women's Health Foundations,pending
+WOM-008,Women's Health Screening,"Evidence, physiology, prevention, and practical implications of women's health screening.",Women's Health,Women's Health Foundations,pending
+WOM-009,Nutrition for Women,"Evidence, physiology, prevention, and practical implications of nutrition for women.",Women's Health,Women's Health Foundations,pending
+WOM-010,Exercise for Women,"Evidence, physiology, prevention, and practical implications of exercise for women.",Women's Health,Women's Health Foundations,pending
+WOM-011,Sleep in Women,"Evidence, physiology, prevention, and practical implications of sleep in women.",Women's Health,Women's Health Foundations,pending
+WOM-012,Stress in Women,"Evidence, physiology, prevention, and practical implications of stress in women.",Women's Health,Women's Health Foundations,pending
+WOM-013,Body Composition in Women,"Evidence, physiology, prevention, and practical implications of body composition in women.",Women's Health,Women's Health Foundations,pending
+WOM-014,Bone Health in Women,"Evidence, physiology, prevention, and practical implications of bone health in women.",Women's Health,Women's Health Foundations,pending
+WOM-015,Cardiovascular Health in Women,"Evidence, physiology, prevention, and practical implications of cardiovascular health in women.",Women's Health,Women's Health Foundations,pending
+WOM-016,Menstrual Cramps,"Definitions, common causes, evidence-based management, and safety related to menstrual cramps.",Women's Health,Menstrual Health,pending
+WOM-017,Heavy Menstrual Bleeding,"Definitions, common causes, evidence-based management, and safety related to heavy menstrual bleeding.",Women's Health,Menstrual Health,pending
+WOM-018,Irregular Periods,"Definitions, common causes, evidence-based management, and safety related to irregular periods.",Women's Health,Menstrual Health,pending
+WOM-019,Missed Periods,"Definitions, common causes, evidence-based management, and safety related to missed periods.",Women's Health,Menstrual Health,pending
+WOM-020,Premenstrual Syndrome,"Definitions, common causes, evidence-based management, and safety related to premenstrual syndrome.",Women's Health,Menstrual Health,pending
+WOM-021,Premenstrual Dysphoric Disorder,"Definitions, common causes, evidence-based management, and safety related to premenstrual dysphoric disorder.",Women's Health,Menstrual Health,pending
+WOM-022,Menstrual Migraines,"Definitions, common causes, evidence-based management, and safety related to menstrual migraines.",Women's Health,Menstrual Health,pending
+WOM-023,Iron Deficiency and Menstruation,"Definitions, common causes, evidence-based management, and safety related to iron deficiency and menstruation.",Women's Health,Menstrual Health,pending
+WOM-024,Exercise During the Menstrual Cycle,"Definitions, common causes, evidence-based management, and safety related to exercise during the menstrual cycle.",Women's Health,Menstrual Health,pending
+WOM-025,Nutrition During the Menstrual Cycle,"Definitions, common causes, evidence-based management, and safety related to nutrition during the menstrual cycle.",Women's Health,Menstrual Health,pending
+WOM-026,Sleep and the Menstrual Cycle,"Definitions, common causes, evidence-based management, and safety related to sleep and the menstrual cycle.",Women's Health,Menstrual Health,pending
+WOM-027,Stress and the Menstrual Cycle,"Definitions, common causes, evidence-based management, and safety related to stress and the menstrual cycle.",Women's Health,Menstrual Health,pending
+WOM-028,Period Products,"Definitions, common causes, evidence-based management, and safety related to period products.",Women's Health,Menstrual Health,pending
+WOM-029,Menstrual Health Myths,"Definitions, common causes, evidence-based management, and safety related to menstrual health myths.",Women's Health,Menstrual Health,pending
+WOM-030,When Menstrual Symptoms Need Evaluation,"Definitions, common causes, evidence-based management, and safety related to when menstrual symptoms need evaluation.",Women's Health,Menstrual Health,pending
+WOM-031,Female Fertility,"Evidence, practical guidance, and safety considerations for female fertility.",Women's Health,Fertility and Pregnancy,pending
+WOM-032,Age and Fertility,"Evidence, practical guidance, and safety considerations for age and fertility.",Women's Health,Fertility and Pregnancy,pending
+WOM-033,Ovulation,"Evidence, practical guidance, and safety considerations for ovulation.",Women's Health,Fertility and Pregnancy,pending
+WOM-034,Preconception Health,"Evidence, practical guidance, and safety considerations for preconception health.",Women's Health,Fertility and Pregnancy,pending
+WOM-035,Nutrition Before Pregnancy,"Evidence, practical guidance, and safety considerations for nutrition before pregnancy.",Women's Health,Fertility and Pregnancy,pending
+WOM-036,Exercise Before Pregnancy,"Evidence, practical guidance, and safety considerations for exercise before pregnancy.",Women's Health,Fertility and Pregnancy,pending
+WOM-037,Folic Acid and Pregnancy,"Evidence, practical guidance, and safety considerations for folic acid and pregnancy.",Women's Health,Fertility and Pregnancy,pending
+WOM-038,Healthy Weight Before Pregnancy,"Evidence, practical guidance, and safety considerations for healthy weight before pregnancy.",Women's Health,Fertility and Pregnancy,pending
+WOM-039,Pregnancy Nutrition,"Evidence, practical guidance, and safety considerations for pregnancy nutrition.",Women's Health,Fertility and Pregnancy,pending
+WOM-040,Exercise During Pregnancy,"Evidence, practical guidance, and safety considerations for exercise during pregnancy.",Women's Health,Fertility and Pregnancy,pending
+WOM-041,Sleep During Pregnancy,"Evidence, practical guidance, and safety considerations for sleep during pregnancy.",Women's Health,Fertility and Pregnancy,pending
+WOM-042,Pregnancy Weight Gain,"Evidence, practical guidance, and safety considerations for pregnancy weight gain.",Women's Health,Fertility and Pregnancy,pending
+WOM-043,Gestational Diabetes Prevention,"Evidence, practical guidance, and safety considerations for gestational diabetes prevention.",Women's Health,Fertility and Pregnancy,pending
+WOM-044,High Blood Pressure in Pregnancy,"Evidence, practical guidance, and safety considerations for high blood pressure in pregnancy.",Women's Health,Fertility and Pregnancy,pending
+WOM-045,Postpartum Recovery,"Evidence, practical guidance, and safety considerations for postpartum recovery.",Women's Health,Fertility and Pregnancy,pending
+WOM-046,Postpartum Nutrition,"Evidence-based information, recovery, and safety related to postpartum nutrition.",Women's Health,Postpartum and Parenting,pending
+WOM-047,Postpartum Exercise,"Evidence-based information, recovery, and safety related to postpartum exercise.",Women's Health,Postpartum and Parenting,pending
+WOM-048,Postpartum Sleep,"Evidence-based information, recovery, and safety related to postpartum sleep.",Women's Health,Postpartum and Parenting,pending
+WOM-049,Breastfeeding Nutrition,"Evidence-based information, recovery, and safety related to breastfeeding nutrition.",Women's Health,Postpartum and Parenting,pending
+WOM-050,Breastfeeding and Hydration,"Evidence-based information, recovery, and safety related to breastfeeding and hydration.",Women's Health,Postpartum and Parenting,pending
+WOM-051,Returning to Exercise After Birth,"Evidence-based information, recovery, and safety related to returning to exercise after birth.",Women's Health,Postpartum and Parenting,pending
+WOM-052,Pelvic Floor Recovery,"Evidence-based information, recovery, and safety related to pelvic floor recovery.",Women's Health,Postpartum and Parenting,pending
+WOM-053,Diastasis Recti,"Evidence-based information, recovery, and safety related to diastasis recti.",Women's Health,Postpartum and Parenting,pending
+WOM-054,Postpartum Mood Changes,"Evidence-based information, recovery, and safety related to postpartum mood changes.",Women's Health,Postpartum and Parenting,pending
+WOM-055,Postpartum Depression,"Evidence-based information, recovery, and safety related to postpartum depression.",Women's Health,Postpartum and Parenting,pending
+WOM-056,Postpartum Anxiety,"Evidence-based information, recovery, and safety related to postpartum anxiety.",Women's Health,Postpartum and Parenting,pending
+WOM-057,Body Image After Pregnancy,"Evidence-based information, recovery, and safety related to body image after pregnancy.",Women's Health,Postpartum and Parenting,pending
+WOM-058,Weight Change After Pregnancy,"Evidence-based information, recovery, and safety related to weight change after pregnancy.",Women's Health,Postpartum and Parenting,pending
+WOM-059,Balancing Health and Parenting,"Evidence-based information, recovery, and safety related to balancing health and parenting.",Women's Health,Postpartum and Parenting,pending
+WOM-060,When Postpartum Symptoms Need Care,"Evidence-based information, recovery, and safety related to when postpartum symptoms need care.",Women's Health,Postpartum and Parenting,pending
+WOM-061,Perimenopause,"Physiology, evidence, management options, and practical implications of perimenopause.",Women's Health,Perimenopause and Menopause,pending
+WOM-062,Menopause,"Physiology, evidence, management options, and practical implications of menopause.",Women's Health,Perimenopause and Menopause,pending
+WOM-063,Menopause Symptoms,"Physiology, evidence, management options, and practical implications of menopause symptoms.",Women's Health,Perimenopause and Menopause,pending
+WOM-064,Hot Flashes,"Physiology, evidence, management options, and practical implications of hot flashes.",Women's Health,Perimenopause and Menopause,pending
+WOM-065,Night Sweats,"Physiology, evidence, management options, and practical implications of night sweats.",Women's Health,Perimenopause and Menopause,pending
+WOM-066,Sleep During Menopause,"Physiology, evidence, management options, and practical implications of sleep during menopause.",Women's Health,Perimenopause and Menopause,pending
+WOM-067,Weight Change During Menopause,"Physiology, evidence, management options, and practical implications of weight change during menopause.",Women's Health,Perimenopause and Menopause,pending
+WOM-068,Body Composition During Menopause,"Physiology, evidence, management options, and practical implications of body composition during menopause.",Women's Health,Perimenopause and Menopause,pending
+WOM-069,Bone Loss During Menopause,"Physiology, evidence, management options, and practical implications of bone loss during menopause.",Women's Health,Perimenopause and Menopause,pending
+WOM-070,Cardiovascular Risk After Menopause,"Physiology, evidence, management options, and practical implications of cardiovascular risk after menopause.",Women's Health,Perimenopause and Menopause,pending
+WOM-071,Exercise During Menopause,"Physiology, evidence, management options, and practical implications of exercise during menopause.",Women's Health,Perimenopause and Menopause,pending
+WOM-072,Nutrition During Menopause,"Physiology, evidence, management options, and practical implications of nutrition during menopause.",Women's Health,Perimenopause and Menopause,pending
+WOM-073,Protein During Menopause,"Physiology, evidence, management options, and practical implications of protein during menopause.",Women's Health,Perimenopause and Menopause,pending
+WOM-074,Menopause Hormone Therapy,"Physiology, evidence, management options, and practical implications of menopause hormone therapy.",Women's Health,Perimenopause and Menopause,pending
+WOM-075,Nonhormonal Menopause Treatments,"Physiology, evidence, management options, and practical implications of nonhormonal menopause treatments.",Women's Health,Perimenopause and Menopause,pending
+WOM-076,Polycystic Ovary Syndrome,"Definitions, risk factors, symptoms, management, and safety considerations for polycystic ovary syndrome.",Women's Health,Common Women's Conditions,pending
+WOM-077,Endometriosis,"Definitions, risk factors, symptoms, management, and safety considerations for endometriosis.",Women's Health,Common Women's Conditions,pending
+WOM-078,Uterine Fibroids,"Definitions, risk factors, symptoms, management, and safety considerations for uterine fibroids.",Women's Health,Common Women's Conditions,pending
+WOM-079,Ovarian Cysts,"Definitions, risk factors, symptoms, management, and safety considerations for ovarian cysts.",Women's Health,Common Women's Conditions,pending
+WOM-080,Pelvic Pain,"Definitions, risk factors, symptoms, management, and safety considerations for pelvic pain.",Women's Health,Common Women's Conditions,pending
+WOM-081,Vaginal Dryness,"Definitions, risk factors, symptoms, management, and safety considerations for vaginal dryness.",Women's Health,Common Women's Conditions,pending
+WOM-082,Urinary Tract Infections,"Definitions, risk factors, symptoms, management, and safety considerations for urinary tract infections.",Women's Health,Common Women's Conditions,pending
+WOM-083,Recurrent Urinary Tract Infections,"Definitions, risk factors, symptoms, management, and safety considerations for recurrent urinary tract infections.",Women's Health,Common Women's Conditions,pending
+WOM-084,Urinary Incontinence,"Definitions, risk factors, symptoms, management, and safety considerations for urinary incontinence.",Women's Health,Common Women's Conditions,pending
+WOM-085,Pelvic Organ Prolapse,"Definitions, risk factors, symptoms, management, and safety considerations for pelvic organ prolapse.",Women's Health,Common Women's Conditions,pending
+WOM-086,Thyroid Disease in Women,"Definitions, risk factors, symptoms, management, and safety considerations for thyroid disease in women.",Women's Health,Common Women's Conditions,pending
+WOM-087,Iron Deficiency in Women,"Definitions, risk factors, symptoms, management, and safety considerations for iron deficiency in women.",Women's Health,Common Women's Conditions,pending
+WOM-088,Migraine in Women,"Definitions, risk factors, symptoms, management, and safety considerations for migraine in women.",Women's Health,Common Women's Conditions,pending
+WOM-089,Autoimmune Disease in Women,"Definitions, risk factors, symptoms, management, and safety considerations for autoimmune disease in women.",Women's Health,Common Women's Conditions,pending
+WOM-090,Depression and Anxiety in Women,"Definitions, risk factors, symptoms, management, and safety considerations for depression and anxiety in women.",Women's Health,Common Women's Conditions,pending
+WOM-091,Breast Cancer Risk,"Risk reduction, screening, evidence, and practical considerations for breast cancer risk.",Women's Health,Cancer and Screening,pending
+WOM-092,Breast Cancer Screening,"Risk reduction, screening, evidence, and practical considerations for breast cancer screening.",Women's Health,Cancer and Screening,pending
+WOM-093,Breast Self-Awareness,"Risk reduction, screening, evidence, and practical considerations for breast self-awareness.",Women's Health,Cancer and Screening,pending
+WOM-094,Dense Breasts,"Risk reduction, screening, evidence, and practical considerations for dense breasts.",Women's Health,Cancer and Screening,pending
+WOM-095,Cervical Cancer Prevention,"Risk reduction, screening, evidence, and practical considerations for cervical cancer prevention.",Women's Health,Cancer and Screening,pending
+WOM-096,Cervical Cancer Screening,"Risk reduction, screening, evidence, and practical considerations for cervical cancer screening.",Women's Health,Cancer and Screening,pending
+WOM-097,HPV and Women's Health,"Risk reduction, screening, evidence, and practical considerations for hpv and women's health.",Women's Health,Cancer and Screening,pending
+WOM-098,Ovarian Cancer Awareness,"Risk reduction, screening, evidence, and practical considerations for ovarian cancer awareness.",Women's Health,Cancer and Screening,pending
+WOM-099,Endometrial Cancer Awareness,"Risk reduction, screening, evidence, and practical considerations for endometrial cancer awareness.",Women's Health,Cancer and Screening,pending
+WOM-100,Genetic Cancer Risk in Women,"Risk reduction, screening, evidence, and practical considerations for genetic cancer risk in women.",Women's Health,Cancer and Screening,pending
+WOM-101,BRCA Genes,"Risk reduction, screening, evidence, and practical considerations for brca genes.",Women's Health,Cancer and Screening,pending
+WOM-102,Lifestyle and Breast Cancer Risk,"Risk reduction, screening, evidence, and practical considerations for lifestyle and breast cancer risk.",Women's Health,Cancer and Screening,pending
+WOM-103,Alcohol and Breast Cancer Risk,"Risk reduction, screening, evidence, and practical considerations for alcohol and breast cancer risk.",Women's Health,Cancer and Screening,pending
+WOM-104,Weight and Cancer Risk in Women,"Risk reduction, screening, evidence, and practical considerations for weight and cancer risk in women.",Women's Health,Cancer and Screening,pending
+WOM-105,Cancer Prevention for Women,"Risk reduction, screening, evidence, and practical considerations for cancer prevention for women.",Women's Health,Cancer and Screening,pending
+WOM-106,Healthy Aging for Women,"How healthy aging for women affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-107,Sarcopenia in Women,"How sarcopenia in women affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-108,Strength Training for Women Over 50,"How strength training for women over 50 affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-109,Osteoporosis Prevention in Women,"How osteoporosis prevention in women affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-110,Falls and Women,"How falls and women affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-111,Heart Health After 50,"How heart health after 50 affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-112,Metabolic Health After 50,"How metabolic health after 50 affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-113,Brain Health in Women,"How brain health in women affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-114,Sleep After 60,"How sleep after 60 affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-115,Sexual Health With Aging,"How sexual health with aging affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-116,Healthy Weight After Menopause,"How healthy weight after menopause affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-117,Protein Needs in Older Women,"How protein needs in older women affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-118,Vitamin D in Older Women,"How vitamin d in older women affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-119,Calcium in Older Women,"How calcium in older women affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-120,Building a Women's Healthy Aging Plan,"How building a women's healthy aging plan affects long-term health, function, and prevention.",Women's Health,Healthy Aging for Women,pending
+WOM-121,Women and Alcohol,"Evidence, prevention, safety, and practical strategies related to women and alcohol.",Women's Health,Lifestyle and Safety,pending
+WOM-122,Women and Smoking,"Evidence, prevention, safety, and practical strategies related to women and smoking.",Women's Health,Lifestyle and Safety,pending
+WOM-123,Women and Sleep Deprivation,"Evidence, prevention, safety, and practical strategies related to women and sleep deprivation.",Women's Health,Lifestyle and Safety,pending
+WOM-124,Caregiver Stress in Women,"Evidence, prevention, safety, and practical strategies related to caregiver stress in women.",Women's Health,Lifestyle and Safety,pending
+WOM-125,Workplace Stress in Women,"Evidence, prevention, safety, and practical strategies related to workplace stress in women.",Women's Health,Lifestyle and Safety,pending

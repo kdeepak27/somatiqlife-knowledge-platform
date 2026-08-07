@@ -1,0 +1,111 @@
+{
+  "total_new_modules": 2550,
+  "projected_total_modules": 3150,
+  "file_count": 17,
+  "files": [
+    {
+      "file": "sleep.csv",
+      "module_count": 100,
+      "first_id": "SLP-001",
+      "last_id": "SLP-100"
+    },
+    {
+      "file": "stress.csv",
+      "module_count": 150,
+      "first_id": "STR-001",
+      "last_id": "STR-150"
+    },
+    {
+      "file": "lifestyle.csv",
+      "module_count": 150,
+      "first_id": "LIF-001",
+      "last_id": "LIF-150"
+    },
+    {
+      "file": "healthy_aging.csv",
+      "module_count": 150,
+      "first_id": "AGE-001",
+      "last_id": "AGE-150"
+    },
+    {
+      "file": "disease_prevention.csv",
+      "module_count": 250,
+      "first_id": "DIS-001",
+      "last_id": "DIS-250"
+    },
+    {
+      "file": "womens_health.csv",
+      "module_count": 125,
+      "first_id": "WOM-001",
+      "last_id": "WOM-125"
+    },
+    {
+      "file": "mens_health.csv",
+      "module_count": 100,
+      "first_id": "MEN-001",
+      "last_id": "MEN-100"
+    },
+    {
+      "file": "children.csv",
+      "module_count": 100,
+      "first_id": "CHD-001",
+      "last_id": "CHD-100"
+    },
+    {
+      "file": "supplements.csv",
+      "module_count": 200,
+      "first_id": "SUP-001",
+      "last_id": "SUP-200"
+    },
+    {
+      "file": "laboratory_tests.csv",
+      "module_count": 150,
+      "first_id": "LAB-001",
+      "last_id": "LAB-150"
+    },
+    {
+      "file": "medications.csv",
+      "module_count": 150,
+      "first_id": "MED-001",
+      "last_id": "MED-150"
+    },
+    {
+      "file": "medical_conditions.csv",
+      "module_count": 300,
+      "first_id": "COND-001",
+      "last_id": "COND-300"
+    },
+    {
+      "file": "behavior_change.csv",
+      "module_count": 125,
+      "first_id": "BEH-001",
+      "last_id": "BEH-125"
+    },
+    {
+      "file": "faq.csv",
+      "module_count": 200,
+      "first_id": "FAQ-001",
+      "last_id": "FAQ-200"
+    },
+    {
+      "file": "meal_planning.csv",
+      "module_count": 100,
+      "first_id": "MEA-001",
+      "last_id": "MEA-100"
+    },
+    {
+      "file": "exercise_programs.csv",
+      "module_count": 100,
+      "first_id": "PROG-001",
+      "last_id": "PROG-100"
+    },
+    {
+      "file": "case_studies.csv",
+      "module_count": 100,
+      "first_id": "CASE-001",
+      "last_id": "CASE-100"
+    }
+  ],
+  "duplicate_module_ids": 0,
+  "all_status_pending": true
+}

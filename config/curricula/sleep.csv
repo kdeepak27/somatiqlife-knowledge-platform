@@ -1,0 +1,101 @@
+module_id,title,subtitle,domain,category,status
+SLP-001,Why Sleep Matters,"Core concepts, physiology, evidence, and practical implications of why sleep matters.",Sleep,Sleep Foundations,pending
+SLP-002,What Happens During Sleep,"Core concepts, physiology, evidence, and practical implications of what happens during sleep.",Sleep,Sleep Foundations,pending
+SLP-003,Sleep Architecture,"Core concepts, physiology, evidence, and practical implications of sleep architecture.",Sleep,Sleep Foundations,pending
+SLP-004,Non-REM Sleep,"Core concepts, physiology, evidence, and practical implications of non-rem sleep.",Sleep,Sleep Foundations,pending
+SLP-005,REM Sleep,"Core concepts, physiology, evidence, and practical implications of rem sleep.",Sleep,Sleep Foundations,pending
+SLP-006,Deep Sleep,"Core concepts, physiology, evidence, and practical implications of deep sleep.",Sleep,Sleep Foundations,pending
+SLP-007,Sleep Cycles,"Core concepts, physiology, evidence, and practical implications of sleep cycles.",Sleep,Sleep Foundations,pending
+SLP-008,Circadian Rhythm,"Core concepts, physiology, evidence, and practical implications of circadian rhythm.",Sleep,Sleep Foundations,pending
+SLP-009,Sleep Pressure and Adenosine,"Core concepts, physiology, evidence, and practical implications of sleep pressure and adenosine.",Sleep,Sleep Foundations,pending
+SLP-010,Chronotypes,"Core concepts, physiology, evidence, and practical implications of chronotypes.",Sleep,Sleep Foundations,pending
+SLP-011,Sleep Need Across Adulthood,"Core concepts, physiology, evidence, and practical implications of sleep need across adulthood.",Sleep,Sleep Foundations,pending
+SLP-012,Sleep Quantity vs Sleep Quality,"Core concepts, physiology, evidence, and practical implications of sleep quantity vs sleep quality.",Sleep,Sleep Foundations,pending
+SLP-013,Sleep Efficiency,"Core concepts, physiology, evidence, and practical implications of sleep efficiency.",Sleep,Sleep Foundations,pending
+SLP-014,Sleep Continuity,"Core concepts, physiology, evidence, and practical implications of sleep continuity.",Sleep,Sleep Foundations,pending
+SLP-015,Sleep Timing,"Core concepts, physiology, evidence, and practical implications of sleep timing.",Sleep,Sleep Foundations,pending
+SLP-016,Sleep Regularity,"Core concepts, physiology, evidence, and practical implications of sleep regularity.",Sleep,Sleep Foundations,pending
+SLP-017,Sleep Inertia,"Core concepts, physiology, evidence, and practical implications of sleep inertia.",Sleep,Sleep Foundations,pending
+SLP-018,Dreaming,"Core concepts, physiology, evidence, and practical implications of dreaming.",Sleep,Sleep Foundations,pending
+SLP-019,Body Temperature and Sleep,"Core concepts, physiology, evidence, and practical implications of body temperature and sleep.",Sleep,Sleep Foundations,pending
+SLP-020,Hormones and Sleep,"Core concepts, physiology, evidence, and practical implications of hormones and sleep.",Sleep,Sleep Foundations,pending
+SLP-021,Sleep and Brain Health,"How sleep and brain health are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-022,Sleep and Memory,"How sleep and memory are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-023,Sleep and Learning,"How sleep and learning are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-024,Sleep and Attention,"How sleep and attention are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-025,Sleep and Mood,"How sleep and mood are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-026,Sleep and Stress,"How sleep and stress are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-027,Sleep and Anxiety,"How sleep and anxiety are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-028,Sleep and Depression,"How sleep and depression are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-029,Sleep and Immunity,"How sleep and immunity are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-030,Sleep and Inflammation,"How sleep and inflammation are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-031,Sleep and Cardiovascular Health,"How sleep and cardiovascular health are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-032,Sleep and Blood Pressure,"How sleep and blood pressure are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-033,Sleep and Glucose Regulation,"How sleep and glucose regulation are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-034,Sleep and Diabetes Risk,"How sleep and diabetes risk are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-035,Sleep and Appetite,"How sleep and appetite are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-036,Sleep and Weight Regulation,"How sleep and weight regulation are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-037,Sleep and Exercise Recovery,"How sleep and exercise recovery are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-038,Sleep and Muscle Adaptation,"How sleep and muscle adaptation are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-039,Sleep and Athletic Performance,"How sleep and athletic performance are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-040,Sleep and Pain,"How sleep and pain are connected, what the evidence shows, and what matters in practice.",Sleep,Sleep and Health,pending
+SLP-041,Sleep Hygiene,Evidence-based ways to understand and improve sleep hygiene.,Sleep,Healthy Sleep Habits,pending
+SLP-042,Building a Bedtime Routine,Evidence-based ways to understand and improve building a bedtime routine.,Sleep,Healthy Sleep Habits,pending
+SLP-043,Keeping a Consistent Sleep Schedule,Evidence-based ways to understand and improve keeping a consistent sleep schedule.,Sleep,Healthy Sleep Habits,pending
+SLP-044,Morning Light Exposure,Evidence-based ways to understand and improve morning light exposure.,Sleep,Healthy Sleep Habits,pending
+SLP-045,Evening Light Exposure,Evidence-based ways to understand and improve evening light exposure.,Sleep,Healthy Sleep Habits,pending
+SLP-046,Bedroom Darkness,Evidence-based ways to understand and improve bedroom darkness.,Sleep,Healthy Sleep Habits,pending
+SLP-047,Bedroom Temperature,Evidence-based ways to understand and improve bedroom temperature.,Sleep,Healthy Sleep Habits,pending
+SLP-048,Noise and Sleep,Evidence-based ways to understand and improve noise and sleep.,Sleep,Healthy Sleep Habits,pending
+SLP-049,Mattresses and Sleep,Evidence-based ways to understand and improve mattresses and sleep.,Sleep,Healthy Sleep Habits,pending
+SLP-050,Pillows and Sleep,Evidence-based ways to understand and improve pillows and sleep.,Sleep,Healthy Sleep Habits,pending
+SLP-051,Screen Use Before Bed,Evidence-based ways to understand and improve screen use before bed.,Sleep,Healthy Sleep Habits,pending
+SLP-052,Caffeine and Sleep,Evidence-based ways to understand and improve caffeine and sleep.,Sleep,Healthy Sleep Habits,pending
+SLP-053,Alcohol and Sleep,Evidence-based ways to understand and improve alcohol and sleep.,Sleep,Healthy Sleep Habits,pending
+SLP-054,Nicotine and Sleep,Evidence-based ways to understand and improve nicotine and sleep.,Sleep,Healthy Sleep Habits,pending
+SLP-055,Cannabis and Sleep,Evidence-based ways to understand and improve cannabis and sleep.,Sleep,Healthy Sleep Habits,pending
+SLP-056,Meal Timing and Sleep,Evidence-based ways to understand and improve meal timing and sleep.,Sleep,Healthy Sleep Habits,pending
+SLP-057,Exercise Timing and Sleep,Evidence-based ways to understand and improve exercise timing and sleep.,Sleep,Healthy Sleep Habits,pending
+SLP-058,Relaxation Before Bed,Evidence-based ways to understand and improve relaxation before bed.,Sleep,Healthy Sleep Habits,pending
+SLP-059,Breathing Exercises for Sleep,Evidence-based ways to understand and improve breathing exercises for sleep.,Sleep,Healthy Sleep Habits,pending
+SLP-060,Meditation and Sleep,Evidence-based ways to understand and improve meditation and sleep.,Sleep,Healthy Sleep Habits,pending
+SLP-061,Napping,"Practical guidance, tradeoffs, and evidence related to napping.",Sleep,Sleep Timing and Real Life,pending
+SLP-062,Power Naps,"Practical guidance, tradeoffs, and evidence related to power naps.",Sleep,Sleep Timing and Real Life,pending
+SLP-063,Long Naps,"Practical guidance, tradeoffs, and evidence related to long naps.",Sleep,Sleep Timing and Real Life,pending
+SLP-064,Weekend Catch-Up Sleep,"Practical guidance, tradeoffs, and evidence related to weekend catch-up sleep.",Sleep,Sleep Timing and Real Life,pending
+SLP-065,Sleep Debt,"Practical guidance, tradeoffs, and evidence related to sleep debt.",Sleep,Sleep Timing and Real Life,pending
+SLP-066,Social Jet Lag,"Practical guidance, tradeoffs, and evidence related to social jet lag.",Sleep,Sleep Timing and Real Life,pending
+SLP-067,Jet Lag,"Practical guidance, tradeoffs, and evidence related to jet lag.",Sleep,Sleep Timing and Real Life,pending
+SLP-068,Shift Work and Sleep,"Practical guidance, tradeoffs, and evidence related to shift work and sleep.",Sleep,Sleep Timing and Real Life,pending
+SLP-069,Night Shift Sleep Strategies,"Practical guidance, tradeoffs, and evidence related to night shift sleep strategies.",Sleep,Sleep Timing and Real Life,pending
+SLP-070,Travel and Sleep,"Practical guidance, tradeoffs, and evidence related to travel and sleep.",Sleep,Sleep Timing and Real Life,pending
+SLP-071,Sleeping in Hotels,"Practical guidance, tradeoffs, and evidence related to sleeping in hotels.",Sleep,Sleep Timing and Real Life,pending
+SLP-072,Daylight Saving Time,"Practical guidance, tradeoffs, and evidence related to daylight saving time.",Sleep,Sleep Timing and Real Life,pending
+SLP-073,Early Morning Schedules,"Practical guidance, tradeoffs, and evidence related to early morning schedules.",Sleep,Sleep Timing and Real Life,pending
+SLP-074,Late-Night Schedules,"Practical guidance, tradeoffs, and evidence related to late-night schedules.",Sleep,Sleep Timing and Real Life,pending
+SLP-075,Sleep for Busy Professionals,"Practical guidance, tradeoffs, and evidence related to sleep for busy professionals.",Sleep,Sleep Timing and Real Life,pending
+SLP-076,Insomnia,"Definitions, symptoms, evaluation, management, safety, and evidence related to insomnia.",Sleep,Sleep Problems and Disorders,pending
+SLP-077,Acute Insomnia,"Definitions, symptoms, evaluation, management, safety, and evidence related to acute insomnia.",Sleep,Sleep Problems and Disorders,pending
+SLP-078,Chronic Insomnia,"Definitions, symptoms, evaluation, management, safety, and evidence related to chronic insomnia.",Sleep,Sleep Problems and Disorders,pending
+SLP-079,Cognitive Behavioral Therapy for Insomnia,"Definitions, symptoms, evaluation, management, safety, and evidence related to cognitive behavioral therapy for insomnia.",Sleep,Sleep Problems and Disorders,pending
+SLP-080,Stimulus Control for Insomnia,"Definitions, symptoms, evaluation, management, safety, and evidence related to stimulus control for insomnia.",Sleep,Sleep Problems and Disorders,pending
+SLP-081,Sleep Restriction Therapy,"Definitions, symptoms, evaluation, management, safety, and evidence related to sleep restriction therapy.",Sleep,Sleep Problems and Disorders,pending
+SLP-082,Relaxation Therapy for Insomnia,"Definitions, symptoms, evaluation, management, safety, and evidence related to relaxation therapy for insomnia.",Sleep,Sleep Problems and Disorders,pending
+SLP-083,Sleep Medications,"Definitions, symptoms, evaluation, management, safety, and evidence related to sleep medications.",Sleep,Sleep Problems and Disorders,pending
+SLP-084,Melatonin,"Definitions, symptoms, evaluation, management, safety, and evidence related to melatonin.",Sleep,Sleep Problems and Disorders,pending
+SLP-085,Sleep Apnea,"Definitions, symptoms, evaluation, management, safety, and evidence related to sleep apnea.",Sleep,Sleep Problems and Disorders,pending
+SLP-086,Obstructive Sleep Apnea,"Definitions, symptoms, evaluation, management, safety, and evidence related to obstructive sleep apnea.",Sleep,Sleep Problems and Disorders,pending
+SLP-087,Central Sleep Apnea,"Definitions, symptoms, evaluation, management, safety, and evidence related to central sleep apnea.",Sleep,Sleep Problems and Disorders,pending
+SLP-088,Snoring,"Definitions, symptoms, evaluation, management, safety, and evidence related to snoring.",Sleep,Sleep Problems and Disorders,pending
+SLP-089,CPAP Therapy,"Definitions, symptoms, evaluation, management, safety, and evidence related to cpap therapy.",Sleep,Sleep Problems and Disorders,pending
+SLP-090,Oral Appliances for Sleep Apnea,"Definitions, symptoms, evaluation, management, safety, and evidence related to oral appliances for sleep apnea.",Sleep,Sleep Problems and Disorders,pending
+SLP-091,Restless Legs Syndrome,"Definitions, symptoms, evaluation, management, safety, and evidence related to restless legs syndrome.",Sleep,Sleep Problems and Disorders,pending
+SLP-092,Periodic Limb Movements,"Definitions, symptoms, evaluation, management, safety, and evidence related to periodic limb movements.",Sleep,Sleep Problems and Disorders,pending
+SLP-093,Parasomnias,"Definitions, symptoms, evaluation, management, safety, and evidence related to parasomnias.",Sleep,Sleep Problems and Disorders,pending
+SLP-094,Sleepwalking,"Definitions, symptoms, evaluation, management, safety, and evidence related to sleepwalking.",Sleep,Sleep Problems and Disorders,pending
+SLP-095,Nightmares,"Definitions, symptoms, evaluation, management, safety, and evidence related to nightmares.",Sleep,Sleep Problems and Disorders,pending
+SLP-096,Sleep Paralysis,"Evidence, common questions, limitations, and practical considerations for sleep paralysis.",Sleep,Special Sleep Topics,pending
+SLP-097,REM Sleep Behavior Disorder,"Evidence, common questions, limitations, and practical considerations for rem sleep behavior disorder.",Sleep,Special Sleep Topics,pending
+SLP-098,Sleep Tracking Devices,"Evidence, common questions, limitations, and practical considerations for sleep tracking devices.",Sleep,Special Sleep Topics,pending
+SLP-099,Sleep Scores,"Evidence, common questions, limitations, and practical considerations for sleep scores.",Sleep,Special Sleep Topics,pending
+SLP-100,Smartwatches and Sleep,"Evidence, common questions, limitations, and practical considerations for smartwatches and sleep.",Sleep,Special Sleep Topics,pending

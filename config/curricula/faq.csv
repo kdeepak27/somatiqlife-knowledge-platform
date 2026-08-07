@@ -1,0 +1,201 @@
+module_id,title,subtitle,domain,category,status
+FAQ-001,How much protein do I need?,Evidence-based answer to the common question: how much protein do i need?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-002,Are carbohydrates bad for health?,Evidence-based answer to the common question: are carbohydrates bad for health?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-003,How much fiber should I eat?,Evidence-based answer to the common question: how much fiber should i eat?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-004,Is dietary fat unhealthy?,Evidence-based answer to the common question: is dietary fat unhealthy?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-005,How much added sugar is too much?,Evidence-based answer to the common question: how much added sugar is too much?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-006,Is breakfast necessary?,Evidence-based answer to the common question: is breakfast necessary?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-007,How often should I eat?,Evidence-based answer to the common question: how often should i eat?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-008,Are snacks unhealthy?,Evidence-based answer to the common question: are snacks unhealthy?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-009,Is late-night eating bad?,Evidence-based answer to the common question: is late-night eating bad?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-010,How much water should I drink?,Evidence-based answer to the common question: how much water should i drink?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-011,Is coffee healthy?,Evidence-based answer to the common question: is coffee healthy?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-012,Is tea healthy?,Evidence-based answer to the common question: is tea healthy?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-013,Are artificial sweeteners safe?,Evidence-based answer to the common question: are artificial sweeteners safe?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-014,Is intermittent fasting healthy?,Evidence-based answer to the common question: is intermittent fasting healthy?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-015,Is a vegetarian diet healthy?,Evidence-based answer to the common question: is a vegetarian diet healthy?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-016,Is a vegan diet healthy?,Evidence-based answer to the common question: is a vegan diet healthy?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-017,Is the Mediterranean diet best?,Evidence-based answer to the common question: is the mediterranean diet best?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-018,How do I read a nutrition label?,Evidence-based answer to the common question: how do i read a nutrition label?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-019,Do I need a multivitamin?,Evidence-based answer to the common question: do i need a multivitamin?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-020,How can I eat healthy on a budget?,Evidence-based answer to the common question: how can i eat healthy on a budget?,Frequently Asked Questions,Nutrition FAQs,pending
+FAQ-021,How much exercise do I need?,Evidence-based answer to the common question: how much exercise do i need?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-022,Is walking enough exercise?,Evidence-based answer to the common question: is walking enough exercise?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-023,How many steps should I get?,Evidence-based answer to the common question: how many steps should i get?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-024,Do I need cardio and strength training?,Evidence-based answer to the common question: do i need cardio and strength training?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-025,How often should I strength train?,Evidence-based answer to the common question: how often should i strength train?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-026,How many sets should I do?,Evidence-based answer to the common question: how many sets should i do?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-027,How heavy should I lift?,Evidence-based answer to the common question: how heavy should i lift?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-028,Do I need to train to failure?,Evidence-based answer to the common question: do i need to train to failure?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-029,How long should a workout be?,Evidence-based answer to the common question: how long should a workout be?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-030,What is Zone 2 training?,Evidence-based answer to the common question: what is zone 2 training?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-031,Is HIIT necessary?,Evidence-based answer to the common question: is hiit necessary?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-032,How can I improve VO2 max?,Evidence-based answer to the common question: how can i improve vo2 max?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-033,Should I stretch before exercise?,Evidence-based answer to the common question: should i stretch before exercise?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-034,How much rest do I need between workouts?,Evidence-based answer to the common question: how much rest do i need between workouts?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-035,Why am I sore after exercise?,Evidence-based answer to the common question: why am i sore after exercise?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-036,Can I exercise every day?,Evidence-based answer to the common question: can i exercise every day?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-037,How do I start exercising after a long break?,Evidence-based answer to the common question: how do i start exercising after a long break?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-038,Is exercise safe after 50?,Evidence-based answer to the common question: is exercise safe after 50?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-039,How do I prevent exercise injuries?,Evidence-based answer to the common question: how do i prevent exercise injuries?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-040,What is the best exercise for longevity?,Evidence-based answer to the common question: what is the best exercise for longevity?,Frequently Asked Questions,Exercise FAQs,pending
+FAQ-041,How much sleep do adults need?,Evidence-based answer to the common question: how much sleep do adults need?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-042,Can I function well on six hours of sleep?,Evidence-based answer to the common question: can i function well on six hours of sleep?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-043,Why do I wake up at night?,Evidence-based answer to the common question: why do i wake up at night?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-044,Why am I tired after enough sleep?,Evidence-based answer to the common question: why am i tired after enough sleep?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-045,How can I fall asleep faster?,Evidence-based answer to the common question: how can i fall asleep faster?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-046,What should I do if I cannot sleep?,Evidence-based answer to the common question: what should i do if i cannot sleep?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-047,Are naps good for health?,Evidence-based answer to the common question: are naps good for health?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-048,Can I catch up on sleep on weekends?,Evidence-based answer to the common question: can i catch up on sleep on weekends?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-049,Does caffeine affect sleep?,Evidence-based answer to the common question: does caffeine affect sleep?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-050,Does alcohol help sleep?,Evidence-based answer to the common question: does alcohol help sleep?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-051,Do screens really affect sleep?,Evidence-based answer to the common question: do screens really affect sleep?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-052,What bedroom temperature is best?,Evidence-based answer to the common question: what bedroom temperature is best?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-053,Does exercise improve sleep?,Evidence-based answer to the common question: does exercise improve sleep?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-054,What is deep sleep?,Evidence-based answer to the common question: what is deep sleep?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-055,What is REM sleep?,Evidence-based answer to the common question: what is rem sleep?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-056,Are sleep trackers accurate?,Evidence-based answer to the common question: are sleep trackers accurate?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-057,Should I take melatonin?,Evidence-based answer to the common question: should i take melatonin?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-058,How do I know if I have sleep apnea?,Evidence-based answer to the common question: how do i know if i have sleep apnea?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-059,Why do I snore?,Evidence-based answer to the common question: why do i snore?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-060,How can I improve my sleep naturally?,Evidence-based answer to the common question: how can i improve my sleep naturally?,Frequently Asked Questions,Sleep FAQs,pending
+FAQ-061,Why am I gaining weight?,Evidence-based answer to the common question: why am i gaining weight?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-062,Why is weight loss so difficult?,Evidence-based answer to the common question: why is weight loss so difficult?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-063,How fast should I lose weight?,Evidence-based answer to the common question: how fast should i lose weight?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-064,Do calories matter?,Evidence-based answer to the common question: do calories matter?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-065,Can I lose fat without counting calories?,Evidence-based answer to the common question: can i lose fat without counting calories?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-066,How much protein helps weight loss?,Evidence-based answer to the common question: how much protein helps weight loss?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-067,Does walking help weight loss?,Evidence-based answer to the common question: does walking help weight loss?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-068,Does strength training help weight loss?,Evidence-based answer to the common question: does strength training help weight loss?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-069,Why did my weight loss stop?,Evidence-based answer to the common question: why did my weight loss stop?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-070,Why does body weight fluctuate?,Evidence-based answer to the common question: why does body weight fluctuate?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-071,Is belly fat more dangerous?,Evidence-based answer to the common question: is belly fat more dangerous?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-072,Can I lose belly fat specifically?,Evidence-based answer to the common question: can i lose belly fat specifically?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-073,Does metabolism slow with age?,Evidence-based answer to the common question: does metabolism slow with age?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-074,Can sleep affect weight?,Evidence-based answer to the common question: can sleep affect weight?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-075,Can stress affect weight?,Evidence-based answer to the common question: can stress affect weight?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-076,Should I weigh myself every day?,Evidence-based answer to the common question: should i weigh myself every day?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-077,What is a healthy weight?,Evidence-based answer to the common question: what is a healthy weight?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-078,Is BMI useful?,Evidence-based answer to the common question: is bmi useful?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-079,How do I maintain lost weight?,Evidence-based answer to the common question: how do i maintain lost weight?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-080,What is the most sustainable way to lose weight?,Evidence-based answer to the common question: what is the most sustainable way to lose weight?,Frequently Asked Questions,Weight FAQs,pending
+FAQ-081,What is insulin resistance?,Evidence-based answer to the common question: what is insulin resistance?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-082,What is prediabetes?,Evidence-based answer to the common question: what is prediabetes?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-083,Can prediabetes be reversed?,Evidence-based answer to the common question: can prediabetes be reversed?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-084,What causes type 2 diabetes?,Evidence-based answer to the common question: what causes type 2 diabetes?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-085,How can I lower blood sugar naturally?,Evidence-based answer to the common question: how can i lower blood sugar naturally?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-086,What does HbA1c mean?,Evidence-based answer to the common question: what does hba1c mean?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-087,What is fasting glucose?,Evidence-based answer to the common question: what is fasting glucose?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-088,Why does blood sugar rise after meals?,Evidence-based answer to the common question: why does blood sugar rise after meals?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-089,Does walking after meals help blood sugar?,Evidence-based answer to the common question: does walking after meals help blood sugar?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-090,Does strength training improve insulin sensitivity?,Evidence-based answer to the common question: does strength training improve insulin sensitivity?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-091,What is metabolic syndrome?,Evidence-based answer to the common question: what is metabolic syndrome?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-092,What causes fatty liver?,Evidence-based answer to the common question: what causes fatty liver?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-093,Can fatty liver improve?,Evidence-based answer to the common question: can fatty liver improve?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-094,What are triglycerides?,Evidence-based answer to the common question: what are triglycerides?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-095,How can I lower triglycerides?,Evidence-based answer to the common question: how can i lower triglycerides?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-096,What is visceral fat?,Evidence-based answer to the common question: what is visceral fat?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-097,How can I improve metabolic health?,Evidence-based answer to the common question: how can i improve metabolic health?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-098,Does sleep affect blood sugar?,Evidence-based answer to the common question: does sleep affect blood sugar?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-099,Does stress raise blood sugar?,Evidence-based answer to the common question: does stress raise blood sugar?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-100,What should I monitor for metabolic health?,Evidence-based answer to the common question: what should i monitor for metabolic health?,Frequently Asked Questions,Metabolic Health FAQs,pending
+FAQ-101,What is a healthy blood pressure?,Evidence-based answer to the common question: what is a healthy blood pressure?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-102,Why does blood pressure rise with age?,Evidence-based answer to the common question: why does blood pressure rise with age?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-103,How can I lower blood pressure?,Evidence-based answer to the common question: how can i lower blood pressure?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-104,What is LDL cholesterol?,Evidence-based answer to the common question: what is ldl cholesterol?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-105,What is HDL cholesterol?,Evidence-based answer to the common question: what is hdl cholesterol?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-106,What is ApoB?,Evidence-based answer to the common question: what is apob?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-107,What is lipoprotein(a)?,Evidence-based answer to the common question: what is lipoprotein(a)?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-108,Should I worry about cholesterol in food?,Evidence-based answer to the common question: should i worry about cholesterol in food?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-109,Does saturated fat raise cholesterol?,Evidence-based answer to the common question: does saturated fat raise cholesterol?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-110,Does exercise lower cholesterol?,Evidence-based answer to the common question: does exercise lower cholesterol?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-111,How does fiber affect cholesterol?,Evidence-based answer to the common question: how does fiber affect cholesterol?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-112,What causes atherosclerosis?,Evidence-based answer to the common question: what causes atherosclerosis?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-113,How can I reduce heart attack risk?,Evidence-based answer to the common question: how can i reduce heart attack risk?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-114,How can I reduce stroke risk?,Evidence-based answer to the common question: how can i reduce stroke risk?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-115,What is coronary calcium scoring?,Evidence-based answer to the common question: what is coronary calcium scoring?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-116,Does stress affect the heart?,Evidence-based answer to the common question: does stress affect the heart?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-117,How does sleep affect heart health?,Evidence-based answer to the common question: how does sleep affect heart health?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-118,Why are South Asians at higher cardiovascular risk?,Evidence-based answer to the common question: why are south asians at higher cardiovascular risk?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-119,What should I track for heart health?,Evidence-based answer to the common question: what should i track for heart health?,Frequently Asked Questions,Heart Health FAQs,pending
+FAQ-120,How can I age well?,Evidence-based answer to the common question: how can i age well?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-121,Why do we lose muscle with age?,Evidence-based answer to the common question: why do we lose muscle with age?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-122,How can I prevent muscle loss?,Evidence-based answer to the common question: how can i prevent muscle loss?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-123,How much protein do older adults need?,Evidence-based answer to the common question: how much protein do older adults need?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-124,Can I build muscle after 60?,Evidence-based answer to the common question: can i build muscle after 60?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-125,What exercise is most important after 50?,Evidence-based answer to the common question: what exercise is most important after 50?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-126,How can I maintain balance?,Evidence-based answer to the common question: how can i maintain balance?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-127,How can I prevent falls?,Evidence-based answer to the common question: how can i prevent falls?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-128,How can I protect my bones?,Evidence-based answer to the common question: how can i protect my bones?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-129,How can I reduce dementia risk?,Evidence-based answer to the common question: how can i reduce dementia risk?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-130,Does exercise help brain aging?,Evidence-based answer to the common question: does exercise help brain aging?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-131,How can I preserve mobility?,Evidence-based answer to the common question: how can i preserve mobility?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-132,What is frailty?,Evidence-based answer to the common question: what is frailty?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-133,Can frailty be reversed?,Evidence-based answer to the common question: can frailty be reversed?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-134,How does sleep change with age?,Evidence-based answer to the common question: how does sleep change with age?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-135,Why does metabolism change with age?,Evidence-based answer to the common question: why does metabolism change with age?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-136,How can I maintain energy as I age?,Evidence-based answer to the common question: how can i maintain energy as i age?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-137,What predicts healthy longevity?,Evidence-based answer to the common question: what predicts healthy longevity?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-138,Do longevity supplements work?,Evidence-based answer to the common question: do longevity supplements work?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-139,What habits matter most for healthspan?,Evidence-based answer to the common question: what habits matter most for healthspan?,Frequently Asked Questions,Healthy Aging FAQs,pending
+FAQ-140,What is chronic stress?,Evidence-based answer to the common question: what is chronic stress?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-141,How does stress affect the body?,Evidence-based answer to the common question: how does stress affect the body?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-142,How can I lower stress quickly?,Evidence-based answer to the common question: how can i lower stress quickly?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-143,Do breathing exercises really work?,Evidence-based answer to the common question: do breathing exercises really work?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-144,Does meditation reduce stress?,Evidence-based answer to the common question: does meditation reduce stress?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-145,How much exercise helps stress?,Evidence-based answer to the common question: how much exercise helps stress?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-146,Can stress cause physical symptoms?,Evidence-based answer to the common question: can stress cause physical symptoms?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-147,Can stress affect digestion?,Evidence-based answer to the common question: can stress affect digestion?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-148,Can stress raise blood pressure?,Evidence-based answer to the common question: can stress raise blood pressure?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-149,Can stress affect sleep?,Evidence-based answer to the common question: can stress affect sleep?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-150,What is burnout?,Evidence-based answer to the common question: what is burnout?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-151,How do I know if I am burned out?,Evidence-based answer to the common question: how do i know if i am burned out?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-152,How can I stop overthinking?,Evidence-based answer to the common question: how can i stop overthinking?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-153,How can I reduce worry?,Evidence-based answer to the common question: how can i reduce worry?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-154,How can I build resilience?,Evidence-based answer to the common question: how can i build resilience?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-155,Does social connection reduce stress?,Evidence-based answer to the common question: does social connection reduce stress?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-156,How do I set healthier boundaries?,Evidence-based answer to the common question: how do i set healthier boundaries?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-157,When should I seek help for stress?,Evidence-based answer to the common question: when should i seek help for stress?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-158,What is the best daily stress-management routine?,Evidence-based answer to the common question: what is the best daily stress-management routine?,Frequently Asked Questions,Stress FAQs,pending
+FAQ-159,What changes during perimenopause?,Evidence-based answer to the common question: what changes during perimenopause?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-160,What happens during menopause?,Evidence-based answer to the common question: what happens during menopause?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-161,Why does weight change during menopause?,Evidence-based answer to the common question: why does weight change during menopause?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-162,How can women protect bone health?,Evidence-based answer to the common question: how can women protect bone health?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-163,How much protein do women over 40 need?,Evidence-based answer to the common question: how much protein do women over 40 need?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-164,Is strength training safe for women?,Evidence-based answer to the common question: is strength training safe for women?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-165,How does the menstrual cycle affect exercise?,Evidence-based answer to the common question: how does the menstrual cycle affect exercise?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-166,What causes heavy periods?,Evidence-based answer to the common question: what causes heavy periods?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-167,What causes irregular periods?,Evidence-based answer to the common question: what causes irregular periods?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-168,What is PCOS?,Evidence-based answer to the common question: what is pcos?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-169,What is endometriosis?,Evidence-based answer to the common question: what is endometriosis?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-170,What is menopause hormone therapy?,Evidence-based answer to the common question: what is menopause hormone therapy?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-171,How does menopause affect sleep?,Evidence-based answer to the common question: how does menopause affect sleep?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-172,How does menopause affect heart health?,Evidence-based answer to the common question: how does menopause affect heart health?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-173,What preventive screenings do women need?,Evidence-based answer to the common question: what preventive screenings do women need?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-174,How can women reduce breast cancer risk?,Evidence-based answer to the common question: how can women reduce breast cancer risk?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-175,What is cervical cancer screening?,Evidence-based answer to the common question: what is cervical cancer screening?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-176,How can women improve pelvic floor health?,Evidence-based answer to the common question: how can women improve pelvic floor health?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-177,How can women prevent iron deficiency?,Evidence-based answer to the common question: how can women prevent iron deficiency?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-178,What habits matter most for women's healthy aging?,Evidence-based answer to the common question: what habits matter most for women's healthy aging?,Frequently Asked Questions,Women's Health FAQs,pending
+FAQ-179,What preventive screenings do men need?,Evidence-based answer to the common question: what preventive screenings do men need?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-180,What causes low testosterone?,Evidence-based answer to the common question: what causes low testosterone?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-181,Should testosterone be checked routinely?,Evidence-based answer to the common question: should testosterone be checked routinely?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-182,What is erectile dysfunction?,Evidence-based answer to the common question: what is erectile dysfunction?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-183,What causes prostate enlargement?,Evidence-based answer to the common question: what causes prostate enlargement?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-184,What is PSA testing?,Evidence-based answer to the common question: what is psa testing?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-185,How can men reduce prostate cancer risk?,Evidence-based answer to the common question: how can men reduce prostate cancer risk?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-186,Why do men gain belly fat with age?,Evidence-based answer to the common question: why do men gain belly fat with age?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-187,How can men maintain muscle after 40?,Evidence-based answer to the common question: how can men maintain muscle after 40?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-188,How much protein do men need?,Evidence-based answer to the common question: how much protein do men need?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-189,Is strength training safe after 60?,Evidence-based answer to the common question: is strength training safe after 60?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-190,Why is sleep apnea common in men?,Evidence-based answer to the common question: why is sleep apnea common in men?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-191,How can men improve heart health?,Evidence-based answer to the common question: how can men improve heart health?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-192,How can men reduce diabetes risk?,Evidence-based answer to the common question: how can men reduce diabetes risk?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-193,How does alcohol affect men's health?,Evidence-based answer to the common question: how does alcohol affect men's health?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-194,How can men reduce stress?,Evidence-based answer to the common question: how can men reduce stress?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-195,Why is depression sometimes missed in men?,Evidence-based answer to the common question: why is depression sometimes missed in men?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-196,How can men maintain sexual health?,Evidence-based answer to the common question: how can men maintain sexual health?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-197,How can men improve energy?,Evidence-based answer to the common question: how can men improve energy?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-198,What habits matter most for men's healthy aging?,Evidence-based answer to the common question: what habits matter most for men's healthy aging?,Frequently Asked Questions,Men's Health FAQs,pending
+FAQ-199,Integrating Frequently Asked Questions: Practical Synthesis 1,"An integrated evidence-based synthesis of frequently asked questions concepts, priorities, practical application, and safety.",Frequently Asked Questions,Integrated Practice,pending
+FAQ-200,Integrating Frequently Asked Questions: Practical Synthesis 2,"An integrated evidence-based synthesis of frequently asked questions concepts, priorities, practical application, and safety.",Frequently Asked Questions,Integrated Practice,pending

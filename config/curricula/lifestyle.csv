@@ -1,0 +1,151 @@
+module_id,title,subtitle,domain,category,status
+LIF-001,Lifestyle Medicine,"Foundations, evidence, and practical application of lifestyle medicine.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-002,Daily Routines and Health,"Foundations, evidence, and practical application of daily routines and health.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-003,Health Behaviors,"Foundations, evidence, and practical application of health behaviors.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-004,Preventive Health,"Foundations, evidence, and practical application of preventive health.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-005,Healthspan,"Foundations, evidence, and practical application of healthspan.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-006,Small Habits and Long-Term Health,"Foundations, evidence, and practical application of small habits and long-term health.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-007,Consistency vs Perfection,"Foundations, evidence, and practical application of consistency vs perfection.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-008,Lifestyle Risk Factors,"Foundations, evidence, and practical application of lifestyle risk factors.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-009,Lifestyle Protective Factors,"Foundations, evidence, and practical application of lifestyle protective factors.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-010,Creating a Healthy Environment,"Foundations, evidence, and practical application of creating a healthy environment.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-011,Health Priorities,"Foundations, evidence, and practical application of health priorities.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-012,Health Goals,"Foundations, evidence, and practical application of health goals.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-013,Self-Monitoring,"Foundations, evidence, and practical application of self-monitoring.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-014,Personal Health Planning,"Foundations, evidence, and practical application of personal health planning.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-015,Sustainable Change,"Foundations, evidence, and practical application of sustainable change.",Lifestyle and Healthy Habits,Lifestyle Foundations,pending
+LIF-016,Sedentary Behavior,Practical ways to understand and improve sedentary behavior.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-017,Breaking Up Sitting Time,Practical ways to understand and improve breaking up sitting time.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-018,Desk Work and Health,Practical ways to understand and improve desk work and health.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-019,Standing More,Practical ways to understand and improve standing more.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-020,Active Commuting,Practical ways to understand and improve active commuting.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-021,Walking Meetings,Practical ways to understand and improve walking meetings.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-022,Movement Snacks,Practical ways to understand and improve movement snacks.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-023,Household Activity,Practical ways to understand and improve household activity.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-024,Gardening,Practical ways to understand and improve gardening.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-025,Recreational Activity,Practical ways to understand and improve recreational activity.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-026,Weekend Activity,Practical ways to understand and improve weekend activity.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-027,Active Travel,Practical ways to understand and improve active travel.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-028,Stairs vs Elevators,Practical ways to understand and improve stairs vs elevators.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-029,Daily Step Habits,Practical ways to understand and improve daily step habits.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-030,Movement at Home,Practical ways to understand and improve movement at home.,Lifestyle and Healthy Habits,Daily Movement,pending
+LIF-031,Home Cooking,How home cooking influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-032,Meal Routines,How meal routines influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-033,Eating at Work,How eating at work influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-034,Eating While Traveling,How eating while traveling influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-035,Eating at Social Events,How eating at social events influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-036,Restaurant Habits,How restaurant habits influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-037,Healthy Grocery Habits,How healthy grocery habits influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-038,Kitchen Environment,How kitchen environment influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-039,Food Availability at Home,How food availability at home influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-040,Mindless Eating,How mindless eating influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-041,Eating While Watching Screens,How eating while watching screens influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-042,Late-Night Eating Habits,How late-night eating habits influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-043,Weekend Eating Patterns,How weekend eating patterns influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-044,Celebration Foods,How celebration foods influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-045,Building a Healthy Pantry,How building a healthy pantry influences health and practical strategies for improvement.,Lifestyle and Healthy Habits,Food and Daily Life,pending
+LIF-046,Protecting Sleep Time,"How protecting sleep time supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-047,Evening Routines,"How evening routines supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-048,Morning Routines,"How morning routines supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-049,Weekend Sleep Habits,"How weekend sleep habits supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-050,Recovery Days,"How recovery days supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-051,Rest and Productivity,"How rest and productivity supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-052,Managing Fatigue,"How managing fatigue supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-053,Energy Management,"How energy management supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-054,Work-Rest Cycles,"How work-rest cycles supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-055,Vacation and Recovery,"How vacation and recovery supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-056,Microbreaks,"How microbreaks supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-057,Downtime Without Screens,"How downtime without screens supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-058,Relaxation Habits,"How relaxation habits supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-059,Creating a Recovery-Friendly Home,"How creating a recovery-friendly home supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-060,Balancing Activity and Rest,"How balancing activity and rest supports recovery, energy, and sustainable health.",Lifestyle and Healthy Habits,Sleep and Recovery Lifestyle,pending
+LIF-061,Screen Time,"Health effects, evidence, and practical boundaries related to screen time.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-062,Smartphone Habits,"Health effects, evidence, and practical boundaries related to smartphone habits.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-063,Social Media Use,"Health effects, evidence, and practical boundaries related to social media use.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-064,Digital Well-Being,"Health effects, evidence, and practical boundaries related to digital well-being.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-065,Notifications and Attention,"Health effects, evidence, and practical boundaries related to notifications and attention.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-066,Email Boundaries,"Health effects, evidence, and practical boundaries related to email boundaries.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-067,Video Streaming Habits,"Health effects, evidence, and practical boundaries related to video streaming habits.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-068,Gaming and Health,"Health effects, evidence, and practical boundaries related to gaming and health.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-069,Device-Free Meals,"Health effects, evidence, and practical boundaries related to device-free meals.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-070,Device-Free Bedrooms,"Health effects, evidence, and practical boundaries related to device-free bedrooms.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-071,Blue Light Exposure,"Health effects, evidence, and practical boundaries related to blue light exposure.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-072,Digital Detox,"Health effects, evidence, and practical boundaries related to digital detox.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-073,Online Comparison,"Health effects, evidence, and practical boundaries related to online comparison.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-074,Doomscrolling,"Health effects, evidence, and practical boundaries related to doomscrolling.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-075,Healthy Technology Use,"Health effects, evidence, and practical boundaries related to healthy technology use.",Lifestyle and Healthy Habits,Digital Lifestyle,pending
+LIF-076,Alcohol and Health,"Health effects, risk reduction, and evidence-based considerations for alcohol and health.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-077,Low-Risk Alcohol Choices,"Health effects, risk reduction, and evidence-based considerations for low-risk alcohol choices.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-078,Binge Drinking,"Health effects, risk reduction, and evidence-based considerations for binge drinking.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-079,Smoking,"Health effects, risk reduction, and evidence-based considerations for smoking.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-080,Secondhand Smoke,"Health effects, risk reduction, and evidence-based considerations for secondhand smoke.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-081,Vaping,"Health effects, risk reduction, and evidence-based considerations for vaping.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-082,Nicotine Dependence,"Health effects, risk reduction, and evidence-based considerations for nicotine dependence.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-083,Cannabis and Health,"Health effects, risk reduction, and evidence-based considerations for cannabis and health.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-084,Recreational Drug Use,"Health effects, risk reduction, and evidence-based considerations for recreational drug use.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-085,Prescription Drug Misuse,"Health effects, risk reduction, and evidence-based considerations for prescription drug misuse.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-086,Caffeine Habits,"Health effects, risk reduction, and evidence-based considerations for caffeine habits.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-087,Energy Drink Habits,"Health effects, risk reduction, and evidence-based considerations for energy drink habits.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-088,Reducing Alcohol,"Health effects, risk reduction, and evidence-based considerations for reducing alcohol.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-089,Quitting Smoking,"Health effects, risk reduction, and evidence-based considerations for quitting smoking.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-090,Substance Use and Sleep,"Health effects, risk reduction, and evidence-based considerations for substance use and sleep.",Lifestyle and Healthy Habits,Substances and Health,pending
+LIF-091,Social Connection and Health,How social connection and health can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-092,Loneliness Prevention,How loneliness prevention can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-093,Community Participation,How community participation can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-094,Volunteering,How volunteering can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-095,Hobbies,How hobbies can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-096,Creative Activities,How creative activities can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-097,Spiritual Practices and Well-Being,How spiritual practices and well-being can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-098,Nature Exposure,How nature exposure can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-099,Green Space,How green space can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-100,Sunlight Exposure,How sunlight exposure can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-101,Noise Exposure,How noise exposure can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-102,Air Pollution,How air pollution can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-103,Indoor Air Quality,How indoor air quality can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-104,Household Chemicals,How household chemicals can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-105,Healthy Home Design,How healthy home design can influence physical and mental well-being.,Lifestyle and Healthy Habits,Social and Environmental Health,pending
+LIF-106,Healthy Work Habits,Practical health considerations and strategies related to healthy work habits.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-107,Work-Life Balance,Practical health considerations and strategies related to work-life balance.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-108,Ergonomics,Practical health considerations and strategies related to ergonomics.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-109,Computer Workstation Setup,Practical health considerations and strategies related to computer workstation setup.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-110,Eye Strain,Practical health considerations and strategies related to eye strain.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-111,Work Breaks,Practical health considerations and strategies related to work breaks.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-112,Shift Work Lifestyle,Practical health considerations and strategies related to shift work lifestyle.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-113,Business Travel Health,Practical health considerations and strategies related to business travel health.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-114,Meeting Fatigue,Practical health considerations and strategies related to meeting fatigue.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-115,Productivity and Health,Practical health considerations and strategies related to productivity and health.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-116,Deep Work and Well-Being,Practical health considerations and strategies related to deep work and well-being.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-117,Managing Workload,Practical health considerations and strategies related to managing workload.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-118,Remote Work Health,Practical health considerations and strategies related to remote work health.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-119,Healthy Leadership Habits,Practical health considerations and strategies related to healthy leadership habits.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-120,Retirement Transition,Practical health considerations and strategies related to retirement transition.,Lifestyle and Healthy Habits,Work and Productivity,pending
+LIF-121,Primary Care Visits,"How primary care visits supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-122,Preventive Screenings,"How preventive screenings supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-123,Vaccinations for Adults,"How vaccinations for adults supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-124,Dental Care,"How dental care supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-125,Eye Care,"How eye care supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-126,Hearing Care,"How hearing care supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-127,Skin Health Checks,"How skin health checks supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-128,Medication Reviews,"How medication reviews supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-129,Family Health History,"How family health history supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-130,Home Blood Pressure Monitoring,"How home blood pressure monitoring supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-131,Weight Monitoring,"How weight monitoring supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-132,Waist Circumference,"How waist circumference supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-133,Health Records,"How health records supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-134,Preparing for Doctor Visits,"How preparing for doctor visits supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-135,Shared Decision Making,"How shared decision making supports prevention, early detection, and informed health decisions.",Lifestyle and Healthy Habits,Preventive Care,pending
+LIF-136,Fall Prevention at Home,Evidence-based safety and prevention principles related to fall prevention at home.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
+LIF-137,Driving and Health,Evidence-based safety and prevention principles related to driving and health.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
+LIF-138,Seat Belt Use,Evidence-based safety and prevention principles related to seat belt use.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
+LIF-139,Sun Protection,Evidence-based safety and prevention principles related to sun protection.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
+LIF-140,Heat Safety,Evidence-based safety and prevention principles related to heat safety.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
+LIF-141,Cold Weather Safety,Evidence-based safety and prevention principles related to cold weather safety.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
+LIF-142,Travel Health,Evidence-based safety and prevention principles related to travel health.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
+LIF-143,Food Safety Habits,Evidence-based safety and prevention principles related to food safety habits.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
+LIF-144,Hand Hygiene,Evidence-based safety and prevention principles related to hand hygiene.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
+LIF-145,Sleepiness and Driving,Evidence-based safety and prevention principles related to sleepiness and driving.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
+LIF-146,Home Emergency Preparedness,Evidence-based safety and prevention principles related to home emergency preparedness.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
+LIF-147,First Aid Basics,Evidence-based safety and prevention principles related to first aid basics.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
+LIF-148,Medication Storage,Evidence-based safety and prevention principles related to medication storage.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
+LIF-149,Safe Lifting at Home,Evidence-based safety and prevention principles related to safe lifting at home.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
+LIF-150,Healthy Aging at Home,Evidence-based safety and prevention principles related to healthy aging at home.,Lifestyle and Healthy Habits,Safety and Everyday Health,pending
