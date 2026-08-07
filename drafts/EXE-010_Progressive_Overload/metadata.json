@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-010",
+  "title": "Progressive Overload",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for progressive overload",
+  "domain": "Exercise",
+  "category": "Exercise Foundations",
+  "som_stages": [
+    "Foundational Knowledge",
+    "Practical Application"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Coaches",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "progressive overload",
+    "strength training",
+    "exercise progression",
+    "muscle hypertrophy",
+    "training adaptation",
+    "exercise physiology",
+    "fitness progression",
+    "overtraining",
+    "safety in exercise",
+    "muscle growth"
+  ],
+  "related_modules": [
+    "EXE-005",
+    "EXE-015",
+    "EXE-020"
+  ],
+  "evidence_strength": "Established evidence supported by multiple scientific studies, with some emerging evidence on individual variability and optimal progression rates.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

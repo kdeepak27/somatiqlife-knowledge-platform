@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-006",
+  "title": "Exercise Intensity",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise intensity",
+  "domain": "Exercise",
+  "category": "Exercise Foundations",
+  "som_stages": [
+    "Introduction",
+    "Fundamentals",
+    "Application",
+    "Safety"
+  ],
+  "audience": [
+    "Consumers",
+    "Fitness Professionals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "exercise intensity",
+    "workload",
+    "heart rate",
+    "VO2 max",
+    "perceived exertion",
+    "training zones",
+    "progression",
+    "safety"
+  ],
+  "related_modules": [
+    "EXE-004",
+    "EXE-010",
+    "EXE-012"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging insights on individualized intensity regulation",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
