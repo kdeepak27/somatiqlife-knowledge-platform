@@ -1,0 +1,35 @@
+{
+  "module_id": "EXE-127",
+  "title": "Strength Training for Men",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for strength training for men",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "Adult Men",
+    "Fitness Enthusiasts",
+    "Healthcare Providers",
+    "Personal Trainers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Strength Training",
+    "Resistance Exercise",
+    "Muscle Hypertrophy",
+    "Progressive Overload",
+    "Testosterone",
+    "Safety"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-115",
+    "NUT-205"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-126",
+  "title": "Strength Training for Women",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for strength training for women",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance",
+    "Wellness Enhancement"
+  ],
+  "audience": [
+    "Women",
+    "Fitness Enthusiasts",
+    "Health Professionals",
+    "Athletes"
+  ],
+  "reading_level": "General Public",
+  "keywords": [
+    "Strength Training",
+    "Resistance Training",
+    "Women's Health",
+    "Muscle Hypertrophy",
+    "Bone Health",
+    "Exercise Safety",
+    "Progressive Overload",
+    "Physical Fitness"
+  ],
+  "related_modules": [
+    "EXE-122_ResistanceTrainingBasics",
+    "EXE-130_ExerciseNutrition",
+    "EXE-140_WomensHealthExercise"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-128",
+  "title": "Strength Training After 40",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for strength training after 40",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Awareness",
+    "Consideration",
+    "Action"
+  ],
+  "audience": [
+    "Adults over 40",
+    "Fitness enthusiasts",
+    "Healthcare providers",
+    "Physical therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "strength training",
+    "resistance exercise",
+    "aging muscles",
+    "sarcopenia",
+    "muscle hypertrophy",
+    "progression",
+    "safety",
+    "older adults"
+  ],
+  "related_modules": [
+    "EXE-011: Aerobic Exercise Benefits After 40",
+    "NUT-045: Nutrition for Healthy Aging",
+    "MUS-056: Managing Osteoarthritis Through Exercise"
+  ],
+  "evidence_strength": "Established evidence supported by randomized controlled trials and clinical guidelines",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
