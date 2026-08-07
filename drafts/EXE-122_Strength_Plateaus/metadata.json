@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-122",
+  "title": "Strength Plateaus",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for strength plateaus",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Understanding",
+    "Application",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Exercise Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "strength plateau",
+    "strength training",
+    "resistance training",
+    "progressive overload",
+    "muscle adaptation",
+    "training progression",
+    "exercise physiology",
+    "training limitations",
+    "training safety",
+    "muscle hypertrophy"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-130",
+    "EXE-145"
+  ],
+  "evidence_strength": "Established evidence supplemented by emerging evidence and expert consensus",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
