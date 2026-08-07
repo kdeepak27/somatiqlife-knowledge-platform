@@ -1,5 +1,4 @@
 name: Generate SOMatiq modules
-
 on:
   workflow_dispatch:
     inputs:
@@ -8,74 +7,47 @@ on:
         required: true
         default: gpt-4.1-mini
         type: string
-
       module_count:
         description: Number of pending modules to generate
         required: true
-        default: "25"
+        default: "10"
         type: choice
-        options:
-          - "1"
-          - "10"
-          - "20"
-          - "25"
-          - "50"
-
+        options: ["1", "5", "10", "25", "50"]
 permissions:
   contents: write
-
 concurrency:
   group: somatiq-generation
   cancel-in-progress: false
-
 jobs:
   generate:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 360
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
-
-      - name: Set up Python
-        uses: actions/setup-python@v6
+      - uses: actions/checkout@v6
+        with: {fetch-depth: 0}
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Run tests
-        run: pytest -q
-
+      - run: pip install -r requirements.txt
+      - run: pytest -q
       - name: Verify model access
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ inputs.model }}
         run: python -m scripts.doctor
-
       - name: Generate modules
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ inputs.model }}
           MODULE_COUNT: ${{ inputs.module_count }}
         run: python -m scripts.generate
-
-      - name: Build indexes
-        run: python -m scripts.indexes
-
-      - name: Commit generated content
+      - run: python -m scripts.indexes
+      - name: Commit remaining generated content
         run: |
           git config user.name "somatiq-content-bot"
           git config user.email "somatiq-content-bot@users.noreply.github.com"
-          git add drafts indexes config/curriculum.csv
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-
+          git add drafts indexes config/curricula
+          if git diff --cached --quiet; then exit 0; fi
           git commit -m "Generate SOMatiq module drafts"
           git push

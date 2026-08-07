@@ -1,10 +1,21 @@
 {
-  "name": "SOMatiq Studio V2",
-  "version": "2.0.0",
-  "created": "2026-08-05",
-  "local_tests": "passed",
-  "python_compilation": "passed",
-  "default_first_test_model": "gpt-4.1-mini",
-  "github_actions": ["actions/checkout@v6", "actions/setup-python@v6"],
-  "source_of_truth": "module.json"
+  "version": "2.1",
+  "exercise_modules": 250,
+  "batch_sizes": [
+    1,
+    5,
+    10,
+    25,
+    50
+  ],
+  "includes": [
+    "multi-file curricula",
+    "fault tolerance",
+    "checkpoint commits",
+    "RAG prompts",
+    "EXE curriculum",
+    "metadata design",
+    "knowledge graph schema",
+    "research scaffold"
+  ]
 }

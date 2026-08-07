@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "relationship_types": [
+    "IS_A",
+    "PART_OF",
+    "AFFECTS",
+    "IMPROVES",
+    "WORSENS",
+    "INCREASES_RISK_OF",
+    "REDUCES_RISK_OF",
+    "MEASURED_BY",
+    "TREATED_BY",
+    "RELATED_TO",
+    "CONTRAINDICATED_WITH",
+    "INTERACTS_WITH",
+    "PRECEDES",
+    "SUPPORTS"
+  ],
+  "edge_fields": [
+    "source_id",
+    "relationship",
+    "target_id",
+    "evidence_strength",
+    "directionality",
+    "notes"
+  ]
+}
