@@ -1,0 +1,18 @@
+file,module_count,first_id,last_id,domain
+config/curricula/01_sleep.csv,100,SLP-001,SLP-100,Sleep
+config/curricula/02_stress.csv,150,STR-001,STR-150,Stress and Mental Well-Being
+config/curricula/03_lifestyle.csv,150,LIF-001,LIF-150,Lifestyle and Healthy Habits
+config/curricula/04_healthy_aging.csv,150,AGE-001,AGE-150,Healthy Aging and Longevity
+config/curricula/05_disease_prevention.csv,250,DIS-001,DIS-250,Disease Prevention
+config/curricula/06_womens_health.csv,125,WOM-001,WOM-125,Women's Health
+config/curricula/07_mens_health.csv,100,MEN-001,MEN-100,Men's Health
+config/curricula/08_children.csv,100,CHD-001,CHD-100,Children and Adolescents
+config/curricula/09_supplements.csv,200,SUP-001,SUP-200,Supplements
+config/curricula/10_laboratory_tests.csv,150,LAB-001,LAB-150,Laboratory Tests and Biomarkers
+config/curricula/11_medications.csv,150,MED-001,MED-150,Medications
+config/curricula/12_medical_conditions.csv,300,COND-001,COND-300,Medical Conditions
+config/curricula/13_behavior_change.csv,125,BEH-001,BEH-125,Behavior Change
+config/curricula/14_faq.csv,200,FAQ-001,FAQ-200,Frequently Asked Questions
+config/curricula/15_meal_planning.csv,100,MEA-001,MEA-100,Meal Planning
+config/curricula/16_exercise_programs.csv,100,PROG-001,PROG-100,Exercise Programs
+config/curricula/17_case_studies.csv,100,CASE-001,CASE-100,Case Studies and Scenarios
