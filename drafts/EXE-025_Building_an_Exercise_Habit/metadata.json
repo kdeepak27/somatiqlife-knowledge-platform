@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-025",
+  "title": "Building an Exercise Habit",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for building an exercise habit",
+  "domain": "Exercise",
+  "category": "Exercise Foundations",
+  "som_stages": [
+    "Initiation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "New Exercisers",
+    "Healthcare Providers",
+    "Fitness Coaches"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "exercise habit",
+    "physical activity",
+    "exercise adherence",
+    "behavior change",
+    "exercise progression",
+    "exercise safety",
+    "motivation",
+    "exercise physiology"
+  ],
+  "related_modules": [
+    "EXE-003",
+    "EXE-012",
+    "EXE-018"
+  ],
+  "evidence_strength": "Established evidence for behavioral strategies and physiological mechanisms; moderate evidence for specific timelines and motivational models; emerging evidence on neurobiological pathways.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
