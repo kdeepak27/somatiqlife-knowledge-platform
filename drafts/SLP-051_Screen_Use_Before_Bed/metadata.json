@@ -1,0 +1,35 @@
+{
+  "module_id": "SLP-051",
+  "title": "Screen Use Before Bed",
+  "subtitle": "Evidence-based ways to understand and improve screen use before bed.",
+  "domain": "Sleep",
+  "category": "Healthy Sleep Habits",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Sleep Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "screen time",
+    "blue light",
+    "melatonin",
+    "sleep onset latency",
+    "circadian rhythm",
+    "digital devices",
+    "healthy sleep",
+    "sleep hygiene"
+  ],
+  "related_modules": [
+    "SLP-010 Sleep Hygiene",
+    "SLP-020 Circadian Rhythms and Sleep",
+    "SLP-045 Children’s Sleep Habits"
+  ],
+  "evidence_strength": "Moderate evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

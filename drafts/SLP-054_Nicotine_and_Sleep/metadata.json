@@ -1,0 +1,41 @@
+{
+  "module_id": "SLP-054",
+  "title": "Nicotine and Sleep",
+  "subtitle": "Evidence-based ways to understand and improve nicotine and sleep.",
+  "domain": "Sleep",
+  "category": "Healthy Sleep Habits",
+  "som_stages": [
+    "Precontemplation",
+    "Contemplation",
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Smokers",
+    "Healthcare Providers",
+    "Sleep Researchers"
+  ],
+  "reading_level": "Intermediate (Grade 10-12)",
+  "keywords": [
+    "nicotine",
+    "sleep",
+    "sleep quality",
+    "smoking",
+    "insomnia",
+    "circadian rhythm",
+    "cotinine",
+    "withdrawal",
+    "nicotine replacement therapy",
+    "sleep hygiene"
+  ],
+  "related_modules": [
+    "SLP-012-Smoking-Cessation",
+    "SLP-034-Circadian-Rhythm-Disorders",
+    "SLP-078-Insomnia-Basics"
+  ],
+  "evidence_strength": "Established evidence from human clinical and polysomnographic studies, supported by moderate evidence on withdrawal effects and NRT implications; some emerging evidence for long-term neurophysiological changes; recognized limitations include individual variability and confounding factors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

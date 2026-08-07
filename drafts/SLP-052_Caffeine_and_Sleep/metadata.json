@@ -1,0 +1,35 @@
+{
+  "module_id": "SLP-052",
+  "title": "Caffeine and Sleep",
+  "subtitle": "Evidence-based ways to understand and improve caffeine and sleep.",
+  "domain": "Sleep",
+  "category": "Healthy Sleep Habits",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Adult",
+    "Adolescents",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "Caffeine",
+    "Sleep",
+    "Sleep Quality",
+    "Insomnia",
+    "Sleep Latency",
+    "Adenosine",
+    "Circadian Rhythm",
+    "Stimulant"
+  ],
+  "related_modules": [
+    "SLP-043-Insomnia-Basics",
+    "SLP-048-Circadian-Rhythm",
+    "HAB-015-Nutrition-and-Sleep"
+  ],
+  "evidence_strength": "Moderate evidence with some variability due to individual differences and study design.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

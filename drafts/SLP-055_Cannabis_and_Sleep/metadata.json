@@ -1,0 +1,38 @@
+{
+  "module_id": "SLP-055",
+  "title": "Cannabis and Sleep",
+  "subtitle": "Evidence-based ways to understand and improve cannabis and sleep.",
+  "domain": "Sleep",
+  "category": "Healthy Sleep Habits",
+  "som_stages": [
+    "Prevention",
+    "Symptom Management",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "Cannabis",
+    "Sleep",
+    "Cannabinoids",
+    "Sleep Quality",
+    "THC",
+    "CBD",
+    "Insomnia",
+    "Sleep Disorders",
+    "Cannabis and Sleep",
+    "Sleep Physiology"
+  ],
+  "related_modules": [
+    "SLP-012",
+    "SLP-034",
+    "SLP-067"
+  ],
+  "evidence_strength": "Moderate evidence from mixed quality studies with emerging insights but many limitations remain.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
