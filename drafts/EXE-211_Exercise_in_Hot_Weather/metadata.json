@@ -1,0 +1,40 @@
+{
+  "module_id": "EXE-211",
+  "title": "Exercise in Hot Weather",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise in hot weather",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Preparation",
+    "Implementation",
+    "Monitoring",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Athletes",
+    "Health Professionals"
+  ],
+  "reading_level": "Intermediate (6th to 8th Grade)",
+  "keywords": [
+    "heat stress",
+    "exercise safety",
+    "thermoregulation",
+    "hydration",
+    "heat illness",
+    "heat exhaustion",
+    "heat stroke",
+    "acclimatization",
+    "humidity",
+    "exercise performance"
+  ],
+  "related_modules": [
+    "EXE-180",
+    "EXE-220",
+    "EXE-230"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas needing further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
