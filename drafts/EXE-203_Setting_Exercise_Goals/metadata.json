@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-203",
+  "title": "Setting Exercise Goals",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for setting exercise goals",
+  "domain": "Exercise",
+  "category": "Programming and Recovery",
+  "som_stages": [
+    "Preparation",
+    "Implementation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Healthcare Providers",
+    "Exercise Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "exercise goals",
+    "goal setting",
+    "physical activity planning",
+    "exercise progression",
+    "exercise safety",
+    "SMART goals",
+    "motivation",
+    "exercise adherence"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-207",
+    "EXE-215"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
