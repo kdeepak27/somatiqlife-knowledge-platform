@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-197",
+  "title": "Nutrition for High Triglycerides",
+  "subtitle": "Alcohol, refined carbohydrate, weight, omega-3s, and metabolic health",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "triglycerides",
+    "nutrition",
+    "alcohol",
+    "refined carbohydrates",
+    "weight management",
+    "omega-3 fatty acids",
+    "metabolic health"
+  ],
+  "related_modules": [
+    "NUT-102: Cardiovascular Nutrition Basics",
+    "NUT-250: Managing Metabolic Syndrome",
+    "NUT-310: Weight Management and Metabolic Health"
+  ],
+  "evidence_strength": "Established evidence from clinical and nutritional research supports the outlined strategies with emerging evidence on individual response variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

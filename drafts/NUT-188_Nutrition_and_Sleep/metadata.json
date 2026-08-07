@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-188",
+  "title": "Nutrition and Sleep",
+  "subtitle": "Meal timing, caffeine, alcohol, and dietary patterns that affect sleep",
+  "domain": "Nutrition",
+  "category": "Lifestyle Nutrition",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "nutrition",
+    "sleep",
+    "meal timing",
+    "caffeine",
+    "alcohol",
+    "dietary patterns",
+    "sleep quality",
+    "circadian rhythm"
+  ],
+  "related_modules": [
+    "NUT-152 Nutrients and Brain Health",
+    "NUT-210 Caffeine Use and Health Effects",
+    "NUT-120 Alcohol and Metabolism"
+  ],
+  "evidence_strength": "Established evidence with emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

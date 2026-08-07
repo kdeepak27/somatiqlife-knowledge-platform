@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-186",
+  "title": "Nutrition After Surgery",
+  "subtitle": "Protein, energy, micronutrients, appetite, and recovery",
+  "domain": "Nutrition",
+  "category": "Clinical Nutrition",
+  "som_stages": [
+    "Recovery",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "surgery",
+    "nutrition",
+    "protein",
+    "micronutrients",
+    "energy",
+    "appetite",
+    "recovery"
+  ],
+  "related_modules": [
+    "NUT-145 - Wound Healing and Nutrition",
+    "NUT-172 - Micronutrient Supplementation",
+    "NUT-203 - Managing Malnutrition in Chronic Illness"
+  ],
+  "evidence_strength": "Established evidence with ongoing research on specific micronutrient interventions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

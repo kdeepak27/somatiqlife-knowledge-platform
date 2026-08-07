@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-182",
+  "title": "Nutrition for College Students",
+  "subtitle": "Budget, convenience, meal planning, and healthy independence",
+  "domain": "Nutrition",
+  "category": "Life Stage Nutrition",
+  "som_stages": [
+    "Young Adult"
+  ],
+  "audience": [
+    "College Students",
+    "Young Adults",
+    "Nutrition Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "college nutrition",
+    "meal planning",
+    "budget meals",
+    "healthy eating",
+    "convenient meals",
+    "independent living",
+    "nutrition basics",
+    "food safety"
+  ],
+  "related_modules": [
+    "NUT-101 Basics of Healthy Eating",
+    "NUT-150 Meal Planning Strategies",
+    "NUT-205 Food Safety Essentials",
+    "NUT-300 Nutrition for Young Adults"
+  ],
+  "evidence_strength": "Established evidence with some emerging practical strategies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

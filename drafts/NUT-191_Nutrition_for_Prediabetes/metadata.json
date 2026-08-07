@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-191",
+  "title": "Nutrition for Prediabetes",
+  "subtitle": "Weight management, carbohydrate quality, fiber, and glucose control",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Prediabetes",
+    "Risk Reduction"
+  ],
+  "audience": [
+    "General Adult",
+    "Healthcare Providers",
+    "Nutrition Educators"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Prediabetes",
+    "Nutrition",
+    "Weight Management",
+    "Carbohydrates",
+    "Fiber",
+    "Glucose Control",
+    "Dietary Guidelines",
+    "Blood Sugar"
+  ],
+  "related_modules": [
+    "NUT-120: Nutrition for Type 2 Diabetes",
+    "NUT-130: Weight Management Strategies",
+    "NUT-150: Carbohydrates and Glycemic Control"
+  ],
+  "evidence_strength": "Established evidence for nutrition and weight management effectiveness; some emerging evidence on specific dietary patterns and fiber types.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
