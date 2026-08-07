@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-218",
+  "title": "Exercise for Fat Loss",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise for fat loss",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Health Promotion",
+    "Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Professionals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "High School to Adult",
+  "keywords": [
+    "exercise",
+    "fat loss",
+    "weight loss",
+    "body composition",
+    "caloric expenditure",
+    "metabolism",
+    "aerobic exercise",
+    "resistance training",
+    "HIIT",
+    "safety"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-150",
+    "NUT-305"
+  ],
+  "evidence_strength": "Established evidence from systematic reviews and randomized controlled trials supports combined aerobic and resistance training for fat loss, with emerging evidence on HIIT effectiveness. Limitations exist when exercise is not paired with dietary management. Safety considerations are well-established in exercise science literature.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
