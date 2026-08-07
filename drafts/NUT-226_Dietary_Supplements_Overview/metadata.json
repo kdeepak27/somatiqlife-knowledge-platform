@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-226",
+  "title": "Dietary Supplements Overview",
+  "subtitle": "How supplements are regulated, evaluated, and used safely",
+  "domain": "Nutrition",
+  "category": "Supplements",
+  "som_stages": [
+    "Awareness",
+    "Information Gathering"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "dietary supplements",
+    "regulation",
+    "safety",
+    "efficacy",
+    "nutritional supplements",
+    "adverse effects",
+    "labeling",
+    "consumer guidance"
+  ],
+  "related_modules": [
+    "NUT-112: Vitamins and Minerals Essentials",
+    "PHR-101: Drug-Supplement Interactions",
+    "HEA-207: Reading Food and Supplement Labels"
+  ],
+  "evidence_strength": "Evidence based on regulatory standards, observational studies, and scientific consensus; clinical trials for individual supplements vary in availability and quality.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

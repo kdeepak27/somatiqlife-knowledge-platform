@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-228",
+  "title": "Vitamin B12 Supplements",
+  "subtitle": "Deficiency risk, forms, dosing, absorption, and safety",
+  "domain": "Nutrition",
+  "category": "Supplements",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Adults",
+    "General public",
+    "Healthcare professionals"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Vitamin B12",
+    "cobalamin",
+    "supplements",
+    "deficiency",
+    "absorption",
+    "dosing",
+    "safety"
+  ],
+  "related_modules": [
+    "NUT-101 - General Principles of Nutrient Absorption",
+    "NUT-215 - Micronutrient Deficiencies and Management",
+    "NUT-230 - Iron Supplements and Anemia Management"
+  ],
+  "evidence_strength": "Moderate evidence from clinical guidelines and observational studies; randomized controlled trials for optimal dosing are limited.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

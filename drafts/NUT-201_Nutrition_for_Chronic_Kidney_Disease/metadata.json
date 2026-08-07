@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-201",
+  "title": "Nutrition for Chronic Kidney Disease",
+  "subtitle": "Protein, sodium, potassium, phosphorus, and individualized care",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Long-term Care"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "chronic kidney disease",
+    "CKD",
+    "protein intake",
+    "sodium restriction",
+    "potassium management",
+    "phosphorus control",
+    "nutrition care plan",
+    "dietary management"
+  ],
+  "related_modules": [
+    "NUT-101-General-Nutrition",
+    "NUT-205-Dialysis-Nutrition",
+    "NUT-210-Electrolyte-Balance"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and nutrition science",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

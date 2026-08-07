@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-240",
+  "title": "Correlation vs Causation in Nutrition",
+  "subtitle": "Why observational associations do not automatically prove cause",
+  "domain": "Nutrition",
+  "category": "Nutrition Literacy",
+  "som_stages": [
+    "all"
+  ],
+  "audience": [
+    "general adult"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "correlation",
+    "causation",
+    "nutrition research",
+    "observational studies",
+    "clinical trials",
+    "confounding",
+    "bias",
+    "nutritional epidemiology"
+  ],
+  "related_modules": [
+    "NUT-105: Understanding Nutritional Epidemiology",
+    "NUT-210: Critical Evaluation of Nutrition Research",
+    "NUT-315: Dietary Guidelines and Evidence-Based Recommendations"
+  ],
+  "evidence_strength": "Moderate; based on synthesis of current understanding in nutrition science and epidemiology",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

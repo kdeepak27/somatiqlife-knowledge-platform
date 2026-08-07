@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-213",
+  "title": "Lactose Intolerance",
+  "subtitle": "Lactose digestion, symptoms, dairy alternatives, and nutrient adequacy",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Maintenance",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Lactose intolerance",
+    "Lactose digestion",
+    "Dairy alternatives",
+    "Calcium intake",
+    "Digestive symptoms",
+    "Enzyme deficiency",
+    "Nutrient adequacy",
+    "Dietary management"
+  ],
+  "related_modules": [
+    "NUT-105-Dairy and Calcium Nutrition",
+    "NUT-119-Digestive Health and Nutrition",
+    "NUT-230-Food Allergies and Intolerances"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas related to gut microbiota modulation",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

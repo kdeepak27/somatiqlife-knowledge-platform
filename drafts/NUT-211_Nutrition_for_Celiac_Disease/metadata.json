@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-211",
+  "title": "Nutrition for Celiac Disease",
+  "subtitle": "Gluten avoidance, cross-contact, deficiencies, and balanced gluten-free eating",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Post-Diagnosis Management",
+    "Long-Term Health Maintenance"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Nutritionists"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Celiac Disease",
+    "Gluten-Free Diet",
+    "Nutrient Deficiency",
+    "Cross-Contact",
+    "Balanced Eating",
+    "Autoimmune Condition",
+    "Nutrition Management",
+    "Dietary Fiber"
+  ],
+  "related_modules": [
+    "NUT-120: Understanding Autoimmune Nutrition",
+    "NUT-305: Dietary Management of Food Allergies",
+    "NUT-410: Addressing Micronutrient Deficiencies"
+  ],
+  "evidence_strength": "Established evidence with practical clinical guidelines supported by dietary recommendations; ongoing research addresses nuances in gluten sensitivity and monitoring.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

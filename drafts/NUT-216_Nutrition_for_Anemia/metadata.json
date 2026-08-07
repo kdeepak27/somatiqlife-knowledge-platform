@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-216",
+  "title": "Nutrition for Anemia",
+  "subtitle": "Iron, B12, folate, diagnosis, and food-based strategies",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Screening",
+    "Intervention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Adult",
+    "Patients with Anemia",
+    "Healthcare Providers"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "anemia",
+    "iron",
+    "vitamin B12",
+    "folate",
+    "nutrition",
+    "dietary strategies",
+    "diagnosis",
+    "micronutrients"
+  ],
+  "related_modules": [
+    "NUT-101 Nutrition Basics",
+    "NUT-110 Micronutrients and Health",
+    "NUT-220 Dietary Supplements"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights on dietary absorption factors",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

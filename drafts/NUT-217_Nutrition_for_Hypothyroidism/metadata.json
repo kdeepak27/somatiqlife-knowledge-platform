@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-217",
+  "title": "Nutrition for Hypothyroidism",
+  "subtitle": "Iodine, selenium, medication timing, and evidence-based expectations",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "hypothyroidism",
+    "nutrition",
+    "iodine",
+    "selenium",
+    "thyroid medication",
+    "dietary supplements",
+    "thyroid health",
+    "medication timing"
+  ],
+  "related_modules": [
+    "NUT-101: Basic Micronutrients and Their Roles",
+    "MED-324: Pharmacology of Thyroid Hormones",
+    "ENDO-510: Thyroid Disorders Overview"
+  ],
+  "evidence_strength": "Moderate: Evidence supports key nutritional influences on thyroid function and medication timing; some areas require further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

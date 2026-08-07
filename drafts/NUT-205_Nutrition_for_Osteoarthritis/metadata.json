@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-205",
+  "title": "Nutrition for Osteoarthritis",
+  "subtitle": "Weight management, diet quality, inflammation claims, and joint health",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General public",
+    "Patients with osteoarthritis",
+    "Health educators",
+    "Nutritionists"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Osteoarthritis",
+    "Nutrition",
+    "Weight management",
+    "Diet quality",
+    "Inflammation",
+    "Joint health",
+    "Anti-inflammatory diet",
+    "Omega-3 fatty acids"
+  ],
+  "related_modules": [
+    "NUT-101 Weight Management Fundamentals",
+    "NUT-150 Anti-inflammatory Diets",
+    "NUT-220 Supplements in Joint Health"
+  ],
+  "evidence_strength": "Moderate evidence supports weight management and diet quality for symptom management; emerging evidence for anti-inflammatory dietary components and supplements.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

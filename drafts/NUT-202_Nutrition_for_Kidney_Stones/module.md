@@ -1,0 +1,167 @@
+# NUT-202 - Nutrition for Kidney Stones
+## Fluid, sodium, calcium, oxalate, citrate, and stone type
+
+**Domain:** Nutrition
+**Category:** Condition Nutrition
+**SOM stages:** Prevention, Management
+**Audience:** Adult Patients, Caregivers, Healthcare Professionals
+**Reading level:** General Adult
+**Keywords:** kidney stones, nutrition, fluid intake, sodium, calcium, oxalate, citrate, stone type
+
+## AI Retrieval Summary
+Kidney stones are hard deposits formed from minerals and salts in the kidneys, commonly causing pain and urinary issues when passing through the urinary tract. Nutrition plays a vital role in both the prevention and management of kidney stones. Key dietary factors influencing stone risk include fluid intake, sodium, calcium, oxalate, and citrate. Adequate fluid consumption dilutes urine, reducing stone formation risk. High sodium intake can increase calcium excretion in urine, promoting stone development. Contrary to some beliefs, dietary calcium when consumed in recommended amounts can protect against stones by binding oxalate in the gut, reducing oxalate absorption. Oxalate is naturally present in many foods; excessive intake may contribute to calcium oxalate stones, the most common type. Citrate, found in citrus fruits, can inhibit stone formation by binding calcium in urine. Understanding the stone type is important for tailored nutritional guidance, as uric acid, cystine, and struvite stones have different dietary considerations. Practical nutrition strategies focus on individualized dietary adjustments to modify urinary risk factors. Limitations include variability in individual responses and the influence of non-dietary factors such as genetics and hydration status. Important concepts include stone composition, urine chemistry, and interaction between nutrients. Nutrition is a modifiable factor to reduce kidney stone recurrence and support overall kidney health.
+
+## Customer Questions Answered
+- What dietary changes can help prevent kidney stones?
+- How much fluid should I drink each day to reduce kidney stone risk?
+- Does sodium intake affect kidney stone formation?
+- Is it safe to drink milk if I have kidney stones?
+- Which foods are high in oxalate and should be limited?
+- How does citrate in the diet influence kidney stone risk?
+- Do different types of kidney stones require different diets?
+- Can supplements help prevent kidney stones?
+
+## Learning Objectives
+- Understand the nutritional factors affecting kidney stone formation.
+- Recognize the importance of fluid intake in preventing kidney stones.
+- Identify foods high in oxalate and their impact.
+- Describe the role of dietary sodium and calcium in stone risk.
+- Explain how citrate helps prevent kidney stones.
+- Distinguish nutritional approaches based on stone type.
+- Apply practical dietary strategies for kidney stone prevention and management.
+- Recognize misconceptions about nutrition and kidney stones.
+
+## Definition
+Kidney stones are solid concretions formed from mineral and acid salts within the kidneys. They result from supersaturation of urine with stone-forming compounds leading to crystal aggregation.
+
+## Why This Matters
+Kidney stones affect many adults worldwide, causing pain, medical interventions, and potential kidney damage. Nutrition is a key modifiable factor that can reduce stone risk and improve quality of life.
+
+## Overview of Kidney Stones and Their Types
+Kidney stones are classified based on their chemical composition. The most common types include calcium oxalate, calcium phosphate, uric acid, cystine, and struvite stones. Each stone type forms under different urinary conditions influenced by diet, metabolism, and other health factors. Understanding stone type helps tailor nutritional recommendations to prevent recurrence. For instance, calcium oxalate stones benefit from moderated oxalate intake, while uric acid stones require attention to purine-rich foods.
+
+## Importance of Fluid Intake
+Adequate hydration is essential in preventing kidney stones by diluting urine and reducing mineral saturation. Recommended fluid intake is typically about 2 to 3 liters per day, adjusted per individual needs and climate. Drinking water is the preferred fluid, but citrus juices high in citrate may also be beneficial. Insufficient fluid intake concentrates urine, increasing the risk of stone formation and growth.
+
+## Role of Dietary Sodium
+High sodium intake increases calcium excretion in urine, a risk factor for calcium-based stones. Reducing sodium helps lower urinary calcium and stone formation risk. Common sources of excess sodium include processed and restaurant foods. Targeting a sodium intake below 2,300 mg per day is generally advised for those prone to kidney stones.
+
+## Calcium Intake and Kidney Stones
+Adequate dietary calcium can paradoxically reduce stone risk by binding dietary oxalate in the gut, preventing its absorption and urinary excretion. Low calcium diets may increase oxalate absorption and stone risk. Dairy products and certain fortified foods are common calcium sources. Calcium supplementation should be considered carefully and preferably taken with meals to maximize benefit.
+
+## Oxalate-Containing Foods and Management
+Oxalate is found in many plant foods such as spinach, rhubarb, nuts, and chocolate. High intake can increase urinary oxalate, contributing to calcium oxalate stone formation. Moderation and combining oxalate foods with calcium-rich meals may reduce absorption. Completely eliminating oxalate is usually unnecessary and not beneficial due to its prevalence in a healthy diet.
+
+## Citrate’s Protective Effect
+Citrate binds to calcium in urine and inhibits crystal formation, helping prevent stones. Increasing dietary citrate through citrus fruits like lemons and oranges or citrate supplements can be protective. Citrate also alkalinizes urine, which helps reduce certain stone types. Encouraging consumption of citrate-rich foods is a practical strategy in kidney stone nutrition.
+
+## Tailoring Nutrition to Stone Type
+Different stone types have distinct nutritional triggers and prevention strategies. For example, uric acid stones benefit from reduced purine intake (found in meat and seafood) and urine alkalinization. Struvite stones, related to infections, require medical management. Identifying stone type allows more personalized advice to optimize nutritional prevention and management.
+
+## Practical Dietary Strategies and Lifestyle Recommendations
+Successful kidney stone prevention includes drinking enough fluids, moderating sodium, ensuring adequate calcium intake, limiting high-oxalate foods, and increasing citrate intake. Weight management and regular physical activity also support kidney health. Collaborating with healthcare providers for individualized plans and monitoring urine and stone composition enhances effectiveness.
+
+## Practical Guidance
+- Aim to drink 2 to 3 liters of fluids daily to maintain dilute urine.
+- Limit sodium intake to less than 2,300 mg per day by reducing processed foods.
+- Consume recommended dietary calcium (1,000–1,200 mg/day) mainly from food sources.
+- Moderate intake of high-oxalate foods rather than complete avoidance; combine them with calcium-rich foods.
+- Include citrate-rich foods such as lemon or orange juice daily.
+- Work with a healthcare professional to identify stone type for tailored nutrition.
+- Avoid excessive vitamin C supplementation, which may increase oxalate production.
+- Maintain a healthy weight and lifestyle to support overall kidney health.
+
+## Safety Notes
+- Excessive fluid intake beyond individual tolerance may cause discomfort or complications in some conditions.
+- Calcium supplements should be used cautiously and preferably under medical supervision to avoid increasing stone risk.
+- Do not rely solely on diet to manage complex kidney stone conditions; seek medical evaluation.
+- Some high-oxalate foods are also nutrient-dense; avoid unnecessary dietary restrictions without professional advice.
+- Citrate supplementation and urine alkalinization therapies require clinical monitoring.
+
+## Common Misconceptions
+### Consuming calcium always increases kidney stone risk.
+**Reality:** Adequate dietary calcium binds oxalate in the gut and can reduce stone formation risk, while low calcium intake may increase risk.
+
+### Drinking milk or dairy products causes kidney stones.
+**Reality:** Dietary calcium from milk and dairy generally protects against calcium oxalate stones when consumed in recommended amounts.
+
+### All kidney stones are the same, so one diet fits all.
+**Reality:** Different stone types have distinct causes and dietary strategies; personalized nutrition is important.
+
+### Limiting fluid intake helps reduce stone formation by preventing frequent urination.
+**Reality:** Low fluid intake concentrates urine and increases stone risk; adequate hydration is essential.
+
+## Clinical Pearls
+- Evaluate stone composition to guide specific nutritional recommendations.
+- Encourage patients to drink fluids consistently throughout the day rather than large volumes at once.
+- Sodium reduction is a simple and effective dietary modification to lower calcium excretion.
+- Advise patients that moderate oxalate intake combined with adequate calcium is safer than extreme restriction.
+- Consider citrate-rich beverages as a natural adjunct to prevent stones in appropriate patients.
+
+## Key Takeaways
+- Kidney stones are influenced by multiple dietary factors including fluid, sodium, calcium, oxalate, and citrate.
+- Adequate hydration is fundamental in reducing kidney stone risk.
+- Dietary calcium is protective when consumed in recommended amounts, counteracting excessive oxalate absorption.
+- Limiting sodium intake can reduce urinary calcium, lowering stone formation chances.
+- Increasing citrate intake through diet helps prevent certain types of stones.
+- Nutritional strategies should be tailored according to the stone type for best outcomes.
+- Practical diet changes combined with lifestyle modifications support kidney health and stone prevention.
+- Avoid common misconceptions to ensure safe and effective dietary management.
+
+## Glossary
+- **Kidney stones:** Hard deposits formed from minerals and salts inside the kidneys.
+- **Oxalate:** A naturally occurring compound found in many foods that can contribute to kidney stone formation.
+- **Citrate:** A molecule that inhibits stone formation by binding calcium in urine and alkalinizing it.
+- **Sodium:** An electrolyte found in salt that influences calcium excretion in urine.
+- **Calcium oxalate stones:** The most common type of kidney stones composed of calcium and oxalate crystals.
+
+## Related Modules
+- NUT-101 Fluid and Electrolyte Balance
+- REN-305 Kidney Function and Disease Nutrition
+- NUT-209 Dietary Supplements and Kidney Health
+
+## Illustration Specifications
+### ill01 - Types of Kidney Stones
+**Type:** Diagram
+
+Visual representation of common kidney stone types including calcium oxalate, uric acid, and cystine stones.
+
+**Alt text:** Diagram showing different types of kidney stones by composition.
+
+### ill02 - Effect of Fluid Intake on Urine Concentration
+**Type:** Chart
+
+Graph illustrating how increasing fluid intake dilutes urine and reduces stone formation risk.
+
+**Alt text:** Chart showing urine concentration decreasing with higher fluid intake.
+
+### ill03 - Foods High in Oxalate
+**Type:** Infographic
+
+List and images of common foods rich in oxalate such as spinach, nuts, and chocolate.
+
+**Alt text:** Infographic displaying high-oxalate foods to moderate in kidney stone prevention.
+
+### ill04 - Role of Citrate in Kidney Stone Prevention
+**Type:** Conceptual Diagram
+
+Illustration showing how citrate binds calcium and prevents crystal growth in urine.
+
+**Alt text:** Diagram showing citrate binding to calcium to inhibit kidney stones.
+
+### ill05 - Sodium and Calcium Excretion Relationship
+**Type:** Graph
+
+Graph depicting the increase in urinary calcium excretion with higher dietary sodium intake.
+
+**Alt text:** Graph showing urinary calcium rises as sodium intake increases.
+
+## References
+- Dietary Factors in Kidney Stone Formation | National Kidney Foundation | 2022 |  | unverified
+- Nutrition and Kidney Stones: Evidence and Recommendations | American Urological Association | 2021 |  | unverified
+- Role of Citrate in Kidney Stone Prevention | International Society of Nephrology | 2020 |  | unverified
+- Dietary Oxalate and Kidney Stones: A Review | Journal of Renal Nutrition | 2019 |  | unverified
+
+**Evidence strength:** Established evidence with emerging data on individualized interventions.
+**Version:** 1.0
+**Review status:** AI draft - scientific, clinical, and editorial review required

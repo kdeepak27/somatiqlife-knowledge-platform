@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-222",
+  "title": "Nutrition for Depression and Anxiety",
+  "subtitle": "Diet quality, deficiencies, evidence, and limits of nutritional treatment",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Assessment",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "depression",
+    "anxiety",
+    "nutrition",
+    "diet quality",
+    "nutritional deficiencies",
+    "mental health",
+    "dietary interventions",
+    "omega-3",
+    "vitamin D",
+    "B vitamins"
+  ],
+  "related_modules": [
+    "NUT-100: Basics of Nutrients and Brain Health",
+    "NUT-150: Omega-3 Fatty Acids in Human Health",
+    "NUT-300: Dietary Patterns and Chronic Disease Prevention"
+  ],
+  "evidence_strength": "Moderate; based on observational studies and some randomized controlled trials with limitations",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

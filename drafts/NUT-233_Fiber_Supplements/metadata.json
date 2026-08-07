@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-233",
+  "title": "Fiber Supplements",
+  "subtitle": "Psyllium, inulin, methylcellulose, benefits, dosing, and tolerance",
+  "domain": "Nutrition",
+  "category": "Supplements",
+  "som_stages": [
+    "Prevention",
+    "Wellness Maintenance"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "fiber supplements",
+    "psyllium",
+    "inulin",
+    "methylcellulose",
+    "digestive health",
+    "dosing",
+    "tolerance",
+    "gut health"
+  ],
+  "related_modules": [
+    "NUT-101: Dietary Fiber and Health",
+    "NUT-155: Gut Microbiome and Nutrition",
+    "NUT-210: Managing Constipation Through Nutrition"
+  ],
+  "evidence_strength": "Moderate evidence from clinical studies supports fiber supplements for digestive health; emerging research highlights microbiome and metabolic benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-212",
+  "title": "Gluten-Free Diets Without Celiac Disease",
+  "subtitle": "Evidence, misconceptions, nutritional tradeoffs, and who may benefit",
+  "domain": "Nutrition",
+  "category": "Dietary Patterns",
+  "som_stages": [
+    "Health Promotion",
+    "Chronic Disease Prevention"
+  ],
+  "audience": [
+    "General Adult Population",
+    "Nutrition Professionals",
+    "Health Educators"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "gluten-free diet",
+    "non-celiac gluten sensitivity",
+    "nutritional deficiencies",
+    "dietary elimination",
+    "fibers",
+    "grain alternatives",
+    "digestive health"
+  ],
+  "related_modules": [
+    "NUT-101: Basics of Balanced Diets",
+    "DIG-115: Digestive Health and Fiber",
+    "IMM-210: Autoimmune Diseases and Diet"
+  ],
+  "evidence_strength": "Moderate evidence supporting gluten-free diets for celiac disease; limited and emerging evidence for benefits in non-celiac gluten sensitivity; nutritional risks well documented",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

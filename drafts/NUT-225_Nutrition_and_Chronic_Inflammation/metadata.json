@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-225",
+  "title": "Nutrition and Chronic Inflammation",
+  "subtitle": "Dietary patterns, adiposity, fiber, fats, and inflammation biomarkers",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "chronic inflammation",
+    "dietary patterns",
+    "adiposity",
+    "fiber",
+    "fats",
+    "inflammation biomarkers",
+    "nutrition"
+  ],
+  "related_modules": [
+    "NUT-110: Mediterranean Diet and Health",
+    "NUT-170: Obesity and Metabolic Inflammation",
+    "NUT-180: Gut Microbiome and Nutrition",
+    "NUT-230: Dietary Fats and Cardiovascular Health"
+  ],
+  "evidence_strength": "Strong evidence from epidemiological studies and randomized controlled trials supports the role of diet in modulating chronic inflammation, though individual variability exists and more research is ongoing to clarify mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

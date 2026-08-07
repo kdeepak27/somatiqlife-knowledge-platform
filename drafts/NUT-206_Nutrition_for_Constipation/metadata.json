@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-206",
+  "title": "Nutrition for Constipation",
+  "subtitle": "Fiber, fluids, activity, bowel habits, and escalation of care",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "constipation",
+    "fiber",
+    "fluids",
+    "physical activity",
+    "bowel habits",
+    "nutrition",
+    "bowel movements",
+    "gut health"
+  ],
+  "related_modules": [
+    "NUT-101 Basics of Fiber Nutrition",
+    "NUT-300 Fluid Management in Health",
+    "NUT-250 Physical Activity and Digestive Health"
+  ],
+  "evidence_strength": "Based on established clinical guidelines and comprehensive nutrition research but acknowledges variability in individual response and need for ongoing study.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

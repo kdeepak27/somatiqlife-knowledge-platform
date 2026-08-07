@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-243",
+  "title": "Systematic Reviews and Meta-Analyses in Nutrition",
+  "subtitle": "How evidence is combined and where pooled results can mislead",
+  "domain": "Nutrition",
+  "category": "Nutrition Literacy",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "systematic review",
+    "meta-analysis",
+    "nutrition evidence",
+    "bias",
+    "evidence synthesis",
+    "heterogeneity",
+    "publication bias",
+    "nutrition research"
+  ],
+  "related_modules": [
+    "NUT-101 Evidence-Based Nutrition",
+    "NUT-214 Evaluating Nutrition Research Quality",
+    "NUT-322 Nutrition Guidelines and Public Health"
+  ],
+  "evidence_strength": "Established evidence with recognition of limitations and emerging methodological developments",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
