@@ -1,0 +1,40 @@
+{
+  "module_id": "EXE-054",
+  "title": "Exercise Economy",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise economy",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Performance Optimization",
+    "Aerobic Conditioning"
+  ],
+  "audience": [
+    "Fitness Enthusiasts",
+    "Athletes",
+    "Exercise Physiologists",
+    "Sports Coaches",
+    "Physical Therapists"
+  ],
+  "reading_level": "Adult - General Audience",
+  "keywords": [
+    "exercise economy",
+    "aerobic efficiency",
+    "oxygen consumption",
+    "running economy",
+    "cycling economy",
+    "performance",
+    "training adaptation",
+    "energy cost",
+    "mechanics",
+    "safety"
+  ],
+  "related_modules": [
+    "EXE-018-Aerobic-Training-Basics",
+    "EXE-032-VO2max-Assessment",
+    "EXE-073-Exercise-Physiology-Foundations",
+    "REC-101-Running-Technique-Analysis"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

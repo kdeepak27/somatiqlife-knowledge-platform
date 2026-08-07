@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-055",
+  "title": "Endurance Training Progression",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for endurance training progression",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Maintenance",
+    "Improvement",
+    "Advanced Conditioning"
+  ],
+  "audience": [
+    "Coaches",
+    "Athletes",
+    "Exercise Enthusiasts",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "endurance training",
+    "aerobic exercise",
+    "progression",
+    "training overload",
+    "VO2 max",
+    "mitochondrial biogenesis",
+    "training adaptations",
+    "safe progression",
+    "exercise physiology"
+  ],
+  "related_modules": [
+    "EXE-010",
+    "EXE-071",
+    "EXE-085"
+  ],
+  "evidence_strength": "Established evidence supports gradual endurance training progression principles, with moderate evidence describing precise optimal increments. Safety and overtraining considerations have moderate scientific support with some areas requiring further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
