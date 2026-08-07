@@ -1,0 +1,35 @@
+{
+  "module_id": "SLP-050",
+  "title": "Pillows and Sleep",
+  "subtitle": "Evidence-based ways to understand and improve pillows and sleep.",
+  "domain": "Sleep",
+  "category": "Healthy Sleep Habits",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "pillow",
+    "sleep quality",
+    "ergonomics",
+    "sleep posture",
+    "cervical support",
+    "pressure relief",
+    "allergies",
+    "sleep hygiene"
+  ],
+  "related_modules": [
+    "SLP-025_Sleep_Hygiene",
+    "SLP-041_Neck_Pain_and_Sleep",
+    "SLP-060_Mattresses_and_Sleep"
+  ],
+  "evidence_strength": "Moderate evidence supports ergonomic pillow selection for musculoskeletal pain relief; emerging evidence for allergy-related pillow considerations; limited evidence for pillows’ role in overall sleep quality improvement.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
