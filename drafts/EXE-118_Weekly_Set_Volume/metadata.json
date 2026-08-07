@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-118",
+  "title": "Weekly Set Volume",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for weekly set volume",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Beginner",
+    "Intermediate",
+    "Advanced"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Strength Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "weekly set volume",
+    "strength training",
+    "exercise volume",
+    "muscle hypertrophy",
+    "training progression",
+    "safety",
+    "exercise physiology",
+    "set frequency",
+    "resistance training",
+    "training load"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-121",
+    "EXE-125"
+  ],
+  "evidence_strength": "Established evidence with moderate individual variability and some emerging data on personalization",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

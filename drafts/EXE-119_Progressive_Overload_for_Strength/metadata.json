@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-119",
+  "title": "Progressive Overload for Strength",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for progressive overload for strength",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Prevention",
+    "Performance Optimization",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "Consumers",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Physical Therapists",
+    "Exercise Scientists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Progressive Overload",
+    "Strength Training",
+    "Muscle Hypertrophy",
+    "Resistance Training",
+    "Exercise Physiology",
+    "Workout Progression",
+    "Safety in Strength Training",
+    "Exercise Adaptation"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-122",
+    "PHY-204"
+  ],
+  "evidence_strength": "Established evidence from clinical trials and exercise physiology research supports the effectiveness of progressive overload for strength gains.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
