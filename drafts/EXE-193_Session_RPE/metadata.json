@@ -1,0 +1,40 @@
+{
+  "module_id": "EXE-193",
+  "title": "Session RPE",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for session rpe",
+  "domain": "Exercise",
+  "category": "Programming and Recovery",
+  "som_stages": [
+    "Assessment",
+    "Programming",
+    "Monitoring",
+    "Recovery"
+  ],
+  "audience": [
+    "Exercise Professionals",
+    "Sports Scientists",
+    "Coaches",
+    "Athletes",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Session RPE",
+    "Rating of Perceived Exertion",
+    "Training Load",
+    "Exercise Intensity",
+    "Exercise Programming",
+    "Recovery",
+    "Fatigue Monitoring",
+    "Perceived Exertion",
+    "Borg Scale"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-202",
+    "EXE-157"
+  ],
+  "evidence_strength": "Established evidence for validity and practical utility; moderate evidence for expanding applications; ongoing research on integration with digital monitoring.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
