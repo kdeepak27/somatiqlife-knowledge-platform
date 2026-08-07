@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-069",
+  "title": "Walking Programs for Beginners",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for walking programs for beginners",
+  "domain": "Exercise",
+  "category": "Walking and Endurance Modes",
+  "som_stages": [
+    "Preparation",
+    "Adaptation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Beginners",
+    "Healthcare Providers",
+    "Exercise Specialists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "walking",
+    "beginner exercise",
+    "endurance",
+    "cardiovascular health",
+    "physical activity",
+    "walking programs",
+    "exercise progression",
+    "safety in walking"
+  ],
+  "related_modules": [
+    "EXE-041",
+    "EXE-075",
+    "EXE-083"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
