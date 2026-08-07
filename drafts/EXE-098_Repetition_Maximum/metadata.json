@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-098",
+  "title": "Repetition Maximum",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for repetition maximum",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Professionals",
+    "Healthcare Providers",
+    "Athletes"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Repetition Maximum",
+    "1RM",
+    "Strength Training",
+    "Resistance Exercise",
+    "Muscle Hypertrophy",
+    "Exercise Progression",
+    "Safety in Strength Training",
+    "Load Management"
+  ],
+  "related_modules": [
+    "EXE-002",
+    "EXE-042",
+    "EXE-115"
+  ],
+  "evidence_strength": "Established evidence with some moderate and emerging findings",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
