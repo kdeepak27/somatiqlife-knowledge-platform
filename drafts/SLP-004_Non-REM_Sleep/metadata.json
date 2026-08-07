@@ -1,0 +1,36 @@
+{
+  "module_id": "SLP-004",
+  "title": "Non-REM Sleep",
+  "subtitle": "Core concepts, physiology, evidence, and practical implications of non-rem sleep.",
+  "domain": "Sleep",
+  "category": "Sleep Foundations",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Non-REM sleep",
+    "NREM",
+    "Slow wave sleep",
+    "Sleep physiology",
+    "Sleep stages",
+    "Sleep cycle",
+    "Sleep quality",
+    "Sleep disorders"
+  ],
+  "related_modules": [
+    "SLP-001",
+    "SLP-005",
+    "SLP-007"
+  ],
+  "evidence_strength": "Established evidence for non-REM sleep stages and their physiological roles; moderate emerging evidence regarding mechanisms in memory consolidation; some uncertainties about non-REM measurement accuracy in consumer devices.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

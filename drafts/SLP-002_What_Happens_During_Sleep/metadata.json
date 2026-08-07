@@ -1,0 +1,38 @@
+{
+  "module_id": "SLP-002",
+  "title": "What Happens During Sleep",
+  "subtitle": "Core concepts, physiology, evidence, and practical implications of what happens during sleep.",
+  "domain": "Sleep",
+  "category": "Sleep Foundations",
+  "som_stages": [
+    "Sleep onset",
+    "Light sleep",
+    "Deep sleep",
+    "REM sleep"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare professionals",
+    "Sleep researchers",
+    "Students"
+  ],
+  "reading_level": "Medium (grade 9-12)",
+  "keywords": [
+    "Sleep physiology",
+    "Sleep stages",
+    "Sleep mechanisms",
+    "Brain activity",
+    "Circadian rhythm",
+    "Memory consolidation",
+    "Sleep hygiene",
+    "Sleep disorders"
+  ],
+  "related_modules": [
+    "SLP-001: Introduction to Sleep",
+    "SLP-003: Sleep Disorders and Treatments",
+    "SLP-004: Circadian Rhythm and Jet Lag"
+  ],
+  "evidence_strength": "Established evidence for most physiological and cognitive functions of sleep; moderate evidence for immune and emotional roles; emerging research on detailed mechanisms and inter-individual variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

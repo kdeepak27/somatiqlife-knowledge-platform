@@ -1,0 +1,37 @@
+{
+  "module_id": "SLP-001",
+  "title": "Why Sleep Matters",
+  "subtitle": "Core concepts, physiology, evidence, and practical implications of why sleep matters.",
+  "domain": "Sleep",
+  "category": "Sleep Foundations",
+  "som_stages": [
+    "Prevention",
+    "Wellness"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Sleep",
+    "Sleep Physiology",
+    "Circadian Rhythm",
+    "Sleep Quality",
+    "Sleep Health",
+    "Sleep Deprivation",
+    "Sleep Hygiene",
+    "Cognitive Function",
+    "Immune Function",
+    "Metabolism"
+  ],
+  "related_modules": [
+    "SLP-002",
+    "SLP-010",
+    "SLP-015"
+  ],
+  "evidence_strength": "Established and moderate evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,35 @@
+{
+  "module_id": "SLP-005",
+  "title": "REM Sleep",
+  "subtitle": "Core concepts, physiology, evidence, and practical implications of REM sleep.",
+  "domain": "Sleep",
+  "category": "Sleep Foundations",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General Public",
+    "Students",
+    "Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "REM sleep",
+    "Rapid Eye Movement",
+    "Sleep stages",
+    "Sleep physiology",
+    "Dreaming",
+    "Sleep cycles",
+    "Sleep disorders"
+  ],
+  "related_modules": [
+    "SLP-001",
+    "SLP-002",
+    "SLP-006"
+  ],
+  "evidence_strength": "Established Evidence with Emerging Insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
