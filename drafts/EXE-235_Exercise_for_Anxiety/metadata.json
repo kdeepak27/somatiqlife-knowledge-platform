@@ -1,0 +1,35 @@
+{
+  "module_id": "EXE-235",
+  "title": "Exercise for Anxiety",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise for anxiety",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Exercise Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Anxiety",
+    "Exercise",
+    "Physical Activity",
+    "Mental Health",
+    "Aerobic Exercise",
+    "Resistance Training",
+    "Stress Reduction",
+    "Physiology of Anxiety"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-204",
+    "MEN-310"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

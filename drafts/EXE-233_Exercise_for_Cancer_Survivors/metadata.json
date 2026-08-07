@@ -1,0 +1,40 @@
+{
+  "module_id": "EXE-233",
+  "title": "Exercise for Cancer Survivors",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise for cancer survivors",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Survivorship",
+    "Recovery",
+    "Health Promotion"
+  ],
+  "audience": [
+    "Cancer Survivors",
+    "Healthcare Providers",
+    "Oncology Rehabilitation Specialists",
+    "Physical Therapists",
+    "Exercise Physiologists"
+  ],
+  "reading_level": "Intermediate (health educated adults)",
+  "keywords": [
+    "Cancer Survivorship",
+    "Exercise Therapy",
+    "Physical Activity",
+    "Rehabilitation",
+    "Exercise Safety",
+    "Exercise Progression",
+    "Quality of Life",
+    "Fatigue Management",
+    "Exercise Physiology",
+    "Exercise Mechanisms"
+  ],
+  "related_modules": [
+    "EXE-190",
+    "REC-112",
+    "PHY-045"
+  ],
+  "evidence_strength": "Strong evidence supports exercise as a beneficial adjunct intervention to improve multiple health outcomes in cancer survivors; however, moderate and emerging evidence remains regarding precise exercise prescriptions and recurrence outcomes across diverse cancers.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
