@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-073",
+  "title": "Basal Metabolic Rate",
+  "subtitle": "What determines resting energy expenditure",
+  "domain": "Nutrition",
+  "category": "Metabolism",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare professionals"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "basal metabolic rate",
+    "resting energy expenditure",
+    "metabolism",
+    "energy balance",
+    "calories",
+    "metabolic rate",
+    "thyroid function",
+    "body composition"
+  ],
+  "related_modules": [
+    "NUT-012 Energy Balance Basics",
+    "NUT-034 Thyroid Function and Metabolism",
+    "NUT-058 Body Composition and Health"
+  ],
+  "evidence_strength": "Established evidence supported by clinical studies and nutritional science.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

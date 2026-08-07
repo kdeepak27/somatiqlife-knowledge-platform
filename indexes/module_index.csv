@@ -149,6 +149,31 @@ NUT-047,Zinc,Nutrition,Micronutrients,1.0,drafts,drafts/NUT-047_Zinc/module.json
 NUT-048,Selenium,Nutrition,Micronutrients,1.0,drafts,drafts/NUT-048_Selenium/module.json
 NUT-049,Iodine,Nutrition,Micronutrients,1.0,drafts,drafts/NUT-049_Iodine/module.json
 NUT-050,Copper,Nutrition,Micronutrients,1.0,drafts,drafts/NUT-050_Copper/module.json
+NUT-051,Manganese,Nutrition,Micronutrients,1.0,drafts,drafts/NUT-051_Manganese/module.json
+NUT-052,Phosphorus,Nutrition,Micronutrients,1.0,drafts,drafts/NUT-052_Phosphorus/module.json
+NUT-053,Chromium,Nutrition,Micronutrients,1.0,drafts,drafts/NUT-053_Chromium/module.json
+NUT-054,Molybdenum,Nutrition,Micronutrients,1.0,drafts,drafts/NUT-054_Molybdenum/module.json
+NUT-055,Chloride,Nutrition,Micronutrients,1.0,drafts,drafts/NUT-055_Chloride/module.json
+NUT-056,Fluoride,Nutrition,Micronutrients,1.0,drafts,drafts/NUT-056_Fluoride/module.json
+NUT-057,Micronutrient Deficiency,Nutrition,Micronutrients,1.0,drafts,drafts/NUT-057_Micronutrient_Deficiency/module.json
+NUT-058,Micronutrient Excess and Toxicity,Nutrition,Micronutrients,1.0,drafts,drafts/NUT-058_Micronutrient_Excess_and_Toxicity/module.json
+NUT-059,Multivitamins,Nutrition,Supplements,1.0,drafts,drafts/NUT-059_Multivitamins/module.json
+NUT-060,Micronutrient Needs Across Adulthood,Nutrition,Micronutrients,1.0,drafts,drafts/NUT-060_Micronutrient_Needs_Across_Adulthood/module.json
+NUT-061,Digestion Overview,Nutrition,Digestion,1.0,drafts,drafts/NUT-061_Digestion_Overview/module.json
+NUT-062,Carbohydrate Digestion and Absorption,Nutrition,Digestion,1.0,drafts,drafts/NUT-062_Carbohydrate_Digestion_and_Absorption/module.json
+NUT-063,Protein Digestion and Absorption,Nutrition,Digestion,1.0,drafts,drafts/NUT-063_Protein_Digestion_and_Absorption/module.json
+NUT-064,Fat Digestion and Absorption,Nutrition,Digestion,1.0,drafts,drafts/NUT-064_Fat_Digestion_and_Absorption/module.json
+NUT-065,Vitamin and Mineral Absorption,Nutrition,Digestion,1.0,drafts,drafts/NUT-065_Vitamin_and_Mineral_Absorption/module.json
+NUT-066,The Gut Microbiome and Nutrition,Nutrition,Gut Nutrition,1.0,drafts,drafts/NUT-066_The_Gut_Microbiome_and_Nutrition/module.json
+NUT-067,Prebiotics,Nutrition,Gut Nutrition,1.0,drafts,drafts/NUT-067_Prebiotics/module.json
+NUT-068,Probiotics,Nutrition,Gut Nutrition,1.0,drafts,drafts/NUT-068_Probiotics/module.json
+NUT-069,Postbiotics,Nutrition,Gut Nutrition,1.0,drafts,drafts/NUT-069_Postbiotics/module.json
+NUT-070,Fermented Foods,Nutrition,Gut Nutrition,1.0,drafts,drafts/NUT-070_Fermented_Foods/module.json
+NUT-071,Short-Chain Fatty Acids,Nutrition,Gut Nutrition,1.0,drafts,drafts/NUT-071_Short-Chain_Fatty_Acids/module.json
+NUT-072,Metabolism Overview,Nutrition,Metabolism,1.0,drafts,drafts/NUT-072_Metabolism_Overview/module.json
+NUT-073,Basal Metabolic Rate,Nutrition,Metabolism,1.0,drafts,drafts/NUT-073_Basal_Metabolic_Rate/module.json
+NUT-074,Total Daily Energy Expenditure,Nutrition,Metabolism,1.0,drafts,drafts/NUT-074_Total_Daily_Energy_Expenditure/module.json
+NUT-075,Thermic Effect of Food,Nutrition,Metabolism,1.0,drafts,drafts/NUT-075_Thermic_Effect_of_Food/module.json
 BIO-001,What Is Health?,Human Biology,Health Foundations,1.0,approved,approved/BIO-001_What_Is_Health/module.json
 BIO-002,The Human Body as an Integrated System,Human Biology,Systems Biology,1.0,approved,approved/BIO-002_The_Human_Body_as_an_Integrated_System/module.json
 BIO-003,Levels of Biological Organization,Human Biology,Foundational Biology,1.0,approved,approved/BIO-003_Levels_of_Biological_Organization/module.json

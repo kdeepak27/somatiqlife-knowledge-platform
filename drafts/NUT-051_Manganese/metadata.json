@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-051",
+  "title": "Manganese",
+  "subtitle": "Enzyme function, metabolism, and dietary sources",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "maintenance",
+    "optimization"
+  ],
+  "audience": [
+    "general public",
+    "health professionals"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "manganese",
+    "enzyme cofactor",
+    "micronutrient",
+    "metabolism",
+    "dietary sources",
+    "nutrient deficiency",
+    "antioxidant activity",
+    "bone health"
+  ],
+  "related_modules": [
+    "NUT-042-Micronutrients-Overview",
+    "NUT-038-Trace-Minerals",
+    "NUT-057-Antioxidants"
+  ],
+  "evidence_strength": "Moderate - Supported by consistent biochemical and nutritional research with some gaps in human clinical data regarding optimal intake and toxicity thresholds.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

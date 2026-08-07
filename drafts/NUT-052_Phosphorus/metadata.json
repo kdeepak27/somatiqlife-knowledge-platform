@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-052",
+  "title": "Phosphorus",
+  "subtitle": "Bone, ATP, cell membranes, and phosphate balance",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Phosphorus",
+    "Bone Health",
+    "ATP",
+    "Cell Membranes",
+    "Phosphate Balance",
+    "Nutrition",
+    "Micronutrient"
+  ],
+  "related_modules": [
+    "NUT-010 Calcium",
+    "NUT-057 Vitamin D",
+    "NUT-074 Kidney Health and Nutrition"
+  ],
+  "evidence_strength": "Established evidence with some emerging research on phosphate additives impacts",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-061",
+  "title": "Digestion Overview",
+  "subtitle": "How the gastrointestinal tract breaks down food and prepares nutrients for absorption",
+  "domain": "Nutrition",
+  "category": "Digestion",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Students",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "digestion",
+    "gastrointestinal tract",
+    "enzymes",
+    "nutrient absorption",
+    "stomach",
+    "small intestine",
+    "large intestine",
+    "digestive enzymes"
+  ],
+  "related_modules": [
+    "NUT-062 Digestive Enzymes and Their Functions",
+    "NUT-063 Gut Microbiome and Health",
+    "NUT-064 Common Digestive Disorders"
+  ],
+  "evidence_strength": "Established evidence with developing insights on gut microbiota interactions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

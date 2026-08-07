@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-069",
+  "title": "Postbiotics",
+  "subtitle": "Microbial products, emerging evidence, and practical relevance",
+  "domain": "Nutrition",
+  "category": "Gut Nutrition",
+  "som_stages": [
+    "Maintenance",
+    "Optimization"
+  ],
+  "audience": [
+    "Adults",
+    "Health Professionals",
+    "General Public"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "postbiotics",
+    "gut microbiome",
+    "microbial metabolites",
+    "nutrition",
+    "health",
+    "immune modulation",
+    "gut health",
+    "fermentation products"
+  ],
+  "related_modules": [
+    "NUT-021-Probiotics",
+    "NUT-045-Prebiotics",
+    "NUT-078-Gut-Microbiome-Health"
+  ],
+  "evidence_strength": "Emerging evidence from laboratory and limited clinical studies; more rigorous trials needed for definitive conclusions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

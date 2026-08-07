@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-074",
+  "title": "Total Daily Energy Expenditure",
+  "subtitle": "Resting metabolism, activity, exercise, and thermic effect of food",
+  "domain": "Nutrition",
+  "category": "Metabolism",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Nutrition Students"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "energy expenditure",
+    "resting metabolic rate",
+    "physical activity",
+    "thermic effect of food",
+    "basal metabolism",
+    "exercise metabolism",
+    "caloric needs"
+  ],
+  "related_modules": [
+    "NUT-061 Energy Balance and Weight Regulation",
+    "NUT-092 Macronutrients and Metabolism",
+    "NUT-108 Physical Activity and Metabolic Health"
+  ],
+  "evidence_strength": "Established metabolic physiology with ongoing research into individual variability and measurement methods",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

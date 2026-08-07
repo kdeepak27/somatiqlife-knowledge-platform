@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-068",
+  "title": "Probiotics",
+  "subtitle": "Live microorganisms, strain specificity, evidence, and limitations",
+  "domain": "Nutrition",
+  "category": "Gut Nutrition",
+  "som_stages": [
+    "Wellness and Prevention",
+    "Chronic Disease Management"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "probiotics",
+    "gut microbiome",
+    "live microorganisms",
+    "strain specificity",
+    "immune system",
+    "digestive health",
+    "clinical evidence",
+    "limitations"
+  ],
+  "related_modules": [
+    "NUT-030 Gut Microbiome Basics",
+    "NUT-074 Prebiotics and Dietary Fiber",
+    "NUT-083 Digestive Health and Nutrition"
+  ],
+  "evidence_strength": "Moderate - clinical evidence supports some uses of probiotics but many claims remain under investigation",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

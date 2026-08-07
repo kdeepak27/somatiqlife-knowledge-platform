@@ -1,0 +1,31 @@
+{
+  "module_id": "NUT-055",
+  "title": "Chloride",
+  "subtitle": "Fluid balance, stomach acid, and dietary sources",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "Adult Nutrition"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "chloride",
+    "electrolyte balance",
+    "dietary chloride",
+    "stomach acid",
+    "fluid regulation",
+    "micronutrients"
+  ],
+  "related_modules": [
+    "NUT-012_Sodium",
+    "NUT-034_Potassium",
+    "NUT-047_Acid_Base_Balance"
+  ],
+  "evidence_strength": "Established evidence with emerging research areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
