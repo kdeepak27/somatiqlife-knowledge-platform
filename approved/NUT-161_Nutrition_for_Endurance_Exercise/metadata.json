@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-161",
+  "title": "Nutrition for Endurance Exercise",
+  "subtitle": "Carbohydrate, hydration, fueling, and recovery",
+  "domain": "Nutrition",
+  "category": "Sports Nutrition",
+  "som_stages": [
+    "Active",
+    "Recovery"
+  ],
+  "audience": [
+    "Adult athletes",
+    "Coaches",
+    "Sports nutritionists",
+    "Fitness enthusiasts"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Endurance exercise",
+    "Carbohydrates",
+    "Hydration",
+    "Fueling",
+    "Recovery",
+    "Sports nutrition",
+    "Electrolytes",
+    "Glycogen"
+  ],
+  "related_modules": [
+    "NUT-102 - Basic Sports Nutrition Principles",
+    "NUT-185 - Hydration Strategies for Athletes",
+    "NUT-202 - Recovery Nutrition for Athletes"
+  ],
+  "evidence_strength": "Established evidence based on consensus guidelines and multiple scientific studies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

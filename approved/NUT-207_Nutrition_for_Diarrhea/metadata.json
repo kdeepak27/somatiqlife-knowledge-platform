@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-207",
+  "title": "Nutrition for Diarrhea",
+  "subtitle": "Hydration, food tolerance, causes, and when to seek care",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "acute",
+    "recovery"
+  ],
+  "audience": [
+    "general public",
+    "patients",
+    "caregivers",
+    "health educators"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "diarrhea",
+    "nutrition",
+    "hydration",
+    "food tolerance",
+    "electrolytes",
+    "gastrointestinal health",
+    "food poisoning",
+    "recovery nutrition"
+  ],
+  "related_modules": [
+    "NUT-101_Food_Safety_Basics",
+    "NUT-305_Gastrointestinal_Health",
+    "NUT-402_Probiotics_and_Prebiotics"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas (e.g., probiotics) requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

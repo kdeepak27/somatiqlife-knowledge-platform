@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-036",
+  "title": "Vitamin C",
+  "subtitle": "Collagen, antioxidant function, iron absorption, and deficiency",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Vitamin C",
+    "ascorbic acid",
+    "collagen synthesis",
+    "antioxidant",
+    "iron absorption",
+    "scurvy",
+    "micronutrient deficiency"
+  ],
+  "related_modules": [
+    "NUT-014 Iron Metabolism and Absorption",
+    "NUT-021 Antioxidants in Nutrition",
+    "NUT-053 Micronutrient Deficiencies and Public Health"
+  ],
+  "evidence_strength": "Well-established for deficiency prevention and collagen synthesis; emerging for some antioxidant and immune benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

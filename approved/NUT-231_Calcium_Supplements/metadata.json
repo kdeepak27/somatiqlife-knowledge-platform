@@ -1,0 +1,31 @@
+{
+  "module_id": "NUT-231",
+  "title": "Calcium Supplements",
+  "subtitle": "When they may help, food-first approaches, dosing, and safety",
+  "domain": "Nutrition",
+  "category": "Supplements",
+  "som_stages": [
+    "adult health maintenance"
+  ],
+  "audience": [
+    "general adult"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "calcium",
+    "supplementation",
+    "bone health",
+    "dietary calcium",
+    "osteoporosis prevention",
+    "vitamin D",
+    "calcium absorption"
+  ],
+  "related_modules": [
+    "NUT-105: Vitamin D and Bone Health",
+    "NUT-198: Osteoporosis Prevention Strategies",
+    "PHA-112: Medication and Supplement Interactions"
+  ],
+  "evidence_strength": "Moderate evidence supports calcium supplementation in specific populations; ongoing research addresses cardiovascular safety concerns.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

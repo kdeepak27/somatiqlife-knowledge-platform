@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-096",
+  "title": "Healthy Cooking Methods",
+  "subtitle": "How preparation methods affect nutrient quality and energy density",
+  "domain": "Nutrition",
+  "category": "Practical Nutrition",
+  "som_stages": [
+    "maintenance",
+    "health optimization"
+  ],
+  "audience": [
+    "general adult"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "nutrition",
+    "cooking methods",
+    "nutrient retention",
+    "energy density",
+    "food preparation",
+    "healthy eating",
+    "diet quality",
+    "food safety"
+  ],
+  "related_modules": [
+    "NUT-045 Nutrient Bioavailability and Absorption",
+    "NUT-078 Energy Density and Weight Management",
+    "NUT-103 Food Safety and Hygiene Practices"
+  ],
+  "evidence_strength": "established evidence from nutrition science and food safety guidelines",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

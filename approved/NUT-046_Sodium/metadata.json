@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-046",
+  "title": "Sodium",
+  "subtitle": "Fluid balance, blood pressure, dietary sources, and recommended limits",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "All stages"
+  ],
+  "audience": [
+    "General adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Sodium",
+    "Electrolyte",
+    "Fluid balance",
+    "Blood pressure",
+    "Dietary sources",
+    "Hypertension",
+    "Salt",
+    "Recommended intake"
+  ],
+  "related_modules": [
+    "NUT-012 Dietary Potassium",
+    "NUT-034 Hypertension and Diet",
+    "NUT-067 Kidney Health and Nutrition"
+  ],
+  "evidence_strength": "Strong evidence from national dietary guidelines and clinical research supports sodium's roles and intake recommendations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

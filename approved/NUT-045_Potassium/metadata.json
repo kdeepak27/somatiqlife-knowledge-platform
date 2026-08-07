@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-045",
+  "title": "Potassium",
+  "subtitle": "Fluid balance, blood pressure, nerve signaling, and food sources",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "Maintenance",
+    "Optimization"
+  ],
+  "audience": [
+    "General adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "potassium",
+    "micronutrient",
+    "electrolyte",
+    "fluid balance",
+    "blood pressure",
+    "nerve function",
+    "dietary sources"
+  ],
+  "related_modules": [
+    "NUT-001 Electrolytes Overview",
+    "NUT-032 Sodium",
+    "NUT-068 Dietary Minerals"
+  ],
+  "evidence_strength": "Established evidence from nutritional science and cardiovascular studies, with consistent findings on potassium's role in health and disease prevention.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

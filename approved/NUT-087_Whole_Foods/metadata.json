@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-087",
+  "title": "Whole Foods",
+  "subtitle": "Minimally processed foods and their role in a healthy diet",
+  "domain": "Nutrition",
+  "category": "Diet Quality",
+  "som_stages": [
+    "Prevention",
+    "Healthy Living"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "whole foods",
+    "minimally processed",
+    "diet quality",
+    "nutrition",
+    "healthy eating",
+    "plant-based foods",
+    "dietary fiber",
+    "food processing"
+  ],
+  "related_modules": [
+    "NUT-021 Dietary Fiber and Health",
+    "NUT-033 Plant-Based Nutrition",
+    "NUT-059 Food Processing and Nutrient Retention"
+  ],
+  "evidence_strength": "Established evidence from epidemiological and clinical studies supports health benefits of whole food diets, though individual responses and accessibility vary.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

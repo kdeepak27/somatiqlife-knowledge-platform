@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-248",
+  "title": "Healthy Eating on a Budget",
+  "subtitle": "Nutrient density, planning, staples, and reducing food waste",
+  "domain": "Nutrition",
+  "category": "Practical Nutrition",
+  "som_stages": [
+    "Maintenance",
+    "Health Promotion"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "budget-friendly nutrition",
+    "meal planning",
+    "nutrient dense foods",
+    "food staples",
+    "food waste reduction",
+    "healthy eating",
+    "cost-effective meals",
+    "nutrition education"
+  ],
+  "related_modules": [
+    "NUT-100 Basics of Nutrition",
+    "NUT-210 Meal Planning Essentials",
+    "NUT-330 Food Safety and Storage"
+  ],
+  "evidence_strength": "Established evidence with supporting guidelines from nutrition authorities",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

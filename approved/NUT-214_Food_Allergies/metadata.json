@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-214",
+  "title": "Food Allergies",
+  "subtitle": "Immune reactions, avoidance, labeling, cross-contact, and emergency safety",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "food allergies",
+    "immune response",
+    "allergen avoidance",
+    "food labeling",
+    "cross-contact",
+    "anaphylaxis",
+    "emergency treatment",
+    "nutritional management"
+  ],
+  "related_modules": [
+    "NUT-101 Nutritional Basics",
+    "NUT-303 Managing Food Intolerances",
+    "MED-110 Emergency Response for Allergic Reactions"
+  ],
+  "evidence_strength": "Established evidence with ongoing research in immunotherapy",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

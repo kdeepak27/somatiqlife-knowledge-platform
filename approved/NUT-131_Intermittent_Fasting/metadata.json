@@ -1,0 +1,31 @@
+{
+  "module_id": "NUT-131",
+  "title": "Intermittent Fasting",
+  "subtitle": "Common fasting patterns, evidence, benefits, and limitations",
+  "domain": "Nutrition",
+  "category": "Meal Timing",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Intermittent fasting",
+    "meal timing",
+    "health benefits",
+    "weight management",
+    "metabolism",
+    "fasting patterns"
+  ],
+  "related_modules": [
+    "NUT-100: Nutrition Basics",
+    "NUT-125: Calorie Restriction and Health",
+    "NUT-140: Weight Management Strategies"
+  ],
+  "evidence_strength": "Emerging evidence with growing clinical research; long-term effects still under investigation",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

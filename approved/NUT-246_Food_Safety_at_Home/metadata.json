@@ -1,0 +1,31 @@
+{
+  "module_id": "NUT-246",
+  "title": "Food Safety at Home",
+  "subtitle": "Storage, cooking temperatures, cross-contamination, and leftovers",
+  "domain": "Nutrition",
+  "category": "Food Safety",
+  "som_stages": [
+    "Awareness",
+    "Understanding"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Food Safety",
+    "Storage",
+    "Cooking Temperatures",
+    "Cross-Contamination",
+    "Leftovers",
+    "Preventing Foodborne Illness"
+  ],
+  "related_modules": [
+    "NUT-101: Basic Nutrition Principles",
+    "NUT-150: Understanding Food Labels",
+    "HYG-201: Hand Hygiene and Infection Control"
+  ],
+  "evidence_strength": "Established evidence from food safety authorities and public health agencies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

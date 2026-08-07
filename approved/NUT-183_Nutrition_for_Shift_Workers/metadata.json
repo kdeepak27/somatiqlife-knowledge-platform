@@ -1,0 +1,39 @@
+{
+  "module_id": "NUT-183",
+  "title": "Nutrition for Shift Workers",
+  "subtitle": "Meal timing, circadian disruption, caffeine, and metabolic health",
+  "domain": "Nutrition",
+  "category": "Life Stage Nutrition",
+  "som_stages": [
+    "General Adult"
+  ],
+  "audience": [
+    "Shift workers",
+    "Healthcare providers",
+    "Nutritionists",
+    "Employers",
+    "Occupational health professionals",
+    "Researchers",
+    "Public health educators"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "shift work",
+    "circadian rhythm",
+    "meal timing",
+    "caffeine",
+    "metabolic health",
+    "nutrition",
+    "sleep disruption",
+    "weight management"
+  ],
+  "related_modules": [
+    "NUT-101: General Principles of Healthy Eating",
+    "NUT-205: Sleep and Nutrition Interactions",
+    "NUT-310: Managing Diabetes Through Diet",
+    "OCC-120: Occupational Health and Wellness"
+  ],
+  "evidence_strength": "Moderate evidence based on observational studies, clinical trials limited by variability in work schedules and individual responses.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

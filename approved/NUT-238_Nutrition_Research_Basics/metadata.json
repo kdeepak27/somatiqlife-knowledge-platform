@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-238",
+  "title": "Nutrition Research Basics",
+  "subtitle": "Study designs, endpoints, bias, confounding, and causal inference",
+  "domain": "Nutrition",
+  "category": "Nutrition Literacy",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Nutrition Students",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Nutrition Research",
+    "Study Design",
+    "Endpoints",
+    "Bias",
+    "Confounding",
+    "Causal Inference",
+    "Epidemiology",
+    "Clinical Trials"
+  ],
+  "related_modules": [
+    "NUT-102: Dietary Patterns and Health Outcomes",
+    "NUT-154: Interpreting Nutrition News and Claims",
+    "NUT-201: Fundamentals of Nutrient Metabolism"
+  ],
+  "evidence_strength": "Established evidence and consensus",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

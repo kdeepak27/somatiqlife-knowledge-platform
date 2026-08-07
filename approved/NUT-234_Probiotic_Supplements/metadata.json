@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-234",
+  "title": "Probiotic Supplements",
+  "subtitle": "Strain specificity, evidence, storage, and appropriate use",
+  "domain": "Nutrition",
+  "category": "Supplements",
+  "som_stages": [
+    "general health",
+    "preventive care",
+    "chronic disease management"
+  ],
+  "audience": [
+    "general public",
+    "healthcare professionals"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "probiotics",
+    "supplements",
+    "gut health",
+    "microbiome",
+    "strain specificity",
+    "storage",
+    "safety",
+    "clinical evidence"
+  ],
+  "related_modules": [
+    "NUT-045 - Gut Health and Nutrition",
+    "NUT-110 - Dietary Fiber and Prebiotics",
+    "INF-009 - Immune Support Nutritional Strategies"
+  ],
+  "evidence_strength": "Moderate evidence for several gastrointestinal applications; emerging evidence for broader health effects with some inconsistencies and need for higher quality trials.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

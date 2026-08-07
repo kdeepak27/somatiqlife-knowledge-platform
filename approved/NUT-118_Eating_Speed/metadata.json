@@ -1,0 +1,31 @@
+{
+  "module_id": "NUT-118",
+  "title": "Eating Speed",
+  "subtitle": "Meal pace, satiety, digestion, and energy intake",
+  "domain": "Nutrition",
+  "category": "Eating Behavior",
+  "som_stages": [
+    "All Adults"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Eating speed",
+    "Meal pacing",
+    "Satiety",
+    "Digestion",
+    "Energy intake",
+    "Eating behavior",
+    "Weight management"
+  ],
+  "related_modules": [
+    "NUT-105 Mindful Eating",
+    "NUT-101 Weight Management Basics",
+    "NUT-130 Digestion and Nutrient Absorption"
+  ],
+  "evidence_strength": "Moderate evidence supports associations between eating speed and energy intake with some limitations due to study methodologies and individual variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

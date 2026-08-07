@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-158",
+  "title": "Nutrition for Weight Gain",
+  "subtitle": "Increasing body weight with nutrient-dense food and appropriate surplus",
+  "domain": "Nutrition",
+  "category": "Weight Management",
+  "som_stages": [
+    "Maintenance",
+    "Intervention"
+  ],
+  "audience": [
+    "General Adult Population",
+    "Nutritionists",
+    "Dietitians"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "weight gain",
+    "nutrition",
+    "caloric surplus",
+    "nutrient-dense foods",
+    "macronutrients",
+    "muscle growth",
+    "energy balance",
+    "appetite"
+  ],
+  "related_modules": [
+    "NUT-101 - Basics of Macronutrients",
+    "NUT-142 - Energy Balance and Metabolism",
+    "NUT-160 - Nutrition for Muscle Building"
+  ],
+  "evidence_strength": "Established evidence based on nutrition science consensus and clinical guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

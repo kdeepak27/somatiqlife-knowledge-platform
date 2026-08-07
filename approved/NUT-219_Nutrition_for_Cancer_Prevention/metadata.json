@@ -1,0 +1,31 @@
+{
+  "module_id": "NUT-219",
+  "title": "Nutrition for Cancer Prevention",
+  "subtitle": "Dietary patterns, body weight, alcohol, fiber, and evidence-based risk reduction",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "cancer prevention",
+    "dietary patterns",
+    "body weight",
+    "alcohol consumption",
+    "fiber intake",
+    "risk reduction",
+    "nutrition"
+  ],
+  "related_modules": [
+    "NUT-105 - Obesity and Cancer Risk",
+    "NUT-312 - Alcohol and Health Outcomes",
+    "NUT-410 - Fiber and Digestive Health"
+  ],
+  "evidence_strength": "Strong evidence from observational studies with some limitations; expert consensus supports recommendations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

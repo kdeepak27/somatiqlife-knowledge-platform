@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-200",
+  "title": "Nutrition for Fatty Liver Disease",
+  "subtitle": "Weight loss, diet quality, sugar, alcohol, and metabolic health",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "fatty liver disease",
+    "non-alcoholic fatty liver disease",
+    "nutrition",
+    "diet",
+    "weight loss",
+    "sugar intake",
+    "alcohol",
+    "metabolic health"
+  ],
+  "related_modules": [
+    "NUT-150 - Mediterranean Diet Principles",
+    "NUT-210 - Managing Obesity through Nutrition",
+    "NUT-230 - Sugar and Metabolic Health",
+    "NUT-260 - Alcohol and Liver Health"
+  ],
+  "evidence_strength": "Established evidence with ongoing research on diet personalization and gut microbiome influences",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-020",
+  "title": "Water",
+  "subtitle": "Hydration, fluid balance, and the role of water in physiology",
+  "domain": "Nutrition",
+  "category": "Hydration",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "water",
+    "hydration",
+    "fluid balance",
+    "physiology",
+    "electrolytes",
+    "dehydration",
+    "kidney function"
+  ],
+  "related_modules": [
+    "NUT-005 Nutrition Basics",
+    "NUT-035 Electrolytes and Minerals",
+    "PHYS-010 Kidney Function and Fluid Balance"
+  ],
+  "evidence_strength": "Established evidence with practical clinical guidance",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

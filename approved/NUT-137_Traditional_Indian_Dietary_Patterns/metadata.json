@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-137",
+  "title": "Traditional Indian Dietary Patterns",
+  "subtitle": "Regional diversity, strengths, and nutritional challenges",
+  "domain": "Nutrition",
+  "category": "Cultural Nutrition",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare professionals",
+    "Nutritionists"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Indian diet",
+    "traditional food",
+    "regional diets",
+    "nutrition",
+    "cultural nutrition",
+    "dietary patterns"
+  ],
+  "related_modules": [
+    "NUT-045: Vegetarian Diets and Nutritional Adequacy",
+    "NUT-102: Role of Spices and Herbs in Nutrition",
+    "CUL-210: Cultural Dietary Patterns and Chronic Disease Risk"
+  ],
+  "evidence_strength": "Established evidence complemented by emerging research on spices and modernization impacts",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

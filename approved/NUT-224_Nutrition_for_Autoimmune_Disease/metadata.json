@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-224",
+  "title": "Nutrition for Autoimmune Disease",
+  "subtitle": "Diet quality, deficiencies, elimination diets, and evidence limitations",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "General public",
+    "Patients with autoimmune conditions",
+    "Healthcare providers"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "autoimmune disease",
+    "nutrition",
+    "diet quality",
+    "nutrient deficiencies",
+    "elimination diets",
+    "inflammation",
+    "immune modulation",
+    "dietary interventions"
+  ],
+  "related_modules": [
+    "NUT-101: Basics of Nutrition",
+    "IMM-305: Immune System Fundamentals",
+    "NUT-225: Supplement Use in Chronic Disease"
+  ],
+  "evidence_strength": "Emerging evidence with limited high-quality clinical trials",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

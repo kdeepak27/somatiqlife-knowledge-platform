@@ -1,0 +1,38 @@
+{
+  "module_id": "NUT-175",
+  "title": "Nutrition During Menopause",
+  "subtitle": "Body composition, bone, cardiometabolic health, and symptom considerations",
+  "domain": "Nutrition",
+  "category": "Life Stage Nutrition",
+  "som_stages": [
+    "Menopause",
+    "Postmenopause"
+  ],
+  "audience": [
+    "General adult",
+    "Healthcare professionals",
+    "Nutritionists",
+    "Women's health advocates"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "menopause",
+    "nutrition",
+    "body composition",
+    "bone health",
+    "cardiometabolic health",
+    "menopausal symptoms",
+    "diet",
+    "calcium",
+    "vitamin D",
+    "phytoestrogens"
+  ],
+  "related_modules": [
+    "NUT-110 Fundamentals of Adult Nutrition",
+    "NUT-200 Bone Health and Nutrition",
+    "NUT-230 Cardiovascular Nutrition"
+  ],
+  "evidence_strength": "Moderate: Established evidence for nutrition supporting bone and cardiometabolic health with emerging evidence for symptom management.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

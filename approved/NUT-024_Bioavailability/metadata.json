@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-024",
+  "title": "Bioavailability",
+  "subtitle": "Why the amount of a nutrient eaten differs from the amount absorbed",
+  "domain": "Nutrition",
+  "category": "Nutrition Foundations",
+  "som_stages": [
+    "Intake and Digestion",
+    "Absorption and Metabolism"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "bioavailability",
+    "nutrient absorption",
+    "digestion",
+    "nutrient metabolism",
+    "food matrix",
+    "nutrient interactions",
+    "supplements",
+    "nutrient status"
+  ],
+  "related_modules": [
+    "NUT-012 Nutrient Absorption and Digestion",
+    "NUT-033 Micronutrient Deficiencies and Supplementation",
+    "NUT-045 Mineral Metabolism and Function"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

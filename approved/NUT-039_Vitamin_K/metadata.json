@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-039",
+  "title": "Vitamin K",
+  "subtitle": "Blood clotting, bone metabolism, food sources, and medication interactions",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "General Adult Public",
+    "Nutrition Students",
+    "Healthcare Consumers"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Vitamin K",
+    "Blood Clotting",
+    "Bone Metabolism",
+    "Dietary Sources",
+    "Medication Interactions",
+    "K1",
+    "K2",
+    "Anticoagulants"
+  ],
+  "related_modules": [
+    "NUT-005-Micronutrients-Basics",
+    "CARD-012-Anticoagulant-Management",
+    "NUT-045-Calcium-VitaminD"
+  ],
+  "evidence_strength": "Established evidence for vitamin K role in blood clotting and bone metabolism; emerging evidence for other health benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

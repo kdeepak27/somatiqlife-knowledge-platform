@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-138",
+  "title": "North Indian Nutrition",
+  "subtitle": "Common foods, meal patterns, and healthier modifications",
+  "domain": "Nutrition",
+  "category": "Cultural Nutrition",
+  "som_stages": [
+    "maintenance",
+    "prevention"
+  ],
+  "audience": [
+    "general adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "North Indian cuisine",
+    "nutrition",
+    "meal patterns",
+    "dietary modifications",
+    "traditional foods",
+    "healthier eating",
+    "spices",
+    "legumes"
+  ],
+  "related_modules": [
+    "NUT-045 Cultural Food Practices",
+    "NUT-102 Vegetarian Nutrition",
+    "NUT-210 Spices and Health"
+  ],
+  "evidence_strength": "Established evidence for staple foods and meal patterns; emerging evidence for health effects of spices",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

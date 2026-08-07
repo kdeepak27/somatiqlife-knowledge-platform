@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-208",
+  "title": "Nutrition for GERD and Acid Reflux",
+  "subtitle": "Meal size, timing, triggers, weight, and evidence-based management",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "GERD",
+    "acid reflux",
+    "nutrition",
+    "meal size",
+    "meal timing",
+    "weight management",
+    "dietary triggers",
+    "evidence-based management"
+  ],
+  "related_modules": [
+    "NUT-105-Dietary Fiber and Digestive Health",
+    "NUT-310-Weight Management Strategies",
+    "NUT-215-Medications and Nutrient Interactions"
+  ],
+  "evidence_strength": "Moderate evidence supports dietary and lifestyle modifications as part of multi-faceted GERD management; individualized responses vary and some recommendations require further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

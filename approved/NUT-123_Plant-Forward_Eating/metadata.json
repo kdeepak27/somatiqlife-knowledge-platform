@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-123",
+  "title": "Plant-Forward Eating",
+  "subtitle": "Increasing plant foods without requiring strict vegetarianism",
+  "domain": "Nutrition",
+  "category": "Dietary Patterns",
+  "som_stages": [
+    "Prevention",
+    "Lifestyle Management"
+  ],
+  "audience": [
+    "General Adult Population",
+    "Health Educators",
+    "Dietitians",
+    "Clinicians"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "plant-forward eating",
+    "plant-based diet",
+    "dietary patterns",
+    "nutrition",
+    "health benefits",
+    "dietary fiber",
+    "environmental impact",
+    "flexitarian"
+  ],
+  "related_modules": [
+    "NUT-101: Mediterranean Diet Principles",
+    "NUT-110: Flexitarian Diet Overview",
+    "NUT-130: Dietary Fiber and Health"
+  ],
+  "evidence_strength": "Moderate evidence from epidemiological studies and clinical trials supports the health benefits of plant-forward diets, while environmental impacts are supported by life cycle assessments and sustainability models.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

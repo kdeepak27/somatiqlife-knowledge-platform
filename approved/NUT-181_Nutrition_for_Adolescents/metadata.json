@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-181",
+  "title": "Nutrition for Adolescents",
+  "subtitle": "Growth, bone, iron, protein, sports, and eating behaviors",
+  "domain": "Nutrition",
+  "category": "Life Stage Nutrition",
+  "som_stages": [
+    "Adolescence"
+  ],
+  "audience": [
+    "Adolescents",
+    "Parents",
+    "Healthcare Professionals",
+    "Nutritionists"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "adolescents",
+    "nutrition",
+    "growth",
+    "bone health",
+    "iron",
+    "protein",
+    "sports nutrition",
+    "eating behaviors"
+  ],
+  "related_modules": [
+    "NUT-162: Pediatric Nutrition",
+    "NUT-200: Sports Nutrition Essentials",
+    "NUT-175: Bone Health and Osteoporosis"
+  ],
+  "evidence_strength": "Established evidence with ongoing research in adolescent nutrition behaviors and sports nutrition.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

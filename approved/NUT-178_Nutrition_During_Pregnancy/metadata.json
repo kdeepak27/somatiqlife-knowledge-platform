@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-178",
+  "title": "Nutrition During Pregnancy",
+  "subtitle": "Energy, protein, folate, iron, iodine, safety, and weight gain",
+  "domain": "Nutrition",
+  "category": "Life Stage Nutrition",
+  "som_stages": [
+    "Pregnancy"
+  ],
+  "audience": [
+    "Pregnant individuals",
+    "Health professionals",
+    "Nutritionists",
+    "General public"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "pregnancy nutrition",
+    "energy requirements",
+    "protein intake",
+    "folate",
+    "iron",
+    "iodine",
+    "pregnancy safety",
+    "weight gain during pregnancy"
+  ],
+  "related_modules": [
+    "NUT-105: Prenatal Vitamins and Supplementation",
+    "NUT-200: Maternal Weight Management",
+    "NUT-161: Food Safety in Pregnancy"
+  ],
+  "evidence_strength": "Moderate - based on established nutrient requirements and clinical guidelines; individual variation and emerging research continue to refine recommendations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

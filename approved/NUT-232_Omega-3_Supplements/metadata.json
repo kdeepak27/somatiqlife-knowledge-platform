@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-232",
+  "title": "Omega-3 Supplements",
+  "subtitle": "Fish oil, EPA, DHA, triglycerides, cardiovascular evidence, and safety",
+  "domain": "Nutrition",
+  "category": "Supplements",
+  "som_stages": [
+    "Adult",
+    "General Public"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Omega-3",
+    "Fish Oil",
+    "EPA",
+    "DHA",
+    "Triglycerides",
+    "Cardiovascular Health",
+    "Safety"
+  ],
+  "related_modules": [
+    "NUT-101 - Dietary Fats and Cardiovascular Health",
+    "NUT-205 - Fish in the Diet: Benefits and Risks",
+    "NUT-310 - Lipid Management and Statins"
+  ],
+  "evidence_strength": "Moderate evidence for triglyceride lowering; mixed evidence for cardiovascular event prevention",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

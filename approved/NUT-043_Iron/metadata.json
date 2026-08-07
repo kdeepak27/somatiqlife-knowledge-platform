@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-043",
+  "title": "Iron",
+  "subtitle": "Heme and non-heme iron, oxygen transport, deficiency, and overload",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General adult",
+    "Health professionals"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Iron",
+    "Heme iron",
+    "Non-heme iron",
+    "Oxygen transport",
+    "Iron deficiency",
+    "Iron overload",
+    "Anemia",
+    "Hemoglobin"
+  ],
+  "related_modules": [
+    "NUT-021-Minerals-Basics",
+    "NUT-054-Vitamins",
+    "NUT-078-Anemia-Overview",
+    "NUT-092-Nutrition-in-Pregnancy"
+  ],
+  "evidence_strength": "Established evidence with ongoing research on absorption modifiers and iron metabolism regulation",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

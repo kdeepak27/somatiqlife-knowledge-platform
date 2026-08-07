@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-125",
+  "title": "Vegan Nutrition",
+  "subtitle": "Nutrient planning and supplementation in fully plant-based diets",
+  "domain": "Nutrition",
+  "category": "Dietary Patterns",
+  "som_stages": [
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "General Adult",
+    "Health Enthusiast",
+    "Nutrition Professional"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "vegan diet",
+    "plant-based nutrition",
+    "nutrient supplementation",
+    "vitamin B12",
+    "protein in vegan diets",
+    "iron absorption",
+    "omega-3 fatty acids",
+    "calcium sources",
+    "dietary planning"
+  ],
+  "related_modules": [
+    "NUT-067 Plant-Based Diet Benefits",
+    "NUT-114 Micronutrient Deficiencies",
+    "NUT-130 Protein Quality in Diets"
+  ],
+  "evidence_strength": "Moderate to strong evidence for nutrient needs and supplementation practices; evolving research on long-term outcomes in vegan populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-157",
+  "title": "Nutrition for Fat Loss",
+  "subtitle": "Preserving muscle while creating a sustainable calorie deficit",
+  "domain": "Nutrition",
+  "category": "Weight Management",
+  "som_stages": [
+    "Awareness",
+    "Consideration",
+    "Decision"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "fat loss",
+    "calorie deficit",
+    "muscle preservation",
+    "nutrition",
+    "weight management",
+    "protein intake",
+    "macronutrients",
+    "energy balance"
+  ],
+  "related_modules": [
+    "NUT-101 Nutrition Basics",
+    "NUT-110 Macronutrients Overview",
+    "FIT-201 Exercise and Weight Management",
+    "HEA-305 Metabolic Health and Obesity"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

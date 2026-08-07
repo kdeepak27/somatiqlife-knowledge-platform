@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-064",
+  "title": "Fat Digestion and Absorption",
+  "subtitle": "Bile, lipases, micelles, chylomicrons, and fat transport",
+  "domain": "Nutrition",
+  "category": "Digestion",
+  "som_stages": [
+    "Adults"
+  ],
+  "audience": [
+    "General public",
+    "Students",
+    "Health professionals"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "fat digestion",
+    "bile",
+    "lipases",
+    "micelles",
+    "chylomicrons",
+    "fat absorption",
+    "nutrition"
+  ],
+  "related_modules": [
+    "NUT-012-LipidMetabolism",
+    "NUT-082-FatSolubleVitamins",
+    "NUT-045-DigestiveEnzymeFunction"
+  ],
+  "evidence_strength": "Established evidence based on physiological and clinical studies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

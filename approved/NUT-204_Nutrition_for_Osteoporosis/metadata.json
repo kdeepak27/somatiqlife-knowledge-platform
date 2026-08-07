@@ -1,0 +1,30 @@
+{
+  "module_id": "NUT-204",
+  "title": "Nutrition for Osteoporosis",
+  "subtitle": "Calcium, vitamin D, protein, and bone-supportive eating",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Management"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "osteoporosis",
+    "bone health",
+    "calcium",
+    "vitamin D",
+    "protein",
+    "nutrition"
+  ],
+  "related_modules": [
+    "NUT-101 Calcium and Bone Health",
+    "NUT-305 Vitamin D in Nutrition",
+    "NUT-207 Protein and Muscle Maintenance"
+  ],
+  "evidence_strength": "Established evidence for calcium and vitamin D; emerging evidence for protein and other nutrients.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,234 @@
+{
+  "module_id": "NUT-185",
+  "title": "Nutrition During Illness and Recovery",
+  "subtitle": "Energy, protein, hydration, and supporting recovery",
+  "domain": "Nutrition",
+  "category": "Clinical Nutrition",
+  "som_stages": [
+    "Illness",
+    "Recovery",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "Adults",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "nutrition",
+    "illness",
+    "recovery",
+    "energy",
+    "protein",
+    "hydration",
+    "clinical nutrition",
+    "immune support"
+  ],
+  "customer_questions": [
+    "Why is nutrition important during illness?",
+    "How can I ensure adequate energy intake when sick?",
+    "What is the role of protein in recovery?",
+    "How much hydration is needed during illness?",
+    "Are there specific nutrients that support immune function?",
+    "Can nutrition affect the length of hospital stays?",
+    "How should nutrition be adjusted for different types of illness?",
+    "What are common mistakes to avoid in nutrition during recovery?"
+  ],
+  "retrieval_summary": "Nutrition during illness and recovery is a critical aspect of health management that focuses on optimizing energy intake, protein consumption, hydration, and the support of physiological functions needed for healing and immune response. Illness often leads to increased metabolic demands and altered nutrient requirements, while symptoms such as loss of appetite, nausea, or gastrointestinal disturbances can challenge adequate intake. Adequate energy intake supports the body's increased energy expenditure during infection or injury. Protein is essential for tissue repair, immune competence, and maintaining muscle mass, which is crucial in preventing weakness and promoting faster recovery. Hydration maintains fluid balance, supports circulation, and assists in the removal of metabolic waste, which is especially important during fever or fluid loss. Nutrition also plays a role in modulating inflammation and supporting immune function through specific micronutrients such as vitamins A, C, D, zinc, and selenium. Clinically, tailored nutritional interventions can reduce complications, shorten the length of hospital stays, and improve quality of life. However, there are limitations: the diversity of illnesses and individual variability means nutrition plans need to be personalized, and evidence for certain supplements is still emerging. Important related concepts include enteral and parenteral nutrition for patients unable to eat, understanding malnutrition, and recognizing the impact of chronic disease on nutritional status. Overall, integrating nutrition as part of comprehensive care enhances recovery outcomes and supports resilience against future health challenges.",
+  "learning_objectives": [
+    "Understand the importance of nutrition in the context of illness and recovery.",
+    "Identify the roles of energy, protein, and hydration in supporting recovery.",
+    "Recognize common nutritional challenges during illness and strategies to overcome them.",
+    "Appreciate the influence of specific nutrients on immune function and healing.",
+    "Learn practical approaches to adjust nutrition according to illness severity and type.",
+    "Recognize potential safety concerns and misconceptions about nutrition during illness.",
+    "Gain insight into clinical interventions including enteral and parenteral nutrition.",
+    "Utilize clinical pearls and key takeaways to enhance patient education and care."
+  ],
+  "definition": "Nutrition during illness and recovery refers to the practice of providing adequate and appropriate nutrients — including energy, protein, fluids, vitamins, and minerals — to support the body's increased metabolic demands, immune function, tissue repair, and overall healing process in the face of disease or injury.",
+  "why_this_matters": "During illness, the body undergoes physiological stress that increases nutrient requirements while decreasing appetite and nutrient absorption. Proper nutrition helps prevent malnutrition, supports immune defenses, reduces complications, and accelerates recovery. Neglecting nutritional needs can prolong recovery, increase risk of infections, and worsen outcomes, making nutrition assessment and management a cornerstone of clinical care.",
+  "sections": [
+    {
+      "heading": "Energy Requirements During Illness",
+      "content": "Illness often elevates the body's basal metabolic rate as it mounts an immune response, thereby increasing energy expenditure. Fever, infection, inflammation, and repair processes consume more calories. Estimating energy needs involves considering the type and severity of illness, body weight, age, and activity level. Providing adequate calories helps preserve lean body mass and improves healing. Both underfeeding and overfeeding have risks: underfeeding can lead to wasting and poor immune function, while overfeeding may increase fat accumulation and metabolic stress."
+    },
+    {
+      "heading": "Protein Needs for Recovery and Immune Support",
+      "content": "Protein plays a vital role in synthesizing immune cells, antibodies, enzymes, and structural tissues necessary for repair. Illness increases protein catabolism, leading to muscle breakdown if intake is insufficient. Guidelines suggest increasing protein intake during recovery phases, often ranging from 1.2 to 2.0 grams per kilogram of body weight depending on illness severity. Adequate protein helps sustain muscle mass and supports wound healing. Quality protein sources and supplementation may be required in cases of reduced appetite or malabsorption."
+    },
+    {
+      "heading": "Hydration and Fluid Management",
+      "content": "Maintaining fluid balance is essential during illness to support circulation, temperature regulation, digestion, and waste elimination. Fever, diarrhea, vomiting, or sweating may cause fluid losses and electrolyte imbalances. Hydration needs vary depending on illness, environment, and individual factors. Oral hydration with water and electrolyte-containing fluids is generally recommended; intravenous fluids may be necessary in severe cases. Monitoring signs of dehydration, such as dry mouth or decreased urine output, guides management."
+    },
+    {
+      "heading": "Micronutrients Supporting Immune Function",
+      "content": "Vitamins and minerals such as vitamin A, C, D, zinc, and selenium have recognized roles in supporting immune cell function and modulating inflammation. Deficiencies can impair immune responses and prolong recovery. While balanced diets typically supply needed micronutrients, supplementation may be beneficial in deficiency states or increased needs. However, excessive supplementation may have adverse effects, so guidance from healthcare professionals is important."
+    },
+    {
+      "heading": "Nutrition Challenges During Illness",
+      "content": "Symptoms such as loss of appetite, taste changes, nausea, and gastrointestinal issues often limit intake and absorption of nutrients. Hospitalization, medications, and procedures may further complicate nutrition. Identifying barriers and using strategies like small frequent meals, nutrient-dense foods, oral nutritional supplements, or specialized diets can improve intake. Early nutrition assessment and intervention are critical to preventing malnutrition-related complications."
+    },
+    {
+      "heading": "Clinical Nutrition Interventions: Enteral and Parenteral Nutrition",
+      "content": "When oral intake is insufficient or impossible, enteral nutrition (tube feeding) or parenteral nutrition (intravenous feeding) may be required to meet nutritional needs. These interventions support patients with severe illness or gastrointestinal dysfunction. Clinical guidelines suggest timely initiation to prevent deterioration but emphasize careful monitoring to avoid complications such as infections or metabolic imbalances."
+    },
+    {
+      "heading": "Special Considerations for Different Illness Types",
+      "content": "Nutritional needs may differ depending on the underlying illness. For example, patients with infections, cancer, chronic diseases, or trauma may have varying metabolic demands and nutrient requirements. Tailoring nutrition plans based on disease-specific guidelines and individual assessment improves outcomes. Coordination with multidisciplinary teams ensures comprehensive care."
+    },
+    {
+      "heading": "Monitoring and Adjusting Nutrition During Recovery",
+      "content": "Continuous monitoring of nutritional status through weight, laboratory markers, and clinical signs guides adjustments to nutrition interventions. Recovery phases may necessitate gradual increases in intake to meet changing demands. Educating patients and caregivers about balanced diets and hydration supports sustained recovery and reduces risk of recurrence or complications."
+    }
+  ],
+  "practical_guidance": [
+    "Assess nutritional status early during illness to identify risks and intervene promptly.",
+    "Encourage small, frequent, nutrient-dense meals if appetite is reduced.",
+    "Ensure adequate protein intake to support muscle mass and immune function.",
+    "Maintain optimal hydration, adjusting fluids according to symptoms and losses.",
+    "Use oral nutritional supplements when dietary intake is insufficient.",
+    "Collaborate with dietitians and healthcare teams for tailored nutrition plans.",
+    "Monitor for signs of malnutrition and dehydration regularly during recovery.",
+    "Educate patients about the importance of nutrition for healing and immune support."
+  ],
+  "safety_notes": [
+    "Avoid excessive calorie intake to prevent metabolic complications.",
+    "Supplement vitamins and minerals only as recommended by healthcare professionals.",
+    "Special caution with enteral or parenteral nutrition to prevent infections.",
+    "Monitor closely for fluid overload or electrolyte imbalances.",
+    "Individualize nutrition approaches considering allergies, intolerances, and chronic conditions."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Eating less is better during illness to 'rest the stomach.'",
+      "reality": "Adequate nutrition and hydration support energy needs and healing; while certain symptoms may reduce appetite, nourishment remains important."
+    },
+    {
+      "misconception": "High doses of vitamin supplements can cure illness.",
+      "reality": "While some vitamins support immune function, excessive doses may be harmful and have not been proven to cure infections or diseases."
+    },
+    {
+      "misconception": "Protein intake is not important during illness.",
+      "reality": "Protein is crucial for tissue repair and immune responses during recovery and should be maintained or increased as needed."
+    },
+    {
+      "misconception": "Hydration only means drinking water.",
+      "reality": "Fluid replacement may require electrolytes, especially if there are losses from vomiting, diarrhea, or sweating."
+    }
+  ],
+  "clinical_pearls": [
+    "Early nutrition assessment improves recovery outcomes.",
+    "Protein needs increase significantly during illness and recovery phases.",
+    "Hydration status should be frequently monitored and addressed.",
+    "Tailored nutrition interventions reduce complications and hospital stay length.",
+    "Multidisciplinary approaches enhance comprehensive nutritional care."
+  ],
+  "key_takeaways": [
+    "Nutrition is a vital component of illness management and recovery.",
+    "Energy, protein, and hydration requirements increase during illness.",
+    "Micronutrients play supporting roles in immune health.",
+    "Tailored nutrition supports healing, muscle maintenance, and immune function.",
+    "Proper hydration balances fluid and electrolytes essential for recovery.",
+    "Monitoring and adjusting nutrition ensures optimal outcomes.",
+    "Use clinical interventions when oral intake is not sufficient.",
+    "Avoid misconceptions and follow evidence-based nutrition guidance."
+  ],
+  "glossary": [
+    {
+      "term": "Basal Metabolic Rate",
+      "definition": "The amount of energy expended while at rest in a neutrally temperate environment, necessary to maintain vital body functions."
+    },
+    {
+      "term": "Enteral Nutrition",
+      "definition": "Feeding provided via the gastrointestinal tract, such as through a feeding tube."
+    },
+    {
+      "term": "Parenteral Nutrition",
+      "definition": "Intravenous administration of nutrients, bypassing the gastrointestinal tract."
+    },
+    {
+      "term": "Micronutrients",
+      "definition": "Vitamins and minerals required by the body in small amounts that are essential for physiological functions."
+    },
+    {
+      "term": "Malnutrition",
+      "definition": "A condition resulting from inadequate or imbalanced nutrient intake causing adverse health effects."
+    }
+  ],
+  "related_modules": [
+    "NUT-120 - Immune Support Nutrition",
+    "NUT-210 - Hydration and Electrolyte Balance",
+    "NUT-240 - Clinical Management of Malnutrition"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILLUS1",
+      "title": "Energy Expenditure in Illness",
+      "illustration_type": "Chart",
+      "description": "Graph showing increased basal metabolic rate during various illnesses compared to healthy state.",
+      "alt_text": "Graph depicting basal metabolic rate elevated during illness."
+    },
+    {
+      "illustration_id": "ILLUS2",
+      "title": "Protein Roles in Recovery",
+      "illustration_type": "Diagram",
+      "description": "Diagram illustrating the functions of protein in immune response and tissue repair during recovery.",
+      "alt_text": "Diagram showing protein involvement in immune cell production and tissue healing."
+    },
+    {
+      "illustration_id": "ILLUS3",
+      "title": "Hydration and Fluid Balance",
+      "illustration_type": "Illustration",
+      "description": "Visual explaining the importance of hydration, fluid compartments, and effects of dehydration.",
+      "alt_text": "Illustration of body fluid compartments and significance of maintaining hydration."
+    },
+    {
+      "illustration_id": "ILLUS4",
+      "title": "Micronutrients Supporting Immunity",
+      "illustration_type": "Infographic",
+      "description": "Infographic listing key vitamins and minerals involved in immune function and their dietary sources.",
+      "alt_text": "Infographic showing vitamins A, C, D, zinc, and selenium with food sources."
+    },
+    {
+      "illustration_id": "ILLUS5",
+      "title": "Nutrition Support Methods",
+      "illustration_type": "Flowchart",
+      "description": "Flowchart detailing decision making between oral feeding, enteral nutrition, and parenteral nutrition based on patient condition.",
+      "alt_text": "Flowchart outlining nutritional intervention options depending on patient needs."
+    }
+  ],
+  "references": [
+    {
+      "title": "Nutritional Management in Clinical Practice",
+      "organization_or_authors": "Clinical Nutrition Society",
+      "year": "2022",
+      "identifier": "CNS2022-NT-MGMT",
+      "verification_status": "unverified"
+    },
+    {
+      "title": "Guidelines for Nutrition Support Therapy in Adults",
+      "organization_or_authors": "Global Clinical Nutrition Consortium",
+      "year": "2023",
+      "identifier": "GCNC-2023-GUIDELINES",
+      "verification_status": "unverified"
+    },
+    {
+      "title": "Micronutrients and Immune Function: A Review",
+      "organization_or_authors": "International Immunonutrition Association",
+      "year": "2021",
+      "identifier": "IIA-2021-MICROIMM",
+      "verification_status": "unverified"
+    },
+    {
+      "title": "Hydration in the Adult Patient",
+      "organization_or_authors": "World Health Nutrition Organization",
+      "year": "2020",
+      "identifier": "WHNO-2020-HYDRATION",
+      "verification_status": "unverified"
+    }
+  ],
+  "evidence_strength": "Moderate - Derived from clinical nutrition guidelines, cohort studies, and consensus expert reviews, with some emerging evidence in immunonutrition and supplementation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-007",
+  "title": "Starches",
+  "subtitle": "Digestible starch, resistant starch, food structure, and metabolic effects",
+  "domain": "Nutrition",
+  "category": "Macronutrients",
+  "som_stages": [
+    "Awareness",
+    "Knowledge",
+    "Application"
+  ],
+  "audience": [
+    "General adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "starch",
+    "digestible starch",
+    "resistant starch",
+    "food structure",
+    "metabolic effects",
+    "glycemic response",
+    "fiber"
+  ],
+  "related_modules": [
+    "NUT-003-Dietary Fiber",
+    "NUT-012-Glycemic Index and Load",
+    "NUT-015-Gut Microbiome and Health"
+  ],
+  "evidence_strength": "Established evidence with emerging research on food structure and individual responses",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

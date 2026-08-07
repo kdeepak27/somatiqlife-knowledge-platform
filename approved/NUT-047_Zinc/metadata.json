@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-047",
+  "title": "Zinc",
+  "subtitle": "Immunity, wound healing, growth, and deficiency",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "General adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Zinc",
+    "Micronutrient",
+    "Immune function",
+    "Wound healing",
+    "Growth",
+    "Deficiency",
+    "Nutrition"
+  ],
+  "related_modules": [
+    "NUT-032: Iron",
+    "NUT-038: Copper",
+    "IMN-015: Immunity and Nutrition"
+  ],
+  "evidence_strength": "Established evidence from nutrition science and clinical studies supports zinc’s essential roles and deficiency consequences. Some emerging studies explore zinc’s broader effects on chronic disease and immune modulation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

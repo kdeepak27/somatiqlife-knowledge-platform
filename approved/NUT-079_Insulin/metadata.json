@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-079",
+  "title": "Insulin",
+  "subtitle": "How insulin regulates glucose uptake, storage, and metabolism",
+  "domain": "Nutrition",
+  "category": "Metabolism",
+  "som_stages": [
+    "Adults"
+  ],
+  "audience": [
+    "General public",
+    "Health educators",
+    "Students"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Insulin",
+    "Glucose uptake",
+    "Metabolism",
+    "Blood sugar",
+    "Diabetes",
+    "Pancreas",
+    "Hormones",
+    "Glycogen"
+  ],
+  "related_modules": [
+    "NUT-032 Diabetes Basics",
+    "NUT-041 Metabolic Syndrome",
+    "NUT-055 Hormonal Regulation"
+  ],
+  "evidence_strength": "Strong evidence from clinical and physiological studies supports the understanding of insulin’s role in glucose metabolism.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

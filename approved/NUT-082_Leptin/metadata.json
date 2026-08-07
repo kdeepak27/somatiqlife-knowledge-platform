@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-082",
+  "title": "Leptin",
+  "subtitle": "Adipose signaling, appetite regulation, and energy balance",
+  "domain": "Nutrition",
+  "category": "Appetite",
+  "som_stages": [
+    "adult"
+  ],
+  "audience": [
+    "general public",
+    "healthcare professionals"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "leptin",
+    "appetite regulation",
+    "energy balance",
+    "adipose tissue",
+    "hormones",
+    "metabolism",
+    "satiety",
+    "obesity"
+  ],
+  "related_modules": [
+    "NUT-079-Hormones-in-Appetite",
+    "NUT-085-Obesity-Physiology",
+    "NUT-090-Metabolic-Syndrome"
+  ],
+  "evidence_strength": "Well-established evidence from biochemical and clinical studies, with ongoing research to address leptin resistance and therapeutic applications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

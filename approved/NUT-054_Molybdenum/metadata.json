@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-054",
+  "title": "Molybdenum",
+  "subtitle": "Enzyme cofactors, dietary sources, and deficiency",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "General Nutrition Awareness",
+    "Micronutrient Deficiency Prevention"
+  ],
+  "audience": [
+    "General Adult Population",
+    "Health Educators",
+    "Nutritionists",
+    "Medical Students"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Molybdenum",
+    "Trace Mineral",
+    "Cofactors",
+    "Dietary Sources",
+    "Deficiency",
+    "Enzymes",
+    "Nutrition"
+  ],
+  "related_modules": [
+    "NUT-020_Micronutrients_Basics",
+    "NUT-037_TraceMinerals",
+    "NUT-059_Copper_and_Health"
+  ],
+  "evidence_strength": "Established evidence based on nutritional biochemistry and clinical observations with some emerging research on broader health implications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

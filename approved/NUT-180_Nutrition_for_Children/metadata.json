@@ -1,0 +1,37 @@
+{
+  "module_id": "NUT-180",
+  "title": "Nutrition for Children",
+  "subtitle": "Growth, nutrient density, meal patterns, and healthy eating development",
+  "domain": "Nutrition",
+  "category": "Life Stage Nutrition",
+  "som_stages": [
+    "Childhood"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Health Educators",
+    "Pediatric Healthcare Providers",
+    "Nutritionists"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "child nutrition",
+    "growth",
+    "nutrient density",
+    "meal patterns",
+    "healthy eating",
+    "pediatric nutrition",
+    "childhood development",
+    "balanced diet"
+  ],
+  "related_modules": [
+    "NUT-100: Fundamentals of Nutrition",
+    "CHI-120: Pediatric Health Basics",
+    "NUT-200: Adolescent Nutrition",
+    "HEA-150: Healthy Lifestyle Education"
+  ],
+  "evidence_strength": "Established evidence supporting the essential nutrient requirements and meal patterns for optimal child growth and healthy eating development, based on consensus guidelines and observational studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

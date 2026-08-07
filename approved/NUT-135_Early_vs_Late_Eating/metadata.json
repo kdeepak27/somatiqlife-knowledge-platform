@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-135",
+  "title": "Early vs Late Eating",
+  "subtitle": "Circadian timing, glucose control, appetite, and sleep",
+  "domain": "Nutrition",
+  "category": "Meal Timing",
+  "som_stages": [
+    "Maintenance"
+  ],
+  "audience": [
+    "General adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "meal timing",
+    "circadian rhythm",
+    "glucose control",
+    "appetite regulation",
+    "sleep quality",
+    "early eating",
+    "late eating",
+    "metabolic health"
+  ],
+  "related_modules": [
+    "NUT-102: Intermittent Fasting Principles",
+    "SOM-210: Circadian Biology and Health",
+    "NUT-145: Sleep and Nutrition"
+  ],
+  "evidence_strength": "Moderate evidence from controlled clinical studies with ongoing research to refine practical applications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

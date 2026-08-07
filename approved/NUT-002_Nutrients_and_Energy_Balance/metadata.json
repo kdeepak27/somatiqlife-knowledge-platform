@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-002",
+  "title": "Nutrients and Energy Balance",
+  "subtitle": "How energy intake, expenditure, and nutrient needs interact",
+  "domain": "Nutrition",
+  "category": "Nutrition Foundations",
+  "som_stages": [
+    "Foundation"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "energy balance",
+    "nutrients",
+    "calories",
+    "metabolism",
+    "energy intake",
+    "energy expenditure",
+    "macronutrients",
+    "micronutrients"
+  ],
+  "related_modules": [
+    "NUT-001_BalancedDiet_Concepts",
+    "NUT-003_PhysicalActivity_EnergyExpenditure",
+    "NUT-004_Metabolism_Basics"
+  ],
+  "evidence_strength": "Established evidence with consensus in nutrition science.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

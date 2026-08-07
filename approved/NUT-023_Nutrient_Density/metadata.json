@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-023",
+  "title": "Nutrient Density",
+  "subtitle": "How to evaluate foods by nutrient value relative to energy",
+  "domain": "Nutrition",
+  "category": "Nutrition Foundations",
+  "som_stages": [
+    "Foundations"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "nutrient density",
+    "nutrition",
+    "calories",
+    "vitamins",
+    "minerals",
+    "healthy eating",
+    "diet quality",
+    "energy"
+  ],
+  "related_modules": [
+    "NUT-007 Healthy Eating Patterns",
+    "NUT-015 Weight Management Essentials",
+    "NUT-030 Food Labels and Nutrition Facts"
+  ],
+  "evidence_strength": "Established evidence with ongoing research on applications and metrics",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

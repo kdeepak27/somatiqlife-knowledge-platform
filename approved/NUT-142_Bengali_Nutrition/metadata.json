@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-142",
+  "title": "Bengali Nutrition",
+  "subtitle": "Rice, fish, sweets, vegetables, and balanced meal planning",
+  "domain": "Nutrition",
+  "category": "Cultural Nutrition",
+  "som_stages": [
+    "All adults"
+  ],
+  "audience": [
+    "Consumers",
+    "Health educators",
+    "Nutritionists"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Bengali cuisine",
+    "Nutrition",
+    "Fish",
+    "Rice",
+    "Traditional sweets",
+    "Balanced diet",
+    "Vegetables",
+    "Cultural nutrition"
+  ],
+  "related_modules": [
+    "NUT-021 South Asian Dietary Patterns",
+    "NUT-058 Heart-Healthy Cooking Oils",
+    "NUT-086 Managing Diabetes with Cultural Sensitivity",
+    "NUT-109 Sustainable Fish Consumption"
+  ],
+  "evidence_strength": "Moderate - Based on observational studies and cultural dietary assessments with some controlled trials specific to component foods.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

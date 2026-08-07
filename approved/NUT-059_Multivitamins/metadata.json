@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-059",
+  "title": "Multivitamins",
+  "subtitle": "What multivitamins can and cannot do for healthy adults",
+  "domain": "Nutrition",
+  "category": "Supplements",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "multivitamins",
+    "dietary supplements",
+    "nutrient deficiency",
+    "healthy adults",
+    "vitamins",
+    "minerals",
+    "supplement safety",
+    "nutrition"
+  ],
+  "related_modules": [
+    "NUT-012 - Vitamins and Minerals Basics",
+    "NUT-034 - Nutrient Deficiencies in Adults",
+    "NUT-078 - Safe Use of Dietary Supplements"
+  ],
+  "evidence_strength": "Moderate evidence supports multivitamins in preventing nutrient deficiencies but limited evidence supports chronic disease prevention in healthy adults.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

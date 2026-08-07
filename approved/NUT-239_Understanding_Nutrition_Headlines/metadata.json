@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-239",
+  "title": "Understanding Nutrition Headlines",
+  "subtitle": "How to interpret dramatic claims and conflicting nutrition news",
+  "domain": "Nutrition",
+  "category": "Nutrition Literacy",
+  "som_stages": [
+    "engagement",
+    "knowledge acquisition",
+    "application"
+  ],
+  "audience": [
+    "general public",
+    "adult learners"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "nutrition headlines",
+    "health news",
+    "diet claims",
+    "media literacy",
+    "nutrition science",
+    "conflicting information",
+    "critical thinking",
+    "evidence-based nutrition"
+  ],
+  "related_modules": [
+    "NUT-101 Evidence-Based Nutrition Basics",
+    "NUT-180 Reading Scientific Studies",
+    "COM-205 Media Literacy for Health News",
+    "NUT-225 Dietary Guidelines and Recommendations"
+  ],
+  "evidence_strength": "Emerging evidence and expert consensus",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

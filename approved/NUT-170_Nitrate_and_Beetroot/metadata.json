@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-170",
+  "title": "Nitrate and Beetroot",
+  "subtitle": "Nitric oxide, endurance performance, evidence, and practical use",
+  "domain": "Nutrition",
+  "category": "Supplements",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General public",
+    "Athletes",
+    "Nutritionists",
+    "Healthcare providers"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "nitrate",
+    "beetroot",
+    "nitric oxide",
+    "endurance performance",
+    "supplements",
+    "exercise physiology",
+    "cardiovascular health",
+    "dietary nitrates"
+  ],
+  "related_modules": [
+    "NUT-150 - Dietary Antioxidants and Exercise",
+    "EXR-112 - Exercise Physiology Fundamentals",
+    "CAR-201 - Cardiovascular Health and Nutrition"
+  ],
+  "evidence_strength": "Moderate evidence with some conflicting findings and individual variability; more robust large-scale, long-term studies needed.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

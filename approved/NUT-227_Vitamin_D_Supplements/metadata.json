@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-227",
+  "title": "Vitamin D Supplements",
+  "subtitle": "Who may need them, dosing principles, testing, and safety",
+  "domain": "Nutrition",
+  "category": "Supplements",
+  "som_stages": [
+    "adult"
+  ],
+  "audience": [
+    "general public",
+    "healthcare providers"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "Vitamin D",
+    "supplements",
+    "dosing",
+    "testing",
+    "safety",
+    "deficiency",
+    "bone health",
+    "immune function"
+  ],
+  "related_modules": [
+    "NUT-105 - Bone Health and Nutrition",
+    "NUT-312 - Sunscreen Use and Vitamin D",
+    "IMM-119 - Nutrition and Immune Function"
+  ],
+  "evidence_strength": "Well-established evidence for bone health benefits; emerging evidence for immune support; ongoing research on broader effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

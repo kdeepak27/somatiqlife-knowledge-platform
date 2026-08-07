@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-042",
+  "title": "Calcium",
+  "subtitle": "Bone, muscle, nerve function, absorption, and dietary requirements",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General public",
+    "Health professionals",
+    "Nutrition students"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Calcium",
+    "Bone health",
+    "Muscle function",
+    "Nerve transmission",
+    "Dietary requirements",
+    "Absorption",
+    "Hypocalcemia",
+    "Hypercalcemia"
+  ],
+  "related_modules": [
+    "NUT-003 Vitamin D",
+    "NUT-017 Bone Health and Nutrition",
+    "NUT-028 Osteoporosis Prevention",
+    "NUT-033 Muscle Function and Nutrition"
+  ],
+  "evidence_strength": "Established evidence supporting calcium’s critical roles in bone and muscle health, regulated absorption, and documented clinical implications of deficiency and excess.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

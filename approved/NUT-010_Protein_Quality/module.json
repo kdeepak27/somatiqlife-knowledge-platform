@@ -1,0 +1,241 @@
+{
+  "module_id": "NUT-010",
+  "title": "Protein Quality",
+  "subtitle": "Digestibility, amino-acid profile, and complementary proteins",
+  "domain": "Nutrition",
+  "category": "Macronutrients",
+  "som_stages": [
+    "All Adults"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Nutrition Students"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "protein quality",
+    "digestibility",
+    "amino acids",
+    "complementary proteins",
+    "protein nutrition",
+    "dietary protein",
+    "essential amino acids",
+    "PDCAAS",
+    "DIAAS"
+  ],
+  "customer_questions": [
+    "What does protein quality mean?",
+    "How is protein digestibility measured?",
+    "Why are some proteins considered higher quality than others?",
+    "What are essential amino acids and why are they important?",
+    "What is the amino acid profile of a protein?",
+    "How can complementary proteins improve protein quality?",
+    "Are plant proteins as effective as animal proteins?",
+    "What are the limitations of protein quality scores like PDCAAS and DIAAS?"
+  ],
+  "retrieval_summary": "Protein quality refers to how well a protein source meets the body's amino acid requirements and how efficiently it is digested and utilized. Key factors that determine protein quality include digestibility—the extent to which protein is broken down and absorbed—and the amino acid profile, meaning the types and proportions of essential amino acids present in the protein. Essential amino acids cannot be synthesized by the human body and must be obtained through diet. Animal-based proteins such as meat, eggs, and dairy tend to have higher digestibility and complete amino acid profiles, while many plant-based proteins may lack one or more essential amino acids or have lower digestibility. Practical relevance of protein quality lies in ensuring adequate intake of essential amino acids to support bodily functions like tissue repair, enzyme production, and immune responses. Complementary protein consumption, wherein diverse protein sources are combined (e.g., rice and beans), can provide a complete amino acid profile from plant-based diets. However, common assessment methods like the Protein Digestibility Corrected Amino Acid Score (PDCAAS) and the newer Digestible Indispensable Amino Acid Score (DIAAS) have limitations, including variability by age and physiological state, and possible overestimation or underestimation of digestibility. Understanding protein quality helps in designing balanced diets for diverse populations including vegetarians, elderly persons, and athletes. Related concepts involve nitrogen balance, bioavailability, and dietary reference intakes.",
+  "learning_objectives": [
+    "Define protein quality and its determinants.",
+    "Explain the role of digestibility in protein utilization.",
+    "Describe the importance of the amino acid profile for dietary proteins.",
+    "Understand complementary proteins in plant-based diets.",
+    "Discuss limitations of protein quality assessment methods.",
+    "Recognize practical applications for diet planning.",
+    "Identify common misconceptions about protein sources.",
+    "Apply knowledge of protein quality to individual nutrition needs."
+  ],
+  "definition": "Protein quality is a measure of how effectively a dietary protein provides the essential amino acids in adequate proportions and how well it can be digested and utilized by the human body.",
+  "why_this_matters": "Evaluating protein quality is vital to ensure sufficient intake of essential amino acids needed for vital body functions such as tissue repair, enzyme synthesis, and immune competency. Inadequate protein quality or intake may contribute to malnutrition or health issues. Understanding protein quality allows individuals and health professionals to optimize dietary choices, particularly when using plant-based proteins or for populations with increased protein needs.",
+  "sections": [
+    {
+      "heading": "Defining Protein Quality",
+      "content": "Protein quality encompasses two main components: amino acid composition and digestibility. A high-quality protein contains all essential amino acids in amounts that align well with human nutritional needs. Digestibility refers to how much of the protein is broken down and absorbed in the digestive tract. Both factors are critical to determine the ability of a protein to meet bodily amino acid requirements and maintain nitrogen balance."
+    },
+    {
+      "heading": "Amino Acid Profile: Essential and Non-Essential Amino Acids",
+      "content": "Proteins are made up of 20 amino acids; nine are essential, meaning the body cannot produce them and they must be consumed. The amino acid profile describes the types and ratios of these amino acids in a protein source. Complete proteins contain adequate amounts of all essential amino acids, while incomplete proteins lack one or more. This distinction affects the capacity of dietary proteins to support bodily functions."
+    },
+    {
+      "heading": "Protein Digestibility and Its Measurement",
+      "content": "Digestibility assesses the degree to which protein is broken down into absorbable amino acids and peptides during digestion. Methods to measure digestibility include in vivo animal studies and in vitro assays simulating the digestive process. Accurate digestibility measurement is necessary to estimate the true nutritional value of protein sources, as some proteins resist digestion due to their physical or chemical structure."
+    },
+    {
+      "heading": "Complementary Proteins in Plant-Based Diets",
+      "content": "Many plant proteins are limited in one or more essential amino acids. Combining different plant protein sources with complementary amino acid profiles—such as cereals (low in lysine but high in methionine) with legumes (high in lysine but low in methionine)—can provide a combined protein intake that meets essential amino acid requirements. This strategy is particularly important for individuals following vegetarian or vegan diets."
+    },
+    {
+      "heading": "Protein Quality Assessment Methods: PDCAAS and DIAAS",
+      "content": "The Protein Digestibility Corrected Amino Acid Score (PDCAAS) has historically been used to evaluate protein quality and is based on amino acid requirements and fecal protein digestibility. The newer Digestible Indispensable Amino Acid Score (DIAAS) measures ileal digestibility of individual amino acids and is considered more accurate. Both have practical uses but also limitations, such as varying applicability across populations and possible inaccuracies with certain protein types."
+    },
+    {
+      "heading": "Practical Implications for Diet Planning",
+      "content": "Understanding protein quality helps inform selection and combination of protein sources to meet individual amino acid needs. This knowledge guides diet formulation for vulnerable groups such as elderly individuals, athletes, and those with restricted diets. A balanced intake of high-quality proteins supports health, growth, and recovery."
+    },
+    {
+      "heading": "Limitations and Current Challenges in Protein Quality Evaluation",
+      "content": "Assessment of protein quality is complex due to factors like variation in individual digestibility, processing effects, and physiological conditions. Protein quality scores do not account for protein metabolism differences among populations or absorption interactions with other nutrients. Ongoing research aims to refine evaluation methods and integrate them with broader nutritional considerations."
+    },
+    {
+      "heading": "Related Concepts: Nitrogen Balance and Bioavailability",
+      "content": "Protein quality relates closely to nitrogen balance—the equilibrium between nitrogen intake and loss—which reflects adequacy of protein nutrition. Bioavailability refers to the proportion of amino acids available for metabolic functions after digestion and absorption. Understanding these concepts collectively supports a comprehensive view of dietary protein's role in health."
+    }
+  ],
+  "practical_guidance": [
+    "Include a variety of protein sources to ensure all essential amino acids.",
+    "Combine complementary plant proteins within meals or throughout the day if consuming a vegetarian or vegan diet.",
+    "Pay attention to protein digestibility, especially when relying heavily on plant proteins, to maximize nutrient absorption.",
+    "Use protein quality scores like DIAAS as guides but consider individual health status and requirements.",
+    "Adjust protein intake in certain populations such as elderly or physically active individuals to compensate for changes in protein utilization.",
+    "Be aware that food processing can influence protein digestibility and quality.",
+    "Consult with a healthcare professional or registered dietitian when planning restricted diets to maintain protein adequacy.",
+    "Remember that overall diet quality and energy intake also influence protein nutrition and health outcomes."
+  ],
+  "safety_notes": [
+    "Excessive protein intake does not improve protein quality and may strain kidney function in susceptible individuals.",
+    "Incomplete or unbalanced protein intake over time can lead to essential amino acid deficiencies and health impairments.",
+    "Overreliance on processed protein supplements may neglect other important nutrients found in whole foods.",
+    "Allergies to certain protein sources require careful substitution to maintain protein quality.",
+    "Protein quality assessment methods may not fully reflect individual variation in digestion and metabolism."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "All proteins are equally beneficial regardless of the source.",
+      "reality": "Protein quality varies widely; proteins differ in essential amino acid composition and digestibility, affecting their nutritional value."
+    },
+    {
+      "misconception": "Plant proteins are inherently inferior to animal proteins and cannot meet nutritional needs.",
+      "reality": "Plant proteins can meet essential amino acid requirements when consumed in varied and complementary combinations."
+    },
+    {
+      "misconception": "Eating more protein always means better muscle growth and health.",
+      "reality": "Quantity alone does not guarantee quality; adequate essential amino acids and digestibility are key, and excessive intake has risks."
+    },
+    {
+      "misconception": "Protein quality scores like PDCAAS and DIAAS are perfect measures of dietary protein value.",
+      "reality": "These scores provide useful estimates but have limitations and should not be the sole criterion for diet planning."
+    }
+  ],
+  "clinical_pearls": [
+    "Consider protein quality along with total protein quantity for assessing dietary adequacy.",
+    "Different populations, such as older adults, may require higher protein intake due to decreased digestibility and amino acid utilization.",
+    "Complementary proteins improve nutritional quality of vegetarian diets without requiring animal products.",
+    "DIAAS is more sensitive than PDCAAS in distinguishing high-quality protein sources but is not yet widely used clinically.",
+    "Individual protein digestibility may be affected by factors such as food processing, disease states, and aging, which influence dietary recommendations."
+  ],
+  "key_takeaways": [
+    "Protein quality depends on amino acid profile and digestibility.",
+    "Essential amino acids must be obtained from the diet for proper body function.",
+    "Combining complementary proteins can overcome amino acid limitations in plant-based diets.",
+    "Protein-quality assessment methods are important but have limitations.",
+    "Practical diet planning considers both protein quantity and quality to meet individual needs.",
+    "Awareness of misconceptions supports better nutrition education.",
+    "Protein quality influences health outcomes across the lifespan.",
+    "Balanced protein intake contributes to maintenance, growth, and repair of body tissues."
+  ],
+  "glossary": [
+    {
+      "term": "Amino Acid Profile",
+      "definition": "The composition and proportion of individual amino acids in a protein source, particularly focusing on essential amino acids."
+    },
+    {
+      "term": "Complementary Proteins",
+      "definition": "Two or more protein sources that, when combined, provide a complete set of essential amino acids."
+    },
+    {
+      "term": "Digestibility",
+      "definition": "The proportion of dietary protein that is broken down and absorbed during digestion."
+    },
+    {
+      "term": "Essential Amino Acids",
+      "definition": "Amino acids that the body cannot synthesize and must be obtained through dietary intake."
+    },
+    {
+      "term": "PDCAAS (Protein Digestibility Corrected Amino Acid Score)",
+      "definition": "A method to assess protein quality based on amino acid requirements and fecal digestibility."
+    },
+    {
+      "term": "DIAAS (Digestible Indispensable Amino Acid Score)",
+      "definition": "A protein quality score measuring the digestibility of individual indispensable amino acids at the end of the small intestine."
+    },
+    {
+      "term": "Nitrogen Balance",
+      "definition": "The difference between nitrogen intake and nitrogen excretion, indicating protein adequacy in the body."
+    }
+  ],
+  "related_modules": [
+    "NUT-002 Dietary Protein Basics",
+    "NUT-015 Vegetarian Nutrition",
+    "NUT-020 Amino Acid Metabolism"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Amino Acid Composition of Common Protein Sources",
+      "illustration_type": "Chart",
+      "description": "Bar graph comparing essential amino acid profiles across various animal and plant protein sources.",
+      "alt_text": "Chart showing amino acid levels in different protein foods."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Digestibility of Protein Sources",
+      "illustration_type": "Infographic",
+      "description": "Visual depicting the digestive process and relative digestibility percentages of various proteins.",
+      "alt_text": "Diagram illustrating protein digestion and absorption efficiency."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Complementary Protein Combinations",
+      "illustration_type": "Diagram",
+      "description": "Diagram showing common plant protein pairings that provide complete essential amino acid profiles.",
+      "alt_text": "Visual showing combinations like rice and beans for complete protein."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Protein Quality Scoring Methods PDCAAS vs DIAAS",
+      "illustration_type": "Comparison Table",
+      "description": "Table outlining key features, benefits, and limitations of PDCAAS and DIAAS methods.",
+      "alt_text": "Table comparing protein quality assessment methods."
+    },
+    {
+      "illustration_id": "ILL-005",
+      "title": "Nitrogen Balance Overview",
+      "illustration_type": "Flowchart",
+      "description": "Flowchart describing nitrogen intake, utilization, and excretion to illustrate nitrogen balance.",
+      "alt_text": "Diagram showing nitrogen input and output pathways."
+    }
+  ],
+  "references": [
+    {
+      "title": "Protein Quality Evaluation Methods",
+      "organization_or_authors": "Institute of Nutrition Sciences",
+      "year": "2022",
+      "identifier": "Report #2022-ProteinQuality",
+      "verification_status": "unverified"
+    },
+    {
+      "title": "Dietary Protein and Amino Acids in Human Nutrition",
+      "organization_or_authors": "World Health Organization",
+      "year": "2019",
+      "identifier": "WHO Technical Report",
+      "verification_status": "unverified"
+    },
+    {
+      "title": "Advances in Protein Digestibility Scores",
+      "organization_or_authors": "Nutrition Research Association",
+      "year": "2021",
+      "identifier": "NRA Journal Vol 15",
+      "verification_status": "unverified"
+    },
+    {
+      "title": "Complementary Proteins in Plant-Based Diets",
+      "organization_or_authors": "Global Plant Nutrition Center",
+      "year": "2020",
+      "identifier": "GPNC Publication",
+      "verification_status": "unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence with some emerging concepts",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

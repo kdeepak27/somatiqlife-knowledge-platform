@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-088",
+  "title": "Food Processing",
+  "subtitle": "From minimal processing to ultra-processing and why degree matters",
+  "domain": "Nutrition",
+  "category": "Diet Quality",
+  "som_stages": [
+    "prevention",
+    "assessment",
+    "intervention"
+  ],
+  "audience": [
+    "general public",
+    "health professionals",
+    "nutrition students"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "food processing",
+    "ultra-processed foods",
+    "diet quality",
+    "nutrition",
+    "food preservation",
+    "additives",
+    "food safety",
+    "health effects"
+  ],
+  "related_modules": [
+    "NUT-019 Nutrition & Chronic Disease",
+    "NUT-034 Food Additives and Safety",
+    "NUT-072 Dietary Patterns and Health"
+  ],
+  "evidence_strength": "Moderate - based on epidemiological studies and systematic reviews, with ongoing investigation into causality and mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-103",
+  "title": "Dinner",
+  "subtitle": "Meal composition, timing, and practical considerations",
+  "domain": "Nutrition",
+  "category": "Meal Patterns",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Nutritionists"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Dinner",
+    "Meal Timing",
+    "Meal Composition",
+    "Nutrition",
+    "Eating Patterns",
+    "Health",
+    "Satiety"
+  ],
+  "related_modules": [
+    "NUT-101 Meal Timing",
+    "NUT-102 Macronutrient Balance",
+    "NUT-104 Weight Management Strategies"
+  ],
+  "evidence_strength": "Evidence for dinner’s impact on health is supported by observational and interventional studies, although individual variability and cultural factors introduce some limitations. Further research is needed to clarify optimal timing and composition for diverse populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

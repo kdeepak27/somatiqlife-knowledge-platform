@@ -1,0 +1,38 @@
+{
+  "module_id": "NUT-177",
+  "title": "Nutrition for Women Over 40",
+  "subtitle": "Protein, iron, calcium, cardiometabolic health, and menopause transition",
+  "domain": "Nutrition",
+  "category": "Life Stage Nutrition",
+  "som_stages": [
+    "Midlife",
+    "Menopause Transition",
+    "Postmenopause"
+  ],
+  "audience": [
+    "General Adult Population",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Women Over 40"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Protein",
+    "Iron",
+    "Calcium",
+    "Cardiometabolic Health",
+    "Menopause",
+    "Nutrition",
+    "Women Over 40",
+    "Bone Health"
+  ],
+  "related_modules": [
+    "NUT-101: Bone Health Across the Lifespan",
+    "NUT-142: Cardiometabolic Nutrition Fundamentals",
+    "NUT-130: Menopause and Hormonal Health",
+    "NUT-150: Protein and Aging Muscle Maintenance"
+  ],
+  "evidence_strength": "Established evidence for protein, calcium, and cardiometabolic nutrition; emerging evidence for phytoestrogens and menopause nutrition strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

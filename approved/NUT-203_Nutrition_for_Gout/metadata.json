@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-203",
+  "title": "Nutrition for Gout",
+  "subtitle": "Purines, alcohol, fructose, weight, hydration, and medication context",
+  "domain": "Nutrition",
+  "category": "Condition Nutrition",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Adults",
+    "Patients with gout",
+    "Caregivers"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "gout",
+    "nutrition",
+    "purines",
+    "alcohol",
+    "fructose",
+    "weight management",
+    "hydration",
+    "medications",
+    "diet"
+  ],
+  "related_modules": [
+    "NUT-101 Nutritional Foundations",
+    "NUT-207 Nutrition and Kidney Health",
+    "NUT-220 Weight Management"
+  ],
+  "evidence_strength": "Established evidence with some emerging data on fructose and specific dietary components",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
