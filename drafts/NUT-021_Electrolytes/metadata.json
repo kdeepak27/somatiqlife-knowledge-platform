@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-021",
+  "title": "Electrolytes",
+  "subtitle": "Sodium, potassium, chloride, magnesium, and fluid balance",
+  "domain": "Nutrition",
+  "category": "Hydration",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Nutritionists"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "electrolytes",
+    "sodium",
+    "potassium",
+    "chloride",
+    "magnesium",
+    "fluid balance",
+    "hydration",
+    "nutrition"
+  ],
+  "related_modules": [
+    "NUT-015 Fluid and Hydration Basics",
+    "PHA-032 Electrolyte Disorders",
+    "NUT-034 Dietary Electrolyte Intake"
+  ],
+  "evidence_strength": "Established evidence with ongoing research in specific electrolyte interactions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

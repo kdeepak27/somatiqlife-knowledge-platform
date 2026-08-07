@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-025",
+  "title": "Nutrient Interactions",
+  "subtitle": "How nutrients enhance or inhibit one another's absorption and function",
+  "domain": "Nutrition",
+  "category": "Nutrition Foundations",
+  "som_stages": [
+    "Foundation"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "nutrient interactions",
+    "absorption",
+    "bioavailability",
+    "vitamins",
+    "minerals",
+    "dietary supplements",
+    "nutrient synergy",
+    "nutrient competition"
+  ],
+  "related_modules": [
+    "NUT-010 Nutritional Deficiencies",
+    "NUT-015 Vitamin and Mineral Supplementation",
+    "NUT-030 Digestive Health and Nutrient Absorption"
+  ],
+  "evidence_strength": "Established evidence with emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

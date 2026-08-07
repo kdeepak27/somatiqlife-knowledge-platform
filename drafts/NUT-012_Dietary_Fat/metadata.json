@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-012",
+  "title": "Dietary Fat",
+  "subtitle": "Digestion, absorption, storage, signaling, and energy metabolism",
+  "domain": "Nutrition",
+  "category": "Macronutrients",
+  "som_stages": [
+    "Healthy Adult Nutrition",
+    "Metabolic Health"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Professionals",
+    "Nutrition Students"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Dietary fat",
+    "Digestion",
+    "Absorption",
+    "Lipid metabolism",
+    "Energy storage",
+    "Cell signaling"
+  ],
+  "related_modules": [
+    "NUT-005 Lipid Metabolism",
+    "NUT-020 Essential Fatty Acids",
+    "MET-011 Metabolic Syndrome and Diet"
+  ],
+  "evidence_strength": "Established evidence with ongoing research into detailed mechanisms and individual variability",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

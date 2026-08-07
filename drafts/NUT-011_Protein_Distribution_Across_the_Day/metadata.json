@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-011",
+  "title": "Protein Distribution Across the Day",
+  "subtitle": "Meal-by-meal protein intake, muscle protein synthesis, and practical planning",
+  "domain": "Nutrition",
+  "category": "Macronutrients",
+  "som_stages": [
+    "Healthy Adult"
+  ],
+  "audience": [
+    "General public",
+    "Nutrition students",
+    "Healthcare professionals"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "protein",
+    "muscle protein synthesis",
+    "meal timing",
+    "protein distribution",
+    "dietary protein",
+    "amino acids",
+    "muscle health",
+    "nutrition planning"
+  ],
+  "related_modules": [
+    "NUT-008: Protein Requirements and Sources",
+    "NUT-012: Aging and Nutrition: Muscle Preservation",
+    "NUT-015: Exercise and Nutrient Timing"
+  ],
+  "evidence_strength": "Moderate evidence from controlled trials combined with emerging data from observational studies supports meal-by-meal protein distribution benefits for muscle maintenance. Further research is ongoing, especially in diverse populations and long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

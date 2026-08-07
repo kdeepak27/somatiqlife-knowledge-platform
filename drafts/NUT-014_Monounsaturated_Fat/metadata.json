@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-014",
+  "title": "Monounsaturated Fat",
+  "subtitle": "Food sources, metabolism, and cardiometabolic health",
+  "domain": "Nutrition",
+  "category": "Macronutrients",
+  "som_stages": [
+    "Prevention",
+    "Treatment"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "monounsaturated fat",
+    "MUFA",
+    "cardiometabolic health",
+    "dietary fats",
+    "olive oil",
+    "lipid metabolism",
+    "heart health"
+  ],
+  "related_modules": [
+    "NUT-011 Dietary Fats Overview",
+    "NUT-022 Cardiovascular Nutrition",
+    "NUT-018 Lipid Metabolism"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

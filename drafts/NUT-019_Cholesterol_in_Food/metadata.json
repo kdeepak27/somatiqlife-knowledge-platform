@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-019",
+  "title": "Cholesterol in Food",
+  "subtitle": "Dietary cholesterol, blood cholesterol, and individual response",
+  "domain": "Nutrition",
+  "category": "Macronutrients",
+  "som_stages": [
+    "Awareness",
+    "Understanding"
+  ],
+  "audience": [
+    "General public",
+    "Health educators",
+    "Nutrition students"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "cholesterol",
+    "dietary cholesterol",
+    "blood cholesterol",
+    "lipids",
+    "nutrition",
+    "heart health",
+    "individual response",
+    "diet"
+  ],
+  "related_modules": [
+    "NUT-005 Dietary Fats and Cardiovascular Health",
+    "NUT-012 Fiber and Heart Health",
+    "NUT-021 Understanding Lipids and Lipoproteins",
+    "NUT-034 Personalized Nutrition for Cardiometabolic Risk"
+  ],
+  "evidence_strength": "Moderate overall; emerging evidence clarifies individual variability and dietary context importance.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

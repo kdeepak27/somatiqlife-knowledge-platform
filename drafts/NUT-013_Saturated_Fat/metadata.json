@@ -1,0 +1,29 @@
+{
+  "module_id": "NUT-013",
+  "title": "Saturated Fat",
+  "subtitle": "Food sources, physiology, LDL cholesterol, and cardiovascular evidence",
+  "domain": "Nutrition",
+  "category": "Macronutrients",
+  "som_stages": [
+    "Not specific"
+  ],
+  "audience": [
+    "General adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "saturated fat",
+    "LDL cholesterol",
+    "cardiovascular disease",
+    "dietary fats",
+    "nutrition"
+  ],
+  "related_modules": [
+    "NUT-007 Dietary Fats Overview",
+    "NUT-021 Cholesterol Metabolism",
+    "NUT-035 Cardiovascular Nutrition"
+  ],
+  "evidence_strength": "Moderate evidence linking saturated fat intake to LDL cholesterol and cardiovascular risk, with some emerging nuances regarding different saturated fatty acids and overall dietary patterns.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

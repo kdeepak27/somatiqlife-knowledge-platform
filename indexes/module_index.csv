@@ -99,6 +99,31 @@ BIO-097,"Tendons, Ligaments, and Fascia",Human Biology,Connective Tissue Biology
 BIO-098,Movement Control,Human Biology,Movement Science,1.0,drafts,drafts/BIO-098_Movement_Control/module.json
 BIO-099,Exercise Adaptation,Human Biology,Exercise Physiology,1.0,drafts,drafts/BIO-099_Exercise_Adaptation/module.json
 BIO-100,Recovery and Physiological Resilience,Human Biology,Recovery and Adaptation,1.0,drafts,drafts/BIO-100_Recovery_and_Physiological_Resilience/module.json
+NUT-001,Fundamentals of Human Nutrition,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-001_Fundamentals_of_Human_Nutrition/module.json
+NUT-002,Nutrients and Energy Balance,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-002_Nutrients_and_Energy_Balance/module.json
+NUT-003,Macronutrients Overview,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-003_Macronutrients_Overview/module.json
+NUT-004,Carbohydrates,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-004_Carbohydrates/module.json
+NUT-005,Dietary Fiber,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-005_Dietary_Fiber/module.json
+NUT-006,Sugars,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-006_Sugars/module.json
+NUT-007,Starches,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-007_Starches/module.json
+NUT-008,Protein,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-008_Protein/module.json
+NUT-009,Essential Amino Acids,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-009_Essential_Amino_Acids/module.json
+NUT-010,Protein Quality,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-010_Protein_Quality/module.json
+NUT-011,Protein Distribution Across the Day,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-011_Protein_Distribution_Across_the_Day/module.json
+NUT-012,Dietary Fat,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-012_Dietary_Fat/module.json
+NUT-013,Saturated Fat,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-013_Saturated_Fat/module.json
+NUT-014,Monounsaturated Fat,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-014_Monounsaturated_Fat/module.json
+NUT-015,Polyunsaturated Fat,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-015_Polyunsaturated_Fat/module.json
+NUT-016,Trans Fat,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-016_Trans_Fat/module.json
+NUT-017,Omega-3 Fatty Acids,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-017_Omega-3_Fatty_Acids/module.json
+NUT-018,Omega-6 Fatty Acids,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-018_Omega-6_Fatty_Acids/module.json
+NUT-019,Cholesterol in Food,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-019_Cholesterol_in_Food/module.json
+NUT-020,Water,Nutrition,Hydration,1.0,drafts,drafts/NUT-020_Water/module.json
+NUT-021,Electrolytes,Nutrition,Hydration,1.0,drafts,drafts/NUT-021_Electrolytes/module.json
+NUT-022,Energy Density,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-022_Energy_Density/module.json
+NUT-023,Nutrient Density,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-023_Nutrient_Density/module.json
+NUT-024,Bioavailability,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-024_Bioavailability/module.json
+NUT-025,Nutrient Interactions,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-025_Nutrient_Interactions/module.json
 BIO-001,What Is Health?,Human Biology,Health Foundations,1.0,approved,approved/BIO-001_What_Is_Health/module.json
 BIO-002,The Human Body as an Integrated System,Human Biology,Systems Biology,1.0,approved,approved/BIO-002_The_Human_Body_as_an_Integrated_System/module.json
 BIO-003,Levels of Biological Organization,Human Biology,Foundational Biology,1.0,approved,approved/BIO-003_Levels_of_Biological_Organization/module.json
@@ -109,3 +134,93 @@ BIO-007,The Cell Membrane,Human Biology,Cell Biology,1.0,approved,approved/BIO-0
 BIO-008,Cellular Organelles,Human Biology,Cell Biology,1.0,approved,approved/BIO-008_Cellular_Organelles/module.json
 BIO-009,DNA,Human Biology,Genetics,1.0,approved,approved/BIO-009_DNA/module.json
 BIO-010,Genes and Gene Expression,Human Biology,Genetics,1.0,approved,approved/BIO-010_Genes_and_Gene_Expression/module.json
+BIO-011,Proteins,Human Biology,Biochemistry,1.0,approved,approved/BIO-011_Proteins/module.json
+BIO-012,Enzymes,Human Biology,Biochemistry,1.0,approved,approved/BIO-012_Enzymes/module.json
+BIO-013,Carbohydrates,Human Biology,Biochemistry,1.0,approved,approved/BIO-013_Carbohydrates/module.json
+BIO-014,Lipids,Human Biology,Biochemistry,1.0,approved,approved/BIO-014_Lipids/module.json
+BIO-015,Nucleic Acids,Human Biology,Biochemistry,1.0,approved,approved/BIO-015_Nucleic_Acids/module.json
+BIO-016,Metabolism,Human Biology,Metabolism,1.0,approved,approved/BIO-016_Metabolism/module.json
+BIO-017,ATP and Cellular Energy,Human Biology,Bioenergetics,1.0,approved,approved/BIO-017_ATP_and_Cellular_Energy/module.json
+BIO-018,Cellular Respiration,Human Biology,Bioenergetics,1.0,approved,approved/BIO-018_Cellular_Respiration/module.json
+BIO-019,Mitochondria,Human Biology,Cell Biology,1.0,approved,approved/BIO-019_Mitochondria/module.json
+BIO-020,Cell Communication,Human Biology,Cell Biology,1.0,approved,approved/BIO-020_Cell_Communication/module.json
+BIO-021,Cell Division,Human Biology,Cell Biology,1.0,approved,approved/BIO-021_Cell_Division/module.json
+BIO-022,Cell Death,Human Biology,Cell Biology,1.0,approved,approved/BIO-022_Cell_Death/module.json
+BIO-023,Stem Cells,Human Biology,Regenerative Biology,1.0,approved,approved/BIO-023_Stem_Cells/module.json
+BIO-024,Tissue Structure and Function,Human Biology,Histology,1.0,approved,approved/BIO-024_Tissue_Structure_and_Function/module.json
+BIO-025,Epithelial Tissue,Human Biology,Histology,1.0,approved,approved/BIO-025_Epithelial_Tissue/module.json
+BIO-026,Connective Tissue,Human Biology,Histology,1.0,approved,approved/BIO-026_Connective_Tissue/module.json
+BIO-027,Muscle Tissue,Human Biology,Histology,1.0,approved,approved/BIO-027_Muscle_Tissue/module.json
+BIO-028,Nervous Tissue,Human Biology,Histology,1.0,approved,approved/BIO-028_Nervous_Tissue/module.json
+BIO-029,Organs and Organ Systems,Human Biology,Anatomy and Physiology,1.0,approved,approved/BIO-029_Organs_and_Organ_Systems/module.json
+BIO-030,Body Cavities and Anatomical Organization,Human Biology,Anatomy,1.0,approved,approved/BIO-030_Body_Cavities_and_Anatomical_Organization/module.json
+BIO-031,The Nervous System,Human Biology,Nervous System,1.0,approved,approved/BIO-031_The_Nervous_System/module.json
+BIO-032,Neurons and Electrical Signaling,Human Biology,Neuroscience,1.0,approved,approved/BIO-032_Neurons_and_Electrical_Signaling/module.json
+BIO-033,Synapses and Neurotransmitters,Human Biology,Neuroscience,1.0,approved,approved/BIO-033_Synapses_and_Neurotransmitters/module.json
+BIO-034,The Brain,Human Biology,Neuroscience,1.0,approved,approved/BIO-034_The_Brain/module.json
+BIO-035,The Spinal Cord and Peripheral Nerves,Human Biology,Neuroscience,1.0,approved,approved/BIO-035_The_Spinal_Cord_and_Peripheral_Nerves/module.json
+BIO-036,The Autonomic Nervous System,Human Biology,Neuroscience,1.0,approved,approved/BIO-036_The_Autonomic_Nervous_System/module.json
+BIO-037,The Sensory Systems,Human Biology,Neuroscience,1.0,approved,approved/BIO-037_The_Sensory_Systems/module.json
+BIO-038,Pain Biology,Human Biology,Neuroscience,1.0,approved,approved/BIO-038_Pain_Biology/module.json
+BIO-039,"Learning, Memory, and Neuroplasticity",Human Biology,Neuroscience,1.0,approved,"approved/BIO-039_Learning,_Memory,_and_Neuroplasticity/module.json"
+BIO-040,Sleep and the Brain,Human Biology,Neuroscience,1.0,approved,approved/BIO-040_Sleep_and_the_Brain/module.json
+BIO-041,The Endocrine System,Human Biology,Endocrine System,1.0,approved,approved/BIO-041_The_Endocrine_System/module.json
+BIO-042,Hormone Signaling,Human Biology,Endocrinology,1.0,approved,approved/BIO-042_Hormone_Signaling/module.json
+BIO-043,The Hypothalamus and Pituitary Gland,Human Biology,Endocrinology,1.0,approved,approved/BIO-043_The_Hypothalamus_and_Pituitary_Gland/module.json
+BIO-044,Thyroid Physiology,Human Biology,Endocrinology,1.0,approved,approved/BIO-044_Thyroid_Physiology/module.json
+BIO-045,Adrenal Physiology,Human Biology,Endocrinology,1.0,approved,approved/BIO-045_Adrenal_Physiology/module.json
+BIO-046,Insulin and Glucagon,Human Biology,Endocrinology,1.0,approved,approved/BIO-046_Insulin_and_Glucagon/module.json
+BIO-047,Sex Hormones,Human Biology,Endocrinology,1.0,approved,approved/BIO-047_Sex_Hormones/module.json
+BIO-048,Growth Hormone and IGF-1,Human Biology,Endocrinology,1.0,approved,approved/BIO-048_Growth_Hormone_and_IGF-1/module.json
+BIO-049,Calcium-Regulating Hormones,Human Biology,Endocrinology,1.0,approved,approved/BIO-049_Calcium-Regulating_Hormones/module.json
+BIO-050,Circadian Biology,Human Biology,Chronobiology,1.0,approved,approved/BIO-050_Circadian_Biology/module.json
+BIO-051,The Cardiovascular System,Human Biology,Cardiovascular System,1.0,approved,approved/BIO-051_The_Cardiovascular_System/module.json
+BIO-052,The Heart,Human Biology,Cardiovascular System,1.0,approved,approved/BIO-052_The_Heart/module.json
+BIO-053,The Cardiac Cycle,Human Biology,Cardiovascular Physiology,1.0,approved,approved/BIO-053_The_Cardiac_Cycle/module.json
+BIO-054,Heart Rate and Rhythm,Human Biology,Cardiovascular Physiology,1.0,approved,approved/BIO-054_Heart_Rate_and_Rhythm/module.json
+BIO-055,Blood Vessels,Human Biology,Cardiovascular System,1.0,approved,approved/BIO-055_Blood_Vessels/module.json
+BIO-056,Blood Pressure,Human Biology,Cardiovascular Physiology,1.0,approved,approved/BIO-056_Blood_Pressure/module.json
+BIO-057,Blood Flow and Tissue Perfusion,Human Biology,Cardiovascular Physiology,1.0,approved,approved/BIO-057_Blood_Flow_and_Tissue_Perfusion/module.json
+BIO-058,The Endothelium,Human Biology,Vascular Biology,1.0,approved,approved/BIO-058_The_Endothelium/module.json
+BIO-059,Blood,Human Biology,Hematology,1.0,approved,approved/BIO-059_Blood/module.json
+BIO-060,Hemostasis and Blood Clotting,Human Biology,Hematology,1.0,approved,approved/BIO-060_Hemostasis_and_Blood_Clotting/module.json
+BIO-061,The Respiratory System,Human Biology,Respiratory System,1.0,approved,approved/BIO-061_The_Respiratory_System/module.json
+BIO-062,Lung Anatomy and Ventilation,Human Biology,Respiratory Physiology,1.0,approved,approved/BIO-062_Lung_Anatomy_and_Ventilation/module.json
+BIO-063,Gas Exchange,Human Biology,Respiratory Physiology,1.0,approved,approved/BIO-063_Gas_Exchange/module.json
+BIO-064,Oxygen Transport,Human Biology,Respiratory Physiology,1.0,approved,approved/BIO-064_Oxygen_Transport/module.json
+BIO-065,Carbon Dioxide and Acid-Base Balance,Human Biology,Respiratory Physiology,1.0,approved,approved/BIO-065_Carbon_Dioxide_and_Acid-Base_Balance/module.json
+BIO-066,Control of Breathing,Human Biology,Respiratory Physiology,1.0,approved,approved/BIO-066_Control_of_Breathing/module.json
+BIO-067,Exercise and Respiratory Adaptation,Human Biology,Exercise Physiology,1.0,approved,approved/BIO-067_Exercise_and_Respiratory_Adaptation/module.json
+BIO-068,The Digestive System,Human Biology,Digestive System,1.0,approved,approved/BIO-068_The_Digestive_System/module.json
+BIO-069,"The Mouth, Esophagus, and Swallowing",Human Biology,Digestive Physiology,1.0,approved,"approved/BIO-069_The_Mouth,_Esophagus,_and_Swallowing/module.json"
+BIO-070,The Stomach,Human Biology,Digestive Physiology,1.0,approved,approved/BIO-070_The_Stomach/module.json
+BIO-071,The Small Intestine,Human Biology,Digestive Physiology,1.0,approved,approved/BIO-071_The_Small_Intestine/module.json
+BIO-072,The Large Intestine,Human Biology,Digestive Physiology,1.0,approved,approved/BIO-072_The_Large_Intestine/module.json
+BIO-073,The Liver,Human Biology,Hepatology,1.0,approved,approved/BIO-073_The_Liver/module.json
+BIO-074,The Gallbladder and Bile,Human Biology,Digestive Physiology,1.0,approved,approved/BIO-074_The_Gallbladder_and_Bile/module.json
+BIO-075,The Pancreas,Human Biology,Digestive and Endocrine Physiology,1.0,approved,approved/BIO-075_The_Pancreas/module.json
+BIO-076,The Gut Microbiome,Human Biology,Microbiome,1.0,approved,approved/BIO-076_The_Gut_Microbiome/module.json
+BIO-077,The Intestinal Barrier,Human Biology,Gastrointestinal Biology,1.0,approved,approved/BIO-077_The_Intestinal_Barrier/module.json
+BIO-078,The Urinary System,Human Biology,Urinary System,1.0,approved,approved/BIO-078_The_Urinary_System/module.json
+BIO-079,Kidney Structure and Filtration,Human Biology,Renal Physiology,1.0,approved,approved/BIO-079_Kidney_Structure_and_Filtration/module.json
+BIO-080,Tubular Reabsorption and Secretion,Human Biology,Renal Physiology,1.0,approved,approved/BIO-080_Tubular_Reabsorption_and_Secretion/module.json
+BIO-081,Fluid and Electrolyte Balance,Human Biology,Renal Physiology,1.0,approved,approved/BIO-081_Fluid_and_Electrolyte_Balance/module.json
+BIO-082,Acid-Base Regulation,Human Biology,Renal and Respiratory Physiology,1.0,approved,approved/BIO-082_Acid-Base_Regulation/module.json
+BIO-083,Hydration and Thirst,Human Biology,Fluid Balance,1.0,approved,approved/BIO-083_Hydration_and_Thirst/module.json
+BIO-084,The Immune System,Human Biology,Immune System,1.0,approved,approved/BIO-084_The_Immune_System/module.json
+BIO-085,Innate Immunity,Human Biology,Immunology,1.0,approved,approved/BIO-085_Innate_Immunity/module.json
+BIO-086,Adaptive Immunity,Human Biology,Immunology,1.0,approved,approved/BIO-086_Adaptive_Immunity/module.json
+BIO-087,Inflammation,Human Biology,Immunology,1.0,approved,approved/BIO-087_Inflammation/module.json
+BIO-088,The Lymphatic System,Human Biology,Immune and Lymphatic Systems,1.0,approved,approved/BIO-088_The_Lymphatic_System/module.json
+BIO-089,Vaccination and Immune Memory,Human Biology,Immunology,1.0,approved,approved/BIO-089_Vaccination_and_Immune_Memory/module.json
+BIO-090,Immune Tolerance and Autoimmunity,Human Biology,Immunology,1.0,approved,approved/BIO-090_Immune_Tolerance_and_Autoimmunity/module.json
+BIO-091,The Musculoskeletal System,Human Biology,Musculoskeletal System,1.0,approved,approved/BIO-091_The_Musculoskeletal_System/module.json
+BIO-092,Skeletal Muscle,Human Biology,Muscle Physiology,1.0,approved,approved/BIO-092_Skeletal_Muscle/module.json
+BIO-093,Muscle Contraction,Human Biology,Muscle Physiology,1.0,approved,approved/BIO-093_Muscle_Contraction/module.json
+BIO-094,Muscle Fiber Types,Human Biology,Muscle Physiology,1.0,approved,approved/BIO-094_Muscle_Fiber_Types/module.json
+BIO-095,Bone Biology,Human Biology,Bone Biology,1.0,approved,approved/BIO-095_Bone_Biology/module.json
+BIO-096,Joints and Cartilage,Human Biology,Musculoskeletal Biology,1.0,approved,approved/BIO-096_Joints_and_Cartilage/module.json
+BIO-097,"Tendons, Ligaments, and Fascia",Human Biology,Connective Tissue Biology,1.0,approved,"approved/BIO-097_Tendons,_Ligaments,_and_Fascia/module.json"
+BIO-098,Movement Control,Human Biology,Movement Science,1.0,approved,approved/BIO-098_Movement_Control/module.json
+BIO-099,Exercise Adaptation,Human Biology,Exercise Physiology,1.0,approved,approved/BIO-099_Exercise_Adaptation/module.json
+BIO-100,Recovery and Physiological Resilience,Human Biology,Recovery and Adaptation,1.0,approved,approved/BIO-100_Recovery_and_Physiological_Resilience/module.json
