@@ -1,0 +1,34 @@
+{
+  "module_id": "EXE-059",
+  "title": "Aerobic Exercise for Intermediate Trainees",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for aerobic exercise for intermediate trainees",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Intermediate"
+  ],
+  "audience": [
+    "Consumers",
+    "Fitness Enthusiasts",
+    "Exercise Professionals"
+  ],
+  "reading_level": "Moderate (general adult audience)",
+  "keywords": [
+    "aerobic exercise",
+    "cardiovascular training",
+    "endurance",
+    "VO2 max",
+    "training progression",
+    "exercise physiology",
+    "intermediate trainees",
+    "exercise safety"
+  ],
+  "related_modules": [
+    "EXE-034",
+    "EXE-078",
+    "HLM-045"
+  ],
+  "evidence_strength": "Established evidence for aerobic exercise benefits in cardiovascular health and fitness with moderate evidence supporting detailed progression strategies and misuse prevention.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
