@@ -1,0 +1,35 @@
+{
+  "module_id": "EXE-184",
+  "title": "Rest Days",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for rest days",
+  "domain": "Exercise",
+  "category": "Programming and Recovery",
+  "som_stages": [
+    "All stages"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Athletes",
+    "Coaches",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "Rest days",
+    "Recovery",
+    "Exercise programming",
+    "Muscle repair",
+    "Overtraining",
+    "Physical performance",
+    "Training fatigue"
+  ],
+  "related_modules": [
+    "EXE-023",
+    "EXE-098",
+    "EXE-150"
+  ],
+  "evidence_strength": "Established evidence supported by scientific consensus and moderate quality studies; some emerging evidence exists regarding active recovery advantages.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

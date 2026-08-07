@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-185",
+  "title": "Active Recovery",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for active recovery",
+  "domain": "Exercise",
+  "category": "Programming and Recovery",
+  "som_stages": [
+    "Implementation",
+    "Recovery Optimization",
+    "Performance Enhancement"
+  ],
+  "audience": [
+    "Consumers",
+    "Fitness Professionals",
+    "Athletes",
+    "Rehabilitation Specialists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Active Recovery",
+    "Exercise Recovery",
+    "Blood Flow",
+    "Lactate Clearance",
+    "Muscle Recovery",
+    "Warm-down",
+    "Exercise Physiology"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-165",
+    "EXE-210"
+  ],
+  "evidence_strength": "Moderate evidence for enhanced metabolic clearance and subjective recovery benefits; emerging and variable evidence for long-term performance improvements.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
