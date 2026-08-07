@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-156",
+  "title": "Single-Leg Balance",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for single-leg balance",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Prehabilitation",
+    "Rehabilitation",
+    "Performance Enhancement"
+  ],
+  "audience": [
+    "General Public",
+    "Physical Therapists",
+    "Athletic Trainers",
+    "Fitness Instructors",
+    "Rehabilitation Specialists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "single-leg balance",
+    "balance training",
+    "postural control",
+    "neuromuscular control",
+    "proprioception",
+    "mobility",
+    "falls prevention"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-142",
+    "EXE-158"
+  ],
+  "evidence_strength": "Moderate evidence supporting benefits for fall prevention and functional balance enhancement; emerging evidence for athletic performance improvements.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

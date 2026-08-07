@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-159",
+  "title": "Coordination",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for coordination",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General public",
+    "Fitness professionals",
+    "Rehabilitation specialists",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate (Grades 9-12)",
+  "keywords": [
+    "coordination",
+    "motor control",
+    "neuromuscular",
+    "balance",
+    "movement",
+    "exercise",
+    "proprioception",
+    "motor learning"
+  ],
+  "related_modules": [
+    "EXE-102",
+    "EXE-143",
+    "EXE-178"
+  ],
+  "evidence_strength": "Established evidence for basic mechanisms and practical benefits; emerging evidence for applications in clinical populations; some uncertainties remain regarding optimal protocols and long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

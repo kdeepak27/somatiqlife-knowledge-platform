@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-157",
+  "title": "Balance Training for Older Adults",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for balance training for older adults",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Physical Therapists",
+    "Exercise Professionals",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "balance training",
+    "older adults",
+    "postural control",
+    "fall prevention",
+    "exercise progression",
+    "mobility",
+    "neuromuscular control",
+    "vestibular system"
+  ],
+  "related_modules": [
+    "EXE-102",
+    "EXE-134",
+    "EXE-165"
+  ],
+  "evidence_strength": "Established evidence with moderate variability based on individual factors and training parameters.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
