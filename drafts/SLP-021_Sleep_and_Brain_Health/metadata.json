@@ -1,0 +1,36 @@
+{
+  "module_id": "SLP-021",
+  "title": "Sleep and Brain Health",
+  "subtitle": "How sleep and brain health are connected, what the evidence shows, and what matters in practice.",
+  "domain": "Sleep",
+  "category": "Sleep and Health",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep",
+    "brain health",
+    "cognitive function",
+    "memory",
+    "neurodegeneration",
+    "sleep deprivation",
+    "circadian rhythm",
+    "neuroplasticity"
+  ],
+  "related_modules": [
+    "SLP-005",
+    "NEU-012",
+    "SLP-034"
+  ],
+  "evidence_strength": "Established evidence supports the critical role of sleep in brain health, with moderate emerging evidence detailing specific mechanisms and long-term outcomes. Some areas remain under active research to clarify causal pathways and optimize interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

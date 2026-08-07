@@ -1,0 +1,37 @@
+{
+  "module_id": "SLP-022",
+  "title": "Sleep and Memory",
+  "subtitle": "How sleep and memory are connected, what the evidence shows, and what matters in practice.",
+  "domain": "Sleep",
+  "category": "Sleep and Health",
+  "som_stages": [
+    "Prevention",
+    "Health Promotion"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Sleep",
+    "Memory",
+    "Memory consolidation",
+    "REM sleep",
+    "Slow-wave sleep",
+    "Sleep deprivation",
+    "Cognitive function",
+    "Sleep hygiene",
+    "Neuroplasticity",
+    "Learning"
+  ],
+  "related_modules": [
+    "SLP-015",
+    "SLP-036",
+    "NEU-010"
+  ],
+  "evidence_strength": "Established and moderate evidence from human and animal studies supports the role of sleep in memory consolidation, with ongoing research clarifying specific mechanisms and individual variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
