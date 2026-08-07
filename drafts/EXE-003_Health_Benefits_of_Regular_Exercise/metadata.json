@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-003",
+  "title": "Health Benefits of Regular Exercise",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for health benefits of regular exercise",
+  "domain": "Exercise",
+  "category": "Exercise Foundations",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance",
+    "Wellness Promotion"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Enthusiasts",
+    "Fitness Professionals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "Exercise",
+    "Physical Activity",
+    "Health Benefits",
+    "Cardiovascular Health",
+    "Metabolism",
+    "Mental Health",
+    "Muscle Strength",
+    "Safety",
+    "Exercise Progression"
+  ],
+  "related_modules": [
+    "EXE-001",
+    "EXE-004",
+    "NUT-005"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

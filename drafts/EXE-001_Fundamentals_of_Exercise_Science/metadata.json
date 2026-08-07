@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-001",
+  "title": "Fundamentals of Exercise Science",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for fundamentals of exercise science",
+  "domain": "Exercise",
+  "category": "Exercise Foundations",
+  "som_stages": [
+    "Prevention",
+    "Health Optimization",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Professionals",
+    "Healthcare Providers",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Exercise Science",
+    "Physical Activity",
+    "Training Principles",
+    "Physiology",
+    "Safety",
+    "Progression",
+    "Exercise Prescription",
+    "Fitness"
+  ],
+  "related_modules": [
+    "EXE-002",
+    "EXE-005",
+    "NUT-003"
+  ],
+  "evidence_strength": "Established evidence supported by systematic reviews and expert consensus",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
