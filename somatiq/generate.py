@@ -158,9 +158,9 @@ def main() -> None:
 
     count = int(os.environ.get("MODULE_COUNT", "1"))
 
-    if not 1 <= count <= 10:
+    if not 1 <= count <= 50:
         raise ValueError(
-            "MODULE_COUNT must be between 1 and 10."
+            "MODULE_COUNT must be between 1 and 50."
         )
 
     client = OpenAI(
