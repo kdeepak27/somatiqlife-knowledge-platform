@@ -154,6 +154,56 @@ EXE-052,Fat Oxidation During Exercise,Exercise,Aerobic Training,1.0,drafts,draft
 EXE-053,Carbohydrate Use During Exercise,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-053_Carbohydrate_Use_During_Exercise/module.json
 EXE-054,Exercise Economy,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-054_Exercise_Economy/module.json
 EXE-055,Endurance Training Progression,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-055_Endurance_Training_Progression/module.json
+EXE-056,Cross-Training,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-056_Cross-Training/module.json
+EXE-057,Aerobic Exercise Guidelines,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-057_Aerobic_Exercise_Guidelines/module.json
+EXE-058,Aerobic Exercise for Beginners,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-058_Aerobic_Exercise_for_Beginners/module.json
+EXE-059,Aerobic Exercise for Intermediate Trainees,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-059_Aerobic_Exercise_for_Intermediate_Trainees/module.json
+EXE-060,Aerobic Exercise for Advanced Trainees,Exercise,Aerobic Training,1.0,drafts,drafts/EXE-060_Aerobic_Exercise_for_Advanced_Trainees/module.json
+EXE-061,Walking for Health,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-061_Walking_for_Health/module.json
+EXE-062,Brisk Walking,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-062_Brisk_Walking/module.json
+EXE-063,Step Count,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-063_Step_Count/module.json
+EXE-064,Increasing Daily Steps,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-064_Increasing_Daily_Steps/module.json
+EXE-065,Walking Speed,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-065_Walking_Speed/module.json
+EXE-066,Walking Hills,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-066_Walking_Hills/module.json
+EXE-067,Walking for Weight Management,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-067_Walking_for_Weight_Management/module.json
+EXE-068,Walking for Older Adults,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-068_Walking_for_Older_Adults/module.json
+EXE-069,Walking Programs for Beginners,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-069_Walking_Programs_for_Beginners/module.json
+EXE-070,Rucking and Loaded Walking,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-070_Rucking_and_Loaded_Walking/module.json
+EXE-071,Running Fundamentals,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-071_Running_Fundamentals/module.json
+EXE-072,Starting a Running Program,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-072_Starting_a_Running_Program/module.json
+EXE-073,Run-Walk Training,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-073_Run-Walk_Training/module.json
+EXE-074,Running Pace,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-074_Running_Pace/module.json
+EXE-075,Easy Running,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-075_Easy_Running/module.json
+EXE-076,Tempo Running,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-076_Tempo_Running/module.json
+EXE-077,Running Intervals,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-077_Running_Intervals/module.json
+EXE-078,Long Runs,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-078_Long_Runs/module.json
+EXE-079,Running Form,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-079_Running_Form/module.json
+EXE-080,Running Cadence,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-080_Running_Cadence/module.json
+EXE-081,Running Shoes,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-081_Running_Shoes/module.json
+EXE-082,Running Injury Prevention,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-082_Running_Injury_Prevention/module.json
+EXE-083,Cycling for Fitness,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-083_Cycling_for_Fitness/module.json
+EXE-084,Indoor Cycling,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-084_Indoor_Cycling/module.json
+EXE-085,Cycling Cadence and Resistance,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-085_Cycling_Cadence_and_Resistance/module.json
+EXE-086,Swimming for Fitness,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-086_Swimming_for_Fitness/module.json
+EXE-087,Rowing for Fitness,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-087_Rowing_for_Fitness/module.json
+EXE-088,Elliptical Training,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-088_Elliptical_Training/module.json
+EXE-089,Stair Climbing,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-089_Stair_Climbing/module.json
+EXE-090,Hiking,Exercise,Walking and Endurance Modes,1.0,drafts,drafts/EXE-090_Hiking/module.json
+EXE-091,Resistance Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-091_Resistance_Training/module.json
+EXE-092,Strength,Exercise,Strength Training,1.0,drafts,drafts/EXE-092_Strength/module.json
+EXE-093,Muscular Endurance,Exercise,Strength Training,1.0,drafts,drafts/EXE-093_Muscular_Endurance/module.json
+EXE-094,Muscle Hypertrophy,Exercise,Strength Training,1.0,drafts,drafts/EXE-094_Muscle_Hypertrophy/module.json
+EXE-095,Neural Adaptations to Strength Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-095_Neural_Adaptations_to_Strength_Training/module.json
+EXE-096,Muscle Protein Synthesis After Exercise,Exercise,Strength Training,1.0,drafts,drafts/EXE-096_Muscle_Protein_Synthesis_After_Exercise/module.json
+EXE-097,Sets and Repetitions,Exercise,Strength Training,1.0,drafts,drafts/EXE-097_Sets_and_Repetitions/module.json
+EXE-098,Repetition Maximum,Exercise,Strength Training,1.0,drafts,drafts/EXE-098_Repetition_Maximum/module.json
+EXE-099,Reps in Reserve,Exercise,Strength Training,1.0,drafts,drafts/EXE-099_Reps_in_Reserve/module.json
+EXE-100,Training to Failure,Exercise,Strength Training,1.0,drafts,drafts/EXE-100_Training_to_Failure/module.json
+EXE-101,Rest Between Sets,Exercise,Strength Training,1.0,drafts,drafts/EXE-101_Rest_Between_Sets/module.json
+EXE-102,Exercise Selection for Strength Training,Exercise,Strength Training,1.0,drafts,drafts/EXE-102_Exercise_Selection_for_Strength_Training/module.json
+EXE-103,Compound Exercises,Exercise,Strength Training,1.0,drafts,drafts/EXE-103_Compound_Exercises/module.json
+EXE-104,Isolation Exercises,Exercise,Strength Training,1.0,drafts,drafts/EXE-104_Isolation_Exercises/module.json
+EXE-105,Free Weights vs Machines,Exercise,Strength Training,1.0,drafts,drafts/EXE-105_Free_Weights_vs_Machines/module.json
 NUT-001,Fundamentals of Human Nutrition,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-001_Fundamentals_of_Human_Nutrition/module.json
 NUT-002,Nutrients and Energy Balance,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-002_Nutrients_and_Energy_Balance/module.json
 NUT-003,Macronutrients Overview,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-003_Macronutrients_Overview/module.json
