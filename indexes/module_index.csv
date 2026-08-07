@@ -599,6 +599,46 @@ NUT-247,Foodborne Illness,Nutrition,Food Safety,1.0,drafts,drafts/NUT-247_Foodbo
 NUT-248,Healthy Eating on a Budget,Nutrition,Practical Nutrition,1.0,drafts,drafts/NUT-248_Healthy_Eating_on_a_Budget/module.json
 NUT-249,Healthy Eating for Busy Professionals,Nutrition,Practical Nutrition,1.0,drafts,drafts/NUT-249_Healthy_Eating_for_Busy_Professionals/module.json
 NUT-250,Building a Sustainable Healthy Eating Pattern,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-250_Building_a_Sustainable_Healthy_Eating_Pattern/module.json
+SLP-001,Why Sleep Matters,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-001_Why_Sleep_Matters/module.json
+SLP-002,What Happens During Sleep,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-002_What_Happens_During_Sleep/module.json
+SLP-003,Sleep Architecture,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-003_Sleep_Architecture/module.json
+SLP-004,Non-REM Sleep,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-004_Non-REM_Sleep/module.json
+SLP-005,REM Sleep,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-005_REM_Sleep/module.json
+SLP-006,Deep Sleep,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-006_Deep_Sleep/module.json
+SLP-007,Sleep Cycles,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-007_Sleep_Cycles/module.json
+SLP-008,Circadian Rhythm,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-008_Circadian_Rhythm/module.json
+SLP-009,Sleep Pressure and Adenosine,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-009_Sleep_Pressure_and_Adenosine/module.json
+SLP-010,Chronotypes,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-010_Chronotypes/module.json
+SLP-011,Sleep Need Across Adulthood,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-011_Sleep_Need_Across_Adulthood/module.json
+SLP-012,Sleep Quantity vs Sleep Quality,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-012_Sleep_Quantity_vs_Sleep_Quality/module.json
+SLP-013,Sleep Efficiency,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-013_Sleep_Efficiency/module.json
+SLP-014,Sleep Continuity,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-014_Sleep_Continuity/module.json
+SLP-015,Sleep Timing,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-015_Sleep_Timing/module.json
+SLP-016,Sleep Regularity,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-016_Sleep_Regularity/module.json
+SLP-017,Sleep Inertia,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-017_Sleep_Inertia/module.json
+SLP-018,Dreaming,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-018_Dreaming/module.json
+SLP-019,Body Temperature and Sleep,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-019_Body_Temperature_and_Sleep/module.json
+SLP-020,Hormones and Sleep,Sleep,Sleep Foundations,1.0,drafts,drafts/SLP-020_Hormones_and_Sleep/module.json
+SLP-021,Sleep and Brain Health,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-021_Sleep_and_Brain_Health/module.json
+SLP-022,Sleep and Memory,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-022_Sleep_and_Memory/module.json
+SLP-023,Sleep and Learning,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-023_Sleep_and_Learning/module.json
+SLP-024,Sleep and Attention,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-024_Sleep_and_Attention/module.json
+SLP-025,Sleep and Mood,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-025_Sleep_and_Mood/module.json
+SLP-026,Sleep and Stress,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-026_Sleep_and_Stress/module.json
+SLP-027,Sleep and Anxiety,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-027_Sleep_and_Anxiety/module.json
+SLP-028,Sleep and Depression,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-028_Sleep_and_Depression/module.json
+SLP-029,Sleep and Immunity,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-029_Sleep_and_Immunity/module.json
+SLP-030,Sleep and Inflammation,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-030_Sleep_and_Inflammation/module.json
+SLP-031,Sleep and Cardiovascular Health,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-031_Sleep_and_Cardiovascular_Health/module.json
+SLP-032,Sleep and Blood Pressure,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-032_Sleep_and_Blood_Pressure/module.json
+SLP-033,Sleep and Glucose Regulation,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-033_Sleep_and_Glucose_Regulation/module.json
+SLP-034,Sleep and Diabetes Risk,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-034_Sleep_and_Diabetes_Risk/module.json
+SLP-035,Sleep and Appetite,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-035_Sleep_and_Appetite/module.json
+SLP-036,Sleep and Weight Regulation,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-036_Sleep_and_Weight_Regulation/module.json
+SLP-037,Sleep and Exercise Recovery,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-037_Sleep_and_Exercise_Recovery/module.json
+SLP-038,Sleep and Muscle Adaptation,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-038_Sleep_and_Muscle_Adaptation/module.json
+SLP-039,Sleep and Athletic Performance,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-039_Sleep_and_Athletic_Performance/module.json
+SLP-040,Sleep and Pain,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-040_Sleep_and_Pain/module.json
 BIO-001,What Is Health?,Human Biology,Health Foundations,1.0,approved,approved/BIO-001_What_Is_Health/module.json
 BIO-002,The Human Body as an Integrated System,Human Biology,Systems Biology,1.0,approved,approved/BIO-002_The_Human_Body_as_an_Integrated_System/module.json
 BIO-003,Levels of Biological Organization,Human Biology,Foundational Biology,1.0,approved,approved/BIO-003_Levels_of_Biological_Organization/module.json
@@ -699,6 +739,256 @@ BIO-097,"Tendons, Ligaments, and Fascia",Human Biology,Connective Tissue Biology
 BIO-098,Movement Control,Human Biology,Movement Science,1.0,approved,approved/BIO-098_Movement_Control/module.json
 BIO-099,Exercise Adaptation,Human Biology,Exercise Physiology,1.0,approved,approved/BIO-099_Exercise_Adaptation/module.json
 BIO-100,Recovery and Physiological Resilience,Human Biology,Recovery and Adaptation,1.0,approved,approved/BIO-100_Recovery_and_Physiological_Resilience/module.json
+EXE-001,Fundamentals of Exercise Science,Exercise,Exercise Foundations,1.0,approved,approved/EXE-001_Fundamentals_of_Exercise_Science/module.json
+EXE-002,Physical Activity vs Exercise,Exercise,Exercise Foundations,1.0,approved,approved/EXE-002_Physical_Activity_vs_Exercise/module.json
+EXE-003,Health Benefits of Regular Exercise,Exercise,Exercise Foundations,1.0,approved,approved/EXE-003_Health_Benefits_of_Regular_Exercise/module.json
+EXE-004,Exercise Dose,Exercise,Exercise Foundations,1.0,approved,approved/EXE-004_Exercise_Dose/module.json
+EXE-005,The FITT Principle,Exercise,Exercise Foundations,1.0,approved,approved/EXE-005_The_FITT_Principle/module.json
+EXE-006,Exercise Intensity,Exercise,Exercise Foundations,1.0,approved,approved/EXE-006_Exercise_Intensity/module.json
+EXE-007,Measuring Exercise Intensity,Exercise,Exercise Foundations,1.0,approved,approved/EXE-007_Measuring_Exercise_Intensity/module.json
+EXE-008,Training Adaptation,Exercise,Exercise Foundations,1.0,approved,approved/EXE-008_Training_Adaptation/module.json
+EXE-009,Specificity of Training,Exercise,Exercise Foundations,1.0,approved,approved/EXE-009_Specificity_of_Training/module.json
+EXE-010,Progressive Overload,Exercise,Exercise Foundations,1.0,approved,approved/EXE-010_Progressive_Overload/module.json
+EXE-011,Recovery and Supercompensation,Exercise,Exercise Foundations,1.0,approved,approved/EXE-011_Recovery_and_Supercompensation/module.json
+EXE-012,Detraining,Exercise,Exercise Foundations,1.0,approved,approved/EXE-012_Detraining/module.json
+EXE-013,Individual Variation in Exercise Response,Exercise,Exercise Foundations,1.0,approved,approved/EXE-013_Individual_Variation_in_Exercise_Response/module.json
+EXE-014,Exercise Readiness,Exercise,Exercise Foundations,1.0,approved,approved/EXE-014_Exercise_Readiness/module.json
+EXE-015,Exercise Screening,Exercise,Exercise Foundations,1.0,approved,approved/EXE-015_Exercise_Screening/module.json
+EXE-016,Warm-Up,Exercise,Exercise Foundations,1.0,approved,approved/EXE-016_Warm-Up/module.json
+EXE-017,Cool-Down,Exercise,Exercise Foundations,1.0,approved,approved/EXE-017_Cool-Down/module.json
+EXE-018,Exercise Technique,Exercise,Exercise Foundations,1.0,approved,approved/EXE-018_Exercise_Technique/module.json
+EXE-019,Exercise Progression,Exercise,Exercise Foundations,1.0,approved,approved/EXE-019_Exercise_Progression/module.json
+EXE-020,Training Volume,Exercise,Exercise Foundations,1.0,approved,approved/EXE-020_Training_Volume/module.json
+EXE-021,Training Frequency,Exercise,Exercise Foundations,1.0,approved,approved/EXE-021_Training_Frequency/module.json
+EXE-022,Training Intensity Distribution,Exercise,Exercise Foundations,1.0,approved,approved/EXE-022_Training_Intensity_Distribution/module.json
+EXE-023,Exercise Consistency,Exercise,Exercise Foundations,1.0,approved,approved/EXE-023_Exercise_Consistency/module.json
+EXE-024,Exercise Adherence,Exercise,Exercise Foundations,1.0,approved,approved/EXE-024_Exercise_Adherence/module.json
+EXE-025,Building an Exercise Habit,Exercise,Exercise Foundations,1.0,approved,approved/EXE-025_Building_an_Exercise_Habit/module.json
+EXE-026,Aerobic Exercise,Exercise,Aerobic Training,1.0,approved,approved/EXE-026_Aerobic_Exercise/module.json
+EXE-027,Cardiorespiratory Fitness,Exercise,Aerobic Training,1.0,approved,approved/EXE-027_Cardiorespiratory_Fitness/module.json
+EXE-028,VO2 Max,Exercise,Aerobic Training,1.0,approved,approved/EXE-028_VO2_Max/module.json
+EXE-029,Submaximal Aerobic Fitness,Exercise,Aerobic Training,1.0,approved,approved/EXE-029_Submaximal_Aerobic_Fitness/module.json
+EXE-030,Heart Rate During Exercise,Exercise,Aerobic Training,1.0,approved,approved/EXE-030_Heart_Rate_During_Exercise/module.json
+EXE-031,Resting Heart Rate and Fitness,Exercise,Aerobic Training,1.0,approved,approved/EXE-031_Resting_Heart_Rate_and_Fitness/module.json
+EXE-032,Heart Rate Zones,Exercise,Aerobic Training,1.0,approved,approved/EXE-032_Heart_Rate_Zones/module.json
+EXE-033,Maximum Heart Rate,Exercise,Aerobic Training,1.0,approved,approved/EXE-033_Maximum_Heart_Rate/module.json
+EXE-034,Heart Rate Reserve,Exercise,Aerobic Training,1.0,approved,approved/EXE-034_Heart_Rate_Reserve/module.json
+EXE-035,Rate of Perceived Exertion,Exercise,Aerobic Training,1.0,approved,approved/EXE-035_Rate_of_Perceived_Exertion/module.json
+EXE-036,The Talk Test,Exercise,Aerobic Training,1.0,approved,approved/EXE-036_The_Talk_Test/module.json
+EXE-037,Zone 2 Training,Exercise,Aerobic Training,1.0,approved,approved/EXE-037_Zone_2_Training/module.json
+EXE-038,Moderate-Intensity Continuous Training,Exercise,Aerobic Training,1.0,approved,approved/EXE-038_Moderate-Intensity_Continuous_Training/module.json
+EXE-039,Vigorous Aerobic Exercise,Exercise,Aerobic Training,1.0,approved,approved/EXE-039_Vigorous_Aerobic_Exercise/module.json
+EXE-040,Interval Training,Exercise,Aerobic Training,1.0,approved,approved/EXE-040_Interval_Training/module.json
+EXE-041,High-Intensity Interval Training,Exercise,Aerobic Training,1.0,approved,approved/EXE-041_High-Intensity_Interval_Training/module.json
+EXE-042,Sprint Interval Training,Exercise,Aerobic Training,1.0,approved,approved/EXE-042_Sprint_Interval_Training/module.json
+EXE-043,Aerobic Base Building,Exercise,Aerobic Training,1.0,approved,approved/EXE-043_Aerobic_Base_Building/module.json
+EXE-044,Lactate Threshold,Exercise,Aerobic Training,1.0,approved,approved/EXE-044_Lactate_Threshold/module.json
+EXE-045,Ventilatory Threshold,Exercise,Aerobic Training,1.0,approved,approved/EXE-045_Ventilatory_Threshold/module.json
+EXE-046,Stroke Volume and Exercise,Exercise,Aerobic Training,1.0,approved,approved/EXE-046_Stroke_Volume_and_Exercise/module.json
+EXE-047,Cardiac Output During Exercise,Exercise,Aerobic Training,1.0,approved,approved/EXE-047_Cardiac_Output_During_Exercise/module.json
+EXE-048,Blood Flow During Exercise,Exercise,Aerobic Training,1.0,approved,approved/EXE-048_Blood_Flow_During_Exercise/module.json
+EXE-049,Oxygen Delivery During Exercise,Exercise,Aerobic Training,1.0,approved,approved/EXE-049_Oxygen_Delivery_During_Exercise/module.json
+EXE-050,Mitochondrial Adaptation to Endurance Training,Exercise,Aerobic Training,1.0,approved,approved/EXE-050_Mitochondrial_Adaptation_to_Endurance_Training/module.json
+EXE-051,Capillary Adaptation to Endurance Training,Exercise,Aerobic Training,1.0,approved,approved/EXE-051_Capillary_Adaptation_to_Endurance_Training/module.json
+EXE-052,Fat Oxidation During Exercise,Exercise,Aerobic Training,1.0,approved,approved/EXE-052_Fat_Oxidation_During_Exercise/module.json
+EXE-053,Carbohydrate Use During Exercise,Exercise,Aerobic Training,1.0,approved,approved/EXE-053_Carbohydrate_Use_During_Exercise/module.json
+EXE-054,Exercise Economy,Exercise,Aerobic Training,1.0,approved,approved/EXE-054_Exercise_Economy/module.json
+EXE-055,Endurance Training Progression,Exercise,Aerobic Training,1.0,approved,approved/EXE-055_Endurance_Training_Progression/module.json
+EXE-056,Cross-Training,Exercise,Aerobic Training,1.0,approved,approved/EXE-056_Cross-Training/module.json
+EXE-057,Aerobic Exercise Guidelines,Exercise,Aerobic Training,1.0,approved,approved/EXE-057_Aerobic_Exercise_Guidelines/module.json
+EXE-058,Aerobic Exercise for Beginners,Exercise,Aerobic Training,1.0,approved,approved/EXE-058_Aerobic_Exercise_for_Beginners/module.json
+EXE-059,Aerobic Exercise for Intermediate Trainees,Exercise,Aerobic Training,1.0,approved,approved/EXE-059_Aerobic_Exercise_for_Intermediate_Trainees/module.json
+EXE-060,Aerobic Exercise for Advanced Trainees,Exercise,Aerobic Training,1.0,approved,approved/EXE-060_Aerobic_Exercise_for_Advanced_Trainees/module.json
+EXE-061,Walking for Health,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-061_Walking_for_Health/module.json
+EXE-062,Brisk Walking,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-062_Brisk_Walking/module.json
+EXE-063,Step Count,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-063_Step_Count/module.json
+EXE-064,Increasing Daily Steps,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-064_Increasing_Daily_Steps/module.json
+EXE-065,Walking Speed,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-065_Walking_Speed/module.json
+EXE-066,Walking Hills,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-066_Walking_Hills/module.json
+EXE-067,Walking for Weight Management,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-067_Walking_for_Weight_Management/module.json
+EXE-068,Walking for Older Adults,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-068_Walking_for_Older_Adults/module.json
+EXE-069,Walking Programs for Beginners,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-069_Walking_Programs_for_Beginners/module.json
+EXE-070,Rucking and Loaded Walking,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-070_Rucking_and_Loaded_Walking/module.json
+EXE-071,Running Fundamentals,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-071_Running_Fundamentals/module.json
+EXE-072,Starting a Running Program,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-072_Starting_a_Running_Program/module.json
+EXE-073,Run-Walk Training,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-073_Run-Walk_Training/module.json
+EXE-074,Running Pace,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-074_Running_Pace/module.json
+EXE-075,Easy Running,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-075_Easy_Running/module.json
+EXE-076,Tempo Running,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-076_Tempo_Running/module.json
+EXE-077,Running Intervals,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-077_Running_Intervals/module.json
+EXE-078,Long Runs,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-078_Long_Runs/module.json
+EXE-079,Running Form,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-079_Running_Form/module.json
+EXE-080,Running Cadence,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-080_Running_Cadence/module.json
+EXE-081,Running Shoes,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-081_Running_Shoes/module.json
+EXE-082,Running Injury Prevention,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-082_Running_Injury_Prevention/module.json
+EXE-083,Cycling for Fitness,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-083_Cycling_for_Fitness/module.json
+EXE-084,Indoor Cycling,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-084_Indoor_Cycling/module.json
+EXE-085,Cycling Cadence and Resistance,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-085_Cycling_Cadence_and_Resistance/module.json
+EXE-086,Swimming for Fitness,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-086_Swimming_for_Fitness/module.json
+EXE-087,Rowing for Fitness,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-087_Rowing_for_Fitness/module.json
+EXE-088,Elliptical Training,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-088_Elliptical_Training/module.json
+EXE-089,Stair Climbing,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-089_Stair_Climbing/module.json
+EXE-090,Hiking,Exercise,Walking and Endurance Modes,1.0,approved,approved/EXE-090_Hiking/module.json
+EXE-091,Resistance Training,Exercise,Strength Training,1.0,approved,approved/EXE-091_Resistance_Training/module.json
+EXE-092,Strength,Exercise,Strength Training,1.0,approved,approved/EXE-092_Strength/module.json
+EXE-093,Muscular Endurance,Exercise,Strength Training,1.0,approved,approved/EXE-093_Muscular_Endurance/module.json
+EXE-094,Muscle Hypertrophy,Exercise,Strength Training,1.0,approved,approved/EXE-094_Muscle_Hypertrophy/module.json
+EXE-095,Neural Adaptations to Strength Training,Exercise,Strength Training,1.0,approved,approved/EXE-095_Neural_Adaptations_to_Strength_Training/module.json
+EXE-096,Muscle Protein Synthesis After Exercise,Exercise,Strength Training,1.0,approved,approved/EXE-096_Muscle_Protein_Synthesis_After_Exercise/module.json
+EXE-097,Sets and Repetitions,Exercise,Strength Training,1.0,approved,approved/EXE-097_Sets_and_Repetitions/module.json
+EXE-098,Repetition Maximum,Exercise,Strength Training,1.0,approved,approved/EXE-098_Repetition_Maximum/module.json
+EXE-099,Reps in Reserve,Exercise,Strength Training,1.0,approved,approved/EXE-099_Reps_in_Reserve/module.json
+EXE-100,Training to Failure,Exercise,Strength Training,1.0,approved,approved/EXE-100_Training_to_Failure/module.json
+EXE-101,Rest Between Sets,Exercise,Strength Training,1.0,approved,approved/EXE-101_Rest_Between_Sets/module.json
+EXE-102,Exercise Selection for Strength Training,Exercise,Strength Training,1.0,approved,approved/EXE-102_Exercise_Selection_for_Strength_Training/module.json
+EXE-103,Compound Exercises,Exercise,Strength Training,1.0,approved,approved/EXE-103_Compound_Exercises/module.json
+EXE-104,Isolation Exercises,Exercise,Strength Training,1.0,approved,approved/EXE-104_Isolation_Exercises/module.json
+EXE-105,Free Weights vs Machines,Exercise,Strength Training,1.0,approved,approved/EXE-105_Free_Weights_vs_Machines/module.json
+EXE-106,Dumbbell Training,Exercise,Strength Training,1.0,approved,approved/EXE-106_Dumbbell_Training/module.json
+EXE-107,Barbell Training,Exercise,Strength Training,1.0,approved,approved/EXE-107_Barbell_Training/module.json
+EXE-108,Resistance Band Training,Exercise,Strength Training,1.0,approved,approved/EXE-108_Resistance_Band_Training/module.json
+EXE-109,Bodyweight Training,Exercise,Strength Training,1.0,approved,approved/EXE-109_Bodyweight_Training/module.json
+EXE-110,Kettlebell Training,Exercise,Strength Training,1.0,approved,approved/EXE-110_Kettlebell_Training/module.json
+EXE-111,Cable Training,Exercise,Strength Training,1.0,approved,approved/EXE-111_Cable_Training/module.json
+EXE-112,Home Strength Training,Exercise,Strength Training,1.0,approved,approved/EXE-112_Home_Strength_Training/module.json
+EXE-113,Gym Strength Training,Exercise,Strength Training,1.0,approved,approved/EXE-113_Gym_Strength_Training/module.json
+EXE-114,Full-Body Strength Training,Exercise,Strength Training,1.0,approved,approved/EXE-114_Full-Body_Strength_Training/module.json
+EXE-115,Upper-Lower Split Training,Exercise,Strength Training,1.0,approved,approved/EXE-115_Upper-Lower_Split_Training/module.json
+EXE-116,Push-Pull-Legs Training,Exercise,Strength Training,1.0,approved,approved/EXE-116_Push-Pull-Legs_Training/module.json
+EXE-117,Strength Training Frequency,Exercise,Strength Training,1.0,approved,approved/EXE-117_Strength_Training_Frequency/module.json
+EXE-118,Weekly Set Volume,Exercise,Strength Training,1.0,approved,approved/EXE-118_Weekly_Set_Volume/module.json
+EXE-119,Progressive Overload for Strength,Exercise,Strength Training,1.0,approved,approved/EXE-119_Progressive_Overload_for_Strength/module.json
+EXE-120,Double Progression,Exercise,Strength Training,1.0,approved,approved/EXE-120_Double_Progression/module.json
+EXE-121,Deloading,Exercise,Strength Training,1.0,approved,approved/EXE-121_Deloading/module.json
+EXE-122,Strength Plateaus,Exercise,Strength Training,1.0,approved,approved/EXE-122_Strength_Plateaus/module.json
+EXE-123,Beginner Strength Programs,Exercise,Strength Training,1.0,approved,approved/EXE-123_Beginner_Strength_Programs/module.json
+EXE-124,Intermediate Strength Programs,Exercise,Strength Training,1.0,approved,approved/EXE-124_Intermediate_Strength_Programs/module.json
+EXE-125,Advanced Strength Programming,Exercise,Strength Training,1.0,approved,approved/EXE-125_Advanced_Strength_Programming/module.json
+EXE-126,Strength Training for Women,Exercise,Strength Training,1.0,approved,approved/EXE-126_Strength_Training_for_Women/module.json
+EXE-127,Strength Training for Men,Exercise,Strength Training,1.0,approved,approved/EXE-127_Strength_Training_for_Men/module.json
+EXE-128,Strength Training After 40,Exercise,Strength Training,1.0,approved,approved/EXE-128_Strength_Training_After_40/module.json
+EXE-129,Strength Training After 60,Exercise,Strength Training,1.0,approved,approved/EXE-129_Strength_Training_After_60/module.json
+EXE-130,Squat Pattern,Exercise,Strength Training,1.0,approved,approved/EXE-130_Squat_Pattern/module.json
+EXE-131,Hip Hinge Pattern,Exercise,Strength Training,1.0,approved,approved/EXE-131_Hip_Hinge_Pattern/module.json
+EXE-132,Lunge Pattern,Exercise,Strength Training,1.0,approved,approved/EXE-132_Lunge_Pattern/module.json
+EXE-133,Horizontal Push,Exercise,Strength Training,1.0,approved,approved/EXE-133_Horizontal_Push/module.json
+EXE-134,Vertical Push,Exercise,Strength Training,1.0,approved,approved/EXE-134_Vertical_Push/module.json
+EXE-135,Horizontal Pull,Exercise,Strength Training,1.0,approved,approved/EXE-135_Horizontal_Pull/module.json
+EXE-136,Vertical Pull,Exercise,Strength Training,1.0,approved,approved/EXE-136_Vertical_Pull/module.json
+EXE-137,Core Training,Exercise,Strength Training,1.0,approved,approved/EXE-137_Core_Training/module.json
+EXE-138,Grip Strength,Exercise,Strength Training,1.0,approved,approved/EXE-138_Grip_Strength/module.json
+EXE-139,Power Training,Exercise,Strength Training,1.0,approved,approved/EXE-139_Power_Training/module.json
+EXE-140,Explosive Training,Exercise,Strength Training,1.0,approved,approved/EXE-140_Explosive_Training/module.json
+EXE-141,Mobility,Exercise,Mobility and Movement,1.0,approved,approved/EXE-141_Mobility/module.json
+EXE-142,Flexibility,Exercise,Mobility and Movement,1.0,approved,approved/EXE-142_Flexibility/module.json
+EXE-143,Static Stretching,Exercise,Mobility and Movement,1.0,approved,approved/EXE-143_Static_Stretching/module.json
+EXE-144,Dynamic Stretching,Exercise,Mobility and Movement,1.0,approved,approved/EXE-144_Dynamic_Stretching/module.json
+EXE-145,Proprioceptive Neuromuscular Facilitation Stretching,Exercise,Mobility and Movement,1.0,approved,approved/EXE-145_Proprioceptive_Neuromuscular_Facilitation_Stretching/module.json
+EXE-146,Stretching Before Exercise,Exercise,Mobility and Movement,1.0,approved,approved/EXE-146_Stretching_Before_Exercise/module.json
+EXE-147,Stretching After Exercise,Exercise,Mobility and Movement,1.0,approved,approved/EXE-147_Stretching_After_Exercise/module.json
+EXE-148,Mobility Training for Beginners,Exercise,Mobility and Movement,1.0,approved,approved/EXE-148_Mobility_Training_for_Beginners/module.json
+EXE-149,Hip Mobility,Exercise,Mobility and Movement,1.0,approved,approved/EXE-149_Hip_Mobility/module.json
+EXE-150,Ankle Mobility,Exercise,Mobility and Movement,1.0,approved,approved/EXE-150_Ankle_Mobility/module.json
+EXE-151,Thoracic Spine Mobility,Exercise,Mobility and Movement,1.0,approved,approved/EXE-151_Thoracic_Spine_Mobility/module.json
+EXE-152,Shoulder Mobility,Exercise,Mobility and Movement,1.0,approved,approved/EXE-152_Shoulder_Mobility/module.json
+EXE-153,Balance,Exercise,Mobility and Movement,1.0,approved,approved/EXE-153_Balance/module.json
+EXE-154,Static Balance Training,Exercise,Mobility and Movement,1.0,approved,approved/EXE-154_Static_Balance_Training/module.json
+EXE-155,Dynamic Balance Training,Exercise,Mobility and Movement,1.0,approved,approved/EXE-155_Dynamic_Balance_Training/module.json
+EXE-156,Single-Leg Balance,Exercise,Mobility and Movement,1.0,approved,approved/EXE-156_Single-Leg_Balance/module.json
+EXE-157,Balance Training for Older Adults,Exercise,Mobility and Movement,1.0,approved,approved/EXE-157_Balance_Training_for_Older_Adults/module.json
+EXE-158,Proprioception,Exercise,Mobility and Movement,1.0,approved,approved/EXE-158_Proprioception/module.json
+EXE-159,Coordination,Exercise,Mobility and Movement,1.0,approved,approved/EXE-159_Coordination/module.json
+EXE-160,Agility,Exercise,Mobility and Movement,1.0,approved,approved/EXE-160_Agility/module.json
+EXE-161,Reaction Time,Exercise,Mobility and Movement,1.0,approved,approved/EXE-161_Reaction_Time/module.json
+EXE-162,Posture,Exercise,Mobility and Movement,1.0,approved,approved/EXE-162_Posture/module.json
+EXE-163,Movement Variability,Exercise,Mobility and Movement,1.0,approved,approved/EXE-163_Movement_Variability/module.json
+EXE-164,Functional Training,Exercise,Mobility and Movement,1.0,approved,approved/EXE-164_Functional_Training/module.json
+EXE-165,Gait,Exercise,Mobility and Movement,1.0,approved,approved/EXE-165_Gait/module.json
+EXE-166,Stair Climbing Ability,Exercise,Mobility and Movement,1.0,approved,approved/EXE-166_Stair_Climbing_Ability/module.json
+EXE-167,Getting Up From the Floor,Exercise,Mobility and Movement,1.0,approved,approved/EXE-167_Getting_Up_From_the_Floor/module.json
+EXE-168,Sit-to-Stand Ability,Exercise,Mobility and Movement,1.0,approved,approved/EXE-168_Sit-to-Stand_Ability/module.json
+EXE-169,Carrying Strength,Exercise,Mobility and Movement,1.0,approved,approved/EXE-169_Carrying_Strength/module.json
+EXE-170,Fall Prevention Exercise,Exercise,Mobility and Movement,1.0,approved,approved/EXE-170_Fall_Prevention_Exercise/module.json
+EXE-171,Yoga for Fitness,Exercise,Mobility and Movement,1.0,approved,approved/EXE-171_Yoga_for_Fitness/module.json
+EXE-172,Pilates,Exercise,Mobility and Movement,1.0,approved,approved/EXE-172_Pilates/module.json
+EXE-173,Tai Chi,Exercise,Mobility and Movement,1.0,approved,approved/EXE-173_Tai_Chi/module.json
+EXE-174,Breathing During Exercise,Exercise,Mobility and Movement,1.0,approved,approved/EXE-174_Breathing_During_Exercise/module.json
+EXE-175,Mind-Muscle Connection,Exercise,Mobility and Movement,1.0,approved,approved/EXE-175_Mind-Muscle_Connection/module.json
+EXE-176,Exercise Program Design,Exercise,Programming and Recovery,1.0,approved,approved/EXE-176_Exercise_Program_Design/module.json
+EXE-177,Concurrent Training,Exercise,Programming and Recovery,1.0,approved,approved/EXE-177_Concurrent_Training/module.json
+EXE-178,Periodization,Exercise,Programming and Recovery,1.0,approved,approved/EXE-178_Periodization/module.json
+EXE-179,Linear Periodization,Exercise,Programming and Recovery,1.0,approved,approved/EXE-179_Linear_Periodization/module.json
+EXE-180,Undulating Periodization,Exercise,Programming and Recovery,1.0,approved,approved/EXE-180_Undulating_Periodization/module.json
+EXE-181,Training Blocks,Exercise,Programming and Recovery,1.0,approved,approved/EXE-181_Training_Blocks/module.json
+EXE-182,Microcycles Mesocycles and Macrocycles,Exercise,Programming and Recovery,1.0,approved,approved/EXE-182_Microcycles_Mesocycles_and_Macrocycles/module.json
+EXE-183,Exercise Recovery,Exercise,Programming and Recovery,1.0,approved,approved/EXE-183_Exercise_Recovery/module.json
+EXE-184,Rest Days,Exercise,Programming and Recovery,1.0,approved,approved/EXE-184_Rest_Days/module.json
+EXE-185,Active Recovery,Exercise,Programming and Recovery,1.0,approved,approved/EXE-185_Active_Recovery/module.json
+EXE-186,Sleep and Exercise Recovery,Exercise,Programming and Recovery,1.0,approved,approved/EXE-186_Sleep_and_Exercise_Recovery/module.json
+EXE-187,Nutrition and Exercise Recovery,Exercise,Programming and Recovery,1.0,approved,approved/EXE-187_Nutrition_and_Exercise_Recovery/module.json
+EXE-188,Hydration and Exercise Performance,Exercise,Programming and Recovery,1.0,approved,approved/EXE-188_Hydration_and_Exercise_Performance/module.json
+EXE-189,Muscle Soreness,Exercise,Programming and Recovery,1.0,approved,approved/EXE-189_Muscle_Soreness/module.json
+EXE-190,Exercise Fatigue,Exercise,Programming and Recovery,1.0,approved,approved/EXE-190_Exercise_Fatigue/module.json
+EXE-191,Overreaching and Overtraining,Exercise,Programming and Recovery,1.0,approved,approved/EXE-191_Overreaching_and_Overtraining/module.json
+EXE-192,Monitoring Training Load,Exercise,Programming and Recovery,1.0,approved,approved/EXE-192_Monitoring_Training_Load/module.json
+EXE-193,Session RPE,Exercise,Programming and Recovery,1.0,approved,approved/EXE-193_Session_RPE/module.json
+EXE-194,Wearables for Exercise,Exercise,Programming and Recovery,1.0,approved,approved/EXE-194_Wearables_for_Exercise/module.json
+EXE-195,Fitness Trackers,Exercise,Programming and Recovery,1.0,approved,approved/EXE-195_Fitness_Trackers/module.json
+EXE-196,Smartwatches and Exercise Metrics,Exercise,Programming and Recovery,1.0,approved,approved/EXE-196_Smartwatches_and_Exercise_Metrics/module.json
+EXE-197,Exercise Calories,Exercise,Programming and Recovery,1.0,approved,approved/EXE-197_Exercise_Calories/module.json
+EXE-198,Fitness Testing,Exercise,Programming and Recovery,1.0,approved,approved/EXE-198_Fitness_Testing/module.json
+EXE-199,Submaximal Fitness Tests,Exercise,Programming and Recovery,1.0,approved,approved/EXE-199_Submaximal_Fitness_Tests/module.json
+EXE-200,Strength Testing,Exercise,Programming and Recovery,1.0,approved,approved/EXE-200_Strength_Testing/module.json
+EXE-201,Functional Fitness Testing,Exercise,Programming and Recovery,1.0,approved,approved/EXE-201_Functional_Fitness_Testing/module.json
+EXE-202,Tracking Progress,Exercise,Programming and Recovery,1.0,approved,approved/EXE-202_Tracking_Progress/module.json
+EXE-203,Setting Exercise Goals,Exercise,Programming and Recovery,1.0,approved,approved/EXE-203_Setting_Exercise_Goals/module.json
+EXE-204,Motivation for Exercise,Exercise,Programming and Recovery,1.0,approved,approved/EXE-204_Motivation_for_Exercise/module.json
+EXE-205,Returning After a Break,Exercise,Programming and Recovery,1.0,approved,approved/EXE-205_Returning_After_a_Break/module.json
+EXE-206,Exercise Injury Risk,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-206_Exercise_Injury_Risk/module.json
+EXE-207,Acute Exercise Injuries,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-207_Acute_Exercise_Injuries/module.json
+EXE-208,Overuse Injuries,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-208_Overuse_Injuries/module.json
+EXE-209,Pain During Exercise,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-209_Pain_During_Exercise/module.json
+EXE-210,Exercise With Joint Pain,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-210_Exercise_With_Joint_Pain/module.json
+EXE-211,Exercise in Hot Weather,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-211_Exercise_in_Hot_Weather/module.json
+EXE-212,Exercise in Cold Weather,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-212_Exercise_in_Cold_Weather/module.json
+EXE-213,Exercise at Altitude,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-213_Exercise_at_Altitude/module.json
+EXE-214,Air Quality and Outdoor Exercise,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-214_Air_Quality_and_Outdoor_Exercise/module.json
+EXE-215,Exercise and Dehydration,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-215_Exercise_and_Dehydration/module.json
+EXE-216,Exercise-Associated Hyponatremia,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-216_Exercise-Associated_Hyponatremia/module.json
+EXE-217,Exercise for Weight Management,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-217_Exercise_for_Weight_Management/module.json
+EXE-218,Exercise for Fat Loss,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-218_Exercise_for_Fat_Loss/module.json
+EXE-219,Exercise for Prediabetes,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-219_Exercise_for_Prediabetes/module.json
+EXE-220,Exercise for Type 2 Diabetes,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-220_Exercise_for_Type_2_Diabetes/module.json
+EXE-221,Exercise for High Blood Pressure,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-221_Exercise_for_High_Blood_Pressure/module.json
+EXE-222,Exercise for High Cholesterol,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-222_Exercise_for_High_Cholesterol/module.json
+EXE-223,Exercise for Cardiovascular Health,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-223_Exercise_for_Cardiovascular_Health/module.json
+EXE-224,Exercise After a Heart Event,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-224_Exercise_After_a_Heart_Event/module.json
+EXE-225,Exercise for Metabolic Syndrome,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-225_Exercise_for_Metabolic_Syndrome/module.json
+EXE-226,Exercise for Fatty Liver Disease,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-226_Exercise_for_Fatty_Liver_Disease/module.json
+EXE-227,Exercise for Osteoporosis,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-227_Exercise_for_Osteoporosis/module.json
+EXE-228,Exercise for Osteoarthritis,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-228_Exercise_for_Osteoarthritis/module.json
+EXE-229,Exercise for Chronic Back Pain,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-229_Exercise_for_Chronic_Back_Pain/module.json
+EXE-230,Exercise for Neck Pain,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-230_Exercise_for_Neck_Pain/module.json
+EXE-231,Exercise for Knee Pain,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-231_Exercise_for_Knee_Pain/module.json
+EXE-232,Exercise for Shoulder Pain,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-232_Exercise_for_Shoulder_Pain/module.json
+EXE-233,Exercise for Cancer Survivors,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-233_Exercise_for_Cancer_Survivors/module.json
+EXE-234,Exercise for Depression,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-234_Exercise_for_Depression/module.json
+EXE-235,Exercise for Anxiety,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-235_Exercise_for_Anxiety/module.json
+EXE-236,Exercise and Cognitive Health,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-236_Exercise_and_Cognitive_Health/module.json
+EXE-237,Exercise for Better Sleep,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-237_Exercise_for_Better_Sleep/module.json
+EXE-238,Exercise for Stress Management,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-238_Exercise_for_Stress_Management/module.json
+EXE-239,Exercise During Menopause,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-239_Exercise_During_Menopause/module.json
+EXE-240,Exercise During Pregnancy,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-240_Exercise_During_Pregnancy/module.json
+EXE-241,Exercise After Pregnancy,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-241_Exercise_After_Pregnancy/module.json
+EXE-242,Exercise for Older Adults,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-242_Exercise_for_Older_Adults/module.json
+EXE-243,Exercise for Frailty,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-243_Exercise_for_Frailty/module.json
+EXE-244,Exercise for Sarcopenia,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-244_Exercise_for_Sarcopenia/module.json
+EXE-245,Exercise for Fall Prevention,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-245_Exercise_for_Fall_Prevention/module.json
+EXE-246,Exercise for Bone Health,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-246_Exercise_for_Bone_Health/module.json
+EXE-247,Exercise for Longevity,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-247_Exercise_for_Longevity/module.json
+EXE-248,Minimum Effective Dose of Exercise,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-248_Minimum_Effective_Dose_of_Exercise/module.json
+EXE-249,Optimizing Exercise for Healthspan,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-249_Optimizing_Exercise_for_Healthspan/module.json
+EXE-250,Building a Sustainable Lifetime Exercise Plan,Exercise,Exercise Safety and Health,1.0,approved,approved/EXE-250_Building_a_Sustainable_Lifetime_Exercise_Plan/module.json
 NUT-001,Fundamentals of Human Nutrition,Nutrition,Nutrition Foundations,1.0,approved,approved/NUT-001_Fundamentals_of_Human_Nutrition/module.json
 NUT-002,Nutrients and Energy Balance,Nutrition,Nutrition Foundations,1.0,approved,approved/NUT-002_Nutrients_and_Energy_Balance/module.json
 NUT-003,Macronutrients Overview,Nutrition,Macronutrients,1.0,approved,approved/NUT-003_Macronutrients_Overview/module.json
