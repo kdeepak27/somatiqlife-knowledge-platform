@@ -1,0 +1,37 @@
+{
+  "module_id": "SLP-008",
+  "title": "Circadian Rhythm",
+  "subtitle": "Core concepts, physiology, evidence, and practical implications of circadian rhythm.",
+  "domain": "Sleep",
+  "category": "Sleep Foundations",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Students",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate, general audience",
+  "keywords": [
+    "circadian rhythm",
+    "biological clock",
+    "sleep-wake cycle",
+    "chronobiology",
+    "melatonin",
+    "suprachiasmatic nucleus",
+    "light exposure",
+    "chronotype"
+  ],
+  "related_modules": [
+    "SLP-001",
+    "SLP-005",
+    "SLP-010"
+  ],
+  "evidence_strength": "Established and emerging evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

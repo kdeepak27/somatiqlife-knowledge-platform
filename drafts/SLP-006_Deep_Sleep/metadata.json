@@ -1,0 +1,34 @@
+{
+  "module_id": "SLP-006",
+  "title": "Deep Sleep",
+  "subtitle": "Core concepts, physiology, evidence, and practical implications of deep sleep.",
+  "domain": "Sleep",
+  "category": "Sleep Foundations",
+  "som_stages": [
+    "Foundational Knowledge"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "deep sleep",
+    "slow-wave sleep",
+    "NREM sleep",
+    "sleep physiology",
+    "sleep quality",
+    "memory consolidation",
+    "growth hormone",
+    "sleep cycles"
+  ],
+  "related_modules": [
+    "SLP-003: Sleep Cycles and Stages",
+    "SLP-007: Sleep Hygiene and Health",
+    "SLP-010: Sleep Disorders Overview"
+  ],
+  "evidence_strength": "Established and Emerging Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

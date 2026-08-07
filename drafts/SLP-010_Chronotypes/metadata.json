@@ -1,0 +1,34 @@
+{
+  "module_id": "SLP-010",
+  "title": "Chronotypes",
+  "subtitle": "Core concepts, physiology, evidence, and practical implications of chronotypes.",
+  "domain": "Sleep",
+  "category": "Sleep Foundations",
+  "som_stages": [
+    "Foundations",
+    "Mechanisms",
+    "Applications"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Educators",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "General Audience",
+  "keywords": [
+    "chronotype",
+    "circadian rhythm",
+    "morningness-eveningness",
+    "sleep timing",
+    "biological clock",
+    "circadian biology"
+  ],
+  "related_modules": [
+    "SLP-005_Sleep_Basics",
+    "SLP-015_Circadian_Rhythms",
+    "SLP-020_Sleep_Disorders"
+  ],
+  "evidence_strength": "Moderate evidence supports the biological basis and implications of chronotypes; ongoing research is clarifying clinical applications and health impacts.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
