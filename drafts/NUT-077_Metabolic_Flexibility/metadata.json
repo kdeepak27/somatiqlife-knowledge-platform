@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-077",
+  "title": "Metabolic Flexibility",
+  "subtitle": "Switching between carbohydrate and fat as fuels",
+  "domain": "Nutrition",
+  "category": "Metabolism",
+  "som_stages": [
+    "Maintenance",
+    "Optimization"
+  ],
+  "audience": [
+    "General Adult",
+    "Health Professionals"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Metabolic Flexibility",
+    "Carbohydrate Metabolism",
+    "Fat Metabolism",
+    "Energy Utilization",
+    "Insulin Sensitivity",
+    "Exercise Metabolism",
+    "Nutrient Partitioning",
+    "Mitochondrial Function"
+  ],
+  "related_modules": [
+    "NUT-045 Energy Metabolism",
+    "NUT-091 Insulin and Glucose Regulation",
+    "NUT-088 Exercise Physiology"
+  ],
+  "evidence_strength": "Emerging Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-090",
+  "title": "Food Additives",
+  "subtitle": "Preservatives, emulsifiers, colors, sweeteners, and evidence-based safety",
+  "domain": "Nutrition",
+  "category": "Food Science",
+  "som_stages": [
+    "Awareness",
+    "Understanding"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "food additives",
+    "preservatives",
+    "emulsifiers",
+    "color additives",
+    "sweeteners",
+    "food safety",
+    "food chemistry",
+    "nutrition"
+  ],
+  "related_modules": [
+    "NUT-045 Food Preservation Techniques",
+    "NUT-102 Artificial Sweeteners and Health",
+    "NUT-076 Food Allergies and Intolerances"
+  ],
+  "evidence_strength": "Established evidence with ongoing research in some areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

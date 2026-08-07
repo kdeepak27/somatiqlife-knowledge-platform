@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-086",
+  "title": "Dietary Patterns",
+  "subtitle": "Why overall eating patterns matter more than single foods",
+  "domain": "Nutrition",
+  "category": "Diet Quality",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Nutrition Educators"
+  ],
+  "reading_level": "General adult reading level",
+  "keywords": [
+    "dietary patterns",
+    "nutrition",
+    "diet quality",
+    "healthy eating",
+    "nutrients",
+    "chronic disease",
+    "balanced diet",
+    "whole foods"
+  ],
+  "related_modules": [
+    "NUT-045: Nutrients and Human Health",
+    "NUT-090: Meal Planning and Portion Control",
+    "LIF-010: Lifestyle Factors and Chronic Disease Prevention"
+  ],
+  "evidence_strength": "Scientific consensus on benefits of healthy dietary patterns is strong, supported by observational and interventional studies; however, individual research findings can vary and dietary behavior complexity requires holistic interpretation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-097",
+  "title": "Meal Prep",
+  "subtitle": "Preparing food efficiently for consistency and portion management",
+  "domain": "Nutrition",
+  "category": "Practical Nutrition",
+  "som_stages": [
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "meal prep",
+    "portion control",
+    "nutrition",
+    "food preparation",
+    "consistency",
+    "time management",
+    "healthy eating",
+    "food safety"
+  ],
+  "related_modules": [
+    "NUT-045: Portion Control Strategies",
+    "NUT-089: Food Safety Essentials",
+    "NUT-101: Batch Cooking Techniques"
+  ],
+  "evidence_strength": "Moderate: Based on clinical nutritional guidelines and observational studies; further randomized trials on long-term outcomes of meal prep practices are ongoing.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

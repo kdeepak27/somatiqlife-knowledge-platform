@@ -174,6 +174,31 @@ NUT-072,Metabolism Overview,Nutrition,Metabolism,1.0,drafts,drafts/NUT-072_Metab
 NUT-073,Basal Metabolic Rate,Nutrition,Metabolism,1.0,drafts,drafts/NUT-073_Basal_Metabolic_Rate/module.json
 NUT-074,Total Daily Energy Expenditure,Nutrition,Metabolism,1.0,drafts,drafts/NUT-074_Total_Daily_Energy_Expenditure/module.json
 NUT-075,Thermic Effect of Food,Nutrition,Metabolism,1.0,drafts,drafts/NUT-075_Thermic_Effect_of_Food/module.json
+NUT-076,Metabolic Adaptation During Weight Loss,Nutrition,Weight Management,1.0,drafts,drafts/NUT-076_Metabolic_Adaptation_During_Weight_Loss/module.json
+NUT-077,Metabolic Flexibility,Nutrition,Metabolism,1.0,drafts,drafts/NUT-077_Metabolic_Flexibility/module.json
+NUT-078,Blood Glucose Regulation,Nutrition,Metabolism,1.0,drafts,drafts/NUT-078_Blood_Glucose_Regulation/module.json
+NUT-079,Insulin,Nutrition,Metabolism,1.0,drafts,drafts/NUT-079_Insulin/module.json
+NUT-080,Glucagon,Nutrition,Metabolism,1.0,drafts,drafts/NUT-080_Glucagon/module.json
+NUT-081,Hunger and Satiety,Nutrition,Appetite,1.0,drafts,drafts/NUT-081_Hunger_and_Satiety/module.json
+NUT-082,Leptin,Nutrition,Appetite,1.0,drafts,drafts/NUT-082_Leptin/module.json
+NUT-083,Ghrelin,Nutrition,Appetite,1.0,drafts,drafts/NUT-083_Ghrelin/module.json
+NUT-084,GLP-1 and Other Gut Hormones,Nutrition,Appetite,1.0,drafts,drafts/NUT-084_GLP-1_and_Other_Gut_Hormones/module.json
+NUT-085,Food Reward and Cravings,Nutrition,Appetite,1.0,drafts,drafts/NUT-085_Food_Reward_and_Cravings/module.json
+NUT-086,Dietary Patterns,Nutrition,Diet Quality,1.0,drafts,drafts/NUT-086_Dietary_Patterns/module.json
+NUT-087,Whole Foods,Nutrition,Diet Quality,1.0,drafts,drafts/NUT-087_Whole_Foods/module.json
+NUT-088,Food Processing,Nutrition,Diet Quality,1.0,drafts,drafts/NUT-088_Food_Processing/module.json
+NUT-089,Ultra-Processed Foods,Nutrition,Diet Quality,1.0,drafts,drafts/NUT-089_Ultra-Processed_Foods/module.json
+NUT-090,Food Additives,Nutrition,Food Science,1.0,drafts,drafts/NUT-090_Food_Additives/module.json
+NUT-091,Food Labels,Nutrition,Practical Nutrition,1.0,drafts,drafts/NUT-091_Food_Labels/module.json
+NUT-092,Serving Sizes,Nutrition,Practical Nutrition,1.0,drafts,drafts/NUT-092_Serving_Sizes/module.json
+NUT-093,Portion Control,Nutrition,Practical Nutrition,1.0,drafts,drafts/NUT-093_Portion_Control/module.json
+NUT-094,Meal Planning,Nutrition,Practical Nutrition,1.0,drafts,drafts/NUT-094_Meal_Planning/module.json
+NUT-095,Healthy Grocery Shopping,Nutrition,Practical Nutrition,1.0,drafts,drafts/NUT-095_Healthy_Grocery_Shopping/module.json
+NUT-096,Healthy Cooking Methods,Nutrition,Practical Nutrition,1.0,drafts,drafts/NUT-096_Healthy_Cooking_Methods/module.json
+NUT-097,Meal Prep,Nutrition,Practical Nutrition,1.0,drafts,drafts/NUT-097_Meal_Prep/module.json
+NUT-098,Eating Out,Nutrition,Practical Nutrition,1.0,drafts,drafts/NUT-098_Eating_Out/module.json
+NUT-099,Takeout and Delivery,Nutrition,Practical Nutrition,1.0,drafts,drafts/NUT-099_Takeout_and_Delivery/module.json
+NUT-100,Snacking,Nutrition,Practical Nutrition,1.0,drafts,drafts/NUT-100_Snacking/module.json
 BIO-001,What Is Health?,Human Biology,Health Foundations,1.0,approved,approved/BIO-001_What_Is_Health/module.json
 BIO-002,The Human Body as an Integrated System,Human Biology,Systems Biology,1.0,approved,approved/BIO-002_The_Human_Body_as_an_Integrated_System/module.json
 BIO-003,Levels of Biological Organization,Human Biology,Foundational Biology,1.0,approved,approved/BIO-003_Levels_of_Biological_Organization/module.json

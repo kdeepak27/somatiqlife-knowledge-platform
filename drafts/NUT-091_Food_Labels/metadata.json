@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-091",
+  "title": "Food Labels",
+  "subtitle": "How to read Nutrition Facts and ingredient lists",
+  "domain": "Nutrition",
+  "category": "Practical Nutrition",
+  "som_stages": [
+    "Everyday health"
+  ],
+  "audience": [
+    "General Adults"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Nutrition Facts",
+    "Food Labels",
+    "Ingredient Lists",
+    "Daily Values",
+    "Calories",
+    "Nutrients",
+    "Food Safety",
+    "Dietary Guidelines"
+  ],
+  "related_modules": [
+    "NUT-052-Calorie-Counting-Basics",
+    "NUT-103-Allergen-Management",
+    "NUT-115-Dietary-Fats-Explained"
+  ],
+  "evidence_strength": "Established evidence from regulatory guidelines and nutrition science",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

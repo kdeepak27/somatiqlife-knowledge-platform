@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-076",
+  "title": "Metabolic Adaptation During Weight Loss",
+  "subtitle": "Why energy expenditure changes during calorie restriction",
+  "domain": "Nutrition",
+  "category": "Weight Management",
+  "som_stages": [
+    "Weight Loss"
+  ],
+  "audience": [
+    "General Adult Audience"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Metabolic adaptation",
+    "Energy expenditure",
+    "Weight loss",
+    "Calorie restriction",
+    "Resting metabolic rate",
+    "Adaptive thermogenesis",
+    "Body composition",
+    "Energy balance"
+  ],
+  "related_modules": [
+    "NUT-045_Body_Composition_and_Metabolism",
+    "NUT-089_Exercise_and_Muscle_Maintenance",
+    "NUT-120_Weight_Loss_Strategies"
+  ],
+  "evidence_strength": "Moderate – well-established physiological concepts with ongoing research into variability and long-term implications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

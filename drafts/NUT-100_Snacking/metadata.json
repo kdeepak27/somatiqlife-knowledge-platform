@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-100",
+  "title": "Snacking",
+  "subtitle": "When snacks help, when they hinder, and how to build better options",
+  "domain": "Nutrition",
+  "category": "Practical Nutrition",
+  "som_stages": [
+    "Maintenance",
+    "Healthy Lifestyle"
+  ],
+  "audience": [
+    "Adults",
+    "Health Enthusiasts",
+    "General Public"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "snacking",
+    "nutrition",
+    "healthy snacks",
+    "meal timing",
+    "diet quality",
+    "metabolism",
+    "weight management"
+  ],
+  "related_modules": [
+    "NUT-101 - Meal Planning for Healthy Eating",
+    "NUT-102 - Weight Management Strategies",
+    "NUT-103 - Understanding Dietary Fats"
+  ],
+  "evidence_strength": "Evidence is primarily derived from observational studies and expert consensus; randomized controlled trials on snacking specifics remain limited.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-099",
+  "title": "Takeout and Delivery",
+  "subtitle": "Managing portions, calories, sodium, and food quality",
+  "domain": "Nutrition",
+  "category": "Practical Nutrition",
+  "som_stages": [
+    "All Adults"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Dietitians"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "takeout",
+    "delivery",
+    "portion control",
+    "calorie management",
+    "sodium intake",
+    "food quality",
+    "nutrition",
+    "healthy eating"
+  ],
+  "related_modules": [
+    "NUT-045 Balanced Diet Principles",
+    "NUT-078 Sodium Reduction Strategies",
+    "NUT-061 Portion Control Techniques",
+    "NUT-092 Food Safety Basics"
+  ],
+  "evidence_strength": "Moderate: Evidence primarily from observational studies, nutrition surveys, and expert consensus; limited randomized trials specific to consumer takeout practices.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

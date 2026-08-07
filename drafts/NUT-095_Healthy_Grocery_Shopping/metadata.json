@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-095",
+  "title": "Healthy Grocery Shopping",
+  "subtitle": "Building a nutrient-dense cart while managing cost and convenience",
+  "domain": "Nutrition",
+  "category": "Practical Nutrition",
+  "som_stages": [
+    "Healthy Living",
+    "Prevention"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "nutrition",
+    "grocery shopping",
+    "healthy eating",
+    "budget",
+    "meal planning",
+    "convenience foods",
+    "nutrient-dense foods",
+    "food labels"
+  ],
+  "related_modules": [
+    "NUT-042: Meal Preparation and Planning",
+    "NUT-074: Reading Food Labels",
+    "NUT-089: Budget-Friendly Nutrition"
+  ],
+  "evidence_strength": "Based on evidence from nutrition science, observational studies, and expert consensus; some recommendations reflect evolving understanding and practical applications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

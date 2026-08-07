@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-094",
+  "title": "Meal Planning",
+  "subtitle": "How to build balanced meals for health, convenience, and consistency",
+  "domain": "Nutrition",
+  "category": "Practical Nutrition",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "meal planning",
+    "balanced diet",
+    "nutrition",
+    "portion control",
+    "meal preparation",
+    "dietary variety",
+    "healthy eating"
+  ],
+  "related_modules": [
+    "NUT-020 Nutrition Basics",
+    "NUT-105 Healthy Cooking Techniques",
+    "NUT-120 Weight Management Strategies"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
