@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-171",
+  "title": "Yoga for Fitness",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for yoga for fitness",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Maintenance",
+    "Adaptation",
+    "Initiation"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Exercise Professionals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "yoga",
+    "fitness",
+    "mobility",
+    "movement",
+    "flexibility",
+    "strength",
+    "balance",
+    "exercise",
+    "wellness"
+  ],
+  "related_modules": [
+    "EXE-102",
+    "EXE-130",
+    "EXE-155"
+  ],
+  "evidence_strength": "Established evidence for flexibility improvements; moderate evidence for strength and cardiovascular benefits; emerging evidence for mental health effects; safety well established with qualified instruction.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

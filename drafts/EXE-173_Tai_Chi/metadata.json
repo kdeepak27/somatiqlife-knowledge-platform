@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-173",
+  "title": "Tai Chi",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for tai chi",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Physical Therapists",
+    "Exercise Instructors"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Tai Chi",
+    "Tai Ji Quan",
+    "Qigong",
+    "Balance Exercise",
+    "Mind-Body Exercise",
+    "Mobility",
+    "Fall Prevention",
+    "Chronic Pain"
+  ],
+  "related_modules": [
+    "EXE-210",
+    "EXE-215",
+    "EXE-118"
+  ],
+  "evidence_strength": "Established Evidence for Fall Prevention and Arthritis; Moderate and Emerging Evidence for Mental Health Benefits; Limited but Promising Evidence for Cognitive Improvements",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

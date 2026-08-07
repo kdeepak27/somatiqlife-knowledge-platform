@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-172",
+  "title": "Pilates",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for pilates",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Initiation",
+    "Maintenance",
+    "Enhancement"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Professionals",
+    "Physical Therapists",
+    "Rehabilitation Specialists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Pilates",
+    "core stability",
+    "mobility",
+    "flexibility",
+    "strength",
+    "movement education",
+    "physical therapy",
+    "posture"
+  ],
+  "related_modules": [
+    "EXE-34",
+    "REH-45",
+    "EXE-101"
+  ],
+  "evidence_strength": "Moderate evidence supports Pilates for improving mobility, posture, and reducing chronic low back pain; however, variability in study methodologies limits generalizability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
