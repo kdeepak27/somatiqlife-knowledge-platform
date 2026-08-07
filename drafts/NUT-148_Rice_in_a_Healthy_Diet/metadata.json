@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-148",
+  "title": "Rice in a Healthy Diet",
+  "subtitle": "White, brown, basmati, portions, glycemic response, and meal pairing",
+  "domain": "Nutrition",
+  "category": "Staple Foods",
+  "som_stages": [
+    "Maintenance",
+    "Health Optimization"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Rice",
+    "Brown rice",
+    "White rice",
+    "Basmati rice",
+    "Glycemic index",
+    "Meal pairing",
+    "Portion control",
+    "Healthy diet"
+  ],
+  "related_modules": [
+    "NUT-102 Whole Grains in Diet",
+    "NUT-160 Glycemic Index and Load",
+    "NUT-180 Meal Planning for Blood Sugar Control"
+  ],
+  "evidence_strength": "Moderate evidence from nutritional science and glycemic index research supports the guidance provided, with ongoing studies refining understanding of rice's metabolic effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

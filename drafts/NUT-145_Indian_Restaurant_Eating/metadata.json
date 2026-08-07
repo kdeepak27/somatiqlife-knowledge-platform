@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-145",
+  "title": "Indian Restaurant Eating",
+  "subtitle": "Navigating restaurant menus, portions, oils, breads, rice, and sauces",
+  "domain": "Nutrition",
+  "category": "Cultural Nutrition",
+  "som_stages": [
+    "Maintenance",
+    "Behavior Change"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Indian cuisine",
+    "restaurant nutrition",
+    "portion control",
+    "cooking oils",
+    "Indian breads",
+    "rice dishes",
+    "sauces",
+    "healthy eating",
+    "cultural nutrition"
+  ],
+  "related_modules": [
+    "NUT-101 - Mediterranean Diet Principles",
+    "NUT-126 - Portion Control Strategies",
+    "CUL-202 - Cultural Food Practices and Health"
+  ],
+  "evidence_strength": "Moderate evidence from nutritional research and culinary analyses with recognition of variability across Indian restaurant preparations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

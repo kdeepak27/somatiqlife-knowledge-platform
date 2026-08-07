@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-126",
+  "title": "Flexitarian Eating",
+  "subtitle": "A flexible approach to increasing plant foods while retaining animal foods",
+  "domain": "Nutrition",
+  "category": "Dietary Patterns",
+  "som_stages": [
+    "Maintenance",
+    "Behavior Change"
+  ],
+  "audience": [
+    "General Adult",
+    "Health-Conscious Individuals",
+    "Dietitians",
+    "Nutrition Educators"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "flexitarian diet",
+    "plant-based eating",
+    "dietary patterns",
+    "animal foods",
+    "health benefits",
+    "protein sources",
+    "sustainability",
+    "weight management"
+  ],
+  "related_modules": [
+    "NUT-101: Plant-Based Nutrition Basics",
+    "NUT-110: Protein Sources and Quality",
+    "NUT-120: Dietary Patterns and Chronic Disease Risk"
+  ],
+  "evidence_strength": "Moderate: supported by observational studies and emerging randomized trials but with ongoing research to define optimal patterns and long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-150",
+  "title": "Dal and Lentils",
+  "subtitle": "Protein, fiber, micronutrients, digestion, and practical use",
+  "domain": "Nutrition",
+  "category": "Staple Foods",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "dal",
+    "lentils",
+    "protein",
+    "fiber",
+    "micronutrients",
+    "digestion",
+    "plant-based nutrition",
+    "legumes"
+  ],
+  "related_modules": [
+    "NUT-102 Plant-Based Proteins",
+    "NUT-215 Dietary Fiber and Gut Health",
+    "NUT-180 Iron and Micronutrient Nutrition"
+  ],
+  "evidence_strength": "Established evidence supported by consensus and multiple nutrition studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

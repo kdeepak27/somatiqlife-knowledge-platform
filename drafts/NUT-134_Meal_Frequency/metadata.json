@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-134",
+  "title": "Meal Frequency",
+  "subtitle": "Two meals, three meals, grazing, and metabolic implications",
+  "domain": "Nutrition",
+  "category": "Meal Timing",
+  "som_stages": [
+    "Maintenance",
+    "Optimization"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "meal frequency",
+    "metabolism",
+    "nutrition timing",
+    "grazing",
+    "intermittent fasting",
+    "blood sugar",
+    "energy metabolism",
+    "weight management"
+  ],
+  "related_modules": [
+    "NUT-101: Meal Timing and Circadian Rhythms",
+    "NUT-120: Intermittent Fasting: Mechanisms and Effects",
+    "NUT-140: Weight Management Strategies"
+  ],
+  "evidence_strength": "Emerging evidence with some inconsistencies and need for personalized approaches",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

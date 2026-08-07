@@ -1,0 +1,31 @@
+{
+  "module_id": "NUT-139",
+  "title": "South Indian Nutrition",
+  "subtitle": "Common foods, meal patterns, and healthier modifications",
+  "domain": "Nutrition",
+  "category": "Cultural Nutrition",
+  "som_stages": [
+    "General Health"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "South Indian cuisine",
+    "nutrition",
+    "meal patterns",
+    "healthy modifications",
+    "dietary fats",
+    "carbohydrates",
+    "cultural nutrition"
+  ],
+  "related_modules": [
+    "NUT-045: Vegetarian Diets and Nutritional Adequacy",
+    "NUT-078: Dietary Fats and Heart Health",
+    "CUL-023: Cultural Adaptations in Global Nutrition"
+  ],
+  "evidence_strength": "Emerging evidence with traditional knowledge and observational studies; limited controlled intervention data specific to South Indian diets.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

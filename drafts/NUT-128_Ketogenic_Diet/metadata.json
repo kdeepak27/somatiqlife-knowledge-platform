@@ -1,0 +1,37 @@
+{
+  "module_id": "NUT-128",
+  "title": "Ketogenic Diet",
+  "subtitle": "Ketosis, clinical uses, weight loss, safety, and sustainability",
+  "domain": "Nutrition",
+  "category": "Dietary Patterns",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare professionals",
+    "Nutritionists"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Ketogenic diet",
+    "Ketosis",
+    "Weight loss",
+    "Clinical uses",
+    "Safety",
+    "Sustainability",
+    "Nutrition",
+    "Dietary patterns"
+  ],
+  "related_modules": [
+    "NUT-101: General Principles of Nutrition",
+    "NUT-150: Weight Management Strategies",
+    "NUT-135: Diabetes and Diet",
+    "NUT-114: Dietary Fats and Cardiovascular Health"
+  ],
+  "evidence_strength": "Moderate evidence supports ketogenic diet use in epilepsy; emerging evidence exists for metabolic and neurological conditions; weight loss benefits are documented but long-term effects require more research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

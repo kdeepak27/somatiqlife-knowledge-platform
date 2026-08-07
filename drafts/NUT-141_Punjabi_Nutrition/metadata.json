@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-141",
+  "title": "Punjabi Nutrition",
+  "subtitle": "Traditional foods, protein, dairy, fats, and practical modifications",
+  "domain": "Nutrition",
+  "category": "Cultural Nutrition",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Cultural Dietitians"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Punjabi cuisine",
+    "Traditional foods",
+    "Protein sources",
+    "Dairy products",
+    "Dietary fats",
+    "Cultural nutrition",
+    "Healthy modifications",
+    "South Asian diet"
+  ],
+  "related_modules": [
+    "NUT-102 South Asian Dietary Patterns",
+    "NUT-115 Cultural Nutrition and Health",
+    "NUT-130 Dairy and Plant-Based Proteins",
+    "NUT-145 Healthy Dietary Fats"
+  ],
+  "evidence_strength": "Moderate - Based on nutritional epidemiology and cultural dietary studies with some clinical evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
