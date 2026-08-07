@@ -1,0 +1,39 @@
+{
+  "module_id": "NUT-164",
+  "title": "Hydration for Exercise",
+  "subtitle": "Fluid needs, sweat losses, electrolytes, and heat",
+  "domain": "Nutrition",
+  "category": "Sports Nutrition",
+  "som_stages": [
+    "Pre-Exercise",
+    "During Exercise",
+    "Post-Exercise"
+  ],
+  "audience": [
+    "General Adult",
+    "Athletes",
+    "Coaches",
+    "Healthcare Providers"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "hydration",
+    "exercise",
+    "sweat loss",
+    "electrolytes",
+    "fluid balance",
+    "heat regulation",
+    "sports nutrition",
+    "dehydration",
+    "rehydration"
+  ],
+  "related_modules": [
+    "NUT-102 Nutrition Basics",
+    "NUT-210 Electrolytes and Sports Performance",
+    "NUT-301 Heat Illness Prevention",
+    "NUT-255 Recovery Nutrition"
+  ],
+  "evidence_strength": "Established evidence from sports nutrition science with evolving personalized hydration research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

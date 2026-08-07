@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-159",
+  "title": "Nutrition for Muscle Gain",
+  "subtitle": "Protein, calories, carbohydrate, and training support",
+  "domain": "Nutrition",
+  "category": "Sports Nutrition",
+  "som_stages": [
+    "Maintenance",
+    "Growth"
+  ],
+  "audience": [
+    "General adult"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "muscle gain",
+    "protein intake",
+    "calories",
+    "carbohydrates",
+    "resistance training",
+    "nutrient timing",
+    "sports nutrition",
+    "muscle hypertrophy"
+  ],
+  "related_modules": [
+    "NUT-101 Basics of Macronutrients",
+    "NUT-167 Hydration for Sports Performance",
+    "NUT-182 Supplement Safety and Efficacy"
+  ],
+  "evidence_strength": "Established evidence from sports nutrition and exercise physiology literature.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

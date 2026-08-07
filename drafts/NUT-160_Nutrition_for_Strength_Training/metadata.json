@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-160",
+  "title": "Nutrition for Strength Training",
+  "subtitle": "Fueling resistance exercise, recovery, and adaptation",
+  "domain": "Nutrition",
+  "category": "Sports Nutrition",
+  "som_stages": [
+    "Maintenance",
+    "Improvement"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Strength training",
+    "Resistance exercise",
+    "Protein intake",
+    "Recovery nutrition",
+    "Muscle adaptation",
+    "Sports supplements",
+    "Hydration",
+    "Micronutrients"
+  ],
+  "related_modules": [
+    "NUT-140 Sports Hydration and Electrolytes",
+    "NUT-150 Protein and Amino Acids in Exercise",
+    "NUT-170 Recovery Nutrition Strategies"
+  ],
+  "evidence_strength": "Established evidence and emerging evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

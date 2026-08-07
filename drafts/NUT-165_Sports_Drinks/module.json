@@ -1,0 +1,215 @@
+{
+  "module_id": "NUT-165",
+  "title": "Sports Drinks",
+  "subtitle": "Carbohydrate-electrolyte beverages, use cases, and limitations",
+  "domain": "Nutrition",
+  "category": "Sports Nutrition",
+  "som_stages": [
+    "Active Lifestyle",
+    "Athlete",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Sports Drinks",
+    "Electrolytes",
+    "Carbohydrates",
+    "Hydration",
+    "Exercise Nutrition",
+    "Performance",
+    "Electrolyte Balance",
+    "Dehydration"
+  ],
+  "customer_questions": [
+    "What are sports drinks?",
+    "How do sports drinks help during exercise?",
+    "When should I use sports drinks instead of water?",
+    "Are sports drinks beneficial for all types of exercise?",
+    "Can sports drinks cause any side effects?",
+    "How do carbohydrates in sports drinks affect performance?",
+    "What electrolytes are found in sports drinks and why are they important?",
+    "Are there any limitations or risks associated with consuming sports drinks?"
+  ],
+  "retrieval_summary": "Sports drinks are carbohydrate-electrolyte beverages designed to hydrate and provide energy during physical activity. They typically contain water, carbohydrates (such as sugars), and electrolytes like sodium and potassium to help replenish fluids and minerals lost through sweat. The primary mechanisms by which sports drinks aid performance include maintaining hydration status, supplying energy to working muscles through carbohydrates, and restoring electrolyte balance to support muscle function and prevent cramps. They are particularly useful during prolonged or high-intensity exercise lasting longer than an hour, where fluid and electrolyte losses are substantial. However, sports drinks are not universally necessary; for short-duration, low-intensity activities, plain water is often sufficient. Limitations include their calorie and sugar content, which may contribute to excess calorie consumption if consumed inappropriately, and potential dental health considerations. Some individuals may also be sensitive to certain ingredients. Understanding the timing, context, and individual needs is essential to optimize benefits while minimizing risks. Related concepts include hydration management, carbohydrate metabolism during exercise, electrolyte physiology, and differences between sports drinks, energy drinks, and rehydration solutions. This module guides readers through scientific principles, practical applications, safety considerations, and common misconceptions about sports drinks, helping individuals make informed choices about their use in exercise and sport contexts.",
+  "learning_objectives": [
+    "Define what sports drinks are and their key components.",
+    "Explain the physiological mechanisms of how sports drinks support exercise performance.",
+    "Identify appropriate use cases and timing for sports drink consumption.",
+    "Recognize the limitations and potential risks associated with sports drinks.",
+    "Describe the role of electrolytes and carbohydrates in sports drinks.",
+    "Distinguish between sports drinks and other hydration options.",
+    "Provide practical guidance for selecting and using sports drinks effectively.",
+    "Address common misconceptions about sports drinks."
+  ],
+  "definition": "Sports drinks are specially formulated beverages containing carbohydrates and electrolytes designed to support hydration and energy needs during physical activity.",
+  "why_this_matters": "Understanding sports drinks is important for people engaging in physical activity, as appropriate use can enhance hydration, energy supply, and performance, while misuse may lead to negative health effects or unnecessary calorie consumption.",
+  "sections": [
+    {
+      "heading": "What Are Sports Drinks?",
+      "content": "Sports drinks are beverages formulated with water, carbohydrates, and electrolytes such as sodium and potassium. They are intended to replace fluids and electrolytes lost through sweating and provide a source of energy to muscles during prolonged or intense physical activity."
+    },
+    {
+      "heading": "How Sports Drinks Support Exercise Performance",
+      "content": "The carbohydrates in sports drinks provide glucose or other sugars that muscles use for energy, helping to delay fatigue. Electrolytes help maintain fluid balance and nerve and muscle function, reducing the risk of cramps. Together, these support sustained performance during endurance or intense exercise sessions."
+    },
+    {
+      "heading": "When to Use Sports Drinks Instead of Water",
+      "content": "Sports drinks are most beneficial during activities that last longer than 60 minutes or are performed in hot, humid conditions where sweating is heavy. For shorter or low-intensity exercise, water is generally sufficient to maintain hydration without added calories or sugars."
+    },
+    {
+      "heading": "Common Electrolytes in Sports Drinks and Their Roles",
+      "content": "The primary electrolytes in sports drinks include sodium, which helps retain fluid and stimulates thirst; potassium, which balances cell function; calcium and magnesium, which support muscle contractions. These electrolytes help prevent imbalances that can occur during excessive sweating."
+    },
+    {
+      "heading": "Potential Limitations and Risks of Sports Drink Consumption",
+      "content": "Sports drinks can be high in sugars and calories, which may contribute to weight gain if consumed excessively without corresponding physical activity. They may also affect dental health due to acidity and sugars. People with certain medical conditions should consult a healthcare provider before regular use."
+    },
+    {
+      "heading": "Differences Between Sports Drinks and Other Beverages",
+      "content": "Sports drinks differ from energy drinks, which contain stimulants like caffeine, and from oral rehydration solutions, which are designed primarily to treat dehydration from illness. Understanding these distinctions helps consumers choose appropriately based on their needs."
+    },
+    {
+      "heading": "Practical Guidance for Selecting and Using Sports Drinks",
+      "content": "Choose sports drinks with appropriate carbohydrate concentration (6-8%) for optimal absorption. Consume during prolonged or intense exercise, starting early and at regular intervals. Be mindful of calorie intake and read labels for sugars and additives."
+    },
+    {
+      "heading": "Addressing Misconceptions About Sports Drinks",
+      "content": "Contrary to some beliefs, sports drinks are not necessary for all types of exercise, and water suffices for most moderate activities. They are not sports performance enhancers in isolation but support hydration and energy needs. Overconsumption can have drawbacks."
+    }
+  ],
+  "practical_guidance": [
+    "Use sports drinks during exercise lasting longer than 60 minutes or when sweating heavily in heat.",
+    "Select products with 6-8% carbohydrate concentration for optimal absorption and energy.",
+    "Avoid sports drinks for short, low-intensity activities where water suffices.",
+    "Monitor total sugar and calorie consumption to avoid excess intake.",
+    "Consume sports drinks gradually during exercise rather than large amounts at once.",
+    "Read labels to understand electrolyte content and avoid unnecessary additives.",
+    "Consider individual health status—consult a healthcare provider if unsure about suitability.",
+    "Combine sports drink use with appropriate overall nutrition and hydration strategies."
+  ],
+  "safety_notes": [
+    "Excessive sports drink consumption may lead to unwanted calorie intake and contribute to weight gain.",
+    "High sugar content may negatively impact dental health—rinsing mouth with water after consumption may help.",
+    "Individuals with diabetes or electrolyte imbalances should consult healthcare professionals before using sports drinks regularly.",
+    "Overconsumption of electrolytes can cause imbalances; follow recommended intake guidelines.",
+    "Sports drinks are not suitable substitutes for medical rehydration solutions in cases of severe dehydration or illness."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Sports drinks are necessary for every type of exercise.",
+      "reality": "Water is typically sufficient for hydration during short or low-intensity exercise; sports drinks are mainly beneficial for longer, intense, or hot-weather activity."
+    },
+    {
+      "misconception": "Sports drinks are the same as energy drinks.",
+      "reality": "Energy drinks contain stimulants like caffeine, while sports drinks provide carbohydrates and electrolytes for hydration and energy without stimulants."
+    },
+    {
+      "misconception": "Consuming sports drinks will automatically improve athletic performance.",
+      "reality": "Sports drinks support hydration and energy needs but do not directly enhance performance in the absence of proper training and nutrition."
+    },
+    {
+      "misconception": "Sports drinks have no calories or sugar.",
+      "reality": "Most sports drinks contain sugars that contribute calories; this should be considered within total dietary intake."
+    }
+  ],
+  "clinical_pearls": [
+    "Electrolyte replacement is crucial to prevent cramps and maintain muscle function during prolonged sweating.",
+    "Carbohydrate concentration in sports drinks influences absorption rate and gastrointestinal comfort.",
+    "Timing of sports drink intake—starting early and spacing throughout exercise—optimizes benefits.",
+    "Using sports drinks for inappropriate exercise durations may lead to unnecessary calorie intake.",
+    "Consider environmental conditions (heat, humidity) when deciding on sports drink use."
+  ],
+  "key_takeaways": [
+    "Sports drinks combine carbohydrates and electrolytes to support hydration and energy during extended, intense physical activity.",
+    "They are most effective during exercise lasting over 60 minutes or in hot environments.",
+    "Water is sufficient for hydration during most shorter or less intense exercise.",
+    "Excessive consumption of sports drinks can contribute to caloric excess and dental issues.",
+    "Understanding product composition and individual needs guides optimal sports drink use."
+  ],
+  "glossary": [
+    {
+      "term": "Carbohydrates",
+      "definition": "Sugars and starches that provide energy to the body, especially during exercise."
+    },
+    {
+      "term": "Electrolytes",
+      "definition": "Minerals like sodium and potassium that regulate fluid balance and support nerve and muscle function."
+    },
+    {
+      "term": "Hydration",
+      "definition": "The process of maintaining adequate fluid balance in the body."
+    },
+    {
+      "term": "Dehydration",
+      "definition": "A harmful reduction in body water that impairs physiological functions."
+    },
+    {
+      "term": "Sodium",
+      "definition": "An electrolyte that helps retain water in the body and stimulates thirst."
+    }
+  ],
+  "related_modules": [
+    "NUT-120 - Hydration and Athletic Performance",
+    "NUT-150 - Carbohydrates in Sports Nutrition",
+    "NUT-170 - Electrolyte Management in Exercise"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILLUS-001",
+      "title": "Components of a Sports Drink",
+      "illustration_type": "Diagram",
+      "description": "Visual breakdown of the main components in a sports drink including water, carbohydrates, and electrolytes.",
+      "alt_text": "Diagram showing parts of a sports drink: water, sugars, sodium, potassium."
+    },
+    {
+      "illustration_id": "ILLUS-002",
+      "title": "Electrolyte Loss Through Sweat",
+      "illustration_type": "Infographic",
+      "description": "Illustration showing how electrolytes are lost during sweating and why replacement is important.",
+      "alt_text": "Infographic detailing electrolyte loss during sweating."
+    },
+    {
+      "illustration_id": "ILLUS-003",
+      "title": "Recommended Use of Sports Drinks by Exercise Duration",
+      "illustration_type": "Chart",
+      "description": "Chart illustrating when sports drinks are recommended based on exercise duration and intensity.",
+      "alt_text": "Chart showing exercise duration and sports drink use recommendations."
+    },
+    {
+      "illustration_id": "ILLUS-004",
+      "title": "Comparing Sports Drinks and Energy Drinks",
+      "illustration_type": "Table",
+      "description": "Table comparing ingredients and purposes of sports drinks versus energy drinks.",
+      "alt_text": "Table comparing components of sports drinks and energy drinks."
+    }
+  ],
+  "references": [
+    {
+      "title": "Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance",
+      "organization_or_authors": "Academy of Nutrition and Dietetics, Dietitians of Canada, American College of Sports Medicine",
+      "year": "2016",
+      "identifier": "",
+      "verification_status": "unverified"
+    },
+    {
+      "title": "Sports Drinks and Energy Drinks for Children and Adolescents: Are They Appropriate?",
+      "organization_or_authors": "American Academy of Pediatrics",
+      "year": "2011",
+      "identifier": "",
+      "verification_status": "unverified"
+    },
+    {
+      "title": "Hydration and Health: A Review on Water and Electrolyte Balance",
+      "organization_or_authors": "National Institute of Health Sciences",
+      "year": "2019",
+      "identifier": "",
+      "verification_status": "unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence with some emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

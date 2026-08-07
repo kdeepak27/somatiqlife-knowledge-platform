@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-165",
+  "title": "Sports Drinks",
+  "subtitle": "Carbohydrate-electrolyte beverages, use cases, and limitations",
+  "domain": "Nutrition",
+  "category": "Sports Nutrition",
+  "som_stages": [
+    "Active Lifestyle",
+    "Athlete",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Sports Drinks",
+    "Electrolytes",
+    "Carbohydrates",
+    "Hydration",
+    "Exercise Nutrition",
+    "Performance",
+    "Electrolyte Balance",
+    "Dehydration"
+  ],
+  "related_modules": [
+    "NUT-120 - Hydration and Athletic Performance",
+    "NUT-150 - Carbohydrates in Sports Nutrition",
+    "NUT-170 - Electrolyte Management in Exercise"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

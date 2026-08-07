@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-167",
+  "title": "Creatine",
+  "subtitle": "Evidence, performance, muscle, aging, dosing, and safety",
+  "domain": "Nutrition",
+  "category": "Supplements",
+  "som_stages": [
+    "all"
+  ],
+  "audience": [
+    "general adult"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "creatine",
+    "muscle performance",
+    "dietary supplement",
+    "aging",
+    "dosing",
+    "safety",
+    "muscle strength",
+    "energy metabolism"
+  ],
+  "related_modules": [
+    "NUT-109 Nutritional Supplements Overview",
+    "EXR-214 Resistance Training Basics",
+    "NUT-172 Protein and Muscle Health",
+    "AGE-301 Healthy Aging Strategies"
+  ],
+  "evidence_strength": "Strong evidence supports creatine's role in enhancing muscle performance and safety in healthy adults; emerging evidence relates to aging and cognitive effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-171",
+  "title": "Nutrition for Healthy Aging",
+  "subtitle": "Protein, micronutrients, energy balance, and preserving function",
+  "domain": "Nutrition",
+  "category": "Life Stage Nutrition",
+  "som_stages": [
+    "Adult",
+    "Older Adult",
+    "Senior"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Nutritionists"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "healthy aging",
+    "protein intake",
+    "micronutrients",
+    "energy balance",
+    "muscle preservation",
+    "bone health",
+    "immune function",
+    "nutrition guidelines"
+  ],
+  "related_modules": [
+    "NUT-120 Nutrition and Chronic Disease Prevention",
+    "EXE-101 Physical Activity for Older Adults",
+    "MET-201 Metabolism and Aging"
+  ],
+  "evidence_strength": "Moderate: Based on current nutrition science and gerontology research with some ongoing areas of active investigation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

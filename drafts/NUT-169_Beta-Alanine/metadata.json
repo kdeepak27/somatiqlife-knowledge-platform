@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-169",
+  "title": "Beta-Alanine",
+  "subtitle": "High-intensity exercise evidence, dosing, and side effects",
+  "domain": "Nutrition",
+  "category": "Supplements",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Monitoring"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Beta-Alanine",
+    "Exercise Performance",
+    "Supplements",
+    "Carnosine",
+    "Muscle Fatigue",
+    "Dosing",
+    "Side Effects"
+  ],
+  "related_modules": [
+    "NUT-087-Creatine",
+    "NUT-092-Caffeine",
+    "PER-045-Muscle-Fatigue",
+    "EXR-110-High-Intensity-Training"
+  ],
+  "evidence_strength": "Moderate evidence from randomized controlled trials supports beta-alanine's role in improving high-intensity exercise performance, with some variability due to individual factors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

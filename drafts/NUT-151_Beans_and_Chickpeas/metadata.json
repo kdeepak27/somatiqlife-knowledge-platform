@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-151",
+  "title": "Beans and Chickpeas",
+  "subtitle": "Protein, fiber, satiety, and cardiometabolic benefits",
+  "domain": "Nutrition",
+  "category": "Staple Foods",
+  "som_stages": [
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "beans",
+    "chickpeas",
+    "plant protein",
+    "dietary fiber",
+    "satiety",
+    "cardiometabolic health",
+    "nutrition",
+    "legumes"
+  ],
+  "related_modules": [
+    "NUT-102-Legumes and Pulses",
+    "NUT-210-Plant-Based Proteins",
+    "NUT-305-Dietary Fiber and Health"
+  ],
+  "evidence_strength": "Moderate evidence from epidemiological and clinical studies supports the role of beans and chickpeas in improving cardiometabolic health and weight management, with practical guidance based on traditional consumption and emerging nutrition science.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
