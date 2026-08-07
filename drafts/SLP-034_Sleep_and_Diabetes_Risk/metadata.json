@@ -1,0 +1,38 @@
+{
+  "module_id": "SLP-034",
+  "title": "Sleep and Diabetes Risk",
+  "subtitle": "How sleep and diabetes risk are connected, what the evidence shows, and what matters in practice.",
+  "domain": "Sleep",
+  "category": "Sleep and Health",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Chronic Condition Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Health Literate Audience)",
+  "keywords": [
+    "Sleep",
+    "Diabetes",
+    "Type 2 Diabetes",
+    "Sleep Duration",
+    "Sleep Quality",
+    "Insulin Resistance",
+    "Glucose Metabolism",
+    "Circadian Rhythm",
+    "Sleep Disorders",
+    "Prediabetes"
+  ],
+  "related_modules": [
+    "SLP-011",
+    "ENDO-022",
+    "CARD-018"
+  ],
+  "evidence_strength": "Established and Emerging Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

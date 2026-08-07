@@ -1,0 +1,36 @@
+{
+  "module_id": "SLP-032",
+  "title": "Sleep and Blood Pressure",
+  "subtitle": "How sleep and blood pressure are connected, what the evidence shows, and what matters in practice.",
+  "domain": "Sleep",
+  "category": "Sleep and Health",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate - General Audience",
+  "keywords": [
+    "Sleep",
+    "Blood Pressure",
+    "Hypertension",
+    "Cardiovascular Health",
+    "Sleep Disorders",
+    "Physiology",
+    "Sleep Quality",
+    "Sleep Duration"
+  ],
+  "related_modules": [
+    "SLP-015",
+    "CVH-044",
+    "SLP-020"
+  ],
+  "evidence_strength": "Established and moderate evidence from epidemiological, clinical, and experimental studies supporting sleep’s role in blood pressure regulation; emerging research on specific mechanisms and interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

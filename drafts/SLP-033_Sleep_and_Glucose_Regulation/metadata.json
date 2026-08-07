@@ -1,0 +1,34 @@
+{
+  "module_id": "SLP-033",
+  "title": "Sleep and Glucose Regulation",
+  "subtitle": "How sleep and glucose regulation are connected, what the evidence shows, and what matters in practice.",
+  "domain": "Sleep",
+  "category": "Sleep and Health",
+  "som_stages": [
+    "Prevention",
+    "Chronic Disease Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Health Care Providers"
+  ],
+  "reading_level": "Moderate (approx. 10th grade)",
+  "keywords": [
+    "Sleep",
+    "Glucose Regulation",
+    "Blood Sugar",
+    "Diabetes",
+    "Insulin",
+    "Metabolism",
+    "Circadian Rhythm",
+    "Sleep Deprivation"
+  ],
+  "related_modules": [
+    "SLP-010",
+    "MET-005"
+  ],
+  "evidence_strength": "Established evidence for associations; moderate evidence from controlled trials; emerging evidence for mechanisms and interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
