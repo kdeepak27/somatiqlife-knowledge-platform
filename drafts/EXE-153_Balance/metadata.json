@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-153",
+  "title": "Balance",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for balance",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Professionals",
+    "Fitness Trainers"
+  ],
+  "reading_level": "Intermediate (General audience with some scientific literacy)",
+  "keywords": [
+    "Balance",
+    "Postural Control",
+    "Equilibrium",
+    "Vestibular System",
+    "Proprioception",
+    "Motor Control",
+    "Stability",
+    "Falls Prevention"
+  ],
+  "related_modules": [
+    "EXE-152: Mobility",
+    "EXE-157: Fall Prevention",
+    "EXE-160: Neuromuscular Control"
+  ],
+  "evidence_strength": "Established evidence supports the effectiveness of balance training for improving postural control and reducing falls, particularly in older adults. Emerging evidence continues to refine optimal protocol design and applicability across populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-154",
+  "title": "Static Balance Training",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for static balance training",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Maintenance",
+    "Enhancement",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "Consumers",
+    "Fitness professionals",
+    "Physical therapists",
+    "Healthcare providers"
+  ],
+  "reading_level": "General audience with some health literacy",
+  "keywords": [
+    "static balance",
+    "balance training",
+    "postural control",
+    "proprioception",
+    "stability exercises",
+    "fall prevention",
+    "neuromuscular control"
+  ],
+  "related_modules": [
+    "EXE-120",
+    "EXE-155",
+    "REH-230"
+  ],
+  "evidence_strength": "Moderate to strong evidence supports static balance training for improving postural stability and fall prevention, especially in older adults. However, evidence is emerging regarding optimal protocols and transfer to dynamic activities.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
