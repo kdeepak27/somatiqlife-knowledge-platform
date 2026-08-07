@@ -1,0 +1,40 @@
+{
+  "module_id": "EXE-210",
+  "title": "Exercise With Joint Pain",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise with joint pain",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers",
+    "Physical Therapists",
+    "Exercise Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Joint Pain",
+    "Exercise",
+    "Physical Activity",
+    "Arthritis",
+    "Inflammation",
+    "Biomechanics",
+    "Exercise Safety",
+    "Pain Management",
+    "Rehabilitation",
+    "Progression"
+  ],
+  "related_modules": [
+    "EXE-105-Physical-Activity-Guidelines",
+    "REH-312-Arthritis-Rehabilitation",
+    "EXE-307-Low-Impact-Exercise-Modalities"
+  ],
+  "evidence_strength": "Established evidence from systematic reviews and randomized controlled trials supporting moderate-intensity exercise for joint pain management with emerging evidence on specific modalities and inflammatory modulation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-209",
+  "title": "Pain During Exercise",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for pain during exercise",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Pre-Exercise",
+    "During Exercise",
+    "Post-Exercise",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Athletes",
+    "Physical Therapists",
+    "Exercise Physiologists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "pain",
+    "exercise pain",
+    "muscle soreness",
+    "injury pain",
+    "nociception",
+    "exercise safety",
+    "pain mechanisms",
+    "exercise progression"
+  ],
+  "related_modules": [
+    "EXE-105",
+    "EXE-212",
+    "PHY-310"
+  ],
+  "evidence_strength": "Established and moderate evidence with some emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

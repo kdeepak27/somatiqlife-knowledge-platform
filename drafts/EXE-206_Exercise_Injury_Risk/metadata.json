@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-206",
+  "title": "Exercise Injury Risk",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise injury risk",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Preparation",
+    "Adaptation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Trainers",
+    "Physical Therapists",
+    "Exercise Scientists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "exercise injury",
+    "injury risk",
+    "sports injury",
+    "overuse injury",
+    "acute injury",
+    "exercise safety",
+    "injury prevention",
+    "biomechanics",
+    "exercise progression"
+  ],
+  "related_modules": [
+    "EXE-102-ExercisePhysiology",
+    "EXE-150-ExerciseTechnique",
+    "EXE-210-ExerciseRehabilitation",
+    "MUS-305-SportsMedicineBasics"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
