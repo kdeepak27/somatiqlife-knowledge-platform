@@ -99,3 +99,253 @@ BIO-097,"Tendons, Ligaments, and Fascia","Force transfer, joint stability, and c
 BIO-098,Movement Control,"Motor units, coordination, balance, and proprioception",Human Biology,Movement Science,draft-generated
 BIO-099,Exercise Adaptation,"How repeated training changes strength, endurance, and function",Human Biology,Exercise Physiology,draft-generated
 BIO-100,Recovery and Physiological Resilience,"How the body repairs, restores, and builds future capacity",Human Biology,Recovery and Adaptation,draft-generated
+NUT-001,Fundamentals of Human Nutrition,"How food, nutrients, and eating patterns support human health",Nutrition,Nutrition Foundations,pending
+NUT-002,Nutrients and Energy Balance,"How energy intake, expenditure, and nutrient needs interact",Nutrition,Nutrition Foundations,pending
+NUT-003,Macronutrients Overview,"Carbohydrate, protein, fat, and their major physiological roles",Nutrition,Macronutrients,pending
+NUT-004,Carbohydrates,"Structure, digestion, absorption, metabolism, and dietary sources",Nutrition,Macronutrients,pending
+NUT-005,Dietary Fiber,"Soluble and insoluble fiber, gut health, satiety, and cardiometabolic effects",Nutrition,Macronutrients,pending
+NUT-006,Sugars,"Natural sugars, added sugars, metabolism, and health implications",Nutrition,Macronutrients,pending
+NUT-007,Starches,"Digestible starch, resistant starch, food structure, and metabolic effects",Nutrition,Macronutrients,pending
+NUT-008,Protein,"Amino acids, digestion, synthesis, turnover, and dietary needs",Nutrition,Macronutrients,pending
+NUT-009,Essential Amino Acids,Why certain amino acids must come from the diet,Nutrition,Macronutrients,pending
+NUT-010,Protein Quality,"Digestibility, amino-acid profile, and complementary proteins",Nutrition,Macronutrients,pending
+NUT-011,Protein Distribution Across the Day,"Meal-by-meal protein intake, muscle protein synthesis, and practical planning",Nutrition,Macronutrients,pending
+NUT-012,Dietary Fat,"Digestion, absorption, storage, signaling, and energy metabolism",Nutrition,Macronutrients,pending
+NUT-013,Saturated Fat,"Food sources, physiology, LDL cholesterol, and cardiovascular evidence",Nutrition,Macronutrients,pending
+NUT-014,Monounsaturated Fat,"Food sources, metabolism, and cardiometabolic health",Nutrition,Macronutrients,pending
+NUT-015,Polyunsaturated Fat,Omega-3 and omega-6 fats and their biological roles,Nutrition,Macronutrients,pending
+NUT-016,Trans Fat,Industrial and naturally occurring trans fats and health risks,Nutrition,Macronutrients,pending
+NUT-017,Omega-3 Fatty Acids,"ALA, EPA, DHA, dietary sources, and evidence-based health effects",Nutrition,Macronutrients,pending
+NUT-018,Omega-6 Fatty Acids,"Linoleic acid, arachidonic acid, dietary balance, and inflammation myths",Nutrition,Macronutrients,pending
+NUT-019,Cholesterol in Food,"Dietary cholesterol, blood cholesterol, and individual response",Nutrition,Macronutrients,pending
+NUT-020,Water,"Hydration, fluid balance, and the role of water in physiology",Nutrition,Hydration,pending
+NUT-021,Electrolytes,"Sodium, potassium, chloride, magnesium, and fluid balance",Nutrition,Hydration,pending
+NUT-022,Energy Density,"Calories per gram, food volume, satiety, and weight management",Nutrition,Nutrition Foundations,pending
+NUT-023,Nutrient Density,How to evaluate foods by nutrient value relative to energy,Nutrition,Nutrition Foundations,pending
+NUT-024,Bioavailability,Why the amount of a nutrient eaten differs from the amount absorbed,Nutrition,Nutrition Foundations,pending
+NUT-025,Nutrient Interactions,How nutrients enhance or inhibit one another's absorption and function,Nutrition,Nutrition Foundations,pending
+NUT-026,Vitamins Overview,"Fat-soluble and water-soluble vitamins, functions, deficiency, and excess",Nutrition,Micronutrients,pending
+NUT-027,Vitamin A,"Retinoids, carotenoids, vision, immunity, and deficiency",Nutrition,Micronutrients,pending
+NUT-028,Vitamin B1 Thiamin,"Energy metabolism, nervous-system function, and deficiency",Nutrition,Micronutrients,pending
+NUT-029,Vitamin B2 Riboflavin,"Redox metabolism, energy production, and dietary sources",Nutrition,Micronutrients,pending
+NUT-030,Vitamin B3 Niacin,"NAD metabolism, energy production, and deficiency",Nutrition,Micronutrients,pending
+NUT-031,Vitamin B5 Pantothenic Acid,"Coenzyme A, metabolism, and dietary sources",Nutrition,Micronutrients,pending
+NUT-032,Vitamin B6,"Amino-acid metabolism, neurotransmitters, blood formation, and deficiency",Nutrition,Micronutrients,pending
+NUT-033,Biotin,"Carboxylation reactions, metabolism, deficiency, and supplement claims",Nutrition,Micronutrients,pending
+NUT-034,Folate,"One-carbon metabolism, DNA synthesis, pregnancy, and deficiency",Nutrition,Micronutrients,pending
+NUT-035,Vitamin B12,"Neurological function, blood formation, absorption, and deficiency risk",Nutrition,Micronutrients,pending
+NUT-036,Vitamin C,"Collagen, antioxidant function, iron absorption, and deficiency",Nutrition,Micronutrients,pending
+NUT-037,Vitamin D,"Calcium regulation, bone health, deficiency, and supplementation",Nutrition,Micronutrients,pending
+NUT-038,Vitamin E,"Antioxidant function, food sources, and supplementation evidence",Nutrition,Micronutrients,pending
+NUT-039,Vitamin K,"Blood clotting, bone metabolism, food sources, and medication interactions",Nutrition,Micronutrients,pending
+NUT-040,Choline,"Cell membranes, methyl metabolism, liver health, and dietary needs",Nutrition,Micronutrients,pending
+NUT-041,Minerals Overview,"Major and trace minerals, functions, deficiency, and excess",Nutrition,Micronutrients,pending
+NUT-042,Calcium,"Bone, muscle, nerve function, absorption, and dietary requirements",Nutrition,Micronutrients,pending
+NUT-043,Iron,"Heme and non-heme iron, oxygen transport, deficiency, and overload",Nutrition,Micronutrients,pending
+NUT-044,Magnesium,"Enzyme function, muscle, nerve, glucose regulation, and dietary intake",Nutrition,Micronutrients,pending
+NUT-045,Potassium,"Fluid balance, blood pressure, nerve signaling, and food sources",Nutrition,Micronutrients,pending
+NUT-046,Sodium,"Fluid balance, blood pressure, dietary sources, and recommended limits",Nutrition,Micronutrients,pending
+NUT-047,Zinc,"Immunity, wound healing, growth, and deficiency",Nutrition,Micronutrients,pending
+NUT-048,Selenium,"Selenoproteins, thyroid function, antioxidant defense, and excess",Nutrition,Micronutrients,pending
+NUT-049,Iodine,"Thyroid hormone synthesis, dietary sources, and deficiency",Nutrition,Micronutrients,pending
+NUT-050,Copper,"Iron metabolism, connective tissue, nervous-system function, and deficiency",Nutrition,Micronutrients,pending
+NUT-051,Manganese,"Enzyme function, metabolism, and dietary sources",Nutrition,Micronutrients,pending
+NUT-052,Phosphorus,"Bone, ATP, cell membranes, and phosphate balance",Nutrition,Micronutrients,pending
+NUT-053,Chromium,"Glucose metabolism, dietary sources, and supplement evidence",Nutrition,Micronutrients,pending
+NUT-054,Molybdenum,"Enzyme cofactors, dietary sources, and deficiency",Nutrition,Micronutrients,pending
+NUT-055,Chloride,"Fluid balance, stomach acid, and dietary sources",Nutrition,Micronutrients,pending
+NUT-056,Fluoride,"Dental health, bone exposure, dietary sources, and safety",Nutrition,Micronutrients,pending
+NUT-057,Micronutrient Deficiency,"How deficiencies develop, present, and are assessed",Nutrition,Micronutrients,pending
+NUT-058,Micronutrient Excess and Toxicity,When excessive intake becomes harmful,Nutrition,Micronutrients,pending
+NUT-059,Multivitamins,What multivitamins can and cannot do for healthy adults,Nutrition,Supplements,pending
+NUT-060,Micronutrient Needs Across Adulthood,"How age, sex, and life stage alter nutrient requirements",Nutrition,Micronutrients,pending
+NUT-061,Digestion Overview,How the gastrointestinal tract breaks down food and prepares nutrients for absorption,Nutrition,Digestion,pending
+NUT-062,Carbohydrate Digestion and Absorption,"From starch and sugars to glucose, fructose, and galactose",Nutrition,Digestion,pending
+NUT-063,Protein Digestion and Absorption,From dietary proteins to amino acids and peptides,Nutrition,Digestion,pending
+NUT-064,Fat Digestion and Absorption,"Bile, lipases, micelles, chylomicrons, and fat transport",Nutrition,Digestion,pending
+NUT-065,Vitamin and Mineral Absorption,Where and how key micronutrients enter the body,Nutrition,Digestion,pending
+NUT-066,The Gut Microbiome and Nutrition,How diet shapes the microbiome and microbial metabolites,Nutrition,Gut Nutrition,pending
+NUT-067,Prebiotics,"Fermentable substrates, gut microbes, and food sources",Nutrition,Gut Nutrition,pending
+NUT-068,Probiotics,"Live microorganisms, strain specificity, evidence, and limitations",Nutrition,Gut Nutrition,pending
+NUT-069,Postbiotics,"Microbial products, emerging evidence, and practical relevance",Nutrition,Gut Nutrition,pending
+NUT-070,Fermented Foods,"Yogurt, kefir, kimchi, and other fermented foods in healthy diets",Nutrition,Gut Nutrition,pending
+NUT-071,Short-Chain Fatty Acids,"Acetate, propionate, butyrate, and intestinal health",Nutrition,Gut Nutrition,pending
+NUT-072,Metabolism Overview,"How the body processes carbohydrate, fat, protein, and alcohol",Nutrition,Metabolism,pending
+NUT-073,Basal Metabolic Rate,What determines resting energy expenditure,Nutrition,Metabolism,pending
+NUT-074,Total Daily Energy Expenditure,"Resting metabolism, activity, exercise, and thermic effect of food",Nutrition,Metabolism,pending
+NUT-075,Thermic Effect of Food,How digestion and nutrient processing affect energy expenditure,Nutrition,Metabolism,pending
+NUT-076,Metabolic Adaptation During Weight Loss,Why energy expenditure changes during calorie restriction,Nutrition,Weight Management,pending
+NUT-077,Metabolic Flexibility,Switching between carbohydrate and fat as fuels,Nutrition,Metabolism,pending
+NUT-078,Blood Glucose Regulation,"How meals, liver, insulin, and activity regulate glucose",Nutrition,Metabolism,pending
+NUT-079,Insulin,"How insulin regulates glucose uptake, storage, and metabolism",Nutrition,Metabolism,pending
+NUT-080,Glucagon,How glucagon helps maintain blood glucose between meals,Nutrition,Metabolism,pending
+NUT-081,Hunger and Satiety,Biological and behavioral regulation of eating,Nutrition,Appetite,pending
+NUT-082,Leptin,"Adipose signaling, appetite regulation, and energy balance",Nutrition,Appetite,pending
+NUT-083,Ghrelin,Meal-related hunger signaling and appetite regulation,Nutrition,Appetite,pending
+NUT-084,GLP-1 and Other Gut Hormones,"Gut-brain signaling, satiety, glucose regulation, and medication relevance",Nutrition,Appetite,pending
+NUT-085,Food Reward and Cravings,"How taste, learning, environment, and brain reward influence eating",Nutrition,Appetite,pending
+NUT-086,Dietary Patterns,Why overall eating patterns matter more than single foods,Nutrition,Diet Quality,pending
+NUT-087,Whole Foods,Minimally processed foods and their role in a healthy diet,Nutrition,Diet Quality,pending
+NUT-088,Food Processing,From minimal processing to ultra-processing and why degree matters,Nutrition,Diet Quality,pending
+NUT-089,Ultra-Processed Foods,"Definitions, health associations, and practical ways to reduce intake",Nutrition,Diet Quality,pending
+NUT-090,Food Additives,"Preservatives, emulsifiers, colors, sweeteners, and evidence-based safety",Nutrition,Food Science,pending
+NUT-091,Food Labels,How to read Nutrition Facts and ingredient lists,Nutrition,Practical Nutrition,pending
+NUT-092,Serving Sizes,"Label serving sizes, portions, and real-world intake",Nutrition,Practical Nutrition,pending
+NUT-093,Portion Control,Practical approaches to moderating energy intake without excessive restriction,Nutrition,Practical Nutrition,pending
+NUT-094,Meal Planning,"How to build balanced meals for health, convenience, and consistency",Nutrition,Practical Nutrition,pending
+NUT-095,Healthy Grocery Shopping,Building a nutrient-dense cart while managing cost and convenience,Nutrition,Practical Nutrition,pending
+NUT-096,Healthy Cooking Methods,How preparation methods affect nutrient quality and energy density,Nutrition,Practical Nutrition,pending
+NUT-097,Meal Prep,Preparing food efficiently for consistency and portion management,Nutrition,Practical Nutrition,pending
+NUT-098,Eating Out,How to make healthier choices in restaurants without rigid restriction,Nutrition,Practical Nutrition,pending
+NUT-099,Takeout and Delivery,"Managing portions, calories, sodium, and food quality",Nutrition,Practical Nutrition,pending
+NUT-100,Snacking,"When snacks help, when they hinder, and how to build better options",Nutrition,Practical Nutrition,pending
+NUT-101,Breakfast,"Evidence, meal composition, and whether breakfast is necessary",Nutrition,Meal Patterns,pending
+NUT-102,Lunch,Building balanced midday meals for energy and satiety,Nutrition,Meal Patterns,pending
+NUT-103,Dinner,"Meal composition, timing, and practical considerations",Nutrition,Meal Patterns,pending
+NUT-104,Desserts,Enjoying sweets within a sustainable healthy eating pattern,Nutrition,Meal Patterns,pending
+NUT-105,Healthy Beverages,"Water, tea, coffee, milk, and other beverages in the diet",Nutrition,Beverages,pending
+NUT-106,Sugar-Sweetened Beverages,"Calories, metabolic health, and strategies to reduce intake",Nutrition,Beverages,pending
+NUT-107,Coffee,"Caffeine, health effects, preparation, and individual tolerance",Nutrition,Beverages,pending
+NUT-108,Tea,"Tea types, bioactive compounds, caffeine, and health evidence",Nutrition,Beverages,pending
+NUT-109,Energy Drinks,"Caffeine, sugar, performance claims, and safety",Nutrition,Beverages,pending
+NUT-110,Alcohol and Nutrition,"Calories, nutrient effects, health risk, and current guidance",Nutrition,Beverages,pending
+NUT-111,Artificial and Non-Nutritive Sweeteners,"Aspartame, sucralose, stevia, and evidence on health outcomes",Nutrition,Food Science,pending
+NUT-112,Sugar Alcohols,"Erythritol, xylitol, sorbitol, digestion, and safety",Nutrition,Food Science,pending
+NUT-113,Salt and Sodium Reduction,Practical strategies for reducing sodium while preserving flavor,Nutrition,Practical Nutrition,pending
+NUT-114,Added Sugar Reduction,Finding hidden sugars and reducing intake sustainably,Nutrition,Practical Nutrition,pending
+NUT-115,Mindful Eating,"Attention, hunger cues, eating pace, and reducing automatic eating",Nutrition,Eating Behavior,pending
+NUT-116,Intuitive Eating,"Principles, evidence, strengths, and limitations",Nutrition,Eating Behavior,pending
+NUT-117,Emotional Eating,"Stress, emotions, learned behavior, and practical coping strategies",Nutrition,Eating Behavior,pending
+NUT-118,Eating Speed,"Meal pace, satiety, digestion, and energy intake",Nutrition,Eating Behavior,pending
+NUT-119,Food Environment,"How home, work, advertising, and availability shape eating behavior",Nutrition,Eating Behavior,pending
+NUT-120,Building Sustainable Eating Habits,How small repeatable behaviors create long-term dietary change,Nutrition,Eating Behavior,pending
+NUT-121,Mediterranean Diet,"Core foods, evidence, cardiovascular health, and practical implementation",Nutrition,Dietary Patterns,pending
+NUT-122,DASH Diet,Dietary approaches to blood pressure reduction,Nutrition,Dietary Patterns,pending
+NUT-123,Plant-Forward Eating,Increasing plant foods without requiring strict vegetarianism,Nutrition,Dietary Patterns,pending
+NUT-124,Vegetarian Nutrition,Meeting nutrient needs without meat or fish,Nutrition,Dietary Patterns,pending
+NUT-125,Vegan Nutrition,Nutrient planning and supplementation in fully plant-based diets,Nutrition,Dietary Patterns,pending
+NUT-126,Flexitarian Eating,A flexible approach to increasing plant foods while retaining animal foods,Nutrition,Dietary Patterns,pending
+NUT-127,Low-Carbohydrate Diets,"Definitions, metabolic effects, benefits, limitations, and adherence",Nutrition,Dietary Patterns,pending
+NUT-128,Ketogenic Diet,"Ketosis, clinical uses, weight loss, safety, and sustainability",Nutrition,Dietary Patterns,pending
+NUT-129,Low-Fat Diets,"Definitions, evidence, food quality, and cardiometabolic effects",Nutrition,Dietary Patterns,pending
+NUT-130,High-Protein Diets,"Satiety, muscle preservation, weight management, and safety",Nutrition,Dietary Patterns,pending
+NUT-131,Intermittent Fasting,"Common fasting patterns, evidence, benefits, and limitations",Nutrition,Meal Timing,pending
+NUT-132,Time-Restricted Eating,"Daily eating windows, circadian biology, and metabolic evidence",Nutrition,Meal Timing,pending
+NUT-133,Alternate-Day Fasting,"Evidence, adherence, safety, and weight-management outcomes",Nutrition,Meal Timing,pending
+NUT-134,Meal Frequency,"Two meals, three meals, grazing, and metabolic implications",Nutrition,Meal Timing,pending
+NUT-135,Early vs Late Eating,"Circadian timing, glucose control, appetite, and sleep",Nutrition,Meal Timing,pending
+NUT-136,Mediterranean-Style South Asian Eating,Adapting Mediterranean principles to South Asian foods and flavors,Nutrition,Cultural Nutrition,pending
+NUT-137,Traditional Indian Dietary Patterns,"Regional diversity, strengths, and nutritional challenges",Nutrition,Cultural Nutrition,pending
+NUT-138,North Indian Nutrition,"Common foods, meal patterns, and healthier modifications",Nutrition,Cultural Nutrition,pending
+NUT-139,South Indian Nutrition,"Common foods, meal patterns, and healthier modifications",Nutrition,Cultural Nutrition,pending
+NUT-140,Gujarati Nutrition,"Traditional foods, vegetarian patterns, and cardiometabolic considerations",Nutrition,Cultural Nutrition,pending
+NUT-141,Punjabi Nutrition,"Traditional foods, protein, dairy, fats, and practical modifications",Nutrition,Cultural Nutrition,pending
+NUT-142,Bengali Nutrition,"Rice, fish, sweets, vegetables, and balanced meal planning",Nutrition,Cultural Nutrition,pending
+NUT-143,Maharashtrian Nutrition,"Traditional foods, grains, legumes, and practical healthy eating",Nutrition,Cultural Nutrition,pending
+NUT-144,South Asian Vegetarian Diets,"Protein, B12, iron, calcium, and healthy meal construction",Nutrition,Cultural Nutrition,pending
+NUT-145,Indian Restaurant Eating,"Navigating restaurant menus, portions, oils, breads, rice, and sauces",Nutrition,Cultural Nutrition,pending
+NUT-146,Indian Snacks and Street Foods,"Energy density, fried foods, portions, and healthier alternatives",Nutrition,Cultural Nutrition,pending
+NUT-147,Indian Sweets and Desserts,"Sugar, fat, portions, celebrations, and sustainable moderation",Nutrition,Cultural Nutrition,pending
+NUT-148,Rice in a Healthy Diet,"White, brown, basmati, portions, glycemic response, and meal pairing",Nutrition,Staple Foods,pending
+NUT-149,"Roti, Chapati, and Flatbreads","Whole grains, portions, preparation, and meal balance",Nutrition,Staple Foods,pending
+NUT-150,Dal and Lentils,"Protein, fiber, micronutrients, digestion, and practical use",Nutrition,Staple Foods,pending
+NUT-151,Beans and Chickpeas,"Protein, fiber, satiety, and cardiometabolic benefits",Nutrition,Staple Foods,pending
+NUT-152,Dairy in South Asian Diets,"Milk, yogurt, paneer, ghee, nutrients, and portion considerations",Nutrition,Cultural Nutrition,pending
+NUT-153,Ghee,"Fat composition, culinary use, health evidence, and portion control",Nutrition,Cultural Nutrition,pending
+NUT-154,Spices and Herbs,"Flavor, phytochemicals, health claims, and realistic benefits",Nutrition,Food Science,pending
+NUT-155,Healthy Indian Meal Construction,Building balanced Indian meals using familiar foods,Nutrition,Cultural Nutrition,pending
+NUT-156,Nutrition for Weight Management,"Energy balance, satiety, food quality, and sustainable behavior change",Nutrition,Weight Management,pending
+NUT-157,Nutrition for Fat Loss,Preserving muscle while creating a sustainable calorie deficit,Nutrition,Weight Management,pending
+NUT-158,Nutrition for Weight Gain,Increasing body weight with nutrient-dense food and appropriate surplus,Nutrition,Weight Management,pending
+NUT-159,Nutrition for Muscle Gain,"Protein, calories, carbohydrate, and training support",Nutrition,Sports Nutrition,pending
+NUT-160,Nutrition for Strength Training,"Fueling resistance exercise, recovery, and adaptation",Nutrition,Sports Nutrition,pending
+NUT-161,Nutrition for Endurance Exercise,"Carbohydrate, hydration, fueling, and recovery",Nutrition,Sports Nutrition,pending
+NUT-162,Pre-Workout Nutrition,What and when to eat before exercise,Nutrition,Sports Nutrition,pending
+NUT-163,Post-Workout Nutrition,"Protein, carbohydrate, fluids, and recovery timing",Nutrition,Sports Nutrition,pending
+NUT-164,Hydration for Exercise,"Fluid needs, sweat losses, electrolytes, and heat",Nutrition,Sports Nutrition,pending
+NUT-165,Sports Drinks,"Carbohydrate-electrolyte beverages, use cases, and limitations",Nutrition,Sports Nutrition,pending
+NUT-166,Protein Supplements,"Whey, casein, plant proteins, quality, dosing, and safety",Nutrition,Supplements,pending
+NUT-167,Creatine,"Evidence, performance, muscle, aging, dosing, and safety",Nutrition,Supplements,pending
+NUT-168,Caffeine for Performance,"Performance effects, dosing, tolerance, sleep, and safety",Nutrition,Supplements,pending
+NUT-169,Beta-Alanine,"High-intensity exercise evidence, dosing, and side effects",Nutrition,Supplements,pending
+NUT-170,Nitrate and Beetroot,"Nitric oxide, endurance performance, evidence, and practical use",Nutrition,Supplements,pending
+NUT-171,Nutrition for Healthy Aging,"Protein, micronutrients, energy balance, and preserving function",Nutrition,Life Stage Nutrition,pending
+NUT-172,Protein Needs in Older Adults,"Protein quantity, quality, distribution, and muscle preservation",Nutrition,Life Stage Nutrition,pending
+NUT-173,Nutrition for Bone Health,"Calcium, vitamin D, protein, and other dietary factors",Nutrition,Life Stage Nutrition,pending
+NUT-174,Nutrition for Brain Health,"Dietary patterns, vascular health, and cognitive aging",Nutrition,Life Stage Nutrition,pending
+NUT-175,Nutrition During Menopause,"Body composition, bone, cardiometabolic health, and symptom considerations",Nutrition,Life Stage Nutrition,pending
+NUT-176,Nutrition for Men Over 40,"Protein, cardiometabolic health, body composition, and aging",Nutrition,Life Stage Nutrition,pending
+NUT-177,Nutrition for Women Over 40,"Protein, iron, calcium, cardiometabolic health, and menopause transition",Nutrition,Life Stage Nutrition,pending
+NUT-178,Nutrition During Pregnancy,"Energy, protein, folate, iron, iodine, safety, and weight gain",Nutrition,Life Stage Nutrition,pending
+NUT-179,Nutrition During Breastfeeding,"Energy needs, hydration, nutrient adequacy, and infant considerations",Nutrition,Life Stage Nutrition,pending
+NUT-180,Nutrition for Children,"Growth, nutrient density, meal patterns, and healthy eating development",Nutrition,Life Stage Nutrition,pending
+NUT-181,Nutrition for Adolescents,"Growth, bone, iron, protein, sports, and eating behaviors",Nutrition,Life Stage Nutrition,pending
+NUT-182,Nutrition for College Students,"Budget, convenience, meal planning, and healthy independence",Nutrition,Life Stage Nutrition,pending
+NUT-183,Nutrition for Shift Workers,"Meal timing, circadian disruption, caffeine, and metabolic health",Nutrition,Life Stage Nutrition,pending
+NUT-184,Nutrition for Travelers,"Hydration, food safety, meal timing, and maintaining routines",Nutrition,Practical Nutrition,pending
+NUT-185,Nutrition During Illness and Recovery,"Energy, protein, hydration, and supporting recovery",Nutrition,Clinical Nutrition,pending
+NUT-186,Nutrition After Surgery,"Protein, energy, micronutrients, appetite, and recovery",Nutrition,Clinical Nutrition,pending
+NUT-187,Nutrition for Wound Healing,"Protein, calories, vitamin C, zinc, and clinical considerations",Nutrition,Clinical Nutrition,pending
+NUT-188,Nutrition and Sleep,"Meal timing, caffeine, alcohol, and dietary patterns that affect sleep",Nutrition,Lifestyle Nutrition,pending
+NUT-189,Nutrition and Stress,"Stress eating, cortisol, appetite, and practical dietary strategies",Nutrition,Lifestyle Nutrition,pending
+NUT-190,Nutrition and Mood,"Diet quality, nutrient adequacy, gut-brain pathways, and evidence",Nutrition,Lifestyle Nutrition,pending
+NUT-191,Nutrition for Prediabetes,"Weight management, carbohydrate quality, fiber, and glucose control",Nutrition,Condition Nutrition,pending
+NUT-192,Nutrition for Type 2 Diabetes,"Meal planning, carbohydrate management, medications, and glycemic control",Nutrition,Condition Nutrition,pending
+NUT-193,Nutrition for Insulin Resistance,"Energy balance, activity, carbohydrate quality, and weight management",Nutrition,Condition Nutrition,pending
+NUT-194,Nutrition for Metabolic Syndrome,"Weight, blood pressure, lipids, glucose, and dietary patterns",Nutrition,Condition Nutrition,pending
+NUT-195,Nutrition for High Blood Pressure,"Sodium, potassium, DASH-style eating, weight, and alcohol",Nutrition,Condition Nutrition,pending
+NUT-196,Nutrition for High LDL Cholesterol,"Saturated fat, soluble fiber, plant sterols, and dietary patterns",Nutrition,Condition Nutrition,pending
+NUT-197,Nutrition for High Triglycerides,"Alcohol, refined carbohydrate, weight, omega-3s, and metabolic health",Nutrition,Condition Nutrition,pending
+NUT-198,Nutrition for Cardiovascular Health,"Dietary patterns, fats, fiber, sodium, and overall risk reduction",Nutrition,Condition Nutrition,pending
+NUT-199,Nutrition After a Heart Attack,"Heart-healthy eating, rehabilitation, medications, and secondary prevention",Nutrition,Condition Nutrition,pending
+NUT-200,Nutrition for Fatty Liver Disease,"Weight loss, diet quality, sugar, alcohol, and metabolic health",Nutrition,Condition Nutrition,pending
+NUT-201,Nutrition for Chronic Kidney Disease,"Protein, sodium, potassium, phosphorus, and individualized care",Nutrition,Condition Nutrition,pending
+NUT-202,Nutrition for Kidney Stones,"Fluid, sodium, calcium, oxalate, citrate, and stone type",Nutrition,Condition Nutrition,pending
+NUT-203,Nutrition for Gout,"Purines, alcohol, fructose, weight, hydration, and medication context",Nutrition,Condition Nutrition,pending
+NUT-204,Nutrition for Osteoporosis,"Calcium, vitamin D, protein, and bone-supportive eating",Nutrition,Condition Nutrition,pending
+NUT-205,Nutrition for Osteoarthritis,"Weight management, diet quality, inflammation claims, and joint health",Nutrition,Condition Nutrition,pending
+NUT-206,Nutrition for Constipation,"Fiber, fluids, activity, bowel habits, and escalation of care",Nutrition,Condition Nutrition,pending
+NUT-207,Nutrition for Diarrhea,"Hydration, food tolerance, causes, and when to seek care",Nutrition,Condition Nutrition,pending
+NUT-208,Nutrition for GERD and Acid Reflux,"Meal size, timing, triggers, weight, and evidence-based management",Nutrition,Condition Nutrition,pending
+NUT-209,Nutrition for Irritable Bowel Syndrome,"FODMAPs, fiber, triggers, gut-brain factors, and dietitian guidance",Nutrition,Condition Nutrition,pending
+NUT-210,Low-FODMAP Diet,"Elimination, reintroduction, personalization, and nutritional risks",Nutrition,Condition Nutrition,pending
+NUT-211,Nutrition for Celiac Disease,"Gluten avoidance, cross-contact, deficiencies, and balanced gluten-free eating",Nutrition,Condition Nutrition,pending
+NUT-212,Gluten-Free Diets Without Celiac Disease,"Evidence, misconceptions, nutritional tradeoffs, and who may benefit",Nutrition,Dietary Patterns,pending
+NUT-213,Lactose Intolerance,"Lactose digestion, symptoms, dairy alternatives, and nutrient adequacy",Nutrition,Condition Nutrition,pending
+NUT-214,Food Allergies,"Immune reactions, avoidance, labeling, cross-contact, and emergency safety",Nutrition,Condition Nutrition,pending
+NUT-215,Food Intolerances,"Non-immune reactions, common triggers, and avoiding unnecessary restriction",Nutrition,Condition Nutrition,pending
+NUT-216,Nutrition for Anemia,"Iron, B12, folate, diagnosis, and food-based strategies",Nutrition,Condition Nutrition,pending
+NUT-217,Nutrition for Hypothyroidism,"Iodine, selenium, medication timing, and evidence-based expectations",Nutrition,Condition Nutrition,pending
+NUT-218,Nutrition for PCOS,"Weight management, insulin resistance, diet quality, and sustainable patterns",Nutrition,Condition Nutrition,pending
+NUT-219,Nutrition for Cancer Prevention,"Dietary patterns, body weight, alcohol, fiber, and evidence-based risk reduction",Nutrition,Condition Nutrition,pending
+NUT-220,Nutrition During Cancer Treatment,"Managing appetite, weight, symptoms, safety, and individualized care",Nutrition,Clinical Nutrition,pending
+NUT-221,Nutrition for Cognitive Health,"Mediterranean and MIND-style patterns, vascular risk, and aging",Nutrition,Condition Nutrition,pending
+NUT-222,Nutrition for Depression and Anxiety,"Diet quality, deficiencies, evidence, and limits of nutritional treatment",Nutrition,Condition Nutrition,pending
+NUT-223,Nutrition for Migraine,"Hydration, caffeine, meal regularity, triggers, and evidence",Nutrition,Condition Nutrition,pending
+NUT-224,Nutrition for Autoimmune Disease,"Diet quality, deficiencies, elimination diets, and evidence limitations",Nutrition,Condition Nutrition,pending
+NUT-225,Nutrition and Chronic Inflammation,"Dietary patterns, adiposity, fiber, fats, and inflammation biomarkers",Nutrition,Condition Nutrition,pending
+NUT-226,Dietary Supplements Overview,"How supplements are regulated, evaluated, and used safely",Nutrition,Supplements,pending
+NUT-227,Vitamin D Supplements,"Who may need them, dosing principles, testing, and safety",Nutrition,Supplements,pending
+NUT-228,Vitamin B12 Supplements,"Deficiency risk, forms, dosing, absorption, and safety",Nutrition,Supplements,pending
+NUT-229,Iron Supplements,"Indications, dosing, absorption, side effects, and toxicity risk",Nutrition,Supplements,pending
+NUT-230,Magnesium Supplements,"Forms, evidence, dosing, gastrointestinal effects, and kidney considerations",Nutrition,Supplements,pending
+NUT-231,Calcium Supplements,"When they may help, food-first approaches, dosing, and safety",Nutrition,Supplements,pending
+NUT-232,Omega-3 Supplements,"Fish oil, EPA, DHA, triglycerides, cardiovascular evidence, and safety",Nutrition,Supplements,pending
+NUT-233,Fiber Supplements,"Psyllium, inulin, methylcellulose, benefits, dosing, and tolerance",Nutrition,Supplements,pending
+NUT-234,Probiotic Supplements,"Strain specificity, evidence, storage, and appropriate use",Nutrition,Supplements,pending
+NUT-235,Herbal Supplements,"Evidence, variability, interactions, contamination, and safety",Nutrition,Supplements,pending
+NUT-236,Supplement-Drug Interactions,How supplements can alter medication effects and safety,Nutrition,Supplements,pending
+NUT-237,Evaluating Supplement Claims,How to distinguish evidence from marketing,Nutrition,Nutrition Literacy,pending
+NUT-238,Nutrition Research Basics,"Study designs, endpoints, bias, confounding, and causal inference",Nutrition,Nutrition Literacy,pending
+NUT-239,Understanding Nutrition Headlines,How to interpret dramatic claims and conflicting nutrition news,Nutrition,Nutrition Literacy,pending
+NUT-240,Correlation vs Causation in Nutrition,Why observational associations do not automatically prove cause,Nutrition,Nutrition Literacy,pending
+NUT-241,Randomized Nutrition Trials,What randomized trials can and cannot tell us about diet,Nutrition,Nutrition Literacy,pending
+NUT-242,Nutrition Epidemiology,How population studies contribute to dietary guidance,Nutrition,Nutrition Literacy,pending
+NUT-243,Systematic Reviews and Meta-Analyses in Nutrition,How evidence is combined and where pooled results can mislead,Nutrition,Nutrition Literacy,pending
+NUT-244,Dietary Guidelines,How national dietary recommendations are developed and used,Nutrition,Nutrition Policy,pending
+NUT-245,Recommended Dietary Allowances and Daily Values,"RDA, AI, UL, DV, and how to interpret nutrient targets",Nutrition,Nutrition Policy,pending
+NUT-246,Food Safety at Home,"Storage, cooking temperatures, cross-contamination, and leftovers",Nutrition,Food Safety,pending
+NUT-247,Foodborne Illness,"Common pathogens, symptoms, prevention, and when to seek care",Nutrition,Food Safety,pending
+NUT-248,Healthy Eating on a Budget,"Nutrient density, planning, staples, and reducing food waste",Nutrition,Practical Nutrition,pending
+NUT-249,Healthy Eating for Busy Professionals,"Convenience strategies, meal structure, travel, and consistency",Nutrition,Practical Nutrition,pending
+NUT-250,Building a Sustainable Healthy Eating Pattern,Integrating nutrition science into a flexible lifelong approach,Nutrition,Nutrition Foundations,pending
