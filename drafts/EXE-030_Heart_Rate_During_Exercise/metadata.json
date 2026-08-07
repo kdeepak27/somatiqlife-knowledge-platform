@@ -1,0 +1,35 @@
+{
+  "module_id": "EXE-030",
+  "title": "Heart Rate During Exercise",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for heart rate during exercise",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Preparation",
+    "Conditioning",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Fitness Trainers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "heart rate",
+    "exercise",
+    "aerobic training",
+    "target heart rate",
+    "cardiovascular fitness",
+    "exercise intensity",
+    "heart rate variability"
+  ],
+  "related_modules": [
+    "EXE-010",
+    "EXE-025",
+    "EXE-040"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging areas (heart rate variability)",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
