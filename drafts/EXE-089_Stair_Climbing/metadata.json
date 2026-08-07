@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-089",
+  "title": "Stair Climbing",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for stair climbing",
+  "domain": "Exercise",
+  "category": "Walking and Endurance Modes",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Physical Therapists",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stair climbing",
+    "exercise",
+    "aerobic",
+    "muscle strength",
+    "endurance",
+    "cardiovascular health",
+    "physical activity",
+    "rehabilitation"
+  ],
+  "related_modules": [
+    "EXE-023-EnduranceTraining",
+    "EXE-045-WalkingExercise",
+    "EXE-034-FunctionalMobility"
+  ],
+  "evidence_strength": "Established and emerging evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
