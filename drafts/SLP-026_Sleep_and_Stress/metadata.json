@@ -1,0 +1,34 @@
+{
+  "module_id": "SLP-026",
+  "title": "Sleep and Stress",
+  "subtitle": "How sleep and stress are connected, what the evidence shows, and what matters in practice.",
+  "domain": "Sleep",
+  "category": "Sleep and Health",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "General Public"
+  ],
+  "reading_level": "Intermediate (8th-10th grade)",
+  "keywords": [
+    "sleep",
+    "stress",
+    "cortisol",
+    "insomnia",
+    "circadian rhythm",
+    "sleep quality",
+    "stress hormones",
+    "HPA axis"
+  ],
+  "related_modules": [
+    "SLP-010",
+    "SLP-015",
+    "SLP-023"
+  ],
+  "evidence_strength": "Established evidence supports the bidirectional relationship between sleep and stress. Moderate evidence exists for effectiveness of behavioral interventions on improving both. Emerging research continues to explore individual variability and neurobiological mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

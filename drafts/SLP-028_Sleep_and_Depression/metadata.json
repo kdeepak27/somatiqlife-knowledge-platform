@@ -1,0 +1,38 @@
+{
+  "module_id": "SLP-028",
+  "title": "Sleep and Depression",
+  "subtitle": "How sleep and depression are connected, what the evidence shows, and what matters in practice.",
+  "domain": "Sleep",
+  "category": "Sleep and Health",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Clinicians",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate (Grades 9-12)",
+  "keywords": [
+    "sleep",
+    "depression",
+    "insomnia",
+    "circadian rhythm",
+    "mood disorders",
+    "mental health",
+    "sleep quality",
+    "sleep disturbances"
+  ],
+  "related_modules": [
+    "SLP-015",
+    "SLP-030",
+    "MNT-004"
+  ],
+  "evidence_strength": "Established evidence from systematic reviews and meta-analyses supports the bidirectional link between sleep disturbances and depression, with moderate emerging evidence for circadian rhythm-based interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
