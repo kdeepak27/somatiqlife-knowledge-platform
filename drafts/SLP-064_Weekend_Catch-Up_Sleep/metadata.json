@@ -1,0 +1,35 @@
+{
+  "module_id": "SLP-064",
+  "title": "Weekend Catch-Up Sleep",
+  "subtitle": "Practical guidance, tradeoffs, and evidence related to weekend catch-up sleep.",
+  "domain": "Sleep",
+  "category": "Sleep Timing and Real Life",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Sleep Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "weekend catch-up sleep",
+    "sleep debt",
+    "sleep timing",
+    "social jetlag",
+    "recovery sleep",
+    "sleep duration",
+    "sleep quality",
+    "circadian rhythm"
+  ],
+  "related_modules": [
+    "SLP-002",
+    "SLP-047",
+    "SLP-059"
+  ],
+  "evidence_strength": "Established evidence supports acute benefits of weekend catch-up sleep in restoring alertness and mood, while moderate emerging evidence indicates incomplete recovery from chronic sleep restriction and potential circadian risks. Evidence limitations include primarily short-term studies and observational designs for long-term health outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

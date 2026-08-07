@@ -1,0 +1,34 @@
+{
+  "module_id": "SLP-061",
+  "title": "Napping",
+  "subtitle": "Practical guidance, tradeoffs, and evidence related to napping.",
+  "domain": "Sleep",
+  "category": "Sleep Timing and Real Life",
+  "som_stages": [
+    "Maintenance",
+    "Optimization"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "nap",
+    "napping",
+    "sleep",
+    "sleep timing",
+    "sleep duration",
+    "circadian rhythm",
+    "alertness",
+    "sleep inertia"
+  ],
+  "related_modules": [
+    "SLP-002-SleepPhysiology",
+    "SLP-027-CircadianRhythms",
+    "SLP-041-ShiftWorkSleepDisorder"
+  ],
+  "evidence_strength": "Established evidence for alertness and cognitive benefits; moderate evidence for mood and cardiovascular effects; emerging evidence for long-term health outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
