@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-016",
+  "title": "Warm-Up",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for warm-up",
+  "domain": "Exercise",
+  "category": "Exercise Foundations",
+  "som_stages": [
+    "Initiation",
+    "Development",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Physical Therapists",
+    "Exercise Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "warm-up",
+    "exercise preparation",
+    "physiology",
+    "injury prevention",
+    "performance enhancement",
+    "progression",
+    "exercise safety"
+  ],
+  "related_modules": [
+    "EXE-001",
+    "EXE-018",
+    "EXE-025"
+  ],
+  "evidence_strength": "Established evidence with moderate variations; some emerging aspects regarding best protocols and individual adaptations",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

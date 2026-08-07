@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-017",
+  "title": "Cool-Down",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for cool-down",
+  "domain": "Exercise",
+  "category": "Exercise Foundations",
+  "som_stages": [
+    "Preparation",
+    "Performance",
+    "Recovery"
+  ],
+  "audience": [
+    "Consumers",
+    "Fitness Professionals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "cool-down",
+    "exercise recovery",
+    "post-exercise",
+    "physiology",
+    "circulation",
+    "stretching",
+    "muscle recovery",
+    "exercise safety"
+  ],
+  "related_modules": [
+    "EXE-005-WarmUp",
+    "EXE-019-RecoveryTechniques",
+    "PHY-012-ExercisePhysiologyBasics"
+  ],
+  "evidence_strength": "Established evidence combined with moderate and emerging evidence for recovery benefits and physiological mechanisms",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
