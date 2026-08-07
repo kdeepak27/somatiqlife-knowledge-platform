@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-161",
+  "title": "Reaction Time",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for reaction time",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Performance",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "General Public",
+    "Athletes",
+    "Physical Therapists",
+    "Exercise Scientists",
+    "Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "reaction time",
+    "response speed",
+    "neuromuscular function",
+    "cognitive processing",
+    "motor response",
+    "exercise performance"
+  ],
+  "related_modules": [
+    "EXE-107",
+    "EXE-124",
+    "EXE-139"
+  ],
+  "evidence_strength": "Moderate evidence supports training-induced reaction time improvements with some variability based on age, health, and baseline performance.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
