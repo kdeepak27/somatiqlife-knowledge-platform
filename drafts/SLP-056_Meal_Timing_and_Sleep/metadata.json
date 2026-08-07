@@ -1,0 +1,38 @@
+{
+  "module_id": "SLP-056",
+  "title": "Meal Timing and Sleep",
+  "subtitle": "Evidence-based ways to understand and improve meal timing and sleep.",
+  "domain": "Sleep",
+  "category": "Healthy Sleep Habits",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Sleep Coaches",
+    "Clinicians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "meal timing",
+    "sleep quality",
+    "circadian rhythm",
+    "chrononutrition",
+    "late-night eating",
+    "fasting",
+    "metabolism",
+    "insomnia",
+    "digestive health",
+    "sleep disorders"
+  ],
+  "related_modules": [
+    "SLP-012",
+    "SLP-034",
+    "SLP-087"
+  ],
+  "evidence_strength": "Moderate evidence with emerging studies supporting time-restricted feeding; variability exists based on individual and methodological factors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

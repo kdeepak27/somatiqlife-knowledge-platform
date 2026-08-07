@@ -1,0 +1,37 @@
+{
+  "module_id": "SLP-060",
+  "title": "Meditation and Sleep",
+  "subtitle": "Evidence-based ways to understand and improve meditation and sleep.",
+  "domain": "Sleep",
+  "category": "Healthy Sleep Habits",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Sleep Specialists",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate (Grade 9-12)",
+  "keywords": [
+    "Meditation",
+    "Sleep Quality",
+    "Sleep Architecture",
+    "Mindfulness",
+    "Sleep Disorders",
+    "Relaxation Techniques",
+    "Circadian Rhythm",
+    "Stress Reduction"
+  ],
+  "related_modules": [
+    "SLP-020_Sleep_Hygiene",
+    "SLP-035_Stress_and_Sleep",
+    "SLP-075_Mindfulness_Techniques",
+    "SLP-085_Insomnia_Treatments"
+  ],
+  "evidence_strength": "Moderate to Strong Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

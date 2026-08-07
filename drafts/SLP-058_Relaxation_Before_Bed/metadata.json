@@ -1,0 +1,35 @@
+{
+  "module_id": "SLP-058",
+  "title": "Relaxation Before Bed",
+  "subtitle": "Evidence-based ways to understand and improve relaxation before bed.",
+  "domain": "Sleep",
+  "category": "Healthy Sleep Habits",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Sleep Health Enthusiasts",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "Relaxation",
+    "Sleep Onset",
+    "Bedtime Routine",
+    "Stress Reduction",
+    "Parasympathetic Activation",
+    "Sleep Hygiene",
+    "Mindfulness",
+    "Breathing Techniques"
+  ],
+  "related_modules": [
+    "SLP-042",
+    "SLP-061",
+    "SLP-074"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

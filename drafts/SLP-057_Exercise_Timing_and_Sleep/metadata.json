@@ -1,0 +1,35 @@
+{
+  "module_id": "SLP-057",
+  "title": "Exercise Timing and Sleep",
+  "subtitle": "Evidence-based ways to understand and improve exercise timing and sleep.",
+  "domain": "Sleep",
+  "category": "Healthy Sleep Habits",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Exercise timing",
+    "Sleep quality",
+    "Circadian rhythm",
+    "Physical activity",
+    "Sleep latency",
+    "Sleep duration",
+    "Chronotype",
+    "Sleep hygiene"
+  ],
+  "related_modules": [
+    "SLP-013",
+    "SLP-044",
+    "EXR-005"
+  ],
+  "evidence_strength": "Moderate evidence supports the influence of exercise timing on sleep quality, with individual variability and need for further research noted.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
