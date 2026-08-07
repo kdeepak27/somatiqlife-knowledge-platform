@@ -1,0 +1,35 @@
+{
+  "module_id": "SLP-020",
+  "title": "Hormones and Sleep",
+  "subtitle": "Core concepts, physiology, evidence, and practical implications of hormones and sleep.",
+  "domain": "Sleep",
+  "category": "Sleep Foundations",
+  "som_stages": [
+    "Health Maintenance",
+    "Early Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Sleep Researchers"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "hormones",
+    "sleep",
+    "circadian rhythm",
+    "melatonin",
+    "cortisol",
+    "growth hormone",
+    "sleep physiology",
+    "endocrine system"
+  ],
+  "related_modules": [
+    "SLP-001",
+    "SLP-005",
+    "SLP-011"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights on hormone therapies and sleep interventions; recognition of individual variability and safety considerations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

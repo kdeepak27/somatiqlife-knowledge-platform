@@ -1,0 +1,35 @@
+{
+  "module_id": "SLP-019",
+  "title": "Body Temperature and Sleep",
+  "subtitle": "Core concepts, physiology, evidence, and practical implications of body temperature and sleep.",
+  "domain": "Sleep",
+  "category": "Sleep Foundations",
+  "som_stages": [
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Sleep Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Body temperature",
+    "Core temperature",
+    "Sleep onset",
+    "Circadian rhythm",
+    "Thermoregulation",
+    "Sleep quality",
+    "Heat dissipation",
+    "Melatonin"
+  ],
+  "related_modules": [
+    "SLP-005",
+    "SLP-013",
+    "PHYS-008"
+  ],
+  "evidence_strength": "Established evidence supported by physiological and clinical research studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
