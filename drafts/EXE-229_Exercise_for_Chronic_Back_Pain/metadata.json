@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-229",
+  "title": "Exercise for Chronic Back Pain",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise for chronic back pain",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "Patients with Chronic Back Pain",
+    "Caregivers",
+    "Physical Therapists",
+    "Primary Care Providers",
+    "Exercise Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "chronic back pain",
+    "exercise therapy",
+    "physical activity",
+    "pain management",
+    "rehabilitation",
+    "exercise progression",
+    "safety considerations"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-210",
+    "MUS-305"
+  ],
+  "evidence_strength": "Established evidence from systematic reviews and clinical guidelines supports the efficacy and safety of exercise for chronic back pain.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
