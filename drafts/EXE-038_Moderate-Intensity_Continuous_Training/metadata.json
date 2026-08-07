@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-038",
+  "title": "Moderate-Intensity Continuous Training",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for moderate-intensity continuous training",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Recovery",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Healthcare Providers",
+    "Exercise Professionals"
+  ],
+  "reading_level": "Intermediate (Grade 9-12)",
+  "keywords": [
+    "Moderate-Intensity Continuous Training",
+    "MICT",
+    "Aerobic Exercise",
+    "Cardiovascular Fitness",
+    "Exercise Physiology",
+    "Training Progression",
+    "Exercise Safety"
+  ],
+  "related_modules": [
+    "EXE-045",
+    "EXE-032",
+    "EXE-021"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
