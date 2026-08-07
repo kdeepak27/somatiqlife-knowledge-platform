@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-165",
+  "title": "Gait",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for gait",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Prevention",
+    "Performance",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Fitness Trainers",
+    "Rehabilitation Specialists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Gait",
+    "Walking",
+    "Locomotion",
+    "Mobility",
+    "Biomechanics",
+    "Gait training",
+    "Balance",
+    "Posture",
+    "Rehabilitation"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-202",
+    "EXE-310"
+  ],
+  "evidence_strength": "Established evidence with emerging technology applications",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

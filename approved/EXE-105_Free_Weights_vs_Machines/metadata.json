@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-105",
+  "title": "Free Weights vs Machines",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for free weights vs machines",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Exercise Physiologists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Free Weights",
+    "Machines",
+    "Strength Training",
+    "Resistance Training",
+    "Exercise Safety",
+    "Biomechanics",
+    "Training Progression",
+    "Muscle Activation",
+    "Functional Training"
+  ],
+  "related_modules": [
+    "EXE-002",
+    "EXE-108",
+    "EXE-152"
+  ],
+  "evidence_strength": "Established evidence for strength and hypertrophy, moderate evidence for neuromuscular control and function differences, emerging evidence on injury risk variabilities.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

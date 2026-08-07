@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-101",
+  "title": "Rest Between Sets",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for rest between sets",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Planning",
+    "Execution",
+    "Evaluation"
+  ],
+  "audience": [
+    "Strength Trainers",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Exercise Scientists",
+    "Rehabilitation Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "rest between sets",
+    "strength training",
+    "muscle recovery",
+    "training volume",
+    "muscle hypertrophy",
+    "neuromuscular fatigue",
+    "progression",
+    "training intensity",
+    "interval rest"
+  ],
+  "related_modules": [
+    "EXE-102 - Strength Training Program Design",
+    "EXE-103 - Muscle Hypertrophy Principles",
+    "EXE-104 - Training Intensity and Load Management"
+  ],
+  "evidence_strength": "Established evidence with some moderate variability and emerging nuances based on individual factors",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,41 @@
+{
+  "module_id": "EXE-046",
+  "title": "Stroke Volume and Exercise",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for stroke volume and exercise",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Performance Enhancement",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "General Public",
+    "Athletes",
+    "Coaches",
+    "Healthcare Providers",
+    "Exercise Physiologists"
+  ],
+  "reading_level": "Intermediate (Health Literate Audience)",
+  "keywords": [
+    "Stroke Volume",
+    "Exercise",
+    "Cardiac Output",
+    "Aerobic Training",
+    "Heart Rate",
+    "Cardiovascular Physiology",
+    "Exercise Progression",
+    "Safety Considerations",
+    "Heart Function",
+    "Endurance Training"
+  ],
+  "related_modules": [
+    "EXE-021",
+    "EXE-033",
+    "EXE-059"
+  ],
+  "evidence_strength": "Established Evidence for exercise-induced stroke volume adaptations with moderate evidence for progression strategies and safety in clinical populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

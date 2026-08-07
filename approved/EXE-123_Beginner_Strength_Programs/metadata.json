@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-123",
+  "title": "Beginner Strength Programs",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for beginner strength programs",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Initiation",
+    "Early Adaptation",
+    "Skill Acquisition"
+  ],
+  "audience": [
+    "Beginners",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "strength training",
+    "beginner program",
+    "progression",
+    "muscle hypertrophy",
+    "neuromuscular adaptation",
+    "safety",
+    "resistance training",
+    "exercise programming",
+    "overload principle",
+    "exercise technique"
+  ],
+  "related_modules": [
+    "EXE-124",
+    "EXE-130",
+    "EXE-150"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

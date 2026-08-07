@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-100",
+  "title": "Training to Failure",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for training to failure",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Physical Therapists",
+    "Exercise Scientists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "training to failure",
+    "muscle fatigue",
+    "strength training",
+    "progressive overload",
+    "muscle hypertrophy",
+    "exercise physiology",
+    "safety",
+    "exercise progression"
+  ],
+  "related_modules": [
+    "EXE-050_Strength_Training_Basics",
+    "EXE-110_Progressive_Overload",
+    "EXE-130_Exercise_Recovery"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence and ongoing research areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

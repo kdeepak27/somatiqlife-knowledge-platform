@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-243",
+  "title": "Exercise for Frailty",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise for frailty",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Intervention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Frailty",
+    "Exercise",
+    "Physical Activity",
+    "Resistance Training",
+    "Balance Training",
+    "Older Adults",
+    "Sarcopenia",
+    "Exercise Safety",
+    "Functional Capacity"
+  ],
+  "related_modules": [
+    "EXE-105",
+    "EXE-250",
+    "NUT-201"
+  ],
+  "evidence_strength": "Established evidence in multiple randomized controlled trials and meta-analyses supports exercise efficacy for improving frailty-related outcomes. Emerging evidence suggests optimizing nutrition alongside exercise enhances benefits. Safety recommendations are based on expert consensus and clinical guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

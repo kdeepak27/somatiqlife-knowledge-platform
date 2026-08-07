@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-067",
+  "title": "Walking for Weight Management",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for walking for weight management",
+  "domain": "Exercise",
+  "category": "Walking and Endurance Modes",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Practitioners",
+    "Fitness Trainers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "walking",
+    "weight management",
+    "physical activity",
+    "energy expenditure",
+    "exercise progression",
+    "walking safety",
+    "weight loss",
+    "endurance exercise"
+  ],
+  "related_modules": [
+    "EXE-045",
+    "EXE-071",
+    "NUT-012"
+  ],
+  "evidence_strength": "Established evidence for walking’s role in weight maintenance and moderate weight loss; emerging evidence supports optimized progression strategies; limitations noted without concurrent dietary management.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

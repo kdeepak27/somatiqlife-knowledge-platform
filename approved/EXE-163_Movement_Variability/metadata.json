@@ -1,0 +1,40 @@
+{
+  "module_id": "EXE-163",
+  "title": "Movement Variability",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for movement variability",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Assessment",
+    "Planning",
+    "Intervention",
+    "Progression",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Exercise Professionals",
+    "Rehabilitation Specialists",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "movement variability",
+    "motor control",
+    "neuromuscular adaptation",
+    "functional movement",
+    "exercise progression",
+    "movement patterns",
+    "motor learning",
+    "injury prevention"
+  ],
+  "related_modules": [
+    "EXE-082-MotorLearning",
+    "EXE-127-MotorControl",
+    "EXE-144-BalanceTraining",
+    "EXE-159-InjuryPreventionStrategies"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

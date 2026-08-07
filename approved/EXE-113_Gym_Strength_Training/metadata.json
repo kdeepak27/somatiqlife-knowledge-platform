@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-113",
+  "title": "Gym Strength Training",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for gym strength training",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Health Promotion",
+    "Prevention",
+    "Fitness Improvement"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Health Professionals",
+    "Personal Trainers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Strength Training",
+    "Resistance Training",
+    "Hypertrophy",
+    "Muscle Strength",
+    "Gym Workout",
+    "Progression",
+    "Exercise Safety",
+    "Muscle Physiology"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-115",
+    "HEA-210"
+  ],
+  "evidence_strength": "Established evidence for training benefits and safety in healthy populations; moderate evidence for specific progression models; emerging evidence for specialized protocols in clinical populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

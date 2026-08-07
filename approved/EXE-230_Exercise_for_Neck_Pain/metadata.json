@@ -1,0 +1,40 @@
+{
+  "module_id": "EXE-230",
+  "title": "Exercise for Neck Pain",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise for neck pain",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Symptom Management",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "Patients",
+    "Health Care Providers",
+    "Physical Therapists",
+    "Exercise Professionals"
+  ],
+  "reading_level": "Moderate (General Public with Some Health Literacy)",
+  "keywords": [
+    "neck pain",
+    "cervical spine",
+    "exercise therapy",
+    "physical therapy",
+    "pain management",
+    "strengthening",
+    "stretching",
+    "posture",
+    "rehabilitation",
+    "exercise progression",
+    "exercise safety"
+  ],
+  "related_modules": [
+    "EXE-112",
+    "EXE-150",
+    "PHY-334"
+  ],
+  "evidence_strength": "Moderate to Strong (Based on systematic reviews and clinical guidelines)",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

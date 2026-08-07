@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-078",
+  "title": "Long Runs",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for long runs",
+  "domain": "Exercise",
+  "category": "Walking and Endurance Modes",
+  "som_stages": [
+    "Preparation",
+    "Active Practice",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Recreational Runners",
+    "Endurance Athletes",
+    "Health Coaches",
+    "Physical Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "long run",
+    "endurance training",
+    "aerobic exercise",
+    "running",
+    "training plan",
+    "physiology",
+    "injury prevention",
+    "hydration",
+    "progression"
+  ],
+  "related_modules": [
+    "EXE-021",
+    "EXE-034",
+    "EXE-059"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

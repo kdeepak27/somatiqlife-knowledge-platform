@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-005",
+  "title": "The FITT Principle",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for the FITT principle",
+  "domain": "Exercise",
+  "category": "Exercise Foundations",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Professionals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Middle School to Adult",
+  "keywords": [
+    "FITT principle",
+    "Frequency",
+    "Intensity",
+    "Time",
+    "Type",
+    "Exercise prescription",
+    "Physical activity guidelines",
+    "Exercise safety",
+    "Exercise progression"
+  ],
+  "related_modules": [
+    "EXE-002",
+    "EXE-010",
+    "EXE-018"
+  ],
+  "evidence_strength": "Established evidence for exercise prescription framework; moderate evidence for some physiological mechanisms; emerging evidence regarding personalized FITT adaptations and limitations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-037",
+  "title": "Zone 2 Training",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for zone 2 training",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Prevention",
+    "Fitness Improvement",
+    "Chronic Disease Management"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Healthcare Providers",
+    "Athletes"
+  ],
+  "reading_level": "Intermediate (Grade 9-12)",
+  "keywords": [
+    "Zone 2 Training",
+    "Aerobic Training",
+    "Heart Rate Zones",
+    "Cardiovascular Fitness",
+    "Mitochondrial Biogenesis",
+    "Fat Oxidation",
+    "Exercise Physiology",
+    "Endurance Training",
+    "Metabolic Health"
+  ],
+  "related_modules": [
+    "EXE-008:High-Intensity Interval Training",
+    "EXE-022:Endurance Training Principles",
+    "EXE-045:Heart Rate Monitoring and Training Zones",
+    "MET-014:Metabolic Health and Exercise"
+  ],
+  "evidence_strength": "Established evidence for physiological adaptations and cardiovascular benefits; moderate emerging evidence for metabolic health improvements; some uncertainties regarding optimal protocols and comparison with higher intensity training.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

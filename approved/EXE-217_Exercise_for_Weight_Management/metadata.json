@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-217",
+  "title": "Exercise for Weight Management",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise for weight management",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Fitness Professionals"
+  ],
+  "reading_level": "High School to Adult",
+  "keywords": [
+    "Exercise",
+    "Weight Management",
+    "Physical Activity",
+    "Energy Expenditure",
+    "Metabolism",
+    "Diet",
+    "Obesity",
+    "Cardiometabolic Health",
+    "Exercise Safety",
+    "Fat Loss"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "NUT-305",
+    "OBE-210"
+  ],
+  "evidence_strength": "Moderate: Supported by multiple randomized controlled trials and meta-analyses showing exercise’s modest but meaningful effects on weight and metabolic health; emerging evidence for specific modalities like HIIT.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

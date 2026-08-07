@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-135",
+  "title": "Horizontal Pull",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for horizontal pull",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Acquisition",
+    "Practice",
+    "Adaptation"
+  ],
+  "audience": [
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Rehabilitation Specialists",
+    "Exercise Scientists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "horizontal pull",
+    "strength training",
+    "rowing exercises",
+    "muscle activation",
+    "exercise progression",
+    "safety in exercise",
+    "back strengthening"
+  ],
+  "related_modules": [
+    "EXE-101 (Vertical Pull)",
+    "EXE-140 (Back Strengthening Fundamentals)",
+    "EXE-150 (Rowing Exercise Variations)"
+  ],
+  "evidence_strength": "Moderate evidence supports horizontal pull exercises for upper-body strength, posture improvement, and rehabilitation, supplemented by biomechanical and electromyographic studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

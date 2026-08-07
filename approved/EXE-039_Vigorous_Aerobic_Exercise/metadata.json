@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-039",
+  "title": "Vigorous Aerobic Exercise",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for vigorous aerobic exercise",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Prevention",
+    "Wellness",
+    "Performance",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Professionals",
+    "Healthcare Providers",
+    "Exercise Scientists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Vigorous aerobic exercise",
+    "Cardiovascular fitness",
+    "Exercise physiology",
+    "Exercise safety",
+    "Aerobic training progression",
+    "Metabolic mechanisms",
+    "Exercise intensity",
+    "Endurance training"
+  ],
+  "related_modules": [
+    "EXE-011",
+    "EXE-024",
+    "HLT-056"
+  ],
+  "evidence_strength": "Established evidence for cardiovascular and metabolic benefits; moderate emerging evidence for cognitive effects; moderate evidence on safety with proper progression; limited evidence on optimal progression protocols in varied populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

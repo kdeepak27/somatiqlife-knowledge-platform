@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-002",
+  "title": "Physical Activity vs Exercise",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for physical activity vs exercise",
+  "domain": "Exercise",
+  "category": "Exercise Foundations",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Fitness Professionals"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "Physical activity",
+    "Exercise",
+    "Health benefits",
+    "Mechanisms",
+    "Safety",
+    "Progression",
+    "Aerobic",
+    "Resistance training",
+    "Activity guidelines",
+    "Limitations"
+  ],
+  "related_modules": [
+    "EXE-001",
+    "EXE-007",
+    "NUT-003"
+  ],
+  "evidence_strength": "Established evidence supported by authoritative guidelines and meta-analyses, with some emerging findings in mental health and mechanistic studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

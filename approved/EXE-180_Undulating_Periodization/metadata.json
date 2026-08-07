@@ -1,0 +1,40 @@
+{
+  "module_id": "EXE-180",
+  "title": "Undulating Periodization",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for undulating periodization",
+  "domain": "Exercise",
+  "category": "Programming and Recovery",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Evaluation"
+  ],
+  "audience": [
+    "Fitness Enthusiasts",
+    "Strength Coaches",
+    "Exercise Physiologists",
+    "Personal Trainers",
+    "Athletes"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "undulating periodization",
+    "training variation",
+    "strength training",
+    "muscle hypertrophy",
+    "athletic performance",
+    "training progression",
+    "periodization models",
+    "deloading",
+    "programming strategies",
+    "exercise safety"
+  ],
+  "related_modules": [
+    "EXE-150",
+    "EXE-165",
+    "EXE-190"
+  ],
+  "evidence_strength": "Established and Moderate Emerging Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

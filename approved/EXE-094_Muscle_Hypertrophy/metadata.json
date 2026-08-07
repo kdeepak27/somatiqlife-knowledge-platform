@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-094",
+  "title": "Muscle Hypertrophy",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for muscle hypertrophy",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Physical Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Muscle hypertrophy",
+    "Strength training",
+    "Muscle growth",
+    "Progressive overload",
+    "Resistance training",
+    "Sarcoplasmic hypertrophy",
+    "Myofibrillar hypertrophy",
+    "Muscle protein synthesis",
+    "Exercise physiology",
+    "Workout safety"
+  ],
+  "related_modules": [
+    "EXE-032",
+    "EXE-101",
+    "NUT-059"
+  ],
+  "evidence_strength": "Established evidence with some emerging research areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

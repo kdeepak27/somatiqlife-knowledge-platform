@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-062",
+  "title": "Brisk Walking",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for brisk walking",
+  "domain": "Exercise",
+  "category": "Walking and Endurance Modes",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Clinicians",
+    "Rehabilitation Specialists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "brisk walking",
+    "aerobic exercise",
+    "cardiovascular health",
+    "physical activity",
+    "walking speed",
+    "endurance",
+    "exercise safety",
+    "exercise progression"
+  ],
+  "related_modules": [
+    "EXE-004",
+    "EXE-055",
+    "REH-021"
+  ],
+  "evidence_strength": "Established evidence for health benefits; emerging on detailed biomechanical optimization; moderate evidence on progression protocols; safety guidelines based on expert consensus.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

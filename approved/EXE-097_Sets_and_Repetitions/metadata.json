@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-097",
+  "title": "Sets and Repetitions",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for sets and repetitions",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "Beginners",
+    "Intermediate exercisers",
+    "Strength coaches",
+    "Physical therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sets",
+    "repetitions",
+    "strength training",
+    "muscle hypertrophy",
+    "progressive overload",
+    "exercise physiology",
+    "training volume",
+    "exercise safety"
+  ],
+  "related_modules": [
+    "EXE-023",
+    "EXE-052",
+    "EXE-076",
+    "EXE-095"
+  ],
+  "evidence_strength": "Established evidence with some moderate and emerging findings around specific set and rep programming for unique populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

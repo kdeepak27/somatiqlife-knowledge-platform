@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-068",
+  "title": "Walking for Older Adults",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for walking for older adults",
+  "domain": "Exercise",
+  "category": "Walking and Endurance Modes",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Health Professionals",
+    "Exercise Trainers"
+  ],
+  "reading_level": "Moderate (Grades 8-10)",
+  "keywords": [
+    "walking",
+    "older adults",
+    "endurance",
+    "exercise",
+    "physical activity",
+    "balance",
+    "cardiovascular health",
+    "gait",
+    "mobility",
+    "safety"
+  ],
+  "related_modules": [
+    "EXE-042",
+    "EXE-075",
+    "GER-013"
+  ],
+  "evidence_strength": "Established evidence for cardiovascular and musculoskeletal benefits; moderate evidence for cognitive and mental health effects; emerging evidence on optimal progression and barrier mitigation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

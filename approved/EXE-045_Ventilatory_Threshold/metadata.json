@@ -1,0 +1,35 @@
+{
+  "module_id": "EXE-045",
+  "title": "Ventilatory Threshold",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for ventilatory threshold",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Evaluation"
+  ],
+  "audience": [
+    "Consumers",
+    "Fitness Trainers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "ventilatory threshold",
+    "aerobic training",
+    "exercise physiology",
+    "lactate threshold",
+    "respiratory compensation",
+    "cardiorespiratory fitness"
+  ],
+  "related_modules": [
+    "EXE-023-AerobicTrainingPrinciples",
+    "EXE-037-LactateThreshold",
+    "EXE-061-ExerciseTestingProtocols"
+  ],
+  "evidence_strength": "Established evidence with some moderate variability and limitations requiring individual assessment",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

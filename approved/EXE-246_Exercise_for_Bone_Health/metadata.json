@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-246",
+  "title": "Exercise for Bone Health",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise for bone health",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance",
+    "Fitness Improvement"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Professionals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "bone health",
+    "exercise",
+    "osteoporosis",
+    "bone density",
+    "mechanical loading",
+    "resistance training",
+    "weight-bearing exercise",
+    "bone remodeling",
+    "fracture prevention",
+    "exercise safety"
+  ],
+  "related_modules": [
+    "EXE-183",
+    "NUT-102",
+    "HEA-245"
+  ],
+  "evidence_strength": "Strong evidence supports exercise for prevention and management of osteoporosis; moderate evidence supports improvements in bone density; exercise safety protocols are based on clinical guidelines and consensus.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

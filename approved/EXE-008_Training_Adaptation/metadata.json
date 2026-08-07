@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-008",
+  "title": "Training Adaptation",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for training adaptation",
+  "domain": "Exercise",
+  "category": "Exercise Foundations",
+  "som_stages": [
+    "Introduction",
+    "Development",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Exercise Professionals",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "training adaptation",
+    "exercise physiology",
+    "overload principle",
+    "progression",
+    "muscle hypertrophy",
+    "aerobic capacity",
+    "neuromuscular adaptation",
+    "training safety"
+  ],
+  "related_modules": [
+    "EXE-001",
+    "EXE-003",
+    "EXE-005"
+  ],
+  "evidence_strength": "Established evidence with ongoing emerging research on molecular mechanisms and individual personalization.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

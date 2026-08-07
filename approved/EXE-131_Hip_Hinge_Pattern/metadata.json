@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-131",
+  "title": "Hip Hinge Pattern",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for hip hinge pattern",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Progression"
+  ],
+  "audience": [
+    "Consumers",
+    "Personal Trainers",
+    "Physical Therapists",
+    "Strength Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Hip hinge",
+    "Movement pattern",
+    "Strength training",
+    "Posterior chain",
+    "Biomechanics",
+    "Back safety",
+    "Exercise progression"
+  ],
+  "related_modules": [
+    "EXE-127",
+    "EXE-115",
+    "MTN-223"
+  ],
+  "evidence_strength": "Moderate - supported by biomechanical and electromyographic studies; limited high-quality clinical trials.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

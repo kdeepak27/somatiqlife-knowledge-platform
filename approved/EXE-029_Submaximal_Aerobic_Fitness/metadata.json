@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-029",
+  "title": "Submaximal Aerobic Fitness",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for submaximal aerobic fitness",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Maintenance",
+    "Improvement",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Healthcare Providers",
+    "Rehabilitation Specialists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "submaximal aerobic fitness",
+    "aerobic training",
+    "cardiorespiratory fitness",
+    "exercise physiology",
+    "heart rate",
+    "VO2 max",
+    "exercise progression",
+    "exercise safety"
+  ],
+  "related_modules": [
+    "EXE-015",
+    "EXE-027",
+    "EXE-035"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

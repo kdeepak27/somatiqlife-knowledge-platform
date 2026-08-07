@@ -1,0 +1,35 @@
+{
+  "module_id": "EXE-102",
+  "title": "Exercise Selection for Strength Training",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise selection for strength training",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Fitness Professionals",
+    "Health Educators"
+  ],
+  "reading_level": "8th to 10th grade",
+  "keywords": [
+    "strength training",
+    "exercise selection",
+    "resistance training",
+    "muscle hypertrophy",
+    "neuromuscular adaptation",
+    "progressive overload",
+    "safety"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-105",
+    "EXE-110"
+  ],
+  "evidence_strength": "Established evidence supported by exercise physiology research and consensus guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

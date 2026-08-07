@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-208",
+  "title": "Overuse Injuries",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for overuse injuries",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Exercise",
+    "Injury Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Fitness Professionals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "overuse injuries",
+    "exercise injury",
+    "tendinopathy",
+    "stress fracture",
+    "rehabilitation",
+    "injury prevention",
+    "biomechanics",
+    "progression",
+    "safety"
+  ],
+  "related_modules": [
+    "EXE-102",
+    "EXE-305",
+    "RTG-110"
+  ],
+  "evidence_strength": "Established evidence supported by systematic reviews and clinical guidelines with noted areas of emerging research in specific mechanisms and individualized interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

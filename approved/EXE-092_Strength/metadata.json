@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-092",
+  "title": "Strength",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for strength",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Prevention",
+    "Health Optimization",
+    "Performance Enhancement"
+  ],
+  "audience": [
+    "Consumers",
+    "Fitness Enthusiasts",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "muscle strength",
+    "resistance training",
+    "strength training",
+    "muscle hypertrophy",
+    "neuromuscular adaptation",
+    "progressive overload",
+    "safety in strength training",
+    "functional strength",
+    "exercise physiology",
+    "strength progression"
+  ],
+  "related_modules": [
+    "EXE-085-Muscle-Hypertrophy",
+    "EXE-098-Resistance-Training",
+    "EXE-101-Exercise-Nutrition"
+  ],
+  "evidence_strength": "Established evidence for mechanisms and benefits; moderate evidence for specific progression protocols and older adult adaptations; emerging evidence on technology integration; safety recommendations based on expert consensus.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

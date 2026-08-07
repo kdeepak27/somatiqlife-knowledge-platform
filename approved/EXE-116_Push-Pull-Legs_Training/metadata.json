@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-116",
+  "title": "Push-Pull-Legs Training",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for push-pull-legs training",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Initiation",
+    "Adaptation",
+    "Maintenance",
+    "Progression"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Physical Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Push-Pull-Legs",
+    "Strength Training",
+    "Resistance Exercise",
+    "Workout Split",
+    "Muscle Hypertrophy",
+    "Training Volume",
+    "Progressive Overload",
+    "Recovery",
+    "Exercise Programming"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-124",
+    "EXE-132"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

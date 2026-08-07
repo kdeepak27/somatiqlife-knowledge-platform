@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-114",
+  "title": "Full-Body Strength Training",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for full-body strength training",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Initiation",
+    "Adaptation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Physical Therapists"
+  ],
+  "reading_level": "General Audience with Some Scientific Literacy",
+  "keywords": [
+    "strength training",
+    "full-body workout",
+    "muscle physiology",
+    "progression",
+    "exercise safety",
+    "resistance training",
+    "physical fitness"
+  ],
+  "related_modules": [
+    "EXE-112",
+    "EXE-118",
+    "EXE-120"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas requiring further high-quality trials",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

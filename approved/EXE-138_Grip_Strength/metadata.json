@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-138",
+  "title": "Grip Strength",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for grip strength",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Progression"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Physical Therapists",
+    "Sports Coaches"
+  ],
+  "reading_level": "Intermediate (Grades 9-12)",
+  "keywords": [
+    "Grip Strength",
+    "Hand Strength",
+    "Muscular Endurance",
+    "Strength Training",
+    "Physical Performance",
+    "Rehabilitation",
+    "Dynamometer",
+    "Progressive Overload",
+    "Safety"
+  ],
+  "related_modules": [
+    "EXE-045",
+    "EXE-089",
+    "PHY-073"
+  ],
+  "evidence_strength": "Established evidence supporting grip strength as a biomarker and training target; moderate evidence for optimal progression protocols; emerging evidence on grip strength’s role in diverse health outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

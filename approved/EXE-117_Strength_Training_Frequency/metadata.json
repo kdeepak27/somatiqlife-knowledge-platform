@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-117",
+  "title": "Strength Training Frequency",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for strength training frequency",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Physical Therapists",
+    "Sports Coaches"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "strength training",
+    "training frequency",
+    "exercise physiology",
+    "muscle hypertrophy",
+    "resistance training",
+    "training volume",
+    "training recovery",
+    "progressive overload",
+    "training safety"
+  ],
+  "related_modules": [
+    "EXE-102",
+    "EXE-115",
+    "EXE-118"
+  ],
+  "evidence_strength": "Moderate",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

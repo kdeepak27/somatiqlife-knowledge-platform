@@ -1,0 +1,35 @@
+{
+  "module_id": "EXE-034",
+  "title": "Heart Rate Reserve",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for heart rate reserve",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Performance"
+  ],
+  "audience": [
+    "General public",
+    "Fitness professionals",
+    "Healthcare providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Heart Rate Reserve",
+    "HRR",
+    "Aerobic Training",
+    "Exercise Intensity",
+    "Cardiovascular Fitness",
+    "Target Heart Rate",
+    "Exercise Prescription"
+  ],
+  "related_modules": [
+    "EXE-021",
+    "EXE-045",
+    "CRT-014"
+  ],
+  "evidence_strength": "Moderate to strong for HRR use in exercise prescription; some variability in special populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

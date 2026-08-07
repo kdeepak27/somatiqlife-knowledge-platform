@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-248",
+  "title": "Minimum Effective Dose of Exercise",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for minimum effective dose of exercise",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Fitness Trainers"
+  ],
+  "reading_level": "Intermediate (High School to College)",
+  "keywords": [
+    "Minimum Effective Dose",
+    "Exercise Dose",
+    "Exercise Physiology",
+    "Exercise Safety",
+    "Physical Activity",
+    "Exercise Progression",
+    "Exercise Prescription",
+    "Exercise Mechanisms"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-202",
+    "EXE-215"
+  ],
+  "evidence_strength": "Strong for aerobic exercise; Moderate for resistance training; Emerging in special populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

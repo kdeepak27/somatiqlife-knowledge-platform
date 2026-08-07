@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-032",
+  "title": "Heart Rate Zones",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for heart rate zones",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Exercise Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Heart Rate Zones",
+    "Aerobic Training",
+    "Exercise Physiology",
+    "Training Intensity",
+    "Cardiovascular Fitness",
+    "Heart Rate Reserve",
+    "Target Heart Rate",
+    "Exercise Safety"
+  ],
+  "related_modules": [
+    "EXE-015",
+    "EXE-045",
+    "EXE-052"
+  ],
+  "evidence_strength": "Established evidence with emerging research on individualized methods and device technologies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

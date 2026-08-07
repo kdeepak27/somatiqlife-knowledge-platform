@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-076",
+  "title": "Tempo Running",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for tempo running",
+  "domain": "Exercise",
+  "category": "Walking and Endurance Modes",
+  "som_stages": [
+    "Preparation",
+    "Active Engagement",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Athletes",
+    "Trainers",
+    "Health Coaches"
+  ],
+  "reading_level": "Moderate (High School to College)",
+  "keywords": [
+    "Tempo Running",
+    "Threshold Running",
+    "Lactate Threshold",
+    "Endurance Training",
+    "Pacing",
+    "Aerobic Fitness",
+    "Running Mechanics",
+    "Recovery",
+    "Safety"
+  ],
+  "related_modules": [
+    "EXE-051",
+    "EXE-089",
+    "EXE-102"
+  ],
+  "evidence_strength": "Moderate - Several controlled trials and observational studies support tempo running's benefits, though further high-quality RCTs could strengthen evidence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,35 @@
+{
+  "module_id": "EXE-227",
+  "title": "Exercise for Osteoporosis",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise for osteoporosis",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Fitness Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Osteoporosis",
+    "Exercise",
+    "Bone Health",
+    "Physical Activity",
+    "Bone Density",
+    "Resistance Training",
+    "Balance Training",
+    "Fall Prevention"
+  ],
+  "related_modules": [
+    "OST-101",
+    "EXE-108",
+    "NTR-202"
+  ],
+  "evidence_strength": "Moderate to Strong Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

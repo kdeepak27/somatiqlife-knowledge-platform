@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-080",
+  "title": "Running Cadence",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for running cadence",
+  "domain": "Exercise",
+  "category": "Walking and Endurance Modes",
+  "som_stages": [
+    "Preparation",
+    "Active",
+    "Maintenance"
+  ],
+  "audience": [
+    "General public",
+    "Recreational runners",
+    "Athletic trainers",
+    "Physiotherapists"
+  ],
+  "reading_level": "Intermediate (Grade 10+)",
+  "keywords": [
+    "Running cadence",
+    "Step rate",
+    "Step frequency",
+    "Running biomechanics",
+    "Injury prevention",
+    "Endurance running",
+    "Gait cycle",
+    "Stride length",
+    "Running mechanics"
+  ],
+  "related_modules": [
+    "EXE-015",
+    "EXE-031",
+    "EXE-074"
+  ],
+  "evidence_strength": "Established evidence with moderate evidence on individual variability and physiological effects",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

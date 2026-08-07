@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-205",
+  "title": "Returning After a Break",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for returning after a break",
+  "domain": "Exercise",
+  "category": "Programming and Recovery",
+  "som_stages": [
+    "Early Recovery",
+    "Maintenance",
+    "Progression"
+  ],
+  "audience": [
+    "General Public",
+    "Recreational Exercisers",
+    "Exercise Professionals",
+    "Physical Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "return to exercise",
+    "exercise break",
+    "detraining",
+    "retraining",
+    "exercise progression",
+    "safety in exercise",
+    "muscle memory",
+    "exercise adherence",
+    "programming after break",
+    "physical recovery"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "EXE-207",
+    "EXE-310"
+  ],
+  "evidence_strength": "Established evidence for detraining and progression principles; moderate emerging evidence for muscle memory mechanisms; clinical consensus for safety guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

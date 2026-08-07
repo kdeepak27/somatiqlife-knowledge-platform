@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-060",
+  "title": "Aerobic Exercise for Advanced Trainees",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for aerobic exercise for advanced trainees",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Maintenance",
+    "Performance Optimization"
+  ],
+  "audience": [
+    "Advanced Athletes",
+    "Fitness Professionals",
+    "Sports Scientists",
+    "Advanced Exercise Enthusiasts"
+  ],
+  "reading_level": "Advanced Adult",
+  "keywords": [
+    "aerobic exercise",
+    "cardiovascular fitness",
+    "advanced training",
+    "exercise physiology",
+    "VO2 max",
+    "endurance training",
+    "training progression",
+    "exercise safety"
+  ],
+  "related_modules": [
+    "EXE-045",
+    "EXE-070",
+    "EXE-081"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging insights on genetics and mitochondrial signaling",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

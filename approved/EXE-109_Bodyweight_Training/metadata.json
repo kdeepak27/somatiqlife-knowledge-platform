@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-109",
+  "title": "Bodyweight Training",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for bodyweight training",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Physical Therapists"
+  ],
+  "reading_level": "Intermediate (High School to Adult)",
+  "keywords": [
+    "Bodyweight Training",
+    "Calisthenics",
+    "Strength Training",
+    "Muscle Hypertrophy",
+    "Progression",
+    "Functional Fitness",
+    "Exercise Safety"
+  ],
+  "related_modules": [
+    "EXE-105",
+    "EXE-110",
+    "EXE-115"
+  ],
+  "evidence_strength": "Established and Moderate Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

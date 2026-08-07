@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-053",
+  "title": "Carbohydrate Use During Exercise",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for carbohydrate use during exercise",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Preparation",
+    "Adaptation",
+    "Performance",
+    "Recovery"
+  ],
+  "audience": [
+    "Athletes",
+    "Coaches",
+    "Exercise Scientists",
+    "General Fitness Enthusiasts",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (undergraduate level)",
+  "keywords": [
+    "carbohydrate",
+    "exercise",
+    "glycogen",
+    "glucose",
+    "aerobic training",
+    "endurance",
+    "sports nutrition",
+    "metabolism"
+  ],
+  "related_modules": [
+    "EXE-012",
+    "NUT-034",
+    "REC-021"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials, meta-analyses, and position statements supports the efficacy and safety of carbohydrate use during aerobic exercise, with moderate evidence for dose-response and extended metabolic adaptations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

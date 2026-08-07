@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-186",
+  "title": "Sleep and Exercise Recovery",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for sleep and exercise recovery",
+  "domain": "Exercise",
+  "category": "Programming and Recovery",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Recovery"
+  ],
+  "audience": [
+    "Consumers",
+    "Fitness Enthusiasts",
+    "Athletes",
+    "Coaches",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep",
+    "exercise recovery",
+    "circadian rhythm",
+    "muscle repair",
+    "physical performance",
+    "fatigue",
+    "sleep hygiene",
+    "restoration"
+  ],
+  "related_modules": [
+    "EXE-045",
+    "EXE-102",
+    "HLT-210"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging research on individualized interventions and long-term outcomes",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

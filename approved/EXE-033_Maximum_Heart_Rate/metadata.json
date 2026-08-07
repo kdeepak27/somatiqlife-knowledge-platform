@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-033",
+  "title": "Maximum Heart Rate",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for maximum heart rate",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Pre-Exercise Assessment",
+    "Exercise Prescription",
+    "Exercise Monitoring",
+    "Exercise Progression"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Professionals",
+    "Exercise Scientists",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "maximum heart rate",
+    "MHR",
+    "heart rate max",
+    "aerobic training",
+    "exercise intensity",
+    "cardiovascular physiology",
+    "exercise safety",
+    "heart rate prediction"
+  ],
+  "related_modules": [
+    "EXE-015",
+    "EXE-021",
+    "EXE-054"
+  ],
+  "evidence_strength": "Established evidence for physiological basis and practical use; moderate evidence for formula accuracy and training adaptation effects; emerging evidence for individualized predictions and alternative assessment methods.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

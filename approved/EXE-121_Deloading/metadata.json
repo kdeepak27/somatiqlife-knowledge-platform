@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-121",
+  "title": "Deloading",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for deloading",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Strength Development",
+    "Training Recovery",
+    "Exercise Programming"
+  ],
+  "audience": [
+    "Trainers",
+    "Strength Athletes",
+    "Physical Therapists",
+    "Exercise Enthusiasts"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "deloading",
+    "strength training",
+    "recovery",
+    "training periodization",
+    "overtraining prevention",
+    "training load",
+    "exercise programming",
+    "fatigue management"
+  ],
+  "related_modules": [
+    "EXE-045-Periodization-Strength-Training",
+    "EXE-086-Overtraining-Syndrome",
+    "EXE-103-Tapering-Endurance-Sports"
+  ],
+  "evidence_strength": "Moderate evidence with limited randomized controlled trials; majority derived from observational and athlete monitoring studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

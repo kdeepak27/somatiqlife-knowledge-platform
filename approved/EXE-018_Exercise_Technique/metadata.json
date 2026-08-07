@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-018",
+  "title": "Exercise Technique",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise technique",
+  "domain": "Exercise",
+  "category": "Exercise Foundations",
+  "som_stages": [
+    "Awareness",
+    "Adoption",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Professionals",
+    "Healthcare Providers",
+    "Exercise Enthusiasts"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "exercise technique",
+    "form",
+    "biomechanics",
+    "safety",
+    "progression",
+    "exercise effectiveness",
+    "muscle activation"
+  ],
+  "related_modules": [
+    "EXE-005",
+    "PHY-012",
+    "REC-023"
+  ],
+  "evidence_strength": "Established evidence supports the importance of proper exercise technique in optimizing training effectiveness and safety; however, some variability exists depending on individual differences and exercise types. Emerging evidence highlights benefits of specific coaching and technology-assisted feedback for technique improvement.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

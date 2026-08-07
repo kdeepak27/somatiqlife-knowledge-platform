@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-239",
+  "title": "Exercise During Menopause",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise during menopause",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Menopause Transition",
+    "Postmenopause"
+  ],
+  "audience": [
+    "Women in Midlife",
+    "Health Educators",
+    "Fitness Professionals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "menopause",
+    "exercise",
+    "physical activity",
+    "bone health",
+    "cardiovascular health",
+    "muscle strength",
+    "hot flashes",
+    "psychological health",
+    "safety",
+    "progression"
+  ],
+  "related_modules": [
+    "HRT-101",
+    "BONE-145",
+    "CVH-312",
+    "PSY-217"
+  ],
+  "evidence_strength": "Moderate to strong evidence supports aerobic and resistance exercise benefits with emerging evidence for mind-body practices.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

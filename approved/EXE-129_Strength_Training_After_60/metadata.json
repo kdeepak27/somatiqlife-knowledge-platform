@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-129",
+  "title": "Strength Training After 60",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for strength training after 60",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Healthy Aging",
+    "Preventive Care"
+  ],
+  "audience": [
+    "Consumers",
+    "Older Adults",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "strength training",
+    "older adults",
+    "resistance exercise",
+    "sarcopenia",
+    "muscle loss",
+    "aging",
+    "physical activity",
+    "progression",
+    "safety"
+  ],
+  "related_modules": [
+    "EXE-130",
+    "EXE-112",
+    "NUT-105"
+  ],
+  "evidence_strength": "Established evidence from systematic reviews and randomized controlled trials supports strength training benefits after 60.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

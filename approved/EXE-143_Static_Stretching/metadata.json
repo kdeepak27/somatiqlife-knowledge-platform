@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-143",
+  "title": "Static Stretching",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for static stretching",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Education",
+    "Intervention"
+  ],
+  "audience": [
+    "Consumers",
+    "Trainers",
+    "Physical Therapists",
+    "Exercise Scientists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "static stretching",
+    "mobility",
+    "flexibility",
+    "muscle lengthening",
+    "stretch reflex",
+    "range of motion",
+    "stretching safety",
+    "warm-up",
+    "cool-down",
+    "stretch progression"
+  ],
+  "related_modules": [
+    "EXE-120",
+    "EXE-124",
+    "EXE-138"
+  ],
+  "evidence_strength": "Established evidence for flexibility improvements; moderate and emerging evidence for injury prevention and performance effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

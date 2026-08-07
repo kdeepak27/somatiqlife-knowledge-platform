@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-220",
+  "title": "Exercise for Type 2 Diabetes",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise for type 2 diabetes",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Complication Mitigation"
+  ],
+  "audience": [
+    "Patients with Type 2 Diabetes",
+    "Healthcare Providers",
+    "Exercise Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Type 2 Diabetes",
+    "Exercise",
+    "Physical Activity",
+    "Glycemic Control",
+    "Insulin Sensitivity",
+    "Aerobic Exercise",
+    "Resistance Training",
+    "Safety",
+    "Hypoglycemia",
+    "Exercise Prescription"
+  ],
+  "related_modules": [
+    "MET-110",
+    "NUT-150",
+    "CDM-340"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials and meta-analyses supports the benefits of exercise in type 2 diabetes management.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

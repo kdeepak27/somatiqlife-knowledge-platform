@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-188",
+  "title": "Hydration and Exercise Performance",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for hydration and exercise performance",
+  "domain": "Exercise",
+  "category": "Programming and Recovery",
+  "som_stages": [
+    "Preparation",
+    "Endurance",
+    "Recovery"
+  ],
+  "audience": [
+    "Athletes",
+    "Fitness Enthusiasts",
+    "Exercise Professionals",
+    "Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "hydration",
+    "exercise performance",
+    "fluid balance",
+    "dehydration",
+    "electrolytes",
+    "thermoregulation",
+    "endurance",
+    "recovery"
+  ],
+  "related_modules": [
+    "EXE-103: Exercise Physiology Fundamentals",
+    "EXE-159: Nutrition and Athletic Performance",
+    "EXE-205: Recovery Strategies in Sport"
+  ],
+  "evidence_strength": "Established evidence for hydration impact on exercise performance with some emerging areas around individual variability and precise electrolyte formulations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

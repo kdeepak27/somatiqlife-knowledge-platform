@@ -1,0 +1,36 @@
+{
+  "module_id": "EXE-111",
+  "title": "Cable Training",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for cable training",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "Exercise enthusiasts",
+    "Personal trainers",
+    "Physical therapists",
+    "Strength and conditioning coaches",
+    "Rehabilitation specialists"
+  ],
+  "reading_level": "Adult - General public with interest in fitness",
+  "keywords": [
+    "Cable training",
+    "Resistance training",
+    "Strength training",
+    "Cable machine",
+    "Muscle activation",
+    "Exercise progression",
+    "Safety in strength training",
+    "Functional training"
+  ],
+  "related_modules": [
+    "EXE-102",
+    "EXE-125",
+    "REHAB-201"
+  ],
+  "evidence_strength": "Moderate - Based on comparative studies, EMG analyses, and controlled trials; further high-quality RCTs needed for definitive conclusions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
