@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-244",
+  "title": "Exercise for Sarcopenia",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise for sarcopenia",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Healthcare Providers",
+    "Fitness Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Sarcopenia",
+    "Exercise",
+    "Resistance Training",
+    "Muscle Mass",
+    "Physical Function",
+    "Aging",
+    "Muscle Strength",
+    "Safety"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "NUT-312",
+    "GER-176"
+  ],
+  "evidence_strength": "Established evidence and moderate emerging evidence for novel exercise modalities and combined interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

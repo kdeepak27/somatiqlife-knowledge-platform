@@ -1,0 +1,34 @@
+{
+  "module_id": "EXE-241",
+  "title": "Exercise After Pregnancy",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise after pregnancy",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Postpartum"
+  ],
+  "audience": [
+    "Postpartum Women",
+    "Healthcare Providers",
+    "Fitness Professionals",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Postpartum exercise",
+    "Pregnancy recovery",
+    "Pelvic floor",
+    "Physical activity",
+    "Postnatal fitness",
+    "Exercise safety",
+    "Postpartum health"
+  ],
+  "related_modules": [
+    "EXE-112",
+    "MAT-301",
+    "PHY-210"
+  ],
+  "evidence_strength": "Moderate evidence supports benefits of postpartum exercise on physical recovery and mental health; more research is needed on optimal protocols and long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
