@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-091",
+  "title": "Resistance Training",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for resistance training",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Performance Enhancement"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Professionals",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Resistance Training",
+    "Strength Training",
+    "Muscle Hypertrophy",
+    "Progressive Overload",
+    "Exercise Safety",
+    "Sarcopenia",
+    "Physical Fitness",
+    "Exercise Physiology"
+  ],
+  "related_modules": [
+    "EXE-089",
+    "EXE-092",
+    "HLT-054"
+  ],
+  "evidence_strength": "Established evidence with moderate to emerging evidence for some applications",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
