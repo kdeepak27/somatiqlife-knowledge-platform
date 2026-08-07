@@ -1,0 +1,35 @@
+{
+  "module_id": "EXE-225",
+  "title": "Exercise for Metabolic Syndrome",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise for metabolic syndrome",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Exercise Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Metabolic Syndrome",
+    "Exercise",
+    "Physical Activity",
+    "Cardiovascular Health",
+    "Insulin Resistance",
+    "Obesity",
+    "Hypertension",
+    "Dyslipidemia"
+  ],
+  "related_modules": [
+    "EXE-102",
+    "EXE-117",
+    "MET-330"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
