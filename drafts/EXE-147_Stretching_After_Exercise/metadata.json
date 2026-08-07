@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-147",
+  "title": "Stretching After Exercise",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for stretching after exercise",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Maintenance",
+    "Recovery",
+    "Performance"
+  ],
+  "audience": [
+    "General public",
+    "Athletes",
+    "Physical therapists",
+    "Exercise professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Stretching",
+    "Post-exercise",
+    "Flexibility",
+    "Muscle recovery",
+    "Static stretching",
+    "Dynamic stretching",
+    "Range of motion",
+    "Safety in stretching"
+  ],
+  "related_modules": [
+    "EXE-098",
+    "EXE-102",
+    "REC-205"
+  ],
+  "evidence_strength": "Moderate evidence supports flexibility gains and soreness reduction; injury prevention effects remain uncertain; safety data mostly established for low-risk populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

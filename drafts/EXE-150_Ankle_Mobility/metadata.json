@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-150",
+  "title": "Ankle Mobility",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for ankle mobility",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Prevention",
+    "Performance Enhancement",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Professionals",
+    "Physical Therapists",
+    "Athletes"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Ankle Mobility",
+    "Range of Motion",
+    "Dorsiflexion",
+    "Plantarflexion",
+    "Ankle Joint",
+    "Flexibility",
+    "Exercise Progression",
+    "Injury Prevention"
+  ],
+  "related_modules": [
+    "EXE-110:Lower Limb Strength",
+    "EXE-180:Proprioception and Balance",
+    "EXE-200:Injury Prevention in Sports"
+  ],
+  "evidence_strength": "Established evidence for the importance of ankle mobility in function and injury prevention, moderate evidence supporting specific exercise interventions, emerging evidence for optimal progression strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

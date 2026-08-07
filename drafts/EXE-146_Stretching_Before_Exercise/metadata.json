@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-146",
+  "title": "Stretching Before Exercise",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for stretching before exercise",
+  "domain": "Exercise",
+  "category": "Mobility and Movement",
+  "som_stages": [
+    "Pre-Exercise",
+    "Exercise Preparation"
+  ],
+  "audience": [
+    "General Public",
+    "Athletes",
+    "Fitness Enthusiasts",
+    "Physical Therapists",
+    "Coaches"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "stretching",
+    "pre-exercise stretching",
+    "warm-up",
+    "flexibility",
+    "muscle physiology",
+    "injury prevention",
+    "dynamic stretching",
+    "static stretching",
+    "mobility",
+    "exercise preparation"
+  ],
+  "related_modules": [
+    "EXE-010",
+    "EXE-046",
+    "EXE-102"
+  ],
+  "evidence_strength": "Moderate - Evidence supports dynamic stretching benefits and limited injury prevention, but some findings remain context-dependent and evolving.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
