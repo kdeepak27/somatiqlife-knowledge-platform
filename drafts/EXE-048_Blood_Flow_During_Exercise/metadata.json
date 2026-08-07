@@ -1,0 +1,35 @@
+{
+  "module_id": "EXE-048",
+  "title": "Blood Flow During Exercise",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for blood flow during exercise",
+  "domain": "Exercise",
+  "category": "Aerobic Training",
+  "som_stages": [
+    "Pre-Exercise Assessment",
+    "Exercise Execution",
+    "Post-Exercise Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Exercise Professionals",
+    "Clinicians"
+  ],
+  "reading_level": "Intermediate (High School to Early College)",
+  "keywords": [
+    "Blood flow",
+    "Exercise physiology",
+    "Aerobic training",
+    "Vasodilation",
+    "Cardiovascular adaptation",
+    "Muscle perfusion"
+  ],
+  "related_modules": [
+    "EXE-007",
+    "EXE-059",
+    "CRD-012"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence supporting training adaptations and individual variability aspects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
