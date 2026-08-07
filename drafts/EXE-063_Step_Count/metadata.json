@@ -1,0 +1,39 @@
+{
+  "module_id": "EXE-063",
+  "title": "Step Count",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for step count",
+  "domain": "Exercise",
+  "category": "Walking and Endurance Modes",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "General public",
+    "Fitness enthusiasts",
+    "Healthcare professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate (Grade 10+)",
+  "keywords": [
+    "step count",
+    "walking",
+    "physical activity",
+    "pedometer",
+    "fitness tracking",
+    "endurance",
+    "exercise progression",
+    "health benefits",
+    "activity monitoring",
+    "physical activity guidelines"
+  ],
+  "related_modules": [
+    "EXE-058",
+    "EXE-061",
+    "EXE-067"
+  ],
+  "evidence_strength": "Established evidence for associations between step count and health outcomes; moderate evidence around exact optimal targets and device accuracy variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
