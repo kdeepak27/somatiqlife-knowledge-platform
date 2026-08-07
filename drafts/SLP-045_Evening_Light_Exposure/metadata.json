@@ -1,0 +1,36 @@
+{
+  "module_id": "SLP-045",
+  "title": "Evening Light Exposure",
+  "subtitle": "Evidence-based ways to understand and improve evening light exposure.",
+  "domain": "Sleep",
+  "category": "Healthy Sleep Habits",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "evening light",
+    "circadian rhythm",
+    "melatonin",
+    "blue light",
+    "sleep hygiene",
+    "photoreceptors",
+    "light exposure",
+    "sleep quality",
+    "chronobiology"
+  ],
+  "related_modules": [
+    "SLP-012",
+    "SLP-028",
+    "SLP-033"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

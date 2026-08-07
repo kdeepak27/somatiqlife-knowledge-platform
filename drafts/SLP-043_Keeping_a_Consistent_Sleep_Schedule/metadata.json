@@ -1,0 +1,35 @@
+{
+  "module_id": "SLP-043",
+  "title": "Keeping a Consistent Sleep Schedule",
+  "subtitle": "Evidence-based ways to understand and improve keeping a consistent sleep schedule.",
+  "domain": "Sleep",
+  "category": "Healthy Sleep Habits",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Behavior Change"
+  ],
+  "audience": [
+    "General Public",
+    "Sleep Health Educators",
+    "Healthcare Consumers"
+  ],
+  "reading_level": "8th Grade",
+  "keywords": [
+    "sleep schedule",
+    "consistency",
+    "circadian rhythm",
+    "sleep hygiene",
+    "sleep quality",
+    "bedtime routine",
+    "sleep health"
+  ],
+  "related_modules": [
+    "SLP-010_Sleep_Hygiene_Basics",
+    "SLP-027_Circadian_Rhythm_Disorders",
+    "SLP-035_Impact_of_Light_on_Sleep"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
