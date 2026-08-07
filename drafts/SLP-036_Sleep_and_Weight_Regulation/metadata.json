@@ -1,0 +1,38 @@
+{
+  "module_id": "SLP-036",
+  "title": "Sleep and Weight Regulation",
+  "subtitle": "How sleep and weight regulation are connected, what the evidence shows, and what matters in practice.",
+  "domain": "Sleep",
+  "category": "Sleep and Health",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate: Health Literate",
+  "keywords": [
+    "sleep",
+    "weight regulation",
+    "metabolism",
+    "obesity",
+    "circadian rhythm",
+    "leptin",
+    "ghrelin",
+    "appetite",
+    "energy balance"
+  ],
+  "related_modules": [
+    "SLP-021",
+    "MET-045",
+    "NUT-102"
+  ],
+  "evidence_strength": "Moderate evidence supports the association between short or disrupted sleep and increased risk of weight gain; however, causality and magnitude require further longitudinal and interventional research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
