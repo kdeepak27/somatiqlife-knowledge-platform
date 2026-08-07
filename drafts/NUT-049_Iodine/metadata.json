@@ -1,0 +1,34 @@
+{
+  "module_id": "NUT-049",
+  "title": "Iodine",
+  "subtitle": "Thyroid hormone synthesis, dietary sources, and deficiency",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Follow-up"
+  ],
+  "audience": [
+    "General Adult"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "iodine",
+    "thyroid hormone",
+    "iodine deficiency",
+    "iodized salt",
+    "goiter",
+    "thyroxine",
+    "micronutrients",
+    "dietary sources"
+  ],
+  "related_modules": [
+    "NUT-050 - Selenium and Thyroid Health",
+    "NUT-060 - Micronutrient Deficiencies in Pregnancy",
+    "NUT-070 - Salt and Mineral Fortification Strategies"
+  ],
+  "evidence_strength": "Established evidence from nutritional science and public health studies supports the role of iodine in thyroid function and the importance of fortification programs to prevent deficiency.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

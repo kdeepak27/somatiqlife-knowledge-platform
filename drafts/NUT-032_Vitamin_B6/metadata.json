@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-032",
+  "title": "Vitamin B6",
+  "subtitle": "Amino-acid metabolism, neurotransmitters, blood formation, and deficiency",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "adulthood"
+  ],
+  "audience": [
+    "general public",
+    "healthcare providers",
+    "nutrition students"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "Vitamin B6",
+    "pyridoxine",
+    "amino acid metabolism",
+    "neurotransmitters",
+    "hemodynamics",
+    "anemia",
+    "micronutrient deficiency"
+  ],
+  "related_modules": [
+    "NUT-015-Vitamin-B-Complex",
+    "NUT-045-Iron-Metabolism",
+    "NUT-052-Neurotransmitters-Nutrition"
+  ],
+  "evidence_strength": "Established evidence for fundamental roles; emerging research on therapeutic potentials and interactions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

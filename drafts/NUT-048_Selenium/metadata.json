@@ -1,0 +1,32 @@
+{
+  "module_id": "NUT-048",
+  "title": "Selenium",
+  "subtitle": "Selenoproteins, thyroid function, antioxidant defense, and excess",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "prevention",
+    "maintenance"
+  ],
+  "audience": [
+    "general adult"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "selenium",
+    "selenoproteins",
+    "thyroid",
+    "antioxidants",
+    "micronutrients",
+    "toxicity",
+    "nutrition"
+  ],
+  "related_modules": [
+    "NUT-022: Antioxidants and Oxidative Stress",
+    "NUT-034: Thyroid Health and Nutrition",
+    "NUT-051: Micronutrient Toxicities"
+  ],
+  "evidence_strength": "Established evidence from nutritional science and clinical observations supports the essential roles of selenium and selenoproteins, while ongoing research continues to refine understanding of optimal intake levels and broader health impacts.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

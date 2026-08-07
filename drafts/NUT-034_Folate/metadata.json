@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-034",
+  "title": "Folate",
+  "subtitle": "One-carbon metabolism, DNA synthesis, pregnancy, and deficiency",
+  "domain": "Nutrition",
+  "category": "Micronutrients",
+  "som_stages": [
+    "prevention",
+    "management"
+  ],
+  "audience": [
+    "general adult"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "folate",
+    "vitamin B9",
+    "one-carbon metabolism",
+    "DNA synthesis",
+    "pregnancy nutrition",
+    "folate deficiency",
+    "micronutrients",
+    "homocysteine"
+  ],
+  "related_modules": [
+    "NUT-012_Vitamin_B12",
+    "NUT-045_Micronutrient_Deficiencies",
+    "HLM-022_Pregnancy_Nutrition"
+  ],
+  "evidence_strength": "Established evidence with consensus from nutrition science and clinical guidelines",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
