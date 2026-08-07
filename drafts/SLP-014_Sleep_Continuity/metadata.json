@@ -1,0 +1,37 @@
+{
+  "module_id": "SLP-014",
+  "title": "Sleep Continuity",
+  "subtitle": "Core concepts, physiology, evidence, and practical implications of sleep continuity.",
+  "domain": "Sleep",
+  "category": "Sleep Foundations",
+  "som_stages": [
+    "Healthy",
+    "At Risk",
+    "Early Disease"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep continuity",
+    "sleep maintenance",
+    "sleep fragmentation",
+    "sleep physiology",
+    "sleep quality",
+    "insomnia",
+    "sleep disorders",
+    "sleep architecture"
+  ],
+  "related_modules": [
+    "SLP-005",
+    "SLP-008",
+    "SLP-022"
+  ],
+  "evidence_strength": "Established Evidence with Some Emerging Aspects",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
