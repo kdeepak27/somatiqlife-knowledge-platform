@@ -99,6 +99,11 @@ BIO-097,"Tendons, Ligaments, and Fascia",Human Biology,Connective Tissue Biology
 BIO-098,Movement Control,Human Biology,Movement Science,1.0,drafts,drafts/BIO-098_Movement_Control/module.json
 BIO-099,Exercise Adaptation,Human Biology,Exercise Physiology,1.0,drafts,drafts/BIO-099_Exercise_Adaptation/module.json
 BIO-100,Recovery and Physiological Resilience,Human Biology,Recovery and Adaptation,1.0,drafts,drafts/BIO-100_Recovery_and_Physiological_Resilience/module.json
+EXE-001,Fundamentals of Exercise Science,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-001_Fundamentals_of_Exercise_Science/module.json
+EXE-002,Physical Activity vs Exercise,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-002_Physical_Activity_vs_Exercise/module.json
+EXE-003,Health Benefits of Regular Exercise,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-003_Health_Benefits_of_Regular_Exercise/module.json
+EXE-004,Exercise Dose,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-004_Exercise_Dose/module.json
+EXE-005,The FITT Principle,Exercise,Exercise Foundations,1.0,drafts,drafts/EXE-005_The_FITT_Principle/module.json
 NUT-001,Fundamentals of Human Nutrition,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-001_Fundamentals_of_Human_Nutrition/module.json
 NUT-002,Nutrients and Energy Balance,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-002_Nutrients_and_Energy_Balance/module.json
 NUT-003,Macronutrients Overview,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-003_Macronutrients_Overview/module.json
@@ -449,3 +454,253 @@ BIO-097,"Tendons, Ligaments, and Fascia",Human Biology,Connective Tissue Biology
 BIO-098,Movement Control,Human Biology,Movement Science,1.0,approved,approved/BIO-098_Movement_Control/module.json
 BIO-099,Exercise Adaptation,Human Biology,Exercise Physiology,1.0,approved,approved/BIO-099_Exercise_Adaptation/module.json
 BIO-100,Recovery and Physiological Resilience,Human Biology,Recovery and Adaptation,1.0,approved,approved/BIO-100_Recovery_and_Physiological_Resilience/module.json
+NUT-001,Fundamentals of Human Nutrition,Nutrition,Nutrition Foundations,1.0,approved,approved/NUT-001_Fundamentals_of_Human_Nutrition/module.json
+NUT-002,Nutrients and Energy Balance,Nutrition,Nutrition Foundations,1.0,approved,approved/NUT-002_Nutrients_and_Energy_Balance/module.json
+NUT-003,Macronutrients Overview,Nutrition,Macronutrients,1.0,approved,approved/NUT-003_Macronutrients_Overview/module.json
+NUT-004,Carbohydrates,Nutrition,Macronutrients,1.0,approved,approved/NUT-004_Carbohydrates/module.json
+NUT-005,Dietary Fiber,Nutrition,Macronutrients,1.0,approved,approved/NUT-005_Dietary_Fiber/module.json
+NUT-006,Sugars,Nutrition,Macronutrients,1.0,approved,approved/NUT-006_Sugars/module.json
+NUT-007,Starches,Nutrition,Macronutrients,1.0,approved,approved/NUT-007_Starches/module.json
+NUT-008,Protein,Nutrition,Macronutrients,1.0,approved,approved/NUT-008_Protein/module.json
+NUT-009,Essential Amino Acids,Nutrition,Macronutrients,1.0,approved,approved/NUT-009_Essential_Amino_Acids/module.json
+NUT-010,Protein Quality,Nutrition,Macronutrients,1.0,approved,approved/NUT-010_Protein_Quality/module.json
+NUT-011,Protein Distribution Across the Day,Nutrition,Macronutrients,1.0,approved,approved/NUT-011_Protein_Distribution_Across_the_Day/module.json
+NUT-012,Dietary Fat,Nutrition,Macronutrients,1.0,approved,approved/NUT-012_Dietary_Fat/module.json
+NUT-013,Saturated Fat,Nutrition,Macronutrients,1.0,approved,approved/NUT-013_Saturated_Fat/module.json
+NUT-014,Monounsaturated Fat,Nutrition,Macronutrients,1.0,approved,approved/NUT-014_Monounsaturated_Fat/module.json
+NUT-015,Polyunsaturated Fat,Nutrition,Macronutrients,1.0,approved,approved/NUT-015_Polyunsaturated_Fat/module.json
+NUT-016,Trans Fat,Nutrition,Macronutrients,1.0,approved,approved/NUT-016_Trans_Fat/module.json
+NUT-017,Omega-3 Fatty Acids,Nutrition,Macronutrients,1.0,approved,approved/NUT-017_Omega-3_Fatty_Acids/module.json
+NUT-018,Omega-6 Fatty Acids,Nutrition,Macronutrients,1.0,approved,approved/NUT-018_Omega-6_Fatty_Acids/module.json
+NUT-019,Cholesterol in Food,Nutrition,Macronutrients,1.0,approved,approved/NUT-019_Cholesterol_in_Food/module.json
+NUT-020,Water,Nutrition,Hydration,1.0,approved,approved/NUT-020_Water/module.json
+NUT-021,Electrolytes,Nutrition,Hydration,1.0,approved,approved/NUT-021_Electrolytes/module.json
+NUT-022,Energy Density,Nutrition,Nutrition Foundations,1.0,approved,approved/NUT-022_Energy_Density/module.json
+NUT-023,Nutrient Density,Nutrition,Nutrition Foundations,1.0,approved,approved/NUT-023_Nutrient_Density/module.json
+NUT-024,Bioavailability,Nutrition,Nutrition Foundations,1.0,approved,approved/NUT-024_Bioavailability/module.json
+NUT-025,Nutrient Interactions,Nutrition,Nutrition Foundations,1.0,approved,approved/NUT-025_Nutrient_Interactions/module.json
+NUT-026,Vitamins Overview,Nutrition,Micronutrients,1.0,approved,approved/NUT-026_Vitamins_Overview/module.json
+NUT-027,Vitamin A,Nutrition,Micronutrients,1.0,approved,approved/NUT-027_Vitamin_A/module.json
+NUT-028,Vitamin B1 Thiamin,Nutrition,Micronutrients,1.0,approved,approved/NUT-028_Vitamin_B1_Thiamin/module.json
+NUT-029,Vitamin B2 Riboflavin,Nutrition,Micronutrients,1.0,approved,approved/NUT-029_Vitamin_B2_Riboflavin/module.json
+NUT-030,Vitamin B3 Niacin,Nutrition,Micronutrients,1.0,approved,approved/NUT-030_Vitamin_B3_Niacin/module.json
+NUT-031,Vitamin B5 Pantothenic Acid,Nutrition,Micronutrients,1.0,approved,approved/NUT-031_Vitamin_B5_Pantothenic_Acid/module.json
+NUT-032,Vitamin B6,Nutrition,Micronutrients,1.0,approved,approved/NUT-032_Vitamin_B6/module.json
+NUT-033,Biotin,Nutrition,Micronutrients,1.0,approved,approved/NUT-033_Biotin/module.json
+NUT-034,Folate,Nutrition,Micronutrients,1.0,approved,approved/NUT-034_Folate/module.json
+NUT-035,Vitamin B12,Nutrition,Micronutrients,1.0,approved,approved/NUT-035_Vitamin_B12/module.json
+NUT-036,Vitamin C,Nutrition,Micronutrients,1.0,approved,approved/NUT-036_Vitamin_C/module.json
+NUT-037,Vitamin D,Nutrition,Micronutrients,1.0,approved,approved/NUT-037_Vitamin_D/module.json
+NUT-038,Vitamin E,Nutrition,Micronutrients,1.0,approved,approved/NUT-038_Vitamin_E/module.json
+NUT-039,Vitamin K,Nutrition,Micronutrients,1.0,approved,approved/NUT-039_Vitamin_K/module.json
+NUT-040,Choline,Nutrition,Micronutrients,1.0,approved,approved/NUT-040_Choline/module.json
+NUT-041,Minerals Overview,Nutrition,Micronutrients,1.0,approved,approved/NUT-041_Minerals_Overview/module.json
+NUT-042,Calcium,Nutrition,Micronutrients,1.0,approved,approved/NUT-042_Calcium/module.json
+NUT-043,Iron,Nutrition,Micronutrients,1.0,approved,approved/NUT-043_Iron/module.json
+NUT-044,Magnesium,Nutrition,Micronutrients,1.0,approved,approved/NUT-044_Magnesium/module.json
+NUT-045,Potassium,Nutrition,Micronutrients,1.0,approved,approved/NUT-045_Potassium/module.json
+NUT-046,Sodium,Nutrition,Micronutrients,1.0,approved,approved/NUT-046_Sodium/module.json
+NUT-047,Zinc,Nutrition,Micronutrients,1.0,approved,approved/NUT-047_Zinc/module.json
+NUT-048,Selenium,Nutrition,Micronutrients,1.0,approved,approved/NUT-048_Selenium/module.json
+NUT-049,Iodine,Nutrition,Micronutrients,1.0,approved,approved/NUT-049_Iodine/module.json
+NUT-050,Copper,Nutrition,Micronutrients,1.0,approved,approved/NUT-050_Copper/module.json
+NUT-051,Manganese,Nutrition,Micronutrients,1.0,approved,approved/NUT-051_Manganese/module.json
+NUT-052,Phosphorus,Nutrition,Micronutrients,1.0,approved,approved/NUT-052_Phosphorus/module.json
+NUT-053,Chromium,Nutrition,Micronutrients,1.0,approved,approved/NUT-053_Chromium/module.json
+NUT-054,Molybdenum,Nutrition,Micronutrients,1.0,approved,approved/NUT-054_Molybdenum/module.json
+NUT-055,Chloride,Nutrition,Micronutrients,1.0,approved,approved/NUT-055_Chloride/module.json
+NUT-056,Fluoride,Nutrition,Micronutrients,1.0,approved,approved/NUT-056_Fluoride/module.json
+NUT-057,Micronutrient Deficiency,Nutrition,Micronutrients,1.0,approved,approved/NUT-057_Micronutrient_Deficiency/module.json
+NUT-058,Micronutrient Excess and Toxicity,Nutrition,Micronutrients,1.0,approved,approved/NUT-058_Micronutrient_Excess_and_Toxicity/module.json
+NUT-059,Multivitamins,Nutrition,Supplements,1.0,approved,approved/NUT-059_Multivitamins/module.json
+NUT-060,Micronutrient Needs Across Adulthood,Nutrition,Micronutrients,1.0,approved,approved/NUT-060_Micronutrient_Needs_Across_Adulthood/module.json
+NUT-061,Digestion Overview,Nutrition,Digestion,1.0,approved,approved/NUT-061_Digestion_Overview/module.json
+NUT-062,Carbohydrate Digestion and Absorption,Nutrition,Digestion,1.0,approved,approved/NUT-062_Carbohydrate_Digestion_and_Absorption/module.json
+NUT-063,Protein Digestion and Absorption,Nutrition,Digestion,1.0,approved,approved/NUT-063_Protein_Digestion_and_Absorption/module.json
+NUT-064,Fat Digestion and Absorption,Nutrition,Digestion,1.0,approved,approved/NUT-064_Fat_Digestion_and_Absorption/module.json
+NUT-065,Vitamin and Mineral Absorption,Nutrition,Digestion,1.0,approved,approved/NUT-065_Vitamin_and_Mineral_Absorption/module.json
+NUT-066,The Gut Microbiome and Nutrition,Nutrition,Gut Nutrition,1.0,approved,approved/NUT-066_The_Gut_Microbiome_and_Nutrition/module.json
+NUT-067,Prebiotics,Nutrition,Gut Nutrition,1.0,approved,approved/NUT-067_Prebiotics/module.json
+NUT-068,Probiotics,Nutrition,Gut Nutrition,1.0,approved,approved/NUT-068_Probiotics/module.json
+NUT-069,Postbiotics,Nutrition,Gut Nutrition,1.0,approved,approved/NUT-069_Postbiotics/module.json
+NUT-070,Fermented Foods,Nutrition,Gut Nutrition,1.0,approved,approved/NUT-070_Fermented_Foods/module.json
+NUT-071,Short-Chain Fatty Acids,Nutrition,Gut Nutrition,1.0,approved,approved/NUT-071_Short-Chain_Fatty_Acids/module.json
+NUT-072,Metabolism Overview,Nutrition,Metabolism,1.0,approved,approved/NUT-072_Metabolism_Overview/module.json
+NUT-073,Basal Metabolic Rate,Nutrition,Metabolism,1.0,approved,approved/NUT-073_Basal_Metabolic_Rate/module.json
+NUT-074,Total Daily Energy Expenditure,Nutrition,Metabolism,1.0,approved,approved/NUT-074_Total_Daily_Energy_Expenditure/module.json
+NUT-075,Thermic Effect of Food,Nutrition,Metabolism,1.0,approved,approved/NUT-075_Thermic_Effect_of_Food/module.json
+NUT-076,Metabolic Adaptation During Weight Loss,Nutrition,Weight Management,1.0,approved,approved/NUT-076_Metabolic_Adaptation_During_Weight_Loss/module.json
+NUT-077,Metabolic Flexibility,Nutrition,Metabolism,1.0,approved,approved/NUT-077_Metabolic_Flexibility/module.json
+NUT-078,Blood Glucose Regulation,Nutrition,Metabolism,1.0,approved,approved/NUT-078_Blood_Glucose_Regulation/module.json
+NUT-079,Insulin,Nutrition,Metabolism,1.0,approved,approved/NUT-079_Insulin/module.json
+NUT-080,Glucagon,Nutrition,Metabolism,1.0,approved,approved/NUT-080_Glucagon/module.json
+NUT-081,Hunger and Satiety,Nutrition,Appetite,1.0,approved,approved/NUT-081_Hunger_and_Satiety/module.json
+NUT-082,Leptin,Nutrition,Appetite,1.0,approved,approved/NUT-082_Leptin/module.json
+NUT-083,Ghrelin,Nutrition,Appetite,1.0,approved,approved/NUT-083_Ghrelin/module.json
+NUT-084,GLP-1 and Other Gut Hormones,Nutrition,Appetite,1.0,approved,approved/NUT-084_GLP-1_and_Other_Gut_Hormones/module.json
+NUT-085,Food Reward and Cravings,Nutrition,Appetite,1.0,approved,approved/NUT-085_Food_Reward_and_Cravings/module.json
+NUT-086,Dietary Patterns,Nutrition,Diet Quality,1.0,approved,approved/NUT-086_Dietary_Patterns/module.json
+NUT-087,Whole Foods,Nutrition,Diet Quality,1.0,approved,approved/NUT-087_Whole_Foods/module.json
+NUT-088,Food Processing,Nutrition,Diet Quality,1.0,approved,approved/NUT-088_Food_Processing/module.json
+NUT-089,Ultra-Processed Foods,Nutrition,Diet Quality,1.0,approved,approved/NUT-089_Ultra-Processed_Foods/module.json
+NUT-090,Food Additives,Nutrition,Food Science,1.0,approved,approved/NUT-090_Food_Additives/module.json
+NUT-091,Food Labels,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-091_Food_Labels/module.json
+NUT-092,Serving Sizes,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-092_Serving_Sizes/module.json
+NUT-093,Portion Control,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-093_Portion_Control/module.json
+NUT-094,Meal Planning,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-094_Meal_Planning/module.json
+NUT-095,Healthy Grocery Shopping,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-095_Healthy_Grocery_Shopping/module.json
+NUT-096,Healthy Cooking Methods,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-096_Healthy_Cooking_Methods/module.json
+NUT-097,Meal Prep,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-097_Meal_Prep/module.json
+NUT-098,Eating Out,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-098_Eating_Out/module.json
+NUT-099,Takeout and Delivery,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-099_Takeout_and_Delivery/module.json
+NUT-100,Snacking,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-100_Snacking/module.json
+NUT-101,Breakfast,Nutrition,Meal Patterns,1.0,approved,approved/NUT-101_Breakfast/module.json
+NUT-102,Lunch,Nutrition,Meal Patterns,1.0,approved,approved/NUT-102_Lunch/module.json
+NUT-103,Dinner,Nutrition,Meal Patterns,1.0,approved,approved/NUT-103_Dinner/module.json
+NUT-104,Desserts,Nutrition,Meal Patterns,1.0,approved,approved/NUT-104_Desserts/module.json
+NUT-105,Healthy Beverages,Nutrition,Beverages,1.0,approved,approved/NUT-105_Healthy_Beverages/module.json
+NUT-106,Sugar-Sweetened Beverages,Nutrition,Beverages,1.0,approved,approved/NUT-106_Sugar-Sweetened_Beverages/module.json
+NUT-107,Coffee,Nutrition,Beverages,1.0,approved,approved/NUT-107_Coffee/module.json
+NUT-108,Tea,Nutrition,Beverages,1.0,approved,approved/NUT-108_Tea/module.json
+NUT-109,Energy Drinks,Nutrition,Beverages,1.0,approved,approved/NUT-109_Energy_Drinks/module.json
+NUT-110,Alcohol and Nutrition,Nutrition,Beverages,1.0,approved,approved/NUT-110_Alcohol_and_Nutrition/module.json
+NUT-111,Artificial and Non-Nutritive Sweeteners,Nutrition,Food Science,1.0,approved,approved/NUT-111_Artificial_and_Non-Nutritive_Sweeteners/module.json
+NUT-112,Sugar Alcohols,Nutrition,Food Science,1.0,approved,approved/NUT-112_Sugar_Alcohols/module.json
+NUT-113,Salt and Sodium Reduction,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-113_Salt_and_Sodium_Reduction/module.json
+NUT-114,Added Sugar Reduction,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-114_Added_Sugar_Reduction/module.json
+NUT-115,Mindful Eating,Nutrition,Eating Behavior,1.0,approved,approved/NUT-115_Mindful_Eating/module.json
+NUT-116,Intuitive Eating,Nutrition,Eating Behavior,1.0,approved,approved/NUT-116_Intuitive_Eating/module.json
+NUT-117,Emotional Eating,Nutrition,Eating Behavior,1.0,approved,approved/NUT-117_Emotional_Eating/module.json
+NUT-118,Eating Speed,Nutrition,Eating Behavior,1.0,approved,approved/NUT-118_Eating_Speed/module.json
+NUT-119,Food Environment,Nutrition,Eating Behavior,1.0,approved,approved/NUT-119_Food_Environment/module.json
+NUT-120,Building Sustainable Eating Habits,Nutrition,Eating Behavior,1.0,approved,approved/NUT-120_Building_Sustainable_Eating_Habits/module.json
+NUT-121,Mediterranean Diet,Nutrition,Dietary Patterns,1.0,approved,approved/NUT-121_Mediterranean_Diet/module.json
+NUT-122,DASH Diet,Nutrition,Dietary Patterns,1.0,approved,approved/NUT-122_DASH_Diet/module.json
+NUT-123,Plant-Forward Eating,Nutrition,Dietary Patterns,1.0,approved,approved/NUT-123_Plant-Forward_Eating/module.json
+NUT-124,Vegetarian Nutrition,Nutrition,Dietary Patterns,1.0,approved,approved/NUT-124_Vegetarian_Nutrition/module.json
+NUT-125,Vegan Nutrition,Nutrition,Dietary Patterns,1.0,approved,approved/NUT-125_Vegan_Nutrition/module.json
+NUT-126,Flexitarian Eating,Nutrition,Dietary Patterns,1.0,approved,approved/NUT-126_Flexitarian_Eating/module.json
+NUT-127,Low-Carbohydrate Diets,Nutrition,Dietary Patterns,1.0,approved,approved/NUT-127_Low-Carbohydrate_Diets/module.json
+NUT-128,Ketogenic Diet,Nutrition,Dietary Patterns,1.0,approved,approved/NUT-128_Ketogenic_Diet/module.json
+NUT-129,Low-Fat Diets,Nutrition,Dietary Patterns,1.0,approved,approved/NUT-129_Low-Fat_Diets/module.json
+NUT-130,High-Protein Diets,Nutrition,Dietary Patterns,1.0,approved,approved/NUT-130_High-Protein_Diets/module.json
+NUT-131,Intermittent Fasting,Nutrition,Meal Timing,1.0,approved,approved/NUT-131_Intermittent_Fasting/module.json
+NUT-132,Time-Restricted Eating,Nutrition,Meal Timing,1.0,approved,approved/NUT-132_Time-Restricted_Eating/module.json
+NUT-133,Alternate-Day Fasting,Nutrition,Meal Timing,1.0,approved,approved/NUT-133_Alternate-Day_Fasting/module.json
+NUT-134,Meal Frequency,Nutrition,Meal Timing,1.0,approved,approved/NUT-134_Meal_Frequency/module.json
+NUT-135,Early vs Late Eating,Nutrition,Meal Timing,1.0,approved,approved/NUT-135_Early_vs_Late_Eating/module.json
+NUT-136,Mediterranean-Style South Asian Eating,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-136_Mediterranean-Style_South_Asian_Eating/module.json
+NUT-137,Traditional Indian Dietary Patterns,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-137_Traditional_Indian_Dietary_Patterns/module.json
+NUT-138,North Indian Nutrition,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-138_North_Indian_Nutrition/module.json
+NUT-139,South Indian Nutrition,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-139_South_Indian_Nutrition/module.json
+NUT-140,Gujarati Nutrition,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-140_Gujarati_Nutrition/module.json
+NUT-141,Punjabi Nutrition,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-141_Punjabi_Nutrition/module.json
+NUT-142,Bengali Nutrition,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-142_Bengali_Nutrition/module.json
+NUT-143,Maharashtrian Nutrition,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-143_Maharashtrian_Nutrition/module.json
+NUT-144,South Asian Vegetarian Diets,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-144_South_Asian_Vegetarian_Diets/module.json
+NUT-145,Indian Restaurant Eating,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-145_Indian_Restaurant_Eating/module.json
+NUT-146,Indian Snacks and Street Foods,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-146_Indian_Snacks_and_Street_Foods/module.json
+NUT-147,Indian Sweets and Desserts,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-147_Indian_Sweets_and_Desserts/module.json
+NUT-148,Rice in a Healthy Diet,Nutrition,Staple Foods,1.0,approved,approved/NUT-148_Rice_in_a_Healthy_Diet/module.json
+NUT-149,"Roti, Chapati, and Flatbreads",Nutrition,Staple Foods,1.0,approved,"approved/NUT-149_Roti,_Chapati,_and_Flatbreads/module.json"
+NUT-150,Dal and Lentils,Nutrition,Staple Foods,1.0,approved,approved/NUT-150_Dal_and_Lentils/module.json
+NUT-151,Beans and Chickpeas,Nutrition,Staple Foods,1.0,approved,approved/NUT-151_Beans_and_Chickpeas/module.json
+NUT-152,Dairy in South Asian Diets,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-152_Dairy_in_South_Asian_Diets/module.json
+NUT-153,Ghee,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-153_Ghee/module.json
+NUT-154,Spices and Herbs,Nutrition,Food Science,1.0,approved,approved/NUT-154_Spices_and_Herbs/module.json
+NUT-155,Healthy Indian Meal Construction,Nutrition,Cultural Nutrition,1.0,approved,approved/NUT-155_Healthy_Indian_Meal_Construction/module.json
+NUT-156,Nutrition for Weight Management,Nutrition,Weight Management,1.0,approved,approved/NUT-156_Nutrition_for_Weight_Management/module.json
+NUT-157,Nutrition for Fat Loss,Nutrition,Weight Management,1.0,approved,approved/NUT-157_Nutrition_for_Fat_Loss/module.json
+NUT-158,Nutrition for Weight Gain,Nutrition,Weight Management,1.0,approved,approved/NUT-158_Nutrition_for_Weight_Gain/module.json
+NUT-159,Nutrition for Muscle Gain,Nutrition,Sports Nutrition,1.0,approved,approved/NUT-159_Nutrition_for_Muscle_Gain/module.json
+NUT-160,Nutrition for Strength Training,Nutrition,Sports Nutrition,1.0,approved,approved/NUT-160_Nutrition_for_Strength_Training/module.json
+NUT-161,Nutrition for Endurance Exercise,Nutrition,Sports Nutrition,1.0,approved,approved/NUT-161_Nutrition_for_Endurance_Exercise/module.json
+NUT-162,Pre-Workout Nutrition,Nutrition,Sports Nutrition,1.0,approved,approved/NUT-162_Pre-Workout_Nutrition/module.json
+NUT-163,Post-Workout Nutrition,Nutrition,Sports Nutrition,1.0,approved,approved/NUT-163_Post-Workout_Nutrition/module.json
+NUT-164,Hydration for Exercise,Nutrition,Sports Nutrition,1.0,approved,approved/NUT-164_Hydration_for_Exercise/module.json
+NUT-165,Sports Drinks,Nutrition,Sports Nutrition,1.0,approved,approved/NUT-165_Sports_Drinks/module.json
+NUT-166,Protein Supplements,Nutrition,Supplements,1.0,approved,approved/NUT-166_Protein_Supplements/module.json
+NUT-167,Creatine,Nutrition,Supplements,1.0,approved,approved/NUT-167_Creatine/module.json
+NUT-168,Caffeine for Performance,Nutrition,Supplements,1.0,approved,approved/NUT-168_Caffeine_for_Performance/module.json
+NUT-169,Beta-Alanine,Nutrition,Supplements,1.0,approved,approved/NUT-169_Beta-Alanine/module.json
+NUT-170,Nitrate and Beetroot,Nutrition,Supplements,1.0,approved,approved/NUT-170_Nitrate_and_Beetroot/module.json
+NUT-171,Nutrition for Healthy Aging,Nutrition,Life Stage Nutrition,1.0,approved,approved/NUT-171_Nutrition_for_Healthy_Aging/module.json
+NUT-172,Protein Needs in Older Adults,Nutrition,Life Stage Nutrition,1.0,approved,approved/NUT-172_Protein_Needs_in_Older_Adults/module.json
+NUT-173,Nutrition for Bone Health,Nutrition,Life Stage Nutrition,1.0,approved,approved/NUT-173_Nutrition_for_Bone_Health/module.json
+NUT-174,Nutrition for Brain Health,Nutrition,Life Stage Nutrition,1.0,approved,approved/NUT-174_Nutrition_for_Brain_Health/module.json
+NUT-175,Nutrition During Menopause,Nutrition,Life Stage Nutrition,1.0,approved,approved/NUT-175_Nutrition_During_Menopause/module.json
+NUT-176,Nutrition for Men Over 40,Nutrition,Life Stage Nutrition,1.0,approved,approved/NUT-176_Nutrition_for_Men_Over_40/module.json
+NUT-177,Nutrition for Women Over 40,Nutrition,Life Stage Nutrition,1.0,approved,approved/NUT-177_Nutrition_for_Women_Over_40/module.json
+NUT-178,Nutrition During Pregnancy,Nutrition,Life Stage Nutrition,1.0,approved,approved/NUT-178_Nutrition_During_Pregnancy/module.json
+NUT-179,Nutrition During Breastfeeding,Nutrition,Life Stage Nutrition,1.0,approved,approved/NUT-179_Nutrition_During_Breastfeeding/module.json
+NUT-180,Nutrition for Children,Nutrition,Life Stage Nutrition,1.0,approved,approved/NUT-180_Nutrition_for_Children/module.json
+NUT-181,Nutrition for Adolescents,Nutrition,Life Stage Nutrition,1.0,approved,approved/NUT-181_Nutrition_for_Adolescents/module.json
+NUT-182,Nutrition for College Students,Nutrition,Life Stage Nutrition,1.0,approved,approved/NUT-182_Nutrition_for_College_Students/module.json
+NUT-183,Nutrition for Shift Workers,Nutrition,Life Stage Nutrition,1.0,approved,approved/NUT-183_Nutrition_for_Shift_Workers/module.json
+NUT-184,Nutrition for Travelers,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-184_Nutrition_for_Travelers/module.json
+NUT-185,Nutrition During Illness and Recovery,Nutrition,Clinical Nutrition,1.0,approved,approved/NUT-185_Nutrition_During_Illness_and_Recovery/module.json
+NUT-186,Nutrition After Surgery,Nutrition,Clinical Nutrition,1.0,approved,approved/NUT-186_Nutrition_After_Surgery/module.json
+NUT-187,Nutrition for Wound Healing,Nutrition,Clinical Nutrition,1.0,approved,approved/NUT-187_Nutrition_for_Wound_Healing/module.json
+NUT-188,Nutrition and Sleep,Nutrition,Lifestyle Nutrition,1.0,approved,approved/NUT-188_Nutrition_and_Sleep/module.json
+NUT-189,Nutrition and Stress,Nutrition,Lifestyle Nutrition,1.0,approved,approved/NUT-189_Nutrition_and_Stress/module.json
+NUT-190,Nutrition and Mood,Nutrition,Lifestyle Nutrition,1.0,approved,approved/NUT-190_Nutrition_and_Mood/module.json
+NUT-191,Nutrition for Prediabetes,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-191_Nutrition_for_Prediabetes/module.json
+NUT-192,Nutrition for Type 2 Diabetes,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-192_Nutrition_for_Type_2_Diabetes/module.json
+NUT-193,Nutrition for Insulin Resistance,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-193_Nutrition_for_Insulin_Resistance/module.json
+NUT-194,Nutrition for Metabolic Syndrome,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-194_Nutrition_for_Metabolic_Syndrome/module.json
+NUT-195,Nutrition for High Blood Pressure,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-195_Nutrition_for_High_Blood_Pressure/module.json
+NUT-196,Nutrition for High LDL Cholesterol,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-196_Nutrition_for_High_LDL_Cholesterol/module.json
+NUT-197,Nutrition for High Triglycerides,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-197_Nutrition_for_High_Triglycerides/module.json
+NUT-198,Nutrition for Cardiovascular Health,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-198_Nutrition_for_Cardiovascular_Health/module.json
+NUT-199,Nutrition After a Heart Attack,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-199_Nutrition_After_a_Heart_Attack/module.json
+NUT-200,Nutrition for Fatty Liver Disease,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-200_Nutrition_for_Fatty_Liver_Disease/module.json
+NUT-201,Nutrition for Chronic Kidney Disease,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-201_Nutrition_for_Chronic_Kidney_Disease/module.json
+NUT-202,Nutrition for Kidney Stones,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-202_Nutrition_for_Kidney_Stones/module.json
+NUT-203,Nutrition for Gout,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-203_Nutrition_for_Gout/module.json
+NUT-204,Nutrition for Osteoporosis,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-204_Nutrition_for_Osteoporosis/module.json
+NUT-205,Nutrition for Osteoarthritis,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-205_Nutrition_for_Osteoarthritis/module.json
+NUT-206,Nutrition for Constipation,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-206_Nutrition_for_Constipation/module.json
+NUT-207,Nutrition for Diarrhea,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-207_Nutrition_for_Diarrhea/module.json
+NUT-208,Nutrition for GERD and Acid Reflux,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-208_Nutrition_for_GERD_and_Acid_Reflux/module.json
+NUT-209,Nutrition for Irritable Bowel Syndrome,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-209_Nutrition_for_Irritable_Bowel_Syndrome/module.json
+NUT-210,Low-FODMAP Diet,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-210_Low-FODMAP_Diet/module.json
+NUT-211,Nutrition for Celiac Disease,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-211_Nutrition_for_Celiac_Disease/module.json
+NUT-212,Gluten-Free Diets Without Celiac Disease,Nutrition,Dietary Patterns,1.0,approved,approved/NUT-212_Gluten-Free_Diets_Without_Celiac_Disease/module.json
+NUT-213,Lactose Intolerance,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-213_Lactose_Intolerance/module.json
+NUT-214,Food Allergies,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-214_Food_Allergies/module.json
+NUT-215,Food Intolerances,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-215_Food_Intolerances/module.json
+NUT-216,Nutrition for Anemia,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-216_Nutrition_for_Anemia/module.json
+NUT-217,Nutrition for Hypothyroidism,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-217_Nutrition_for_Hypothyroidism/module.json
+NUT-218,Nutrition for PCOS,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-218_Nutrition_for_PCOS/module.json
+NUT-219,Nutrition for Cancer Prevention,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-219_Nutrition_for_Cancer_Prevention/module.json
+NUT-220,Nutrition During Cancer Treatment,Nutrition,Clinical Nutrition,1.0,approved,approved/NUT-220_Nutrition_During_Cancer_Treatment/module.json
+NUT-221,Nutrition for Cognitive Health,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-221_Nutrition_for_Cognitive_Health/module.json
+NUT-222,Nutrition for Depression and Anxiety,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-222_Nutrition_for_Depression_and_Anxiety/module.json
+NUT-223,Nutrition for Migraine,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-223_Nutrition_for_Migraine/module.json
+NUT-224,Nutrition for Autoimmune Disease,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-224_Nutrition_for_Autoimmune_Disease/module.json
+NUT-225,Nutrition and Chronic Inflammation,Nutrition,Condition Nutrition,1.0,approved,approved/NUT-225_Nutrition_and_Chronic_Inflammation/module.json
+NUT-226,Dietary Supplements Overview,Nutrition,Supplements,1.0,approved,approved/NUT-226_Dietary_Supplements_Overview/module.json
+NUT-227,Vitamin D Supplements,Nutrition,Supplements,1.0,approved,approved/NUT-227_Vitamin_D_Supplements/module.json
+NUT-228,Vitamin B12 Supplements,Nutrition,Supplements,1.0,approved,approved/NUT-228_Vitamin_B12_Supplements/module.json
+NUT-229,Iron Supplements,Nutrition,Supplements,1.0,approved,approved/NUT-229_Iron_Supplements/module.json
+NUT-230,Magnesium Supplements,Nutrition,Supplements,1.0,approved,approved/NUT-230_Magnesium_Supplements/module.json
+NUT-231,Calcium Supplements,Nutrition,Supplements,1.0,approved,approved/NUT-231_Calcium_Supplements/module.json
+NUT-232,Omega-3 Supplements,Nutrition,Supplements,1.0,approved,approved/NUT-232_Omega-3_Supplements/module.json
+NUT-233,Fiber Supplements,Nutrition,Supplements,1.0,approved,approved/NUT-233_Fiber_Supplements/module.json
+NUT-234,Probiotic Supplements,Nutrition,Supplements,1.0,approved,approved/NUT-234_Probiotic_Supplements/module.json
+NUT-235,Herbal Supplements,Nutrition,Supplements,1.0,approved,approved/NUT-235_Herbal_Supplements/module.json
+NUT-236,Supplement-Drug Interactions,Nutrition,Supplements,1.0,approved,approved/NUT-236_Supplement-Drug_Interactions/module.json
+NUT-237,Evaluating Supplement Claims,Nutrition,Nutrition Literacy,1.0,approved,approved/NUT-237_Evaluating_Supplement_Claims/module.json
+NUT-238,Nutrition Research Basics,Nutrition,Nutrition Literacy,1.0,approved,approved/NUT-238_Nutrition_Research_Basics/module.json
+NUT-239,Understanding Nutrition Headlines,Nutrition,Nutrition Literacy,1.0,approved,approved/NUT-239_Understanding_Nutrition_Headlines/module.json
+NUT-240,Correlation vs Causation in Nutrition,Nutrition,Nutrition Literacy,1.0,approved,approved/NUT-240_Correlation_vs_Causation_in_Nutrition/module.json
+NUT-241,Randomized Nutrition Trials,Nutrition,Nutrition Literacy,1.0,approved,approved/NUT-241_Randomized_Nutrition_Trials/module.json
+NUT-242,Nutrition Epidemiology,Nutrition,Nutrition Literacy,1.0,approved,approved/NUT-242_Nutrition_Epidemiology/module.json
+NUT-243,Systematic Reviews and Meta-Analyses in Nutrition,Nutrition,Nutrition Literacy,1.0,approved,approved/NUT-243_Systematic_Reviews_and_Meta-Analyses_in_Nutrition/module.json
+NUT-244,Dietary Guidelines,Nutrition,Nutrition Policy,1.0,approved,approved/NUT-244_Dietary_Guidelines/module.json
+NUT-245,Recommended Dietary Allowances and Daily Values,Nutrition,Nutrition Policy,1.0,approved,approved/NUT-245_Recommended_Dietary_Allowances_and_Daily_Values/module.json
+NUT-246,Food Safety at Home,Nutrition,Food Safety,1.0,approved,approved/NUT-246_Food_Safety_at_Home/module.json
+NUT-247,Foodborne Illness,Nutrition,Food Safety,1.0,approved,approved/NUT-247_Foodborne_Illness/module.json
+NUT-248,Healthy Eating on a Budget,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-248_Healthy_Eating_on_a_Budget/module.json
+NUT-249,Healthy Eating for Busy Professionals,Nutrition,Practical Nutrition,1.0,approved,approved/NUT-249_Healthy_Eating_for_Busy_Professionals/module.json
+NUT-250,Building a Sustainable Healthy Eating Pattern,Nutrition,Nutrition Foundations,1.0,approved,approved/NUT-250_Building_a_Sustainable_Healthy_Eating_Pattern/module.json
