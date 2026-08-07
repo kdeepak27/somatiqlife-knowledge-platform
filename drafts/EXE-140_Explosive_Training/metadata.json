@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-140",
+  "title": "Explosive Training",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for explosive training",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Initiation",
+    "Adaptation",
+    "Optimization"
+  ],
+  "audience": [
+    "Fitness Enthusiasts",
+    "Athletes",
+    "Personal Trainers",
+    "Physical Therapists",
+    "Exercise Scientists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Explosive Training",
+    "Power Training",
+    "Plyometrics",
+    "Strength Training",
+    "Neuromuscular Adaptations",
+    "Safety",
+    "Training Progression"
+  ],
+  "related_modules": [
+    "EXE-103-Plyometric Training",
+    "EXE-112-Strength Training Fundamentals",
+    "EXE-125-Olympic Lifting Techniques",
+    "EXE-132-Exercise Safety and Injury Prevention"
+  ],
+  "evidence_strength": "Established evidence for performance benefits; emerging evidence for molecular mechanisms; well-documented safety considerations with moderate evidence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

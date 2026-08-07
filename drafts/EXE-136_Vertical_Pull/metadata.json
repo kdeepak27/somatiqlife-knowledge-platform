@@ -1,0 +1,35 @@
+{
+  "module_id": "EXE-136",
+  "title": "Vertical Pull",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for vertical pull",
+  "domain": "Exercise",
+  "category": "Strength Training",
+  "som_stages": [
+    "Foundation",
+    "Strength Development",
+    "Performance Enhancement"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Exercise Scientists"
+  ],
+  "reading_level": "Intermediate (Grade 8-12)",
+  "keywords": [
+    "vertical pull",
+    "pull-ups",
+    "lat pulldown",
+    "strength training",
+    "back muscles",
+    "resistance exercise"
+  ],
+  "related_modules": [
+    "EXE-137",
+    "EXE-138",
+    "EXE-140"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
