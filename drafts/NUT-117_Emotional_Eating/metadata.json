@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-117",
+  "title": "Emotional Eating",
+  "subtitle": "Stress, emotions, learned behavior, and practical coping strategies",
+  "domain": "Nutrition",
+  "category": "Eating Behavior",
+  "som_stages": [
+    "adult"
+  ],
+  "audience": [
+    "general public",
+    "patients",
+    "health educators"
+  ],
+  "reading_level": "general adult",
+  "keywords": [
+    "emotional eating",
+    "stress eating",
+    "coping strategies",
+    "behavioral nutrition",
+    "mindful eating",
+    "eating behavior",
+    "psychology of eating",
+    "nutrition"
+  ],
+  "related_modules": [
+    "NUT-101 Mindful Eating Practices",
+    "NUT-130 Stress and Nutrition",
+    "NUT-140 Behavioral Nutrition",
+    "NUT-215 Weight Management Strategies"
+  ],
+  "evidence_strength": "Moderate evidence from observational and interventional studies supports the role of emotional states and stress hormones in influencing eating behavior. Evidence on long-term efficacy of coping strategies like mindful eating is emerging and promising but requires further rigorous trials.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-120",
+  "title": "Building Sustainable Eating Habits",
+  "subtitle": "How small repeatable behaviors create long-term dietary change",
+  "domain": "Nutrition",
+  "category": "Eating Behavior",
+  "som_stages": [
+    "Maintenance",
+    "Preparation",
+    "Action"
+  ],
+  "audience": [
+    "General Adults",
+    "Health Educators",
+    "Nutrition Counselors"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Sustainable Eating",
+    "Behavior Change",
+    "Dietary Habits",
+    "Nutrition",
+    "Healthy Eating",
+    "Lifestyle",
+    "Behavioral Psychology",
+    "Meal Planning"
+  ],
+  "related_modules": [
+    "NUT-101_Balanced_Diet_Fundamentals",
+    "NUT-130_Mindful_Eating_Practices",
+    "NUT-145_Meal_Planning_Techniques"
+  ],
+  "evidence_strength": "Moderate: Based on behavioral psychology theories and nutritional studies; ongoing research continues to refine approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

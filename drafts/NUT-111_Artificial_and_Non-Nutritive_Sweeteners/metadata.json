@@ -1,0 +1,36 @@
+{
+  "module_id": "NUT-111",
+  "title": "Artificial and Non-Nutritive Sweeteners",
+  "subtitle": "Aspartame, sucralose, stevia, and evidence on health outcomes",
+  "domain": "Nutrition",
+  "category": "Food Science",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "Adult general public",
+    "Health educators",
+    "Nutrition students"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "artificial sweeteners",
+    "non-nutritive sweeteners",
+    "aspartame",
+    "sucralose",
+    "stevia",
+    "health effects",
+    "sugar substitutes",
+    "metabolic health"
+  ],
+  "related_modules": [
+    "NUT-102 Sugar and Health Impact",
+    "NUT-105 Diabetes and Nutrition",
+    "NUT-118 Weight Management Strategies"
+  ],
+  "evidence_strength": "Moderate - Current evidence supports general safety and metabolic profiles but long-term effects need further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,33 @@
+{
+  "module_id": "NUT-107",
+  "title": "Coffee",
+  "subtitle": "Caffeine, health effects, preparation, and individual tolerance",
+  "domain": "Nutrition",
+  "category": "Beverages",
+  "som_stages": [
+    "General Health Maintenance"
+  ],
+  "audience": [
+    "General Adult Population"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "coffee",
+    "caffeine",
+    "health effects",
+    "preparation",
+    "individual tolerance",
+    "antioxidants",
+    "cardiovascular health",
+    "sleep",
+    "metabolism"
+  ],
+  "related_modules": [
+    "NUT-105-Antioxidants",
+    "NUT-110-Metabolism-of-Caffeine",
+    "NUT-120-Sleep-and-Nutrition"
+  ],
+  "evidence_strength": "Moderate: Based on epidemiological studies, clinical trials, and metabolic research with some variability in individual response data.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

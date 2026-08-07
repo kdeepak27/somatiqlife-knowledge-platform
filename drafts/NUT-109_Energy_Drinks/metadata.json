@@ -1,0 +1,35 @@
+{
+  "module_id": "NUT-109",
+  "title": "Energy Drinks",
+  "subtitle": "Caffeine, sugar, performance claims, and safety",
+  "domain": "Nutrition",
+  "category": "Beverages",
+  "som_stages": [
+    "Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Educators"
+  ],
+  "reading_level": "General adult",
+  "keywords": [
+    "energy drinks",
+    "caffeine",
+    "sugar",
+    "performance",
+    "safety",
+    "nutrition",
+    "stimulants",
+    "health effects"
+  ],
+  "related_modules": [
+    "NUT-101-Caffeine",
+    "NUT-102-Sugars",
+    "NUT-110-Sports-Drinks",
+    "NUT-115-Adolescent-Nutrition"
+  ],
+  "evidence_strength": "Moderate evidence with some limitations due to variability in study design and product formulations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
