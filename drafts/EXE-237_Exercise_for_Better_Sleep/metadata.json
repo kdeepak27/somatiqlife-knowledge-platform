@@ -1,0 +1,38 @@
+{
+  "module_id": "EXE-237",
+  "title": "Exercise for Better Sleep",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise for better sleep",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance",
+    "Risk Reduction"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Fitness Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "exercise",
+    "sleep quality",
+    "insomnia",
+    "physical activity",
+    "sleep hygiene",
+    "circadian rhythm",
+    "exercise timing",
+    "sleep duration",
+    "sleep latency",
+    "sleep efficiency"
+  ],
+  "related_modules": [
+    "EXE-101",
+    "SLP-155",
+    "MNT-204"
+  ],
+  "evidence_strength": "Established evidence supported by meta-analyses and randomized controlled trials, with some emerging evidence for mind-body modalities and individualized responses.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

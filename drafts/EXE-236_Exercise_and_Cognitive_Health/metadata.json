@@ -1,0 +1,37 @@
+{
+  "module_id": "EXE-236",
+  "title": "Exercise and Cognitive Health",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise and cognitive health",
+  "domain": "Exercise",
+  "category": "Exercise Safety and Health",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Fitness Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Exercise",
+    "Physical Activity",
+    "Cognitive Function",
+    "Brain Health",
+    "Neuroplasticity",
+    "Dementia Prevention",
+    "Memory",
+    "Executive Function",
+    "Mood",
+    "Mental Health"
+  ],
+  "related_modules": [
+    "EXE-102",
+    "NEU-215",
+    "MEN-309"
+  ],
+  "evidence_strength": "Strong evidence from multiple randomized controlled trials supports aerobic exercise for cognitive benefits; moderate evidence supports resistance and mind-body exercise; emerging research explores personalized interventions; safety data robust when guidelines followed.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
