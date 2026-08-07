@@ -12,12 +12,14 @@ on:
       module_count:
         description: Number of pending modules to generate
         required: true
-        default: "10"
+        default: "25"
         type: choice
         options:
           - "1"
-          - "5"
           - "10"
+          - "20"
+          - "25"
+          - "50"
 
 permissions:
   contents: write
