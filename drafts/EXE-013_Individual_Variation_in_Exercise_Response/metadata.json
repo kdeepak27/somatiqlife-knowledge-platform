@@ -1,0 +1,35 @@
+{
+  "module_id": "EXE-013",
+  "title": "Individual Variation in Exercise Response",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for individual variation in exercise response",
+  "domain": "Exercise",
+  "category": "Exercise Foundations",
+  "som_stages": [
+    "Foundation",
+    "Intermediate"
+  ],
+  "audience": [
+    "Consumers",
+    "Fitness Professionals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "exercise response",
+    "individual variation",
+    "exercise physiology",
+    "training adaptation",
+    "genetics",
+    "exercise progression",
+    "safety",
+    "exercise programming"
+  ],
+  "related_modules": [
+    "EXE-015",
+    "EXE-021",
+    "EXE-018"
+  ],
+  "evidence_strength": "Moderate to Strong evidence from multiple clinical studies with emerging genetic research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

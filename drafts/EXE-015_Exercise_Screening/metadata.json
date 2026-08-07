@@ -1,0 +1,41 @@
+{
+  "module_id": "EXE-015",
+  "title": "Exercise Screening",
+  "subtitle": "Evidence, mechanisms, practical application, progression, and safety considerations for exercise screening",
+  "domain": "Exercise",
+  "category": "Exercise Foundations",
+  "som_stages": [
+    "pre-contemplation",
+    "contemplation",
+    "preparation",
+    "action",
+    "maintenance"
+  ],
+  "audience": [
+    "general public",
+    "healthcare providers",
+    "fitness professionals",
+    "exercise physiologists"
+  ],
+  "reading_level": "Intermediate (Grades 10-12, adult general public)",
+  "keywords": [
+    "exercise screening",
+    "physical activity readiness",
+    "PAR-Q",
+    "risk stratification",
+    "exercise safety",
+    "pre-exercise evaluation",
+    "cardiovascular screening",
+    "musculoskeletal screening",
+    "exercise contraindications",
+    "exercise prescription"
+  ],
+  "related_modules": [
+    "EXE-001",
+    "EXE-007",
+    "EXE-020"
+  ],
+  "evidence_strength": "Established evidence supporting exercise screening from clinical guidelines and expert consensus with ongoing research refining risk algorithms and screening tool validity.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
