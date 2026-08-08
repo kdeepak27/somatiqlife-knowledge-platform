@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-025",
+  "title": "Mobility and Aging",
+  "subtitle": "How mobility and aging affects independence, function, and healthy aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Physical Function",
+  "som_stages": [
+    "Adult",
+    "Older Adult",
+    "Geriatric"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "mobility",
+    "aging",
+    "physical function",
+    "independence",
+    "healthy aging",
+    "sarcopenia",
+    "balance",
+    "gait",
+    "exercise",
+    "falls prevention"
+  ],
+  "related_modules": [
+    "AGE-012",
+    "AGE-030",
+    "CH-045"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas (e.g., cognitive influences on mobility)",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

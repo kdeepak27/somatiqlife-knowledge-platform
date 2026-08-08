@@ -1,0 +1,37 @@
+{
+  "module_id": "AGE-021",
+  "title": "Power and Aging",
+  "subtitle": "How power and aging affects independence, function, and healthy aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Physical Function",
+  "som_stages": [
+    "Mid-life",
+    "Older adulthood",
+    "Geriatric"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Healthcare providers"
+  ],
+  "reading_level": "Intermediate (Grade 10-12)",
+  "keywords": [
+    "Power",
+    "Muscle power",
+    "Aging",
+    "Physical function",
+    "Independence",
+    "Healthy aging",
+    "Muscle strength",
+    "Neuromuscular function",
+    "Physical performance"
+  ],
+  "related_modules": [
+    "AGE-010",
+    "MUS-034",
+    "PHYS-022"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

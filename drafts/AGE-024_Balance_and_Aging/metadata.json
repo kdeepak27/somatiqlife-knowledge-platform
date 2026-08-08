@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-024",
+  "title": "Balance and Aging",
+  "subtitle": "How balance and aging affects independence, function, and healthy aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Physical Function",
+  "som_stages": [
+    "Middle Age",
+    "Older Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "balance",
+    "aging",
+    "postural control",
+    "falls",
+    "independence",
+    "physical function",
+    "healthy aging",
+    "vestibular system",
+    "proprioception",
+    "sensory integration"
+  ],
+  "related_modules": [
+    "AGE-012",
+    "AGE-030",
+    "NEURO-015"
+  ],
+  "evidence_strength": "Established evidence for balance physiology and intervention effectiveness; moderate emerging evidence in cognitive influences and technology-assisted training.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
