@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-099",
+  "title": "Immigration Stress",
+  "subtitle": "Common causes, effects, warning signs, and practical strategies for immigration stress.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Work and Life Stress",
+  "som_stages": [
+    "Awareness",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals",
+    "Human Resources Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "immigration stress",
+    "stress management",
+    "mental health",
+    "acculturation",
+    "work-life balance",
+    "social support",
+    "anxiety",
+    "depression",
+    "coping strategies"
+  ],
+  "related_modules": [
+    "STR-045_Acculturative_Stress",
+    "STR-102_Workplace_Stress",
+    "STR-110_Anxiety_Disorders"
+  ],
+  "evidence_strength": "Established evidence for prevalence and mental health impact; moderate evidence for physiological mechanisms and effectiveness of interventions; emerging evidence on long-term physical health outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
