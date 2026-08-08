@@ -1,0 +1,38 @@
+{
+  "module_id": "LIF-114",
+  "title": "Meeting Fatigue",
+  "subtitle": "Practical health considerations and strategies related to meeting fatigue.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Work and Productivity",
+  "som_stages": [
+    "Maintenance",
+    "Optimization"
+  ],
+  "audience": [
+    "General Public",
+    "Remote Workers",
+    "Office Workers",
+    "Employers",
+    "Health Coaches"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "meeting fatigue",
+    "Zoom fatigue",
+    "virtual meetings",
+    "cognitive load",
+    "work productivity",
+    "energy management",
+    "mental exhaustion",
+    "remote work",
+    "video conferencing"
+  ],
+  "related_modules": [
+    "LIF-101",
+    "LIF-120",
+    "MNT-205"
+  ],
+  "evidence_strength": "Moderate - based on emerging research with some authoritative reviews but limited long-term studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

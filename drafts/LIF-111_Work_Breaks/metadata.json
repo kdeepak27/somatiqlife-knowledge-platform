@@ -1,0 +1,38 @@
+{
+  "module_id": "LIF-111",
+  "title": "Work Breaks",
+  "subtitle": "Practical health considerations and strategies related to work breaks.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Work and Productivity",
+  "som_stages": [
+    "Awareness",
+    "Implementation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General public",
+    "Occupational health professionals",
+    "Employers",
+    "Employees"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "work breaks",
+    "rest periods",
+    "productivity",
+    "fatigue management",
+    "ergonomics",
+    "mental health",
+    "physical health",
+    "break scheduling",
+    "cognitive performance"
+  ],
+  "related_modules": [
+    "LIF-103: Ergonomics and Workplace Health",
+    "MNT-121: Stress Management Techniques",
+    "LIF-114: Physical Activity at Work"
+  ],
+  "evidence_strength": "Established evidence from occupational health, ergonomics, and cognitive psychology supports the benefits of regular work breaks, although specific optimal break schedules may vary depending on individual and task variables.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-112",
+  "title": "Shift Work Lifestyle",
+  "subtitle": "Practical health considerations and strategies related to shift work lifestyle.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Work and Productivity",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Workplace Wellness Coordinators"
+  ],
+  "reading_level": "Intermediate - general audience with some health literacy",
+  "keywords": [
+    "shift work",
+    "circadian rhythm",
+    "sleep hygiene",
+    "occupational health",
+    "light exposure",
+    "fatigue management",
+    "metabolic health",
+    "mental health",
+    "chronobiology"
+  ],
+  "related_modules": [
+    "LIF-101",
+    "LIF-115",
+    "LIF-207"
+  ],
+  "evidence_strength": "Moderate evidence supported by observational studies and some clinical trials; ongoing research to further define individualized recommendations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

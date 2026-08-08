@@ -1,0 +1,39 @@
+{
+  "module_id": "LIF-113",
+  "title": "Business Travel Health",
+  "subtitle": "Practical health considerations and strategies related to business travel health.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Work and Productivity",
+  "som_stages": [
+    "Awareness",
+    "Preparation",
+    "Maintenance"
+  ],
+  "audience": [
+    "Business travelers",
+    "Employers",
+    "Occupational health professionals",
+    "Travel medicine specialists"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "business travel",
+    "travel health",
+    "jet lag",
+    "immunization",
+    "travel stress",
+    "hydration",
+    "sleep hygiene",
+    "infection prevention",
+    "deep vein thrombosis",
+    "occupational health"
+  ],
+  "related_modules": [
+    "LIF-054 (Jet Lag Management)",
+    "LIF-089 (Travel Immunizations and Vaccinations)",
+    "LIF-101 (Workplace Mental Health)"
+  ],
+  "evidence_strength": "Established and emerging evidence with some moderate uncertainty in behavioral interventions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
