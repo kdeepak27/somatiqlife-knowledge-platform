@@ -1,0 +1,38 @@
+{
+  "module_id": "LIF-028",
+  "title": "Stairs vs Elevators",
+  "subtitle": "Practical ways to understand and improve stairs vs elevators.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Daily Movement",
+  "som_stages": [
+    "Health Maintenance",
+    "Behavioral Change"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Fitness Beginners",
+    "Elderly"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stairs",
+    "elevators",
+    "physical activity",
+    "cardiovascular health",
+    "mobility",
+    "sedentary behavior",
+    "exercise",
+    "muscle strength",
+    "accidents",
+    "daily movement"
+  ],
+  "related_modules": [
+    "LIF-012_Physical_Activity_Benefits",
+    "LIF-017_Sedentary_Behavior_Health_Risks",
+    "LIF-045_Balance_And_Fall_Prevention"
+  ],
+  "evidence_strength": "Established evidence for health benefits of stair use; moderate emerging evidence on long-term behavior change; limitations due to individual safety and accessibility needs.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

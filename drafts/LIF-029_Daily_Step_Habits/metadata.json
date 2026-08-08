@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-029",
+  "title": "Daily Step Habits",
+  "subtitle": "Practical ways to understand and improve daily step habits.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Daily Movement",
+  "som_stages": [
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "physical activity",
+    "daily steps",
+    "walking",
+    "exercise habits",
+    "step count",
+    "health benefits",
+    "wearable activity trackers",
+    "sedentary behavior",
+    "cardiovascular health",
+    "weight management"
+  ],
+  "related_modules": [
+    "LIF-012",
+    "FIT-034",
+    "NUT-021"
+  ],
+  "evidence_strength": "Established evidence supports the health benefits of increasing daily step counts and walking activity, with moderate evidence informing individualized step goals and technology use for motivation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

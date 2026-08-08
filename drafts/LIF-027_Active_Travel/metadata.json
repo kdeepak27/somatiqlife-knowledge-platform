@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-027",
+  "title": "Active Travel",
+  "subtitle": "Practical ways to understand and improve active travel.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Daily Movement",
+  "som_stages": [
+    "Awareness",
+    "Adoption",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Public Health Educators"
+  ],
+  "reading_level": "8th-10th Grade",
+  "keywords": [
+    "active travel",
+    "walking",
+    "cycling",
+    "physical activity",
+    "commuting",
+    "health benefits",
+    "safety",
+    "urban planning"
+  ],
+  "related_modules": [
+    "LIF-003_Physical_Activity_Basics",
+    "LIF-045_Urban_Health_and_Wellbeing",
+    "ENV-012_Sustainable_Transportation",
+    "MNT-021_Weight_Management_Strategies"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging data on urban planning effects",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
