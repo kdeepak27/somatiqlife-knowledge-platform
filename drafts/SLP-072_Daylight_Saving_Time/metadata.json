@@ -1,0 +1,38 @@
+{
+  "module_id": "SLP-072",
+  "title": "Daylight Saving Time",
+  "subtitle": "Practical guidance, tradeoffs, and evidence related to daylight saving time.",
+  "domain": "Sleep",
+  "category": "Sleep Timing and Real Life",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Sleep Researchers",
+    "Clinicians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Daylight Saving Time",
+    "DST",
+    "Circadian Rhythm",
+    "Sleep Timing",
+    "Chronobiology",
+    "Light Exposure",
+    "Health Effects",
+    "Time Change",
+    "Sleep Health"
+  ],
+  "related_modules": [
+    "SLP-011",
+    "SLP-029",
+    "SLP-047"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas of ongoing research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
