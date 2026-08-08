@@ -1,0 +1,36 @@
+{
+  "module_id": "AGE-062",
+  "title": "Arterial Stiffness",
+  "subtitle": "How arterial stiffness changes with age and what supports healthy function.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Cardiometabolic Aging",
+  "som_stages": [
+    "Middle Age",
+    "Older Adults",
+    "Senior"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "11th Grade",
+  "keywords": [
+    "arterial stiffness",
+    "vascular aging",
+    "pulse wave velocity",
+    "cardiovascular health",
+    "arterial compliance",
+    "arteriosclerosis",
+    "endothelial function",
+    "vascular function"
+  ],
+  "related_modules": [
+    "AGE-058",
+    "CARD-034",
+    "MET-021"
+  ],
+  "evidence_strength": "Established evidence for arterial stiffness as a marker of vascular aging and cardiovascular risk. Moderate evidence supports lifestyle and pharmacologic interventions to reduce stiffness. Emerging and uncertain evidence for novel therapies and long-term clinical outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

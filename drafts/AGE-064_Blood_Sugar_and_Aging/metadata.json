@@ -1,0 +1,39 @@
+{
+  "module_id": "AGE-064",
+  "title": "Blood Sugar and Aging",
+  "subtitle": "How blood sugar and aging changes with age and what supports healthy function.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Cardiometabolic Aging",
+  "som_stages": [
+    "Middle Age",
+    "Older Adults",
+    "Elderly"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Educators",
+    "Caregivers",
+    "Health Professionals"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "blood sugar",
+    "glucose",
+    "aging",
+    "insulin",
+    "metabolism",
+    "diabetes",
+    "cardiometabolic health",
+    "glucose regulation",
+    "hyperglycemia",
+    "hypoglycemia"
+  ],
+  "related_modules": [
+    "AGE-025:Insulin Resistance and Aging",
+    "AGE-045:Type 2 Diabetes in Older Adults",
+    "AGE-078:Cardiovascular Health and Metabolism in Aging"
+  ],
+  "evidence_strength": "Established evidence with emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-063",
+  "title": "Cholesterol and Aging",
+  "subtitle": "How cholesterol and aging changes with age and what supports healthy function.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Cardiometabolic Aging",
+  "som_stages": [
+    "Adult",
+    "Older Adult",
+    "Geriatric"
+  ],
+  "audience": [
+    "General Public",
+    "Health Care Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Cholesterol",
+    "Aging",
+    "Lipoproteins",
+    "Cardiovascular Health",
+    "Metabolism",
+    "Cardiometabolic Aging",
+    "LDL",
+    "HDL",
+    "Statins",
+    "Dietary Fats"
+  ],
+  "related_modules": [
+    "AGE-045",
+    "MET-032",
+    "CDV-078"
+  ],
+  "evidence_strength": "Established and emerging evidence; moderate strength with ongoing research needed for geriatric-specific outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
