@@ -1,0 +1,34 @@
+{
+  "module_id": "LIF-100",
+  "title": "Sunlight Exposure",
+  "subtitle": "How sunlight exposure can influence physical and mental well-being.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Social and Environmental Health",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Wellness Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sunlight",
+    "UV radiation",
+    "vitamin D",
+    "circadian rhythm",
+    "mental health",
+    "skin health",
+    "immunity",
+    "safe sun exposure"
+  ],
+  "related_modules": [
+    "LIF-101",
+    "ENV-205"
+  ],
+  "evidence_strength": "Strong evidence supports vitamin D synthesis and circadian regulation benefits from sunlight; moderate evidence exists for mood improvements; risks from overexposure are well established.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

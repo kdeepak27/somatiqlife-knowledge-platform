@@ -1,0 +1,35 @@
+{
+  "module_id": "LIF-097",
+  "title": "Spiritual Practices and Well-Being",
+  "subtitle": "How spiritual practices and well-being can influence physical and mental well-being.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Social and Environmental Health",
+  "som_stages": [
+    "Prevention",
+    "Wellness",
+    "Stress Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "spirituality",
+    "well-being",
+    "mental health",
+    "physical health",
+    "meditation",
+    "prayer",
+    "mindfulness"
+  ],
+  "related_modules": [
+    "MEN-105_Mindfulness_and_Mental_Health",
+    "LIF-021_Stress_Management_Techniques",
+    "PHY-034_Physical_Activity_and_Mental_Wellness"
+  ],
+  "evidence_strength": "Moderate - Supported by observational studies and randomized trials with noted limitations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
