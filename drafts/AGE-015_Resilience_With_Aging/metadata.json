@@ -1,0 +1,39 @@
+{
+  "module_id": "AGE-015",
+  "title": "Resilience With Aging",
+  "subtitle": "Science, evidence, and practical implications of resilience with aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Healthy Aging Foundations",
+  "som_stages": [
+    "Midlife Adults",
+    "Older Adults",
+    "Geriatric Care"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "resilience",
+    "aging",
+    "healthy aging",
+    "stress response",
+    "cognitive resilience",
+    "physiological resilience",
+    "mental health",
+    "longevity",
+    "adaptation",
+    "frailty"
+  ],
+  "related_modules": [
+    "AGE-010",
+    "MHS-021",
+    "NUT-018"
+  ],
+  "evidence_strength": "Established evidence for core mechanisms and psychosocial factors; emerging evidence for measurement tools and intervention efficacy; uncertain evidence regarding long-term impacts of resilience enhancement strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

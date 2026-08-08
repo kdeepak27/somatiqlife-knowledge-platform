@@ -1,0 +1,40 @@
+{
+  "module_id": "AGE-011",
+  "title": "Epigenetics and Aging",
+  "subtitle": "Science, evidence, and practical implications of epigenetics and aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Healthy Aging Foundations",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Healthy Aging"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Aging Adults",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Epigenetics",
+    "Aging",
+    "DNA Methylation",
+    "Histone Modification",
+    "Longevity",
+    "Biomarkers",
+    "Gene Expression",
+    "Lifestyle",
+    "Nutrition",
+    "Environmental Factors"
+  ],
+  "related_modules": [
+    "AGE-010",
+    "AGE-012",
+    "NUT-005",
+    "ENV-004"
+  ],
+  "evidence_strength": "Moderate evidence supports the role of DNA methylation as reliable biomarkers of aging, with emerging evidence for therapeutic epigenetic interventions. The causal role of epigenetics in aging processes is strongly supported, but clinical translation remains limited.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

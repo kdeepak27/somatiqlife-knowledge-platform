@@ -1,0 +1,39 @@
+{
+  "module_id": "AGE-013",
+  "title": "Lifestyle and Longevity",
+  "subtitle": "Science, evidence, and practical implications of lifestyle and longevity.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Healthy Aging Foundations",
+  "som_stages": [
+    "Awareness",
+    "Engagement",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate (11th Grade)",
+  "keywords": [
+    "lifestyle",
+    "longevity",
+    "healthy aging",
+    "diet",
+    "exercise",
+    "sleep",
+    "stress management",
+    "social connections",
+    "smoking cessation",
+    "alcohol moderation"
+  ],
+  "related_modules": [
+    "AGE-004: Nutrition and Aging",
+    "AGE-007: Physical Activity and Aging",
+    "AGE-009: Sleep and Circadian Health in Older Adults",
+    "AGE-012: Psychological Well-being and Cognitive Aging"
+  ],
+  "evidence_strength": "Strong evidence for diet, exercise, and smoking cessation; moderate to emerging evidence for sleep, stress management, and social connections.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

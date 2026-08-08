@@ -1,0 +1,37 @@
+{
+  "module_id": "AGE-014",
+  "title": "Functional Reserve",
+  "subtitle": "Science, evidence, and practical implications of functional reserve.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Healthy Aging Foundations",
+  "som_stages": [
+    "Healthy Aging",
+    "Preventive Care",
+    "Chronic Condition Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Aging Adults",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Functional reserve",
+    "Aging",
+    "Physiological reserve",
+    "Homeostasis",
+    "Stress response",
+    "Resilience",
+    "Organ reserve",
+    "Physical capacity"
+  ],
+  "related_modules": [
+    "AGE-005",
+    "AGE-010",
+    "AGE-020"
+  ],
+  "evidence_strength": "Established with moderate emerging research in specific mechanisms and measurement techniques",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
