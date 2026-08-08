@@ -1,0 +1,39 @@
+{
+  "module_id": "AGE-085",
+  "title": "Healthy Weight in Older Adults",
+  "subtitle": "Nutrition science and practical planning related to healthy weight in older adults.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Nutrition and Aging",
+  "som_stages": [
+    "Middle Age",
+    "Older Adults",
+    "Senior"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "healthy weight",
+    "older adults",
+    "nutrition",
+    "aging metabolism",
+    "weight maintenance",
+    "muscle mass",
+    "sarcopenia",
+    "diet",
+    "physical activity",
+    "weight loss",
+    "weight gain"
+  ],
+  "related_modules": [
+    "AGE-042",
+    "AGE-055",
+    "NUT-098"
+  ],
+  "evidence_strength": "Established evidence supplemented by moderate and emerging research on nuanced aspects like obesity paradox and gut microbiota influences.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

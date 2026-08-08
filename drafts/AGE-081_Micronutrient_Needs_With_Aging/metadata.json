@@ -1,0 +1,39 @@
+{
+  "module_id": "AGE-081",
+  "title": "Micronutrient Needs With Aging",
+  "subtitle": "Nutrition science and practical planning related to micronutrient needs with aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Nutrition and Aging",
+  "som_stages": [
+    "Mature Adult",
+    "Older Adult",
+    "Elderly"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "micronutrients",
+    "aging",
+    "vitamins",
+    "minerals",
+    "nutrition",
+    "elderly nutrition",
+    "bone health",
+    "immune support",
+    "absorption",
+    "nutrient deficiencies"
+  ],
+  "related_modules": [
+    "AGE-025-Healthy-Diet-Planning",
+    "AGE-056-Sarcopenia-Nutrition",
+    "AGE-092-Vitamin-D-Supplementation-Elderly"
+  ],
+  "evidence_strength": "Established evidence for the impact of aging on micronutrient absorption and key deficiencies; moderate evidence regarding supplementation benefits beyond deficiency correction; emerging evidence on micronutrients and cognitive function.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
