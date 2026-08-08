@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-076",
+  "title": "Alcohol and Health",
+  "subtitle": "Health effects, risk reduction, and evidence-based considerations for alcohol and health.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Substances and Health",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Educators",
+    "Clinicians"
+  ],
+  "reading_level": "High School to College",
+  "keywords": [
+    "Alcohol",
+    "Ethanol",
+    "Health effects",
+    "Risk reduction",
+    "Liver",
+    "Heart disease",
+    "Addiction",
+    "Moderate drinking",
+    "Alcohol metabolism",
+    "Public health"
+  ],
+  "related_modules": [
+    "LIF-045: Addiction and Substance Use",
+    "LIF-081: Nutrition and Liver Health",
+    "LIF-124: Cardiovascular Health and Lifestyle"
+  ],
+  "evidence_strength": "Established evidence with ongoing research and emerging debates on moderate consumption benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

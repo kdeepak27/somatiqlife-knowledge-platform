@@ -1,0 +1,35 @@
+{
+  "module_id": "LIF-077",
+  "title": "Low-Risk Alcohol Choices",
+  "subtitle": "Health effects, risk reduction, and evidence-based considerations for low-risk alcohol choices.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Substances and Health",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "alcohol consumption",
+    "low-risk drinking",
+    "health risks",
+    "moderate alcohol use",
+    "alcohol metabolism",
+    "alcohol guidelines",
+    "alcohol safety",
+    "alcohol-related diseases"
+  ],
+  "related_modules": [
+    "LIF-023 - Alcohol Use Disorder Awareness",
+    "LIF-045 - Nutrition and Substance Interactions",
+    "LIF-089 - Liver Health and Disease Prevention"
+  ],
+  "evidence_strength": "Established evidence for risks and general consumption guidelines; moderate emerging evidence on precise cardiovascular benefits and individual variability; uncertain evidence regarding safe thresholds in specific populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
