@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-003",
+  "title": "Biology of Aging",
+  "subtitle": "Science, evidence, and practical implications of biology of aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Healthy Aging Foundations",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "aging",
+    "biological aging",
+    "cellular senescence",
+    "telomeres",
+    "oxidative stress",
+    "inflammation",
+    "longevity",
+    "geroscience",
+    "mitochondria",
+    "age-related diseases"
+  ],
+  "related_modules": [
+    "AGE-001",
+    "AGE-004",
+    "GER-002"
+  ],
+  "evidence_strength": "Moderate to emerging evidence with ongoing clinical research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

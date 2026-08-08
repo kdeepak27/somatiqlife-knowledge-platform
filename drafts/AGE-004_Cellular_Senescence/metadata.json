@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-004",
+  "title": "Cellular Senescence",
+  "subtitle": "Science, evidence, and practical implications of cellular senescence.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Healthy Aging Foundations",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Intervention"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "cellular senescence",
+    "aging",
+    "senescent cells",
+    "inflammation",
+    "telomeres",
+    "senolytics",
+    "cell cycle arrest",
+    "oxidative stress",
+    "biomarkers",
+    "immune clearance"
+  ],
+  "related_modules": [
+    "AGE-001",
+    "AGE-002",
+    "AGE-005"
+  ],
+  "evidence_strength": "Moderate evidence from cellular, animal studies, and early human trials supports key concepts of cellular senescence in aging and therapeutic potential of senolytics. Evidence on long-term safety and efficacy for humans remains emerging.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

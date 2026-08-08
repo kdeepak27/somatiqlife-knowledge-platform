@@ -1,0 +1,36 @@
+{
+  "module_id": "AGE-002",
+  "title": "Healthspan vs Lifespan",
+  "subtitle": "Science, evidence, and practical implications of healthspan vs lifespan.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Healthy Aging Foundations",
+  "som_stages": [
+    "Middle Age",
+    "Older Adult"
+  ],
+  "audience": [
+    "Consumers",
+    "General Public",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "healthspan",
+    "lifespan",
+    "aging",
+    "longevity",
+    "healthy aging",
+    "chronic disease",
+    "disability",
+    "quality of life",
+    "gerontology"
+  ],
+  "related_modules": [
+    "AGE-001",
+    "AGE-003",
+    "GEN-005"
+  ],
+  "evidence_strength": "Established and emerging evidence mixed",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
