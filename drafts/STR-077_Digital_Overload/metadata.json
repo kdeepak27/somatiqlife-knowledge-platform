@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-077",
+  "title": "Digital Overload",
+  "subtitle": "Evidence-based approaches for understanding and improving digital overload.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Behavior and Coping",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Self-Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "Digital Overload",
+    "Screen Time",
+    "Digital Stress",
+    "Mental Health",
+    "Technology Use",
+    "Well-being",
+    "Coping Strategies",
+    "Digital Detox"
+  ],
+  "related_modules": [
+    "STR-055_StressManagement",
+    "MNT-012_MindfulnessBasedInterventions",
+    "WKF-023_SleepHygiene"
+  ],
+  "evidence_strength": "Moderate evidence supports the role of digital overload in stress and mental health impacts, with emerging evidence for specific interventions such as mindfulness and digital detox. Limitations include variability in study designs and populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
