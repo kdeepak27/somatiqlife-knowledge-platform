@@ -1,0 +1,33 @@
+{
+  "module_id": "AGE-060",
+  "title": "Brain Health After 60",
+  "subtitle": "Evidence and practical strategies related to brain health after 60.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Brain and Cognitive Aging",
+  "som_stages": [
+    "Older Adult",
+    "Aging Well"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "brain health",
+    "cognitive aging",
+    "dementia prevention",
+    "healthy aging",
+    "memory",
+    "neuroplasticity"
+  ],
+  "related_modules": [
+    "AGE-045-Cognitive-Health-Midlife",
+    "AGE-072-Dementia-Prevention",
+    "AGE-055-Nutrition-for-Healthy-Aging"
+  ],
+  "evidence_strength": "Established evidence for physical exercise, diet, social engagement, sleep; moderate evidence for cognitive training; emerging or mixed evidence for supplements; limitations include individual variability and study designs.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

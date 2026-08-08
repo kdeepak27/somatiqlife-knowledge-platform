@@ -1,0 +1,37 @@
+{
+  "module_id": "AGE-057",
+  "title": "Cognitive Stimulation",
+  "subtitle": "Evidence and practical strategies related to cognitive stimulation.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Brain and Cognitive Aging",
+  "som_stages": [
+    "Prevention",
+    "Healthy Aging",
+    "Cognitive Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Health Educators"
+  ],
+  "reading_level": "Middle School to High School",
+  "keywords": [
+    "cognitive stimulation",
+    "brain training",
+    "neuroplasticity",
+    "memory",
+    "cognitive decline",
+    "dementia prevention",
+    "mental exercises",
+    "brain health"
+  ],
+  "related_modules": [
+    "AGE-023",
+    "AGE-045",
+    "AGE-062"
+  ],
+  "evidence_strength": "Moderate evidence for cognitive improvement; emerging evidence for dementia prevention",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
