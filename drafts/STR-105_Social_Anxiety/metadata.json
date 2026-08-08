@@ -1,0 +1,39 @@
+{
+  "module_id": "STR-105",
+  "title": "Social Anxiety",
+  "subtitle": "Definitions, evidence-based management, safety, and when professional care matters for social anxiety.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Anxiety and Mood",
+  "som_stages": [
+    "Recognition",
+    "Management",
+    "Referral"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "social anxiety",
+    "social phobia",
+    "anxiety disorder",
+    "cognitive behavioral therapy",
+    "CBT",
+    "beta blockers",
+    "medication safety",
+    "exposure therapy",
+    "mindfulness",
+    "mental health",
+    "psychotherapy"
+  ],
+  "related_modules": [
+    "STR-101-GeneralizedAnxiety",
+    "STR-110-Depression",
+    "STR-120-PanicDisorder"
+  ],
+  "evidence_strength": "Established evidence for CBT and SSRIs; moderate emerging evidence for mindfulness; limited evidence on long-term medication effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
