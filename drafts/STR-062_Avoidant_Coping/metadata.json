@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-062",
+  "title": "Avoidant Coping",
+  "subtitle": "Evidence-based approaches for understanding and improving avoidant coping.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Behavior and Coping",
+  "som_stages": [
+    "Recognition",
+    "Understanding",
+    "Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "avoidant coping",
+    "coping mechanisms",
+    "stress response",
+    "behavioral avoidance",
+    "psychological coping",
+    "stress management",
+    "mental health",
+    "emotion regulation"
+  ],
+  "related_modules": [
+    "STR-015_StressManagement",
+    "STR-108_MindfulnessTechniques",
+    "MH-024_AnxietyDisorders",
+    "MH-031_Depression"
+  ],
+  "evidence_strength": "Moderate - Supported by multiple clinical and experimental studies, though confounded by inconsistent terminology and self-report limitations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

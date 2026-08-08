@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-063",
+  "title": "Problem-Focused Coping",
+  "subtitle": "Evidence-based approaches for understanding and improving problem-focused coping.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Behavior and Coping",
+  "som_stages": [
+    "Stress Awareness",
+    "Coping Skill Development",
+    "Stress Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "problem-focused coping",
+    "stress management",
+    "coping strategies",
+    "behavioral coping",
+    "psychology",
+    "stress response",
+    "active coping",
+    "stress resilience"
+  ],
+  "related_modules": [
+    "STR-061_EmotionFocusedCoping",
+    "STR-064_StressManagementTechniques",
+    "STR-065_CognitiveBehavioralTherapyBasics"
+  ],
+  "evidence_strength": "Established evidence from psychological theory and empirical studies, moderate evidence regarding physiological correlates, emerging evidence related to cultural variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
