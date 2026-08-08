@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-072",
+  "title": "Kidney Function With Aging",
+  "subtitle": "How kidney function with aging changes with age and what supports healthy function.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Cardiometabolic Aging",
+  "som_stages": [
+    "Early Aging",
+    "Midlife",
+    "Older Adults",
+    "Geriatrics"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Health Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Kidney function",
+    "Aging",
+    "Glomerular filtration rate",
+    "Chronic kidney disease",
+    "Renal physiology",
+    "Nephron loss",
+    "Hypertension",
+    "Cardiometabolic health"
+  ],
+  "related_modules": [
+    "AGE-033_Hypertension_in_Older_Adults",
+    "AGE-068_Diabetes_and_Aging",
+    "AGE-089_Cardiovascular_Changes_with_Age"
+  ],
+  "evidence_strength": "Established evidence with some emerging data on mechanisms and interventions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

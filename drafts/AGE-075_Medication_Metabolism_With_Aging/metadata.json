@@ -1,0 +1,35 @@
+{
+  "module_id": "AGE-075",
+  "title": "Medication Metabolism With Aging",
+  "subtitle": "How medication metabolism with aging changes with age and what supports healthy function.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Cardiometabolic Aging",
+  "som_stages": [
+    "Midlife",
+    "Older Adults"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "aging",
+    "medication metabolism",
+    "pharmacokinetics",
+    "liver function",
+    "kidney function",
+    "cytochrome P450",
+    "polypharmacy",
+    "drug clearance"
+  ],
+  "related_modules": [
+    "AGE-034-Polypharmacy-In-Older-Adults",
+    "AGE-101-Kidney-Function-And-Aging",
+    "AGE-056-Pharmacokinetics-in-The-Elderly"
+  ],
+  "evidence_strength": "Established evidence with moderate evidence in individualized variability and clinical management.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,40 @@
+{
+  "module_id": "AGE-071",
+  "title": "Cardiovascular Prevention After 60",
+  "subtitle": "How cardiovascular prevention after 60 changes with age and what supports healthy function.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Cardiometabolic Aging",
+  "som_stages": [
+    "Older adulthood",
+    "Aging with chronic conditions",
+    "Prevention and wellness"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Primary care providers",
+    "Geriatricians",
+    "Cardiologists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "cardiovascular prevention",
+    "older adults",
+    "aging and heart health",
+    "blood pressure management",
+    "cholesterol control",
+    "physical activity",
+    "diet and heart health",
+    "medication adherence",
+    "stroke prevention",
+    "heart disease risk factors"
+  ],
+  "related_modules": [
+    "AGE-045: Hypertension Management in Older Adults",
+    "AGE-060: Nutrition for Healthy Aging",
+    "AGE-065: Physical Activity and Mobility in Seniors"
+  ],
+  "evidence_strength": "Established evidence with some moderate and emerging areas requiring individualized judgment",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
