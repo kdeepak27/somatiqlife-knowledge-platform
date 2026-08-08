@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-008",
+  "title": "Cortisol",
+  "subtitle": "Core mechanisms, evidence, and practical implications of cortisol.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Foundations",
+  "som_stages": [
+    "Understanding",
+    "Monitoring",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Cortisol",
+    "Stress hormone",
+    "Glucocorticoids",
+    "HPA axis",
+    "Adrenal gland",
+    "Stress response",
+    "Cortisol measurement",
+    "Cortisol effects"
+  ],
+  "related_modules": [
+    "STR-003-Stress-Hormones-Basics",
+    "STR-015-Exercise-and-Stress-Response",
+    "STR-022-Sleep-and-Stress-Hormones"
+  ],
+  "evidence_strength": "Established scientific consensus for core physiology and clinical roles; moderate evidence for some behavioral interventions; emerging evidence for long-term impacts of cortisol variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

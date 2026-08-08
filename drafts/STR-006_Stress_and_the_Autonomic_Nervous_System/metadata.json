@@ -1,0 +1,39 @@
+{
+  "module_id": "STR-006",
+  "title": "Stress and the Autonomic Nervous System",
+  "subtitle": "Core mechanisms, evidence, and practical implications of stress and the autonomic nervous system.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Foundations",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Health Educators",
+    "Clinicians"
+  ],
+  "reading_level": "Intermediate (Grades 9-12)",
+  "keywords": [
+    "Stress",
+    "Autonomic Nervous System",
+    "Sympathetic Nervous System",
+    "Parasympathetic Nervous System",
+    "Stress Response",
+    "Neurophysiology",
+    "Heart Rate Variability",
+    "Cortisol",
+    "Homeostasis",
+    "Fight or Flight"
+  ],
+  "related_modules": [
+    "STR-004",
+    "STR-007",
+    "MNT-005"
+  ],
+  "evidence_strength": "Established evidence where indicated; some sections include emerging insights from ongoing research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

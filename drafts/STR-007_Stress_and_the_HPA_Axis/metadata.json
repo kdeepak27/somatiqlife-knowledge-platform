@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-007",
+  "title": "Stress and the HPA Axis",
+  "subtitle": "Core mechanisms, evidence, and practical implications of stress and the HPA axis.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Foundations",
+  "som_stages": [
+    "Understanding",
+    "Assessment",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate (High School to Early College)",
+  "keywords": [
+    "stress",
+    "HPA axis",
+    "hypothalamic-pituitary-adrenal axis",
+    "cortisol",
+    "stress hormones",
+    "physiology",
+    "neuroendocrinology",
+    "mental health"
+  ],
+  "related_modules": [
+    "STR-002",
+    "STR-005",
+    "MEN-010"
+  ],
+  "evidence_strength": "Established evidence with some areas of ongoing research and emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

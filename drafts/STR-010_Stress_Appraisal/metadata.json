@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-010",
+  "title": "Stress Appraisal",
+  "subtitle": "Core mechanisms, evidence, and practical implications of stress appraisal.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Foundations",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Stress appraisal",
+    "Cognitive appraisal",
+    "Stress response",
+    "Physiological stress",
+    "Psychological stress",
+    "Lazarus theory",
+    "Stress management",
+    "Emotional regulation",
+    "Threat perception",
+    "Challenge appraisal"
+  ],
+  "related_modules": [
+    "STR-007: Stress Physiology",
+    "MH-004: Cognitive Behavioral Therapy Fundamentals",
+    "STR-012: Mindfulness and Stress Reduction"
+  ],
+  "evidence_strength": "Established evidence for core mechanisms and relationships; moderate evidence for intervention efficacy and individual differences; emerging evidence regarding cultural influences and appraisal measurement techniques.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

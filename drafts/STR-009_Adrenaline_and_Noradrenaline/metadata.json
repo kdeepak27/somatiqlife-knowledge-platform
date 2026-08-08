@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-009",
+  "title": "Adrenaline and Noradrenaline",
+  "subtitle": "Core mechanisms, evidence, and practical implications of adrenaline and noradrenaline.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Foundations",
+  "som_stages": [
+    "Acute Stress Response",
+    "Chronic Stress Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate (Grade 10+)",
+  "keywords": [
+    "adrenaline",
+    "noradrenaline",
+    "epinephrine",
+    "norepinephrine",
+    "stress hormones",
+    "sympathetic nervous system",
+    "fight or flight",
+    "catecholamines",
+    "autonomic nervous system"
+  ],
+  "related_modules": [
+    "STR-002",
+    "STR-004",
+    "STR-007"
+  ],
+  "evidence_strength": "Established evidence for physiological roles and therapeutic applications; moderate emerging evidence for chronic stress implications and mental health effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
