@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-011",
+  "title": "Health Priorities",
+  "subtitle": "Foundations, evidence, and practical application of health priorities.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Lifestyle Foundations",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Lifestyle Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Health Priorities",
+    "Lifestyle",
+    "Wellness",
+    "Health Goals",
+    "Healthy Habits",
+    "Prevention",
+    "Behavior Change",
+    "Risk Reduction",
+    "Health Management"
+  ],
+  "related_modules": [
+    "LIF-005",
+    "LIF-023",
+    "LIF-047"
+  ],
+  "evidence_strength": "Established evidence with emerging areas for further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

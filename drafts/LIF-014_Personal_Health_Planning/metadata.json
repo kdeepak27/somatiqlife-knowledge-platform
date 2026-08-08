@@ -1,0 +1,34 @@
+{
+  "module_id": "LIF-014",
+  "title": "Personal Health Planning",
+  "subtitle": "Foundations, evidence, and practical application of personal health planning.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Lifestyle Foundations",
+  "som_stages": [
+    "Prevention",
+    "Wellness Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Coaches",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "personal health planning",
+    "health goals",
+    "behavior change",
+    "self-management",
+    "health monitoring",
+    "lifestyle modification",
+    "preventive health"
+  ],
+  "related_modules": [
+    "LIF-002",
+    "LIF-009",
+    "LIF-021"
+  ],
+  "evidence_strength": "Established evidence with moderate and emerging evidence in technological applications and adherence strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

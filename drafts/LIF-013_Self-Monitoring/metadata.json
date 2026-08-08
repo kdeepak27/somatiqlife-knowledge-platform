@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-013",
+  "title": "Self-Monitoring",
+  "subtitle": "Foundations, evidence, and practical application of self-monitoring.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Lifestyle Foundations",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Primary Care Providers",
+    "Behavioral Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "self-monitoring",
+    "behavior tracking",
+    "health behavior change",
+    "self-regulation",
+    "biofeedback",
+    "diary keeping",
+    "lifestyle habits"
+  ],
+  "related_modules": [
+    "LIF-007",
+    "LIF-014",
+    "CHL-021"
+  ],
+  "evidence_strength": "Established foundational evidence with emerging technology applications",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
