@@ -1,0 +1,37 @@
+{
+  "module_id": "AGE-045",
+  "title": "Recovering After a Fall",
+  "subtitle": "Prevention, evidence, practical actions, and safety related to recovering after a fall.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Bone and Falls",
+  "som_stages": [
+    "All stages"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers",
+    "Physical Therapists"
+  ],
+  "reading_level": "Medium - General Consumer",
+  "keywords": [
+    "fall recovery",
+    "fall prevention",
+    "bone health",
+    "post-fall care",
+    "balance",
+    "fractures",
+    "rehabilitation",
+    "mobility",
+    "safety after fall"
+  ],
+  "related_modules": [
+    "AGE-012-FallPrevention",
+    "AGE-033-BoneHealth",
+    "AGE-039-PhysicalTherapyForSeniors",
+    "AGE-041-MedicationSafetyInElders"
+  ],
+  "evidence_strength": "Established evidence for many rehabilitation and prevention strategies; moderate evidence for optimal individualized intervention combinations; emerging evidence regarding psychological interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

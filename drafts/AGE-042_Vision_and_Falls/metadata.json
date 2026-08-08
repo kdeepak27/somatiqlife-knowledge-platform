@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-042",
+  "title": "Vision and Falls",
+  "subtitle": "Prevention, evidence, practical actions, and safety related to vision and falls.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Bone and Falls",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Health Educators",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Moderate - suitable for informed consumers and healthcare workers",
+  "keywords": [
+    "Vision Impairment",
+    "Falls Prevention",
+    "Healthy Aging",
+    "Balance",
+    "Mobility",
+    "Visual Acuity",
+    "Depth Perception",
+    "Orthostatic Hypotension",
+    "Fall Risk Assessment"
+  ],
+  "related_modules": [
+    "AGE-015",
+    "AGE-027",
+    "AGE-035"
+  ],
+  "evidence_strength": "Established evidence supported by multiple meta-analyses and randomized controlled trials; moderate evidence for some interventions due to variability in individual response and study designs.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

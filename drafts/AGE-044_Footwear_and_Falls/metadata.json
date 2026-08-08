@@ -1,0 +1,36 @@
+{
+  "module_id": "AGE-044",
+  "title": "Footwear and Falls",
+  "subtitle": "Prevention, evidence, practical actions, and safety related to footwear and falls.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Bone and Falls",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "footwear",
+    "falls",
+    "fall prevention",
+    "balance",
+    "gait",
+    "older adults",
+    "risk factors",
+    "foot health",
+    "safety"
+  ],
+  "related_modules": [
+    "AGE-012",
+    "AGE-033",
+    "AGE-047"
+  ],
+  "evidence_strength": "Moderate evidence from randomized trials and observational studies with some heterogeneity in outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "AGE-041",
+  "title": "Home Fall Prevention",
+  "subtitle": "Prevention, evidence, practical actions, and safety related to home fall prevention.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Bone and Falls",
+  "som_stages": [
+    "Prevention",
+    "Risk Reduction"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers",
+    "Public Health Professionals"
+  ],
+  "reading_level": "High School to Adult",
+  "keywords": [
+    "falls",
+    "fall prevention",
+    "home safety",
+    "balance",
+    "elderly",
+    "injury prevention",
+    "risk factors",
+    "exercise",
+    "environmental hazards"
+  ],
+  "related_modules": [
+    "AGE-012",
+    "AGE-023",
+    "MOB-034"
+  ],
+  "evidence_strength": "Established evidence for environmental modifications and exercise; emerging evidence for technology and multifactorial approaches; ongoing research into optimal individualized interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
