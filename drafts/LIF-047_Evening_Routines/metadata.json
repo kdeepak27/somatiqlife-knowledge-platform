@@ -1,0 +1,38 @@
+{
+  "module_id": "LIF-047",
+  "title": "Evening Routines",
+  "subtitle": "How evening routines supports recovery, energy, and sustainable health.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Sleep and Recovery Lifestyle",
+  "som_stages": [
+    "Maintenance",
+    "Recovery",
+    "Optimization"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "evening routine",
+    "sleep hygiene",
+    "recovery",
+    "energy",
+    "circadian rhythm",
+    "stress management",
+    "relaxation",
+    "sustainable health",
+    "melatonin",
+    "blue light"
+  ],
+  "related_modules": [
+    "LIF-012",
+    "LIF-093",
+    "LIF-021"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials combined with observational studies; emerging evidence supports personalization of evening routines based on chronotype and individual factors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

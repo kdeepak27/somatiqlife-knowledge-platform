@@ -1,0 +1,38 @@
+{
+  "module_id": "LIF-050",
+  "title": "Recovery Days",
+  "subtitle": "How recovery days supports recovery, energy, and sustainable health.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Sleep and Recovery Lifestyle",
+  "som_stages": [
+    "Maintenance",
+    "Optimization"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Athletes",
+    "Wellness Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "recovery days",
+    "rest days",
+    "physical recovery",
+    "energy restoration",
+    "sustainable health",
+    "muscle repair",
+    "mental recovery",
+    "sleep hygiene",
+    "overtraining prevention",
+    "active recovery"
+  ],
+  "related_modules": [
+    "LIF-021",
+    "LIF-034",
+    "LIF-077"
+  ],
+  "evidence_strength": "Established evidence supplemented with emerging research in optimizing recovery protocols",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
