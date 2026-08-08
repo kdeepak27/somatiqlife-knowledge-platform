@@ -1,0 +1,39 @@
+{
+  "module_id": "STR-140",
+  "title": "Meaningful Activities",
+  "subtitle": "How meaningful activities supports long-term resilience, health, and sustainable behavior.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Resilience and Meaning",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Meaningful Activities",
+    "Resilience",
+    "Mental Health",
+    "Sustainable Behavior",
+    "Stress Reduction",
+    "Well-being",
+    "Purpose",
+    "Engagement",
+    "Behavior Change"
+  ],
+  "related_modules": [
+    "STR-101-ResilienceBasics",
+    "MEN-202-BehavioralActivation",
+    "WELL-305-StressManagement",
+    "OT-150-OccupationalTherapyBasics"
+  ],
+  "evidence_strength": "Moderate evidence from multiple RCTs and observational studies supports benefits; emerging evidence elucidates physiological mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

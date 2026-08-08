@@ -1,0 +1,34 @@
+{
+  "module_id": "STR-136",
+  "title": "Building Resilience",
+  "subtitle": "How building resilience supports long-term resilience, health, and sustainable behavior.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Resilience and Meaning",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "resilience",
+    "stress management",
+    "mental health",
+    "coping skills",
+    "psychological resilience",
+    "behavioral health"
+  ],
+  "related_modules": [
+    "MH-021",
+    "STR-142",
+    "BEH-105"
+  ],
+  "evidence_strength": "Established evidence supporting resilience as a protective factor with emerging evidence on biological markers and optimal intervention methods.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

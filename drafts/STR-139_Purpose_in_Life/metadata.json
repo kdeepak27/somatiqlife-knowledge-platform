@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-139",
+  "title": "Purpose in Life",
+  "subtitle": "How purpose in life supports long-term resilience, health, and sustainable behavior.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Resilience and Meaning",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Recovery"
+  ],
+  "audience": [
+    "General public",
+    "Mental health professionals",
+    "Wellness coaches",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Purpose in life",
+    "Meaning",
+    "Resilience",
+    "Mental health",
+    "Well-being",
+    "Sustainable behavior",
+    "Stress management",
+    "Psychological health"
+  ],
+  "related_modules": [
+    "STR-120_Mindfulness_and_Stress_Reduction",
+    "STR-130_Resilience_Building_Strategies",
+    "STR-145_Mental_Wellbeing_Assessment_Tools"
+  ],
+  "evidence_strength": "Established evidence supports the association of purpose in life with improved resilience and health outcomes through multi-level psychological and physiological mechanisms. Moderate evidence exists concerning randomized interventions targeting purpose, with emerging research needed to clarify causal pathways and culture-specific influences.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
