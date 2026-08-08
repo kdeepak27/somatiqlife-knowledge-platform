@@ -1,0 +1,38 @@
+{
+  "module_id": "LIF-001",
+  "title": "Lifestyle Medicine",
+  "subtitle": "Foundations, evidence, and practical application of lifestyle medicine.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Lifestyle Foundations",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Reversal"
+  ],
+  "audience": [
+    "General Public",
+    "Health Coaches",
+    "Primary Care Providers",
+    "Patients with Chronic Conditions"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "Lifestyle Medicine",
+    "Healthy Habits",
+    "Chronic Disease Prevention",
+    "Nutrition",
+    "Physical Activity",
+    "Stress Management",
+    "Sleep Hygiene",
+    "Behavior Change"
+  ],
+  "related_modules": [
+    "LIF-002",
+    "NUT-003",
+    "PHY-001",
+    "MHS-004"
+  ],
+  "evidence_strength": "Strong for nutrition and physical activity interventions; Moderate for stress management and social connectivity; Emerging for integrated personalized approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

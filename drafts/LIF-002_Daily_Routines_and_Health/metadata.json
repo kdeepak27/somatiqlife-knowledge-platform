@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-002",
+  "title": "Daily Routines and Health",
+  "subtitle": "Foundations, evidence, and practical application of daily routines and health.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Lifestyle Foundations",
+  "som_stages": [
+    "Prevention",
+    "Wellness Optimization"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate Adult",
+  "keywords": [
+    "daily routines",
+    "health",
+    "circadian rhythm",
+    "sleep hygiene",
+    "exercise routine",
+    "meal timing",
+    "stress management",
+    "habit formation",
+    "well-being"
+  ],
+  "related_modules": [
+    "LIF-001",
+    "LIF-005",
+    "MNT-003"
+  ],
+  "evidence_strength": "Established and Moderate Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

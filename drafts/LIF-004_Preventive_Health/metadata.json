@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-004",
+  "title": "Preventive Health",
+  "subtitle": "Foundations, evidence, and practical application of preventive health.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Lifestyle Foundations",
+  "som_stages": [
+    "Primary prevention",
+    "Secondary prevention",
+    "Tertiary prevention"
+  ],
+  "audience": [
+    "General adult population",
+    "Health educators",
+    "Primary care providers",
+    "Public health professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "preventive health",
+    "health promotion",
+    "disease prevention",
+    "lifestyle modification",
+    "screening",
+    "vaccination",
+    "risk reduction",
+    "health behavior"
+  ],
+  "related_modules": [
+    "LIF-001",
+    "LIF-002",
+    "LIF-005"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
