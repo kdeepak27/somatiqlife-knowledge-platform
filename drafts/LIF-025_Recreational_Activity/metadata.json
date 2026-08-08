@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-025",
+  "title": "Recreational Activity",
+  "subtitle": "Practical ways to understand and improve recreational activity.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Daily Movement",
+  "som_stages": [
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "Consumer",
+    "General Public",
+    "Health Enthusiast"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "recreational activity",
+    "physical activity",
+    "exercise",
+    "daily movement",
+    "fitness",
+    "health benefits",
+    "leisure activity",
+    "mental health",
+    "cardiovascular health",
+    "muscle strength"
+  ],
+  "related_modules": [
+    "LIF-010",
+    "LIF-013",
+    "LIF-019"
+  ],
+  "evidence_strength": "Moderate to Strong Evidence for Health Benefits; Emerging Evidence for Mental Health Impact",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
