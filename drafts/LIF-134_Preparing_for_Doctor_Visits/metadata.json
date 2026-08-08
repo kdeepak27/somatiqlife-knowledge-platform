@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-134",
+  "title": "Preparing for Doctor Visits",
+  "subtitle": "How preparing for doctor visits supports prevention, early detection, and informed health decisions.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Preventive Care",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Self-Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "doctor visit",
+    "health care",
+    "preparation",
+    "prevention",
+    "early detection",
+    "communication",
+    "medical history",
+    "questions",
+    "health decisions"
+  ],
+  "related_modules": [
+    "LIF-102",
+    "LIF-116",
+    "LIF-145"
+  ],
+  "evidence_strength": "Established evidence supports that patient preparation improves communication efficacy, early detection, and preventive care outcomes. Moderate evidence suggests preparation increases patient satisfaction and adherence. Emerging evidence addresses digital tools’ roles and health literacy interventions to enhance preparation. Limitations include variability in individual capabilities and access to resources.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
