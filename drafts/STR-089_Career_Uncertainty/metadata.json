@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-089",
+  "title": "Career Uncertainty",
+  "subtitle": "Common causes, effects, warning signs, and practical strategies for career uncertainty.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Work and Life Stress",
+  "som_stages": [
+    "Prevention",
+    "Intervention",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Working Adults",
+    "Career Counselors",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "career uncertainty",
+    "job stress",
+    "career change",
+    "work anxiety",
+    "career decision-making",
+    "occupational stress",
+    "job security"
+  ],
+  "related_modules": [
+    "STR-021_Stress_Response_Biology",
+    "STR-042_Mindfulness_and_Stress_Reduction",
+    "CHR-037_Career_Counseling_Basics"
+  ],
+  "evidence_strength": "Established and emerging evidence from psychological research and occupational health studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,35 @@
+{
+  "module_id": "STR-086",
+  "title": "Email Stress",
+  "subtitle": "Common causes, effects, warning signs, and practical strategies for email stress.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Work and Life Stress",
+  "som_stages": [
+    "Recognition",
+    "Management"
+  ],
+  "audience": [
+    "Adults",
+    "Employees",
+    "Managers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Email stress",
+    "Digital stress",
+    "Workplace stress",
+    "Email overload",
+    "Stress management",
+    "Technology fatigue"
+  ],
+  "related_modules": [
+    "STR-045_Workplace_Stress",
+    "STR-062_Digital_Health_Effects",
+    "STR-077_Burnout_Prevention",
+    "STR-091_Time_Management_Strategies"
+  ],
+  "evidence_strength": "Moderate evidence based on cross-sectional and observational studies; some emerging physiological data; further longitudinal and experimental research needed.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
