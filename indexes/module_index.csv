@@ -639,6 +639,86 @@ SLP-037,Sleep and Exercise Recovery,Sleep,Sleep and Health,1.0,drafts,drafts/SLP
 SLP-038,Sleep and Muscle Adaptation,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-038_Sleep_and_Muscle_Adaptation/module.json
 SLP-039,Sleep and Athletic Performance,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-039_Sleep_and_Athletic_Performance/module.json
 SLP-040,Sleep and Pain,Sleep,Sleep and Health,1.0,drafts,drafts/SLP-040_Sleep_and_Pain/module.json
+SLP-041,Sleep Hygiene,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-041_Sleep_Hygiene/module.json
+SLP-042,Building a Bedtime Routine,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-042_Building_a_Bedtime_Routine/module.json
+SLP-043,Keeping a Consistent Sleep Schedule,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-043_Keeping_a_Consistent_Sleep_Schedule/module.json
+SLP-044,Morning Light Exposure,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-044_Morning_Light_Exposure/module.json
+SLP-045,Evening Light Exposure,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-045_Evening_Light_Exposure/module.json
+SLP-046,Bedroom Darkness,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-046_Bedroom_Darkness/module.json
+SLP-047,Bedroom Temperature,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-047_Bedroom_Temperature/module.json
+SLP-048,Noise and Sleep,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-048_Noise_and_Sleep/module.json
+SLP-049,Mattresses and Sleep,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-049_Mattresses_and_Sleep/module.json
+SLP-050,Pillows and Sleep,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-050_Pillows_and_Sleep/module.json
+SLP-051,Screen Use Before Bed,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-051_Screen_Use_Before_Bed/module.json
+SLP-052,Caffeine and Sleep,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-052_Caffeine_and_Sleep/module.json
+SLP-053,Alcohol and Sleep,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-053_Alcohol_and_Sleep/module.json
+SLP-054,Nicotine and Sleep,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-054_Nicotine_and_Sleep/module.json
+SLP-055,Cannabis and Sleep,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-055_Cannabis_and_Sleep/module.json
+SLP-056,Meal Timing and Sleep,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-056_Meal_Timing_and_Sleep/module.json
+SLP-057,Exercise Timing and Sleep,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-057_Exercise_Timing_and_Sleep/module.json
+SLP-058,Relaxation Before Bed,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-058_Relaxation_Before_Bed/module.json
+SLP-059,Breathing Exercises for Sleep,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-059_Breathing_Exercises_for_Sleep/module.json
+SLP-060,Meditation and Sleep,Sleep,Healthy Sleep Habits,1.0,drafts,drafts/SLP-060_Meditation_and_Sleep/module.json
+SLP-061,Napping,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-061_Napping/module.json
+SLP-062,Power Naps,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-062_Power_Naps/module.json
+SLP-063,Long Naps,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-063_Long_Naps/module.json
+SLP-064,Weekend Catch-Up Sleep,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-064_Weekend_Catch-Up_Sleep/module.json
+SLP-065,Sleep Debt,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-065_Sleep_Debt/module.json
+SLP-066,Social Jet Lag,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-066_Social_Jet_Lag/module.json
+SLP-067,Jet Lag,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-067_Jet_Lag/module.json
+SLP-068,Shift Work and Sleep,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-068_Shift_Work_and_Sleep/module.json
+SLP-069,Night Shift Sleep Strategies,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-069_Night_Shift_Sleep_Strategies/module.json
+SLP-070,Travel and Sleep,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-070_Travel_and_Sleep/module.json
+SLP-071,Sleeping in Hotels,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-071_Sleeping_in_Hotels/module.json
+SLP-072,Daylight Saving Time,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-072_Daylight_Saving_Time/module.json
+SLP-073,Early Morning Schedules,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-073_Early_Morning_Schedules/module.json
+SLP-074,Late-Night Schedules,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-074_Late-Night_Schedules/module.json
+SLP-075,Sleep for Busy Professionals,Sleep,Sleep Timing and Real Life,1.0,drafts,drafts/SLP-075_Sleep_for_Busy_Professionals/module.json
+SLP-076,Insomnia,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-076_Insomnia/module.json
+SLP-077,Acute Insomnia,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-077_Acute_Insomnia/module.json
+SLP-078,Chronic Insomnia,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-078_Chronic_Insomnia/module.json
+SLP-079,Cognitive Behavioral Therapy for Insomnia,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-079_Cognitive_Behavioral_Therapy_for_Insomnia/module.json
+SLP-080,Stimulus Control for Insomnia,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-080_Stimulus_Control_for_Insomnia/module.json
+SLP-081,Sleep Restriction Therapy,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-081_Sleep_Restriction_Therapy/module.json
+SLP-082,Relaxation Therapy for Insomnia,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-082_Relaxation_Therapy_for_Insomnia/module.json
+SLP-083,Sleep Medications,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-083_Sleep_Medications/module.json
+SLP-084,Melatonin,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-084_Melatonin/module.json
+SLP-085,Sleep Apnea,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-085_Sleep_Apnea/module.json
+SLP-086,Obstructive Sleep Apnea,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-086_Obstructive_Sleep_Apnea/module.json
+SLP-087,Central Sleep Apnea,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-087_Central_Sleep_Apnea/module.json
+SLP-088,Snoring,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-088_Snoring/module.json
+SLP-089,CPAP Therapy,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-089_CPAP_Therapy/module.json
+SLP-090,Oral Appliances for Sleep Apnea,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-090_Oral_Appliances_for_Sleep_Apnea/module.json
+SLP-091,Restless Legs Syndrome,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-091_Restless_Legs_Syndrome/module.json
+SLP-092,Periodic Limb Movements,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-092_Periodic_Limb_Movements/module.json
+SLP-093,Parasomnias,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-093_Parasomnias/module.json
+SLP-094,Sleepwalking,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-094_Sleepwalking/module.json
+SLP-095,Nightmares,Sleep,Sleep Problems and Disorders,1.0,drafts,drafts/SLP-095_Nightmares/module.json
+SLP-096,Sleep Paralysis,Sleep,Special Sleep Topics,1.0,drafts,drafts/SLP-096_Sleep_Paralysis/module.json
+SLP-097,REM Sleep Behavior Disorder,Sleep,Special Sleep Topics,1.0,drafts,drafts/SLP-097_REM_Sleep_Behavior_Disorder/module.json
+SLP-098,Sleep Tracking Devices,Sleep,Special Sleep Topics,1.0,drafts,drafts/SLP-098_Sleep_Tracking_Devices/module.json
+SLP-099,Sleep Scores,Sleep,Special Sleep Topics,1.0,drafts,drafts/SLP-099_Sleep_Scores/module.json
+SLP-100,Smartwatches and Sleep,Sleep,Special Sleep Topics,1.0,drafts,drafts/SLP-100_Smartwatches_and_Sleep/module.json
+STR-001,What Is Stress,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-001_What_Is_Stress/module.json
+STR-002,Acute Stress,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-002_Acute_Stress/module.json
+STR-003,Chronic Stress,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-003_Chronic_Stress/module.json
+STR-004,The Stress Response,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-004_The_Stress_Response/module.json
+STR-005,Fight Flight Freeze Response,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-005_Fight_Flight_Freeze_Response/module.json
+STR-006,Stress and the Autonomic Nervous System,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-006_Stress_and_the_Autonomic_Nervous_System/module.json
+STR-007,Stress and the HPA Axis,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-007_Stress_and_the_HPA_Axis/module.json
+STR-008,Cortisol,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-008_Cortisol/module.json
+STR-009,Adrenaline and Noradrenaline,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-009_Adrenaline_and_Noradrenaline/module.json
+STR-010,Stress Appraisal,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-010_Stress_Appraisal/module.json
+STR-011,Stress Resilience,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-011_Stress_Resilience/module.json
+STR-012,Allostatic Load,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-012_Allostatic_Load/module.json
+STR-013,Stress Recovery,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-013_Stress_Recovery/module.json
+STR-014,Eustress and Distress,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-014_Eustress_and_Distress/module.json
+STR-015,Stress Triggers,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-015_Stress_Triggers/module.json
+STR-016,Stress Reactivity,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-016_Stress_Reactivity/module.json
+STR-017,Stress Tolerance,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-017_Stress_Tolerance/module.json
+STR-018,Psychological Flexibility,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-018_Psychological_Flexibility/module.json
+STR-019,Emotional Regulation,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-019_Emotional_Regulation/module.json
+STR-020,Mental Well-Being,Stress and Mental Well-Being,Stress Foundations,1.0,drafts,drafts/STR-020_Mental_Well-Being/module.json
 BIO-001,What Is Health?,Human Biology,Health Foundations,1.0,approved,approved/BIO-001_What_Is_Health/module.json
 BIO-002,The Human Body as an Integrated System,Human Biology,Systems Biology,1.0,approved,approved/BIO-002_The_Human_Body_as_an_Integrated_System/module.json
 BIO-003,Levels of Biological Organization,Human Biology,Foundational Biology,1.0,approved,approved/BIO-003_Levels_of_Biological_Organization/module.json
