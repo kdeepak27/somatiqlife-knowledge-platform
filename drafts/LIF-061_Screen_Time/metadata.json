@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-061",
+  "title": "Screen Time",
+  "subtitle": "Health effects, evidence, and practical boundaries related to screen time.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Digital Lifestyle",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Parents",
+    "Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "screen time",
+    "digital exposure",
+    "health effects",
+    "blue light",
+    "sleep",
+    "children",
+    "mental health",
+    "physical activity"
+  ],
+  "related_modules": [
+    "LIF-042_Sleep_Hygiene",
+    "LIF-058_Child_Development",
+    "LIF-076_Mental_Health_Management"
+  ],
+  "evidence_strength": "Established evidence for sleep disruption and physical health impacts; moderate evidence for mental health effects; emerging evidence for long-term cognitive consequences; limited evidence for permanent ocular damage.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

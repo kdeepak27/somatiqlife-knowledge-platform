@@ -1,0 +1,38 @@
+{
+  "module_id": "LIF-062",
+  "title": "Smartphone Habits",
+  "subtitle": "Health effects, evidence, and practical boundaries related to smartphone habits.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Digital Lifestyle",
+  "som_stages": [
+    "Primary Prevention",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Clinicians",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate (Grade 10-12)",
+  "keywords": [
+    "smartphone use",
+    "digital habits",
+    "screen time",
+    "mental health",
+    "physical health",
+    "addiction",
+    "blue light",
+    "sleep hygiene",
+    "ergonomics",
+    "digital wellbeing"
+  ],
+  "related_modules": [
+    "LIF-058 (Digital Detox and Mental Health)",
+    "LIF-071 (Sleep Hygiene and Technology Use)",
+    "LIF-075 (Physical Activity and Sedentary Behavior)"
+  ],
+  "evidence_strength": "Established evidence regarding physiological impacts like sleep disruption and musculoskeletal strain; moderate emerging evidence about psychological effects and problematic use; limitations due to variability and methodological challenges in behavioral studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
