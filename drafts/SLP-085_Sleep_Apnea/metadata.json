@@ -1,0 +1,36 @@
+{
+  "module_id": "SLP-085",
+  "title": "Sleep Apnea",
+  "subtitle": "Definitions, symptoms, evaluation, management, safety, and evidence related to sleep apnea.",
+  "domain": "Sleep",
+  "category": "Sleep Problems and Disorders",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep apnea",
+    "obstructive sleep apnea",
+    "central sleep apnea",
+    "snoring",
+    "CPAP",
+    "hypopnea",
+    "polysomnography",
+    "sleep study"
+  ],
+  "related_modules": [
+    "SLP-042",
+    "SLP-090",
+    "CARD-120"
+  ],
+  "evidence_strength": "Established evidence supports CPAP efficacy and diagnosis by polysomnography; emerging evidence pertains to newer therapies and individualized management.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

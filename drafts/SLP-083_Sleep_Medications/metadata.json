@@ -1,0 +1,36 @@
+{
+  "module_id": "SLP-083",
+  "title": "Sleep Medications",
+  "subtitle": "Definitions, symptoms, evaluation, management, safety, and evidence related to sleep medications.",
+  "domain": "Sleep",
+  "category": "Sleep Problems and Disorders",
+  "som_stages": [
+    "Evaluation",
+    "Management",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate health literacy (Grade 8-10)",
+  "keywords": [
+    "Sleep medications",
+    "Hypnotics",
+    "Insomnia treatments",
+    "Sleep aids",
+    "Benzodiazepines",
+    "Melatonin",
+    "Sedatives",
+    "Sleep disorders"
+  ],
+  "related_modules": [
+    "SLP-045",
+    "SLP-062",
+    "PSY-028"
+  ],
+  "evidence_strength": "Established evidence supports the short-term efficacy and safety profile of many sleep medications while highlighting risks and limitations necessitating cautious use. Emerging evidence encourages integration with behavioral therapies and fostering personalized treatment. Some data on long-term outcomes remain limited or mixed, requiring ongoing research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

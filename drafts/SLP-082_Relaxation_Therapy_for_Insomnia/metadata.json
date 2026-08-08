@@ -1,0 +1,37 @@
+{
+  "module_id": "SLP-082",
+  "title": "Relaxation Therapy for Insomnia",
+  "subtitle": "Definitions, symptoms, evaluation, management, safety, and evidence related to relaxation therapy for insomnia.",
+  "domain": "Sleep",
+  "category": "Sleep Problems and Disorders",
+  "som_stages": [
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "Adults",
+    "Healthcare Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "General audience, with scientific terminology explained",
+  "keywords": [
+    "Relaxation Therapy",
+    "Insomnia",
+    "Sleep Disorders",
+    "Cognitive Behavioral Therapy",
+    "Sleep Hygiene",
+    "Stress Reduction",
+    "Progressive Muscle Relaxation",
+    "Autogenic Training",
+    "Guided Imagery",
+    "Sleep Quality"
+  ],
+  "related_modules": [
+    "SLP-015",
+    "SLP-043",
+    "SLP-079"
+  ],
+  "evidence_strength": "Moderate evidence supports relaxation therapy as an adjunct treatment for insomnia, with consistent improvements in subjective sleep quality and reduced sleep onset latency noted in multiple randomized controlled trials. Evidence is less robust as a monotherapy, and variability exists between individual responses. Ongoing research continues to refine optimal protocols and assess long-term efficacy.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

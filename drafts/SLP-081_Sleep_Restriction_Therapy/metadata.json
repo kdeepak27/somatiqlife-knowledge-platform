@@ -1,0 +1,33 @@
+{
+  "module_id": "SLP-081",
+  "title": "Sleep Restriction Therapy",
+  "subtitle": "Definitions, symptoms, evaluation, management, safety, and evidence related to sleep restriction therapy.",
+  "domain": "Sleep",
+  "category": "Sleep Problems and Disorders",
+  "som_stages": [
+    "Active Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Clinicians",
+    "Sleep Specialists"
+  ],
+  "reading_level": "General Adult",
+  "keywords": [
+    "Sleep Restriction Therapy",
+    "Sleep Disorders",
+    "Insomnia",
+    "Cognitive Behavioral Therapy",
+    "Sleep Efficiency",
+    "Sleep Hygiene"
+  ],
+  "related_modules": [
+    "SLP-020_Cognitive_Behavioral_Therapy_for_Insomnia",
+    "SLP-045_Stimulus_Control_Therapy",
+    "SLP-100_Sleep_Hygiene_Practices"
+  ],
+  "evidence_strength": "Strong evidence from multiple randomized controlled trials supports the efficacy of sleep restriction therapy as part of cognitive behavioral treatment for chronic insomnia.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
