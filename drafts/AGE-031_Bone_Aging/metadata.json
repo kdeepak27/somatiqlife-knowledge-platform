@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-031",
+  "title": "Bone Aging",
+  "subtitle": "Prevention, evidence, practical actions, and safety related to bone aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Bone and Falls",
+  "som_stages": [
+    "Middle age",
+    "Older adults",
+    "Elderly"
+  ],
+  "audience": [
+    "General public",
+    "Health professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Bone aging",
+    "Osteoporosis",
+    "Bone density",
+    "Bone health",
+    "Calcium",
+    "Vitamin D",
+    "Physical activity",
+    "Fall prevention",
+    "Bone remodeling",
+    "Sarcopenia"
+  ],
+  "related_modules": [
+    "AGE-015",
+    "AGE-022",
+    "AGE-045"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and observational studies with moderate emerging research on molecular mechanisms and tailored interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

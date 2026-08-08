@@ -1,0 +1,40 @@
+{
+  "module_id": "AGE-032",
+  "title": "Osteopenia",
+  "subtitle": "Prevention, evidence, practical actions, and safety related to osteopenia.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Bone and Falls",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "Osteopenia",
+    "Bone Density",
+    "Bone Health",
+    "Prevention",
+    "Osteoporosis",
+    "Fracture Risk",
+    "Calcium",
+    "Vitamin D",
+    "Physical Activity",
+    "Bone Mineral Density"
+  ],
+  "related_modules": [
+    "AGE-033-osteoporosis",
+    "AGE-034-falls-prevention",
+    "NUTR-027-vitamin-d",
+    "PHY-019-exercise-aging"
+  ],
+  "evidence_strength": "Established evidence with some moderate emerging evidence on personalized risk assessment and treatment strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

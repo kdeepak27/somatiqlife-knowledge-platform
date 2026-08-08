@@ -1,0 +1,36 @@
+{
+  "module_id": "AGE-033",
+  "title": "Osteoporosis Prevention",
+  "subtitle": "Prevention, evidence, practical actions, and safety related to osteoporosis prevention.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Bone and Falls",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "osteoporosis",
+    "bone health",
+    "prevention",
+    "calcium",
+    "vitamin D",
+    "exercise",
+    "bone density",
+    "fall prevention"
+  ],
+  "related_modules": [
+    "AGE-015",
+    "AGE-037",
+    "NUT-012"
+  ],
+  "evidence_strength": "Established evidence based on clinical guidelines, randomized controlled trials, and systematic reviews",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
