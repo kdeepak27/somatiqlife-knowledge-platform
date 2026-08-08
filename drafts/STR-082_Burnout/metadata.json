@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-082",
+  "title": "Burnout",
+  "subtitle": "Common causes, effects, warning signs, and practical strategies for burnout.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Work and Life Stress",
+  "som_stages": [
+    "Identification",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Workplace Wellness Coordinators"
+  ],
+  "reading_level": "Intermediate Adults",
+  "keywords": [
+    "burnout",
+    "stress",
+    "mental exhaustion",
+    "occupational health",
+    "work stress",
+    "emotional exhaustion",
+    "cognitive fatigue",
+    "employee well-being",
+    "work-life balance",
+    "resilience"
+  ],
+  "related_modules": [
+    "STR-045",
+    "STR-063",
+    "MENT-022"
+  ],
+  "evidence_strength": "Established evidence for burnout’s definition, symptoms, and impacts; moderate evidence for physiological mechanisms and intervention efficacy; emerging evidence for biomarkers and long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

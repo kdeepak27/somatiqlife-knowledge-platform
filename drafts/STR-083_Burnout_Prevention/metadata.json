@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-083",
+  "title": "Burnout Prevention",
+  "subtitle": "Common causes, effects, warning signs, and practical strategies for burnout prevention.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Work and Life Stress",
+  "som_stages": [
+    "Primary Prevention",
+    "Early Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Working Adults",
+    "Healthcare Professionals",
+    "Mental Health Practitioners"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "burnout",
+    "stress",
+    "work stress",
+    "mental exhaustion",
+    "prevention strategies",
+    "occupational health",
+    "resilience",
+    "work-life balance",
+    "psychological distress",
+    "emotional exhaustion"
+  ],
+  "related_modules": [
+    "STR-045",
+    "STR-052",
+    "MH-027"
+  ],
+  "evidence_strength": "Established evidence for core definitions and prevention; emerging evidence for physiological mechanisms and resilience interventions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

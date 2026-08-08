@@ -1,0 +1,40 @@
+{
+  "module_id": "STR-084",
+  "title": "Workload Management",
+  "subtitle": "Common causes, effects, warning signs, and practical strategies for workload management.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Work and Life Stress",
+  "som_stages": [
+    "Awareness",
+    "Coping",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Employees",
+    "Managers",
+    "Human Resources Professionals",
+    "Mental Health Practitioners"
+  ],
+  "reading_level": "Grade 8 (Medium)",
+  "keywords": [
+    "workload",
+    "stress management",
+    "time management",
+    "burnout",
+    "fatigue",
+    "work-life balance",
+    "task prioritization",
+    "psychological stress",
+    "occupational health",
+    "productivity"
+  ],
+  "related_modules": [
+    "STR-003",
+    "STR-045",
+    "STR-091"
+  ],
+  "evidence_strength": "Established evidence for workload effects and stress mechanisms; moderate evidence for effectiveness of specific management techniques; emerging evidence regarding organizational interventions and digital tools.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

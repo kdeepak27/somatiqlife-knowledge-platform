@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-085",
+  "title": "Meeting Overload",
+  "subtitle": "Common causes, effects, warning signs, and practical strategies for meeting overload.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Work and Life Stress",
+  "som_stages": [
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "General Adult Population",
+    "Working Professionals",
+    "Human Resource Managers",
+    "Mental Health Advocates"
+  ],
+  "reading_level": "Intermediate (Grade 10+)",
+  "keywords": [
+    "Meeting Overload",
+    "Work Stress",
+    "Mental Well-being",
+    "Productivity",
+    "Burnout",
+    "Time Management",
+    "Workplace Health"
+  ],
+  "related_modules": [
+    "STR-034_Workplace_Burnout",
+    "STR-051_Time_Management_Techniques",
+    "STR-078_Remote_Work_Wellness",
+    "MNT-102_Stress_Physiology"
+  ],
+  "evidence_strength": "Moderate - Emerging evidence with some observational studies and expert consensus. More robust experimental and longitudinal data needed.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
