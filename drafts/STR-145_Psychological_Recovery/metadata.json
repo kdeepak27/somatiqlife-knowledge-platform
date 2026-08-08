@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-145",
+  "title": "Psychological Recovery",
+  "subtitle": "How psychological recovery supports long-term resilience, health, and sustainable behavior.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Resilience and Meaning",
+  "som_stages": [
+    "Prevention",
+    "Intervention",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Mental Health Professionals",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "psychological recovery",
+    "resilience",
+    "mental health",
+    "stress management",
+    "behavior change",
+    "coping strategies",
+    "emotional regulation",
+    "neuroplasticity"
+  ],
+  "related_modules": [
+    "STR-102-StressManagement",
+    "STR-118-TraumaInformedCare",
+    "MH-067-NeurobiologyOfResilience"
+  ],
+  "evidence_strength": "Established evidence underpinned by clinical psychology and neuroscience research; some emerging areas require further validation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

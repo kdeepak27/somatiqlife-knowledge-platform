@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-142",
+  "title": "Growth Mindset",
+  "subtitle": "How growth mindset supports long-term resilience, health, and sustainable behavior.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Resilience and Meaning",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Mental Health Practitioners",
+    "Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Growth mindset",
+    "Resilience",
+    "Neuroplasticity",
+    "Behavior change",
+    "Self-efficacy",
+    "Stress management",
+    "Mental health",
+    "Motivation"
+  ],
+  "related_modules": [
+    "STR-108",
+    "STR-116",
+    "BEH-204"
+  ],
+  "evidence_strength": "Moderate evidence supports the psychological and behavioral benefits of growth mindset, while neuroscience findings underpin biological plausibility; effects vary by population and intervention context.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

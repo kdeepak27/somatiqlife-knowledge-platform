@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-144",
+  "title": "Post-Traumatic Growth",
+  "subtitle": "How post-traumatic growth supports long-term resilience, health, and sustainable behavior.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Resilience and Meaning",
+  "som_stages": [
+    "Prevention",
+    "Coping",
+    "Recovery",
+    "Adaptation"
+  ],
+  "audience": [
+    "General Public",
+    "Mental Health Professionals",
+    "Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Post-traumatic growth",
+    "Resilience",
+    "Trauma recovery",
+    "Psychological growth",
+    "Meaning-making",
+    "Stress adaptation",
+    "Mental health",
+    "Sustainable behavior"
+  ],
+  "related_modules": [
+    "STR-037: Resilience Training and Coping Strategies",
+    "STR-121: Mindfulness and Stress Reduction",
+    "STR-099: Psychological Trauma and PTSD Fundamentals"
+  ],
+  "evidence_strength": "Established evidence supports the existence of post-traumatic growth as a positive outcome following trauma for many individuals. Moderate evidence exists on physiological correlates and intervention efficacy. Some emerging and inconsistent findings relate to neurobiological mechanisms and cultural variability. Overall, the evidence base is growing but requires cautious interpretation respecting individual differences.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

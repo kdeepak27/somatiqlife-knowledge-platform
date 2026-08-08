@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-141",
+  "title": "Values-Based Living",
+  "subtitle": "How values-based living supports long-term resilience, health, and sustainable behavior.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Resilience and Meaning",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Mental Health Professionals",
+    "Health Educators",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "values-based living",
+    "resilience",
+    "mental health",
+    "sustainable behavior",
+    "psychological flexibility",
+    "meaning",
+    "ACT",
+    "behavior change",
+    "stress management"
+  ],
+  "related_modules": [
+    "STR-095: Psychological Flexibility in Mental Health",
+    "STR-102: Acceptance and Commitment Therapy (ACT) Fundamentals",
+    "STR-120: Mindfulness and Stress Reduction Techniques"
+  ],
+  "evidence_strength": "Moderate - Supported by clinical trials of Acceptance and Commitment Therapy and observational studies; ongoing research seeks to strengthen causal links and mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
