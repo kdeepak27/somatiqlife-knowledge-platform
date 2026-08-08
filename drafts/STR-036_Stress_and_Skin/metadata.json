@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-036",
+  "title": "Stress and Skin",
+  "subtitle": "How stress and skin are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "Prevention",
+    "Symptom Management",
+    "Wellness Promotion"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stress",
+    "skin health",
+    "psychodermatology",
+    "cortisol",
+    "inflammation",
+    "skin barrier",
+    "acne",
+    "eczema",
+    "psoriasis",
+    "immune response"
+  ],
+  "related_modules": [
+    "STR-004",
+    "DER-012",
+    "DER-027"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

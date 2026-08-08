@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-039",
+  "title": "Stress and Decision Making",
+  "subtitle": "How stress and decision making are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "Understanding Stress Impact",
+    "Enhancing Cognitive Function",
+    "Managing Mental Health"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Stress",
+    "Decision Making",
+    "Cognitive Function",
+    "Cortisol",
+    "Prefrontal Cortex",
+    "Sympathetic Nervous System",
+    "Cognitive Bias",
+    "Executive Function",
+    "Acute Stress",
+    "Chronic Stress"
+  ],
+  "related_modules": [
+    "STR-015",
+    "STR-042",
+    "MNT-078"
+  ],
+  "evidence_strength": "Established with moderate emerging evidence from neuroscience and behavioral studies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

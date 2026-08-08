@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-040",
+  "title": "Stress and Exercise Recovery",
+  "subtitle": "How stress and exercise recovery are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "Recognition",
+    "Management",
+    "Optimization"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Fitness Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Stress",
+    "Exercise Recovery",
+    "Physiology",
+    "Cortisol",
+    "Autonomic Nervous System",
+    "Muscle Repair",
+    "Mental Health",
+    "Physical Fitness"
+  ],
+  "related_modules": [
+    "STR-015",
+    "FIT-052",
+    "MHP-034"
+  ],
+  "evidence_strength": "Established Evidence with Moderate Emerging Insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
