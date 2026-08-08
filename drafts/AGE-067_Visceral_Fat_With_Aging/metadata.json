@@ -1,0 +1,35 @@
+{
+  "module_id": "AGE-067",
+  "title": "Visceral Fat With Aging",
+  "subtitle": "How visceral fat with aging changes with age and what supports healthy function.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Cardiometabolic Aging",
+  "som_stages": [
+    "Middle Age",
+    "Older Adult",
+    "Elderly"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "visceral fat",
+    "aging",
+    "cardiometabolic risk",
+    "abdominal fat",
+    "insulin resistance",
+    "inflammation",
+    "healthy aging"
+  ],
+  "related_modules": [
+    "AGE-005",
+    "AGE-048",
+    "MET-012"
+  ],
+  "evidence_strength": "Established evidence for aging-related visceral fat increase and lifestyle management; emerging evidence for pharmacological interventions and detailed mechanisms; limitations in measurement standardization and personalized approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

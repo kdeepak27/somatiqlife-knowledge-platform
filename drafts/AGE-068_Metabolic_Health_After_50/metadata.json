@@ -1,0 +1,39 @@
+{
+  "module_id": "AGE-068",
+  "title": "Metabolic Health After 50",
+  "subtitle": "How metabolic health after 50 changes with age and what supports healthy function.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Cardiometabolic Aging",
+  "som_stages": [
+    "Middle Age",
+    "Older Adult"
+  ],
+  "audience": [
+    "General Adult Population",
+    "Health Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "Metabolic Health",
+    "Aging",
+    "Insulin Resistance",
+    "Type 2 Diabetes",
+    "Cardiometabolic Risk",
+    "Physical Activity",
+    "Nutrition",
+    "Hormonal Changes",
+    "Inflammation",
+    "Glucose Metabolism",
+    "Lean Muscle Mass",
+    "Visceral Fat"
+  ],
+  "related_modules": [
+    "AGE-057_Longevity_Nutrition",
+    "AGE-059_Physical_Activity_in_Aging",
+    "AGE-065_Chronic_Inflammation_and_Aging"
+  ],
+  "evidence_strength": "Established evidence for age-related metabolic changes and efficacy of lifestyle interventions; moderate evidence supports some hormonal treatments; emerging evidence on inflammation's role.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
