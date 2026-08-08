@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-092",
+  "title": "Sleep Apnea and Aging",
+  "subtitle": "Evidence, practical strategies, and safety related to sleep apnea and aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Sleep and Recovery With Aging",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Wellness"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (High School to College)",
+  "keywords": [
+    "sleep apnea",
+    "aging",
+    "obstructive sleep apnea",
+    "central sleep apnea",
+    "sleep disorders",
+    "older adults",
+    "sleep health",
+    "continuous positive airway pressure",
+    "CPAP",
+    "snoring"
+  ],
+  "related_modules": [
+    "AGE-085",
+    "AGE-097",
+    "CARD-034"
+  ],
+  "evidence_strength": "Established evidence for epidemiological and physiological aspects; moderate evidence for long-term outcome benefits of CPAP in older adults; emerging evidence for individualized management approaches and cognitive outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

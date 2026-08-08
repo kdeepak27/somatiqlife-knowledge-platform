@@ -1,0 +1,39 @@
+{
+  "module_id": "AGE-093",
+  "title": "Napping in Older Adults",
+  "subtitle": "Evidence, practical strategies, and safety related to napping in older adults.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Sleep and Recovery With Aging",
+  "som_stages": [
+    "Older Adulthood",
+    "Active Aging",
+    "Healthy Lifestyle"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "napping",
+    "older adults",
+    "sleep",
+    "daytime sleep",
+    "siesta",
+    "rest",
+    "circadian rhythm",
+    "sleep quality",
+    "aging",
+    "sleep hygiene"
+  ],
+  "related_modules": [
+    "AGE-089",
+    "AGE-094",
+    "SLEEP-101"
+  ],
+  "evidence_strength": "Established evidence with emerging insights from recent studies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

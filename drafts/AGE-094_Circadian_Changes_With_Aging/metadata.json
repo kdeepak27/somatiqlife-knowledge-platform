@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-094",
+  "title": "Circadian Changes With Aging",
+  "subtitle": "Evidence, practical strategies, and safety related to circadian changes with aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Sleep and Recovery With Aging",
+  "som_stages": [
+    "Prevention",
+    "Active Management",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "circadian rhythm",
+    "aging",
+    "sleep",
+    "melatonin",
+    "chronobiology",
+    "biological clock",
+    "older adults",
+    "sleep disorders",
+    "light therapy",
+    "healthy aging"
+  ],
+  "related_modules": [
+    "AGE-088",
+    "AGE-101",
+    "SLEEP-023"
+  ],
+  "evidence_strength": "Established evidence complemented by moderate and emerging research findings.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
