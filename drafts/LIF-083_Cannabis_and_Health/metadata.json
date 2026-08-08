@@ -1,0 +1,38 @@
+{
+  "module_id": "LIF-083",
+  "title": "Cannabis and Health",
+  "subtitle": "Health effects, risk reduction, and evidence-based considerations for cannabis and health.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Substances and Health",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention",
+    "Chronic Care"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Cannabis",
+    "Marijuana",
+    "THC",
+    "CBD",
+    "Endocannabinoid System",
+    "Cannabinoids",
+    "Psychoactive Effects",
+    "Medical Cannabis",
+    "Harm Reduction",
+    "Cannabis Use Disorder"
+  ],
+  "related_modules": [
+    "LIF-092_Substance_Use_Disorders",
+    "LIF-105_Mental_Health_and_Substance_Interactions",
+    "LIF-045_Harm_Reduction_Strategies"
+  ],
+  "evidence_strength": "Moderate to Emerging Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
