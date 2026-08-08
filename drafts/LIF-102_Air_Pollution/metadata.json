@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-102",
+  "title": "Air Pollution",
+  "subtitle": "How air pollution can influence physical and mental well-being.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Social and Environmental Health",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Environmental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Air pollution",
+    "Particulate matter",
+    "Health effects",
+    "Respiratory health",
+    "Mental health",
+    "Environmental pollutants",
+    "Oxidative stress",
+    "Cardiovascular health",
+    "Neuroinflammation"
+  ],
+  "related_modules": [
+    "LIF-101_Physical_Activity",
+    "LIF-103_Nutrition_and_Health",
+    "SOC-201_Social_Determinants_of_Health",
+    "ENV-301_Climate_and_Health"
+  ],
+  "evidence_strength": "Established evidence for respiratory and cardiovascular impacts; moderate and emerging evidence for mental health effects; well-supported physiological mechanisms; ongoing research for neuroinflammatory pathways.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

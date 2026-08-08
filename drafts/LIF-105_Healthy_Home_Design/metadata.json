@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-105",
+  "title": "Healthy Home Design",
+  "subtitle": "How healthy home design can influence physical and mental well-being.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Social and Environmental Health",
+  "som_stages": [
+    "Prevention",
+    "Wellness"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Interior Designers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "healthy home",
+    "well-being",
+    "indoor air quality",
+    "natural light",
+    "biophilic design",
+    "ventilation",
+    "ergonomics",
+    "noise pollution",
+    "mental health",
+    "physical health"
+  ],
+  "related_modules": [
+    "ENV-210",
+    "MNT-112",
+    "LIF-108"
+  ],
+  "evidence_strength": "Established with emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

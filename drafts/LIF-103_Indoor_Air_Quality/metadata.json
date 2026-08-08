@@ -1,0 +1,39 @@
+{
+  "module_id": "LIF-103",
+  "title": "Indoor Air Quality",
+  "subtitle": "How indoor air quality can influence physical and mental well-being.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Social and Environmental Health",
+  "som_stages": [
+    "Awareness",
+    "Engagement",
+    "Behavior Change"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Consumers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate - General Adult Audience",
+  "keywords": [
+    "Indoor air quality",
+    "IAQ",
+    "pollutants",
+    "ventilation",
+    "mental health",
+    "physical health",
+    "airborne particles",
+    "allergens",
+    "carbon monoxide",
+    "volatile organic compounds",
+    "VOC"
+  ],
+  "related_modules": [
+    "LIF-101-EnvironmentalHealth",
+    "LIF-105-AllergensAndRespiratoryHealth",
+    "LIF-110-MentalHealth-Lifestyle"
+  ],
+  "evidence_strength": "Established evidence for physical health impacts; moderate emerging evidence for mental health effects; acknowledged limitations and research gaps in measurement and long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,35 @@
+{
+  "module_id": "LIF-101",
+  "title": "Noise Exposure",
+  "subtitle": "How noise exposure can influence physical and mental well-being.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Social and Environmental Health",
+  "som_stages": [
+    "Wellness",
+    "Prevention",
+    "Chronic Condition Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Noise exposure",
+    "Hearing loss",
+    "Stress",
+    "Cardiovascular health",
+    "Sleep disturbance",
+    "Environmental noise",
+    "Sound pollution",
+    "Well-being"
+  ],
+  "related_modules": [
+    "LIF-102",
+    "ENV-201"
+  ],
+  "evidence_strength": "Established evidence on auditory effects; moderate evidence for cardiovascular and mental health impacts; emerging research on long-term systemic effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
