@@ -1,0 +1,37 @@
+{
+  "module_id": "AGE-020",
+  "title": "Strength After 60",
+  "subtitle": "How strength after 60 affects independence, function, and healthy aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Physical Function",
+  "som_stages": [
+    "Maintenance",
+    "Prevention",
+    "Early Intervention"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers",
+    "Fitness Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "muscle strength",
+    "aging",
+    "independence",
+    "physical function",
+    "resistance training",
+    "sarcopenia",
+    "healthy aging",
+    "functional capacity"
+  ],
+  "related_modules": [
+    "AGE-015",
+    "AGE-025",
+    "NUT-010"
+  ],
+  "evidence_strength": "Established evidence supporting resistance training benefits; moderate evidence for specific nutritional interventions; emerging evidence regarding individualized response variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
