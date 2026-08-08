@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-106",
+  "title": "Retirement and Well-Being",
+  "subtitle": "How retirement and well-being influences well-being and healthy aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Social and Emotional Aging",
+  "som_stages": [
+    "Retirement Transition",
+    "Late Adulthood",
+    "Healthy Aging"
+  ],
+  "audience": [
+    "General public",
+    "Older adults",
+    "Healthcare providers",
+    "Caregivers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "retirement",
+    "well-being",
+    "healthy aging",
+    "psychosocial health",
+    "social engagement",
+    "mental health",
+    "financial security",
+    "physical activity"
+  ],
+  "related_modules": [
+    "AGE-101",
+    "AGE-112",
+    "SOC-205"
+  ],
+  "evidence_strength": "Moderate evidence with some variability due to individual and contextual differences.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
