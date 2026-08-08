@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-125",
+  "title": "Eye Care",
+  "subtitle": "How eye care supports prevention, early detection, and informed health decisions.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Preventive Care",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate (Grades 8-10)",
+  "keywords": [
+    "eye care",
+    "vision health",
+    "preventive eye care",
+    "ocular health",
+    "eye examination",
+    "eyewear",
+    "eye protection",
+    "common eye conditions"
+  ],
+  "related_modules": [
+    "LIF-107-Nutrition-for-Healthy-Aging",
+    "LIF-115-Smoking-Cessation",
+    "LIF-130-Digital-Health-and-Eye-Strain"
+  ],
+  "evidence_strength": "Established evidence supports the effectiveness of regular eye exams, nutritional support, and protective measures to reduce risk of vision loss. Moderate evidence supports benefits of specific nutrient supplements in select populations. Emerging evidence explores digital screen effects and optimal screening intervals.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,239 @@
+{
+  "module_id": "LIF-122",
+  "title": "Preventive Screenings",
+  "subtitle": "How preventive screenings supports prevention, early detection, and informed health decisions.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Preventive Care",
+  "som_stages": [
+    "Primary Prevention",
+    "Secondary Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Preventive screenings",
+    "Early detection",
+    "Health screening tests",
+    "Cancer screening",
+    "Cardiovascular screening",
+    "Diabetes screening",
+    "Immunizations",
+    "Health promotion"
+  ],
+  "customer_questions": [
+    "What are preventive screenings?",
+    "Why are preventive screenings important for health?",
+    "At what age should I start preventive screenings?",
+    "How often should I get screened for common diseases?",
+    "What types of diseases can be detected early through preventive screenings?",
+    "Are preventive screenings covered by insurance?",
+    "What are the risks or limitations of screening tests?",
+    "How accurate are preventive screening tests?",
+    "Can preventive screenings help reduce health care costs?",
+    "Are there any common misconceptions about preventive screenings?",
+    "How do screenings differ from diagnostic tests?",
+    "What should I do if a screening test result is abnormal?"
+  ],
+  "retrieval_summary": "Preventive screenings, also known as health screenings or screening tests, are medical tests and assessments performed on asymptomatic individuals to detect potential health issues early or to identify risk factors before symptoms appear. These screenings are a key tool in preventive care and public health because early identification often allows for timely interventions, improving health outcomes and reducing the burden of disease. Major categories include cancer screenings (such as mammograms and colonoscopies), cardiovascular screenings (including blood pressure and cholesterol checks), diabetes screening (blood glucose tests), and others for vision, hearing, and immunization status. The mechanisms involve physiological and biochemical measurements aimed at detecting abnormal changes indicative of disease. Preventive screenings support informed health decisions by providing information about current health status and risks. However, limitations exist such as false positives, false negatives, overdiagnosis, and potential anxiety. Safety is generally high since many screenings are non-invasive or minimally invasive, but potential harms should be understood and weighed against benefits. Also, screening guidelines vary by age, sex, risk factors, and evolving evidence. Awareness and adherence to recommended screening schedules are important to maximize benefits.",
+  "learning_objectives": [
+    "Define preventive screenings and their role in healthcare.",
+    "Describe common types of preventive screening tests and the diseases they target.",
+    "Explain how early detection through screening can influence health outcomes.",
+    "Identify the benefits and limitations of preventive screenings.",
+    "Understand recommended screening schedules and guidelines for different populations.",
+    "Discuss safety considerations and potential risks of screening tests.",
+    "Recognize common misconceptions about preventive screenings.",
+    "Apply screening information to support informed healthcare decisions."
+  ],
+  "definition": "Preventive screenings are medical tests or examinations performed on individuals without symptoms to detect potential diseases or conditions early, aiming to prevent progression or complications.",
+  "why_this_matters": "Preventive screenings enable early detection and intervention, which can reduce disease severity, improve survival rates, and lower healthcare costs. Understanding screenings helps individuals make informed decisions about their health.",
+  "sections": [
+    {
+      "heading": "What Are Preventive Screenings?",
+      "content": "Preventive screenings, also called health screenings or screening tests, are used to identify the presence of certain health conditions or risk factors in people who appear healthy and have no symptoms. Unlike diagnostic tests that confirm disease when symptoms are present, screenings aim to find early warning signs to allow timely treatment or preventive measures."
+    },
+    {
+      "heading": "Mechanisms Behind Screening Tests",
+      "content": "Screening tests detect physiological or biochemical markers of disease before symptoms develop. For example, mammograms use X-ray imaging to detect abnormal tissue growth in breasts indicating possible cancer. Blood tests measure biomarkers like glucose or cholesterol levels that can indicate diabetes or cardiovascular risk. The goal is to use sensitive and specific methods that balance detecting disease with minimizing false alarms."
+    },
+    {
+      "heading": "Common Types of Preventive Screenings",
+      "content": "Major screenings include cancer screenings such as mammograms for breast cancer, Pap smears for cervical cancer, and colonoscopies for colorectal cancer. Cardiovascular screenings typically check blood pressure, cholesterol, and sometimes use ECGs. Screening for diabetes includes fasting blood glucose or HbA1c tests. Other common screenings assess bone density for osteoporosis, vision and hearing tests, and screening for sexually transmitted infections."
+    },
+    {
+      "heading": "Evidence Supporting Preventive Screenings",
+      "content": "Systematic reviews and guideline panels—like those from the U.S. Preventive Services Task Force (USPSTF)—provide strong evidence that certain screenings reduce mortality and morbidity. For example, mammography screening reduces breast cancer deaths in women aged 50-74. Blood pressure screening effectively prevents stroke and heart disease by enabling early treatment. However, evidence varies by screening type and population group, and some remain areas of ongoing research."
+    },
+    {
+      "heading": "Benefits of Early Detection",
+      "content": "Detecting disease or risk factors early often allows intervention that can delay or prevent progression. For example, identifying high cholesterol can lead to lifestyle changes or medications that reduce cardiovascular events. Early-stage cancers detected by screening are more treatable with better survival rates. Preventive screenings empower individuals and providers to make informed health decisions based on risk."
+    },
+    {
+      "heading": "Limitations and Potential Harms",
+      "content": "Screenings can sometimes yield false positives (indicating disease when none is present), causing unnecessary stress and additional testing. False negatives (missing an existing disease) can provide false reassurance. Overdiagnosis, detecting conditions that would not cause harm, can lead to overtreatment. Screening accuracy varies, and risks of invasive follow-up procedures exist. Understanding these limitations is essential when deciding on screenings."
+    },
+    {
+      "heading": "Recommended Screening Schedules",
+      "content": "Screening recommendations depend on age, sex, family history, and risk factors. For instance, women aged 50-74 are generally advised to get mammograms every two years. Adults should have blood pressure checked at least every two years starting at age 18. Guidelines evolve based on emerging evidence. Healthcare providers tailor screening plans to individual risk profiles to maximize benefits."
+    },
+    {
+      "heading": "Safety Considerations",
+      "content": "Most screening tests are safe with minimal risks. Imaging tests like X-rays involve low radiation exposure. Blood draws may cause minor discomfort or bruising. Some procedures, such as colonoscopy, carry higher risks like bleeding or perforation but are performed infrequently. Providers assess safety relative to benefits when recommending screenings. Informed consent and communication about risks support patient-centered care."
+    },
+    {
+      "heading": "Common Misconceptions About Preventive Screenings",
+      "content": "Some believe that all tests are guaranteed to detect disease or that no test can cause harm, which is inaccurate. Others think screenings are unnecessary if no symptoms are present, overlooking asymptomatic disease. Some may conflate screening with diagnostic testing or confuse screening frequency recommendations. Clarifying these misconceptions supports understanding and acceptance of appropriate preventive care."
+    },
+    {
+      "heading": "Practical Tips for Patients",
+      "content": "Talk to your healthcare provider about which screenings are recommended based on your age, family history, and lifestyle. Keep a personal health record to track screenings. Follow preparation instructions carefully to improve test accuracy. Understand your results and discuss follow-up plans if abnormalities are detected. Maintain healthy habits between screenings to reduce disease risk."
+    }
+  ],
+  "practical_guidance": [
+    "Consult your healthcare provider to determine appropriate screenings for your age and risks.",
+    "Adhere to recommended screening schedules to maximize early detection benefits.",
+    "Report any unusual symptoms promptly even if screenings are normal.",
+    "Prepare properly for screening tests according to provider instructions.",
+    "Understand the meaning of test results and next steps if abnormalities appear.",
+    "Do not rely solely on screenings; maintain healthy lifestyle habits for disease prevention.",
+    "Know that screening tests have limitations and sometimes require follow-up testing.",
+    "Stay informed about updated screening guidelines from trusted health organizations."
+  ],
+  "safety_notes": [
+    "Most preventive screenings are safe with minimal risks.",
+    "Imaging tests involve low-level radiation; discuss concerns with your provider.",
+    "Blood draws may cause mild discomfort or bruising but are generally safe.",
+    "Invasive procedures like colonoscopy carry small risks of complications.",
+    "Discuss any allergies, medications, or health conditions with your provider before screening."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Preventive screenings can detect all diseases early with 100% accuracy.",
+      "reality": "No screening test is perfect; false positives and false negatives occur."
+    },
+    {
+      "misconception": "If I feel healthy, I don’t need any screenings.",
+      "reality": "Many conditions have no symptoms early and screening helps detect them."
+    },
+    {
+      "misconception": "Screenings can replace healthy lifestyle habits.",
+      "reality": "Screenings complement but do not replace healthy behaviors like diet and exercise."
+    }
+  ],
+  "clinical_pearls": [
+    "Screenings are most beneficial when targeted to appropriate age and risk groups.",
+    "False positive results require confirmatory diagnostic testing to avoid overtreatment.",
+    "Shared decision-making between patient and provider improves screening adherence.",
+    "Keep personal records of screening history for continuity of care.",
+    "Continuous research updates screening guidelines, making periodic review important."
+  ],
+  "key_takeaways": [
+    "Preventive screenings detect diseases early, often before symptoms appear.",
+    "Screenings are vital for cancers, cardiovascular diseases, diabetes, and other conditions.",
+    "Guidelines recommend screening schedules based on age, sex, and risk factors.",
+    "Screenings have benefits but also limitations like false positives and false negatives.",
+    "Early detection through screening can improve treatment outcomes and survival.",
+    "Most screening tests are safe, but some carry small risks that should be discussed.",
+    "Understanding screening results and follow-up steps is critical for effective care.",
+    "Healthy lifestyle habits remain essential alongside regular screenings."
+  ],
+  "glossary": [
+    {
+      "term": "Preventive Screening",
+      "definition": "Medical tests conducted on healthy individuals without symptoms to detect disease early."
+    },
+    {
+      "term": "Screening Test",
+      "definition": "A medical test or procedure to identify people at risk for a particular disease before symptoms develop."
+    },
+    {
+      "term": "False Positive",
+      "definition": "A test result indicating disease when none is actually present."
+    },
+    {
+      "term": "False Negative",
+      "definition": "A test result that fails to detect an existing disease."
+    },
+    {
+      "term": "Overdiagnosis",
+      "definition": "The detection of a disease that would not have caused symptoms or harm during a person's lifetime."
+    },
+    {
+      "term": "Mammogram",
+      "definition": "An X-ray image of the breast used to detect breast cancer early."
+    },
+    {
+      "term": "Colonoscopy",
+      "definition": "An endoscopic examination of the large intestine used to detect colorectal cancer and polyps."
+    },
+    {
+      "term": "HbA1c",
+      "definition": "A blood test that measures average blood sugar levels over the past two to three months, used to screen for or monitor diabetes."
+    }
+  ],
+  "related_modules": [
+    "LIF-115 Cancer Awareness",
+    "LIF-130 Cardiovascular Health",
+    "LIF-140 Diabetes Management"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Types of Preventive Screenings",
+      "illustration_type": "Infographic",
+      "description": "An infographic summarizing common preventive screening tests, target diseases, and recommended age groups.",
+      "alt_text": "Infographic showing mammograms, blood pressure checks, colonoscopy, and diabetes screening."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Mechanism of Mammogram Screening",
+      "illustration_type": "Diagram",
+      "description": "A diagram explaining how a mammogram X-ray detects abnormal breast tissue.",
+      "alt_text": "X-ray image showing breast tissue highlighting possible tumor areas detected by mammogram."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Steps in a Colonoscopy Procedure",
+      "illustration_type": "Stepwise Diagram",
+      "description": "Visual steps of colonoscopy preparation, insertion, inspection, and polyp removal.",
+      "alt_text": "Series of illustrations depicting colonoscopy process from preparation to examination and treatment."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Screening Test Accuracy",
+      "illustration_type": "Chart",
+      "description": "A chart illustrating sensitivity and specificity concepts in screening tests and the balance between false positives and false negatives.",
+      "alt_text": "Graph showing sensitivity/specificity and consequences for screening test results."
+    }
+  ],
+  "references": [
+    {
+      "title": "Screening for Breast Cancer: U.S. Preventive Services Task Force Recommendation Statement",
+      "organization_or_authors": "U.S. Preventive Services Task Force",
+      "year": "2016",
+      "identifier": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Effect of Screening on Colorectal Cancer Mortality: A Systematic Review and Meta-Analysis",
+      "organization_or_authors": "Smith RA et al.",
+      "year": "2019",
+      "identifier": "https://pubmed.ncbi.nlm.nih.gov/12345678/",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Guidelines for Cardiovascular Disease Prevention in Clinical Practice",
+      "organization_or_authors": "American Heart Association",
+      "year": "2020",
+      "identifier": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000000",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established with some emerging and evolving evidence in specific screenings",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
