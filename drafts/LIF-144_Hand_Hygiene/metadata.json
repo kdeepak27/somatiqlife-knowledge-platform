@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-144",
+  "title": "Hand Hygiene",
+  "subtitle": "Evidence-based safety and prevention principles related to hand hygiene.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Safety and Everyday Health",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Workers",
+    "Caregivers",
+    "Public Health Educators"
+  ],
+  "reading_level": "Grade 7-9",
+  "keywords": [
+    "Hand Hygiene",
+    "Handwashing",
+    "Hand Sanitizer",
+    "Infection Prevention",
+    "Hand Care",
+    "Microorganisms",
+    "Cross-contamination",
+    "Hand Drying"
+  ],
+  "related_modules": [
+    "LIF-142_Respiratory_Hygiene",
+    "INF-101_Infection_Control",
+    "LIF-138_Skin_Care"
+  ],
+  "evidence_strength": "Established evidence supports hand hygiene as a fundamental and effective intervention for infection prevention across multiple settings.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

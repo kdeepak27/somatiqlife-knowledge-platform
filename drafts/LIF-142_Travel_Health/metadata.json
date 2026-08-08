@@ -1,0 +1,38 @@
+{
+  "module_id": "LIF-142",
+  "title": "Travel Health",
+  "subtitle": "Evidence-based safety and prevention principles related to travel health.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Safety and Everyday Health",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Travelers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "travel health",
+    "travel medicine",
+    "vaccination",
+    "travel safety",
+    "infectious diseases",
+    "altitude sickness",
+    "jet lag",
+    "travel insurance",
+    "food safety",
+    "travel vaccinations",
+    "mosquito-borne diseases"
+  ],
+  "related_modules": [
+    "LIF-78",
+    "LIF-118",
+    "IMM-203"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
