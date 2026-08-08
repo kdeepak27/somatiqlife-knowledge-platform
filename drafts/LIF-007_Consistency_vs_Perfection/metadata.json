@@ -1,0 +1,34 @@
+{
+  "module_id": "LIF-007",
+  "title": "Consistency vs Perfection",
+  "subtitle": "Foundations, evidence, and practical application of consistency vs perfection.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Lifestyle Foundations",
+  "som_stages": [
+    "Maintenance",
+    "Initiation"
+  ],
+  "audience": [
+    "General Public",
+    "Health Coaches",
+    "Wellness Educators"
+  ],
+  "reading_level": "Grade 8 - 10",
+  "keywords": [
+    "Consistency",
+    "Perfectionism",
+    "Habit Formation",
+    "Behavior Change",
+    "Mental Health",
+    "Goal Setting",
+    "Wellness"
+  ],
+  "related_modules": [
+    "LIF-003_HabitFormationBasics",
+    "MNT-002_MindfulnessForWellbeing",
+    "PSY-005_ManagingAnxietyPerfectionism"
+  ],
+  "evidence_strength": "Established evidence for benefits of consistency; moderate evidence on risks of perfectionism; emerging research on neural mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

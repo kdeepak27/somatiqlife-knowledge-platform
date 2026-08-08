@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-006",
+  "title": "Small Habits and Long-Term Health",
+  "subtitle": "Foundations, evidence, and practical application of small habits and long-term health.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Lifestyle Foundations",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "small habits",
+    "behavior change",
+    "long-term health",
+    "habit formation",
+    "lifestyle change",
+    "well-being",
+    "health behaviors",
+    "daily routines"
+  ],
+  "related_modules": [
+    "LIF-002",
+    "LIF-010",
+    "MNT-004",
+    "MNT-008"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

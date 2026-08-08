@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-010",
+  "title": "Creating a Healthy Environment",
+  "subtitle": "Foundations, evidence, and practical application of creating a healthy environment.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Lifestyle Foundations",
+  "som_stages": [
+    "Primary Prevention",
+    "Health Promotion"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Educators",
+    "Wellness Coaches"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "healthy environment",
+    "environmental health",
+    "indoor air quality",
+    "toxins",
+    "mental health",
+    "physical environment",
+    "well-being",
+    "lifestyle",
+    "clean air",
+    "natural light"
+  ],
+  "related_modules": [
+    "LIF-018-IndoorAirQuality",
+    "LIF-022-MentalWellness",
+    "LIF-035-ChildHealthEnvironment"
+  ],
+  "evidence_strength": "Established evidence for indoor air quality, toxin reduction, and natural light benefits; emerging evidence for biophilic design and noise management; moderate evidence with some limitations for ergonomic and clutter effects; safety recommendations based on precautionary consensus.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

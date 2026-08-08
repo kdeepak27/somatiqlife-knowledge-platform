@@ -1,0 +1,39 @@
+{
+  "module_id": "LIF-008",
+  "title": "Lifestyle Risk Factors",
+  "subtitle": "Foundations, evidence, and practical application of lifestyle risk factors.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Lifestyle Foundations",
+  "som_stages": [
+    "Prevention",
+    "Health Optimization"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Moderate (Grades 8-10)",
+  "keywords": [
+    "Lifestyle risk factors",
+    "Health behavior",
+    "Chronic disease prevention",
+    "Physical activity",
+    "Nutrition",
+    "Smoking",
+    "Alcohol use",
+    "Sleep hygiene",
+    "Stress management",
+    "Health outcomes"
+  ],
+  "related_modules": [
+    "LIF-001",
+    "LIF-005",
+    "NUT-010",
+    "PHY-012",
+    "MNT-020"
+  ],
+  "evidence_strength": "Established, with some emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
