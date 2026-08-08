@@ -349,6 +349,26 @@ EXE-247,Exercise for Longevity,Exercise,Exercise Safety and Health,1.0,drafts,dr
 EXE-248,Minimum Effective Dose of Exercise,Exercise,Exercise Safety and Health,1.0,drafts,drafts/EXE-248_Minimum_Effective_Dose_of_Exercise/module.json
 EXE-249,Optimizing Exercise for Healthspan,Exercise,Exercise Safety and Health,1.0,drafts,drafts/EXE-249_Optimizing_Exercise_for_Healthspan/module.json
 EXE-250,Building a Sustainable Lifetime Exercise Plan,Exercise,Exercise Safety and Health,1.0,drafts,drafts/EXE-250_Building_a_Sustainable_Lifetime_Exercise_Plan/module.json
+LIF-001,Lifestyle Medicine,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-001_Lifestyle_Medicine/module.json
+LIF-002,Daily Routines and Health,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-002_Daily_Routines_and_Health/module.json
+LIF-003,Health Behaviors,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-003_Health_Behaviors/module.json
+LIF-004,Preventive Health,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-004_Preventive_Health/module.json
+LIF-005,Healthspan,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-005_Healthspan/module.json
+LIF-006,Small Habits and Long-Term Health,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-006_Small_Habits_and_Long-Term_Health/module.json
+LIF-007,Consistency vs Perfection,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-007_Consistency_vs_Perfection/module.json
+LIF-008,Lifestyle Risk Factors,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-008_Lifestyle_Risk_Factors/module.json
+LIF-009,Lifestyle Protective Factors,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-009_Lifestyle_Protective_Factors/module.json
+LIF-010,Creating a Healthy Environment,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-010_Creating_a_Healthy_Environment/module.json
+LIF-011,Health Priorities,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-011_Health_Priorities/module.json
+LIF-012,Health Goals,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-012_Health_Goals/module.json
+LIF-013,Self-Monitoring,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-013_Self-Monitoring/module.json
+LIF-014,Personal Health Planning,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-014_Personal_Health_Planning/module.json
+LIF-015,Sustainable Change,Lifestyle and Healthy Habits,Lifestyle Foundations,1.0,drafts,drafts/LIF-015_Sustainable_Change/module.json
+LIF-016,Sedentary Behavior,Lifestyle and Healthy Habits,Daily Movement,1.0,drafts,drafts/LIF-016_Sedentary_Behavior/module.json
+LIF-017,Breaking Up Sitting Time,Lifestyle and Healthy Habits,Daily Movement,1.0,drafts,drafts/LIF-017_Breaking_Up_Sitting_Time/module.json
+LIF-018,Desk Work and Health,Lifestyle and Healthy Habits,Daily Movement,1.0,drafts,drafts/LIF-018_Desk_Work_and_Health/module.json
+LIF-019,Standing More,Lifestyle and Healthy Habits,Daily Movement,1.0,drafts,drafts/LIF-019_Standing_More/module.json
+LIF-020,Active Commuting,Lifestyle and Healthy Habits,Daily Movement,1.0,drafts,drafts/LIF-020_Active_Commuting/module.json
 NUT-001,Fundamentals of Human Nutrition,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-001_Fundamentals_of_Human_Nutrition/module.json
 NUT-002,Nutrients and Energy Balance,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-002_Nutrients_and_Energy_Balance/module.json
 NUT-003,Macronutrients Overview,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-003_Macronutrients_Overview/module.json
@@ -819,6 +839,36 @@ STR-117,Psychotherapy,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,d
 STR-118,Cognitive Behavioral Therapy,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-118_Cognitive_Behavioral_Therapy/module.json
 STR-119,Acceptance and Commitment Therapy,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-119_Acceptance_and_Commitment_Therapy/module.json
 STR-120,Mindfulness-Based Stress Reduction,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-120_Mindfulness-Based_Stress_Reduction/module.json
+STR-121,Social Connection,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-121_Social_Connection/module.json
+STR-122,Friendship and Health,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-122_Friendship_and_Health/module.json
+STR-123,Family Support,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-123_Family_Support/module.json
+STR-124,Community Belonging,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-124_Community_Belonging/module.json
+STR-125,Healthy Communication,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-125_Healthy_Communication/module.json
+STR-126,Conflict Resolution,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-126_Conflict_Resolution/module.json
+STR-127,Active Listening,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-127_Active_Listening/module.json
+STR-128,Empathy,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-128_Empathy/module.json
+STR-129,Emotional Support,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-129_Emotional_Support/module.json
+STR-130,Asking for Help,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-130_Asking_for_Help/module.json
+STR-131,Giving Support Without Burnout,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-131_Giving_Support_Without_Burnout/module.json
+STR-132,Healthy Relationships,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-132_Healthy_Relationships/module.json
+STR-133,Relationship Boundaries,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-133_Relationship_Boundaries/module.json
+STR-134,Work-Life Boundaries,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-134_Work-Life_Boundaries/module.json
+STR-135,Social Recovery After Isolation,Stress and Mental Well-Being,Relationships and Connection,1.0,drafts,drafts/STR-135_Social_Recovery_After_Isolation/module.json
+STR-136,Building Resilience,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-136_Building_Resilience/module.json
+STR-137,Optimism,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-137_Optimism/module.json
+STR-138,Hope,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-138_Hope/module.json
+STR-139,Purpose in Life,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-139_Purpose_in_Life/module.json
+STR-140,Meaningful Activities,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-140_Meaningful_Activities/module.json
+STR-141,Values-Based Living,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-141_Values-Based_Living/module.json
+STR-142,Growth Mindset,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-142_Growth_Mindset/module.json
+STR-143,Learning From Setbacks,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-143_Learning_From_Setbacks/module.json
+STR-144,Post-Traumatic Growth,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-144_Post-Traumatic_Growth/module.json
+STR-145,Psychological Recovery,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-145_Psychological_Recovery/module.json
+STR-146,Creating a Stress Management Plan,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-146_Creating_a_Stress_Management_Plan/module.json
+STR-147,Daily Stress Check-Ins,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-147_Daily_Stress_Check-Ins/module.json
+STR-148,Tracking Stress,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-148_Tracking_Stress/module.json
+STR-149,Stress Management for Older Adults,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-149_Stress_Management_for_Older_Adults/module.json
+STR-150,Stress Management for Busy Professionals,Stress and Mental Well-Being,Resilience and Meaning,1.0,drafts,drafts/STR-150_Stress_Management_for_Busy_Professionals/module.json
 BIO-001,What Is Health?,Human Biology,Health Foundations,1.0,approved,approved/BIO-001_What_Is_Health/module.json
 BIO-002,The Human Body as an Integrated System,Human Biology,Systems Biology,1.0,approved,approved/BIO-002_The_Human_Body_as_an_Integrated_System/module.json
 BIO-003,Levels of Biological Organization,Human Biology,Foundational Biology,1.0,approved,approved/BIO-003_Levels_of_Biological_Organization/module.json
