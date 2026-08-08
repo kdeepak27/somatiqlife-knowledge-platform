@@ -1,0 +1,39 @@
+{
+  "module_id": "AGE-046",
+  "title": "Normal Cognitive Aging",
+  "subtitle": "Evidence and practical strategies related to normal cognitive aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Brain and Cognitive Aging",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate (Layperson to Health Professional)",
+  "keywords": [
+    "cognitive aging",
+    "normal aging",
+    "memory decline",
+    "brain health",
+    "cognitive function",
+    "aging brain",
+    "neuroplasticity",
+    "cognitive strategies",
+    "executive function",
+    "processing speed"
+  ],
+  "related_modules": [
+    "AGE-047",
+    "AGE-048",
+    "NEURO-102"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "AGE-048",
+  "title": "Executive Function and Aging",
+  "subtitle": "Evidence and practical strategies related to executive function and aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Brain and Cognitive Aging",
+  "som_stages": [
+    "Middle Age",
+    "Older Adults",
+    "Geriatrics"
+  ],
+  "audience": [
+    "General Public",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "executive function",
+    "cognitive aging",
+    "brain health",
+    "aging",
+    "cognition",
+    "working memory",
+    "inhibition",
+    "cognitive flexibility"
+  ],
+  "related_modules": [
+    "AGE-034:Cognitive Training and Aging",
+    "AGE-042:Physical Exercise and Brain Health",
+    "AGE-051:Diet and Cognitive Aging"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
