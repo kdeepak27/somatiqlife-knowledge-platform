@@ -1,0 +1,33 @@
+{
+  "module_id": "LIF-089",
+  "title": "Quitting Smoking",
+  "subtitle": "Health effects, risk reduction, and evidence-based considerations for quitting smoking.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Substances and Health",
+  "som_stages": [
+    "preparation",
+    "action",
+    "maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Smokers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Smoking cessation",
+    "Nicotine addiction",
+    "Tobacco risk reduction",
+    "Quit smoking methods",
+    "Health benefits of quitting"
+  ],
+  "related_modules": [
+    "LIF-045-Smoking-Induced-Lung-Disease",
+    "LIF-076-Substance-Use-Disorders",
+    "LIF-066-Cardiovascular-Risk-Management"
+  ],
+  "evidence_strength": "Established evidence from multiple clinical trials and meta-analyses supports the health benefits of quitting smoking and effectiveness of combined pharmacotherapy and behavioral support. Evidence on e-cigarettes as cessation aids is moderate and evolving, with some uncertainty regarding long-term safety. Misconceptions addressed here are based on clinical observations and population data.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

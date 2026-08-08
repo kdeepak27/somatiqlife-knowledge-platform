@@ -1,0 +1,39 @@
+{
+  "module_id": "LIF-090",
+  "title": "Substance Use and Sleep",
+  "subtitle": "Health effects, risk reduction, and evidence-based considerations for substance use and sleep.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Substances and Health",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Recovery"
+  ],
+  "audience": [
+    "General public",
+    "Patients",
+    "Health educators",
+    "Healthcare professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Substance use",
+    "Sleep quality",
+    "Alcohol",
+    "Caffeine",
+    "Nicotine",
+    "Sleep disorders",
+    "Addiction",
+    "Sedatives",
+    "Stimulants"
+  ],
+  "related_modules": [
+    "LIF-045 - Alcohol Use and Health",
+    "LIF-078 - Caffeine and Energy",
+    "MHS-033 - Substance Use Disorders Basics",
+    "LIF-066 - Nicotine and Tobacco Health Effects"
+  ],
+  "evidence_strength": "Established and Moderate Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
