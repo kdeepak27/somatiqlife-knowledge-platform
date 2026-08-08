@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-034",
+  "title": "Stress and Fatigue",
+  "subtitle": "How stress and fatigue are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate (Grade 9-12)",
+  "keywords": [
+    "Stress",
+    "Fatigue",
+    "Stress Response",
+    "HPA Axis",
+    "Cortisol",
+    "Sleep",
+    "Chronic Stress",
+    "Mental Fatigue",
+    "Physical Fatigue",
+    "Energy"
+  ],
+  "related_modules": [
+    "STR-011",
+    "STR-045",
+    "MNT-027"
+  ],
+  "evidence_strength": "Established and moderate evidence with some emerging research areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

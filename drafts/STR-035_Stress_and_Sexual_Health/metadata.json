@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-035",
+  "title": "Stress and Sexual Health",
+  "subtitle": "How stress and sexual health are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention",
+    "Chronic Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stress",
+    "sexual health",
+    "psychophysiology",
+    "cortisol",
+    "erectile dysfunction",
+    "libido",
+    "psychosexual health",
+    "stress response"
+  ],
+  "related_modules": [
+    "STR-012",
+    "SEX-001",
+    "MENT-045"
+  ],
+  "evidence_strength": "Established and Moderate Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

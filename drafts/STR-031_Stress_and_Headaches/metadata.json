@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-031",
+  "title": "Stress and Headaches",
+  "subtitle": "How stress and headaches are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate (Grades 9-12)",
+  "keywords": [
+    "stress",
+    "headache",
+    "tension headache",
+    "migraine",
+    "physiology",
+    "cortisol",
+    "pain pathway",
+    "stress management",
+    "triggers"
+  ],
+  "related_modules": [
+    "STR-012",
+    "MH-045",
+    "PAIN-022"
+  ],
+  "evidence_strength": "Established evidence for association between stress and tension-type headaches; moderate and emerging evidence for stress-migraine links; well-supported physiological mechanisms; treatment efficacy established for stress management in headache reduction.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
