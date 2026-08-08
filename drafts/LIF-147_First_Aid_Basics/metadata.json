@@ -1,0 +1,38 @@
+{
+  "module_id": "LIF-147",
+  "title": "First Aid Basics",
+  "subtitle": "Evidence-based safety and prevention principles related to first aid basics.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Safety and Everyday Health",
+  "som_stages": [
+    "Prevention",
+    "Immediate Care"
+  ],
+  "audience": [
+    "General Public",
+    "Caregivers",
+    "Educators",
+    "Health Students"
+  ],
+  "reading_level": "Intermediate (8th-10th grade)",
+  "keywords": [
+    "First aid",
+    "Emergency care",
+    "CPR",
+    "Bandaging",
+    "Bleeding control",
+    "Choking",
+    "Burns",
+    "Fractures",
+    "Poisoning",
+    "Safety"
+  ],
+  "related_modules": [
+    "LIF-121: CPR and AED Use",
+    "LIF-130: Home Safety and Injury Prevention",
+    "LIF-155: Poisoning Emergencies Management"
+  ],
+  "evidence_strength": "Established evidence from international guidelines and clinical consensus supports the summarized first aid practices.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
