@@ -1,0 +1,37 @@
+{
+  "module_id": "SLP-100",
+  "title": "Smartwatches and Sleep",
+  "subtitle": "Evidence, common questions, limitations, and practical considerations for smartwatches and sleep.",
+  "domain": "Sleep",
+  "category": "Special Sleep Topics",
+  "som_stages": [
+    "Assessment",
+    "Monitoring",
+    "Patient Education"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Sleep Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "smartwatch",
+    "sleep tracking",
+    "actigraphy",
+    "heart rate variability",
+    "sleep stages",
+    "consumer health technology",
+    "wearable devices",
+    "sleep monitoring",
+    "sleep hygiene"
+  ],
+  "related_modules": [
+    "SLP-101",
+    "SLP-120",
+    "SLP-200"
+  ],
+  "evidence_strength": "Moderate for total sleep time and sleep-wake detection; emerging and limited for detailed sleep stage classification.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

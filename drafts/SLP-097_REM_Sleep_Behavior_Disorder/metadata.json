@@ -1,0 +1,37 @@
+{
+  "module_id": "SLP-097",
+  "title": "REM Sleep Behavior Disorder",
+  "subtitle": "Evidence, common questions, limitations, and practical considerations for REM Sleep Behavior Disorder.",
+  "domain": "Sleep",
+  "category": "Special Sleep Topics",
+  "som_stages": [
+    "Recognition",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Sleep Researchers"
+  ],
+  "reading_level": "Intermediate - health literate",
+  "keywords": [
+    "REM Sleep Behavior Disorder",
+    "RBD",
+    "REM sleep",
+    "parasomnia",
+    "neurodegeneration",
+    "sleep disorders",
+    "muscle atonia",
+    "dream enactment"
+  ],
+  "related_modules": [
+    "SLP-045",
+    "SLP-078",
+    "NEU-053"
+  ],
+  "evidence_strength": "Established evidence with some emerging research on pathophysiology and biomarkers",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

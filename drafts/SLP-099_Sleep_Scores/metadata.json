@@ -1,0 +1,35 @@
+{
+  "module_id": "SLP-099",
+  "title": "Sleep Scores",
+  "subtitle": "Evidence, common questions, limitations, and practical considerations for sleep scores.",
+  "domain": "Sleep",
+  "category": "Special Sleep Topics",
+  "som_stages": [
+    "Recognition",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Sleep Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Sleep scores",
+    "Polysomnography",
+    "Sleep quality",
+    "Sleep architecture",
+    "Sleep monitoring",
+    "Sleep metrics",
+    "Sleep indices"
+  ],
+  "related_modules": [
+    "SLP-001",
+    "SLP-035",
+    "SLP-078"
+  ],
+  "evidence_strength": "Established evidence for clinical sleep scoring; moderate evidence for consumer device accuracy; emerging evidence for new technologies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
