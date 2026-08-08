@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-023",
+  "title": "Stress and Weight",
+  "subtitle": "How stress and weight are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "Recognition",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "General public",
+    "Patients",
+    "Healthcare providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stress",
+    "weight",
+    "obesity",
+    "cortisol",
+    "stress-eating",
+    "metabolism",
+    "psychological stress",
+    "body mass index",
+    "physiology"
+  ],
+  "related_modules": [
+    "STR-001",
+    "OBE-013",
+    "PHY-027"
+  ],
+  "evidence_strength": "Moderate evidence based on observational studies and physiological research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

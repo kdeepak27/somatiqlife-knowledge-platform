@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-025",
+  "title": "Stress and Blood Pressure",
+  "subtitle": "How stress and blood pressure are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Wellness"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Stress",
+    "Blood Pressure",
+    "Hypertension",
+    "Sympathetic Nervous System",
+    "Cortisol",
+    "Cardiovascular Health",
+    "Stress Response",
+    "Autonomic Nervous System",
+    "Chronic Stress"
+  ],
+  "related_modules": [
+    "STR-010",
+    "CVS-041",
+    "HTN-034"
+  ],
+  "evidence_strength": "Moderate evidence for acute stress effects; emerging and mixed evidence for chronic stress contribution to sustained hypertension.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

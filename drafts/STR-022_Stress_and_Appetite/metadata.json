@@ -1,0 +1,35 @@
+{
+  "module_id": "STR-022",
+  "title": "Stress and Appetite",
+  "subtitle": "How stress and appetite are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Stress",
+    "Appetite",
+    "Hypothalamic-Pituitary-Adrenal Axis",
+    "Cortisol",
+    "Eating Behavior",
+    "Emotional Eating",
+    "Psychoneuroendocrinology",
+    "Stress Response"
+  ],
+  "related_modules": [
+    "STR-001",
+    "NUT-010",
+    "PSY-007"
+  ],
+  "evidence_strength": "Established scientific evidence supplemented by emerging research with some variability in findings due to individual differences and methodological variations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

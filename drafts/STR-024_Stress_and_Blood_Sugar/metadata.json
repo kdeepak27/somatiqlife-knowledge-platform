@@ -1,0 +1,35 @@
+{
+  "module_id": "STR-024",
+  "title": "Stress and Blood Sugar",
+  "subtitle": "How stress and blood sugar are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stress",
+    "blood sugar",
+    "glucose",
+    "cortisol",
+    "insulin resistance",
+    "stress hormones",
+    "metabolism",
+    "diabetes",
+    "stress response"
+  ],
+  "related_modules": [
+    "DIAB-015",
+    "STRE-031",
+    "META-009"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging areas and individual variability",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
