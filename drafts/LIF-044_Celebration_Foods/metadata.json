@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-044",
+  "title": "Celebration Foods",
+  "subtitle": "How celebration foods influences health and practical strategies for improvement.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Food and Daily Life",
+  "som_stages": [
+    "Prevention",
+    "Behavior Change",
+    "Wellness"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Nutrition Counselors"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "celebration foods",
+    "holiday eating",
+    "nutrition",
+    "health impact",
+    "food culture",
+    "overeating",
+    "weight management",
+    "emotional eating"
+  ],
+  "related_modules": [
+    "LIF-012_Mindful_Eating",
+    "LIF-028_Emotional_Eating_and_Stress",
+    "NUT-015_Healthy_Snacking_Strategies"
+  ],
+  "evidence_strength": "Moderate evidence from observational and emerging interventional studies supports links between celebration food consumption patterns and transient weight gain, with growing evidence for benefits of mindful and moderated eating practices.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
