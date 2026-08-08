@@ -1,0 +1,36 @@
+{
+  "module_id": "AGE-027",
+  "title": "Joint Health With Aging",
+  "subtitle": "How joint health with aging affects independence, function, and healthy aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Physical Function",
+  "som_stages": [
+    "Midlife",
+    "Older Adult",
+    "Elderly"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Health Educators"
+  ],
+  "reading_level": "Accessible to lay audience with some health literacy",
+  "keywords": [
+    "joint health",
+    "aging",
+    "osteoarthritis",
+    "mobility",
+    "physical function",
+    "cartilage",
+    "synovial joints",
+    "bone health"
+  ],
+  "related_modules": [
+    "AGE-013",
+    "AGE-045"
+  ],
+  "evidence_strength": "Established evidence for exercise and nutrition benefits; moderate emerging evidence on supplements; ongoing research into mechanisms and interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

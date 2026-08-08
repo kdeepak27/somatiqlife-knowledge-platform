@@ -1,0 +1,42 @@
+{
+  "module_id": "AGE-026",
+  "title": "Flexibility and Aging",
+  "subtitle": "How flexibility and aging affects independence, function, and healthy aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Physical Function",
+  "som_stages": [
+    "Middle Age",
+    "Older Adult",
+    "Senior",
+    "Elderly"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Health Educators",
+    "Physical Therapists",
+    "Geriatricians"
+  ],
+  "reading_level": "Intermediate (8th-10th grade)",
+  "keywords": [
+    "Flexibility",
+    "Aging",
+    "Physical Function",
+    "Range of Motion",
+    "Independence",
+    "Healthy Aging",
+    "Joint Mobility",
+    "Stretching",
+    "Musculoskeletal Health",
+    "Physical Activity"
+  ],
+  "related_modules": [
+    "AGE-014",
+    "AGE-029",
+    "PHYS-031"
+  ],
+  "evidence_strength": "Established evidence with some emerging data on tailored interventions and long-term outcomes",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
