@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-055",
+  "title": "Exercise for Stress Management",
+  "subtitle": "How to use exercise for stress management, what evidence supports it, and common limitations.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Management Skills",
+  "som_stages": [
+    "Primary Prevention",
+    "Self-Management",
+    "Symptom Relief"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "exercise",
+    "stress management",
+    "physical activity",
+    "mental health",
+    "stress reduction",
+    "endorphins",
+    "cortisol",
+    "mind-body connection",
+    "aerobic exercise",
+    "resistance training"
+  ],
+  "related_modules": [
+    "STR-012",
+    "STR-101",
+    "MNT-034"
+  ],
+  "evidence_strength": "Moderate to Strong",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

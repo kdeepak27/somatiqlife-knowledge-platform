@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-054",
+  "title": "Walking for Stress Relief",
+  "subtitle": "How to use walking for stress relief, what evidence supports it, and common limitations.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Management Skills",
+  "som_stages": [
+    "Awareness",
+    "Skill Building",
+    "Application"
+  ],
+  "audience": [
+    "General Adult Population",
+    "Mental Health Enthusiasts",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Middle School to High School",
+  "keywords": [
+    "walking",
+    "stress relief",
+    "stress management",
+    "physical activity",
+    "mental health",
+    "anxiety",
+    "depression",
+    "mind-body connection"
+  ],
+  "related_modules": [
+    "STR-021_Introduction_to_Stress_Management",
+    "EXE-037_Physical_Activity_and_Mental_Health",
+    "MIN-054_Mindfulness_for_Stress_Relief"
+  ],
+  "evidence_strength": "Moderate-quality evidence from controlled studies supports walking as an effective stress management tool, particularly when performed at moderate intensity regularly. Evidence on optimal dosing and long-term outcomes continues to evolve.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

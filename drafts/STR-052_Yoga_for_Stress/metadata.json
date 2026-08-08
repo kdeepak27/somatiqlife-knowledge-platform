@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-052",
+  "title": "Yoga for Stress",
+  "subtitle": "How to use yoga for stress, what evidence supports it, and common limitations.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Management Skills",
+  "som_stages": [
+    "Stress Recognition",
+    "Stress Coping",
+    "Stress Reduction"
+  ],
+  "audience": [
+    "General Public",
+    "Stress Management Coaches",
+    "Mental Health Practitioners"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "stress",
+    "yoga",
+    "stress management",
+    "mindfulness",
+    "relaxation",
+    "Hatha Yoga",
+    "Pranayama",
+    "meditation"
+  ],
+  "related_modules": [
+    "STR-047_Mindfulness_for_Stress",
+    "STR-049_Breathing_Exercises_for_Anxiety",
+    "STR-061_Stress_Management_Techniques"
+  ],
+  "evidence_strength": "Moderate with emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

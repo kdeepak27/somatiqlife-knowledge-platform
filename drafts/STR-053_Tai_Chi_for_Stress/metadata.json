@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-053",
+  "title": "Tai Chi for Stress",
+  "subtitle": "How to use tai chi for stress, what evidence supports it, and common limitations.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Management Skills",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Tai Chi",
+    "Stress Reduction",
+    "Mind-Body Exercise",
+    "Mental Well-Being",
+    "Relaxation",
+    "Anxiety",
+    "Cortisol",
+    "Cognitive Behavioral Therapy",
+    "Physical Activity",
+    "Mindfulness"
+  ],
+  "related_modules": [
+    "STR-041",
+    "MNT-022",
+    "PHY-015"
+  ],
+  "evidence_strength": "Moderate evidence from systematic reviews and randomized controlled trials supports benefits of Tai Chi for stress reduction, with limitations due to heterogeneity and study quality.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
