@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-037",
+  "title": "Calcium and Aging",
+  "subtitle": "Prevention, evidence, practical actions, and safety related to calcium and aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Bone and Falls",
+  "som_stages": [
+    "Middle Age",
+    "Older Adults",
+    "Geriatrics"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "General Audience (Grade 8-10)",
+  "keywords": [
+    "Calcium",
+    "Aging",
+    "Bone Health",
+    "Osteoporosis",
+    "Supplementation",
+    "Dietary Calcium",
+    "Calcium Absorption",
+    "Falls Prevention",
+    "Vitamin D",
+    "Bone Density"
+  ],
+  "related_modules": [
+    "AGE-021",
+    "AGE-045",
+    "NUT-012"
+  ],
+  "evidence_strength": "Established clinical evidence with some emerging research areas concerning cardiovascular safety and optimized supplementation strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

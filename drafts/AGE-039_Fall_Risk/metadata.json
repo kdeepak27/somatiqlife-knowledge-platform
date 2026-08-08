@@ -1,0 +1,39 @@
+{
+  "module_id": "AGE-039",
+  "title": "Fall Risk",
+  "subtitle": "Prevention, evidence, practical actions, and safety related to fall risk.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Bone and Falls",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "fall risk",
+    "falls prevention",
+    "older adults",
+    "balance",
+    "bone health",
+    "frailty",
+    "home safety",
+    "exercise",
+    "vision",
+    "medications"
+  ],
+  "related_modules": [
+    "AGE-040",
+    "AGE-035",
+    "AGE-043"
+  ],
+  "evidence_strength": "Established evidence for exercise and home modifications; moderate evidence for medication review; emerging evidence for multifactorial interventions; limitations due to individual variability and study designs.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

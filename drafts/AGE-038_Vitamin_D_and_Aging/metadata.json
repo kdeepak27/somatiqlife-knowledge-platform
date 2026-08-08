@@ -1,0 +1,37 @@
+{
+  "module_id": "AGE-038",
+  "title": "Vitamin D and Aging",
+  "subtitle": "Prevention, evidence, practical actions, and safety related to vitamin d and aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Bone and Falls",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Vitamin D",
+    "Aging",
+    "Bone Health",
+    "Falls Prevention",
+    "Osteoporosis",
+    "Supplementation",
+    "Calcium Metabolism",
+    "Sunlight",
+    "Cholecalciferol",
+    "Ergocalciferol"
+  ],
+  "related_modules": [
+    "AGE-025_Bone_Health_in_Aging",
+    "AGE-041_Fall_Prevention_Strategies",
+    "NUT-039_Calcium_and_Mineral_Nutrition"
+  ],
+  "evidence_strength": "Moderate: Strong evidence supports vitamin D's role in bone health and fracture prevention, with moderate evidence for fall reduction and muscle function improvement. Some research gaps and inconsistent findings exist regarding non-skeletal outcomes and optimal dosing in elderly populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
