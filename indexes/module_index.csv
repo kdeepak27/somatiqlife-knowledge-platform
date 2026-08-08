@@ -769,6 +769,56 @@ STR-067,Setting Boundaries,Stress and Mental Well-Being,Behavior and Coping,1.0,
 STR-068,Saying No,Stress and Mental Well-Being,Behavior and Coping,1.0,drafts,drafts/STR-068_Saying_No/module.json
 STR-069,Time Management and Stress,Stress and Mental Well-Being,Behavior and Coping,1.0,drafts,drafts/STR-069_Time_Management_and_Stress/module.json
 STR-070,Prioritization,Stress and Mental Well-Being,Behavior and Coping,1.0,drafts,drafts/STR-070_Prioritization/module.json
+STR-071,Reducing Overcommitment,Stress and Mental Well-Being,Behavior and Coping,1.0,drafts,drafts/STR-071_Reducing_Overcommitment/module.json
+STR-072,Managing Uncertainty,Stress and Mental Well-Being,Behavior and Coping,1.0,drafts,drafts/STR-072_Managing_Uncertainty/module.json
+STR-073,Managing Worry,Stress and Mental Well-Being,Behavior and Coping,1.0,drafts,drafts/STR-073_Managing_Worry/module.json
+STR-074,Rumination,Stress and Mental Well-Being,Behavior and Coping,1.0,drafts,drafts/STR-074_Rumination/module.json
+STR-075,Perfectionism,Stress and Mental Well-Being,Behavior and Coping,1.0,drafts,drafts/STR-075_Perfectionism/module.json
+STR-076,Procrastination and Stress,Stress and Mental Well-Being,Behavior and Coping,1.0,drafts,drafts/STR-076_Procrastination_and_Stress/module.json
+STR-077,Digital Overload,Stress and Mental Well-Being,Behavior and Coping,1.0,drafts,drafts/STR-077_Digital_Overload/module.json
+STR-078,News Overload,Stress and Mental Well-Being,Behavior and Coping,1.0,drafts,drafts/STR-078_News_Overload/module.json
+STR-079,Social Media and Stress,Stress and Mental Well-Being,Behavior and Coping,1.0,drafts,drafts/STR-079_Social_Media_and_Stress/module.json
+STR-080,Building Recovery Time,Stress and Mental Well-Being,Behavior and Coping,1.0,drafts,drafts/STR-080_Building_Recovery_Time/module.json
+STR-081,Workplace Stress,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-081_Workplace_Stress/module.json
+STR-082,Burnout,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-082_Burnout/module.json
+STR-083,Burnout Prevention,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-083_Burnout_Prevention/module.json
+STR-084,Workload Management,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-084_Workload_Management/module.json
+STR-085,Meeting Overload,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-085_Meeting_Overload/module.json
+STR-086,Email Stress,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-086_Email_Stress/module.json
+STR-087,Remote Work Stress,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-087_Remote_Work_Stress/module.json
+STR-088,Commuting Stress,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-088_Commuting_Stress/module.json
+STR-089,Career Uncertainty,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-089_Career_Uncertainty/module.json
+STR-090,Job Loss Stress,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-090_Job_Loss_Stress/module.json
+STR-091,Financial Stress,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-091_Financial_Stress/module.json
+STR-092,Caregiver Stress,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-092_Caregiver_Stress/module.json
+STR-093,Parenting Stress,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-093_Parenting_Stress/module.json
+STR-094,Relationship Stress,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-094_Relationship_Stress/module.json
+STR-095,Family Conflict,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-095_Family_Conflict/module.json
+STR-096,Loneliness,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-096_Loneliness/module.json
+STR-097,Social Isolation,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-097_Social_Isolation/module.json
+STR-098,Cultural Stress,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-098_Cultural_Stress/module.json
+STR-099,Immigration Stress,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-099_Immigration_Stress/module.json
+STR-100,Travel Stress,Stress and Mental Well-Being,Work and Life Stress,1.0,drafts,drafts/STR-100_Travel_Stress/module.json
+STR-101,Stress vs Anxiety,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-101_Stress_vs_Anxiety/module.json
+STR-102,Generalized Anxiety,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-102_Generalized_Anxiety/module.json
+STR-103,Panic Attacks,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-103_Panic_Attacks/module.json
+STR-104,Panic Disorder,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-104_Panic_Disorder/module.json
+STR-105,Social Anxiety,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-105_Social_Anxiety/module.json
+STR-106,Health Anxiety,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-106_Health_Anxiety/module.json
+STR-107,Phobias,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-107_Phobias/module.json
+STR-108,Obsessive Thoughts,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-108_Obsessive_Thoughts/module.json
+STR-109,Depression and Stress,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-109_Depression_and_Stress/module.json
+STR-110,Low Mood,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-110_Low_Mood/module.json
+STR-111,Irritability,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-111_Irritability/module.json
+STR-112,Emotional Exhaustion,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-112_Emotional_Exhaustion/module.json
+STR-113,Feeling Overwhelmed,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-113_Feeling_Overwhelmed/module.json
+STR-114,Loss of Motivation,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-114_Loss_of_Motivation/module.json
+STR-115,Anhedonia,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-115_Anhedonia/module.json
+STR-116,When Stress Needs Professional Help,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-116_When_Stress_Needs_Professional_Help/module.json
+STR-117,Psychotherapy,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-117_Psychotherapy/module.json
+STR-118,Cognitive Behavioral Therapy,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-118_Cognitive_Behavioral_Therapy/module.json
+STR-119,Acceptance and Commitment Therapy,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-119_Acceptance_and_Commitment_Therapy/module.json
+STR-120,Mindfulness-Based Stress Reduction,Stress and Mental Well-Being,Anxiety and Mood,1.0,drafts,drafts/STR-120_Mindfulness-Based_Stress_Reduction/module.json
 BIO-001,What Is Health?,Human Biology,Health Foundations,1.0,approved,approved/BIO-001_What_Is_Health/module.json
 BIO-002,The Human Body as an Integrated System,Human Biology,Systems Biology,1.0,approved,approved/BIO-002_The_Human_Body_as_an_Integrated_System/module.json
 BIO-003,Levels of Biological Organization,Human Biology,Foundational Biology,1.0,approved,approved/BIO-003_Levels_of_Biological_Organization/module.json
