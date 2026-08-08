@@ -1,0 +1,35 @@
+{
+  "module_id": "STR-049",
+  "title": "Focused Attention Meditation",
+  "subtitle": "How to use focused attention meditation, what evidence supports it, and common limitations.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Management Skills",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Focused Attention Meditation",
+    "Mindfulness",
+    "Attention Control",
+    "Stress Reduction",
+    "Meditation Techniques",
+    "Cognitive Function",
+    "Neuroplasticity"
+  ],
+  "related_modules": [
+    "STR-018-Mindfulness-Meditation",
+    "STR-065-Stress-Reduction-Techniques",
+    "MNT-021-Cognitive-Behavioral-Therapy-Basics"
+  ],
+  "evidence_strength": "Moderate: Multiple randomized controlled trials and neuroimaging studies support benefits, but results vary and long-term effects require further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

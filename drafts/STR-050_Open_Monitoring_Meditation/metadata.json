@@ -1,0 +1,35 @@
+{
+  "module_id": "STR-050",
+  "title": "Open Monitoring Meditation",
+  "subtitle": "How to use open monitoring meditation, what evidence supports it, and common limitations.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Management Skills",
+  "som_stages": [
+    "Interest",
+    "Acquisition",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "open monitoring meditation",
+    "mindfulness",
+    "attention regulation",
+    "stress reduction",
+    "mental well-being",
+    "meditation techniques",
+    "neuroplasticity",
+    "mindfulness-based interventions"
+  ],
+  "related_modules": [
+    "STR-040_Focused_Attention_Meditation",
+    "STR-060_Mindfulness-Based_Stress_Reduction"
+  ],
+  "evidence_strength": "Moderate evidence supports stress reduction and emotional regulation benefits; emerging evidence explores neural correlates and clinical applications; safety generally favorable with recommended precautions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

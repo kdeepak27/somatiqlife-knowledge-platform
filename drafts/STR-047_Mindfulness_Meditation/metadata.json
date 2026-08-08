@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-047",
+  "title": "Mindfulness Meditation",
+  "subtitle": "How to use mindfulness meditation, what evidence supports it, and common limitations.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Management Skills",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Relapse Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Mental Health Counselors"
+  ],
+  "reading_level": "High-school to College",
+  "keywords": [
+    "mindfulness",
+    "meditation",
+    "stress management",
+    "mental health",
+    "attention regulation",
+    "relaxation techniques",
+    "cognitive behavioral therapy",
+    "psychological resilience",
+    "well-being"
+  ],
+  "related_modules": [
+    "STR-023-Stress-Physiology",
+    "STR-061-Cognitive-Behavioral-Therapy",
+    "STR-046-Relaxation-Techniques"
+  ],
+  "evidence_strength": "Established evidence with moderate to strong support for benefits in stress and mood regulation; emerging evidence for cognitive benefits; some uncertainties about individual variability and long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

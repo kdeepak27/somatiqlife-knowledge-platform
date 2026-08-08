@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-048",
+  "title": "Body Scan Meditation",
+  "subtitle": "How to use body scan meditation, what evidence supports it, and common limitations.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Management Skills",
+  "som_stages": [
+    "Stress Management",
+    "Wellness Promotion"
+  ],
+  "audience": [
+    "General Public",
+    "Patients with Stress-Related Conditions",
+    "Health Educators",
+    "Mental Health Practitioners"
+  ],
+  "reading_level": "General Audience, Grade 8-10",
+  "keywords": [
+    "body scan meditation",
+    "mindfulness",
+    "stress relief",
+    "relaxation technique",
+    "meditation",
+    "mental health",
+    "stress management",
+    "mind-body connection"
+  ],
+  "related_modules": [
+    "STR-035_Mindfulness-Based Stress Reduction",
+    "STR-042_Progressive Muscle Relaxation",
+    "STR-050_Breathing Techniques for Stress"
+  ],
+  "evidence_strength": "Moderate - supported by multiple controlled trials and systematic reviews but with variability and ongoing research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
