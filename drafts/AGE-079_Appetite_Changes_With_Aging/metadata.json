@@ -1,0 +1,39 @@
+{
+  "module_id": "AGE-079",
+  "title": "Appetite Changes With Aging",
+  "subtitle": "Nutrition science and practical planning related to appetite changes with aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Nutrition and Aging",
+  "som_stages": [
+    "middle_adulthood",
+    "late_adulthood",
+    "older_adults"
+  ],
+  "audience": [
+    "general_public",
+    "healthcare_providers",
+    "nutritionists",
+    "caregivers"
+  ],
+  "reading_level": "Intermediate (high school to college)",
+  "keywords": [
+    "appetite",
+    "aging",
+    "older adults",
+    "nutrition",
+    "physiology",
+    "satiety",
+    "meal planning",
+    "weight management",
+    "health risks",
+    "dietary intake"
+  ],
+  "related_modules": [
+    "AGE-081",
+    "AGE-056",
+    "AGE-102"
+  ],
+  "evidence_strength": "Moderate - Based on systematic reviews, clinical studies, and consensus guidelines, though some evidence is emerging or heterogeneous.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

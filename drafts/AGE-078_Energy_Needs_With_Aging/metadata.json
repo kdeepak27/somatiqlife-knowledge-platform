@@ -1,0 +1,39 @@
+{
+  "module_id": "AGE-078",
+  "title": "Energy Needs With Aging",
+  "subtitle": "Nutrition science and practical planning related to energy needs with aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Nutrition and Aging",
+  "som_stages": [
+    "Healthy Aging",
+    "Midlife",
+    "Older Adults",
+    "Geriatric"
+  ],
+  "audience": [
+    "General Public",
+    "Nutritionists",
+    "Geriatric Care Providers",
+    "Primary Care Clinicians"
+  ],
+  "reading_level": "Intermediate - consumer health literacy",
+  "keywords": [
+    "energy needs",
+    "aging metabolism",
+    "caloric requirements",
+    "nutritional aging",
+    "basal metabolic rate",
+    "energy expenditure",
+    "physical activity",
+    "muscle loss",
+    "energy balance"
+  ],
+  "related_modules": [
+    "AGE-083",
+    "AGE-074",
+    "NUT-045"
+  ],
+  "evidence_strength": "Established evidence with recognized limitations and individual variability",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
