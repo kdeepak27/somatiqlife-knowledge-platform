@@ -1,0 +1,34 @@
+{
+  "module_id": "STR-001",
+  "title": "What Is Stress",
+  "subtitle": "Core mechanisms, evidence, and practical implications of what is stress.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Foundations",
+  "som_stages": [
+    "Understanding",
+    "Managing"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stress",
+    "stress response",
+    "cortisol",
+    "fight or flight",
+    "psychological stress",
+    "chronic stress",
+    "stress management"
+  ],
+  "related_modules": [
+    "STR-002",
+    "MENT-001",
+    "PHYS-004"
+  ],
+  "evidence_strength": "Established evidence for physiological mechanisms and health impacts; emerging evidence for personalized stress responses and interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

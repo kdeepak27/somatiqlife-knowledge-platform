@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-002",
+  "title": "Acute Stress",
+  "subtitle": "Core mechanisms, evidence, and practical implications of acute stress.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Foundations",
+  "som_stages": [
+    "Understanding",
+    "Recognition",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Health Educators",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "acute stress",
+    "stress response",
+    "fight or flight",
+    "stress hormones",
+    "cortisol",
+    "adrenaline",
+    "physiology",
+    "stress management",
+    "symptoms"
+  ],
+  "related_modules": [
+    "STR-001",
+    "STR-003",
+    "PSY-007"
+  ],
+  "evidence_strength": "Established; moderate evidence for individual variability and contextual influences.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

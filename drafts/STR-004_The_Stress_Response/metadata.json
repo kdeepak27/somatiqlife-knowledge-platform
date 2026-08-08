@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-004",
+  "title": "The Stress Response",
+  "subtitle": "Core mechanisms, evidence, and practical implications of the stress response.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Foundations",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stress response",
+    "hypothalamic-pituitary-adrenal axis",
+    "autonomic nervous system",
+    "cortisol",
+    "fight or flight",
+    "chronic stress",
+    "psychophysiology",
+    "stress management"
+  ],
+  "related_modules": [
+    "STR-001",
+    "STR-007",
+    "BRN-005"
+  ],
+  "evidence_strength": "Established evidence for core mechanisms; moderate evidence for individual variation and chronic stress impacts; emerging evidence around complex neuroimmune and genetic interactions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
