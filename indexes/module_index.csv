@@ -1,4 +1,24 @@
 module_id,title,domain,category,version,stage,path
+AGE-001,What Is Healthy Aging,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-001_What_Is_Healthy_Aging/module.json
+AGE-002,Healthspan vs Lifespan,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-002_Healthspan_vs_Lifespan/module.json
+AGE-003,Biology of Aging,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-003_Biology_of_Aging/module.json
+AGE-004,Cellular Senescence,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-004_Cellular_Senescence/module.json
+AGE-005,Telomeres and Aging,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-005_Telomeres_and_Aging/module.json
+AGE-006,Mitochondria and Aging,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-006_Mitochondria_and_Aging/module.json
+AGE-007,Inflammaging,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-007_Inflammaging/module.json
+AGE-008,Oxidative Stress and Aging,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-008_Oxidative_Stress_and_Aging/module.json
+AGE-009,Autophagy,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-009_Autophagy/module.json
+AGE-010,Proteostasis,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-010_Proteostasis/module.json
+AGE-011,Epigenetics and Aging,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-011_Epigenetics_and_Aging/module.json
+AGE-012,Genetics and Longevity,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-012_Genetics_and_Longevity/module.json
+AGE-013,Lifestyle and Longevity,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-013_Lifestyle_and_Longevity/module.json
+AGE-014,Functional Reserve,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-014_Functional_Reserve/module.json
+AGE-015,Resilience With Aging,Healthy Aging and Longevity,Healthy Aging Foundations,1.0,drafts,drafts/AGE-015_Resilience_With_Aging/module.json
+AGE-016,Muscle Aging,Healthy Aging and Longevity,Physical Function,1.0,drafts,drafts/AGE-016_Muscle_Aging/module.json
+AGE-017,Sarcopenia,Healthy Aging and Longevity,Physical Function,1.0,drafts,drafts/AGE-017_Sarcopenia/module.json
+AGE-018,Preventing Muscle Loss,Healthy Aging and Longevity,Physical Function,1.0,drafts,drafts/AGE-018_Preventing_Muscle_Loss/module.json
+AGE-019,Strength After 50,Healthy Aging and Longevity,Physical Function,1.0,drafts,drafts/AGE-019_Strength_After_50/module.json
+AGE-020,Strength After 60,Healthy Aging and Longevity,Physical Function,1.0,drafts,drafts/AGE-020_Strength_After_60/module.json
 BIO-001,What Is Health?,Human Biology,Health Foundations,1.0,drafts,drafts/BIO-001_What_Is_Health/module.json
 BIO-002,The Human Body as an Integrated System,Human Biology,Systems Biology,1.0,drafts,drafts/BIO-002_The_Human_Body_as_an_Integrated_System/module.json
 BIO-003,Levels of Biological Organization,Human Biology,Foundational Biology,1.0,drafts,drafts/BIO-003_Levels_of_Biological_Organization/module.json
@@ -469,6 +489,36 @@ LIF-117,Managing Workload,Lifestyle and Healthy Habits,Work and Productivity,1.0
 LIF-118,Remote Work Health,Lifestyle and Healthy Habits,Work and Productivity,1.0,drafts,drafts/LIF-118_Remote_Work_Health/module.json
 LIF-119,Healthy Leadership Habits,Lifestyle and Healthy Habits,Work and Productivity,1.0,drafts,drafts/LIF-119_Healthy_Leadership_Habits/module.json
 LIF-120,Retirement Transition,Lifestyle and Healthy Habits,Work and Productivity,1.0,drafts,drafts/LIF-120_Retirement_Transition/module.json
+LIF-121,Primary Care Visits,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-121_Primary_Care_Visits/module.json
+LIF-122,Preventive Screenings,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-122_Preventive_Screenings/module.json
+LIF-123,Vaccinations for Adults,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-123_Vaccinations_for_Adults/module.json
+LIF-124,Dental Care,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-124_Dental_Care/module.json
+LIF-125,Eye Care,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-125_Eye_Care/module.json
+LIF-126,Hearing Care,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-126_Hearing_Care/module.json
+LIF-127,Skin Health Checks,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-127_Skin_Health_Checks/module.json
+LIF-128,Medication Reviews,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-128_Medication_Reviews/module.json
+LIF-129,Family Health History,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-129_Family_Health_History/module.json
+LIF-130,Home Blood Pressure Monitoring,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-130_Home_Blood_Pressure_Monitoring/module.json
+LIF-131,Weight Monitoring,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-131_Weight_Monitoring/module.json
+LIF-132,Waist Circumference,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-132_Waist_Circumference/module.json
+LIF-133,Health Records,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-133_Health_Records/module.json
+LIF-134,Preparing for Doctor Visits,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-134_Preparing_for_Doctor_Visits/module.json
+LIF-135,Shared Decision Making,Lifestyle and Healthy Habits,Preventive Care,1.0,drafts,drafts/LIF-135_Shared_Decision_Making/module.json
+LIF-136,Fall Prevention at Home,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-136_Fall_Prevention_at_Home/module.json
+LIF-137,Driving and Health,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-137_Driving_and_Health/module.json
+LIF-138,Seat Belt Use,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-138_Seat_Belt_Use/module.json
+LIF-139,Sun Protection,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-139_Sun_Protection/module.json
+LIF-140,Heat Safety,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-140_Heat_Safety/module.json
+LIF-141,Cold Weather Safety,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-141_Cold_Weather_Safety/module.json
+LIF-142,Travel Health,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-142_Travel_Health/module.json
+LIF-143,Food Safety Habits,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-143_Food_Safety_Habits/module.json
+LIF-144,Hand Hygiene,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-144_Hand_Hygiene/module.json
+LIF-145,Sleepiness and Driving,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-145_Sleepiness_and_Driving/module.json
+LIF-146,Home Emergency Preparedness,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-146_Home_Emergency_Preparedness/module.json
+LIF-147,First Aid Basics,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-147_First_Aid_Basics/module.json
+LIF-148,Medication Storage,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-148_Medication_Storage/module.json
+LIF-149,Safe Lifting at Home,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-149_Safe_Lifting_at_Home/module.json
+LIF-150,Healthy Aging at Home,Lifestyle and Healthy Habits,Safety and Everyday Health,1.0,drafts,drafts/LIF-150_Healthy_Aging_at_Home/module.json
 NUT-001,Fundamentals of Human Nutrition,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-001_Fundamentals_of_Human_Nutrition/module.json
 NUT-002,Nutrients and Energy Balance,Nutrition,Nutrition Foundations,1.0,drafts,drafts/NUT-002_Nutrients_and_Energy_Balance/module.json
 NUT-003,Macronutrients Overview,Nutrition,Macronutrients,1.0,drafts,drafts/NUT-003_Macronutrients_Overview/module.json
