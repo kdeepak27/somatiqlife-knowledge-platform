@@ -1,0 +1,40 @@
+{
+  "module_id": "STR-126",
+  "title": "Conflict Resolution",
+  "subtitle": "How conflict resolution affects well-being and practical ways to strengthen it.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Relationships and Connection",
+  "som_stages": [
+    "Prevention",
+    "Intervention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals",
+    "Educators",
+    "Counselors"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "conflict resolution",
+    "stress management",
+    "communication skills",
+    "emotional regulation",
+    "well-being",
+    "relationships",
+    "mediation",
+    "negotiation",
+    "psychophysiology",
+    "coping strategies"
+  ],
+  "related_modules": [
+    "STR-102-Stress Management",
+    "REL-201-Effective Communication",
+    "MHP-310-Emotional Intelligence"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging research in cultural adaptations and physiological mechanisms",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

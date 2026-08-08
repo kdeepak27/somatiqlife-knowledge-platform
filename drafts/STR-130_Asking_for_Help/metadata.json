@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-130",
+  "title": "Asking for Help",
+  "subtitle": "How asking for help affects well-being and practical ways to strengthen it.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Relationships and Connection",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Middle School",
+  "keywords": [
+    "help-seeking behavior",
+    "social support",
+    "mental health",
+    "coping strategies",
+    "psychosocial well-being",
+    "stress management",
+    "resilience",
+    "interpersonal relationships",
+    "emotional support",
+    "barriers to help-seeking"
+  ],
+  "related_modules": [
+    "STR-135",
+    "REL-101",
+    "MHB-210"
+  ],
+  "evidence_strength": "Established and moderate evidence from observational studies and clinical trials supports the benefits of asking for help for mental health and stress management. Emerging evidence highlights mechanisms and cultural influences. Safety recommendations and practical applications are based on expert consensus and best-practice guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

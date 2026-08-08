@@ -1,0 +1,35 @@
+{
+  "module_id": "STR-128",
+  "title": "Empathy",
+  "subtitle": "How empathy affects well-being and practical ways to strengthen it.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Relationships and Connection",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "Empathy",
+    "Emotional Intelligence",
+    "Social Connection",
+    "Well-being",
+    "Compassion",
+    "Perspective Taking",
+    "Mirror Neurons",
+    "Emotional Contagion",
+    "Social Neuroscience"
+  ],
+  "related_modules": [
+    "STR-101",
+    "MH-207",
+    "SOC-332"
+  ],
+  "evidence_strength": "Established evidence with some emerging findings",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
