@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-056",
+  "title": "Time in Nature",
+  "subtitle": "How to use time in nature, what evidence supports it, and common limitations.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Management Skills",
+  "som_stages": [
+    "Prevention",
+    "Mild Stress Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "nature exposure",
+    "stress relief",
+    "mental well-being",
+    "natural environments",
+    "ecotherapy",
+    "green space",
+    "blue space",
+    "psychophysiology",
+    "mood enhancement",
+    "mindfulness in nature"
+  ],
+  "related_modules": [
+    "STR-012",
+    "STR-034",
+    "STR-045"
+  ],
+  "evidence_strength": "Established evidence with moderate variability; some emerging applications such as virtual nature require further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

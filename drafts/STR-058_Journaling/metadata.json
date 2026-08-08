@@ -1,0 +1,35 @@
+{
+  "module_id": "STR-058",
+  "title": "Journaling",
+  "subtitle": "How to use journaling, what evidence supports it, and common limitations.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Management Skills",
+  "som_stages": [
+    "Prevention",
+    "Early Management",
+    "Self-Care"
+  ],
+  "audience": [
+    "General Public",
+    "Mental Health Enthusiasts",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "journaling",
+    "writing therapy",
+    "stress management",
+    "emotional expression",
+    "mental health",
+    "reflective writing",
+    "expressive writing",
+    "coping strategies"
+  ],
+  "related_modules": [
+    "STR-012",
+    "STR-034"
+  ],
+  "evidence_strength": "Moderate evidence supports journaling as an effective stress management strategy, though individual outcomes vary. Physiological effects remain emerging and less conclusive.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

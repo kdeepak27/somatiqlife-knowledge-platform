@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-057",
+  "title": "Music and Stress",
+  "subtitle": "How to use music and stress, what evidence supports it, and common limitations.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Management Skills",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Mental Health Counselors",
+    "Music Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "music therapy",
+    "stress relief",
+    "psychophysiology",
+    "cortisol",
+    "relaxation techniques",
+    "mental health",
+    "arousal regulation",
+    "anxiety reduction"
+  ],
+  "related_modules": [
+    "STR-012",
+    "MHL-035",
+    "PHY-021"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging support for specific clinical applications",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
