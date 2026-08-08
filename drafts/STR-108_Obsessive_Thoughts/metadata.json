@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-108",
+  "title": "Obsessive Thoughts",
+  "subtitle": "Definitions, evidence-based management, safety, and when professional care matters for obsessive thoughts.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Anxiety and Mood",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Standard consumer health literacy",
+  "keywords": [
+    "Obsessive thoughts",
+    "Intrusive thoughts",
+    "Anxiety",
+    "Obsessive-Compulsive Disorder",
+    "Cognitive Behavioral Therapy",
+    "Mental health",
+    "Intrusive thinking",
+    "Rumination"
+  ],
+  "related_modules": [
+    "STR-102_Anxiety_Disorders",
+    "STR-110_Cognitive_Behavioral_Therapy_Basics",
+    "STR-115_Mindfulness_and_Mental_Health"
+  ],
+  "evidence_strength": "Established evidence for CBT and SSRIs; moderate evidence for mindfulness and ACT; ongoing research on neurological mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

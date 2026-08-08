@@ -1,0 +1,39 @@
+{
+  "module_id": "STR-107",
+  "title": "Phobias",
+  "subtitle": "Definitions, evidence-based management, safety, and when professional care matters for phobias.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Anxiety and Mood",
+  "som_stages": [
+    "Recognition",
+    "Management",
+    "Referral"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Grade 9-12)",
+  "keywords": [
+    "Phobia",
+    "Anxiety Disorder",
+    "Fear",
+    "Exposure Therapy",
+    "Cognitive Behavioral Therapy",
+    "Specific Phobia",
+    "Social Phobia",
+    "Agoraphobia",
+    "Psychotherapy",
+    "Medication"
+  ],
+  "related_modules": [
+    "STR-102_AnxietyDisorders",
+    "STR-110_StressManagement",
+    "STR-115_DepressionOverview"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
