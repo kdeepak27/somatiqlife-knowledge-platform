@@ -1,0 +1,35 @@
+{
+  "module_id": "AGE-117",
+  "title": "Intergenerational Relationships",
+  "subtitle": "How intergenerational relationships influences well-being and healthy aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Social and Emotional Aging",
+  "som_stages": [
+    "Middle adulthood",
+    "Older adulthood",
+    "Elderly"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Intergenerational relationships",
+    "Well-being",
+    "Healthy aging",
+    "Social support",
+    "Longevity",
+    "Emotional health",
+    "Physical health"
+  ],
+  "related_modules": [
+    "AGE-102",
+    "MENT-205",
+    "SOC-311"
+  ],
+  "evidence_strength": "Moderate evidence from observational and interventional studies supports the beneficial effects of intergenerational relationships on various aspects of healthy aging, though further randomized controlled trials are needed to establish causality and optimize intervention strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
