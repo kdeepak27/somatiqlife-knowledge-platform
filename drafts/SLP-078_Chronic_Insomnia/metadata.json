@@ -1,0 +1,40 @@
+{
+  "module_id": "SLP-078",
+  "title": "Chronic Insomnia",
+  "subtitle": "Definitions, symptoms, evaluation, management, safety, and evidence related to chronic insomnia.",
+  "domain": "Sleep",
+  "category": "Sleep Problems and Disorders",
+  "som_stages": [
+    "Recognition",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Primary Care Providers",
+    "Sleep Specialists",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "insomnia",
+    "chronic insomnia",
+    "sleep disorder",
+    "sleep difficulty",
+    "sleep onset",
+    "sleep maintenance",
+    "cognitive behavioral therapy for insomnia",
+    "CBT-I",
+    "pharmacotherapy for insomnia",
+    "sleep hygiene"
+  ],
+  "related_modules": [
+    "SLP-072",
+    "SLP-085",
+    "SLP-101"
+  ],
+  "evidence_strength": "Established evidence on diagnostic criteria and CBT-I efficacy; moderate evidence for pharmacotherapy safety and effectiveness; emerging evidence in digital therapy and novel treatments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

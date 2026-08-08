@@ -1,0 +1,38 @@
+{
+  "module_id": "SLP-076",
+  "title": "Insomnia",
+  "subtitle": "Definitions, symptoms, evaluation, management, safety, and evidence related to insomnia.",
+  "domain": "Sleep",
+  "category": "Sleep Problems and Disorders",
+  "som_stages": [
+    "Identification",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "General Audience - Grade 8",
+  "keywords": [
+    "Insomnia",
+    "Sleep Disorders",
+    "Sleep Problems",
+    "Sleep Quality",
+    "Sleep Initiation",
+    "Sleep Maintenance",
+    "Cognitive Behavioral Therapy for Insomnia",
+    "CBT-I",
+    "Hypnotics",
+    "Sleep Hygiene"
+  ],
+  "related_modules": [
+    "SLP-010",
+    "SLP-024",
+    "SLP-071"
+  ],
+  "evidence_strength": "Established for CBT-I and diagnostic criteria; Moderate for pharmacotherapy safety and efficacy; Emerging for novel therapies and personalized management.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

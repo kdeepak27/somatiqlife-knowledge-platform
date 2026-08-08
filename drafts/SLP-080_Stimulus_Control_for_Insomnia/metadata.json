@@ -1,0 +1,39 @@
+{
+  "module_id": "SLP-080",
+  "title": "Stimulus Control for Insomnia",
+  "subtitle": "Definitions, symptoms, evaluation, management, safety, and evidence related to stimulus control for insomnia.",
+  "domain": "Sleep",
+  "category": "Sleep Problems and Disorders",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Sleep Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Stimulus Control",
+    "Insomnia",
+    "Sleep Hygiene",
+    "Sleep Onset Insomnia",
+    "Behavioral Therapy",
+    "Sleep Restriction",
+    "Cognitive Behavioral Therapy for Insomnia",
+    "Bedtime Routine",
+    "Sleep Environment",
+    "Sleep Disorders"
+  ],
+  "related_modules": [
+    "SLP-055",
+    "SLP-065",
+    "SLP-070"
+  ],
+  "evidence_strength": "Established evidence base with moderate to strong clinical trial support and guideline recommendations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
