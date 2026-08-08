@@ -1,0 +1,39 @@
+{
+  "module_id": "LIF-117",
+  "title": "Managing Workload",
+  "subtitle": "Practical health considerations and strategies related to managing workload.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Work and Productivity",
+  "som_stages": [
+    "Awareness",
+    "Implementation",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Employees",
+    "Managers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 9 to 12",
+  "keywords": [
+    "workload",
+    "stress management",
+    "time management",
+    "work-life balance",
+    "productivity",
+    "burnout",
+    "mental health",
+    "fatigue",
+    "task prioritization",
+    "workload management strategies"
+  ],
+  "related_modules": [
+    "LIF-105_Time_Management",
+    "LIF-110_Stress_Management",
+    "LIF-120_Workplace_Wellbeing"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas in digital tools and organizational interventions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

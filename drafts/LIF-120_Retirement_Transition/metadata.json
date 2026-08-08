@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-120",
+  "title": "Retirement Transition",
+  "subtitle": "Practical health considerations and strategies related to retirement transition.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Work and Productivity",
+  "som_stages": [
+    "Adult",
+    "Older Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "retirement",
+    "transition",
+    "mental health",
+    "physical activity",
+    "social engagement",
+    "financial health",
+    "routine changes",
+    "stress management",
+    "healthy aging"
+  ],
+  "related_modules": [
+    "LIF-110",
+    "MENT-130",
+    "PHYS-125"
+  ],
+  "evidence_strength": "Established with some moderate and emerging evidence for specific interventions and individual variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
