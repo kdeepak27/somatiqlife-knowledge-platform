@@ -1,0 +1,39 @@
+{
+  "module_id": "SLP-068",
+  "title": "Shift Work and Sleep",
+  "subtitle": "Practical guidance, tradeoffs, and evidence related to shift work and sleep.",
+  "domain": "Sleep",
+  "category": "Sleep Timing and Real Life",
+  "som_stages": [
+    "Early Recognition",
+    "Management",
+    "Education"
+  ],
+  "audience": [
+    "General Public",
+    "Shift Workers",
+    "Sleep Clinicians",
+    "Occupational Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "shift work",
+    "sleep",
+    "circadian rhythm",
+    "sleep deprivation",
+    "shift work disorder",
+    "sleep hygiene",
+    "chronobiology",
+    "fatigue management",
+    "night shift",
+    "day shift"
+  ],
+  "related_modules": [
+    "SLP-045",
+    "SLP-072",
+    "OCC-034"
+  ],
+  "evidence_strength": "Moderate to Strong evidence from multiple observational studies and clinical guidelines supports the health risks and biological mechanisms of shift work impact on sleep, with emerging evidence for interventions to mitigate adverse effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

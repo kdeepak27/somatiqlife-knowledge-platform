@@ -1,0 +1,36 @@
+{
+  "module_id": "SLP-066",
+  "title": "Social Jet Lag",
+  "subtitle": "Practical guidance, tradeoffs, and evidence related to social jet lag.",
+  "domain": "Sleep",
+  "category": "Sleep Timing and Real Life",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Education"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Grades 9-12)",
+  "keywords": [
+    "social jet lag",
+    "circadian rhythm",
+    "sleep timing",
+    "chronobiology",
+    "weekend sleep",
+    "sleep debt",
+    "sleep hygiene",
+    "circadian misalignment"
+  ],
+  "related_modules": [
+    "SLP-034",
+    "SLP-058",
+    "SLP-071"
+  ],
+  "evidence_strength": "Established evidence for health associations through observational studies; emerging experimental evidence for causal pathways; practical guidelines grounded in chronobiology and behavioral science.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

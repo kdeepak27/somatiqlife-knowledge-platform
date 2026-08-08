@@ -1,0 +1,34 @@
+{
+  "module_id": "SLP-067",
+  "title": "Jet Lag",
+  "subtitle": "Practical guidance, tradeoffs, and evidence related to jet lag.",
+  "domain": "Sleep",
+  "category": "Sleep Timing and Real Life",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Travelers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "jet lag",
+    "circadian rhythm",
+    "sleep disruption",
+    "travel fatigue",
+    "time zone change",
+    "chronobiology"
+  ],
+  "related_modules": [
+    "SLP-021",
+    "SLP-039",
+    "SLP-054"
+  ],
+  "evidence_strength": "Moderate evidence with ongoing research and some variability in individual response",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
