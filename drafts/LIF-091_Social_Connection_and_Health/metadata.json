@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-091",
+  "title": "Social Connection and Health",
+  "subtitle": "How social connection and health can influence physical and mental well-being.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Social and Environmental Health",
+  "som_stages": [
+    "Prevention",
+    "Health Promotion",
+    "Chronic Disease Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Clinicians",
+    "Researchers"
+  ],
+  "reading_level": "10th grade",
+  "keywords": [
+    "social connection",
+    "social relationships",
+    "health",
+    "mental health",
+    "physical health",
+    "loneliness",
+    "social support",
+    "well-being"
+  ],
+  "related_modules": [
+    "LIF-012: Mental Health and Resilience",
+    "LIF-075: Stress Management Techniques",
+    "LIF-110: Healthy Aging and Longevity"
+  ],
+  "evidence_strength": "Established evidence for associations between social connection and health outcomes, supported by epidemiological studies and physiological research; moderate evidence for digital technology effects and some intervention outcomes; emerging research on mechanisms and tailored interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
