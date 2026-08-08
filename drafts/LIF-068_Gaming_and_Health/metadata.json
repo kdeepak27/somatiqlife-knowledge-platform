@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-068",
+  "title": "Gaming and Health",
+  "subtitle": "Health effects, evidence, and practical boundaries related to gaming and health.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Digital Lifestyle",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 10",
+  "keywords": [
+    "Gaming",
+    "Video Games",
+    "Digital Health",
+    "Mental Health",
+    "Physical Health",
+    "Screen Time",
+    "Addiction",
+    "Cognitive Function",
+    "Exercise",
+    "Sleep"
+  ],
+  "related_modules": [
+    "LIF-029",
+    "LIF-045",
+    "LIF-055"
+  ],
+  "evidence_strength": "Mixed: Established for health risks of excessive gaming; moderate and emerging for cognitive benefits and therapeutic uses.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

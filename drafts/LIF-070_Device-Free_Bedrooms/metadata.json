@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-070",
+  "title": "Device-Free Bedrooms",
+  "subtitle": "Health effects, evidence, and practical boundaries related to device-free bedrooms.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Digital Lifestyle",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Behavior Change"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Parents",
+    "Sleep Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "device-free bedroom",
+    "digital detox",
+    "sleep quality",
+    "blue light",
+    "electromagnetic fields",
+    "screen time",
+    "digital wellness",
+    "bedroom environment"
+  ],
+  "related_modules": [
+    "LIF-043:BlueLightExposure",
+    "LIF-061:SleepHygieneBestPractices",
+    "LIF-080:DigitalDetoxStrategies"
+  ],
+  "evidence_strength": "Moderate with emerging research in digital wellness and sleep health",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
