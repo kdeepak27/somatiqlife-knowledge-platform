@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-123",
+  "title": "Family Support",
+  "subtitle": "How family support affects well-being and practical ways to strengthen it.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Relationships and Connection",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Caregivers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "family support",
+    "social support",
+    "mental health",
+    "stress reduction",
+    "well-being",
+    "relationships",
+    "emotional support",
+    "practical support",
+    "family dynamics"
+  ],
+  "related_modules": [
+    "STR-080: Social Support Networks",
+    "STR-165: Stress Management Techniques",
+    "MH-210: Understanding Depression",
+    "REL-074: Effective Communication in Families"
+  ],
+  "evidence_strength": "Established evidence for mental health benefits of family support; moderate evidence for intervention effectiveness; emerging evidence on neurobiological mechanisms; cultural influences recognized but require further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

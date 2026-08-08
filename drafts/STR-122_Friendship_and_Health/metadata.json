@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-122",
+  "title": "Friendship and Health",
+  "subtitle": "How friendship and health affects well-being and practical ways to strengthen it.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Relationships and Connection",
+  "som_stages": [
+    "Wellness",
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Mental Health Educators"
+  ],
+  "reading_level": "Moderate (Grades 8-10)",
+  "keywords": [
+    "Friendship",
+    "Social Support",
+    "Well-being",
+    "Mental Health",
+    "Stress Reduction",
+    "Physiology",
+    "Loneliness",
+    "Social Connection",
+    "Health Outcomes",
+    "Practical Guidance"
+  ],
+  "related_modules": [
+    "STR-105_Social_Support_and_Stress",
+    "STR-130_Loneliness_and_Health",
+    "MNT-210_Mindfulness_and_Well-Being"
+  ],
+  "evidence_strength": "Established evidence from epidemiological, clinical, and physiological research with some areas requiring further longitudinal and experimental studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

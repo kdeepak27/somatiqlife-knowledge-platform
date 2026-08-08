@@ -1,0 +1,39 @@
+{
+  "module_id": "STR-125",
+  "title": "Healthy Communication",
+  "subtitle": "How healthy communication affects well-being and practical ways to strengthen it.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Relationships and Connection",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Mental Health Professionals",
+    "Educators",
+    "Caregivers"
+  ],
+  "reading_level": "High School to Adult",
+  "keywords": [
+    "communication",
+    "healthy relationships",
+    "well-being",
+    "emotional intelligence",
+    "active listening",
+    "conflict resolution",
+    "nonverbal communication",
+    "empathy",
+    "stress reduction",
+    "social connection"
+  ],
+  "related_modules": [
+    "STR-101",
+    "STR-110",
+    "STR-135"
+  ],
+  "evidence_strength": "Established evidence with some emerging concepts in neuroscience and cultural variations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
