@@ -1,0 +1,35 @@
+{
+  "module_id": "STR-041",
+  "title": "Breathing for Stress Relief",
+  "subtitle": "How to use breathing for stress relief, what evidence supports it, and common limitations.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Management Skills",
+  "som_stages": [
+    "Stress Awareness",
+    "Stress Reduction Techniques"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Mental Health Clinicians"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "Breathing techniques",
+    "Stress relief",
+    "Relaxation",
+    "Autonomic nervous system",
+    "Mindfulness",
+    "Respiration",
+    "Psychophysiology",
+    "Stress management"
+  ],
+  "related_modules": [
+    "STR-038-Mindfulness-Meditation",
+    "STR-043-Progressive-Muscle-Relaxation",
+    "STR-045-Cognitive-Behavioral-Stress-Management"
+  ],
+  "evidence_strength": "Moderate: Supported by multiple RCTs and meta-analyses showing benefits for stress reduction but requires further long-term studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

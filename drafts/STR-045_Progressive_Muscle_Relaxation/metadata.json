@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-045",
+  "title": "Progressive Muscle Relaxation",
+  "subtitle": "How to use progressive muscle relaxation, what evidence supports it, and common limitations.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Management Skills",
+  "som_stages": [
+    "Prevention",
+    "Early Management",
+    "Self-Care"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Practitioners"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "progressive muscle relaxation",
+    "PMR",
+    "stress reduction",
+    "muscle tension",
+    "relaxation techniques",
+    "anxiety management",
+    "sleep improvement",
+    "mind-body therapy",
+    "stress management"
+  ],
+  "related_modules": [
+    "STR-022",
+    "STR-038",
+    "STR-051"
+  ],
+  "evidence_strength": "Moderate to Strong",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

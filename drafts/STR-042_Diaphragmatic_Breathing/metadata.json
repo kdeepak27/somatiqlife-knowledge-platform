@@ -1,0 +1,35 @@
+{
+  "module_id": "STR-042",
+  "title": "Diaphragmatic Breathing",
+  "subtitle": "How to use diaphragmatic breathing, what evidence supports it, and common limitations.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Management Skills",
+  "som_stages": [
+    "Stress Identification",
+    "Stress Coping",
+    "Stress Reduction"
+  ],
+  "audience": [
+    "General Public",
+    "Mental Health Patients",
+    "Stress Management Professionals"
+  ],
+  "reading_level": "Grade 8-10",
+  "keywords": [
+    "diaphragmatic breathing",
+    "deep breathing",
+    "stress management",
+    "relaxation technique",
+    "breath control",
+    "vagus nerve",
+    "parasympathetic nervous system"
+  ],
+  "related_modules": [
+    "STR-010_Progressive_Muscle_Relaxation",
+    "STR-025_Mindfulness_Meditation",
+    "STR-035_Anxiety_Management_Techniques"
+  ],
+  "evidence_strength": "Moderate evidence from clinical and psychophysiological studies supports beneficial effects of diaphragmatic breathing for stress management, though large-scale and high-quality randomized controlled trials are limited.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
