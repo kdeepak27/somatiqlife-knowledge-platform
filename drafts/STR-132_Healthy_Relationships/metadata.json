@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-132",
+  "title": "Healthy Relationships",
+  "subtitle": "How healthy relationships affects well-being and practical ways to strengthen it.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Relationships and Connection",
+  "som_stages": [
+    "Education",
+    "Prevention",
+    "Wellness"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "healthy relationships",
+    "mental well-being",
+    "social connection",
+    "stress reduction",
+    "emotional support",
+    "communication",
+    "relationship dynamics",
+    "boundary setting",
+    "empathy",
+    "social support"
+  ],
+  "related_modules": [
+    "STR-110",
+    "STR-125",
+    "MHW-210"
+  ],
+  "evidence_strength": "Established evidence from empirical psychological and biomedical research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
