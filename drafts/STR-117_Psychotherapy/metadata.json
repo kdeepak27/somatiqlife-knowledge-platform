@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-117",
+  "title": "Psychotherapy",
+  "subtitle": "Definitions, evidence-based management, safety, and when professional care matters for psychotherapy.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Anxiety and Mood",
+  "som_stages": [
+    "Prevention",
+    "Intervention",
+    "Recovery"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "High school to college",
+  "keywords": [
+    "psychotherapy",
+    "talk therapy",
+    "mental health treatment",
+    "anxiety management",
+    "depression treatment",
+    "CBT",
+    "psychodynamic therapy",
+    "mindfulness therapy",
+    "psychological counseling",
+    "behavioral therapy"
+  ],
+  "related_modules": [
+    "STR-112 Anxiety Disorders",
+    "STR-115 Depression Management",
+    "STR-120 Mindfulness and Stress Reduction"
+  ],
+  "evidence_strength": "Established evidence with some emerging research on neural mechanisms",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

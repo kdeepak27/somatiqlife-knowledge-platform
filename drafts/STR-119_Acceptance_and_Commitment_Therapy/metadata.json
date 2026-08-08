@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-119",
+  "title": "Acceptance and Commitment Therapy",
+  "subtitle": "Definitions, evidence-based management, safety, and when professional care matters for acceptance and commitment therapy.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Anxiety and Mood",
+  "som_stages": [
+    "Awareness",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Mental Health Counselors"
+  ],
+  "reading_level": "Informal to Moderate",
+  "keywords": [
+    "Acceptance and Commitment Therapy",
+    "ACT",
+    "Psychotherapy",
+    "Anxiety",
+    "Mood Disorders",
+    "Mindfulness",
+    "Behavioral Therapy",
+    "Cognitive Defusion",
+    "Psychological Flexibility"
+  ],
+  "related_modules": [
+    "STR-102",
+    "STR-115",
+    "STR-134"
+  ],
+  "evidence_strength": "Moderate to strong evidence supports ACT for anxiety, depression, and several related conditions, with emerging evidence in other domains.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

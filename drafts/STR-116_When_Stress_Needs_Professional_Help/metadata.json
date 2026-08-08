@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-116",
+  "title": "When Stress Needs Professional Help",
+  "subtitle": "Definitions, evidence-based management, safety, and when professional care matters for when stress needs professional help.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Anxiety and Mood",
+  "som_stages": [
+    "Recognition",
+    "Intervention",
+    "Referral"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Flesch-Kincaid Grade 8",
+  "keywords": [
+    "stress",
+    "professional help",
+    "mental health",
+    "anxiety",
+    "depression",
+    "coping strategies",
+    "psychotherapy",
+    "medication management"
+  ],
+  "related_modules": [
+    "STR-101",
+    "STR-114",
+    "MH-220"
+  ],
+  "evidence_strength": "Established evidence for definitions and therapeutic approaches; emerging evidence for some complementary interventions; limitations in access and adherence well documented.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
