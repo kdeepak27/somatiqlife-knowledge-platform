@@ -1,0 +1,38 @@
+{
+  "module_id": "LIF-031",
+  "title": "Home Cooking",
+  "subtitle": "How home cooking influences health and practical strategies for improvement.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Food and Daily Life",
+  "som_stages": [
+    "Prevention",
+    "Self-Care",
+    "Chronic Disease Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Nutrition Counselors"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "home cooking",
+    "health",
+    "nutrition",
+    "diet quality",
+    "food preparation",
+    "cooking skills",
+    "healthy eating",
+    "meal planning",
+    "food safety",
+    "processed foods"
+  ],
+  "related_modules": [
+    "NUT-014",
+    "LIF-045",
+    "PUB-022"
+  ],
+  "evidence_strength": "Established evidence based on epidemiologic studies and nutrition research with moderate evidence for some psychosocial impacts.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,40 @@
+{
+  "module_id": "LIF-035",
+  "title": "Eating at Social Events",
+  "subtitle": "How eating at social events influences health and practical strategies for improvement.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Food and Daily Life",
+  "som_stages": [
+    "Precontemplation",
+    "Contemplation",
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Nutritionists",
+    "Lifestyle Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "social eating",
+    "food choices",
+    "healthy habits",
+    "nutrition",
+    "mealtime socializing",
+    "overeating",
+    "mindful eating",
+    "party food",
+    "diet quality"
+  ],
+  "related_modules": [
+    "LIF-012",
+    "NUT-007",
+    "PSY-023"
+  ],
+  "evidence_strength": "Established evidence for social facilitation and its effects on eating behaviors, moderate evidence regarding mindfulness interventions and cultural differences, emerging evidence on metabolic timing related to social meals.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

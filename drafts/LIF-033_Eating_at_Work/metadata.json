@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-033",
+  "title": "Eating at Work",
+  "subtitle": "How eating at work influences health and practical strategies for improvement.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Food and Daily Life",
+  "som_stages": [
+    "Awareness",
+    "Behavior Change",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Working Adults",
+    "Health Educators",
+    "Employers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "Eating at work",
+    "Workplace nutrition",
+    "Meal timing",
+    "Healthy eating habits",
+    "Work lunch",
+    "Mindful eating",
+    "Workplace health"
+  ],
+  "related_modules": [
+    "LIF-005:Healthy Meal Preparation",
+    "LIF-021:Stress Management in the Workplace",
+    "LIF-042:Weight Management Strategies"
+  ],
+  "evidence_strength": "Strong evidence for mechanisms and practical strategies; moderate evidence for employer policy impacts; emerging evidence on psychological interventions like mindful eating.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
