@@ -1,0 +1,39 @@
+{
+  "module_id": "STR-013",
+  "title": "Stress Recovery",
+  "subtitle": "Core mechanisms, evidence, and practical implications of stress recovery.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Foundations",
+  "som_stages": [
+    "Recognition",
+    "Management",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stress recovery",
+    "stress physiology",
+    "psychological recovery",
+    "autonomic nervous system",
+    "HPA axis",
+    "stress management",
+    "relaxation techniques",
+    "resilience",
+    "mental well-being",
+    "cortisol"
+  ],
+  "related_modules": [
+    "STR-007-Stress-Physiology",
+    "STR-020-Relaxation-Techniques",
+    "MH-011-Mindfulness-Practice",
+    "STR-025-Chronic-Stress-Impact"
+  ],
+  "evidence_strength": "Established evidence for physiological mechanisms and practical techniques; moderate evidence for individual variability factors; emerging evidence on novel biomarkers.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

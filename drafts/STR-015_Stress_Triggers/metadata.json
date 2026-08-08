@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-015",
+  "title": "Stress Triggers",
+  "subtitle": "Core mechanisms, evidence, and practical implications of stress triggers.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Foundations",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "High School to College",
+  "keywords": [
+    "Stress triggers",
+    "Stress physiology",
+    "Stress response",
+    "Psychological stress",
+    "Chronic stress",
+    "Acute stress",
+    "Stress management",
+    "HPA axis",
+    "Sympathetic nervous system",
+    "Coping mechanisms"
+  ],
+  "related_modules": [
+    "STR-001",
+    "STR-007",
+    "MH-012"
+  ],
+  "evidence_strength": "Established evidence with some emerging perspectives requiring further validation",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
