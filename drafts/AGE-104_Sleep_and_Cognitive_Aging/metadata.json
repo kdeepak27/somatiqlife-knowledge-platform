@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-104",
+  "title": "Sleep and Cognitive Aging",
+  "subtitle": "Evidence, practical strategies, and safety related to sleep and cognitive aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Sleep and Recovery With Aging",
+  "som_stages": [
+    "middle_age",
+    "older_adults",
+    "senior"
+  ],
+  "audience": [
+    "general_public",
+    "healthcare_providers",
+    "caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Sleep",
+    "Cognitive Aging",
+    "Neurodegeneration",
+    "Memory",
+    "Sleep Quality",
+    "Sleep Architecture",
+    "Circadian Rhythm",
+    "Sleep Hygiene",
+    "Dementia Prevention",
+    "Older Adults"
+  ],
+  "related_modules": [
+    "AGE-101",
+    "AGE-107",
+    "NEU-205"
+  ],
+  "evidence_strength": "Established and emerging scientific evidence with some areas requiring further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
