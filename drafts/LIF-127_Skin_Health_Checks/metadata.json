@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-127",
+  "title": "Skin Health Checks",
+  "subtitle": "How skin health checks supports prevention, early detection, and informed health decisions.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Preventive Care",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "skin health",
+    "skin cancer screening",
+    "dermatology",
+    "skin examination",
+    "preventive care",
+    "early detection",
+    "melanoma",
+    "basal cell carcinoma",
+    "squamous cell carcinoma",
+    "self-examination"
+  ],
+  "related_modules": [
+    "LIF-103",
+    "LIF-151"
+  ],
+  "evidence_strength": "Established evidence for preventive and early detection benefits; moderate evidence for population screening strategies; emerging evidence for AI-assisted technologies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

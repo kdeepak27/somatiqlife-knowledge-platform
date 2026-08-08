@@ -1,0 +1,39 @@
+{
+  "module_id": "LIF-126",
+  "title": "Hearing Care",
+  "subtitle": "How hearing care supports prevention, early detection, and informed health decisions.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Preventive Care",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Health Educators"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "hearing",
+    "hearing loss",
+    "audiology",
+    "hearing aids",
+    "prevention",
+    "early detection",
+    "ear health",
+    "tinnitus",
+    "auditory system",
+    "hearing screening"
+  ],
+  "related_modules": [
+    "LIF-101",
+    "LIF-142",
+    "LIF-150"
+  ],
+  "evidence_strength": "Established evidence supported by authoritative organizations and clinical guidelines",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

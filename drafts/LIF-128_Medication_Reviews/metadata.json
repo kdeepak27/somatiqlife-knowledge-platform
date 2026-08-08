@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-128",
+  "title": "Medication Reviews",
+  "subtitle": "How medication reviews supports prevention, early detection, and informed health decisions.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Preventive Care",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Informed Decision Making"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "medication review",
+    "drug safety",
+    "polypharmacy",
+    "adverse drug reactions",
+    "medication adherence",
+    "preventive care",
+    "patient safety",
+    "pharmacist consultation"
+  ],
+  "related_modules": [
+    "LIF-102 (Polypharmacy and Older Adults)",
+    "MED-215 (Pharmacovigilance Basics)",
+    "LIF-134 (Patient Education and Medication Safety)"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas needing further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
