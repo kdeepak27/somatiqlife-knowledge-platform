@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-113",
+  "title": "Feeling Overwhelmed",
+  "subtitle": "Definitions, evidence-based management, safety, and when professional care matters for feeling overwhelmed.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Anxiety and Mood",
+  "som_stages": [
+    "Recognition",
+    "Self-Management",
+    "Seeking Support"
+  ],
+  "audience": [
+    "General Public",
+    "Primary Care Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Moderate (Grades 8-10)",
+  "keywords": [
+    "Overwhelmed",
+    "Stress",
+    "Anxiety",
+    "Emotional Overload",
+    "Coping Strategies",
+    "Mental Health",
+    "Burnout",
+    "Resilience"
+  ],
+  "related_modules": [
+    "STR-101",
+    "STR-105",
+    "ANX-207"
+  ],
+  "evidence_strength": "Moderate evidence from psychological and physiological studies; ongoing research addresses nuanced individual differences.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

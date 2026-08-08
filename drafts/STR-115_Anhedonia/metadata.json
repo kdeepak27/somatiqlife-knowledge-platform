@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-115",
+  "title": "Anhedonia",
+  "subtitle": "Definitions, evidence-based management, safety, and when professional care matters for anhedonia.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Anxiety and Mood",
+  "som_stages": [
+    "Recognition",
+    "Management",
+    "Referral"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate (Grade 10-12)",
+  "keywords": [
+    "Anhedonia",
+    "Loss of Pleasure",
+    "Depression",
+    "Mental Health",
+    "Reward Deficiency",
+    "Psychotherapy",
+    "Pharmacotherapy",
+    "Dopamine",
+    "Mood Disorders"
+  ],
+  "related_modules": [
+    "STR-101_Depression fundamentals and treatments",
+    "STR-113_Schizophrenia overview and management",
+    "STR-120_Mood disorders: diagnosis and therapies",
+    "STR-130_Cognitive behavioral therapy techniques"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
