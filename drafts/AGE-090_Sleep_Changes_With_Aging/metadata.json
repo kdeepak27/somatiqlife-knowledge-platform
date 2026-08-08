@@ -1,0 +1,35 @@
+{
+  "module_id": "AGE-090",
+  "title": "Sleep Changes With Aging",
+  "subtitle": "Evidence, practical strategies, and safety related to sleep changes with aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Sleep and Recovery With Aging",
+  "som_stages": [
+    "Middle Age",
+    "Older Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Medium (Grade 8-10)",
+  "keywords": [
+    "Sleep",
+    "Aging",
+    "Circadian Rhythm",
+    "Insomnia",
+    "Sleep Apnea",
+    "Restorative Sleep",
+    "Sleep Architecture",
+    "Melatonin"
+  ],
+  "related_modules": [
+    "AGE-085",
+    "AGE-095",
+    "PHY-120"
+  ],
+  "evidence_strength": "Established evidence for physiological sleep changes; moderate evidence for intervention efficacy; emerging evidence on molecular mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
