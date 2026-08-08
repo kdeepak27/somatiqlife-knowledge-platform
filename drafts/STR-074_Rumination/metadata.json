@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-074",
+  "title": "Rumination",
+  "subtitle": "Evidence-based approaches for understanding and improving rumination.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Behavior and Coping",
+  "som_stages": [
+    "Recognition",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "rumination",
+    "repetitive negative thinking",
+    "stress response",
+    "cognitive behavior",
+    "mental well-being",
+    "coping strategies",
+    "depression",
+    "anxiety"
+  ],
+  "related_modules": [
+    "STR-053_Cognitive_Behavioral_Therapy",
+    "STR-061_Mindfulness_Meditation",
+    "STR-055_Anxiety_Disorders",
+    "STR-061_Depression_Management"
+  ],
+  "evidence_strength": "Established evidence for rumination's role in mood disorders; moderate to emerging evidence for neurobiological mechanisms; growing evidence supports mindfulness and CBT effectiveness for reducing rumination.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

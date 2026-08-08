@@ -1,0 +1,35 @@
+{
+  "module_id": "STR-073",
+  "title": "Managing Worry",
+  "subtitle": "Evidence-based approaches for understanding and improving managing worry.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Behavior and Coping",
+  "som_stages": [
+    "Early",
+    "Mid",
+    "Late"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "worry",
+    "anxiety",
+    "coping strategies",
+    "stress management",
+    "cognitive behavioral therapy",
+    "mindfulness",
+    "mental health"
+  ],
+  "related_modules": [
+    "STR-061-Understanding-Anxiety",
+    "STR-042-Mindfulness-and-Meditation",
+    "STR-016-Stress-Physiology"
+  ],
+  "evidence_strength": "Established evidence for CBT and mindfulness; moderate evidence for lifestyle factors; emerging evidence for neurobiological mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

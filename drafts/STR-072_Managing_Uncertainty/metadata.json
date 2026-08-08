@@ -1,0 +1,35 @@
+{
+  "module_id": "STR-072",
+  "title": "Managing Uncertainty",
+  "subtitle": "Evidence-based approaches for understanding and improving managing uncertainty.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Behavior and Coping",
+  "som_stages": [
+    "prevention",
+    "early management",
+    "maintenance"
+  ],
+  "audience": [
+    "general public",
+    "patients",
+    "healthcare providers"
+  ],
+  "reading_level": "Intermediate (8th-10th grade)",
+  "keywords": [
+    "uncertainty",
+    "stress management",
+    "coping strategies",
+    "anxiety",
+    "psychological resilience",
+    "decision-making",
+    "intolerance of uncertainty"
+  ],
+  "related_modules": [
+    "STR-010_Stress_Response_Physiology",
+    "STR-045_Anxiety_Disorders_Management",
+    "STR-088_Mindfulness_and_Stress_Reduction"
+  ],
+  "evidence_strength": "Moderate to strong evidence for psychological interventions; emerging evidence for neurobiological mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
