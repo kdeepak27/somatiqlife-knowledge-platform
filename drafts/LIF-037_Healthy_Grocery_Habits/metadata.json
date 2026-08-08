@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-037",
+  "title": "Healthy Grocery Habits",
+  "subtitle": "How healthy grocery habits influences health and practical strategies for improvement.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Food and Daily Life",
+  "som_stages": [
+    "Prevention",
+    "Health Optimization"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Nutritionists"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "Healthy Grocery",
+    "Food Shopping",
+    "Nutrition",
+    "Diet Quality",
+    "Meal Planning",
+    "Food Choices",
+    "Grocery Store",
+    "Food Labels",
+    "Budget Friendly",
+    "Healthy Eating"
+  ],
+  "related_modules": [
+    "NUT-015",
+    "LIF-021",
+    "CHR-008"
+  ],
+  "evidence_strength": "Established evidence for core principles such as meal planning, label reading, and budget strategies; moderate evidence linking shopping habits to chronic disease prevention; emerging research on behavioral interventions and store environment influence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-039",
+  "title": "Food Availability at Home",
+  "subtitle": "How food availability at home influences health and practical strategies for improvement.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Food and Daily Life",
+  "som_stages": [
+    "Behavior Change",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Nutritionists",
+    "Caregivers"
+  ],
+  "reading_level": "Middle School to Adult",
+  "keywords": [
+    "food availability",
+    "home environment",
+    "diet quality",
+    "nutrition",
+    "healthy eating",
+    "food storage",
+    "food access",
+    "meal planning"
+  ],
+  "related_modules": [
+    "NUT-021",
+    "LIF-042",
+    "LIF-050"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging studies on specific interventions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

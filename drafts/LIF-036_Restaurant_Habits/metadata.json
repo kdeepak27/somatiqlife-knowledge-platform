@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-036",
+  "title": "Restaurant Habits",
+  "subtitle": "How restaurant habits influences health and practical strategies for improvement.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Food and Daily Life",
+  "som_stages": [
+    "Health Maintenance",
+    "Lifestyle Modification"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Nutritionists"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "restaurant habits",
+    "eating out",
+    "nutrition",
+    "health effects",
+    "meal choices",
+    "portion control",
+    "restaurant dining",
+    "dietary habits",
+    "food choices",
+    "healthy eating"
+  ],
+  "related_modules": [
+    "LIF-015",
+    "NUT-022",
+    "HLM-010"
+  ],
+  "evidence_strength": "Established evidence from observational studies and nutritional analyses supports the impact of restaurant eating habits on health, with moderate evidence guiding practical interventions for healthier dining behaviors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

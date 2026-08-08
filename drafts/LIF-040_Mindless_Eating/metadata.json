@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-040",
+  "title": "Mindless Eating",
+  "subtitle": "How mindless eating influences health and practical strategies for improvement.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Food and Daily Life",
+  "som_stages": [
+    "Prevention",
+    "Behavior Change"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Nutritionists"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "mindless eating",
+    "mindful eating",
+    "overeating",
+    "nutrition",
+    "behavioral nutrition",
+    "eating habits",
+    "food choices",
+    "satiety",
+    "portion control",
+    "emotional eating"
+  ],
+  "related_modules": [
+    "LIF-012",
+    "NUT-059",
+    "PSY-024"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
