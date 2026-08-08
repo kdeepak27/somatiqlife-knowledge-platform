@@ -1,0 +1,35 @@
+{
+  "module_id": "LIF-107",
+  "title": "Work-Life Balance",
+  "subtitle": "Practical health considerations and strategies related to work-life balance.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Work and Productivity",
+  "som_stages": [
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Working Adults",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "work-life balance",
+    "stress management",
+    "time management",
+    "occupational health",
+    "mental health",
+    "well-being",
+    "burnout prevention",
+    "self-care"
+  ],
+  "related_modules": [
+    "LIF-101",
+    "MNT-205",
+    "PSY-312"
+  ],
+  "evidence_strength": "Established evidence for psychological benefits; moderate evidence for physiological and workplace productivity outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

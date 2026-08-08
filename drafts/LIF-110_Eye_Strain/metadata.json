@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-110",
+  "title": "Eye Strain",
+  "subtitle": "Practical health considerations and strategies related to eye strain.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Work and Productivity",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Occupational Health Specialists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "eye strain",
+    "digital eye strain",
+    "visual fatigue",
+    "ocular discomfort",
+    "computer vision syndrome",
+    "blue light",
+    "ergonomics",
+    "screen time",
+    "blink rate",
+    "dry eyes"
+  ],
+  "related_modules": [
+    "LIF-101",
+    "LIF-115"
+  ],
+  "evidence_strength": "Established evidence for general eye strain causes and preventive strategies; moderate emerging evidence regarding blue light impact and digital device ergonomics.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
