@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-150",
+  "title": "Stress Management for Busy Professionals",
+  "subtitle": "How stress management for busy professionals supports long-term resilience, health, and sustainable behavior.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Resilience and Meaning",
+  "som_stages": [
+    "Prevention",
+    "Early Management",
+    "Ongoing Support"
+  ],
+  "audience": [
+    "Busy Professionals",
+    "Healthcare Providers",
+    "Mental Health Coaches"
+  ],
+  "reading_level": "Accessible to general adult audience with some scientific literacy",
+  "keywords": [
+    "stress management",
+    "busy professionals",
+    "resilience",
+    "mental well-being",
+    "cortisol",
+    "mindfulness",
+    "work-life balance",
+    "burnout prevention"
+  ],
+  "related_modules": [
+    "STR-101",
+    "SOM-220",
+    "MH-330"
+  ],
+  "evidence_strength": "Established evidence supports core stress management techniques such as mindfulness, physical activity, and sleep hygiene in improving well-being among busy professionals; emerging research continues to refine best practices and individual tailoring.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

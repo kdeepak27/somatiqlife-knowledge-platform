@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-149",
+  "title": "Stress Management for Older Adults",
+  "subtitle": "How stress management for older adults supports long-term resilience, health, and sustainable behavior.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Resilience and Meaning",
+  "som_stages": [
+    "Maintenance",
+    "Prevention",
+    "Intervention"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "stress management",
+    "older adults",
+    "resilience",
+    "mental health",
+    "coping strategies",
+    "aging",
+    "physiology",
+    "behavior change"
+  ],
+  "related_modules": [
+    "MENT-102",
+    "PHY-056",
+    "SOC-034"
+  ],
+  "evidence_strength": "Moderate - Established evidence supports multiple stress management strategies in older adults, though research limitations exist.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
