@@ -1,0 +1,35 @@
+{
+  "module_id": "STR-018",
+  "title": "Psychological Flexibility",
+  "subtitle": "Core mechanisms, evidence, and practical implications of psychological flexibility.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Foundations",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Educators",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "psychological flexibility",
+    "stress management",
+    "acceptance",
+    "cognitive defusion",
+    "mindfulness",
+    "behavioral change",
+    "ACT",
+    "resilience"
+  ],
+  "related_modules": [
+    "STR-021",
+    "STR-034"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging findings",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

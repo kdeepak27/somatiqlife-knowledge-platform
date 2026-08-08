@@ -1,0 +1,37 @@
+{
+  "module_id": "STR-020",
+  "title": "Mental Well-Being",
+  "subtitle": "Core mechanisms, evidence, and practical implications of mental well-being.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Foundations",
+  "som_stages": [
+    "Prevention",
+    "Intervention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "mental well-being",
+    "psychological health",
+    "stress resilience",
+    "emotional regulation",
+    "mindfulness",
+    "social support",
+    "mental health",
+    "psychological resilience",
+    "positive psychology"
+  ],
+  "related_modules": [
+    "STR-010",
+    "STR-015",
+    "STR-030"
+  ],
+  "evidence_strength": "Established evidence for commonly used interventions such as physical exercise, mindfulness, and social support; moderate evidence for emerging neurobiological mechanisms and resilience pathways; ongoing research needed in biomarker development and personalized applications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

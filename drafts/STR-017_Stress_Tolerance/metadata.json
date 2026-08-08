@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-017",
+  "title": "Stress Tolerance",
+  "subtitle": "Core mechanisms, evidence, and practical implications of stress tolerance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress Foundations",
+  "som_stages": [
+    "Prevention",
+    "Intervention",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Stress Tolerance",
+    "Stress Response",
+    "Resilience",
+    "Adaptation",
+    "Cortisol",
+    "Sympathetic Nervous System",
+    "Mindfulness",
+    "Coping Mechanisms",
+    "Stress Physiology",
+    "Psychological Stress"
+  ],
+  "related_modules": [
+    "STR-009",
+    "STR-013",
+    "MH-021"
+  ],
+  "evidence_strength": "Established evidence with moderate to emerging evidence for some intervention approaches",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
