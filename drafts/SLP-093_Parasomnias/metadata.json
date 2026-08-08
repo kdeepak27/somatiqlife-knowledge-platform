@@ -1,0 +1,41 @@
+{
+  "module_id": "SLP-093",
+  "title": "Parasomnias",
+  "subtitle": "Definitions, symptoms, evaluation, management, safety, and evidence related to parasomnias.",
+  "domain": "Sleep",
+  "category": "Sleep Problems and Disorders",
+  "som_stages": [
+    "Assessment",
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers",
+    "Sleep Specialists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Parasomnia",
+    "Sleep Disorder",
+    "REM Sleep Behavior Disorder",
+    "Sleepwalking",
+    "Night Terrors",
+    "Sleep Paralysis",
+    "Evaluation",
+    "Management",
+    "Safety",
+    "Sleep Physiology"
+  ],
+  "related_modules": [
+    "SLP-022",
+    "SLP-054",
+    "SLP-106",
+    "NEU-015"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

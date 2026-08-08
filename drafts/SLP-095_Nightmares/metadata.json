@@ -1,0 +1,37 @@
+{
+  "module_id": "SLP-095",
+  "title": "Nightmares",
+  "subtitle": "Definitions, symptoms, evaluation, management, safety, and evidence related to nightmares.",
+  "domain": "Sleep",
+  "category": "Sleep Problems and Disorders",
+  "som_stages": [
+    "Recognition",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "nightmares",
+    "dream disturbance",
+    "REM sleep",
+    "sleep disorders",
+    "sleep health",
+    "parasomnias",
+    "anxiety",
+    "stress",
+    "mental health"
+  ],
+  "related_modules": [
+    "SLP-048",
+    "SLP-127",
+    "SLP-082"
+  ],
+  "evidence_strength": "Established evidence for core features; moderate evidence for pharmacologic treatments; emerging evidence for novel therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

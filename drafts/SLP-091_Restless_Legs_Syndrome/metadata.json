@@ -1,0 +1,38 @@
+{
+  "module_id": "SLP-091",
+  "title": "Restless Legs Syndrome",
+  "subtitle": "Definitions, symptoms, evaluation, management, safety, and evidence related to restless legs syndrome.",
+  "domain": "Sleep",
+  "category": "Sleep Problems and Disorders",
+  "som_stages": [
+    "Recognition",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Restless Legs Syndrome",
+    "RLS",
+    "Willis-Ekbom Disease",
+    "Sleep Disorder",
+    "Neurological Disorder",
+    "Symptoms",
+    "Management",
+    "Causes",
+    "Diagnosis",
+    "Treatment"
+  ],
+  "related_modules": [
+    "SLP-067",
+    "SLP-074",
+    "NEU-022"
+  ],
+  "evidence_strength": "Established evidence supports the core clinical features, diagnostic criteria, and efficacy of dopamine agonists and iron supplementation for RLS. Moderate evidence exists for gabapentinoids and other pharmacologic options. Emerging evidence is growing regarding genetics and novel treatment targets. Safety concerns such as augmentation are well documented.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
