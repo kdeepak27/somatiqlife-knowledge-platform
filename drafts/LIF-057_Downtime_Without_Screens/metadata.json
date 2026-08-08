@@ -1,0 +1,38 @@
+{
+  "module_id": "LIF-057",
+  "title": "Downtime Without Screens",
+  "subtitle": "How downtime without screens supports recovery, energy, and sustainable health.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Sleep and Recovery Lifestyle",
+  "som_stages": [
+    "Maintenance",
+    "Optimization"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Sleep Researchers",
+    "Clinicians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Downtime",
+    "Screen Time",
+    "Recovery",
+    "Energy",
+    "Sustainable Health",
+    "Digital Detox",
+    "Sleep Quality",
+    "Mental Health",
+    "Circadian Rhythm",
+    "Mindfulness"
+  ],
+  "related_modules": [
+    "LIF-101",
+    "LIF-102",
+    "LIF-089"
+  ],
+  "evidence_strength": "Moderate evidence from randomized controlled trials and observational studies supports benefits of downtime without screens on sleep quality, recovery, and mental energy. Emerging research is ongoing for nuanced mechanisms and personalized interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
