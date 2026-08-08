@@ -1,0 +1,35 @@
+{
+  "module_id": "STR-091",
+  "title": "Financial Stress",
+  "subtitle": "Common causes, effects, warning signs, and practical strategies for financial stress.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Work and Life Stress",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "financial stress",
+    "money worries",
+    "economic anxiety",
+    "stress physiology",
+    "financial coping",
+    "mental health",
+    "debt stress",
+    "financial wellness"
+  ],
+  "related_modules": [
+    "STR-002: General Stress Management",
+    "MEN-018: Anxiety Disorders",
+    "MEN-024: Depression and Mood Disorders",
+    "LIF-047: Work-Life Balance"
+  ],
+  "evidence_strength": "Established evidence for physiological and psychological effects; emerging evidence for some coping strategies and individual variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

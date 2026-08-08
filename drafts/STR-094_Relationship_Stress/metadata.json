@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-094",
+  "title": "Relationship Stress",
+  "subtitle": "Common causes, effects, warning signs, and practical strategies for relationship stress.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Work and Life Stress",
+  "som_stages": [
+    "Recognition",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "General Adult Population",
+    "Healthcare Providers",
+    "Mental Health Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "Relationship Stress",
+    "Interpersonal Conflict",
+    "Work Stress",
+    "Emotional Health",
+    "Stress Management",
+    "Communication Skills",
+    "Mental Well-Being"
+  ],
+  "related_modules": [
+    "STR-002",
+    "MHB-017",
+    "WLB-010"
+  ],
+  "evidence_strength": "Established evidence supports physiological impacts and benefits of communication and counseling; some emerging evidence for workplace interventions and individual susceptibility. Limitations exist due to heterogeneity of study populations and subjective measures.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

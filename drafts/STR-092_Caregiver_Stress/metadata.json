@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-092",
+  "title": "Caregiver Stress",
+  "subtitle": "Common causes, effects, warning signs, and practical strategies for caregiver stress.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Work and Life Stress",
+  "som_stages": [
+    "Recognition",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "Caregivers",
+    "Healthcare Providers",
+    "Mental Health Professionals",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "caregiver stress",
+    "mental health",
+    "burnout",
+    "stress management",
+    "emotional exhaustion",
+    "caregiving burden",
+    "support strategies"
+  ],
+  "related_modules": [
+    "STR-057: Work Stress Management",
+    "STR-074: Burnout Prevention",
+    "MH-103: Depression and Anxiety in Caregivers"
+  ],
+  "evidence_strength": "Established evidence for physiological mechanisms and caregiving impacts; moderate evidence for specific interventions; emerging research on personalized management.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

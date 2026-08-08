@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-095",
+  "title": "Family Conflict",
+  "subtitle": "Common causes, effects, warning signs, and practical strategies for family conflict.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Work and Life Stress",
+  "som_stages": [
+    "Stress Recognition",
+    "Stress Management",
+    "Emotional Well-Being"
+  ],
+  "audience": [
+    "General Public",
+    "Caregivers",
+    "Mental Health Professionals",
+    "Educators"
+  ],
+  "reading_level": "Accessible to general adult audience",
+  "keywords": [
+    "family conflict",
+    "interpersonal conflict",
+    "stress",
+    "communication",
+    "conflict resolution",
+    "family dynamics",
+    "emotional well-being"
+  ],
+  "related_modules": [
+    "STR-006_Communication Skills",
+    "STR-030_Emotional Regulation",
+    "STR-101_Stress Management Techniques"
+  ],
+  "evidence_strength": "Established evidence for physiological and psychological impacts; moderate evidence for cultural and emotional intelligence applications; emerging evidence on new conflict management technologies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
