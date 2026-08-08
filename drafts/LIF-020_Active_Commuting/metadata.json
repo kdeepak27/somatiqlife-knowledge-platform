@@ -1,0 +1,37 @@
+{
+  "module_id": "LIF-020",
+  "title": "Active Commuting",
+  "subtitle": "Practical ways to understand and improve active commuting.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Daily Movement",
+  "som_stages": [
+    "Prevention",
+    "Behavior Change"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Urban Planners",
+    "Public Health Officials"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "active commuting",
+    "walking to work",
+    "cycling to school",
+    "physical activity",
+    "health benefits",
+    "safety",
+    "urban design",
+    "daily exercise",
+    "active transportation"
+  ],
+  "related_modules": [
+    "LIF-010-PhysicalActivityBasics",
+    "ENV-005-BuiltEnvironmentHealth",
+    "HLT-045-CardiovascularHealth"
+  ],
+  "evidence_strength": "Established evidence supporting health benefits with moderate evidence regarding safety and behavioral interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

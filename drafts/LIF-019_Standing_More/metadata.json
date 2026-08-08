@@ -1,0 +1,35 @@
+{
+  "module_id": "LIF-019",
+  "title": "Standing More",
+  "subtitle": "Practical ways to understand and improve standing more.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Daily Movement",
+  "som_stages": [
+    "Prevention",
+    "Wellness",
+    "Behavior Change"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Office Workers",
+    "Older Adults"
+  ],
+  "reading_level": "8th Grade",
+  "keywords": [
+    "standing",
+    "sedentary behavior",
+    "daily movement",
+    "posture",
+    "health benefits",
+    "physical activity"
+  ],
+  "related_modules": [
+    "LIF-005-Physical-Activity-Basics",
+    "LIF-021-Sedentary-Behavior-Reduction",
+    "LIF-030-Ergonomics-at-Work"
+  ],
+  "evidence_strength": "Established evidence with some emerging aspects for long-term outcomes",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

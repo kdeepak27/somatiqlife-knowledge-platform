@@ -1,0 +1,39 @@
+{
+  "module_id": "LIF-018",
+  "title": "Desk Work and Health",
+  "subtitle": "Practical ways to understand and improve desk work and health.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Daily Movement",
+  "som_stages": [
+    "Awareness",
+    "Behavioral Change",
+    "Maintenance"
+  ],
+  "audience": [
+    "General public",
+    "Office workers",
+    "Ergonomists",
+    "Healthcare providers",
+    "Health educators"
+  ],
+  "reading_level": "Intermediate, accessible to general adult audience",
+  "keywords": [
+    "Desk work",
+    "Sedentary behavior",
+    "Ergonomics",
+    "Physical activity",
+    "Musculoskeletal health",
+    "Posture",
+    "Sedentary risks",
+    "Workplace health",
+    "Movement breaks"
+  ],
+  "related_modules": [
+    "LIF-012",
+    "LIF-025",
+    "LIF-030"
+  ],
+  "evidence_strength": "Established evidence with some emerging aspects in workplace behavioral interventions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
