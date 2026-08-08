@@ -1,0 +1,35 @@
+{
+  "module_id": "LIF-073",
+  "title": "Online Comparison",
+  "subtitle": "Health effects, evidence, and practical boundaries related to online comparison.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Digital Lifestyle",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "General Audience",
+  "keywords": [
+    "online comparison",
+    "social comparison",
+    "digital behavior",
+    "mental health",
+    "self-esteem",
+    "social media",
+    "psychology"
+  ],
+  "related_modules": [
+    "LIF-021",
+    "MHL-034",
+    "PSY-056"
+  ],
+  "evidence_strength": "Moderate - based on observational studies with emerging experimental data",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

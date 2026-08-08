@@ -1,0 +1,36 @@
+{
+  "module_id": "LIF-071",
+  "title": "Blue Light Exposure",
+  "subtitle": "Health effects, evidence, and practical boundaries related to blue light exposure.",
+  "domain": "Lifestyle and Healthy Habits",
+  "category": "Digital Lifestyle",
+  "som_stages": [
+    "Wellness",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Consumers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "blue light",
+    "blue wavelength",
+    "digital screens",
+    "circadian rhythm",
+    "eye strain",
+    "melatonin",
+    "sleep disruption",
+    "phototoxicity",
+    "light exposure"
+  ],
+  "related_modules": [
+    "LIF-045",
+    "LIF-088",
+    "LIF-062"
+  ],
+  "evidence_strength": "Moderate evidence for circadian and sleep effects; emerging and inconclusive evidence for retinal damage and effectiveness of blue light blocking interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
