@@ -1,0 +1,38 @@
+{
+  "module_id": "STR-030",
+  "title": "Stress and the Gut",
+  "subtitle": "How stress and the gut are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stress",
+    "gut health",
+    "gut-brain axis",
+    "microbiome",
+    "digestion",
+    "mental health",
+    "cortisol",
+    "inflammation",
+    "IBS",
+    "psychosomatic"
+  ],
+  "related_modules": [
+    "STR-001",
+    "GI-025",
+    "MH-014"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

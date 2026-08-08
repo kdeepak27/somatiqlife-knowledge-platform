@@ -1,0 +1,39 @@
+{
+  "module_id": "STR-029",
+  "title": "Stress and Digestion",
+  "subtitle": "How stress and digestion are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "Prevention",
+    "Symptom Management",
+    "Wellness"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate - Accessible for educated laypersons and health professionals",
+  "keywords": [
+    "stress",
+    "digestion",
+    "gastrointestinal tract",
+    "brain-gut axis",
+    "cortisol",
+    "autonomic nervous system",
+    "gut motility",
+    "digestive enzymes",
+    "psychoneuroimmunology",
+    "irritable bowel syndrome",
+    "stress management"
+  ],
+  "related_modules": [
+    "STR-015",
+    "DIG-004",
+    "MNT-022"
+  ],
+  "evidence_strength": "Moderate: Strong physiological rationale and consistent clinical associations exist, though high-quality randomized controlled trials focusing on causality and treatment efficacy remain limited.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

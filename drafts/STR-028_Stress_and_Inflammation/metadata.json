@@ -1,0 +1,36 @@
+{
+  "module_id": "STR-028",
+  "title": "Stress and Inflammation",
+  "subtitle": "How stress and inflammation are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stress",
+    "inflammation",
+    "immune system",
+    "cytokines",
+    "HPA axis",
+    "chronic stress",
+    "mental health",
+    "inflammatory response"
+  ],
+  "related_modules": [
+    "STR-001",
+    "IMM-015",
+    "MHL-022"
+  ],
+  "evidence_strength": "Established with emerging nuances",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,39 @@
+{
+  "module_id": "STR-026",
+  "title": "Stress and Heart Health",
+  "subtitle": "How stress and heart health are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Health Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (8th-10th grade)",
+  "keywords": [
+    "Stress",
+    "Heart Health",
+    "Cardiovascular Disease",
+    "Mechanism",
+    "Physiology",
+    "Mental Health",
+    "Hypertension",
+    "Inflammation",
+    "Lifestyle",
+    "Stress Management"
+  ],
+  "related_modules": [
+    "STR-010",
+    "CVH-002",
+    "MH-005"
+  ],
+  "evidence_strength": "Moderate to strong evidence supports associations between stress and heart disease, but causality and intervention effects on clinical outcomes require further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

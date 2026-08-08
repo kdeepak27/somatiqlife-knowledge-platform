@@ -1,0 +1,35 @@
+{
+  "module_id": "STR-027",
+  "title": "Stress and Immunity",
+  "subtitle": "How stress and immunity are linked, including mechanisms, evidence, and practical relevance.",
+  "domain": "Stress and Mental Well-Being",
+  "category": "Stress and the Body",
+  "som_stages": [
+    "Prevention",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stress",
+    "immunity",
+    "immune system",
+    "psychoneuroimmunology",
+    "cortisol",
+    "inflammation",
+    "chronic stress"
+  ],
+  "related_modules": [
+    "STR-005",
+    "STR-012",
+    "IMM-003"
+  ],
+  "evidence_strength": "Established and emerging evidence supports stress-immune interactions with some knowledge gaps remaining.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
