@@ -1,0 +1,37 @@
+{
+  "module_id": "AGE-052",
+  "title": "Sleep and Brain Aging",
+  "subtitle": "Evidence and practical strategies related to sleep and brain aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Brain and Cognitive Aging",
+  "som_stages": [
+    "Midlife",
+    "Older Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep",
+    "brain aging",
+    "cognitive decline",
+    "neurodegeneration",
+    "circadian rhythms",
+    "sleep quality",
+    "slow-wave sleep",
+    "REM sleep",
+    "dementia risk",
+    "memory consolidation"
+  ],
+  "related_modules": [
+    "AGE-046",
+    "AGE-058",
+    "NEURO-027"
+  ],
+  "evidence_strength": "Moderate to strong evidence supports associations between sleep patterns and brain aging with some emerging evidence for efficacy of sleep interventions in improving cognitive outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

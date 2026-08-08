@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-055",
+  "title": "Hearing and Cognitive Health",
+  "subtitle": "Evidence and practical strategies related to hearing and cognitive health.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Brain and Cognitive Aging",
+  "som_stages": [
+    "Maintenance",
+    "Prevention",
+    "Early Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate (Health Literacy Level 6-8)",
+  "keywords": [
+    "Hearing Loss",
+    "Cognitive Decline",
+    "Dementia",
+    "Brain Health",
+    "Auditory Processing",
+    "Hearing Aids",
+    "Neuroplasticity",
+    "Aging",
+    "Cognitive Function",
+    "Sensory Health"
+  ],
+  "related_modules": [
+    "AGE-002",
+    "AGE-036",
+    "AGE-049"
+  ],
+  "evidence_strength": "Moderate - strong observational and emerging interventional evidence; limited randomized controlled data",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-051",
+  "title": "Exercise and Brain Aging",
+  "subtitle": "Evidence and practical strategies related to exercise and brain aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Brain and Cognitive Aging",
+  "som_stages": [
+    "Healthy Aging",
+    "Mild Cognitive Impairment",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "exercise",
+    "brain aging",
+    "cognitive function",
+    "neuroplasticity",
+    "physical activity",
+    "dementia prevention",
+    "brain health",
+    "aerobic exercise",
+    "resistance training"
+  ],
+  "related_modules": [
+    "AGE-032",
+    "AGE-054",
+    "NEU-006"
+  ],
+  "evidence_strength": "Established evidence supported by clinical trials and epidemiological studies with some emerging areas requiring further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

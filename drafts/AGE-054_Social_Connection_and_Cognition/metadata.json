@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-054",
+  "title": "Social Connection and Cognition",
+  "subtitle": "Evidence and practical strategies related to social connection and cognition.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Brain and Cognitive Aging",
+  "som_stages": [
+    "Maintenance",
+    "Early Decline",
+    "Mild Cognitive Impairment",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "social connection",
+    "social engagement",
+    "cognition",
+    "brain health",
+    "cognitive aging",
+    "loneliness",
+    "neuroplasticity",
+    "dementia prevention"
+  ],
+  "related_modules": [
+    "AGE-013 (Physical Activity and Brain Health)",
+    "AGE-032 (Nutrition and Cognitive Function)",
+    "AGE-047 (Mental Health and Aging)"
+  ],
+  "evidence_strength": "Moderate evidence from longitudinal epidemiological studies and emerging data from intervention trials support the influence of social connection on cognitive aging, though heterogeneity in study designs and measures complicates synthesis. Further high-quality randomized controlled trials are needed to clarify causality and optimize intervention approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
