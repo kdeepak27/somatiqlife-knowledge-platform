@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-115",
+  "title": "Driving and Aging",
+  "subtitle": "How driving and aging influences well-being and healthy aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Social and Emotional Aging",
+  "som_stages": [
+    "Late Adulthood",
+    "Healthy Aging"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "driving",
+    "aging",
+    "cognitive function",
+    "mobility",
+    "independence",
+    "senior drivers",
+    "reaction time",
+    "vision",
+    "safety",
+    "well-being"
+  ],
+  "related_modules": [
+    "AGE-101",
+    "AGE-117",
+    "PHYS-205"
+  ],
+  "evidence_strength": "Established and Moderate Evidence - Several well-conducted studies support many age-related impacts on driving, with some emerging evidence on interventions for prolonging safe driving.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

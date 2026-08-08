@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-111",
+  "title": "Resilience in Older Adults",
+  "subtitle": "How resilience in older adults influences well-being and healthy aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Social and Emotional Aging",
+  "som_stages": [
+    "Late Adulthood",
+    "Aging and Wellness",
+    "Psychosocial Adaptation"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Professionals",
+    "Gerontologists",
+    "Social Workers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Resilience",
+    "Older Adults",
+    "Healthy Aging",
+    "Psychological Resilience",
+    "Social Support",
+    "Coping Skills",
+    "Well-being",
+    "Longevity"
+  ],
+  "related_modules": [
+    "AGE-102",
+    "MHL-205",
+    "SOC-310"
+  ],
+  "evidence_strength": "Moderate evidence supports the role of psychological, social, and physiological factors in resilience among older adults, with emerging data on effective interventions. Limitations include variability in definitions and the need for more longitudinal and experimental studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

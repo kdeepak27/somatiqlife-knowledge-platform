@@ -1,0 +1,39 @@
+{
+  "module_id": "AGE-113",
+  "title": "Anxiety in Older Adults",
+  "subtitle": "How anxiety in older adults influences well-being and healthy aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Social and Emotional Aging",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "Older adults",
+    "Caregivers",
+    "Healthcare providers",
+    "Mental health professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "anxiety",
+    "older adults",
+    "mental health",
+    "healthy aging",
+    "emotional well-being",
+    "geriatric anxiety",
+    "social aging",
+    "psychology",
+    "stress",
+    "aging"
+  ],
+  "related_modules": [
+    "AGE-105",
+    "MENT-210",
+    "SOC-312"
+  ],
+  "evidence_strength": "Moderate - Supported by clinical guidelines, meta-analyses, and emerging research in geriatric psychiatry and neurology.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
