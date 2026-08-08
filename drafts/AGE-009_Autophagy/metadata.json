@@ -1,0 +1,40 @@
+{
+  "module_id": "AGE-009",
+  "title": "Autophagy",
+  "subtitle": "Science, evidence, and practical implications of autophagy.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Healthy Aging Foundations",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Optimization"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare consumers",
+    "Health coaches",
+    "Researchers",
+    "Healthcare professionals"
+  ],
+  "reading_level": "Intermediate (Grade 10-12)",
+  "keywords": [
+    "autophagy",
+    "cellular recycling",
+    "aging",
+    "longevity",
+    "cellular health",
+    "lysosomes",
+    "fasting",
+    "mitophagy",
+    "protein turnover",
+    "cell homeostasis"
+  ],
+  "related_modules": [
+    "AGE-005",
+    "NUT-021",
+    "NEU-013"
+  ],
+  "evidence_strength": "Established evidence derived from animal studies and emerging human observational data, with ongoing research in clinical applications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-010",
+  "title": "Proteostasis",
+  "subtitle": "Science, evidence, and practical implications of proteostasis.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Healthy Aging Foundations",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Optimization"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "proteostasis",
+    "protein homeostasis",
+    "protein quality control",
+    "protein folding",
+    "aging",
+    "chaperones",
+    "ubiquitin-proteasome system",
+    "autophagy",
+    "neurodegeneration",
+    "healthy aging"
+  ],
+  "related_modules": [
+    "AGE-011",
+    "NEU-005",
+    "NUT-003"
+  ],
+  "evidence_strength": "Established evidence with emerging clinical research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
