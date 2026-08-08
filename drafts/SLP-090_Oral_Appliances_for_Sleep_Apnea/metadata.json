@@ -1,0 +1,40 @@
+{
+  "module_id": "SLP-090",
+  "title": "Oral Appliances for Sleep Apnea",
+  "subtitle": "Definitions, symptoms, evaluation, management, safety, and evidence related to oral appliances for sleep apnea.",
+  "domain": "Sleep",
+  "category": "Sleep Problems and Disorders",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers",
+    "Dentists",
+    "Sleep Specialists"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "Obstructive sleep apnea",
+    "OSA",
+    "oral appliances",
+    "mandibular advancement device",
+    "sleep disorder treatment",
+    "sleep apnea symptoms",
+    "sleep apnea evaluation",
+    "oral splints",
+    "sleep breathing disorder",
+    "CPAP alternative"
+  ],
+  "related_modules": [
+    "SLP-030",
+    "SLP-065",
+    "SLP-095"
+  ],
+  "evidence_strength": "Moderate evidence based on systematic reviews and clinical guidelines supports oral appliances as effective treatment for mild to moderate obstructive sleep apnea, with better compliance but lower efficacy compared to CPAP.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

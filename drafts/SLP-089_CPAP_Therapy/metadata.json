@@ -1,0 +1,40 @@
+{
+  "module_id": "SLP-089",
+  "title": "CPAP Therapy",
+  "subtitle": "Definitions, symptoms, evaluation, management, safety, and evidence related to CPAP therapy.",
+  "domain": "Sleep",
+  "category": "Sleep Problems and Disorders",
+  "som_stages": [
+    "Awareness",
+    "Evaluation",
+    "Management",
+    "Maintenance"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers",
+    "Sleep Specialists"
+  ],
+  "reading_level": "7th-9th Grade",
+  "keywords": [
+    "CPAP",
+    "Continuous Positive Airway Pressure",
+    "Sleep Apnea",
+    "Obstructive Sleep Apnea",
+    "Sleep Disorder",
+    "Treatment",
+    "Respiratory Therapy",
+    "Sleep Quality",
+    "Compliance",
+    "Side Effects"
+  ],
+  "related_modules": [
+    "SLP-045",
+    "SLP-053",
+    "SLP-078"
+  ],
+  "evidence_strength": "Established evidence supports CPAP therapy as an effective and safe treatment for moderate to severe obstructive sleep apnea, with numerous randomized controlled trials and meta-analyses confirming sleep quality and cardiovascular benefits. Some emerging evidence investigates CPAP impacts on metabolic health and long-term outcomes that require further study.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

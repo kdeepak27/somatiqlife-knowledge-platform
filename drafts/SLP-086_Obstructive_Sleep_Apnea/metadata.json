@@ -1,0 +1,40 @@
+{
+  "module_id": "SLP-086",
+  "title": "Obstructive Sleep Apnea",
+  "subtitle": "Definitions, symptoms, evaluation, management, safety, and evidence related to obstructive sleep apnea.",
+  "domain": "Sleep",
+  "category": "Sleep Problems and Disorders",
+  "som_stages": [
+    "Recognition",
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Primary Care Providers",
+    "Sleep Specialists",
+    "Allied Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Obstructive Sleep Apnea",
+    "OSA",
+    "Sleep-disordered Breathing",
+    "Apnea",
+    "Hypopnea",
+    "CPAP",
+    "Sleep Apnea Symptoms",
+    "Sleep Apnea Diagnosis",
+    "Sleep Apnea Treatment"
+  ],
+  "related_modules": [
+    "SLP-004",
+    "SLP-092",
+    "SLP-055"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and CPAP management; emerging evidence for alternative therapies and surgical interventions; moderate evidence on lifestyle modifications; safety and long-term risks well documented.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
