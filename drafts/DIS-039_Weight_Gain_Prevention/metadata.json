@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-039",
+  "title": "Weight Gain Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to weight gain prevention.",
+  "domain": "Disease Prevention",
+  "category": "Metabolic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "weight gain",
+    "prevention",
+    "risk factors",
+    "screening",
+    "metabolic health",
+    "nutrition",
+    "physical activity",
+    "obesity prevention"
+  ],
+  "related_modules": [
+    "DIS-025",
+    "DIS-042",
+    "DIS-058"
+  ],
+  "evidence_strength": "Established evidence supports lifestyle interventions (diet, exercise, sleep) for weight gain prevention; moderate emerging evidence on the role of stress and medication effects; limitations exist due to individual variability and environmental factors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

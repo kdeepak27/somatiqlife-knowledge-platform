@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-040",
+  "title": "Muscle and Metabolic Health",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to muscle and metabolic health.",
+  "domain": "Disease Prevention",
+  "category": "Metabolic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "muscle health",
+    "metabolic health",
+    "sarcopenia",
+    "insulin resistance",
+    "type 2 diabetes prevention",
+    "physical activity",
+    "nutrition",
+    "screening",
+    "metabolic syndrome"
+  ],
+  "related_modules": [
+    "DIS-035: Nutrition and Metabolic Health",
+    "DIS-041: Physical Activity and Chronic Disease Prevention",
+    "DIS-050: Aging and Muscle Function"
+  ],
+  "evidence_strength": "Established evidence for the benefits of physical activity and nutrition on muscle and metabolic health; moderate evidence for emerging biomarkers and screening tools; some areas require further research especially in diverse populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

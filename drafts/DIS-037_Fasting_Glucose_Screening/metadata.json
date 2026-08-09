@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-037",
+  "title": "Fasting Glucose Screening",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to fasting glucose screening.",
+  "domain": "Disease Prevention",
+  "category": "Metabolic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Primary Care Providers",
+    "Nurses",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "fasting glucose",
+    "blood sugar",
+    "diabetes screening",
+    "prediabetes",
+    "metabolic health",
+    "glucose metabolism",
+    "fasting blood sugar",
+    "hyperglycemia"
+  ],
+  "related_modules": [
+    "DIS-038",
+    "DIS-042",
+    "MET-019"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and large population studies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
