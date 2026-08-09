@@ -1,0 +1,36 @@
+{
+  "module_id": "WOM-022",
+  "title": "Menstrual Migraines",
+  "subtitle": "Definitions, common causes, evidence-based management, and safety related to menstrual migraines.",
+  "domain": "Women's Health",
+  "category": "Menstrual Health",
+  "som_stages": [
+    "Recognition",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Educators",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "Menstrual migraines",
+    "Hormonal migraine",
+    "Migraine management",
+    "Menstrual cycle",
+    "Estrogen withdrawal",
+    "Headache",
+    "NSAIDs",
+    "Triptans"
+  ],
+  "related_modules": [
+    "WOM-015_Migraine Basics",
+    "WOM-028_Hormonal Health",
+    "WOM-034_Headache Disorders"
+  ],
+  "evidence_strength": "Established Evidence for treatments including NSAIDs and triptans; Moderate Evidence for hormonal therapies; Emerging Evidence for non-pharmacologic interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

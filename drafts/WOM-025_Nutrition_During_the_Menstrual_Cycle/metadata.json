@@ -1,0 +1,39 @@
+{
+  "module_id": "WOM-025",
+  "title": "Nutrition During the Menstrual Cycle",
+  "subtitle": "Definitions, common causes, evidence-based management, and safety related to nutrition during the menstrual cycle.",
+  "domain": "Women's Health",
+  "category": "Menstrual Health",
+  "som_stages": [
+    "Menstrual",
+    "Follicular",
+    "Ovulation",
+    "Luteal"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "nutrition",
+    "menstrual cycle",
+    "menstruation",
+    "hormones",
+    "diet",
+    "iron",
+    "cramps",
+    "PMS",
+    "hydration",
+    "micronutrients"
+  ],
+  "related_modules": [
+    "WOM-002-Menstrual-Disorders",
+    "WOM-018-Preconception-Nutrition",
+    "WOM-030-Hormonal-Health"
+  ],
+  "evidence_strength": "Established evidence supports iron supplementation and hydration; moderate evidence for magnesium and vitamin B6 in PMS management; emerging evidence for omega-3 fatty acids; limitations include variability and need for further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

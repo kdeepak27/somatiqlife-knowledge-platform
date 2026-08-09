@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-023",
+  "title": "Iron Deficiency and Menstruation",
+  "subtitle": "Definitions, common causes, evidence-based management, and safety related to iron deficiency and menstruation.",
+  "domain": "Women's Health",
+  "category": "Menstrual Health",
+  "som_stages": [
+    "Pre-menstruation",
+    "Menstruation",
+    "Post-menstruation"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Women’s Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Iron deficiency",
+    "Menstruation",
+    "Anemia",
+    "Iron deficiency anemia",
+    "Menstrual bleeding",
+    "Menstrual health",
+    "Iron supplementation",
+    "Dietary iron"
+  ],
+  "related_modules": [
+    "WOM-010",
+    "WOM-018",
+    "WOM-030"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights warranting further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-021",
+  "title": "Premenstrual Dysphoric Disorder",
+  "subtitle": "Definitions, common causes, evidence-based management, and safety related to premenstrual dysphoric disorder.",
+  "domain": "Women's Health",
+  "category": "Menstrual Health",
+  "som_stages": [
+    "Menstrual Cycle",
+    "Mental Health",
+    "Reproductive Health"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Accessible to general audience with some medical terms explained",
+  "keywords": [
+    "Premenstrual Dysphoric Disorder",
+    "PMDD",
+    "Premenstrual Syndrome",
+    "PMS",
+    "Menstrual Cycle",
+    "Mood Disorders",
+    "Hormonal Fluctuations",
+    "SSRIs",
+    "Cognitive Behavioral Therapy"
+  ],
+  "related_modules": [
+    "WOM-015-MenstrualCyclePhysiology",
+    "WOM-018-PremenstrualSyndrome",
+    "WOM-029-MentalHealthAndHormones"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and SSRI treatment; moderate evidence for hormonal therapy and CBT; emerging evidence on neurobiological mechanisms; variable evidence quality for lifestyle interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

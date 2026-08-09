@@ -1,0 +1,39 @@
+{
+  "module_id": "WOM-024",
+  "title": "Exercise During the Menstrual Cycle",
+  "subtitle": "Definitions, common causes, evidence-based management, and safety related to exercise during the menstrual cycle.",
+  "domain": "Women's Health",
+  "category": "Menstrual Health",
+  "som_stages": [
+    "Menstruation",
+    "Follicular Phase",
+    "Ovulation",
+    "Luteal Phase"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Fitness Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Exercise",
+    "Menstrual Cycle",
+    "Menstruation",
+    "Hormones",
+    "Physical Activity",
+    "Women's Health",
+    "Cycle Phases",
+    "Premenstrual Syndrome",
+    "Menstrual Symptoms",
+    "Safety"
+  ],
+  "related_modules": [
+    "WOM-010 Menstrual Cycle Physiology",
+    "WOM-030 Female Athlete Health",
+    "WOM-018 Hormonal Influences on Physical Performance"
+  ],
+  "evidence_strength": "Mixed Evidence: Strong evidence supports exercise benefits for symptom relief; Emerging evidence exists for cycle phase-specific performance and injury risks; Limitations due to variability and sample size in research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
