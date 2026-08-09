@@ -1,0 +1,35 @@
+{
+  "module_id": "WOM-103",
+  "title": "Alcohol and Breast Cancer Risk",
+  "subtitle": "Risk reduction, screening, evidence, and practical considerations for alcohol and breast cancer risk.",
+  "domain": "Women's Health",
+  "category": "Cancer and Screening",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "General Public",
+    "Women at Risk",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Alcohol Consumption",
+    "Breast Cancer",
+    "Risk Factors",
+    "Screening",
+    "Prevention",
+    "Epidemiology",
+    "Carcinogenesis"
+  ],
+  "related_modules": [
+    "WOM-102",
+    "WOM-105",
+    "CAN-201"
+  ],
+  "evidence_strength": "Established evidence from observational epidemiology complemented by emerging mechanistic studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
