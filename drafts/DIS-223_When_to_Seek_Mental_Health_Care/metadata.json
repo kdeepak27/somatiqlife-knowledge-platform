@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-223",
+  "title": "When to Seek Mental Health Care",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to when to seek mental health care.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Accessible to general adult readers",
+  "keywords": [
+    "mental health",
+    "mental illness",
+    "screening",
+    "risk factors",
+    "prevention",
+    "psychological distress",
+    "therapy",
+    "crisis",
+    "psychiatric evaluation",
+    "self-care"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-205",
+    "DIS-310"
+  ],
+  "evidence_strength": "Established evidence with some emerging data on telehealth modalities",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

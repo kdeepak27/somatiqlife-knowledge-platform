@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-221",
+  "title": "Healthy Coping Skills",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to healthy coping skills.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Health Promotion"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals",
+    "Educators"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "Coping skills",
+    "Stress management",
+    "Resilience",
+    "Mental health",
+    "Emotional regulation",
+    "Healthy behaviors",
+    "Substance abuse prevention",
+    "Mindfulness",
+    "Cognitive behavioral techniques"
+  ],
+  "related_modules": [
+    "DIS-118_Mental_Resilience",
+    "DIS-202_Stress_Management",
+    "DIS-190_Substance_Use_Prevention"
+  ],
+  "evidence_strength": "Established evidence supporting most coping techniques with growing evidence for mindfulness and community-based interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
