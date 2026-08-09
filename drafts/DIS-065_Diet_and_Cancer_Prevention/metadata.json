@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-065",
+  "title": "Diet and Cancer Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to diet and cancer prevention.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "diet",
+    "cancer prevention",
+    "nutritional risk factors",
+    "screening",
+    "antioxidants",
+    "fiber",
+    "cancer risk",
+    "nutrients",
+    "plant-based diet",
+    "processed meat"
+  ],
+  "related_modules": [
+    "DIS-010",
+    "DIS-034",
+    "DIS-072"
+  ],
+  "evidence_strength": "Mixed: Established evidence for processed meat and alcohol; moderate evidence for fruits, vegetables, and fiber; emerging evidence for specific phytochemicals and supplements.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

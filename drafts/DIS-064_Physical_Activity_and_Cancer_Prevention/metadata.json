@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-064",
+  "title": "Physical Activity and Cancer Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to physical activity and cancer prevention.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Health Promotion"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "High School to College",
+  "keywords": [
+    "Physical Activity",
+    "Exercise",
+    "Cancer Prevention",
+    "Risk Reduction",
+    "Cancer Screening",
+    "Lifestyle",
+    "Mechanisms",
+    "Safety",
+    "Limitations",
+    "Evidence"
+  ],
+  "related_modules": [
+    "DIS-032_Cancer-Screening",
+    "DIS-057_Lifestyle-Interventions-Cancer",
+    "DIS-045_Obesity-and-Cancer-Risk"
+  ],
+  "evidence_strength": "Established evidence for risk reduction in breast, colon, and endometrial cancers; emerging evidence for other cancers; limitations due to observational data predominance and measurement variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

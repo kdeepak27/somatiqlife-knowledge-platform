@@ -1,0 +1,33 @@
+{
+  "module_id": "DIS-062",
+  "title": "Alcohol and Cancer Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to alcohol and cancer risk.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Alcohol use",
+    "Cancer risk",
+    "Carcinogenesis",
+    "Prevention",
+    "Screening",
+    "Ethanol",
+    "Acetaldehyde"
+  ],
+  "related_modules": [
+    "DIS-043 - Tobacco and Cancer Risk",
+    "DIS-089 - Breast Cancer Screening and Prevention",
+    "DIS-007 - Liver Disease and Cancer Risk"
+  ],
+  "evidence_strength": "Strong evidence from epidemiological studies and biochemical research supports the causal link between alcohol use and cancer risk. Genetic studies further elucidate individual susceptibility. Limitations include observational study constraints and need for ongoing research on modifiers.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
