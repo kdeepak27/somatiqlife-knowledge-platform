@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-093",
+  "title": "Breast Self-Awareness",
+  "subtitle": "Risk reduction, screening, evidence, and practical considerations for breast self-awareness.",
+  "domain": "Women's Health",
+  "category": "Cancer and Screening",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Women",
+    "Healthcare Providers"
+  ],
+  "reading_level": "High School to General Adult",
+  "keywords": [
+    "Breast Self-Awareness",
+    "Breast Cancer",
+    "Breast Health",
+    "Screening",
+    "Risk Reduction",
+    "Breast Changes",
+    "Self-Examination",
+    "Mammography",
+    "Breast Symptoms",
+    "Early Detection"
+  ],
+  "related_modules": [
+    "WOM-015",
+    "WOM-060",
+    "CAN-013"
+  ],
+  "evidence_strength": "Established evidence supports breast self-awareness as a valuable adjunct to clinical screening but does not support breast self-examination as a mortality-reducing intervention. Emerging evidence clarifies the physiological basis of breast tissue variability aiding interpretation of self-awareness.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

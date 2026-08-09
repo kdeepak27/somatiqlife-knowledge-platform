@@ -1,0 +1,35 @@
+{
+  "module_id": "WOM-091",
+  "title": "Breast Cancer Risk",
+  "subtitle": "Risk reduction, screening, evidence, and practical considerations for breast cancer risk.",
+  "domain": "Women's Health",
+  "category": "Cancer and Screening",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "Breast cancer",
+    "Risk factors",
+    "Screening",
+    "Mammography",
+    "Genetics",
+    "Lifestyle",
+    "Early detection"
+  ],
+  "related_modules": [
+    "GEN-012: Hereditary Cancer Syndromes",
+    "WOM-045: Mammography Screening Guidelines",
+    "LIFEST-032: Lifestyle and Cancer Prevention"
+  ],
+  "evidence_strength": "Established evidence with some areas of moderate and emerging evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

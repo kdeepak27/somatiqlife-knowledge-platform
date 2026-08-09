@@ -1,0 +1,35 @@
+{
+  "module_id": "WOM-094",
+  "title": "Dense Breasts",
+  "subtitle": "Risk reduction, screening, evidence, and practical considerations for dense breasts.",
+  "domain": "Women's Health",
+  "category": "Cancer and Screening",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Diagnosis"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "dense breasts",
+    "breast density",
+    "breast cancer",
+    "mammography",
+    "breast screening",
+    "risk reduction",
+    "breast tissue"
+  ],
+  "related_modules": [
+    "WOM-089_Breast_Cancer_Risk_Factors",
+    "WOM-091_Breast_Cancer_Screening_Methods",
+    "WOM-096_Hormones_and_Breast_Health"
+  ],
+  "evidence_strength": "Established evidence with some moderate and emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
