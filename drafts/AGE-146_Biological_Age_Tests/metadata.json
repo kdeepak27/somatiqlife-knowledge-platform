@@ -1,0 +1,40 @@
+{
+  "module_id": "AGE-146",
+  "title": "Biological Age Tests",
+  "subtitle": "What evidence supports biological age tests, what remains uncertain, and practical implications.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Longevity and Evidence",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Intervention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "biological age",
+    "biomarkers",
+    "epigenetic clocks",
+    "aging tests",
+    "longevity",
+    "healthspan",
+    "DNA methylation",
+    "telomeres",
+    "physiological aging",
+    "oxidative stress"
+  ],
+  "related_modules": [
+    "AGE-102",
+    "GEN-215",
+    "LON-098",
+    "MET-133"
+  ],
+  "evidence_strength": "Moderate evidence supports the validity of biological age tests in predicting health outcomes; however, standardization and large-scale validation in diverse populations remain ongoing.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
