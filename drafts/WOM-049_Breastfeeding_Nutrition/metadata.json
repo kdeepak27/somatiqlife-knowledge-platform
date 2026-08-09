@@ -1,0 +1,34 @@
+{
+  "module_id": "WOM-049",
+  "title": "Breastfeeding Nutrition",
+  "subtitle": "Evidence-based information, recovery, and safety related to breastfeeding nutrition.",
+  "domain": "Women's Health",
+  "category": "Postpartum and Parenting",
+  "som_stages": [
+    "Postpartum"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "breastfeeding",
+    "lactation",
+    "nutrition",
+    "infant feeding",
+    "milk production",
+    "breast milk composition",
+    "maternal diet",
+    "postpartum recovery"
+  ],
+  "related_modules": [
+    "WOM-042_Lactation Physiology",
+    "WOM-051_Postpartum Recovery",
+    "PED-033_Infant Nutrition"
+  ],
+  "evidence_strength": "Established evidence with some moderate to emerging insights on specific nutrient impacts",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

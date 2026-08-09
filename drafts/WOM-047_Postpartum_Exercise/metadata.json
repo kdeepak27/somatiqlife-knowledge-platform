@@ -1,0 +1,40 @@
+{
+  "module_id": "WOM-047",
+  "title": "Postpartum Exercise",
+  "subtitle": "Evidence-based information, recovery, and safety related to postpartum exercise.",
+  "domain": "Women's Health",
+  "category": "Postpartum and Parenting",
+  "som_stages": [
+    "Postpartum Recovery",
+    "Early Motherhood",
+    "Physical Rehabilitation"
+  ],
+  "audience": [
+    "Postpartum Women",
+    "Healthcare Providers",
+    "Physical Therapists",
+    "Fitness Trainers",
+    "Health Educators"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "postpartum exercise",
+    "postnatal fitness",
+    "pelvic floor recovery",
+    "postpartum weight loss",
+    "postnatal physical activity",
+    "exercise safety postpartum",
+    "abdominal separation",
+    "diastasis recti",
+    "maternal health",
+    "pregnancy recovery"
+  ],
+  "related_modules": [
+    "WOM-034 Pregnancy Exercise Guidelines",
+    "WOM-052 Pelvic Floor Rehabilitation",
+    "WOM-060 Postpartum Mental Health"
+  ],
+  "evidence_strength": "Moderate evidence supports benefits of postpartum exercise with recommendations based on clinical guidelines and systematic reviews. Emerging research is clarifying optimal exercise types and timing, though variability in individual circumstances requires personalized adjustments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

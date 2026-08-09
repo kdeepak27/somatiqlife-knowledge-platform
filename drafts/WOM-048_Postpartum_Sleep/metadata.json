@@ -1,0 +1,35 @@
+{
+  "module_id": "WOM-048",
+  "title": "Postpartum Sleep",
+  "subtitle": "Evidence-based information, recovery, and safety related to postpartum sleep.",
+  "domain": "Women's Health",
+  "category": "Postpartum and Parenting",
+  "som_stages": [
+    "Postpartum"
+  ],
+  "audience": [
+    "New mothers",
+    "Family caregivers",
+    "Healthcare providers",
+    "Patient educators"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "postpartum sleep",
+    "new mother sleep",
+    "maternal sleep patterns",
+    "infant sleep impact",
+    "postnatal recovery",
+    "sleep deprivation",
+    "sleep hygiene",
+    "breastfeeding and sleep"
+  ],
+  "related_modules": [
+    "WOM-005",
+    "WOM-027",
+    "WOM-061"
+  ],
+  "evidence_strength": "Established evidence with some areas of emerging research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

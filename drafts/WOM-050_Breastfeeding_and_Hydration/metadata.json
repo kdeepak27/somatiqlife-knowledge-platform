@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-050",
+  "title": "Breastfeeding and Hydration",
+  "subtitle": "Evidence-based information, recovery, and safety related to breastfeeding and hydration.",
+  "domain": "Women's Health",
+  "category": "Postpartum and Parenting",
+  "som_stages": [
+    "Postpartum Recovery",
+    "Infant Nutrition"
+  ],
+  "audience": [
+    "Breastfeeding Mothers",
+    "Healthcare Providers",
+    "Lactation Consultants",
+    "Family Members"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "breastfeeding",
+    "hydration",
+    "lactation",
+    "postpartum health",
+    "fluid intake",
+    "milk production",
+    "maternal health",
+    "infant hydration",
+    "dehydration",
+    "breast milk"
+  ],
+  "related_modules": [
+    "WOM-012",
+    "WOM-033",
+    "PED-008"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas needing further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
