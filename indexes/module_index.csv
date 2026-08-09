@@ -29,6 +29,56 @@ DIS-027,Preventing Type 2 Diabetes,Disease Prevention,Metabolic Prevention,1.0,d
 DIS-028,Preventing Insulin Resistance,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-028_Preventing_Insulin_Resistance/module.json
 DIS-029,Preventing Metabolic Syndrome,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-029_Preventing_Metabolic_Syndrome/module.json
 DIS-030,Preventing Obesity,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-030_Preventing_Obesity/module.json
+DIS-031,Preventing Abdominal Obesity,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-031_Preventing_Abdominal_Obesity/module.json
+DIS-032,Preventing Fatty Liver Disease,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-032_Preventing_Fatty_Liver_Disease/module.json
+DIS-033,Preventing Gout,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-033_Preventing_Gout/module.json
+DIS-034,Preventing Hyperuricemia,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-034_Preventing_Hyperuricemia/module.json
+DIS-035,Preventing Metabolic Complications,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-035_Preventing_Metabolic_Complications/module.json
+DIS-036,HbA1c Screening,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-036_HbA1c_Screening/module.json
+DIS-037,Fasting Glucose Screening,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-037_Fasting_Glucose_Screening/module.json
+DIS-038,Waist Circumference and Risk,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-038_Waist_Circumference_and_Risk/module.json
+DIS-039,Weight Gain Prevention,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-039_Weight_Gain_Prevention/module.json
+DIS-040,Muscle and Metabolic Health,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-040_Muscle_and_Metabolic_Health/module.json
+DIS-041,Walking and Diabetes Prevention,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-041_Walking_and_Diabetes_Prevention/module.json
+DIS-042,Resistance Training and Diabetes Prevention,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-042_Resistance_Training_and_Diabetes_Prevention/module.json
+DIS-043,Fiber and Diabetes Prevention,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-043_Fiber_and_Diabetes_Prevention/module.json
+DIS-044,Protein and Weight Management,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-044_Protein_and_Weight_Management/module.json
+DIS-045,Sleep and Diabetes Prevention,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-045_Sleep_and_Diabetes_Prevention/module.json
+DIS-046,Stress and Diabetes Risk,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-046_Stress_and_Diabetes_Risk/module.json
+DIS-047,Sugary Drinks and Metabolic Risk,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-047_Sugary_Drinks_and_Metabolic_Risk/module.json
+DIS-048,Alcohol and Metabolic Health,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-048_Alcohol_and_Metabolic_Health/module.json
+DIS-049,South Asian Diabetes Risk,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-049_South_Asian_Diabetes_Risk/module.json
+DIS-050,Building a Metabolic Prevention Plan,Disease Prevention,Metabolic Prevention,1.0,drafts,drafts/DIS-050_Building_a_Metabolic_Prevention_Plan/module.json
+DIS-051,Reducing Overall Cancer Risk,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-051_Reducing_Overall_Cancer_Risk/module.json
+DIS-052,Lung Cancer Prevention,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-052_Lung_Cancer_Prevention/module.json
+DIS-053,Colorectal Cancer Prevention,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-053_Colorectal_Cancer_Prevention/module.json
+DIS-054,Breast Cancer Risk Reduction,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-054_Breast_Cancer_Risk_Reduction/module.json
+DIS-055,Prostate Cancer Risk Reduction,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-055_Prostate_Cancer_Risk_Reduction/module.json
+DIS-056,Skin Cancer Prevention,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-056_Skin_Cancer_Prevention/module.json
+DIS-057,Liver Cancer Prevention,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-057_Liver_Cancer_Prevention/module.json
+DIS-058,Stomach Cancer Risk Reduction,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-058_Stomach_Cancer_Risk_Reduction/module.json
+DIS-059,Cervical Cancer Prevention,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-059_Cervical_Cancer_Prevention/module.json
+DIS-060,Oral Cancer Prevention,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-060_Oral_Cancer_Prevention/module.json
+DIS-061,Smoking and Cancer,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-061_Smoking_and_Cancer/module.json
+DIS-062,Alcohol and Cancer Risk,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-062_Alcohol_and_Cancer_Risk/module.json
+DIS-063,Body Weight and Cancer Risk,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-063_Body_Weight_and_Cancer_Risk/module.json
+DIS-064,Physical Activity and Cancer Prevention,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-064_Physical_Activity_and_Cancer_Prevention/module.json
+DIS-065,Diet and Cancer Prevention,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-065_Diet_and_Cancer_Prevention/module.json
+DIS-066,Fiber and Colorectal Cancer,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-066_Fiber_and_Colorectal_Cancer/module.json
+DIS-067,Processed Meat and Cancer Risk,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-067_Processed_Meat_and_Cancer_Risk/module.json
+DIS-068,Sun Protection,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-068_Sun_Protection/module.json
+DIS-069,HPV Vaccination,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-069_HPV_Vaccination/module.json
+DIS-070,Hepatitis B Vaccination and Liver Cancer,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-070_Hepatitis_B_Vaccination_and_Liver_Cancer/module.json
+DIS-071,Cancer Screening Principles,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-071_Cancer_Screening_Principles/module.json
+DIS-072,Family History and Cancer Risk,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-072_Family_History_and_Cancer_Risk/module.json
+DIS-073,Genetic Cancer Risk,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-073_Genetic_Cancer_Risk/module.json
+DIS-074,Environmental Carcinogens,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-074_Environmental_Carcinogens/module.json
+DIS-075,Building a Cancer Prevention Plan,Disease Prevention,Cancer Prevention,1.0,drafts,drafts/DIS-075_Building_a_Cancer_Prevention_Plan/module.json
+DIS-076,Reducing Dementia Risk,Disease Prevention,Brain and Neurologic Prevention,1.0,drafts,drafts/DIS-076_Reducing_Dementia_Risk/module.json
+DIS-077,Reducing Alzheimer Disease Risk,Disease Prevention,Brain and Neurologic Prevention,1.0,drafts,drafts/DIS-077_Reducing_Alzheimer_Disease_Risk/module.json
+DIS-078,Reducing Vascular Dementia Risk,Disease Prevention,Brain and Neurologic Prevention,1.0,drafts,drafts/DIS-078_Reducing_Vascular_Dementia_Risk/module.json
+DIS-079,Stroke and Brain Health,Disease Prevention,Brain and Neurologic Prevention,1.0,drafts,drafts/DIS-079_Stroke_and_Brain_Health/module.json
+DIS-080,Blood Pressure and Dementia Risk,Disease Prevention,Brain and Neurologic Prevention,1.0,drafts,drafts/DIS-080_Blood_Pressure_and_Dementia_Risk/module.json
 BIO-001,What Is Health?,Human Biology,Health Foundations,1.0,approved,approved/BIO-001_What_Is_Health/module.json
 BIO-002,The Human Body as an Integrated System,Human Biology,Systems Biology,1.0,approved,approved/BIO-002_The_Human_Body_as_an_Integrated_System/module.json
 BIO-003,Levels of Biological Organization,Human Biology,Foundational Biology,1.0,approved,approved/BIO-003_Levels_of_Biological_Organization/module.json
