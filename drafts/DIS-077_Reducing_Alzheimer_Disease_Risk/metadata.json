@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-077",
+  "title": "Reducing Alzheimer Disease Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to reducing Alzheimer disease risk.",
+  "domain": "Disease Prevention",
+  "category": "Brain and Neurologic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early detection",
+    "Risk modification"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare providers",
+    "Caregivers",
+    "Researchers"
+  ],
+  "reading_level": "Moderate (general audience with some scientific terminology)",
+  "keywords": [
+    "Alzheimer disease",
+    "Dementia prevention",
+    "Risk factors",
+    "Cognitive decline",
+    "Screening",
+    "Lifestyle intervention",
+    "Genetics",
+    "Brain health"
+  ],
+  "related_modules": [
+    "DIS-032-Dementia-Overview",
+    "DIS-045-Cardiovascular-Health-Prevention",
+    "DIS-061-Cognitive-Training-Interventions"
+  ],
+  "evidence_strength": "Established evidence for the role of cardiovascular risk management and physical activity; moderate to emerging evidence for diet and cognitive engagement; uncertain evidence for supplements and medications in prevention.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

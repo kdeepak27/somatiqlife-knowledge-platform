@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-078",
+  "title": "Reducing Vascular Dementia Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to reducing vascular dementia risk.",
+  "domain": "Disease Prevention",
+  "category": "Brain and Neurologic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Risk Assessment",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "vascular dementia",
+    "dementia prevention",
+    "cognitive decline",
+    "stroke",
+    "risk factors",
+    "brain health",
+    "vascular disease",
+    "lifestyle modification"
+  ],
+  "related_modules": [
+    "DIS-010",
+    "DIS-056",
+    "DIS-090"
+  ],
+  "evidence_strength": "Established evidence supported by multiple high-quality studies; ongoing research addresses remaining uncertainties.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

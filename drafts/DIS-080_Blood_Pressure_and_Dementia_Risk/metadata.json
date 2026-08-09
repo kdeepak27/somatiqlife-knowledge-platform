@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-080",
+  "title": "Blood Pressure and Dementia Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to blood pressure and dementia risk.",
+  "domain": "Disease Prevention",
+  "category": "Brain and Neurologic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Management"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Blood pressure",
+    "Hypertension",
+    "Dementia",
+    "Cognitive decline",
+    "Risk factors",
+    "Brain health",
+    "Alzheimer's disease",
+    "Vascular dementia"
+  ],
+  "related_modules": [
+    "DIS-021",
+    "DIS-047",
+    "DIS-065"
+  ],
+  "evidence_strength": "Established evidence from epidemiological studies and clinical trials supports the association between blood pressure control and reduced dementia risk. Some emerging evidence indicates the neuroprotective potential of certain antihypertensive classes. Ongoing research is refining optimal management strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

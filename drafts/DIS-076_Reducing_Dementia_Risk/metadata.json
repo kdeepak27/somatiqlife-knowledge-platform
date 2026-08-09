@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-076",
+  "title": "Reducing Dementia Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to reducing dementia risk.",
+  "domain": "Disease Prevention",
+  "category": "Brain and Neurologic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "dementia",
+    "Alzheimer's disease",
+    "risk reduction",
+    "cognitive decline",
+    "brain health",
+    "prevention",
+    "screening",
+    "vascular risk factors",
+    "lifestyle",
+    "cognitive training"
+  ],
+  "related_modules": [
+    "DIS-062",
+    "DIS-079",
+    "DIS-101"
+  ],
+  "evidence_strength": "Established evidence for lifestyle and cardiovascular management interventions; moderate emerging evidence for cognitive training; uncertain evidence for supplements and specific pharmacological prevention.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
