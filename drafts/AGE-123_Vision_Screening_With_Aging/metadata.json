@@ -1,0 +1,39 @@
+{
+  "module_id": "AGE-123",
+  "title": "Vision Screening With Aging",
+  "subtitle": "Prevention, screening, safety, and practical planning for vision screening with aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Preventive Aging",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Primary Care Providers",
+    "Optometrists",
+    "Ophthalmologists"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "vision screening",
+    "aging eyes",
+    "presbyopia",
+    "cataracts",
+    "glaucoma",
+    "macular degeneration",
+    "eye health",
+    "preventive care",
+    "vision loss prevention",
+    "visual acuity"
+  ],
+  "related_modules": [
+    "AGE-101 Healthy Aging Basics",
+    "AGE-130 Falls Prevention in Elderly",
+    "AGE-140 Managing Chronic Conditions in Aging"
+  ],
+  "evidence_strength": "Established evidence for the importance of vision screening and benefits of early detection in common age-related eye diseases; some emerging evidence on optimal screening intervals and efficacy in diverse populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

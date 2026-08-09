@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-018",
+  "title": "Sleep and Cardiovascular Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to sleep and cardiovascular risk.",
+  "domain": "Disease Prevention",
+  "category": "Cardiovascular Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Risk Reduction"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Sleep",
+    "Cardiovascular Risk",
+    "Heart Disease",
+    "Sleep Apnea",
+    "Hypertension",
+    "Arrhythmia",
+    "Stroke",
+    "Sleep Duration",
+    "Sleep Quality",
+    "Prevention"
+  ],
+  "related_modules": [
+    "DIS-005",
+    "DIS-023",
+    "DIS-042"
+  ],
+  "evidence_strength": "Established evidence supports the association of poor sleep quality and obstructive sleep apnea with increased cardiovascular risk. Evidence linking sleep duration with cardiovascular outcomes is supported by meta-analyses, while interventional data on the impact of sleep improvement on major cardiovascular endpoints remain emerging. Safety considerations for device use and medication therapies are well-documented but require individualized clinical evaluation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

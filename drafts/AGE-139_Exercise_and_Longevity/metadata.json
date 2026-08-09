@@ -1,0 +1,35 @@
+{
+  "module_id": "AGE-139",
+  "title": "Exercise and Longevity",
+  "subtitle": "What evidence supports exercise and longevity, what remains uncertain, and practical implications.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Longevity and Evidence",
+  "som_stages": [
+    "All Stages"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "exercise",
+    "longevity",
+    "physical activity",
+    "aging",
+    "healthspan",
+    "mortality",
+    "cardiovascular health",
+    "metabolism",
+    "muscle strength"
+  ],
+  "related_modules": [
+    "AGE-045",
+    "AGE-102",
+    "AGE-256"
+  ],
+  "evidence_strength": "Established evidence with some moderate and emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

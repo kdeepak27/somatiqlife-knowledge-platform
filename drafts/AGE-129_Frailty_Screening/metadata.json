@@ -1,0 +1,42 @@
+{
+  "module_id": "AGE-129",
+  "title": "Frailty Screening",
+  "subtitle": "Prevention, screening, safety, and practical planning for frailty screening.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Preventive Aging",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management Planning"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Primary Care Providers",
+    "Geriatric Specialists",
+    "Public Health Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate (Health Literate Adults)",
+  "keywords": [
+    "frailty",
+    "frailty screening",
+    "older adults",
+    "preventive aging",
+    "physical function",
+    "frailty assessment",
+    "geriatrics",
+    "frailty prevention",
+    "screening tools",
+    "frailty syndrome",
+    "gerontology"
+  ],
+  "related_modules": [
+    "AGE-101",
+    "AGE-134",
+    "MET-204"
+  ],
+  "evidence_strength": "Established evidence supported by clinical trials and expert guidelines with some emerging research on novel screening methods.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

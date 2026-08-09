@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-015",
+  "title": "Smoking and Cardiovascular Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to smoking and cardiovascular risk.",
+  "domain": "Disease Prevention",
+  "category": "Cardiovascular Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Professionals"
+  ],
+  "reading_level": "Intermediate - general audience with interest in health",
+  "keywords": [
+    "smoking",
+    "cardiovascular risk",
+    "heart disease",
+    "atherosclerosis",
+    "nicotine",
+    "prevention",
+    "screening",
+    "risk factors",
+    "public health",
+    "quitting smoking"
+  ],
+  "related_modules": [
+    "DIS-012: Tobacco Use and Respiratory Health",
+    "DIS-020: Hypertension and Cardiovascular Risk Management",
+    "DIS-030: Diabetes and Cardiovascular Complications"
+  ],
+  "evidence_strength": "Established evidence supported by multiple large epidemiological and clinical studies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

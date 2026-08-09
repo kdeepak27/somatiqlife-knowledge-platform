@@ -1,0 +1,33 @@
+{
+  "module_id": "DIS-008",
+  "title": "Preventing Peripheral Artery Disease",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing peripheral artery disease.",
+  "domain": "Disease Prevention",
+  "category": "Cardiovascular Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "At-Risk Individuals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Peripheral Artery Disease",
+    "PAD",
+    "Atherosclerosis",
+    "Cardiovascular Prevention",
+    "Risk Factors",
+    "Screening"
+  ],
+  "related_modules": [
+    "DIS-002",
+    "DIS-010",
+    "DIS-015"
+  ],
+  "evidence_strength": "Established evidence for major prevention strategies; moderate to emerging evidence for screening approaches and pharmacologic primary prevention; areas of uncertainty in screening intervals and optimal individualized management.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

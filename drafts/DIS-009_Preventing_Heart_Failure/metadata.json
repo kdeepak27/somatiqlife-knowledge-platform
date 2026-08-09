@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-009",
+  "title": "Preventing Heart Failure",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing heart failure.",
+  "domain": "Disease Prevention",
+  "category": "Cardiovascular Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Risk Management"
+  ],
+  "audience": [
+    "General Public",
+    "Primary Care Providers",
+    "Cardiology Professionals",
+    "Public Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Heart failure prevention",
+    "Cardiovascular risk",
+    "Screening for heart failure",
+    "Heart failure risk factors",
+    "Lifestyle and heart failure",
+    "Medication adherence",
+    "Heart function",
+    "Coronary artery disease prevention"
+  ],
+  "related_modules": [
+    "DIS-002:Hypertension-Management",
+    "DIS-004:Diabetes-Prevention",
+    "DIS-007:Coronary-Artery-Disease-Prevention"
+  ],
+  "evidence_strength": "Established evidence for major risk factors and preventive strategies; moderate evidence for emerging therapies; emerging evidence regarding novel biomarkers and screening approaches; ongoing research for genetic contributions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

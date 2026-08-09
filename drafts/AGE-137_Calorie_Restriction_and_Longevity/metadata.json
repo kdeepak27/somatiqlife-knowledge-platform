@@ -1,0 +1,37 @@
+{
+  "module_id": "AGE-137",
+  "title": "Calorie Restriction and Longevity",
+  "subtitle": "What evidence supports calorie restriction and longevity, what remains uncertain, and practical implications.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Longevity and Evidence",
+  "som_stages": [
+    "Middle Age",
+    "Older Adults"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "8th Grade",
+  "keywords": [
+    "Calorie Restriction",
+    "Longevity",
+    "Dietary Restriction",
+    "Aging",
+    "Metabolism",
+    "Healthspan",
+    "Caloric Intake",
+    "Oxidative Stress",
+    "Sirtuins",
+    "Rapamycin"
+  ],
+  "related_modules": [
+    "AGE-142",
+    "NUT-201",
+    "PHYS-118"
+  ],
+  "evidence_strength": "Moderate: Strong animal data support calorie restriction effects on lifespan; human evidence is promising but limited and ongoing.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

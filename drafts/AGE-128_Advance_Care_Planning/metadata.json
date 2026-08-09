@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-128",
+  "title": "Advance Care Planning",
+  "subtitle": "Prevention, screening, safety, and practical planning for advance care planning.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Preventive Aging",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Plain Language with Scientific Terms Explained",
+  "keywords": [
+    "Advance Care Planning",
+    "ACP",
+    "Advance Directives",
+    "Living Will",
+    "Healthcare Proxy",
+    "End-of-Life Care",
+    "Decision Making",
+    "Medical Power of Attorney",
+    "Goals of Care",
+    "Patient Autonomy"
+  ],
+  "related_modules": [
+    "AGE-100",
+    "AGE-129",
+    "GEN-201"
+  ],
+  "evidence_strength": "Established evidence with emerging considerations for cultural and implementation challenges",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

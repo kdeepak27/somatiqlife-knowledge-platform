@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-124",
+  "title": "Hearing Screening With Aging",
+  "subtitle": "Prevention, screening, safety, and practical planning for hearing screening with aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Preventive Aging",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Detection"
+  ],
+  "audience": [
+    "Older Adults",
+    "Healthcare Providers",
+    "Caregivers",
+    "Public Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Hearing screening",
+    "Presbycusis",
+    "Age-related hearing loss",
+    "Audiometry",
+    "Hearing assessment",
+    "Preventive aging",
+    "Sensory health",
+    "Hearing impairment",
+    "Elderly health"
+  ],
+  "related_modules": [
+    "AGE-101",
+    "AGE-130",
+    "AUD-205"
+  ],
+  "evidence_strength": "Established evidence supporting the benefits of hearing screening and early intervention for age-related hearing loss, with ongoing research to optimize screening protocols and outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

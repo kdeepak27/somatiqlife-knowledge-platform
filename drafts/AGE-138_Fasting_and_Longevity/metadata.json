@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-138",
+  "title": "Fasting and Longevity",
+  "subtitle": "What evidence supports fasting and longevity, what remains uncertain, and practical implications.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Longevity and Evidence",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Enthusiasts",
+    "Researchers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "fasting",
+    "intermittent fasting",
+    "caloric restriction",
+    "longevity",
+    "aging",
+    "autophagy",
+    "metabolism",
+    "healthspan"
+  ],
+  "related_modules": [
+    "AGE-101",
+    "AGE-115",
+    "MET-202",
+    "NUT-134"
+  ],
+  "evidence_strength": "Established evidence from animal models; moderate and emerging evidence in humans; ongoing research to clarify long-term effects and optimal protocols.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
