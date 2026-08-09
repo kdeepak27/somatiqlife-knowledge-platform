@@ -1,0 +1,39 @@
+{
+  "module_id": "DIS-125",
+  "title": "Building a Musculoskeletal Prevention Plan",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to building a musculoskeletal prevention plan.",
+  "domain": "Disease Prevention",
+  "category": "Bone and Musculoskeletal Prevention",
+  "som_stages": [
+    "Primary Prevention",
+    "Secondary Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Educators",
+    "Physical Therapists",
+    "Orthopedic Specialists"
+  ],
+  "reading_level": "Intermediate (Grade 9-12)",
+  "keywords": [
+    "Musculoskeletal health",
+    "Bone health",
+    "Muscle health",
+    "Injury prevention",
+    "Risk factors",
+    "Screening",
+    "Exercise",
+    "Nutrition",
+    "Fall prevention",
+    "Osteoporosis prevention"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-130",
+    "DIS-140"
+  ],
+  "evidence_strength": "Established evidence for core components such as exercise, nutrition, and screening; moderate evidence supports specific ergonomic interventions; emerging evidence is present for some novel supplements and advanced screening technologies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

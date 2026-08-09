@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-121",
+  "title": "Foot Health and Fall Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to foot health and fall prevention.",
+  "domain": "Disease Prevention",
+  "category": "Bone and Musculoskeletal Prevention",
+  "som_stages": [
+    "Primary Prevention",
+    "Secondary Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "foot health",
+    "fall prevention",
+    "balance",
+    "foot pain",
+    "risk factors",
+    "screening",
+    "footwear",
+    "musculoskeletal health",
+    "physical therapy",
+    "elderly falls"
+  ],
+  "related_modules": [
+    "DIS-103",
+    "DIS-115",
+    "DIS-130"
+  ],
+  "evidence_strength": "Established evidence for the role of foot health in fall prevention is supported by multiple observational studies and controlled trials, particularly regarding neuropathy, footwear, and physical therapy interventions. Emerging evidence suggests potential benefits of orthoses and combined approaches but requires further high-quality trials. Safety and adherence limitations are recognized in the literature.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
