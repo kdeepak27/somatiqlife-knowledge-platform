@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-185",
+  "title": "Physical Activity and Gut Health",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to physical activity and gut health.",
+  "domain": "Disease Prevention",
+  "category": "Digestive and Gastrointestinal Prevention",
+  "som_stages": [
+    "Primary Prevention",
+    "Health Promotion"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Public Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "physical activity",
+    "exercise",
+    "gut health",
+    "digestive health",
+    "microbiome",
+    "gastrointestinal function",
+    "prevention",
+    "risk factors"
+  ],
+  "related_modules": [
+    "DIS-102 (Diet and Nutritional Impact on Gut Health)",
+    "DIS-210 (Stress and Gastrointestinal Function)",
+    "EXE-050 (Exercise Physiology and Chronic Disease Prevention)"
+  ],
+  "evidence_strength": "Moderate evidence from observational and mechanistic studies supports physical activity benefits for gut health, with emerging clinical trial data. Further randomized trials needed.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

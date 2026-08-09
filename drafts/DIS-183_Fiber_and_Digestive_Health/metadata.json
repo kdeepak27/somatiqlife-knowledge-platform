@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-183",
+  "title": "Fiber and Digestive Health",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to fiber and digestive health.",
+  "domain": "Disease Prevention",
+  "category": "Digestive and Gastrointestinal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Dietary Fiber",
+    "Digestive Health",
+    "Gut Microbiota",
+    "Constipation",
+    "Colon Cancer Prevention",
+    "Prebiotics",
+    "Fiber Types",
+    "Bowel Regularity"
+  ],
+  "related_modules": [
+    "DIS-140",
+    "DIS-190",
+    "NUT-055"
+  ],
+  "evidence_strength": "Strong evidence supports fiber's benefits for constipation and moderate evidence for colorectal cancer risk reduction and gut microbiota modulation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
