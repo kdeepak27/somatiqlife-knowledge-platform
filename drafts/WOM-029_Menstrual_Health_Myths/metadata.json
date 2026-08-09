@@ -1,0 +1,40 @@
+{
+  "module_id": "WOM-029",
+  "title": "Menstrual Health Myths",
+  "subtitle": "Definitions, common causes, evidence-based management, and safety related to menstrual health myths.",
+  "domain": "Women's Health",
+  "category": "Menstrual Health",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Decision Making",
+    "Self-Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Health Educators",
+    "Clinicians"
+  ],
+  "reading_level": "General Audience with Some Medical Terminology",
+  "keywords": [
+    "menstruation",
+    "menstrual cycle",
+    "myths",
+    "misconceptions",
+    "period health",
+    "menstrual hygiene",
+    "dysmenorrhea",
+    "menstrual irregularities",
+    "menstrual products",
+    "reproductive health"
+  ],
+  "related_modules": [
+    "WOM-015",
+    "WOM-036",
+    "WOM-043"
+  ],
+  "evidence_strength": "Established Scientific Evidence with Some Emerging Areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

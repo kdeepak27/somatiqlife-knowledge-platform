@@ -1,0 +1,39 @@
+{
+  "module_id": "WOM-030",
+  "title": "When Menstrual Symptoms Need Evaluation",
+  "subtitle": "Definitions, common causes, evidence-based management, and safety related to when menstrual symptoms need evaluation.",
+  "domain": "Women's Health",
+  "category": "Menstrual Health",
+  "som_stages": [
+    "Menstrual Health Maintenance",
+    "Symptom Assessment",
+    "Clinical Evaluation"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "menstrual symptoms",
+    "menstrual evaluation",
+    "dysmenorrhea",
+    "heavy menstrual bleeding",
+    "menstrual irregularities",
+    "menstrual pain",
+    "pelvic pain",
+    "endometriosis",
+    "menstrual health",
+    "menstrual cycle"
+  ],
+  "related_modules": [
+    "WOM-015_Menstrual_Cycle_Basics",
+    "WOM-022_Endometriosis_Overview",
+    "WOM-027_Heavy_Menstrual_Bleeding"
+  ],
+  "evidence_strength": "Established evidence for definitions and common management; moderate evidence for some emerging diagnostic modalities and treatments; safety recommendations based on clinical guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

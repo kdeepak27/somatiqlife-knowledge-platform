@@ -1,0 +1,36 @@
+{
+  "module_id": "WOM-027",
+  "title": "Stress and the Menstrual Cycle",
+  "subtitle": "Definitions, common causes, evidence-based management, and safety related to stress and the menstrual cycle.",
+  "domain": "Women's Health",
+  "category": "Menstrual Health",
+  "som_stages": [
+    "Pre-menstrual",
+    "Menstruation",
+    "Post-menstrual"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate (Grade 9-12)",
+  "keywords": [
+    "stress",
+    "menstrual cycle",
+    "hormones",
+    "cortisol",
+    "psychological stress",
+    "cycle irregularities",
+    "management",
+    "safety"
+  ],
+  "related_modules": [
+    "WOM-015 (Menstrual Cycle Physiology and Disorders)",
+    "WOM-035 (Psychological Health and Reproductive Function)",
+    "WOM-042 (Hormonal Influences on Menstrual Health)"
+  ],
+  "evidence_strength": "Moderate evidence supports associations between stress and menstrual irregularities; high-quality randomized trials are limited but observational data provide consistent findings.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
