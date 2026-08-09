@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-230",
+  "title": "False Positive Screening Results",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to false positive screening results.",
+  "domain": "Disease Prevention",
+  "category": "Preventive Care and Screening",
+  "som_stages": [
+    "Screening",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Primary Care Providers",
+    "Public Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "False positive",
+    "Screening tests",
+    "Diagnostic accuracy",
+    "Risk factors",
+    "Preventive care",
+    "Overdiagnosis",
+    "Screening limitations",
+    "Patient safety"
+  ],
+  "related_modules": [
+    "DIS-215_Screening-Tests-Overview",
+    "DIS-240_Overdiagnosis-in-Screening",
+    "MH-112_Patient-Counseling-in-Preventive-Care"
+  ],
+  "evidence_strength": "Established evidence for prevalence and impact of false positives; moderate and emerging evidence regarding new technologies reducing false positives.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

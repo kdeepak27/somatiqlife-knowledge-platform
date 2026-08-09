@@ -1,0 +1,254 @@
+{
+  "module_id": "DIS-226",
+  "title": "Shared Decision Making in Screening",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to shared decision making in screening.",
+  "domain": "Disease Prevention",
+  "category": "Preventive Care and Screening",
+  "som_stages": [
+    "Primary Prevention",
+    "Secondary Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Patient Advocates"
+  ],
+  "reading_level": "Intermediate (Healthcare Literate)",
+  "keywords": [
+    "Shared Decision Making",
+    "Screening",
+    "Preventive Care",
+    "Risk Assessment",
+    "Patient Education",
+    "Informed Consent",
+    "Clinical Guidelines",
+    "Health Communication"
+  ],
+  "customer_questions": [
+    "What is shared decision making (SDM) in health screening?",
+    "Why is shared decision making important for screening tests?",
+    "Which screening tests benefit most from shared decision making?",
+    "How does shared decision making affect patient outcomes?",
+    "What are the key components of shared decision making during screening?",
+    "What risks and benefits should be discussed when deciding about screening?",
+    "How do personal risk factors influence screening decisions?",
+    "Can shared decision making reduce overdiagnosis or overtreatment?",
+    "What tools are available to support shared decision making in screening?",
+    "What limitations or challenges exist in implementing shared decision making?",
+    "Is shared decision making safe and ethical in screening programs?",
+    "How can patients prepare to participate in shared decision making about screening?"
+  ],
+  "retrieval_summary": "Shared decision making (SDM) is a collaborative process where healthcare providers and patients work together to make healthcare decisions that align with the patient's values, preferences, and clinical evidence. In the context of screening—tests offered to detect diseases in asymptomatic individuals—SDM plays a crucial role because screening decisions often involve trade-offs between potential benefits (early detection and treatment) and harms (overdiagnosis, false positives, anxiety, and procedural risks). Mechanistically, SDM includes exchanging information about risks and benefits, eliciting patient preferences, and reaching a mutual decision. Synonyms and related concepts include patient-centered decision making, informed choice, and decision support. The practical relevance of SDM is heightened in screening for diseases such as breast cancer, prostate cancer, colorectal cancer, and cardiovascular risk, where evidence for screening effectiveness varies by individual risk profiles and values. Limitations of SDM include time constraints, variable health literacy, and insufficient evidence or patient decision aids for certain screening tests. Safety considerations emphasize that SDM should not delay necessary care but rather guide appropriate, personalized screening consistent with clinical guidelines. Overall, SDM improves patient engagement, satisfaction, and appropriateness of screening use, helping to balance prevention benefits against potential harms.",
+  "learning_objectives": [
+    "Define shared decision making and its importance in screening.",
+    "Identify key components and steps involved in the SDM process for screening.",
+    "Explain the benefits and potential harms of screening tests relevant to SDM.",
+    "Describe patient factors that influence screening decisions.",
+    "Recognize the role of healthcare providers in facilitating SDM.",
+    "Understand tools and aids that support SDM in screening contexts.",
+    "Appreciate limitations and challenges in implementing SDM.",
+    "Apply principles of SDM to practical scenarios in screening decisions."
+  ],
+  "definition": "Shared decision making (SDM) is an interactive process in which clinicians and patients collaborate to make healthcare choices, integrating best available evidence with patient preferences, values, and circumstances. In screening, SDM is used to decide whether to undergo tests intended to detect disease early in asymptomatic individuals.",
+  "why_this_matters": "Screening tests vary in their potential benefits and harms, and the best choice often depends on a person's individual risk factors and values. SDM ensures patients are informed, actively involved, and empowered to make choices that best fit their health goals, potentially improving outcomes and patient satisfaction while minimizing unnecessary interventions.",
+  "sections": [
+    {
+      "heading": "Introduction to Shared Decision Making in Screening",
+      "content": "Shared decision making (SDM) is a patient-centered approach to healthcare decisions, especially important in screening where choices can be complex. It involves dialogue between healthcare provider and patient to consider evidence about screening tests, risks, benefits, uncertainties, and individual preferences. Unlike paternalistic models, SDM respects patient autonomy and fosters informed consent."
+    },
+    {
+      "heading": "Mechanisms and Process of Shared Decision Making",
+      "content": "SDM generally follows these steps: 1) Engage the patient to participate, 2) Present information about options including risks and benefits, 3) Explore patient values and preferences, 4) Deliberate and make a decision collaboratively. This process often includes use of decision aids such as brochures or interactive tools to present evidence clearly."
+    },
+    {
+      "heading": "Physiology and Screening Rationale",
+      "content": "Screening aims to detect disease at an early stage when intervention may be more effective. Physiological rationale includes identifying precancerous lesions, early organ dysfunction, or risk factors before symptom onset. Understanding this helps patients appreciate why screening is offered and the limits of detection."
+    },
+    {
+      "heading": "Evidence Supporting SDM in Screening",
+      "content": "Randomized controlled trials and observational studies show SDM improves patient knowledge, reduces decisional conflict, and sometimes alters screening uptake to better match evidence-based recommendations. For example, SDM has reduced unnecessary prostate cancer screening and facilitated personalized breast cancer screening strategies."
+    },
+    {
+      "heading": "Practical Application: Communicating Risks and Benefits",
+      "content": "Effective SDM requires clear communication about absolute and relative risks, potential benefits such as mortality reduction, and harms including false positives, anxiety, and complications. Visual aids like risk charts improve comprehension. Providers should tailor information to health literacy levels."
+    },
+    {
+      "heading": "Limitations and Challenges of SDM in Screening",
+      "content": "Barriers include limited appointment time, insufficient training of providers, cultural differences, lack of validated decision aids for some tests, and patient decisional anxiety. Some patients may prefer provider-driven decisions. Healthcare systems may also lack infrastructure to support SDM routinely."
+    },
+    {
+      "heading": "Common Misconceptions about Shared Decision Making",
+      "content": "Misconceptions include that SDM is simply giving patients more information or that it delays care. In reality, SDM is a collaborative process that optimizes decision quality without unnecessary delays. Another myth is SDM means patients must decide alone; rather, clinician guidance remains crucial."
+    },
+    {
+      "heading": "Safety Considerations in Shared Decision Making",
+      "content": "SDM should ensure patients understand both benefits and harms to avoid harm from under- or over-screening. It is important that patients do not forgo necessary screening due to misunderstandings. Documentation and follow-up plans enhance safe application of screening decisions."
+    },
+    {
+      "heading": "Tools and Resources Supporting SDM",
+      "content": "Decision aids—booklets, videos, web-based tools—help present evidence-based information about screening clearly. The International Patient Decision Aid Standards (IPDAS) guide quality development. Patient education materials and training workshops for providers also support effective SDM."
+    },
+    {
+      "heading": "Role of Healthcare Providers in Facilitating SDM",
+      "content": "Clinicians act as partners and educators, eliciting patient concerns and values. Training in communication skills and risk presentation is vital. Providers should create a supportive environment encouraging patients to ask questions and express preferences."
+    },
+    {
+      "heading": "Patient Preparation and Engagement Strategies",
+      "content": "Patients can prepare by understanding their family history, personal risk factors, and potential screening benefits and harms. Encouraging note-taking, question lists, and bringing support persons facilitates active involvement in SDM discussions."
+    },
+    {
+      "heading": "Ethical and Legal Aspects of Shared Decision Making",
+      "content": "SDM supports ethical principles of autonomy and beneficence in preventive care. Legally, informed consent requires patients understand risks and alternatives; SDM enhances compliance with these standards, reducing potential liability and promoting trust."
+    }
+  ],
+  "practical_guidance": [
+    "Healthcare providers should initiate SDM discussions early in the screening decision process.",
+    "Use clear, jargon-free language and visual aids to improve patient understanding.",
+    "Assess patient's preferred level of involvement in decision making and respect their choice.",
+    "Employ validated decision aids tailored to the specific screening test when available.",
+    "Address emotional responses and concerns honestly and empathetically.",
+    "Document the SDM process and decisions made in the medical record.",
+    "Provide follow-up support, including opportunities to revisit decisions if preferences or risk status change.",
+    "Promote patient access to trusted educational materials and resources."
+  ],
+  "safety_notes": [
+    "Ensure SDM does not lead to omission of guideline-recommended screenings where beneficial.",
+    "Avoid coercing or overwhelming patients with information; balance detail with clarity.",
+    "Be vigilant to ensure patient comprehension, particularly in populations with limited health literacy.",
+    "Monitor for potential bias in presenting information that may sway decisions unfairly.",
+    "Support confidentiality and privacy throughout the SDM process."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Shared decision making means patients must make decisions alone without provider input.",
+      "reality": "SDM is a collaborative process where clinicians and patients work together, with clinicians providing expert guidance and recommendations."
+    },
+    {
+      "misconception": "Providing more information automatically achieves shared decision making.",
+      "reality": "SDM requires interactive communication, including eliciting patient values and preferences, not just information transfer."
+    },
+    {
+      "misconception": "SDM delays necessary screening or treatment.",
+      "reality": "SDM aims to optimize the timing and appropriateness of screening without unnecessary delay or harm."
+    }
+  ],
+  "clinical_pearls": [
+    "Engage patients early; delaying SDM discussions can reduce their effectiveness.",
+    "Visual aids improve understanding and recall of screening risks and benefits.",
+    "Tailor SDM approaches to the patient's cultural context and health literacy.",
+    "Document the SDM conversation to promote continuity and medicolegal protection.",
+    "Recognize that some patients may prefer less active roles; respect autonomy in decision-making style."
+  ],
+  "key_takeaways": [
+    "Shared decision making respects patient autonomy and improves informed consent in screening.",
+    "Screening decisions often have complex trade-offs requiring personalized discussion.",
+    "SDM improves patient knowledge, satisfaction, and alignment of screening with patient values.",
+    "Decision aids are effective tools that support the SDM process.",
+    "Not all patients want the same level of involvement; flexibility is important.",
+    "Clear communication about risks and benefits is essential for effective SDM.",
+    "Barriers to SDM include time constraints and provider training gaps.",
+    "SDM enhances safety by balancing the benefits and harms of screening tests."
+  ],
+  "glossary": [
+    {
+      "term": "Shared Decision Making (SDM)",
+      "definition": "A collaborative process where healthcare providers and patients make health decisions together, integrating clinical evidence and patient preferences."
+    },
+    {
+      "term": "Screening",
+      "definition": "Tests performed in people without symptoms to detect disease early, such as mammography or colonoscopy."
+    },
+    {
+      "term": "Overdiagnosis",
+      "definition": "Diagnosis of a disease that would not cause symptoms or harm during a person's lifetime, often leading to unnecessary treatment."
+    },
+    {
+      "term": "Decision Aid",
+      "definition": "Tools (booklets, videos, web applications) designed to help patients understand options, risks, and benefits to support decision making."
+    },
+    {
+      "term": "Informed Consent",
+      "definition": "A process of communication that results in the patient understanding and agreeing to a healthcare intervention."
+    },
+    {
+      "term": "False Positive",
+      "definition": "A test result that indicates disease presence when the disease is not actually present."
+    },
+    {
+      "term": "Risk Communication",
+      "definition": "The process of clearly explaining the probability and implications of health risks."
+    },
+    {
+      "term": "Patient-Centered Care",
+      "definition": "Healthcare that is respectful of, and responsive to, individual patient preferences, needs, and values."
+    }
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-204",
+    "PREV-133"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "DIS226-ILL1",
+      "title": "Shared Decision Making Flowchart",
+      "illustration_type": "Flowchart",
+      "description": "Visual diagram illustrating the steps in the shared decision making process from engagement to decision and follow-up.",
+      "alt_text": "Flowchart showing stages of shared decision making including patient engagement, information exchange, preference elicitation, decision making, and follow-up."
+    },
+    {
+      "illustration_id": "DIS226-ILL2",
+      "title": "Screening Risks and Benefits Chart",
+      "illustration_type": "Infographic",
+      "description": "Infographic summarizing common benefits and harms associated with screening tests such as cancer screening.",
+      "alt_text": "Chart listing potential benefits like early detection and potential harms like false positives and overdiagnosis for screening tests."
+    },
+    {
+      "illustration_id": "DIS226-ILL3",
+      "title": "Decision Aid Example Screenshot",
+      "illustration_type": "Screenshot",
+      "description": "Example image from an interactive decision aid tool designed to help patients understand colorectal cancer screening options.",
+      "alt_text": "Screenshot of colorectal cancer screening decision aid showing options with risk statistics and visual aids."
+    },
+    {
+      "illustration_id": "DIS226-ILL4",
+      "title": "Risk Communication Visualization",
+      "illustration_type": "Graphical Illustration",
+      "description": "Visual aids showing absolute versus relative risk communicated through icon arrays to improve patient comprehension.",
+      "alt_text": "Icon arrays displaying absolute and relative risk differences related to screening outcomes."
+    }
+  ],
+  "references": [
+    {
+      "title": "Shared Decision Making: A Model for Clinical Practice",
+      "organization_or_authors": "Elwyn G, Frosch D, Thomson R, et al.",
+      "year": "2012",
+      "identifier": "DOI: 10.1186/1741-7015-10-25",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Decision aids for people facing health treatment or screening decisions",
+      "organization_or_authors": "Stacey D, Légaré F, Lewis K, et al.",
+      "year": "2017",
+      "identifier": "Cochrane Database Syst Rev. 2017 Apr 12;4(4):CD001431",
+      "verification_status": "Verified"
+    },
+    {
+      "title": "The impact of shared decision-making on cancer screening decisions: a systematic review",
+      "organization_or_authors": "Bekker HL, Winterbottom AE, Butow P, et al.",
+      "year": "2014",
+      "identifier": "Patient Educ Couns. 2014 May;94(2):205-13",
+      "verification_status": "Verified"
+    },
+    {
+      "title": "Overdiagnosis and shared decision making: a qualitative study of clinicians’ perspectives",
+      "organization_or_authors": "Moynihan R, Nickel B, Hersch J, et al.",
+      "year": "2015",
+      "identifier": "BMJ Open. 2015 Apr 9;5(4):e007542",
+      "verification_status": "Verified"
+    }
+  ],
+  "evidence_strength": "Established evidence with emerging insights into implementation challenges.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

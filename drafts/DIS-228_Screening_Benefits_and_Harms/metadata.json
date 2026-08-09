@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-228",
+  "title": "Screening Benefits and Harms",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to screening benefits and harms.",
+  "domain": "Disease Prevention",
+  "category": "Preventive Care and Screening",
+  "som_stages": [
+    "Primary Prevention",
+    "Secondary Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Screening",
+    "Preventive Care",
+    "Early Detection",
+    "Risk Factors",
+    "Harms of Screening",
+    "Benefits of Screening",
+    "False Positives",
+    "False Negatives",
+    "Overdiagnosis",
+    "Risk-Benefit Analysis"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-305",
+    "DIS-410"
+  ],
+  "evidence_strength": "Evidence strength varies by screening type; several screening programs have strong, high-quality evidence while others remain controversial or insufficiently validated.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

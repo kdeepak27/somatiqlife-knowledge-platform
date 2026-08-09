@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-226",
+  "title": "Shared Decision Making in Screening",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to shared decision making in screening.",
+  "domain": "Disease Prevention",
+  "category": "Preventive Care and Screening",
+  "som_stages": [
+    "Primary Prevention",
+    "Secondary Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Patient Advocates"
+  ],
+  "reading_level": "Intermediate (Healthcare Literate)",
+  "keywords": [
+    "Shared Decision Making",
+    "Screening",
+    "Preventive Care",
+    "Risk Assessment",
+    "Patient Education",
+    "Informed Consent",
+    "Clinical Guidelines",
+    "Health Communication"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-204",
+    "PREV-133"
+  ],
+  "evidence_strength": "Established evidence with emerging insights into implementation challenges.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

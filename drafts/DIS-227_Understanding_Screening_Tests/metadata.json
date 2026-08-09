@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-227",
+  "title": "Understanding Screening Tests",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to understanding screening tests.",
+  "domain": "Disease Prevention",
+  "category": "Preventive Care and Screening",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "screening tests",
+    "preventive care",
+    "risk factors",
+    "early detection",
+    "sensitivity",
+    "specificity",
+    "false positives",
+    "false negatives",
+    "clinical guidelines"
+  ],
+  "related_modules": [
+    "DIS-102",
+    "DIS-158",
+    "DIS-260"
+  ],
+  "evidence_strength": "Established evidence based on multiple population studies and expert guidelines",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
