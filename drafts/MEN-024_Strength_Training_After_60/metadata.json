@@ -1,0 +1,36 @@
+{
+  "module_id": "MEN-024",
+  "title": "Strength Training After 60",
+  "subtitle": "Evidence-based training, nutrition, recovery, and safety for strength training after 60.",
+  "domain": "Men's Health",
+  "category": "Muscle and Fitness",
+  "som_stages": [
+    "Maintenance",
+    "Optimization",
+    "Recovery"
+  ],
+  "audience": [
+    "Men over 60",
+    "Fitness professionals",
+    "Healthcare providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "strength training",
+    "older adults",
+    "muscle health",
+    "sarcopenia",
+    "nutrition",
+    "recovery",
+    "exercise safety",
+    "resistance training"
+  ],
+  "related_modules": [
+    "GEN-010: Aging and Muscle Physiology",
+    "NUT-015: Nutrition for Older Adults",
+    "MOB-007: Falls Prevention Strategies"
+  ],
+  "evidence_strength": "Established evidence based on randomized controlled trials, observational studies, and position statements from authoritative organizations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
