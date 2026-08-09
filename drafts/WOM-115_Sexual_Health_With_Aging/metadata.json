@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-115",
+  "title": "Sexual Health With Aging",
+  "subtitle": "How sexual health with aging affects long-term health, function, and prevention.",
+  "domain": "Women's Health",
+  "category": "Healthy Aging for Women",
+  "som_stages": [
+    "Midlife",
+    "Postmenopause",
+    "Older Adulthood"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Educators",
+    "Clinicians"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "sexual health",
+    "aging",
+    "menopause",
+    "female sexual dysfunction",
+    "hormones",
+    "intimacy",
+    "sexual activity",
+    "healthy aging",
+    "lubrication",
+    "libido"
+  ],
+  "related_modules": [
+    "WOM-101-Menopause-Management",
+    "WOM-120-Pelvic-Floor-Health",
+    "WOM-130-Cardiovascular-Health-in-Women"
+  ],
+  "evidence_strength": "Established evidence supported by clinical studies; some emerging therapies have moderate evidence; psychosocial aspects have variable levels of evidence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

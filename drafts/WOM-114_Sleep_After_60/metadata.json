@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-114",
+  "title": "Sleep After 60",
+  "subtitle": "How sleep after 60 affects long-term health, function, and prevention.",
+  "domain": "Women's Health",
+  "category": "Healthy Aging for Women",
+  "som_stages": [
+    "Healthy Aging",
+    "Chronic Disease Prevention",
+    "Functional Independence"
+  ],
+  "audience": [
+    "Women Age 60 and Above",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate Consumer Health",
+  "keywords": [
+    "sleep",
+    "older adults",
+    "aging",
+    "women's health",
+    "cognitive function",
+    "immune function",
+    "sleep disorders",
+    "aging physiology",
+    "sleep hygiene",
+    "health prevention"
+  ],
+  "related_modules": [
+    "WOM-098",
+    "WOM-105",
+    "GERI-032"
+  ],
+  "evidence_strength": "Established Evidence with Emerging Areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

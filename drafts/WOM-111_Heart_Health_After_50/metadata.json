@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-111",
+  "title": "Heart Health After 50",
+  "subtitle": "How heart health after 50 affects long-term health, function, and prevention.",
+  "domain": "Women's Health",
+  "category": "Healthy Aging for Women",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "Women over 50",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "heart health",
+    "cardiovascular disease",
+    "women over 50",
+    "healthy aging",
+    "heart disease prevention",
+    "menopause",
+    "cholesterol",
+    "blood pressure",
+    "exercise",
+    "diet"
+  ],
+  "related_modules": [
+    "WOM-105",
+    "WOM-120",
+    "GEN-200"
+  ],
+  "evidence_strength": "Established and emerging evidence included with distinctions between well-supported and ongoing research areas.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

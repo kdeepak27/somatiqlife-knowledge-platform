@@ -1,0 +1,36 @@
+{
+  "module_id": "WOM-112",
+  "title": "Metabolic Health After 50",
+  "subtitle": "How metabolic health after 50 affects long-term health, function, and prevention.",
+  "domain": "Women's Health",
+  "category": "Healthy Aging for Women",
+  "som_stages": [
+    "Midlife",
+    "Older Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Health Care Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "metabolic health",
+    "aging",
+    "insulin resistance",
+    "type 2 diabetes",
+    "cardiovascular risk",
+    "women's health",
+    "healthy aging",
+    "menopause",
+    "nutrition",
+    "exercise"
+  ],
+  "related_modules": [
+    "WOM-101",
+    "WOM-120"
+  ],
+  "evidence_strength": "Ranges from well-established clinical guidelines on metabolic syndrome and diabetes prevention to emerging research on hormonal impacts and personalized interventions in women after 50.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
