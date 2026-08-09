@@ -1,0 +1,36 @@
+{
+  "module_id": "WOM-062",
+  "title": "Menopause",
+  "subtitle": "Physiology, evidence, management options, and practical implications of menopause.",
+  "domain": "Women's Health",
+  "category": "Perimenopause and Menopause",
+  "som_stages": [
+    "Perimenopause",
+    "Menopause",
+    "Postmenopause"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Educators"
+  ],
+  "reading_level": "Moderate (High school to early college level)",
+  "keywords": [
+    "menopause",
+    "perimenopause",
+    "postmenopause",
+    "hormonal changes",
+    "hot flashes",
+    "osteoporosis",
+    "hormone replacement therapy",
+    "estrogen decline"
+  ],
+  "related_modules": [
+    "WOM-058: Hormone Replacement Therapy Basics",
+    "WOM-063: Osteoporosis in Postmenopausal Women",
+    "WOM-071: Mental Health in Aging Women"
+  ],
+  "evidence_strength": "Established evidence for menopausal physiology and common management approaches; moderate evidence for long-term treatment effects and emerging therapies; some uncertainty in cognitive and psychological impacts.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
