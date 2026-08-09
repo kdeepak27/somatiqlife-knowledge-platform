@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-109",
+  "title": "Osteoporosis Prevention in Women",
+  "subtitle": "How osteoporosis prevention in women affects long-term health, function, and prevention.",
+  "domain": "Women's Health",
+  "category": "Healthy Aging for Women",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Adult Women",
+    "Healthcare Providers",
+    "Public Health Educators"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "osteoporosis",
+    "bone health",
+    "bone density",
+    "fracture prevention",
+    "women's health",
+    "calcium",
+    "vitamin D",
+    "physical activity",
+    "estrogen",
+    "bone remodeling"
+  ],
+  "related_modules": [
+    "WOM-076",
+    "WOM-112",
+    "GEN-034"
+  ],
+  "evidence_strength": "Established evidence from meta-analyses, clinical guidelines, and systematic reviews for core prevention strategies; moderate evidence for emerging nutritional and pharmacologic interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

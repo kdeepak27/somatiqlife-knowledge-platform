@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-108",
+  "title": "Strength Training for Women Over 50",
+  "subtitle": "How strength training for women over 50 affects long-term health, function, and prevention.",
+  "domain": "Women's Health",
+  "category": "Healthy Aging for Women",
+  "som_stages": [
+    "Healthy Aging",
+    "Prevention",
+    "Chronic Disease Management"
+  ],
+  "audience": [
+    "Women over 50",
+    "Healthcare Providers",
+    "Fitness Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Strength training",
+    "Resistance exercise",
+    "Women over 50",
+    "Muscle health",
+    "Bone density",
+    "Functional independence",
+    "Sarcopenia prevention",
+    "Healthy aging"
+  ],
+  "related_modules": [
+    "WOM-102: Menopause and Bone Health",
+    "WOM-115: Physical Activity for Cardiovascular Health in Women",
+    "WOM-120: Nutrition for Aging Women"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials and meta-analyses supports strength training for women over 50 to improve muscle and bone health and reduce fall risk. Emerging evidence suggests additional benefits on cognition and metabolic health, though more research is needed. Safety and efficacy are well-documented when programs are appropriately designed and supervised.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
