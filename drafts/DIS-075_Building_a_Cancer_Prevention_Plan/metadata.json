@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-075",
+  "title": "Building a Cancer Prevention Plan",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to building a cancer prevention plan.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8 to 10",
+  "keywords": [
+    "cancer prevention",
+    "risk factors",
+    "screening",
+    "early detection",
+    "lifestyle modifications",
+    "genetic risk",
+    "environmental exposures",
+    "tobacco cessation",
+    "diet",
+    "physical activity"
+  ],
+  "related_modules": [
+    "DIS-022",
+    "DIS-048",
+    "DIS-101"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

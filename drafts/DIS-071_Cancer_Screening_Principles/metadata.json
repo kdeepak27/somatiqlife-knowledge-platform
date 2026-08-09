@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-071",
+  "title": "Cancer Screening Principles",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to cancer screening principles.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Policy Makers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Cancer screening",
+    "Early detection",
+    "Risk factors",
+    "Cancer prevention",
+    "Screening tests",
+    "Screening guidelines",
+    "False positives",
+    "False negatives",
+    "Screening limitations",
+    "Screening safety"
+  ],
+  "related_modules": [
+    "DIS-054: Cancer Risk Factors and Prevention",
+    "DIS-072: Early Detection Strategies for Cancer",
+    "DIS-080: Understanding Diagnostic Tests in Oncology"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
