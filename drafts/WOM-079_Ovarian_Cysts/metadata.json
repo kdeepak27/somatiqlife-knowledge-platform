@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-079",
+  "title": "Ovarian Cysts",
+  "subtitle": "Definitions, risk factors, symptoms, management, and safety considerations for ovarian cysts.",
+  "domain": "Women's Health",
+  "category": "Common Women's Conditions",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Flesch-Kincaid Grade 8",
+  "keywords": [
+    "ovarian cyst",
+    "functional cyst",
+    "polycystic ovary syndrome",
+    "PCOS",
+    "endometrioma",
+    "ovarian cyst symptoms",
+    "ovarian cyst treatment",
+    "ovarian cyst risk factors",
+    "women's health"
+  ],
+  "related_modules": [
+    "WOM-037-Polycystic-Ovary-Syndrome",
+    "WOM-067-Endometriosis",
+    "WOM-081-Infertility-Causes"
+  ],
+  "evidence_strength": "Established and moderate evidence, some emerging evidence on long-term management and prevention",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

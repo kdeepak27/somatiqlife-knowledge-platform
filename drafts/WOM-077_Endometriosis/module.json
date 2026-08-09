@@ -1,0 +1,263 @@
+{
+  "module_id": "WOM-077",
+  "title": "Endometriosis",
+  "subtitle": "Definitions, risk factors, symptoms, management, and safety considerations for endometriosis.",
+  "domain": "Women's Health",
+  "category": "Common Women's Conditions",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Primary Care Providers",
+    "Specialists"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "endometriosis",
+    "pelvic pain",
+    "infertility",
+    "hormonal therapy",
+    "laparoscopy",
+    "chronic pain",
+    "adenomyosis",
+    "dysmenorrhea"
+  ],
+  "customer_questions": [
+    "What is endometriosis and how does it develop?",
+    "What causes endometriosis?",
+    "Who is at risk of developing endometriosis?",
+    "What are the common symptoms of endometriosis?",
+    "How is endometriosis diagnosed?",
+    "Can endometriosis affect fertility?",
+    "What treatment options are available for endometriosis?",
+    "Are there lifestyle changes that can help manage endometriosis?",
+    "What are the side effects of hormonal treatments for endometriosis?",
+    "Can endometriosis go away on its own?",
+    "Is surgery always necessary for endometriosis?",
+    "How can pain from endometriosis be managed effectively?"
+  ],
+  "retrieval_summary": "Endometriosis is a chronic gynecological condition characterized by the presence of endometrial-like tissue outside the uterus, commonly on pelvic organs such as ovaries and peritoneum. This ectopic tissue responds to hormonal cycles similarly to uterine endometrium, leading to inflammation, pain, and formation of scar tissue. The precise cause is multifactorial, involving retrograde menstruation, genetic factors, immune dysregulation, and environmental influences. Symptoms typically include chronic pelvic pain, dysmenorrhea (painful periods), dyspareunia (painful intercourse), and infertility, significantly impacting quality of life. Diagnosis often requires a combination of clinical assessment, imaging, and sometimes laparoscopic surgery to confirm lesions. Management includes hormonal therapies to suppress ectopic tissue activity, pain relief strategies, and surgery for lesion removal or fertility preservation. Endometriosis is a heterogeneous and often underdiagnosed condition with varying presentation severity. Awareness of misdiagnoses, such as confusing it with pelvic inflammatory disease or irritable bowel syndrome, is crucial. Safety considerations include monitoring side effects of hormonal medications and surgical risks. Alternative and complementary therapies are emerging but require further evidence. This module provides a comprehensive overview for patients and healthcare providers to understand, identify, and manage endometriosis effectively.",
+  "learning_objectives": [
+    "Define endometriosis and understand its pathophysiology.",
+    "Recognize risk factors and common symptoms associated with endometriosis.",
+    "Describe current diagnostic methods and their limitations.",
+    "Understand treatment options including medical and surgical approaches.",
+    "Identify safety concerns related to endometriosis management.",
+    "Address common misconceptions surrounding endometriosis.",
+    "Appreciate the impact of endometriosis on fertility and quality of life.",
+    "Support patients in practical management and symptom relief strategies."
+  ],
+  "definition": "Endometriosis is a chronic condition characterized by the presence of tissue resembling the endometrium (the lining of the uterus) outside the uterine cavity, which induces a chronic inflammatory reaction leading to pain and other symptoms.",
+  "why_this_matters": "Endometriosis affects millions worldwide, often causing significant pain, infertility, and decreased quality of life. Early recognition and evidence-based management can improve outcomes and reduce long-term complications, making patient and provider education essential.",
+  "sections": [
+    {
+      "heading": "Definition and Epidemiology of Endometriosis",
+      "content": "Endometriosis is defined by the growth of endometrial-like tissue outside the uterus, commonly on pelvic organs including the ovaries, fallopian tubes, and peritoneal surfaces. It affects approximately 10-15% of reproductive-age women worldwide, though prevalence estimates vary due to diagnostic challenges. The disease is chronic and progressive in many cases, with symptoms ranging from mild to debilitating. Early identification is complicated by overlap with other pelvic pain disorders."
+    },
+    {
+      "heading": "Pathophysiology and Mechanisms",
+      "content": "The underlying mechanisms of endometriosis involve ectopic implantation of endometrial cells, most commonly explained by Sampson's theory of retrograde menstruation where menstrual blood containing viable endometrial cells flows backward into the pelvic cavity. Other proposed mechanisms include coelomic metaplasia and embryonic cell rests. Immune system dysfunction and inflammation play critical roles, facilitating lesion survival and angiogenesis. Hormonal influences, particularly estrogen dependence, sustain lesion activity and pain."
+    },
+    {
+      "heading": "Risk Factors and Predisposing Conditions",
+      "content": "Risk factors for endometriosis include early menarche, shorter menstrual cycles, nulliparity, genetic predisposition, and family history. Environmental exposures such as dioxins and other endocrine disruptors have been investigated but evidence remains moderate. Protective factors may include prolonged breastfeeding and use of combined hormonal contraceptives. Understanding risk profiles aids in early consideration and diagnosis."
+    },
+    {
+      "heading": "Clinical Presentation and Symptoms",
+      "content": "Patients with endometriosis commonly present with chronic pelvic pain, dysmenorrhea (painful periods), dyspareunia (pain during intercourse), and may experience urinary or gastrointestinal symptoms when lesions involve bladder or bowel. Infertility is also a frequent clinical issue. Symptom severity does not always correlate with lesion extent, and some individuals may be asymptomatic. Pain mechanisms include inflammation, nerve involvement, and adhesions."
+    },
+    {
+      "heading": "Diagnostic Approaches and Challenges",
+      "content": "Diagnosis of endometriosis often begins with detailed history and pelvic examination. Imaging methods like transvaginal ultrasound and MRI can detect endometriomas and deep infiltrating lesions but cannot conclusively identify all endometriosis types. Definitive diagnosis is achieved via laparoscopy with histological confirmation. Non-invasive biomarkers or tests are under investigation but currently lack validation. Delayed diagnosis is common, averaging 7-10 years from symptom onset."
+    },
+    {
+      "heading": "Treatment Options: Medical Management",
+      "content": "Medical therapies aim to reduce symptoms by suppressing ovarian hormone production to induce a hypoestrogenic state, thus limiting lesion stimulation. Common treatments include combined oral contraceptives, progestins, gonadotropin-releasing hormone (GnRH) agonists and antagonists, and aromatase inhibitors. Pain management with NSAIDs is also utilized. Medical treatment does not cure endometriosis but helps in symptom control. Side effects and contraindications vary by medication class."
+    },
+    {
+      "heading": "Treatment Options: Surgical Management",
+      "content": "Surgical treatment involves laparoscopic removal or ablation of endometriotic lesions and adhesions to relieve pain and improve fertility outcomes. Surgery may be conservative (organ-sparing) or, in severe cases, more extensive such as hysterectomy. Surgical expertise and patient selection are crucial to minimize complications and recurrence. Surgery can provide significant relief but may not be curative; some patients require adjunctive medical therapies postoperatively."
+    },
+    {
+      "heading": "Impact of Endometriosis on Fertility",
+      "content": "Endometriosis is associated with infertility in up to 30-50% of affected women. Mechanisms include anatomical distortion by adhesions, inflammation impairing oocyte quality, and altered pelvic environment. Treatment depends on disease severity, patient age, and fertility desire, including surgical intervention or assisted reproductive technologies. Fertility counseling is an important component of comprehensive care."
+    },
+    {
+      "heading": "Misconceptions and Stigma",
+      "content": "Common misconceptions about endometriosis include beliefs that pelvic pain is normal for menstruation, or that endometriosis only occurs in older women. Stigma and normalization of symptoms can delay diagnosis and treatment. Another misconception is that hysterectomy cures endometriosis in all cases, which is not always true. Education and awareness can help counter these misunderstandings and improve patient support."
+    },
+    {
+      "heading": "Lifestyle, Complementary Therapies, and Supportive Care",
+      "content": "Lifestyle modifications such as regular exercise, diet adjustments, and stress reduction may help manage symptoms but evidence is emerging and limited. Complementary therapies like acupuncture, physical therapy, and dietary supplements have shown potential benefit in some studies but require further high-quality research. Support groups and counseling can provide emotional support, addressing the chronic nature and psychosocial impact of the disease."
+    },
+    {
+      "heading": "Safety Considerations in Management",
+      "content": "Safety concerns include monitoring adverse effects of hormonal agents such as bone density reduction with prolonged GnRH agonist use and thromboembolic risk with estrogen-containing therapies. Surgical risks include infection, bleeding, and organ injury. Long-term surveillance and balancing treatment risks vs benefits are essential. Patient education about warning signs and adherence supports safe management."
+    },
+    {
+      "heading": "Future Directions and Emerging Evidence",
+      "content": "Research into non-invasive diagnostics, including blood biomarkers and advanced imaging, aims to reduce diagnostic delays. Novel therapeutics targeting inflammatory and immune pathways are under development. Understanding genetic and molecular profiles may allow personalized treatment. Ongoing clinical trials explore alternative therapies, improving symptom relief and fertility outcomes. Patient-centered research emphasizes quality of life and long-term safety."
+    }
+  ],
+  "practical_guidance": [
+    "Seek early evaluation for persistent pelvic pain or infertility symptoms.",
+    "Maintain a symptom diary to aid clinical assessment.",
+    "Discuss all treatment options including risks, benefits, and expected outcomes with healthcare providers.",
+    "Use hormonal therapies as prescribed and report side effects promptly.",
+    "Consider multidisciplinary approaches including physical therapy and counseling.",
+    "Surgical intervention should be performed by experienced specialists familiar with endometriosis.",
+    "Follow up regularly to monitor symptom control and treatment tolerance.",
+    "Engage with support groups to improve coping and emotional well-being."
+  ],
+  "safety_notes": [
+    "Hormonal treatments may have side effects including mood changes, bone density loss, and increased risk of blood clots.",
+    "Surgical procedures carry risks of anesthesia, infection, and damage to pelvic organs.",
+    "Do not discontinue prescribed medical therapies without consulting healthcare professionals.",
+    "Avoid self-medicating with unproven treatments or supplements lacking evidence of safety and efficacy.",
+    "Report new or worsening symptoms such as severe pain or bleeding promptly."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Endometriosis is just severe menstrual cramps and not a serious condition.",
+      "reality": "Endometriosis is a chronic disease that can cause severe pain, infertility, and significant impact on quality of life, requiring proper diagnosis and management."
+    },
+    {
+      "misconception": "Only older women get endometriosis.",
+      "reality": "Endometriosis primarily affects women of reproductive age and can begin shortly after menstruation starts."
+    },
+    {
+      "misconception": "Hysterectomy always cures endometriosis.",
+      "reality": "Endometriosis can persist even after hysterectomy if endometrial tissue remains outside the uterus."
+    },
+    {
+      "misconception": "Pain severity always matches the extent of disease.",
+      "reality": "Symptom severity does not necessarily correlate with the size or spread of endometriotic lesions."
+    }
+  ],
+  "clinical_pearls": [
+    "Early diagnosis improves management outcomes and quality of life.",
+    "Laparoscopy remains the gold standard for definitive diagnosis but is invasive.",
+    "Multimodal pain management improves patient comfort.",
+    "Hormonal suppression does not cure but controls symptoms.",
+    "Consider fertility preservation strategies in women desiring pregnancy.",
+    "Psychosocial support enhances coping with chronic pain.",
+    "Regular monitoring for side effects of treatments is essential.",
+    "Endometriosis is a systemic disease with potential impacts beyond pelvic organs."
+  ],
+  "key_takeaways": [
+    "Endometriosis is a disease where uterine lining–like tissue grows outside the uterus causing pain and potentially infertility.",
+    "Common symptoms include chronic pelvic pain, painful periods, and pain during intercourse.",
+    "Diagnosis is challenging and often requires laparoscopy to confirm.",
+    "Treatment options include hormonal medications and surgery; choice depends on severity and patient preferences.",
+    "Endometriosis can significantly impact fertility and quality of life.",
+    "Safety monitoring is important for all treatments due to potential side effects and complications.",
+    "Misconceptions and stigma contribute to diagnostic delays and decreased support.",
+    "Emerging research aims to improve diagnosis and personalized therapies."
+  ],
+  "glossary": [
+    {
+      "term": "Endometriosis",
+      "definition": "A condition in which tissue similar to the uterine lining grows outside the uterus causing inflammation and pain."
+    },
+    {
+      "term": "Dysmenorrhea",
+      "definition": "Painful menstrual periods often experienced with endometriosis."
+    },
+    {
+      "term": "Dyspareunia",
+      "definition": "Painful sexual intercourse, a common symptom of endometriosis."
+    },
+    {
+      "term": "Laparoscopy",
+      "definition": "A minimally invasive surgical procedure used to diagnose and treat endometriosis by viewing or removing lesions using a camera and small instruments."
+    },
+    {
+      "term": "Endometrioma",
+      "definition": "A cyst formed when endometriosis tissue grows in the ovary, sometimes called 'chocolate cyst' due to old blood content."
+    },
+    {
+      "term": "GnRH agonists",
+      "definition": "Medications that reduce estrogen production by temporarily suppressing ovarian function, used in endometriosis treatment."
+    },
+    {
+      "term": "Adenomyosis",
+      "definition": "A related condition where endometrial tissue grows into the uterine muscle wall, causing heavy menstrual bleeding and pain."
+    },
+    {
+      "term": "Retrograde menstruation",
+      "definition": "The backward flow of menstrual blood through the fallopian tubes into the pelvic cavity, theorized to contribute to endometriosis development."
+    }
+  ],
+  "related_modules": [
+    "WOM-045",
+    "WOM-089",
+    "PAIN-012"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-END-001",
+      "title": "Endometriosis Lesion Locations",
+      "illustration_type": "Diagram",
+      "description": "Diagram showing common locations of endometrial tissue implants outside the uterus, including ovaries, fallopian tubes, and peritoneum.",
+      "alt_text": "Diagram of female pelvic organs highlighting typical endometriosis lesion sites."
+    },
+    {
+      "illustration_id": "ILL-END-002",
+      "title": "Mechanism of Retrograde Menstruation",
+      "illustration_type": "Flowchart",
+      "description": "Illustration showing the process of retrograde menstruation where menstrual blood flows backward through fallopian tubes into the pelvic cavity.",
+      "alt_text": "Flowchart depicting retrograde menstruation mechanism leading to lesion implantation."
+    },
+    {
+      "illustration_id": "ILL-END-003",
+      "title": "Laparoscopic View of Endometriosis Lesions",
+      "illustration_type": "Photograph",
+      "description": "High-resolution image from a laparoscopic surgery showing typical endometriosis lesions on the peritoneal surface.",
+      "alt_text": "Laparoscopic image displaying endometriotic implants on pelvic peritoneum."
+    },
+    {
+      "illustration_id": "ILL-END-004",
+      "title": "Hormonal Treatment Effects on Endometriosis",
+      "illustration_type": "Infographic",
+      "description": "Infographic outlining how hormonal treatments suppress lesion growth and reduce inflammation in endometriosis.",
+      "alt_text": "Diagram showing effect of hormone therapies on endometrial-like tissue activity."
+    }
+  ],
+  "references": [
+    {
+      "title": "Endometriosis: Pathophysiology and Clinical Implications",
+      "organization_or_authors": "American College of Obstetricians and Gynecologists (ACOG)",
+      "year": "2021",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Diagnosis and Management of Endometriosis: A Review",
+      "organization_or_authors": "National Institute for Health and Care Excellence (NICE) Guidelines",
+      "year": "2017",
+      "identifier": "NG73",
+      "verification_status": "Verified"
+    },
+    {
+      "title": "Treatment of Endometriosis: A Systematic Review",
+      "organization_or_authors": "World Endometriosis Society",
+      "year": "2019",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Endometriosis-associated infertility: pathophysiology and treatment options",
+      "organization_or_authors": "Practice Committee of the American Society for Reproductive Medicine",
+      "year": "2012",
+      "identifier": "",
+      "verification_status": "Verified"
+    }
+  ],
+  "evidence_strength": "Established for clinical features and management; Moderate for emerging diagnostics and novel treatments; Limited for complementary therapies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-078",
+  "title": "Uterine Fibroids",
+  "subtitle": "Definitions, risk factors, symptoms, management, and safety considerations for uterine fibroids.",
+  "domain": "Women's Health",
+  "category": "Common Women's Conditions",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Diagnosis",
+    "Treatment",
+    "Follow-up"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "High School",
+  "keywords": [
+    "uterine fibroids",
+    "leiomyomas",
+    "myomas",
+    "risk factors",
+    "symptoms",
+    "management",
+    "treatment",
+    "safety"
+  ],
+  "related_modules": [
+    "WOM-035_MenstrualDisorders",
+    "WOM-054_InfertilityBasics",
+    "WOM-093_Hysterectomy"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

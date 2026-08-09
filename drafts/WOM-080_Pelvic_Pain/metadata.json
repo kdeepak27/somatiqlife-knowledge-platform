@@ -1,0 +1,36 @@
+{
+  "module_id": "WOM-080",
+  "title": "Pelvic Pain",
+  "subtitle": "Definitions, risk factors, symptoms, management, and safety considerations for pelvic pain.",
+  "domain": "Women's Health",
+  "category": "Common Women's Conditions",
+  "som_stages": [
+    "Recognition",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "Adults",
+    "Clinicians",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "pelvic pain",
+    "chronic pelvic pain",
+    "menstrual pain",
+    "endometriosis",
+    "pelvic inflammatory disease",
+    "pain management",
+    "women's health"
+  ],
+  "related_modules": [
+    "WOM-045_Endometriosis",
+    "WOM-092_Chronic_Pain_Management",
+    "WOM-060_Menstrual_Disorders",
+    "WOM-070_Pelvic_Floor_Dysfunction"
+  ],
+  "evidence_strength": "Established evidence with some moderate areas of emerging research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

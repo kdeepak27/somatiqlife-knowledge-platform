@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-077",
+  "title": "Endometriosis",
+  "subtitle": "Definitions, risk factors, symptoms, management, and safety considerations for endometriosis.",
+  "domain": "Women's Health",
+  "category": "Common Women's Conditions",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Primary Care Providers",
+    "Specialists"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "endometriosis",
+    "pelvic pain",
+    "infertility",
+    "hormonal therapy",
+    "laparoscopy",
+    "chronic pain",
+    "adenomyosis",
+    "dysmenorrhea"
+  ],
+  "related_modules": [
+    "WOM-045",
+    "WOM-089",
+    "PAIN-012"
+  ],
+  "evidence_strength": "Established for clinical features and management; Moderate for emerging diagnostics and novel treatments; Limited for complementary therapies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
