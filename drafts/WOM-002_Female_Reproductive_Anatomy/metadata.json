@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-002",
+  "title": "Female Reproductive Anatomy",
+  "subtitle": "Evidence, physiology, prevention, and practical implications of female reproductive anatomy.",
+  "domain": "Women's Health",
+  "category": "Women's Health Foundations",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Health Educators"
+  ],
+  "reading_level": "Grade 9 (High School)",
+  "keywords": [
+    "female reproductive system",
+    "ovaries",
+    "uterus",
+    "fallopian tubes",
+    "vagina",
+    "menstrual cycle",
+    "fertility",
+    "gynecology",
+    "anatomy"
+  ],
+  "related_modules": [
+    "WOM-001",
+    "WOM-003",
+    "WOM-005"
+  ],
+  "evidence_strength": "Established evidence with recognized clinical guidelines and ongoing research in reproductive health.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

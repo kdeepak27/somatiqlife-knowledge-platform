@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-003",
+  "title": "Female Reproductive Hormones",
+  "subtitle": "Evidence, physiology, prevention, and practical implications of female reproductive hormones.",
+  "domain": "Women's Health",
+  "category": "Women's Health Foundations",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Screening"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "female hormones",
+    "estrogen",
+    "progesterone",
+    "FSH",
+    "LH",
+    "menstrual cycle",
+    "menopause",
+    "reproductive health",
+    "hormonal contraception"
+  ],
+  "related_modules": [
+    "WOM-001",
+    "WOM-002",
+    "WOM-010"
+  ],
+  "evidence_strength": "Established evidence sourced from peer-reviewed endocrinology and gynecology literature.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

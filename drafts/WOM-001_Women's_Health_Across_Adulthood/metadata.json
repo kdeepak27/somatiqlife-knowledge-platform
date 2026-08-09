@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-001",
+  "title": "Women's Health Across Adulthood",
+  "subtitle": "Evidence, physiology, prevention, and practical implications of women's health across adulthood.",
+  "domain": "Women's Health",
+  "category": "Women's Health Foundations",
+  "som_stages": [
+    "Early Adulthood",
+    "Mid Adulthood",
+    "Late Adulthood"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Intermediate - General Audience",
+  "keywords": [
+    "women's health",
+    "adulthood",
+    "menstruation",
+    "menopause",
+    "bone health",
+    "cardiovascular health",
+    "mental health",
+    "exercise",
+    "nutrition",
+    "sexual health"
+  ],
+  "related_modules": [
+    "WOM-002",
+    "WOM-003",
+    "GEN-005"
+  ],
+  "evidence_strength": "Established scientific evidence with some emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
