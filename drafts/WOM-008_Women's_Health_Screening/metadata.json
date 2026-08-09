@@ -1,0 +1,40 @@
+{
+  "module_id": "WOM-008",
+  "title": "Women's Health Screening",
+  "subtitle": "Evidence, physiology, prevention, and practical implications of women's health screening.",
+  "domain": "Women's Health",
+  "category": "Women's Health Foundations",
+  "som_stages": [
+    "Health Maintenance",
+    "Early Detection",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "General Public",
+    "Women",
+    "Primary Care Providers",
+    "Gynecologists",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate (Grade 10 - 12)",
+  "keywords": [
+    "Women's health",
+    "Screening",
+    "Preventive care",
+    "Breast cancer screening",
+    "Cervical cancer screening",
+    "Bone density",
+    "Cardiovascular risk",
+    "Pap smear",
+    "Mammogram",
+    "HPV testing"
+  ],
+  "related_modules": [
+    "WOM-001",
+    "WOM-004",
+    "WOM-007"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

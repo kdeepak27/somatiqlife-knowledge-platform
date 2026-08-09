@@ -1,0 +1,36 @@
+{
+  "module_id": "WOM-006",
+  "title": "Normal Menstrual Variation",
+  "subtitle": "Evidence, physiology, prevention, and practical implications of normal menstrual variation.",
+  "domain": "Women's Health",
+  "category": "Women's Health Foundations",
+  "som_stages": [
+    "Preconception",
+    "Reproductive Health Maintenance",
+    "Menstrual Health"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Educators",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "menstrual cycle",
+    "menstrual variation",
+    "menstruation",
+    "cycle length",
+    "period duration",
+    "menstrual flow",
+    "ovulation",
+    "reproductive health"
+  ],
+  "related_modules": [
+    "WOM-002",
+    "WOM-007",
+    "WOM-010"
+  ],
+  "evidence_strength": "Established and moderate evidence supports the described mechanisms and normal ranges; emerging evidence exists for lifestyle influences and individualized variation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
