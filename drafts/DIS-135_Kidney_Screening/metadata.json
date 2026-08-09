@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-135",
+  "title": "Kidney Screening",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to kidney screening.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Primary Prevention",
+    "Secondary Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "At-Risk Individuals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "kidney screening",
+    "chronic kidney disease",
+    "CKD",
+    "renal function",
+    "glomerular filtration rate",
+    "proteinuria",
+    "albuminuria",
+    "risk factors",
+    "early detection",
+    "prevention"
+  ],
+  "related_modules": [
+    "DIS-036",
+    "DIS-102",
+    "DIS-140"
+  ],
+  "evidence_strength": "Moderate, based on current clinical guidelines and observational studies supporting targeted screening for high-risk groups.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

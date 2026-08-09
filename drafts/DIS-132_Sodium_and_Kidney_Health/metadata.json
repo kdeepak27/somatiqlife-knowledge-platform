@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-132",
+  "title": "Sodium and Kidney Health",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to sodium and kidney health.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Risk Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers",
+    "Public Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Sodium",
+    "Kidney Health",
+    "Salt Intake",
+    "Hypertension",
+    "Chronic Kidney Disease",
+    "Electrolytes",
+    "Blood Pressure",
+    "Dietary Sodium"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-145"
+  ],
+  "evidence_strength": "Established evidence from clinical trials and epidemiological studies supports the relationship between high sodium intake, hypertension, and kidney disease progression. Moderate evidence exists regarding individual variability and optimal sodium thresholds in vulnerable populations. Emerging evidence is evaluating combined effects of sodium and other electrolytes on kidney outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

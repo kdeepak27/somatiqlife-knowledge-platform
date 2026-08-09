@@ -1,0 +1,255 @@
+{
+  "module_id": "DIS-134",
+  "title": "Preventing Acute Kidney Injury",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing acute kidney injury.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "acute kidney injury",
+    "AKI",
+    "kidney failure",
+    "renal injury",
+    "prevention",
+    "risk factors",
+    "screening",
+    "hydration",
+    "medication management"
+  ],
+  "customer_questions": [
+    "What is acute kidney injury (AKI)?",
+    "What are the common causes of AKI?",
+    "Who is at higher risk for developing AKI?",
+    "How can I prevent AKI in daily life?",
+    "Why is hydration important in AKI prevention?",
+    "Can medications cause AKI?",
+    "What symptoms suggest early AKI onset?",
+    "When should I see a doctor to prevent AKI?",
+    "Are there screening tests for AKI risk?",
+    "What lifestyle changes help protect kidney function?",
+    "Is AKI reversible if caught early?",
+    "What are the long-term consequences of AKI?"
+  ],
+  "retrieval_summary": "Acute Kidney Injury (AKI), also known as acute renal failure, is a sudden decline in kidney function characterized by an abrupt decrease in the kidneys' ability to filter waste, balance fluids, and maintain electrolytes. The injury can be caused by diverse mechanisms including reduced blood flow to kidneys (prerenal causes), direct damage to kidney tissue (intrinsic causes), or obstruction of urine flow (postrenal causes). Prevention of AKI is particularly important because it can lead to serious complications including chronic kidney disease and increased mortality. Practical prevention strategies include maintaining adequate hydration, avoiding certain nephrotoxic medications, managing underlying conditions such as hypertension and diabetes, timely recognition of early symptoms, and regular screening in high-risk individuals. Major synonyms and related terms include acute renal failure (ARF) and abrupt kidney dysfunction. Limitations in prevention stem from the complex and multifactorial nature of AKI, challenges in early detection, and variable patient susceptibility. Safety considerations emphasize careful medication use, especially in vulnerable populations, and prompt medical attention when kidney injury symptoms are suspected. This module provides a comprehensive overview on how individuals and healthcare providers can work together to reduce the risk and impact of AKI.",
+  "learning_objectives": [
+    "Define acute kidney injury and understand its pathophysiology.",
+    "Identify common risk factors and causes of AKI.",
+    "Understand the clinical importance of AKI prevention.",
+    "Describe practical preventive measures for AKI.",
+    "Recognize early warning signs and symptoms of AKI.",
+    "Review screening strategies and their utility.",
+    "Address common misconceptions about AKI prevention.",
+    "Understand the limitations and safety considerations in AKI prevention."
+  ],
+  "definition": "Acute Kidney Injury (AKI) is a condition marked by a rapid loss of kidney function, occurring over hours to days, leading to disturbances in fluid balance, electrolyte levels, and accumulation of waste products in the body. It is diagnosed based on changes in serum creatinine levels and urine output.",
+  "why_this_matters": "AKI can quickly progress to serious health problems including kidney failure and increased risk of death. Preventing AKI helps protect overall kidney health, reduces hospitalization, and can improve long-term outcomes for individuals at risk.",
+  "sections": [
+    {
+      "heading": "Definition and Overview of Acute Kidney Injury",
+      "content": "Acute Kidney Injury (AKI) refers to the sudden reduction in kidney function that impairs the body's ability to maintain fluid, electrolyte, and waste balance. AKI is diagnosed clinically by increased serum creatinine or decreased urine output. It is a critical medical condition that can result from various causes and often requires prompt intervention to prevent progression to chronic kidney disease or death."
+    },
+    {
+      "heading": "Common Causes and Mechanisms of AKI",
+      "content": "AKI arises from multiple mechanisms including prerenal causes (such as dehydration or low blood pressure leading to reduced kidney perfusion), intrinsic causes (direct damage to kidney tissues from toxins, ischemia, or inflammation), and postrenal causes (obstruction of urine flow due to conditions like kidney stones or enlarged prostate). Understanding these mechanisms helps guide prevention and treatment."
+    },
+    {
+      "heading": "Risk Factors for Developing AKI",
+      "content": "Risk factors include older age, pre-existing chronic kidney disease, diabetes, hypertension, heart failure, liver disease, sepsis, exposure to nephrotoxic medications or contrast agents, and major surgery. Identifying these factors allows targeted preventive measures in vulnerable populations."
+    },
+    {
+      "heading": "Physiology of the Kidneys Relevant to AKI Prevention",
+      "content": "Kidneys regulate body fluid volume, electrolyte balance, and waste excretion via filtration and reabsorption processes. Maintaining adequate blood flow and avoiding insults that damage nephrons (functional kidney units) are critical to kidney health. This physiology underpins many prevention strategies such as hydration and medication management."
+    },
+    {
+      "heading": "Screening and Early Detection Strategies",
+      "content": "Screening for AKI risk involves monitoring kidney function using serum creatinine tests and urine output measurement, especially in hospitalized or high-risk patients. Early detection allows timely intervention to halt injury progression. Some biomarkers beyond creatinine are being studied, but are not yet standard clinical tools."
+    },
+    {
+      "heading": "Evidence-Based Preventive Measures",
+      "content": "Key preventive actions supported by evidence include maintaining adequate hydration to ensure renal perfusion, avoiding or adjusting dosage of nephrotoxic drugs, controlling blood pressure and blood sugar levels, and limiting contrast exposure during imaging. Adherence to clinical guidelines improves patient outcomes."
+    },
+    {
+      "heading": "Practical Actions for Individuals to Prevent AKI",
+      "content": "Individuals can reduce AKI risk by staying well-hydrated especially during illnesses, informing healthcare providers about all medications and supplements they use, managing chronic diseases effectively, avoiding overuse of over-the-counter pain medicines like NSAIDs, and seeking prompt medical attention when experiencing symptoms like reduced urine output or swelling."
+    },
+    {
+      "heading": "Limitations and Challenges in Preventing AKI",
+      "content": "Despite prevention efforts, AKI can occur unpredictably due to complex interactions of patient factors and sudden health changes like infection or shock. Diagnostic limitations such as delayed rise in serum creatinine can hinder early detection. Some prevention strategies require professional medical oversight."
+    },
+    {
+      "heading": "Common Misconceptions about AKI Prevention",
+      "content": "Misconceptions include beliefs that AKI only occurs in hospital settings, that mild dehydration never affects kidney health, or that all kidney injuries are irreversible. Educating the public on true risks and prevention helps improve adherence to protective behaviors."
+    },
+    {
+      "heading": "Safety Considerations when Preventing AKI",
+      "content": "Prevention must balance hydration without causing fluid overload especially in heart failure patients, cautious use of medications including dose adjustments in kidney impairment, and careful monitoring during medical procedures involving contrast agents. Patient-specific factors influence safety."
+    }
+  ],
+  "practical_guidance": [
+    "Maintain good hydration daily and during illnesses to support kidney perfusion.",
+    "Avoid non-prescribed use of nephrotoxic substances such as NSAIDs or certain antibiotics.",
+    "Inform healthcare providers about all medications and supplements used.",
+    "Manage chronic health conditions like diabetes and hypertension according to medical advice.",
+    "Seek prompt medical attention if symptoms suggest kidney problems, such as decreased urine output or swelling.",
+    "Follow clinician advice regarding contrast imaging and medication adjustments.",
+    "Avoid self-medicating with over-the-counter painkillers during illness without consulting a healthcare provider.",
+    "Engage in regular health check-ups for early detection of kidney function changes."
+  ],
+  "safety_notes": [
+    "Excessive fluid intake can be harmful in patients with heart failure or advanced kidney disease.",
+    "Never stop prescribed medications without consulting a healthcare professional, even if worried about AKI.",
+    "Use over-the-counter medications sparingly and be aware of their potential kidney effects.",
+    "During illness with vomiting or diarrhea, hydration needs may increase; consult a healthcare provider for advice.",
+    "Healthcare providers should monitor kidney function closely in hospitalized or high-risk patients undergoing procedures involving nephrotoxic agents."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "AKI only occurs in hospitals.",
+      "reality": "AKI can happen outside hospitals due to dehydration, infections, or medication effects."
+    },
+    {
+      "misconception": "Mild dehydration does not affect kidneys.",
+      "reality": "Even mild dehydration can reduce kidney blood flow and increase AKI risk."
+    },
+    {
+      "misconception": "All kidney injuries are permanent.",
+      "reality": "Many AKI cases are reversible with early detection and treatment."
+    }
+  ],
+  "clinical_pearls": [
+    "Early recognition and intervention in AKI can prevent progression to chronic kidney disease.",
+    "NSAIDs and certain antibiotics are common but often overlooked causes of AKI due to nephrotoxicity.",
+    "Monitoring urine output is a simple yet effective way to detect early AKI.",
+    "Hydration status is a modifiable risk factor in AKI prevention.",
+    "Patient education on medication risks contributes significantly to AKI prevention."
+  ],
+  "key_takeaways": [
+    "Acute Kidney Injury (AKI) is a rapid decline in kidney function with serious health consequences.",
+    "Prevention focuses on maintaining kidney perfusion and avoiding nephrotoxic insults.",
+    "Risk factors include chronic diseases, older age, and exposure to certain drugs or procedures.",
+    "Screening relies on measuring serum creatinine and urine output changes.",
+    "Adequate hydration and careful medication use are fundamental prevention strategies.",
+    "Early detection is key to reversing AKI and preventing complications.",
+    "Misconceptions about AKI can delay recognition and treatment.",
+    "Safety considerations must tailor prevention efforts to individual patient conditions."
+  ],
+  "glossary": [
+    {
+      "term": "Acute Kidney Injury (AKI)",
+      "definition": "A sudden decrease in kidney function over hours to days causing accumulation of waste and fluid imbalance."
+    },
+    {
+      "term": "Serum Creatinine",
+      "definition": "A blood test measuring creatinine levels, used to assess kidney function."
+    },
+    {
+      "term": "Nephrotoxic",
+      "definition": "Substances or drugs that can cause damage to the kidneys."
+    },
+    {
+      "term": "Prerenal",
+      "definition": "Causes of AKI related to decreased blood flow to the kidneys."
+    },
+    {
+      "term": "Intrinsic AKI",
+      "definition": "AKI caused by direct damage to kidney tissues."
+    },
+    {
+      "term": "Postrenal",
+      "definition": "AKI due to obstruction of urine flow after the kidneys."
+    },
+    {
+      "term": "Nephron",
+      "definition": "The basic functional unit of the kidney responsible for filtering blood."
+    },
+    {
+      "term": "Hydration",
+      "definition": "The process of maintaining adequate body fluid levels to support bodily functions."
+    },
+    {
+      "term": "Chronic Kidney Disease (CKD)",
+      "definition": "Long-term progressive loss of kidney function."
+    },
+    {
+      "term": "NSAIDs",
+      "definition": "Nonsteroidal anti-inflammatory drugs, a common group of painkillers that may affect kidney health."
+    }
+  ],
+  "related_modules": [
+    "DIS-045",
+    "DIS-108",
+    "DIS-125"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Kidney Anatomy and Function",
+      "illustration_type": "Diagram",
+      "description": "An anatomical diagram showing the kidney structure including nephrons and their role in filtering blood.",
+      "alt_text": "Diagram of kidney anatomy highlighting nephrons and blood flow."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Mechanisms of AKI",
+      "illustration_type": "Flowchart",
+      "description": "A flowchart illustrating prerenal, intrinsic, and postrenal causes of AKI with examples of each.",
+      "alt_text": "Flowchart showing different mechanisms causing acute kidney injury."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Preventive Actions for AKI",
+      "illustration_type": "Infographic",
+      "description": "An infographic summarizing practical steps to prevent AKI, such as hydration and medication safety.",
+      "alt_text": "Infographic highlighting key preventive actions against acute kidney injury."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Serum Creatinine Test Process",
+      "illustration_type": "Illustration",
+      "description": "An illustration depicting how blood is collected and analyzed for serum creatinine to evaluate kidney function.",
+      "alt_text": "Illustration of blood draw and lab analysis for kidney function test."
+    }
+  ],
+  "references": [
+    {
+      "title": "KDIGO Clinical Practice Guideline for Acute Kidney Injury",
+      "organization_or_authors": "Kidney Disease: Improving Global Outcomes (KDIGO)",
+      "year": "2012",
+      "identifier": "unverified",
+      "verification_status": "unverified"
+    },
+    {
+      "title": "Acute Kidney Injury: Pathophysiology and Clinical Significance",
+      "organization_or_authors": "M. Lameire, S. Bagga, A. Cruz, et al.",
+      "year": "2013",
+      "identifier": "unverified",
+      "verification_status": "unverified"
+    },
+    {
+      "title": "Prevention of Acute Kidney Injury",
+      "organization_or_authors": "National Institute for Health and Care Excellence (NICE)",
+      "year": "2019",
+      "identifier": "unverified",
+      "verification_status": "unverified"
+    },
+    {
+      "title": "Risk Factors and Epidemiology of Acute Kidney Injury",
+      "organization_or_authors": "R. Kellum, C.F. Lameire",
+      "year": "2013",
+      "identifier": "unverified",
+      "verification_status": "unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and systematic reviews.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-133",
+  "title": "NSAIDs and Kidney Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to NSAIDs and kidney risk.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Risk Reduction"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "NSAIDs",
+    "Nonsteroidal Anti-inflammatory Drugs",
+    "Kidney Risk",
+    "Nephrotoxicity",
+    "Acute Kidney Injury",
+    "Chronic Kidney Disease",
+    "Renal Function",
+    "Prevention",
+    "Screening",
+    "Risk Factors"
+  ],
+  "related_modules": [
+    "DIS-101: Chronic Kidney Disease Prevention",
+    "DIS-140: Drug-Induced Liver and Kidney Toxicity",
+    "DIS-120: Pain Management Strategies"
+  ],
+  "evidence_strength": "Established evidence with moderate limitations due to variability in study designs and populations. Emerging evidence suggests personalized approaches may optimize NSAID safety in kidney disease prevention.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
