@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-196",
+  "title": "Stress and Gut Symptoms",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to stress and gut symptoms.",
+  "domain": "Disease Prevention",
+  "category": "Digestive and Gastrointestinal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stress",
+    "gut symptoms",
+    "digestive health",
+    "gastrointestinal symptoms",
+    "psychological stress",
+    "gut-brain axis",
+    "irritable bowel syndrome",
+    "stress management",
+    "stress prevention"
+  ],
+  "related_modules": [
+    "DIS-102",
+    "DIS-190",
+    "MNT-078"
+  ],
+  "evidence_strength": "Established evidence with some moderate areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

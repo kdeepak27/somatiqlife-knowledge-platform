@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-200",
+  "title": "Preventing Burnout",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing burnout.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Employers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "burnout prevention",
+    "stress management",
+    "mental health",
+    "occupational health",
+    "emotional exhaustion",
+    "professional wellbeing"
+  ],
+  "related_modules": [
+    "DIS-105",
+    "DIS-210",
+    "MHSP-300"
+  ],
+  "evidence_strength": "Established evidence for burnout conceptualization and prevention strategies, moderate evidence for biomarker mechanisms, emerging evidence for novel intervention models.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,273 @@
+{
+  "module_id": "DIS-198",
+  "title": "Healthy Bowel Habits",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to healthy bowel habits.",
+  "domain": "Disease Prevention",
+  "category": "Digestive and Gastrointestinal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Long-term Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "General adult, lay-friendly",
+  "keywords": [
+    "bowel habits",
+    "constipation",
+    "fiber intake",
+    "gut motility",
+    "bowel movement frequency",
+    "colon health",
+    "digestive health",
+    "healthy digestion"
+  ],
+  "customer_questions": [
+    "What are healthy bowel habits?",
+    "How often should an adult have a bowel movement?",
+    "What causes constipation and how can it be prevented?",
+    "Is diarrhea a sign of unhealthy bowel habits?",
+    "What foods promote healthy bowel movements?",
+    "Can exercise improve bowel health?",
+    "What role does fiber play in bowel habits?",
+    "When should I see a doctor about bowel changes?",
+    "Are laxatives safe for regular use?",
+    "Can medications affect bowel habits?",
+    "How does hydration influence bowel movements?",
+    "What are common myths about bowel health?"
+  ],
+  "retrieval_summary": "Healthy bowel habits refer to regular, comfortable bowel movements without straining, pain, or abnormal frequency. They are essential for digestive health and overall wellbeing. Physiologically, normal bowel function depends on coordinated motility of the gastrointestinal tract, balanced secretion and absorption, adequate dietary fiber and hydration, and a healthy gut microbiome. Major synonyms include normal defecation patterns, optimal bowel function, and regularity. However, bowel habits can vary among individuals; what is normal for one person may differ for another, ranging from three bowel movements daily to three times weekly. The prevention of bowel disorders like constipation and diarrhea involves lifestyle factors such as sufficient fiber intake, fluid consumption, physical activity, and timely response to the urge to defecate. Screening for bowel changes is crucial in identifying risks for conditions like colorectal cancer. Practical relevance includes recognizing warning signs of underlying disorders, employing dietary adjustments, and understanding safe use of interventions like laxatives. Limitations exist in generalized recommendations due to individual variability and comorbidities influencing bowel health. Safety aspects emphasize avoiding excessive reliance on stimulant laxatives and addressing symptoms promptly with healthcare guidance. This module provides evidence-based guidance grounded on gastroenterology and nutrition research to support consumers and healthcare professionals in promoting digestive wellbeing through healthy bowel habits.",
+  "learning_objectives": [
+    "Define what constitutes healthy bowel habits and normal variability.",
+    "Explain physiological mechanisms controlling bowel movements.",
+    "Identify major risk factors for bowel disorders like constipation and diarrhea.",
+    "Review evidence-based dietary and lifestyle measures to maintain healthy bowel habits.",
+    "Recognize warning signs that warrant medical evaluation.",
+    "Discuss safety considerations when using bowel-regulating interventions.",
+    "Debunk common misconceptions about bowel health.",
+    "Apply practical guidance for everyday bowel health maintenance."
+  ],
+  "definition": "Healthy bowel habits encompass regular and comfortable defecation patterns characterized by stool consistency and frequency within a typical range, absence of pain or straining, and successful evacuation. These habits reflect normal gastrointestinal motility and function essential for digestive and systemic health.",
+  "why_this_matters": "Maintaining healthy bowel habits is crucial because irregular, painful, or infrequent bowel movements can indicate or lead to digestive disorders such as constipation, fecal impaction, or colorectal disease. Poor bowel health affects quality of life, nutritional absorption, and may signal serious illness. Understanding bowel health enables prevention and early detection of gastrointestinal conditions.",
+  "sections": [
+    {
+      "heading": "Understanding Healthy Bowel Habits: Definition and Variability",
+      "content": "Healthy bowel habits are characterized by regularity, ease of passage, and stool consistency considered normal by established clinical scales like the Bristol Stool Form Scale. While there is significant variability among individuals, having 3 bowel movements per day up to 3 per week can be compatible with health. This section reviews how frequency, consistency, and comfort define healthy defecation."
+    },
+    {
+      "heading": "Physiology of Bowel Movements: Motility, Secretion, and Absorption",
+      "content": "The process of defecation depends on coordinated intestinal motility, involving peristalsis; secretions from glands; absorption of water and electrolytes; and rectal sensory and motor function. Disruptions in these processes can cause stool abnormalities and altered bowel habits. This section explains the underlying mechanisms in detail."
+    },
+    {
+      "heading": "Diet and Fiber: Role in Promoting Regularity",
+      "content": "Dietary fiber—in particular soluble and insoluble fiber—adds bulk and retains water in stool, facilitating passage through the colon. Adequate fiber intake from fruits, vegetables, and whole grains is strongly associated with reduced constipation and improved stool quality. This section summarizes evidence-based fiber recommendations and their physiological benefits."
+    },
+    {
+      "heading": "Hydration and Its Impact on Bowel Function",
+      "content": "Sufficient fluid intake maintains water content in stool, preventing hard, dry stools that lead to constipation. Dehydration is a common contributing factor to altered bowel habits. This section reviews hydration’s role and practical intake guidelines."
+    },
+    {
+      "heading": "Physical Activity and Bowel Health",
+      "content": "Regular exercise stimulates gut motility and can reduce the risk of constipation. Sedentary lifestyle is a recognized risk factor for slower intestinal transit time. Evidence supports incorporating daily physical activity as part of bowel health maintenance."
+    },
+    {
+      "heading": "Common Bowel Disorders: Constipation and Diarrhea",
+      "content": "Constipation is characterized by infrequent, hard, or difficult stools, while diarrhea involves loose, watery stools. Both can reflect underlying physiological or pathological issues. This section discusses causes, symptoms, and prevention strategies relevant to bowel habits."
+    },
+    {
+      "heading": "When to Seek Medical Evaluation: Warning Signs and Screening",
+      "content": "Persistent changes in bowel habits, presence of blood, unexplained weight loss, or family history of colorectal cancer require prompt medical evaluation. Colonoscopy and other screening tools are vital for early diagnosis of serious conditions. This section provides guidelines for timely healthcare consultation."
+    },
+    {
+      "heading": "Safety and Limitations of Bowel Habit Interventions",
+      "content": "Overuse of stimulant laxatives can lead to dependency and worsen bowel function. Bulk-forming agents and osmotic laxatives tend to be safer. Personalized interventions should consider underlying health conditions. This section reviews safety profiles and limitations of common treatments."
+    },
+    {
+      "heading": "Common Misconceptions About Bowel Health",
+      "content": "There are many myths such as “you must have a daily bowel movement” or “all laxatives are safe.” This section clarifies these misconceptions based on scientific evidence to guide realistic expectations."
+    },
+    {
+      "heading": "Practical Tips to Promote Healthy Bowel Habits",
+      "content": "Timely response to bowel urges, consistent meal patterns, balanced diet rich in fiber, adequate fluids, and routine physical activity support bowel health. Small behavioral changes can have significant impacts. This section lists actionable advice for daily life."
+    },
+    {
+      "heading": "Impact of Medications and Medical Conditions on Bowel Habits",
+      "content": "Several medications (e.g., opioids, anticholinergics) and medical conditions (e.g., irritable bowel syndrome, hypothyroidism) influence bowel function and require management considerations. This section overviews these effects to increase awareness."
+    },
+    {
+      "heading": "Emerging Evidence: Gut Microbiome and Bowel Function",
+      "content": "Research indicates that the gut microbiota composition affects motility, stool consistency, and intestinal health. Probiotics and dietary interventions may modulate bowel habits, though evidence is evolving. This section summarizes current scientific understanding and research gaps."
+    }
+  ],
+  "practical_guidance": [
+    "Consume at least 25-30 grams of fiber daily from diverse sources for optimal stool bulk and softness.",
+    "Drink adequate fluids—approximately 2 liters per day for adults, adjusting for activity and climate.",
+    "Engage in moderate physical activity (e.g., 30 minutes of walking most days) to stimulate intestinal motility.",
+    "Respond promptly to the natural urge to defecate to prevent stool retention.",
+    "Limit use of stimulant laxatives; prefer dietary fiber and bulk-forming agents for constipation management.",
+    "Monitor for changes in bowel habits that last more than two weeks and consult a healthcare provider when concerned.",
+    "Adopt regular meal schedules to promote gastrointestinal rhythm and motility.",
+    "Debunk myths that daily bowel movements are mandatory for health; frequency varies individually."
+  ],
+  "safety_notes": [
+    "Avoid chronic use of stimulant laxatives to prevent dependence and possible bowel dysfunction.",
+    "Consult healthcare providers before initiating new supplements or medications affecting bowel habits.",
+    "Be cautious with increasing fiber intake rapidly; increase gradually to avoid bloating and gas discomfort.",
+    "Stay adequately hydrated especially when increasing dietary fiber to prevent worsening constipation.",
+    "Seek medical attention promptly if experiencing blood in stool, severe abdominal pain, or unexplained weight loss."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Everyone must have a bowel movement every day to be healthy.",
+      "reality": "Healthy bowel frequency varies from 3 times per day to 3 times per week depending on the individual."
+    },
+    {
+      "misconception": "Laxatives are safe to use regularly without limits.",
+      "reality": "Overuse of stimulant laxatives can cause bowel dependence and worsen symptoms; safer options exist."
+    },
+    {
+      "misconception": "Straining during bowel movements is normal and unavoidable.",
+      "reality": "Straining indicates possible constipation or poor bowel habits and should be addressed to prevent complications."
+    },
+    {
+      "misconception": "All diarrhea is due to infections and needs antibiotics.",
+      "reality": "Diarrhea has many causes including diet, medications, and chronic conditions; not all require antibiotics."
+    }
+  ],
+  "clinical_pearls": [
+    "Early identification and management of altered bowel habits can prevent complications such as hemorrhoids and fecal impaction.",
+    "Fiber intake should be individualized with attention to tolerance and hydration for efficacy.",
+    "Physical activity improves gut motility beyond dietary factors alone.",
+    "Screening for colorectal cancer should be prioritized when bowel changes are persistent or alarming.",
+    "Educating patients about normal bowel variability reduces unnecessary anxiety and medical visits."
+  ],
+  "key_takeaways": [
+    "Healthy bowel habits vary but generally include regular, comfortable bowel movements without straining.",
+    "Dietary fiber and adequate hydration are foundational for maintaining bowel regularity.",
+    "Physical activity positively influences intestinal motility and stool consistency.",
+    "Constipation and diarrhea have multiple causes requiring tailored prevention and management.",
+    "Overuse of stimulant laxatives carries risks and should be avoided in favor of safer alternatives.",
+    "Persistent changes in bowel habits warrant medical evaluation to exclude serious disease.",
+    "Myths about bowel frequency and laxative safety are common and should be addressed with evidence-based education.",
+    "The gut microbiome is an emerging area influencing bowel health, with ongoing research to define interventions."
+  ],
+  "glossary": [
+    {
+      "term": "Bowel Movements (BM)",
+      "definition": "The act of passing stool from the intestines through the rectum and anus."
+    },
+    {
+      "term": "Constipation",
+      "definition": "A condition characterized by infrequent, hard, or difficult to pass stools."
+    },
+    {
+      "term": "Diarrhea",
+      "definition": "Frequent, loose, or watery stools often due to increased intestinal motility or secretion."
+    },
+    {
+      "term": "Fiber",
+      "definition": "Indigestible plant material that adds bulk to stool and assists bowel movements."
+    },
+    {
+      "term": "Gut Microbiome",
+      "definition": "The community of microorganisms living in the digestive tract impacting health and digestion."
+    },
+    {
+      "term": "Laxatives",
+      "definition": "Substances that promote bowel movements used to relieve constipation."
+    },
+    {
+      "term": "Peristalsis",
+      "definition": "Wave-like muscle contractions that move contents through the gastrointestinal tract."
+    },
+    {
+      "term": "Bristol Stool Form Scale",
+      "definition": "A medical tool classifying stool consistency into seven types to assess bowel health."
+    }
+  ],
+  "related_modules": [
+    "DIS-120 Digestive System Health Basics",
+    "DIS-142 Nutrition and Gut Health",
+    "DIS-203 Colorectal Cancer Screening",
+    "DIS-190 Functional Bowel Disorders"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Bristol Stool Form Scale Chart",
+      "illustration_type": "Diagram",
+      "description": "A diagram showing the seven types of stool consistency as classified by the Bristol Stool Form Scale.",
+      "alt_text": "Chart illustrating stool types from hard lumps to watery."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Physiology of Bowel Movement",
+      "illustration_type": "Diagram",
+      "description": "Diagram depicting gastrointestinal motility, including peristalsis, secretion, and absorption during bowel movements.",
+      "alt_text": "Illustration of intestines showing muscle contractions and stool movement."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Dietary Fiber Sources",
+      "illustration_type": "Infographic",
+      "description": "Visual representation of various dietary fiber sources such as fruits, vegetables, legumes, and whole grains.",
+      "alt_text": "Images of fiber-rich foods including apples, beans, and whole grain bread."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Hydration and Bowel Health",
+      "illustration_type": "Infographic",
+      "description": "Illustration showing the relationship between water intake and stool softness to prevent constipation.",
+      "alt_text": "Graphic showing water consumption aiding soft stool formation."
+    },
+    {
+      "illustration_id": "ILL-005",
+      "title": "Common Misconceptions on Bowel Habits",
+      "illustration_type": "List/Chart",
+      "description": "A visual listing of common myths versus facts about bowel health and habits.",
+      "alt_text": "Table contrasting myths and realities in bowel habits."
+    }
+  ],
+  "references": [
+    {
+      "title": "Dietary Fiber and Constipation: An Evidence-Based Approach",
+      "organization_or_authors": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "year": "2022",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Physical Activity and Gastrointestinal Motility",
+      "organization_or_authors": "American College of Gastroenterology",
+      "year": "2021",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Guidelines on Laxative Use for Chronic Constipation",
+      "organization_or_authors": "American Gastroenterological Association",
+      "year": "2023",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Colorectal Cancer Screening Recommendations",
+      "organization_or_authors": "U.S. Preventive Services Task Force",
+      "year": "2021",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "The Gut Microbiome’s Role in Digestive Health: Current Understanding",
+      "organization_or_authors": "National Institutes of Health, Human Microbiome Project",
+      "year": "2023",
+      "identifier": "",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence supports the core roles of diet, hydration, and physical activity in healthy bowel habits, with moderate evidence emerging on the microbiome’s influence. Clinical guidelines provide safety frameworks for intervention use.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

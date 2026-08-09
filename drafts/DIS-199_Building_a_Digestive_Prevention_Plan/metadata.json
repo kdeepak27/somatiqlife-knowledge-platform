@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-199",
+  "title": "Building a Digestive Prevention Plan",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to building a digestive prevention plan.",
+  "domain": "Disease Prevention",
+  "category": "Digestive and Gastrointestinal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Digestive Health",
+    "Prevention Plan",
+    "Gastrointestinal Risk",
+    "Screening",
+    "Diet",
+    "Fiber",
+    "Gut Microbiome",
+    "Colon Cancer Prevention",
+    "Lifestyle Modification",
+    "Digestive Disorders"
+  ],
+  "related_modules": [
+    "DIS-198",
+    "DIS-200",
+    "DIS-155"
+  ],
+  "evidence_strength": "Established evidence for diet, lifestyle, screening; emerging evidence for microbiome; limited evidence for supplements",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
