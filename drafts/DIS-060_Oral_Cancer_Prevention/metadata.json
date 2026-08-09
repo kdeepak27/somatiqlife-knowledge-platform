@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-060",
+  "title": "Oral Cancer Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to oral cancer prevention.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Patients at Risk"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "oral cancer",
+    "prevention",
+    "risk factors",
+    "screening",
+    "early detection",
+    "tobacco cessation",
+    "alcohol use",
+    "HPV",
+    "oral hygiene",
+    "dietary factors"
+  ],
+  "related_modules": [
+    "DIS-030:Tobacco Cessation",
+    "DIS-042:Alcohol Use and Cancer Risk",
+    "DIS-080:Human Papillomavirus (HPV) Prevention",
+    "DIS-095:Nutritional Interventions in Cancer Prevention"
+  ],
+  "evidence_strength": "Established evidence for tobacco and alcohol risk factors; moderate, emerging evidence for HPV role and dietary factors; limited evidence for universal screening effectiveness.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

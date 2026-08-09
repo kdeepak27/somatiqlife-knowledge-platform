@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-056",
+  "title": "Skin Cancer Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to skin cancer prevention.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Risk Reduction"
+  ],
+  "audience": [
+    "General Public",
+    "Primary Care Providers",
+    "Public Health Educators"
+  ],
+  "reading_level": "Intermediate - Suitable for informed consumers and healthcare professionals",
+  "keywords": [
+    "Skin Cancer",
+    "Prevention",
+    "Melanoma",
+    "Basal Cell Carcinoma",
+    "Squamous Cell Carcinoma",
+    "Sun Protection",
+    "UV Radiation",
+    "Screening",
+    "Body Checks",
+    "Sunscreen"
+  ],
+  "related_modules": [
+    "DIS-034 - Ultraviolet Radiation and Skin Health",
+    "DIS-102 - Cancer Screening Guidelines",
+    "DIS-059 - Melanoma Management"
+  ],
+  "evidence_strength": "Established evidence from epidemiological studies, clinical trials, and expert guidelines supports sun protection and screening for skin cancer prevention. Emerging evidence investigates chemopreventive agents and improved detection technologies. Some areas, like optimal screening intervals, have moderate evidence. Scientific consensus affirms the importance of UV protection in reducing skin cancer burden.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-057",
+  "title": "Liver Cancer Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to liver cancer prevention.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Liver cancer",
+    "Hepatocellular carcinoma",
+    "Cancer prevention",
+    "Risk factors",
+    "Screening",
+    "Hepatitis B",
+    "Hepatitis C",
+    "Alcohol",
+    "Cirrhosis"
+  ],
+  "related_modules": [
+    "DIS-023-Hepatitis_Prevention",
+    "DIS-042-Cancer_Screening_Guidelines",
+    "DIS-062-Weight_Management_for_Cancer_Risk"
+  ],
+  "evidence_strength": "Established evidence with some emerging data on lifestyle modifications and evolving screening strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
