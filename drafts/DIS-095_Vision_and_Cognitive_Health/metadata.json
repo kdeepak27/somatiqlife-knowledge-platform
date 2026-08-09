@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-095",
+  "title": "Vision and Cognitive Health",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to vision and cognitive health.",
+  "domain": "Disease Prevention",
+  "category": "Brain and Neurologic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Lifestyle"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "vision health",
+    "cognitive health",
+    "dementia prevention",
+    "eye-brain connection",
+    "cognitive decline",
+    "screening",
+    "risk factors",
+    "neurodegeneration"
+  ],
+  "related_modules": [
+    "DIS-031",
+    "DIS-087",
+    "DIS-060"
+  ],
+  "evidence_strength": "Established for many risk factors and general associations; moderate to emerging for mechanistic links and early biomarkers.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

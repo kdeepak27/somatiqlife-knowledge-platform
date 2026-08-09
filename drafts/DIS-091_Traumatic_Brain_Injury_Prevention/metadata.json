@@ -1,0 +1,39 @@
+{
+  "module_id": "DIS-091",
+  "title": "Traumatic Brain Injury Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to traumatic brain injury prevention.",
+  "domain": "Disease Prevention",
+  "category": "Brain and Neurologic Prevention",
+  "som_stages": [
+    "Primary Prevention",
+    "Screening",
+    "Risk Reduction"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers",
+    "Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Traumatic Brain Injury",
+    "TBI",
+    "Prevention",
+    "Risk Factors",
+    "Helmet Use",
+    "Fall Prevention",
+    "Concussion",
+    "Safety Measures",
+    "Screening",
+    "Brain Injury"
+  ],
+  "related_modules": [
+    "DIS-010",
+    "DIS-071",
+    "DIS-083"
+  ],
+  "evidence_strength": "Established evidence for helmet use and seat belts; moderate evidence for fall prevention and screening; emerging evidence for biomarker-based risk assessment and advanced protective technology.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

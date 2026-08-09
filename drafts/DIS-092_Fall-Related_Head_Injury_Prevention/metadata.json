@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-092",
+  "title": "Fall-Related Head Injury Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to fall-related head injury prevention.",
+  "domain": "Disease Prevention",
+  "category": "Brain and Neurologic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare providers",
+    "Caregivers",
+    "Elderly individuals"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "fall prevention",
+    "head injury",
+    "traumatic brain injury",
+    "TBI",
+    "brain trauma",
+    "elderly falls",
+    "helmet use",
+    "risk factors",
+    "screening",
+    "safety"
+  ],
+  "related_modules": [
+    "DIS-021",
+    "DIS-110",
+    "DIS-133"
+  ],
+  "evidence_strength": "Established evidence with some moderate and emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

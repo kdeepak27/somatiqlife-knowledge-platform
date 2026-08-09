@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-094",
+  "title": "Preventing Delirium in Older Adults",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing delirium in older adults.",
+  "domain": "Disease Prevention",
+  "category": "Brain and Neurologic Prevention",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Delirium",
+    "Older adults",
+    "Prevention",
+    "Cognitive impairment",
+    "Risk factors",
+    "Screening",
+    "Hospital care",
+    "Delirium management"
+  ],
+  "related_modules": [
+    "DIS-032",
+    "DIS-089",
+    "DIS-101"
+  ],
+  "evidence_strength": "Established evidence for non-pharmacological interventions with moderate evidence for pharmacological prevention strategies and emergent evidence on biomarkers and personalized approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
