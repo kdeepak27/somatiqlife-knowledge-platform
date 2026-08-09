@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-035",
+  "title": "Nutrition Before Pregnancy",
+  "subtitle": "Evidence, practical guidance, and safety considerations for nutrition before pregnancy.",
+  "domain": "Women's Health",
+  "category": "Fertility and Pregnancy",
+  "som_stages": [
+    "Preconception",
+    "Fertility Optimization"
+  ],
+  "audience": [
+    "General Public",
+    "Women Planning Pregnancy",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate - General Audience with Some Scientific Terms",
+  "keywords": [
+    "nutrition",
+    "pre-pregnancy nutrition",
+    "fertility",
+    "folic acid",
+    "micronutrients",
+    "preconception health",
+    "diet",
+    "maternal health",
+    "pregnancy preparation",
+    "vitamins",
+    "minerals"
+  ],
+  "related_modules": [
+    "WOM-001",
+    "WOM-022",
+    "WOM-047"
+  ],
+  "evidence_strength": "Established and Moderate Evidence with Emerging Areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,40 @@
+{
+  "module_id": "WOM-033",
+  "title": "Ovulation",
+  "subtitle": "Evidence, practical guidance, and safety considerations for ovulation.",
+  "domain": "Women's Health",
+  "category": "Fertility and Pregnancy",
+  "som_stages": [
+    "Preconception",
+    "Fertility Tracking",
+    "Early Pregnancy"
+  ],
+  "audience": [
+    "General Public",
+    "Women Planning Pregnancy",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Ovulation",
+    "Menstrual Cycle",
+    "Fertility",
+    "Hormones",
+    "LH Surge",
+    "Basal Body Temperature",
+    "Ovulation Predictor Kits",
+    "Fertile Window",
+    "Corpus Luteum",
+    "Estrogen",
+    "Progesterone"
+  ],
+  "related_modules": [
+    "WOM-010-Menstrual-Cycle-overview",
+    "WOM-035-Fertility-Tracking-Methods",
+    "WOM-040-Polycystic-Ovary-Syndrome-PCOS",
+    "WOM-041-Male-Fertility-Basics"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

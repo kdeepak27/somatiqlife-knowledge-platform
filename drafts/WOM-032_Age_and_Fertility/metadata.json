@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-032",
+  "title": "Age and Fertility",
+  "subtitle": "Evidence, practical guidance, and safety considerations for age and fertility.",
+  "domain": "Women's Health",
+  "category": "Fertility and Pregnancy",
+  "som_stages": [
+    "Preconception",
+    "Conception",
+    "Pregnancy Planning"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Age",
+    "Fertility",
+    "Ovarian Reserve",
+    "Reproductive Age",
+    "Egg Quality",
+    "Assisted Reproductive Technology",
+    "Fecundability",
+    "Menopause",
+    "Fertility Decline",
+    "Pregnancy Outcomes"
+  ],
+  "related_modules": [
+    "WOM-021: Fertility Preservation Techniques",
+    "WOM-017: Assisted Reproductive Technologies Overview",
+    "WOM-045: Pregnancy Risks and Maternal Health"
+  ],
+  "evidence_strength": "Established evidence with moderate evidence in emerging areas such as male age effects and fertility preservation efficacy.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
