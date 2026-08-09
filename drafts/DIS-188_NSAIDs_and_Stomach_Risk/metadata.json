@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-188",
+  "title": "NSAIDs and Stomach Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to nsaids and stomach risk.",
+  "domain": "Disease Prevention",
+  "category": "Digestive and Gastrointestinal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "NSAIDs",
+    "stomach risk",
+    "gastric ulcers",
+    "gastritis",
+    "digestive health",
+    "nonsteroidal anti-inflammatory drugs",
+    "peptic ulcer disease",
+    "gastrointestinal bleeding",
+    "proton pump inhibitors",
+    "risk factors",
+    "screening"
+  ],
+  "related_modules": [
+    "DIS-102",
+    "DIS-145",
+    "DIS-190"
+  ],
+  "evidence_strength": "Established evidence for mechanisms and risk factors; moderate evidence for prevention strategies; emerging evidence on COX-2 inhibitors and personalized risk management.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

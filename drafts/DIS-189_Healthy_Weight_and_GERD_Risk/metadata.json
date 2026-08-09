@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-189",
+  "title": "Healthy Weight and GERD Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to healthy weight and GERD risk.",
+  "domain": "Disease Prevention",
+  "category": "Digestive and Gastrointestinal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "At-Risk Patients"
+  ],
+  "reading_level": "9th Grade",
+  "keywords": [
+    "GERD",
+    "Gastroesophageal Reflux Disease",
+    "Healthy Weight",
+    "Obesity",
+    "Body Mass Index",
+    "Acid Reflux",
+    "Esophagus",
+    "Prevention",
+    "Lifestyle",
+    "Digestive Health"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-202",
+    "NUT-55"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
