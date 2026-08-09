@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-013",
+  "title": "Cardiovascular Risk Scores",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to cardiovascular risk scores.",
+  "domain": "Disease Prevention",
+  "category": "Cardiovascular Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Patients at Risk"
+  ],
+  "reading_level": "Intermediate (Grades 8-12)",
+  "keywords": [
+    "Cardiovascular risk",
+    "Risk score",
+    "Heart disease",
+    "Stroke prevention",
+    "Risk factors",
+    "Cholesterol",
+    "Hypertension",
+    "Diabetes",
+    "Prevention"
+  ],
+  "related_modules": [
+    "DIS-007",
+    "DIS-021",
+    "DIS-035"
+  ],
+  "evidence_strength": "Established evidence with moderate evidence for emerging biomarkers and refinements",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

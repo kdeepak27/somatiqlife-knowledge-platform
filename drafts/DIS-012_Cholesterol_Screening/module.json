@@ -1,0 +1,249 @@
+{
+  "module_id": "DIS-012",
+  "title": "Cholesterol Screening",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to cholesterol screening.",
+  "domain": "Disease Prevention",
+  "category": "Cardiovascular Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Primary Care Providers",
+    "Healthcare Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Cholesterol",
+    "Screening",
+    "LDL",
+    "HDL",
+    "Cardiovascular Disease",
+    "Lipid Profile",
+    "Cardiovascular Risk",
+    "Prevention"
+  ],
+  "customer_questions": [
+    "What is cholesterol screening?",
+    "Why is cholesterol screening important for heart health?",
+    "At what age should I get cholesterol screening?",
+    "How is cholesterol screening done?",
+    "What are the different types of cholesterol measured?",
+    "What do my cholesterol screening results mean?",
+    "How often should cholesterol screening be repeated?",
+    "Can cholesterol levels change over time?",
+    "What factors affect cholesterol levels?",
+    "Are there risks or side effects associated with cholesterol screening?",
+    "How does cholesterol screening help prevent heart disease?",
+    "What can I do if my cholesterol levels are high?"
+  ],
+  "retrieval_summary": "Cholesterol screening is a blood test that measures levels of cholesterol — a fatty substance important for cellular functions but harmful in excess — in the bloodstream. The primary components measured are low-density lipoprotein (LDL), known as “bad” cholesterol, high-density lipoprotein (HDL), the “good” cholesterol, total cholesterol, and triglycerides. Elevated LDL cholesterol is a major risk factor for cardiovascular diseases (CVD), including heart attacks and stroke, because excess LDL contributes to artery plaque buildup, leading to atherosclerosis. Screening helps identify individuals at increased cardiovascular risk to enable timely lifestyle or medical interventions. Common synonyms include lipid profile and lipid panel. Screening is typically performed via a fasting blood draw but can sometimes use non-fasting samples depending on guidelines. Limitations include variability in levels due to recent food intake, biological variation, and the fact that cholesterol alone does not fully capture cardiovascular risk without considering other factors such as blood pressure, smoking, and diabetes. Safety concerns are minimal since it involves standard blood collection. Current evidence from large cohort studies and clinical trials supports cholesterol screening's role in cardiovascular risk stratification and guiding treatment decisions, especially use of statin medications. Despite its clinical value, misconceptions exist such as the belief that cholesterol screening is only necessary if symptoms are present. Practical guidance includes following recommended screening intervals and combining test results with overall risk assessment. Cholesterol screening plays a critical role in primary prevention of cardiovascular disease and improving population health.",
+  "learning_objectives": [
+    "Define cholesterol screening and its components.",
+    "Understand the physiological role of cholesterol in the body.",
+    "Identify cardiovascular risk factors related to cholesterol levels.",
+    "Explain how cholesterol screening is conducted.",
+    "Interpret common cholesterol screening results.",
+    "Describe current evidence supporting cholesterol screening.",
+    "Recognize limitations and misconceptions of cholesterol screening.",
+    "Outline practical actions following cholesterol screening results."
+  ],
+  "definition": "Cholesterol screening is a medical blood test that measures the concentration of various cholesterol types—primarily LDL cholesterol, HDL cholesterol, total cholesterol, and triglycerides—in the bloodstream to assess cardiovascular disease risk.",
+  "why_this_matters": "Cardiovascular disease remains a leading cause of morbidity and mortality worldwide. Elevated cholesterol levels, especially LDL cholesterol, contribute directly to the development of atherosclerosis, increasing the risk of heart attack and stroke. Cholesterol screening enables early identification of individuals at risk, allowing for interventions that can reduce disease burden and improve health outcomes.",
+  "sections": [
+    {
+      "heading": "What is Cholesterol Screening?",
+      "content": "Cholesterol screening is a diagnostic blood test that evaluates lipid levels in the blood. It measures total cholesterol, LDL cholesterol (often called \"bad\" cholesterol due to its role in artery plaque formation), HDL cholesterol (the \"good\" cholesterol that helps remove LDL from the bloodstream), and triglycerides. The screening provides a lipid profile or lipid panel used by clinicians to assess cardiovascular risk. It is a routine preventive health measure recommended by many health authorities."
+    },
+    {
+      "heading": "Physiology of Cholesterol and Lipids",
+      "content": "Cholesterol is a waxy, fat-like substance essential for cell membrane structure, hormone production, and bile acid synthesis. It travels through the blood within lipoproteins — mainly LDL and HDL. LDL carries cholesterol to tissues but can deposit it in artery walls, leading to plaque buildup, while HDL helps transport cholesterol away from arteries to the liver for excretion. Triglycerides are another fat type linked to energy storage and cardiovascular risk. Understanding these mechanisms underpins the rationale for cholesterol screening."
+    },
+    {
+      "heading": "Why is Cholesterol Screening Important?",
+      "content": "Screening identifies abnormal cholesterol levels before symptoms develop, enabling early intervention to lower cardiovascular disease risk. Elevated LDL cholesterol is strongly linked with atherosclerosis, coronary artery disease, and stroke. Early detection through screening allows for lifestyle modifications, such as diet and exercise, and possibly pharmacological treatment. This helps prevent progression to serious cardiovascular events."
+    },
+    {
+      "heading": "When and How to Get Screened",
+      "content": "Most guidelines recommend cholesterol screening starting in adulthood, typically between ages 20-35 depending on risk factors, and earlier for those with family history of heart disease. Screening is done by a simple blood test, often requiring fasting for 9-12 hours to improve accuracy, although some newer guidelines accept non-fasting samples. Repeat testing intervals depend on initial results and cardiovascular risk profile but often range from every 4-6 years in low risk to annually in higher risk individuals."
+    },
+    {
+      "heading": "Interpretation of Cholesterol Screening Results",
+      "content": "Results are reported as milligrams per deciliter (mg/dL) or millimoles per liter (mmol/L) for total cholesterol, LDL, HDL, and triglycerides. Generally, lower LDL and total cholesterol levels and higher HDL levels indicate lower cardiovascular risk. Standard categories define optimal, borderline, and high levels to guide clinical decisions. However, values must be interpreted in the context of overall risk factors like age, blood pressure, smoking, and diabetes."
+    },
+    {
+      "heading": "Evidence Supporting Cholesterol Screening",
+      "content": "Large epidemiological studies and randomized controlled trials have consistently shown that lipid abnormalities—especially elevated LDL cholesterol—increase cardiovascular risk. Statin therapy and lifestyle changes guided by screening results reduce heart attack and stroke incidence. Organizations such as the American Heart Association, U.S. Preventive Services Task Force, and European Society of Cardiology endorse cholesterol screening as part of cardiovascular risk assessment. However, evidence for screening strategies varies by age and risk group."
+    },
+    {
+      "heading": "Limitations and Considerations in Cholesterol Screening",
+      "content": "Cholesterol values can be influenced by recent diet, illness, medications, and biological variability, affecting test accuracy. Screening does not capture all cardiovascular risk components; additional assessments may be needed. Fasting requirements can limit patient compliance. Also, over-reliance on cholesterol values alone may miss high-risk individuals. Understanding these limitations is essential for interpretation and decision-making."
+    },
+    {
+      "heading": "Common Misconceptions About Cholesterol Screening",
+      "content": "Some believe cholesterol screening is unnecessary without symptoms, but cardiovascular disease is often silent until advanced stages. Others think dietary cholesterol strongly impacts blood cholesterol, whereas saturated fats and genetics play bigger roles. There is confusion between total cholesterol and its components, leading to misunderstanding of risks. Education is critical to dispel myths and encourage appropriate screening."
+    },
+    {
+      "heading": "Practical Guidance After Cholesterol Screening",
+      "content": "If cholesterol levels are elevated, lifestyle modifications such as adopting a heart-healthy diet, increasing physical activity, quitting smoking, and weight management are first steps. In some cases, medications like statins are indicated to lower LDL cholesterol. Regular follow-up testing helps monitor progress. Patients should discuss individualized risk and management plans with healthcare providers."
+    },
+    {
+      "heading": "Safety and Risks of Cholesterol Screening",
+      "content": "Cholesterol screening involves standard venipuncture blood collection, which is generally safe with minimal risk such as minor bruising or discomfort. There are no significant health risks directly related to the screening test itself. The main safety considerations relate to using the results responsibly to avoid overtreatment or undertreatment."
+    },
+    {
+      "heading": "Integrating Cholesterol Screening into Cardiovascular Prevention",
+      "content": "Cholesterol screening is a key component of comprehensive cardiovascular risk assessment, often combined with blood pressure, glucose testing, and lifestyle evaluation. Early detection of lipid abnormalities enables timely interventions that reduce cardiovascular events. Population-wide screening programs contribute to overall public health improvement and reductions in cardiovascular mortality."
+    }
+  ],
+  "practical_guidance": [
+    "Schedule cholesterol screening based on age and risk factors as recommended by health authorities.",
+    "Ensure proper preparation for blood tests, including fasting if advised.",
+    "Review results with a healthcare provider to understand personal cardiovascular risk.",
+    "Adopt healthy lifestyle habits including balanced diet, regular exercise, and smoking cessation to manage cholesterol.",
+    "Follow prescribed medication regimens if recommended by your physician.",
+    "Attend regular follow-up appointments for monitoring cholesterol levels and adjusting care plans.",
+    "Use screening results in combination with other risk factors for a comprehensive heart health evaluation.",
+    "Avoid self-diagnosis; rely on professional interpretation and guidance for treatment decisions."
+  ],
+  "safety_notes": [
+    "Blood sample collection for cholesterol screening is generally safe with minimal discomfort or bruising.",
+    "No significant risks are associated with the cholesterol testing procedure itself.",
+    "Avoid making medication changes without consulting your healthcare provider.",
+    "Screening results should not cause undue anxiety; discuss concerns with a clinician.",
+    "Fasting requirements should be followed as per guidelines to ensure accurate results."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Cholesterol screening is only necessary if you have symptoms of heart disease.",
+      "reality": "Cardiovascular disease often develops silently; screening is essential to detect risk before symptoms appear."
+    },
+    {
+      "misconception": "Eating foods high in cholesterol always raises blood cholesterol significantly.",
+      "reality": "Saturated and trans fats, genetics, and overall diet quality have greater impact on blood cholesterol than dietary cholesterol alone."
+    },
+    {
+      "misconception": "Total cholesterol alone determines heart disease risk.",
+      "reality": "LDL, HDL, triglycerides and other factors must be considered alongside total cholesterol for accurate risk assessment."
+    }
+  ],
+  "clinical_pearls": [
+    "Always interpret cholesterol values within the context of the patient’s overall cardiovascular risk profile.",
+    "Non-fasting lipid tests are increasingly accepted for routine screening, improving patient convenience.",
+    "Early cholesterol screening can identify familial hypercholesterolemia, a genetic condition requiring specialized treatment.",
+    "Lifestyle interventions can substantially improve lipid profiles and reduce cardiovascular risk.",
+    "Regular monitoring allows adjustment of therapy and tracks effectiveness of interventions."
+  ],
+  "key_takeaways": [
+    "Cholesterol screening measures blood lipids to assess heart disease risk.",
+    "LDL cholesterol contributes to artery plaque buildup; HDL helps remove LDL.",
+    "Screening enables early detection and prevention of cardiovascular disease.",
+    "Routine blood tests provide a lipid profile including LDL, HDL, total cholesterol, and triglycerides.",
+    "Screening is generally safe and recommended starting in early adulthood depending on risk.",
+    "Results must be interpreted with other risk factors to guide clinical decisions.",
+    "Lifestyle modification and medication reduce risk in those with abnormal cholesterol.",
+    "Misconceptions exist; education ensures informed patient participation and adherence."
+  ],
+  "glossary": [
+    {
+      "term": "Cholesterol",
+      "definition": "A waxy, fat-like substance found in the body, essential for cell membranes and hormone production but harmful in excess."
+    },
+    {
+      "term": "Low-Density Lipoprotein (LDL)",
+      "definition": "Often called \"bad\" cholesterol; carries cholesterol to tissues and can cause plaque buildup in arteries."
+    },
+    {
+      "term": "High-Density Lipoprotein (HDL)",
+      "definition": "Known as \"good\" cholesterol; helps remove LDL cholesterol from the bloodstream by transporting it to the liver."
+    },
+    {
+      "term": "Triglycerides",
+      "definition": "A type of fat in the blood used for energy storage; high levels are associated with increased cardiovascular risk."
+    },
+    {
+      "term": "Lipid Profile / Lipid Panel",
+      "definition": "A blood test measuring total cholesterol, LDL, HDL, and triglycerides to evaluate cardiovascular risk."
+    },
+    {
+      "term": "Atherosclerosis",
+      "definition": "A process where plaque builds up inside arteries leading to narrowed blood vessels and increased risk of heart attack and stroke."
+    },
+    {
+      "term": "Statins",
+      "definition": "Medications that lower LDL cholesterol levels and reduce cardiovascular risk."
+    },
+    {
+      "term": "Fasting",
+      "definition": "Abstaining from all food and drink except water for a period before a blood test to improve test accuracy."
+    }
+  ],
+  "related_modules": [
+    "DIS-015",
+    "DIS-020"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Lipid Transport Mechanism",
+      "illustration_type": "Diagram",
+      "description": "Diagram showing LDL and HDL particles transporting cholesterol through the bloodstream to and from tissues and the liver.",
+      "alt_text": "Diagram of LDL and HDL cholesterol transport in the blood."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Cholesterol Screening Blood Test Procedure",
+      "illustration_type": "Photo",
+      "description": "Photograph illustrating blood being drawn from a patient's arm for cholesterol screening.",
+      "alt_text": "Blood sample collection for cholesterol screening."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Interpreting Cholesterol Levels Chart",
+      "illustration_type": "Chart",
+      "description": "Chart depicting categories of cholesterol levels with typical ranges for total cholesterol, LDL, HDL, and triglycerides.",
+      "alt_text": "Chart showing cholesterol level categories and ranges."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Plaque Buildup in Arteries",
+      "illustration_type": "Diagram",
+      "description": "Cross-sectional diagram of an artery showing plaque buildup caused by LDL cholesterol accumulation leading to narrowed vessel lumen.",
+      "alt_text": "Illustration of artery with cholesterol plaque buildup causing narrowing."
+    }
+  ],
+  "references": [
+    {
+      "title": "2018 AHA/ACC Guideline on the Management of Blood Cholesterol",
+      "organization_or_authors": "American Heart Association / American College of Cardiology",
+      "year": "2018",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Lipid Screening and Cardiovascular Disease Prevention in Adults",
+      "organization_or_authors": "U.S. Preventive Services Task Force",
+      "year": "2016",
+      "identifier": "USPSTF Recommendation Statement",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Cholesterol Treatment Trialists’ (CTT) Collaboration meta-analysis",
+      "organization_or_authors": "Cholesterol Treatment Trialists’ (CTT) Collaboration",
+      "year": "2010",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "European Society of Cardiology Guidelines for cardiovascular disease prevention",
+      "organization_or_authors": "European Society of Cardiology",
+      "year": "2021",
+      "identifier": "",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence supports cholesterol screening for cardiovascular risk assessment and prevention.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
