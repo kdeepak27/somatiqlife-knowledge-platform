@@ -1,0 +1,35 @@
+{
+  "module_id": "WOM-057",
+  "title": "Body Image After Pregnancy",
+  "subtitle": "Evidence-based information, recovery, and safety related to body image after pregnancy.",
+  "domain": "Women's Health",
+  "category": "Postpartum and Parenting",
+  "som_stages": [
+    "Postpartum"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Parents"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "body image",
+    "postpartum",
+    "pregnancy recovery",
+    "psychology",
+    "self-esteem",
+    "maternal health",
+    "physical changes",
+    "mental health",
+    "postpartum support"
+  ],
+  "related_modules": [
+    "WOM-045",
+    "WOM-062",
+    "MH-101"
+  ],
+  "evidence_strength": "Moderate - Based on observational studies, expert consensus, and emerging clinical trials; more rigorous longitudinal and intervention research needed.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
