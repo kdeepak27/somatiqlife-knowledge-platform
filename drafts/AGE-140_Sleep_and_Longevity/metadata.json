@@ -1,0 +1,39 @@
+{
+  "module_id": "AGE-140",
+  "title": "Sleep and Longevity",
+  "subtitle": "What evidence supports sleep and longevity, what remains uncertain, and practical implications.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Longevity and Evidence",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Optimization"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Aging Researchers",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "Sleep Duration",
+    "Sleep Quality",
+    "Longevity",
+    "Biological Aging",
+    "Circadian Rhythm",
+    "Mortality Risk",
+    "Sleep Disorders",
+    "Physical Health",
+    "Cognitive Health",
+    "Immunity"
+  ],
+  "related_modules": [
+    "AGE-120",
+    "AGE-135",
+    "HEA-200"
+  ],
+  "evidence_strength": "Established evidence from epidemiological and mechanistic studies with acknowledged limitations",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
