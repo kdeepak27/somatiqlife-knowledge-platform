@@ -1,0 +1,36 @@
+{
+  "module_id": "MEN-049",
+  "title": "Nocturia in Men",
+  "subtitle": "Risk, symptoms, screening, evidence, and management related to nocturia in men.",
+  "domain": "Men's Health",
+  "category": "Prostate and Urinary Health",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Men",
+    "Healthcare Providers",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Nocturia",
+    "Nighttime urination",
+    "Lower urinary tract symptoms",
+    "Benign prostatic hyperplasia",
+    "Bladder dysfunction",
+    "Sleep disturbance",
+    "Urinary frequency",
+    "Polyuria"
+  ],
+  "related_modules": [
+    "MEN-037-Urinary-Health-in-Men",
+    "MEN-052-Benign-Prostatic-Hyperplasia",
+    "MEN-063-Overactive-Bladder"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
