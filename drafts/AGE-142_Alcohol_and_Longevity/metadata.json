@@ -1,0 +1,36 @@
+{
+  "module_id": "AGE-142",
+  "title": "Alcohol and Longevity",
+  "subtitle": "What evidence supports alcohol and longevity, what remains uncertain, and practical implications.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Longevity and Evidence",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Risk Reduction"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "alcohol",
+    "longevity",
+    "healthy aging",
+    "ethanol",
+    "moderate drinking",
+    "cardiovascular health",
+    "mortality risk",
+    "alcohol metabolism"
+  ],
+  "related_modules": [
+    "AGE-101",
+    "HEA-205",
+    "NUT-310"
+  ],
+  "evidence_strength": "Moderate evidence from observational studies; limited RCT data; emerging mechanistic understanding; potential confounding factors influence interpretation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

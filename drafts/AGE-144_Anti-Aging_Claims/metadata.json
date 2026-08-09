@@ -1,0 +1,37 @@
+{
+  "module_id": "AGE-144",
+  "title": "Anti-Aging Claims",
+  "subtitle": "What evidence supports anti-aging claims, what remains uncertain, and practical implications.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Longevity and Evidence",
+  "som_stages": [
+    "Prevention",
+    "Assessment",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Anti-aging",
+    "Longevity",
+    "Aging mechanisms",
+    "Oxidative stress",
+    "Caloric restriction",
+    "Senescence",
+    "Telomeres",
+    "Hormesis",
+    "Nutraceuticals"
+  ],
+  "related_modules": [
+    "AGE-101",
+    "AGE-127",
+    "NUT-210"
+  ],
+  "evidence_strength": "Established, emerging, and uncertain evidence coexist across interventions with strongest support for lifestyle changes and limited, preliminary data for novel therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
