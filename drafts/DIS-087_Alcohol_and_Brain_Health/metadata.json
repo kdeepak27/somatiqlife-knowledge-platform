@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-087",
+  "title": "Alcohol and Brain Health",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to alcohol and brain health.",
+  "domain": "Disease Prevention",
+  "category": "Brain and Neurologic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "Alcohol",
+    "Brain Health",
+    "Neurotoxicity",
+    "Cognitive Decline",
+    "Alcohol Use Disorder",
+    "Prevention",
+    "Screening",
+    "Neurology"
+  ],
+  "related_modules": [
+    "DIS-044",
+    "DIS-093",
+    "DIS-102"
+  ],
+  "evidence_strength": "Established evidence for alcohol’s neurotoxicity and AUD impact; moderate and protective effects moderately evidenced with conflicting data; screening and prevention strongly supported; recovery variable with emerging evidence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

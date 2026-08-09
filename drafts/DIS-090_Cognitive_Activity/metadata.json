@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-090",
+  "title": "Cognitive Activity",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to cognitive activity.",
+  "domain": "Disease Prevention",
+  "category": "Brain and Neurologic Prevention",
+  "som_stages": [
+    "Primary Prevention",
+    "Secondary Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate (High School to Undergraduate)",
+  "keywords": [
+    "Cognitive Activity",
+    "Brain Health",
+    "Dementia Prevention",
+    "Cognitive Function",
+    "Neuroplasticity",
+    "Screening",
+    "Cognitive Decline",
+    "Mental Exercise",
+    "Cognitive Training"
+  ],
+  "related_modules": [
+    "DIS-091",
+    "DIS-092",
+    "DIS-045"
+  ],
+  "evidence_strength": "Established evidence for benefit of cognitive activity in brain health from observational studies; moderate and emerging evidence for benefits of specific cognitive training programs; emerging research for personalized and combined lifestyle interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
