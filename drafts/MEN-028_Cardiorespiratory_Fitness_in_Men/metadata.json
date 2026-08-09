@@ -1,0 +1,37 @@
+{
+  "module_id": "MEN-028",
+  "title": "Cardiorespiratory Fitness in Men",
+  "subtitle": "Evidence-based training, nutrition, recovery, and safety for cardiorespiratory fitness in men.",
+  "domain": "Men's Health",
+  "category": "Muscle and Fitness",
+  "som_stages": [
+    "Prevention",
+    "Wellness",
+    "Performance"
+  ],
+  "audience": [
+    "Adult Men",
+    "Fitness Enthusiasts",
+    "Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "cardiorespiratory fitness",
+    "cardiovascular health",
+    "aerobic exercise",
+    "men's health",
+    "VO2 max",
+    "endurance training",
+    "recovery",
+    "nutrition",
+    "exercise safety"
+  ],
+  "related_modules": [
+    "GEN-001",
+    "MEN-015",
+    "FIT-022"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and systematic reviews; emerging evidence supports interval training benefits; moderate evidence on nutrition timing effects; consistent safety recommendations from expert consensus.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

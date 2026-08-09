@@ -1,0 +1,39 @@
+{
+  "module_id": "MEN-030",
+  "title": "Recovery for Men",
+  "subtitle": "Evidence-based training, nutrition, recovery, and safety for recovery for men.",
+  "domain": "Men's Health",
+  "category": "Muscle and Fitness",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Performance Optimization"
+  ],
+  "audience": [
+    "Men",
+    "Trainers",
+    "Healthcare Professionals",
+    "Fitness Enthusiasts"
+  ],
+  "reading_level": "High School to Adult",
+  "keywords": [
+    "recovery",
+    "men's fitness",
+    "muscle recovery",
+    "nutrition",
+    "training recovery",
+    "rest",
+    "exercise physiology",
+    "muscle soreness",
+    "overtraining",
+    "sleep"
+  ],
+  "related_modules": [
+    "MEN-015",
+    "FIT-021",
+    "NUT-010"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

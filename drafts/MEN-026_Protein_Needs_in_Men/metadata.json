@@ -1,0 +1,39 @@
+{
+  "module_id": "MEN-026",
+  "title": "Protein Needs in Men",
+  "subtitle": "Evidence-based training, nutrition, recovery, and safety for protein needs in men.",
+  "domain": "Men's Health",
+  "category": "Muscle and Fitness",
+  "som_stages": [
+    "Maintenance",
+    "Training Optimization",
+    "Recovery Enhancement"
+  ],
+  "audience": [
+    "Adult Men",
+    "Fitness Enthusiasts",
+    "Athletes",
+    "Health Professionals",
+    "Trainers"
+  ],
+  "reading_level": "Intermediate - General Public with Interest in Science",
+  "keywords": [
+    "protein intake",
+    "men's health",
+    "muscle protein synthesis",
+    "amino acids",
+    "nutrition",
+    "muscle recovery",
+    "strength training",
+    "dietary protein",
+    "protein timing"
+  ],
+  "related_modules": [
+    "MEN-015",
+    "FIT-042",
+    "NUT-033"
+  ],
+  "evidence_strength": "Established evidence for protein needs related to muscle synthesis in men; moderate evidence on optimal timing; emerging evidence on age-related anabolic resistance and safety in chronic disease populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
