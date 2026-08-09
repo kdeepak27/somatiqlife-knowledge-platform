@@ -1,0 +1,39 @@
+{
+  "module_id": "MEN-002",
+  "title": "Male Reproductive Anatomy",
+  "subtitle": "Evidence, physiology, prevention, and practical implications of male reproductive anatomy.",
+  "domain": "Men's Health",
+  "category": "Men's Health Foundations",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Education"
+  ],
+  "audience": [
+    "General Public",
+    "Men's Health Patients",
+    "Medical Students",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "male reproductive system",
+    "sperm production",
+    "testes",
+    "penis anatomy",
+    "prostate gland",
+    "erection",
+    "male fertility",
+    "androgens",
+    "semen",
+    "vas deferens"
+  ],
+  "related_modules": [
+    "MEN-001",
+    "MEN-003",
+    "MEN-005"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

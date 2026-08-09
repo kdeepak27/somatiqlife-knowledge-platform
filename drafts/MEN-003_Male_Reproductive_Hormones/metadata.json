@@ -1,0 +1,36 @@
+{
+  "module_id": "MEN-003",
+  "title": "Male Reproductive Hormones",
+  "subtitle": "Evidence, physiology, prevention, and practical implications of male reproductive hormones.",
+  "domain": "Men's Health",
+  "category": "Men's Health Foundations",
+  "som_stages": [
+    "Foundations",
+    "Prevention",
+    "Optimization"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Testosterone",
+    "Androgens",
+    "Luteinizing Hormone",
+    "Follicle-Stimulating Hormone",
+    "Male Reproductive Health",
+    "Endocrinology",
+    "Hormonal Regulation",
+    "Hypogonadism"
+  ],
+  "related_modules": [
+    "MEN-001",
+    "MEN-002",
+    "GEN-005"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and epidemiological studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
