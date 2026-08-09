@@ -1,0 +1,32 @@
+{
+  "module_id": "WOM-045",
+  "title": "Postpartum Recovery",
+  "subtitle": "Evidence, practical guidance, and safety considerations for postpartum recovery.",
+  "domain": "Women's Health",
+  "category": "Fertility and Pregnancy",
+  "som_stages": [
+    "Postpartum"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "postpartum recovery",
+    "postnatal care",
+    "maternal health",
+    "perineal healing",
+    "postpartum depression",
+    "lactation",
+    "pelvic floor"
+  ],
+  "related_modules": [
+    "WOM-001",
+    "WOM-030",
+    "WOM-072"
+  ],
+  "evidence_strength": "Established evidence with some areas of emerging research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

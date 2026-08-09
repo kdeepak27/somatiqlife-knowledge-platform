@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-043",
+  "title": "Gestational Diabetes Prevention",
+  "subtitle": "Evidence, practical guidance, and safety considerations for gestational diabetes prevention.",
+  "domain": "Women's Health",
+  "category": "Fertility and Pregnancy",
+  "som_stages": [
+    "Preconception",
+    "Pregnancy"
+  ],
+  "audience": [
+    "Pregnant individuals",
+    "Healthcare providers",
+    "Nutritionists",
+    "Public health educators"
+  ],
+  "reading_level": "Intermediate (health-literate consumers)",
+  "keywords": [
+    "gestational diabetes",
+    "GDM",
+    "pregnancy",
+    "blood sugar",
+    "insulin resistance",
+    "prevention",
+    "diet",
+    "exercise",
+    "weight management",
+    "screening"
+  ],
+  "related_modules": [
+    "WOM-027",
+    "WOM-045",
+    "ENDO-010"
+  ],
+  "evidence_strength": "Established evidence based on systematic reviews and clinical guidelines with emerging areas under ongoing research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

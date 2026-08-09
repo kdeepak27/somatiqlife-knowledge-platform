@@ -1,0 +1,33 @@
+{
+  "module_id": "WOM-042",
+  "title": "Pregnancy Weight Gain",
+  "subtitle": "Evidence, practical guidance, and safety considerations for pregnancy weight gain.",
+  "domain": "Women's Health",
+  "category": "Fertility and Pregnancy",
+  "som_stages": [
+    "Preconception",
+    "Pregnancy",
+    "Postpartum"
+  ],
+  "audience": [
+    "Pregnant Individuals",
+    "Healthcare Providers",
+    "General Public"
+  ],
+  "reading_level": "8th Grade",
+  "keywords": [
+    "pregnancy weight gain",
+    "gestational weight",
+    "maternal nutrition",
+    "fetal development",
+    "pregnancy health"
+  ],
+  "related_modules": [
+    "WOM-035",
+    "WOM-050",
+    "WOM-060"
+  ],
+  "evidence_strength": "Established evidence with some areas of moderate and emerging evidence requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

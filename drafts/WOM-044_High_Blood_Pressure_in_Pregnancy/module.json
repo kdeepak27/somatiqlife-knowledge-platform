@@ -1,0 +1,261 @@
+{
+  "module_id": "WOM-044",
+  "title": "High Blood Pressure in Pregnancy",
+  "subtitle": "Evidence, practical guidance, and safety considerations for high blood pressure in pregnancy.",
+  "domain": "Women's Health",
+  "category": "Fertility and Pregnancy",
+  "som_stages": [
+    "Preconception",
+    "Pregnancy",
+    "Postpartum"
+  ],
+  "audience": [
+    "Pregnant Individuals",
+    "Healthcare Providers",
+    "Caregivers",
+    "General Public"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "hypertension",
+    "pregnancy-induced hypertension",
+    "preeclampsia",
+    "gestational hypertension",
+    "maternal health",
+    "blood pressure monitoring",
+    "pregnancy complications"
+  ],
+  "customer_questions": [
+    "What is high blood pressure in pregnancy?",
+    "What causes high blood pressure during pregnancy?",
+    "How can high blood pressure affect my pregnancy and baby?",
+    "What is the difference between gestational hypertension and preeclampsia?",
+    "How is pregnancy-related high blood pressure diagnosed?",
+    "What are the treatment options for hypertension during pregnancy?",
+    "Are there lifestyle changes that can help manage high blood pressure in pregnancy?",
+    "What risks does high blood pressure pose to the mother and fetus?",
+    "How often should blood pressure be monitored during pregnancy?",
+    "Can high blood pressure in pregnancy affect future pregnancies?",
+    "Is medication safe for treating high blood pressure while pregnant?",
+    "What signs and symptoms should prompt immediate medical attention?"
+  ],
+  "retrieval_summary": "High blood pressure in pregnancy encompasses various conditions characterized by elevated blood pressure levels in pregnant individuals. The primary types are chronic hypertension (pre-existing before pregnancy), gestational hypertension (developing after 20 weeks without proteinuria), and preeclampsia (hypertension with proteinuria and organ dysfunction). Physiologically, pregnancy induces cardiovascular and renal adaptations; however, abnormal vascular responses can lead to hypertension, challenging maternal and fetal health. Mechanisms involve endothelial dysfunction, abnormal placentation, inflammation, and oxidative stress. Clinically, managing hypertension during pregnancy is critical to minimizing risks such as placental abruption, fetal growth restriction, preterm birth, and maternal complications like stroke or renal failure. Diagnosis relies on serial blood pressure measurements, urinalysis for protein, and laboratory assessments. Treatment balances maternal safety and fetal well-being, emphasizing blood pressure control through lifestyle interventions and antihypertensive medications proven safe in pregnancy (e.g., labetalol, nifedipine). Emerging evidence supports low-dose aspirin for high-risk individuals to mitigate preeclampsia risk. Limitations include diagnostic challenges due to overlapping symptoms and variability in clinical guidelines internationally. Safety considerations focus on avoiding medications contraindicated in pregnancy (e.g., ACE inhibitors) and ensuring prompt recognition of severe hypertension requiring urgent care. Understanding terminology such as hypertension, preeclampsia, proteinuria, and placental insufficiency aids comprehension. This module provides evidence-based guidance, clarifying misconceptions and promoting informed decision-making for pregnant individuals and caregivers.",
+  "learning_objectives": [
+    "Define types of high blood pressure in pregnancy and their differences.",
+    "Explain physiological changes in pregnancy affecting blood pressure.",
+    "Identify risks of uncontrolled hypertension for mother and fetus.",
+    "Describe diagnostic criteria and evaluation methods for pregnancy-related hypertension.",
+    "Summarize treatment strategies including safe medication use and lifestyle modifications.",
+    "Recognize warning signs of severe hypertensive complications requiring urgent care.",
+    "Understand evidence supporting preventive measures such as aspirin therapy.",
+    "Clarify common misconceptions about hypertension management during pregnancy."
+  ],
+  "definition": "High blood pressure in pregnancy refers to elevated arterial blood pressure levels detected in a woman during her pregnancy. It includes chronic hypertension existing before pregnancy, gestational hypertension developing after 20 weeks gestation without proteinuria, and preeclampsia characterized by hypertension with proteinuria and potential organ damage. These conditions represent a significant cause of maternal and perinatal morbidity globally.",
+  "why_this_matters": "Hypertension during pregnancy is a common complication that can seriously affect the health of both the mother and baby if left unmanaged. Understanding its types, causes, symptoms, and treatments is critical for ensuring safer pregnancies and reducing risks such as preterm birth, placental problems, and long-term cardiovascular consequences for mothers.",
+  "sections": [
+    {
+      "heading": "Types of High Blood Pressure in Pregnancy",
+      "content": "High blood pressure in pregnancy includes several distinct conditions: chronic hypertension, gestational hypertension, and preeclampsia. Chronic hypertension exists before pregnancy or before 20 weeks gestation and persists afterward. Gestational hypertension is new onset elevated blood pressure diagnosed after 20 weeks without signs of preeclampsia such as proteinuria. Preeclampsia is hypertension after 20 weeks accompanied by proteinuria or evidence of organ damage, such as elevated liver enzymes or low platelet count. Each has implications for monitoring and management during pregnancy."
+    },
+    {
+      "heading": "Physiological Changes in Pregnancy Affecting Blood Pressure",
+      "content": "Pregnancy induces dramatic cardiovascular adaptations including increased blood volume and cardiac output, as well as decreased systemic vascular resistance. Normally, these changes help meet fetal demands and generally cause blood pressure to decrease initially. However, abnormal vascular responses—such as impaired blood vessel dilation or oxidative stress—can cause blood pressure to rise abnormally in susceptible individuals, contributing to hypertensive disorders."
+    },
+    {
+      "heading": "Mechanisms Underlying Hypertension in Pregnancy",
+      "content": "The development of high blood pressure disorders in pregnancy involves complex mechanisms such as abnormal placental development leading to poor blood flow (placental ischemia), endothelial dysfunction, immune and inflammatory responses, and oxidative stress. These processes trigger vasoconstriction and promote hypertension alongside systemic effects causing organ injury, particularly in preeclampsia."
+    },
+    {
+      "heading": "Risks and Complications of High Blood Pressure in Pregnancy",
+      "content": "Uncontrolled hypertension during pregnancy is associated with serious risks including placental abruption (premature separation of the placenta), fetal growth restriction, preterm birth, and increased likelihood of cesarean delivery. Severe hypertension and preeclampsia can lead to maternal complications like stroke, seizures (eclampsia), liver and kidney damage, and increased long-term cardiovascular disease risk."
+    },
+    {
+      "heading": "Diagnostic Criteria and Evaluation",
+      "content": "Diagnosis involves repeated blood pressure measurements showing systolic pressure of 140 mmHg or higher or diastolic pressure of 90 mmHg or higher on two occasions at least four hours apart after 20 weeks gestation. Urine tests assess proteinuria, often defined as ≥300 mg protein in 24-hour collection or a protein/creatinine ratio ≥0.3. Laboratory tests evaluate organ function and help differentiate preeclampsia from gestational hypertension."
+    },
+    {
+      "heading": "Management Strategies and Treatment Options",
+      "content": "Treatment aims to control blood pressure to reduce maternal and fetal risks while avoiding harm from medications. Lifestyle interventions include moderate exercise and dietary modifications such as reduced salt intake. Pharmacologic treatments favored during pregnancy include labetalol, nifedipine, and methyldopa. Close monitoring guides therapy adjustments. Severe cases may require hospitalization and intravenous medication."
+    },
+    {
+      "heading": "Monitoring During Pregnancy and Postpartum",
+      "content": "Frequent blood pressure checks and fetal growth assessments are crucial in managing hypertensive pregnant individuals. Postpartum monitoring is important as blood pressure can remain elevated or worsen after delivery. Early detection of complications enables timely intervention to minimize adverse outcomes."
+    },
+    {
+      "heading": "Prevention and Aspirin Use",
+      "content": "Low-dose aspirin (60-150 mg daily) started during the late first trimester is recommended for pregnant individuals at high risk for preeclampsia based on clinical criteria or biomarkers. This intervention reduces the incidence and severity of preeclampsia by improving placental blood flow. Evidence supports aspirin as a safe preventive therapy when used appropriately."
+    },
+    {
+      "heading": "Safety Considerations and Medication Restrictions",
+      "content": "Some antihypertensive medications such as ACE inhibitors, angiotensin receptor blockers, and direct renin inhibitors are contraindicated in pregnancy due to teratogenic risks. Medications should only be initiated or continued under medical supervision. Patients should be educated about warning signs of severe hypertension requiring emergency care, including severe headaches, visual disturbances, and abdominal pain."
+    },
+    {
+      "heading": "Common Misconceptions about Hypertension in Pregnancy",
+      "content": "Misunderstandings include beliefs that all high blood pressure during pregnancy requires immediate medication, or that hypertension will always harm the baby. Some think lifestyle changes are ineffective or fear all medications are unsafe. Clear evidence indicates individualized approaches are necessary, with some cases needing pharmacotherapy while others benefit from monitoring and non-pharmacologic measures."
+    },
+    {
+      "heading": "Long-term Health Implications for Mother and Child",
+      "content": "Pregnancy-related hypertension, especially preeclampsia, is linked to increased risk of chronic hypertension, cardiovascular disease, and kidney disease later in life for the mother. Children born to affected pregnancies may have higher risks of metabolic and cardiovascular conditions. Awareness promotes ongoing health management postpartum."
+    }
+  ],
+  "practical_guidance": [
+    "Monitor blood pressure regularly during pregnancy and postpartum as recommended by healthcare providers.",
+    "Adopt lifestyle modifications including balanced diet, moderate exercise, and stress reduction to help control blood pressure.",
+    "Discuss all medication use with a healthcare provider to ensure safety for both mother and baby.",
+    "Report any symptoms such as severe headaches, visual changes, or abdominal pain promptly, as these may indicate severe hypertension or preeclampsia.",
+    "Follow prescribed treatment plans, including low-dose aspirin if recommended, to reduce risk of complications.",
+    "Attend all prenatal visits for monitoring of maternal and fetal health.",
+    "Understand that some forms of hypertension may require specialized care or early delivery to protect health.",
+    "Avoid self-medicating or stopping prescribed antihypertensive medications without consulting a doctor."
+  ],
+  "safety_notes": [
+    "Do not use ACE inhibitors, angiotensin receptor blockers, or direct renin inhibitors during pregnancy due to teratogenicity.",
+    "Seek emergency medical attention if experiencing warning signs of severe preeclampsia such as severe headache, vision changes, sudden swelling, or epigastric pain.",
+    "Ensure blood pressure medications prescribed in pregnancy have established safety profiles.",
+    "Inform your healthcare provider about all medications and supplements being taken.",
+    "Do not delay prenatal care or blood pressure monitoring; early detection is vital for preventing complications."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "All high blood pressure during pregnancy requires immediate medication.",
+      "reality": "Not all cases require instant pharmacological treatment; mild gestational hypertension may be managed with monitoring and lifestyle changes."
+    },
+    {
+      "misconception": "Medications for high blood pressure are unsafe in pregnancy.",
+      "reality": "Certain antihypertensive medications such as labetalol and nifedipine have well-established safety profiles and are commonly used during pregnancy."
+    },
+    {
+      "misconception": "Hypertension in pregnancy always harms the baby.",
+      "reality": "With careful management, many pregnant individuals with hypertension have healthy pregnancies and babies."
+    }
+  ],
+  "clinical_pearls": [
+    "Early identification and classification of hypertensive disorders improves outcomes.",
+    "Low-dose aspirin reduces preeclampsia risk in high-risk groups when started early in pregnancy.",
+    "Close monitoring of blood pressure and fetal growth is essential for timely intervention.",
+    "Avoid contraindicated medications to prevent fetal harm.",
+    "Educate patients on symptoms that require urgent evaluation to prevent complications.",
+    "Postpartum blood pressure monitoring is critical as hypertension may worsen after delivery.",
+    "Individualized treatment plans yield the best maternal and fetal outcomes.",
+    "Coordination between obstetric and primary care supports long-term cardiovascular health."
+  ],
+  "key_takeaways": [
+    "High blood pressure in pregnancy includes chronic hypertension, gestational hypertension, and preeclampsia.",
+    "Preeclampsia involves hypertension with proteinuria and/or organ dysfunction after 20 weeks gestation.",
+    "Pregnancy causes cardiovascular changes that may unmask or exacerbate hypertension.",
+    "Uncontrolled hypertension increases risks of serious maternal and fetal complications.",
+    "Diagnosis relies on serial blood pressure readings and laboratory evaluation.",
+    "Safe antihypertensives in pregnancy include labetalol, nifedipine, and methyldopa; some drugs are contraindicated.",
+    "Low-dose aspirin can prevent preeclampsia in high-risk pregnant individuals.",
+    "Early detection, treatment, and monitoring improve pregnancy outcomes and long-term health."
+  ],
+  "glossary": [
+    {
+      "term": "Hypertension",
+      "definition": "Abnormally high blood pressure, typically defined as systolic pressure ≥140 mmHg or diastolic pressure ≥90 mmHg."
+    },
+    {
+      "term": "Preeclampsia",
+      "definition": "A pregnancy-specific hypertensive disorder characterized by high blood pressure and signs of organ damage, typically including proteinuria, occurring after 20 weeks gestation."
+    },
+    {
+      "term": "Gestational Hypertension",
+      "definition": "High blood pressure that develops after 20 weeks of pregnancy without the presence of proteinuria or other organ dysfunction."
+    },
+    {
+      "term": "Proteinuria",
+      "definition": "The presence of excess protein in the urine, often a marker of kidney involvement in preeclampsia."
+    },
+    {
+      "term": "Placental Ischemia",
+      "definition": "Reduced blood flow to the placenta, often implicated in the pathogenesis of hypertensive disorders in pregnancy."
+    },
+    {
+      "term": "Endothelial Dysfunction",
+      "definition": "Impaired function of the inner lining of blood vessels which contributes to the development of hypertension and organ damage."
+    },
+    {
+      "term": "Labetalol",
+      "definition": "A beta-blocker medication commonly used to treat hypertension during pregnancy due to its safety profile."
+    },
+    {
+      "term": "Low-dose Aspirin",
+      "definition": "A preventive treatment consisting of small doses of aspirin (typically 60-150 mg daily) to reduce the risk of preeclampsia in high-risk pregnancies."
+    }
+  ],
+  "related_modules": [
+    "WOM-039",
+    "WOM-046",
+    "CARD-012"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-HBP-001",
+      "title": "Blood Pressure Measurement in Pregnancy",
+      "illustration_type": "Diagram",
+      "description": "Step-by-step visual guide on how to measure blood pressure accurately in pregnant individuals.",
+      "alt_text": "Diagram showing proper blood pressure cuff placement and posture for accurate measurement."
+    },
+    {
+      "illustration_id": "ILL-HBP-002",
+      "title": "Types of Hypertension in Pregnancy",
+      "illustration_type": "Flowchart",
+      "description": "Flowchart differentiating chronic hypertension, gestational hypertension, and preeclampsia including diagnostic criteria.",
+      "alt_text": "Flowchart illustrating classification of hypertensive disorders in pregnancy."
+    },
+    {
+      "illustration_id": "ILL-HBP-003",
+      "title": "Pathophysiology of Preeclampsia",
+      "illustration_type": "Infographic",
+      "description": "Infographic depicting abnormal placentation, endothelial dysfunction, and systemic effects in preeclampsia.",
+      "alt_text": "Diagram showing abnormal blood vessel development and organ effects in preeclampsia."
+    },
+    {
+      "illustration_id": "ILL-HBP-004",
+      "title": "Safe Medications for Hypertension in Pregnancy",
+      "illustration_type": "Table",
+      "description": "Table listing antihypertensive drugs with safety categories and usage notes in pregnancy.",
+      "alt_text": "Table showing commonly used and contraindicated blood pressure medications during pregnancy."
+    }
+  ],
+  "references": [
+    {
+      "title": "Hypertension in Pregnancy: Diagnosis and Management",
+      "organization_or_authors": "American College of Obstetricians and Gynecologists (ACOG)",
+      "year": "2020",
+      "identifier": "ACOG Practice Bulletin No. 222",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "The Management of Hypertensive Disorders during Pregnancy",
+      "organization_or_authors": "National Institute for Health and Care Excellence (NICE)",
+      "year": "2019",
+      "identifier": "NICE Guideline CG107",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Diagnosis and Management of Hypertensive Disorders of Pregnancy: ACOG Practice Bulletin",
+      "organization_or_authors": "American College of Obstetricians and Gynecologists",
+      "year": "2019",
+      "identifier": "No. 203",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Global Burden of Hypertensive Disorders of Pregnancy in 2019: Systematic Review and Meta-Analysis",
+      "organization_or_authors": "World Health Organization (WHO)",
+      "year": "2021",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Prevention of Preeclampsia: Role of Aspirin",
+      "organization_or_authors": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "year": "2017",
+      "identifier": "",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and systematic reviews with some emerging evidence on prevention and long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
