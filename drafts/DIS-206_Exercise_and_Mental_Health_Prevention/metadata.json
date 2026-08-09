@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-206",
+  "title": "Exercise and Mental Health Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to exercise and mental health prevention.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention",
+    "Health Promotion",
+    "Risk Reduction"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "Exercise",
+    "Physical Activity",
+    "Mental Health",
+    "Depression Prevention",
+    "Anxiety Reduction",
+    "Stress Management",
+    "Mood Improvement"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-207",
+    "DIS-305"
+  ],
+  "evidence_strength": "Moderate to Strong: Supported by multiple systematic reviews and meta-analyses with some emerging evidence and recognized limitations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

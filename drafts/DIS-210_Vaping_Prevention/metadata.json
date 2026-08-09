@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-210",
+  "title": "Vaping Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to vaping prevention.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Parents",
+    "Healthcare Providers",
+    "Educators"
+  ],
+  "reading_level": "Middle school to high school",
+  "keywords": [
+    "vaping",
+    "e-cigarettes",
+    "prevention",
+    "nicotine addiction",
+    "youth health",
+    "screening",
+    "risk factors",
+    "substance use"
+  ],
+  "related_modules": [
+    "DIS-107-Tobacco-Cessation",
+    "DIS-215-Substance-Use-Risk-Assessment",
+    "DIS-310-Youth-Mental-Health-Screening"
+  ],
+  "evidence_strength": "Established evidence supplemented by emerging data on long-term outcomes and psychological effects",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

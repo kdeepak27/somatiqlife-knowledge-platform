@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-207",
+  "title": "Social Connection and Mental Health",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to social connection and mental health.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare providers",
+    "Mental health professionals"
+  ],
+  "reading_level": "Medium (grade 9-12)",
+  "keywords": [
+    "social connection",
+    "mental health",
+    "social support",
+    "loneliness",
+    "depression prevention",
+    "anxiety",
+    "risk factors",
+    "screening",
+    "psychosocial health",
+    "wellbeing"
+  ],
+  "related_modules": [
+    "DIS-102",
+    "DIS-321",
+    "DIS-415"
+  ],
+  "evidence_strength": "Established and Moderate Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

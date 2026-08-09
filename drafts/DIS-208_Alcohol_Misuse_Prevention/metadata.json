@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-208",
+  "title": "Alcohol Misuse Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to alcohol misuse prevention.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Community Health Workers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Alcohol misuse",
+    "Prevention",
+    "Screening",
+    "Risk factors",
+    "Behavioral intervention",
+    "Public health",
+    "Addiction",
+    "Substance use disorder"
+  ],
+  "related_modules": [
+    "DIS-205",
+    "DIS-210",
+    "MNT-115"
+  ],
+  "evidence_strength": "Established evidence for screening and behavioral prevention; moderate to emerging evidence for community and policy interventions and genetic risk factors; some uncertainties remain regarding long-term outcomes in diverse populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

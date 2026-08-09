@@ -1,0 +1,32 @@
+{
+  "module_id": "DIS-209",
+  "title": "Smoking Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to smoking prevention.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Professionals"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "Smoking",
+    "Tobacco",
+    "Prevention",
+    "Risk Factors",
+    "Screening",
+    "Nicotine",
+    "Health Education"
+  ],
+  "related_modules": [
+    "DIS-210",
+    "DIS-211"
+  ],
+  "evidence_strength": "Established evidence for behavioral and policy interventions combined; moderate evidence for emerging digital tools.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
