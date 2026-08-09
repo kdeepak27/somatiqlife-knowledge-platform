@@ -1,0 +1,184 @@
+# WOM-019 - Missed Periods
+## Definitions, common causes, evidence-based management, and safety related to missed periods.
+
+**Domain:** Women's Health
+**Category:** Menstrual Health
+**SOM stages:** Awareness, Prevention, Diagnosis, Management
+**Audience:** General Public, Women, Healthcare Providers
+**Reading level:** Moderate
+**Keywords:** Missed periods, Amenorrhea, Menstrual cycle, Menstrual irregularities, Hormonal imbalance, Pregnancy, Stress, Polycystic ovary syndrome, Contraception, Thyroid disorders
+
+## AI Retrieval Summary
+Missed periods, medically known as amenorrhea, refer to the absence of menstruation during a woman's reproductive years. Amenorrhea is classified as primary (absence of menstruation by age 15 or 16) or secondary (absence of menstruation for three or more consecutive cycles in a woman who previously menstruated). The menstruation cycle is governed by complex hormonal interplay involving the hypothalamus, pituitary gland, ovaries, and uterus. Disruption in this hormonal axis can result in missed periods. Common causes include pregnancy, breastfeeding, hormonal imbalances such as polycystic ovary syndrome (PCOS), thyroid disorders, excessive stress, significant weight changes, intense exercise, and certain medications including hormonal contraceptives. While pregnancy is the most frequent cause of secondary amenorrhea, other causes must be evaluated to rule out underlying health issues. Diagnosing missed periods involves clinical evaluation, hormone testing, imaging, and consideration of lifestyle factors. Evidence-based management depends on identifying underlying causes and may include lifestyle modifications, pharmacotherapy, or treatment of specific endocrine disorders. Misconceptions abound such as equating missed periods solely with pregnancy or viewing irregular cycles as always normal, which can delay important care. Safety considerations include timely evaluation to detect potentially serious causes like pituitary tumors or early menopause. This module provides practical guidance for recognizing, understanding, and responding to missed periods, emphasizing the importance of comprehensive evaluation and individualized care plans. Synonyms and related terms include amenorrhea, absent periods, menstrual irregularities, and cycle cessation. Limitations of current evidence include variability in menstrual cycle norms and limited data in adolescents. Overall, awareness of missed periods and their implications enhances women's health and guides appropriate clinical action.
+
+## Customer Questions Answered
+- What does a missed period mean?
+- Can stress cause a missed period?
+- When should I see a doctor for a missed period?
+- Is pregnancy the only reason for a missed period?
+- How does hormonal imbalance affect menstruation?
+- Can birth control cause missed periods?
+- What is amenorrhea and how is it diagnosed?
+- Are missed periods common during breastfeeding?
+- Can thyroid problems lead to missed periods?
+- How can I track my menstrual cycle to detect abnormalities?
+- Is it normal to skip periods sometimes?
+- What treatments are available for missed periods?
+
+## Learning Objectives
+- Define amenorrhea and differentiate between primary and secondary types.
+- Explain the physiological mechanisms regulating the menstrual cycle and causes of missed periods.
+- Identify common and less common causes of missed periods.
+- Describe the diagnostic approach to evaluating missed periods.
+- Discuss evidence-based management strategies for various causes of amenorrhea.
+- Recognize common misconceptions about missed periods and clarify realities.
+- Understand safety considerations and when to seek medical evaluation for missed periods.
+- Utilize practical tracking methods for menstrual health monitoring.
+
+## Definition
+Missed periods, also termed amenorrhea, describe a condition where menstrual bleeding ceases or fails to begin within the typical reproductive age. Amenorrhea is divided into primary amenorrhea, denoting no menstruation onset by age 15-16, and secondary amenorrhea, indicating absence of menstruation for at least three consecutive cycles in women who have previously menstruated.
+
+## Why This Matters
+Menstrual health is a vital sign reflecting overall physical and reproductive health. Missed periods can indicate pregnancy or underlying health conditions ranging from hormonal imbalances to serious disorders. Timely recognition, understanding of causes, and appropriate evaluation ensure that women receive needed care, avoid complications, and maintain well-being. Education about missed periods also dispels myths and empowers women to communicate effectively with healthcare providers.
+
+## Understanding the Menstrual Cycle Physiology
+The menstrual cycle is regulated by a hormonal feedback loop between the hypothalamus, pituitary gland, and ovaries, often called the hypothalamic-pituitary-ovarian (HPO) axis. Gonadotropin-releasing hormone (GnRH) from the hypothalamus stimulates the pituitary to release follicle-stimulating hormone (FSH) and luteinizing hormone (LH). These hormones promote development and release of an egg from the ovary (ovulation) and preparation of the uterine lining for implantation. Disruption at any point in this axis—due to stress, illness, or hormonal imbalance—can halt menstrual bleeding, leading to missed periods.
+
+## Classification of Missed Periods (Amenorrhea)
+Amenorrhea is classified as primary or secondary. Primary amenorrhea refers to the absence of menarche by age 15 or 16. Secondary amenorrhea is the absence of menstruation for three or more consecutive months in women who have previously had periods. This distinction helps guide clinical evaluation, as causes differ by type and age of onset.
+
+## Common Causes of Missed Periods
+Pregnancy is the most common cause of secondary amenorrhea. Other frequent causes include polycystic ovary syndrome (PCOS), hypothalamic amenorrhea due to stress or weight loss, thyroid disorders (hypothyroidism or hyperthyroidism), hyperprolactinemia, premature ovarian insufficiency, and certain medications including hormonal contraceptives. Breastfeeding and menopause are physiological reasons that can cause absence of periods.
+
+## Less Common and Serious Causes
+Rare but important causes include pituitary tumors (prolactinomas), uterine abnormalities (Asherman's syndrome), congenital conditions (Turner syndrome), and chronic systemic illnesses. Early identification and treatment of these conditions can prevent serious complications.
+
+## Diagnostic Approach to Missed Periods
+Evaluation begins with a thorough history and physical examination focusing on menstrual history, weight changes, exercise habits, medications, and systemic symptoms. Laboratory tests include pregnancy testing, hormone levels such as FSH, LH, prolactin, thyroid hormones, and androgens. Imaging studies may include pelvic ultrasound or MRI of the pituitary if clinically indicated.
+
+## Management Strategies Based on Cause
+Treatment focuses on addressing underlying causes. Pregnancy requires prenatal care or counseling. PCOS may be managed with lifestyle modification, hormonal contraception, or insulin-sensitizing agents. Hypothalamic amenorrhea often improves with stress reduction and nutritional support. Thyroid and prolactin disorders necessitate specific medical interventions. Hormonal replacement may be used in premature ovarian failure.
+
+## Tracking Menstrual Cycles and Recognizing Patterns
+Keeping menstrual calendars or using digital apps helps women monitor cycle length, regularity, and spotting patterns. Awareness of normal variations versus abnormal absences can prompt early evaluation. Understanding ovulatory versus anovulatory cycles aids in reproductive planning.
+
+## Common Misconceptions about Missed Periods
+A frequent misconception is equating every missed period with pregnancy; however, several non-pregnancy causes exist. Another is assuming irregular periods are always normal, which can delay diagnosis of treatable conditions. Also, some believe birth control always stops periods, though many formulations maintain cycles.
+
+## Safety and When to Seek Medical Care
+Missed periods accompanied by severe symptoms like pelvic pain, headaches, vision changes, or unexpected weight changes warrant urgent medical review. Persistent amenorrhea increases risk of osteoporosis and infertility if untreated. Timely clinical evaluation ensures safe management and identification of serious disorders.
+
+## Evidence and Limitations in Menstrual Health Research
+Current evidence underlines the hormonal and physiological causes of amenorrhea with well-established diagnostic protocols. Limitations include variability in menstrual norms across populations and less research on adolescent menstrual disorders. Emerging studies explore genetic and environmental influences but require further validation.
+
+## Practical Guidance for Women and Healthcare Providers
+Women are encouraged to keep menstrual records and report missed periods promptly. Healthcare providers should conduct holistic assessments considering lifestyle and psychological factors alongside medical causes. Multidisciplinary care may be necessary for complex cases to optimize outcomes.
+
+## Practical Guidance
+- Maintain a menstrual calendar or use reputable tracking apps to monitor cycle regularity and recognize missed periods early.
+- If a period is missed for more than one cycle or accompanied by other symptoms, consult a healthcare provider to rule out pregnancy or underlying conditions.
+- Adopt healthy lifestyle practices including balanced nutrition, stress management, and moderate exercise to support menstrual health.
+- Inform your healthcare provider about all medications and supplements being taken, as some can affect menstrual cycles.
+- Avoid self-diagnosis; menstrual irregularities can have diverse causes requiring professional evaluation.
+- Discuss contraceptive options and effects on menstruation with a healthcare professional to set realistic expectations.
+- Seek urgent medical attention if missed periods are coupled with symptoms like severe headache, vision changes, pelvic pain, or sudden weight loss.
+- Use evidence-based treatments directed at the underlying cause rather than unproven remedies.
+
+## Safety Notes
+- Do not ignore missed periods especially when accompanied by concerning symptoms; delay can lead to worsening of treatable conditions.
+- Pregnancy tests should be done promptly to confirm or exclude pregnancy as a cause of missed periods.
+- Hormonal medications should only be used under medical supervision to avoid side effects and interactions.
+- Breastfeeding women may experience amenorrhea but should consult providers for guidance regarding contraception and menstrual changes.
+- Women with chronic diseases should monitor menstrual changes as they may indicate disease progression or complications.
+
+## Common Misconceptions
+### A missed period always means pregnancy.
+**Reality:** While pregnancy is a common cause, missed periods can also result from stress, hormonal imbalances, or medical conditions.
+
+### Skipping periods occasionally is normal and requires no attention.
+**Reality:** Irregular periods can be normal but frequent or prolonged missed periods should be evaluated to exclude underlying problems.
+
+### Using birth control stops periods permanently.
+**Reality:** Most hormonal contraceptives regulate and may reduce bleeding but do not cause permanent cessation of menstruation.
+
+## Clinical Pearls
+- Pregnancy should be excluded first in any woman of reproductive age with missed periods.
+- Polycystic ovary syndrome is a leading cause of secondary amenorrhea and often presents with other signs such as acne or excess hair growth.
+- Lifestyle factors such as extreme exercise and stress significantly impact menstrual regularity by altering hypothalamic function.
+- Measuring serum prolactin levels is important if galactorrhea (milk secretion) or amenorrhea is present to evaluate for pituitary causes.
+- Early diagnosis and treatment of amenorrhea prevent long-term complications including infertility and bone loss.
+
+## Key Takeaways
+- Missed periods, or amenorrhea, can be primary or secondary with differing causes and implications.
+- Pregnancy is the most common cause but multiple other medical and lifestyle factors can disrupt menstruation.
+- The menstrual cycle is regulated by the hypothalamic-pituitary-ovarian axis; disruption leads to amenorrhea.
+- Evaluation includes clinical history, hormonal assays, imaging, and consideration of systemic diseases.
+- Common causes include PCOS, thyroid disorders, stress, and medications such as contraceptives.
+- Management is tailored to the underlying cause, including lifestyle changes, medical treatments, or hormone therapy.
+- Misconceptions about missed periods can delay diagnosis; education is important.
+- Prompt evaluation of missed periods improves health outcomes and addresses fertility concerns.
+
+## Glossary
+- **Amenorrhea:** Medical term for absence of menstrual periods.
+- **Hypothalamic-pituitary-ovarian (HPO) axis:** The hormonal system regulating the menstrual cycle through interactions between the brain and ovaries.
+- **Follicle-stimulating hormone (FSH):** A hormone from the pituitary gland that stimulates ovarian follicle growth.
+- **Luteinizing hormone (LH):** A hormone responsible for triggering ovulation and corpus luteum formation.
+- **Polycystic ovary syndrome (PCOS):** A common hormonal disorder causing irregular periods, cystic ovaries, and other symptoms.
+- **Hyperprolactinemia:** Elevated levels of the hormone prolactin, which can interfere with menstruation.
+- **Primary amenorrhea:** Failure to start menstruation by age 15 or 16.
+- **Secondary amenorrhea:** Cessation of menstruation for three or more months in a woman who previously had regular periods.
+- **Hypothyroidism:** Underactive thyroid gland producing insufficient thyroid hormones.
+- **Breastfeeding amenorrhea:** Natural suppression of menstruation during lactation due to hormonal changes.
+
+## Related Modules
+- WOM-005_Hormonal_Contraception
+- WOM-011_Polycystic_Ovary_Syndrome
+- WOM-014_Thyroid_Disorders_in_Women
+- WOM-021_Menstrual_Cycle_Basics
+
+## Illustration Specifications
+### ILL001 - Hypothalamic-Pituitary-Ovarian Axis
+**Type:** Diagram
+
+Visual diagram showing the hormonal interactions between hypothalamus, pituitary gland, and ovaries controlling menstruation.
+
+**Alt text:** Diagram of hypothalamic-pituitary-ovarian hormonal axis
+
+### ILL002 - Menstrual Cycle Phases
+**Type:** Chart
+
+Graphical representation of menstrual cycle phases including follicular phase, ovulation, luteal phase, and menstruation.
+
+**Alt text:** Chart of menstrual cycle phases over 28 days
+
+### ILL003 - Common Causes of Missed Periods
+**Type:** Infographic
+
+Infographic listing pregnancy, PCOS, thyroid disorders, stress, breastfeeding, and medications as common causes of amenorrhea.
+
+**Alt text:** Infographic of common causes of missed periods
+
+### ILL004 - Diagnostic Flowchart for Amenorrhea
+**Type:** Flowchart
+
+Stepwise flowchart outlining clinical evaluation and diagnostic tests for women presenting with missed periods.
+
+**Alt text:** Flowchart of diagnostic approach to amenorrhea
+
+### ILL005 - Impact of Lifestyle on Menstruation
+**Type:** Illustration
+
+Illustration showing effects of stress, weight loss, and exercise on menstrual cycle regulation.
+
+**Alt text:** Illustration depicting lifestyle factors affecting menstrual health
+
+## References
+- Diagnosis and Management of Amenorrhea | American College of Obstetricians and Gynecologists (ACOG) | 2015 | Practice Bulletin No. 128 | Unverified
+- Clinical Gynecologic Endocrinology and Infertility | Marc A. Fritz, Leon Speroff | 2015 | 7th Edition, Lippincott Williams & Wilkins | Unverified
+- The Menstrual Cycle: A Practical Approach | Josette C. Dawood | 2017 | Journal of Midwifery & Women's Health | Unverified
+- Polycystic Ovary Syndrome: A Review | Legro RS, Arslanian SA, Ehrmann DA et al. | 2013 | The Journal of Clinical Endocrinology & Metabolism | Unverified
+- Hypothalamic Amenorrhea | Berga SL | 2010 | Endocrinology and Metabolism Clinics of North America | Unverified
+
+**Evidence strength:** Established evidence for most major causes and physiological mechanisms; moderate evidence for emerging diagnostic and therapeutic approaches.
+**Version:** 1.0
+**Review status:** AI draft - scientific, clinical, and editorial review required

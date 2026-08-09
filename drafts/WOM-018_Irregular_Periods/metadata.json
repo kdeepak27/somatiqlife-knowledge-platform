@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-018",
+  "title": "Irregular Periods",
+  "subtitle": "Definitions, common causes, evidence-based management, and safety related to irregular periods.",
+  "domain": "Women's Health",
+  "category": "Menstrual Health",
+  "som_stages": [
+    "Recognition",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "General Public"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "Irregular periods",
+    "Menstrual irregularities",
+    "Oligomenorrhea",
+    "Polymenorrhea",
+    "Amenorrhea",
+    "Menstrual cycle",
+    "Hormonal imbalance",
+    "PCOS",
+    "Thyroid dysfunction",
+    "Menstrual health management"
+  ],
+  "related_modules": [
+    "WOM-012",
+    "WOM-021",
+    "ENDO-007"
+  ],
+  "evidence_strength": "Established evidence with emerging insights in lifestyle and holistic management",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

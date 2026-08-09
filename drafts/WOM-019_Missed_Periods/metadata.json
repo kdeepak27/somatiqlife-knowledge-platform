@@ -1,0 +1,40 @@
+{
+  "module_id": "WOM-019",
+  "title": "Missed Periods",
+  "subtitle": "Definitions, common causes, evidence-based management, and safety related to missed periods.",
+  "domain": "Women's Health",
+  "category": "Menstrual Health",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Women",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "Missed periods",
+    "Amenorrhea",
+    "Menstrual cycle",
+    "Menstrual irregularities",
+    "Hormonal imbalance",
+    "Pregnancy",
+    "Stress",
+    "Polycystic ovary syndrome",
+    "Contraception",
+    "Thyroid disorders"
+  ],
+  "related_modules": [
+    "WOM-005_Hormonal_Contraception",
+    "WOM-011_Polycystic_Ovary_Syndrome",
+    "WOM-014_Thyroid_Disorders_in_Women",
+    "WOM-021_Menstrual_Cycle_Basics"
+  ],
+  "evidence_strength": "Established evidence for most major causes and physiological mechanisms; moderate evidence for emerging diagnostic and therapeutic approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

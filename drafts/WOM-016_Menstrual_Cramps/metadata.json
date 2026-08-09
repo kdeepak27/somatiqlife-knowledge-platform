@@ -1,0 +1,36 @@
+{
+  "module_id": "WOM-016",
+  "title": "Menstrual Cramps",
+  "subtitle": "Definitions, common causes, evidence-based management, and safety related to menstrual cramps.",
+  "domain": "Women's Health",
+  "category": "Menstrual Health",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "menstrual cramps",
+    "dysmenorrhea",
+    "period pain",
+    "prostaglandins",
+    "pain management",
+    "NSAIDs",
+    "hormonal therapy",
+    "menstrual health"
+  ],
+  "related_modules": [
+    "WOM-001",
+    "WOM-004",
+    "WOM-012"
+  ],
+  "evidence_strength": "Established evidence supports the role of prostaglandins in menstrual cramps and efficacy of NSAIDs and hormonal contraceptives for primary dysmenorrhea. Complementary therapies have moderate or emerging evidence. Secondary dysmenorrhea requires targeted diagnosis and management based on underlying pathology.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

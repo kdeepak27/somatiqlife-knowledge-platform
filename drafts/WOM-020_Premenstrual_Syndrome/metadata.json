@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-020",
+  "title": "Premenstrual Syndrome",
+  "subtitle": "Definitions, common causes, evidence-based management, and safety related to premenstrual syndrome.",
+  "domain": "Women's Health",
+  "category": "Menstrual Health",
+  "som_stages": [
+    "Assessment",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Students"
+  ],
+  "reading_level": "General Audience",
+  "keywords": [
+    "Premenstrual Syndrome",
+    "PMS",
+    "Menstrual Cycle",
+    "Hormones",
+    "Mood Symptoms",
+    "Physical Symptoms",
+    "Lifestyle Management",
+    "Medication"
+  ],
+  "related_modules": [
+    "WOM-015-Menstrual-Cycle-Physiology",
+    "WOM-025-Premenstrual-Dysphoric-Disorder",
+    "WOM-030-Menstrual-Migraine",
+    "WOM-040-Hormonal-Treatments-in-Gynecology"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence for supplements and emerging research on mechanisms and treatments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
