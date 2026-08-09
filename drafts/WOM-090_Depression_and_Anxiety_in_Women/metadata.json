@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-090",
+  "title": "Depression and Anxiety in Women",
+  "subtitle": "Definitions, risk factors, symptoms, management, and safety considerations for depression and anxiety in women.",
+  "domain": "Women's Health",
+  "category": "Common Women's Conditions",
+  "som_stages": [
+    "Prevention",
+    "Recognition",
+    "Management",
+    "Support"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "Depression",
+    "Anxiety",
+    "Women",
+    "Mental Health",
+    "Hormonal Influence",
+    "Psychotherapy",
+    "Pharmacotherapy",
+    "Risk Factors",
+    "Safety"
+  ],
+  "related_modules": [
+    "WOM-045",
+    "MNH-032",
+    "PSY-101"
+  ],
+  "evidence_strength": "Established evidence with some emerging and context-specific data.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

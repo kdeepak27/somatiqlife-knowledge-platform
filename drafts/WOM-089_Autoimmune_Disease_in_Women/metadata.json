@@ -1,0 +1,40 @@
+{
+  "module_id": "WOM-089",
+  "title": "Autoimmune Disease in Women",
+  "subtitle": "Definitions, risk factors, symptoms, management, and safety considerations for autoimmune disease in women.",
+  "domain": "Women's Health",
+  "category": "Common Women's Conditions",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers",
+    "Specialists"
+  ],
+  "reading_level": "Intermediate - informed layperson",
+  "keywords": [
+    "autoimmune disease",
+    "women's health",
+    "risk factors",
+    "immune system",
+    "inflammation",
+    "symptoms",
+    "management",
+    "treatment",
+    "safety",
+    "immune dysregulation"
+  ],
+  "related_modules": [
+    "WOM-045",
+    "IMMU-102",
+    "ENDO-067"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights on microbiome and vitamin D involvement",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

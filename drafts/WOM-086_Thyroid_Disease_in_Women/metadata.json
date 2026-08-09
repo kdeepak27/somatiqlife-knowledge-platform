@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-086",
+  "title": "Thyroid Disease in Women",
+  "subtitle": "Definitions, risk factors, symptoms, management, and safety considerations for thyroid disease in women.",
+  "domain": "Women's Health",
+  "category": "Common Women's Conditions",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "thyroid disease",
+    "women's health",
+    "hypothyroidism",
+    "hyperthyroidism",
+    "thyroid hormones",
+    "autoimmune thyroid disease",
+    "pregnancy",
+    "symptoms",
+    "treatment",
+    "thyroid nodules"
+  ],
+  "related_modules": [
+    "WOM-034: Menstrual Health and Disorders",
+    "WOM-091: Pregnancy Complications",
+    "WOM-014: Autoimmune Diseases in Women"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and systematic reviews, with some emerging evidence on complementary therapies and subclinical disease management.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,259 @@
+{
+  "module_id": "WOM-089",
+  "title": "Autoimmune Disease in Women",
+  "subtitle": "Definitions, risk factors, symptoms, management, and safety considerations for autoimmune disease in women.",
+  "domain": "Women's Health",
+  "category": "Common Women's Conditions",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers",
+    "Specialists"
+  ],
+  "reading_level": "Intermediate - informed layperson",
+  "keywords": [
+    "autoimmune disease",
+    "women's health",
+    "risk factors",
+    "immune system",
+    "inflammation",
+    "symptoms",
+    "management",
+    "treatment",
+    "safety",
+    "immune dysregulation"
+  ],
+  "customer_questions": [
+    "What is an autoimmune disease?",
+    "Why are autoimmune diseases more common in women?",
+    "What are the most common autoimmune diseases affecting women?",
+    "What symptoms should women watch for that might suggest an autoimmune disease?",
+    "How are autoimmune diseases diagnosed in women?",
+    "What are the known risk factors for developing autoimmune diseases in women?",
+    "How do hormones influence autoimmune disease risk in women?",
+    "What treatment options exist for autoimmune diseases in women?",
+    "Are lifestyle changes effective in managing autoimmune diseases?",
+    "What safety considerations are important when using immunosuppressive therapies?",
+    "Can autoimmune diseases affect women's reproductive health?",
+    "How can women reduce their risk of autoimmune diseases?"
+  ],
+  "retrieval_summary": "Autoimmune diseases are conditions in which the body's immune system mistakenly attacks its own tissues, causing chronic inflammation and dysfunction. These diseases disproportionately affect women, with approximately 78% of autoimmune disease patients being female. The higher prevalence in women is influenced by complex interactions between genetic, hormonal, and environmental factors. Common autoimmune diseases in women include systemic lupus erythematosus (SLE), rheumatoid arthritis (RA), Hashimoto's thyroiditis, and multiple sclerosis (MS). The immune dysregulation underlying autoimmune diseases involves loss of self-tolerance and aberrant activation of immune cells. Symptoms can vary widely based on disease type and affected organs but often include fatigue, joint pain, rash, and organ-specific manifestations. Diagnosing autoimmune diseases typically requires a combination of clinical evaluation, laboratory markers such as autoantibodies, and imaging studies. Management focuses on controlling immune activity through medications like corticosteroids, disease-modifying antirheumatic drugs (DMARDs), and biologics, alongside lifestyle modifications including diet, exercise, and stress management. Safety considerations are critical due to immunosuppression risks and potential impacts on reproductive health. Emerging evidence highlights the role of microbiome alterations and vitamin D status in modulating autoimmune risk. Limitations in current knowledge include incomplete understanding of precise triggers and challenges in early diagnosis. Educating women and healthcare providers about symptom recognition and risk factors can facilitate timely management and improve outcomes. This module offers a comprehensive overview to support informed decision-making and symptom management tailored to women’s unique health needs related to autoimmune diseases.",
+  "learning_objectives": [
+    "Define autoimmune disease and understand its basic mechanisms.",
+    "Identify why autoimmune diseases are more prevalent in women.",
+    "Recognize common autoimmune diseases affecting women and their symptoms.",
+    "Understand diagnostic approaches used for autoimmune diseases in women.",
+    "Discuss hormonal and genetic risk factors contributing to autoimmune diseases.",
+    "Describe current management strategies including medications and lifestyle changes.",
+    "Evaluate safety considerations related to autoimmune disease treatments.",
+    "Address common misconceptions and provide evidence-based patient education."
+  ],
+  "definition": "Autoimmune diseases are a group of disorders characterized by the immune system's inappropriate attack on the body's own tissues, leading to inflammation, tissue damage, and organ dysfunction. These diseases result from loss of immunological self-tolerance, whereby immune cells fail to recognize self-antigens as harmless. This can lead to chronic and sometimes systemic symptoms varying by disease type.",
+  "why_this_matters": "Autoimmune diseases can cause significant morbidity and reduce quality of life, especially in women who experience a higher burden of these conditions. Understanding their unique risk factors, presentations, and management options empowers women and healthcare providers to optimize care, improve early diagnosis, and reduce complications. Effective management also helps minimize side effects of treatments and addresses safety concerns related to immunosuppression and reproductive health.",
+  "sections": [
+    {
+      "heading": "Understanding Autoimmune Disease",
+      "content": "Autoimmune diseases occur when the immune system mistakenly attacks the body's own cells, tissues, or organs, leading to inflammation and damage. The immune system normally defends against infections by distinguishing harmful agents from self, but in autoimmune conditions this self-tolerance is impaired. Common autoimmune diseases include systemic lupus erythematosus (SLE), rheumatoid arthritis (RA), multiple sclerosis (MS), and type 1 diabetes. Symptoms vary widely depending on which tissues are affected but often involve fatigue, pain, and organ dysfunction."
+    },
+    {
+      "heading": "Why Autoimmune Diseases Are More Common in Women",
+      "content": "Women represent nearly 78% of all autoimmune disease cases. This disparity is attributed to factors such as hormonal influences (estrogen and progesterone modulate immune responses), genetic differences (genes on X chromosomes related to immunity), and environmental exposures. During reproductive years, fluctuating hormone levels can affect immune regulation, potentially triggering or exacerbating autoimmune diseases. Pregnancy and menopause also influence disease activity."
+    },
+    {
+      "heading": "Common Autoimmune Diseases in Women",
+      "content": "Autoimmune diseases frequently affecting women include systemic lupus erythematosus (characterized by rash, joint pain, and organ involvement), rheumatoid arthritis (joint inflammation and damage), Hashimoto's thyroiditis (autoimmune thyroid gland destruction causing hypothyroidism), and multiple sclerosis (immune-mediated nerve damage). These diseases differ in presentation but share the underlying immune dysregulation."
+    },
+    {
+      "heading": "Symptoms and Signs to Recognize",
+      "content": "Symptoms vary by specific autoimmune disease but commonly include fatigue, joint stiffness and swelling, muscle weakness, skin rashes, fever, and organ-specific signs such as dry eyes (Sjogren’s syndrome), numbness or weakness (MS), or enlarged thyroid (Hashimoto's). Because symptoms can mimic other conditions, early recognition requires careful clinical evaluation."
+    },
+    {
+      "heading": "Risk Factors for Autoimmune Diseases in Women",
+      "content": "Known risk factors include female sex, family history of autoimmune diseases, hormonal factors such as estrogen exposure, environmental triggers like infections and smoking, vitamin D deficiency, and certain ethnic backgrounds. Genetic predisposition plays a significant role, often interacting with environmental factors to initiate disease."
+    },
+    {
+      "heading": "Role of Hormones in Autoimmune Disease",
+      "content": "Sex hormones, particularly estrogens, influence immune cell activity by enhancing antibody production and modulating inflammatory responses. This can increase susceptibility to autoimmune diseases during periods of high estrogen exposure like pregnancy or hormone replacement therapy. Conversely, androgens may have protective effects. Hormonal fluctuations thus contribute to disease onset and activity patterns in women."
+    },
+    {
+      "heading": "Diagnosis of Autoimmune Diseases in Women",
+      "content": "Diagnosis involves a combination of medical history, physical examination, laboratory tests for autoantibodies (e.g., ANA, rheumatoid factor), inflammatory markers, and imaging studies. Because symptoms can overlap with other diseases, specialists often use established criteria to confirm specific autoimmune disorders. Early and accurate diagnosis is essential to prevent progressive damage."
+    },
+    {
+      "heading": "Management and Treatment Options",
+      "content": "Treatment focuses on controlling immune system activity and alleviating symptoms. Medications include corticosteroids, nonsteroidal anti-inflammatory drugs (NSAIDs), disease-modifying antirheumatic drugs (DMARDs) like methotrexate, and biologic agents targeting specific immune pathways. Adjunct therapies involve physical therapy, diet modification, and stress reduction. Treatment plans are individualized based on disease severity, organs involved, and patient factors."
+    },
+    {
+      "heading": "Safety Considerations in Treatment",
+      "content": "Immunosuppressive therapies predispose patients to infections and other side effects, requiring monitoring and preventive measures like vaccinations. Women of childbearing age must consider treatment impacts on fertility, pregnancy, and breastfeeding. Regular follow-up and communication with healthcare providers ensure side effects are managed and treatments are adjusted safely."
+    },
+    {
+      "heading": "Lifestyle and Complementary Approaches",
+      "content": "While medications are central, lifestyle factors can influence disease activity. Maintaining a balanced diet rich in anti-inflammatory foods, regular physical activity, stress management techniques, and avoiding smoking can support immune health. Some women explore complementary therapies such as acupuncture or supplements, though evidence for efficacy is limited and should be discussed with providers."
+    },
+    {
+      "heading": "Common Misconceptions About Autoimmune Diseases",
+      "content": "Misconceptions include the belief that autoimmune diseases are contagious, always fatal, or purely psychological. Another misconception is that all autoimmune diseases have identical symptoms and treatments, whereas they are heterogeneous. Education based on current evidence helps dispel myths and supports patient adherence to effective therapies."
+    }
+  ],
+  "practical_guidance": [
+    "Seek medical evaluation if experiencing persistent fatigue, joint pain, rashes, or unexplained symptoms.",
+    "Inform your healthcare provider about family history of autoimmune diseases.",
+    "Discuss reproductive plans with your provider to optimize treatment and safety during pregnancy.",
+    "Adhere to prescribed medications and report side effects promptly.",
+    "Adopt healthy lifestyle habits including balanced nutrition, regular exercise, and smoking cessation.",
+    "Maintain regular follow-up appointments with specialists.",
+    "Use evidence-based resources to learn about your specific autoimmune condition.",
+    "Be cautious with complementary therapies and consult healthcare providers before starting new supplements or alternative treatments."
+  ],
+  "safety_notes": [
+    "Immunosuppressive therapies can increase infection risk; report signs of infection immediately.",
+    "Some medications may affect fertility or pregnancy—consult your doctor if planning pregnancy.",
+    "Vaccination status should be assessed before initiating certain therapies.",
+    "Avoid sudden discontinuation of prescribed immunomodulatory medications to prevent disease flare.",
+    "Monitor for side effects such as liver toxicity, bone marrow suppression, or gastrointestinal symptoms during treatment."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Autoimmune diseases are contagious.",
+      "reality": "Autoimmune diseases are not contagious; they result from immune system malfunction within the individual."
+    },
+    {
+      "misconception": "All autoimmune diseases cause the same symptoms.",
+      "reality": "Symptoms vary widely depending on the specific autoimmune disease and tissues involved."
+    },
+    {
+      "misconception": "Autoimmune diseases are invariably fatal.",
+      "reality": "Many autoimmune diseases can be effectively managed with treatment, improving quality of life and survival."
+    },
+    {
+      "misconception": "Only women get autoimmune diseases.",
+      "reality": "Though more common in women, men can also develop autoimmune diseases."
+    }
+  ],
+  "clinical_pearls": [
+    "Autoimmune diseases frequently present with nonspecific symptoms; maintain a high index of suspicion in women with unexplained multisystem complaints.",
+    "Early diagnosis and treatment improve long-term outcomes and reduce organ damage.",
+    "Tailored therapy considering a woman's reproductive plans is essential for safety and efficacy.",
+    "Patient education about disease nature and management empowers adherence and monitoring.",
+    "Collaborative care among primary care, rheumatology, endocrinology, and other specialties benefits complex cases."
+  ],
+  "key_takeaways": [
+    "Autoimmune diseases result from immune system attacking the body's own tissues.",
+    "Women are disproportionately affected due to hormonal and genetic factors.",
+    "Common autoimmune diseases in women include lupus, rheumatoid arthritis, and thyroiditis.",
+    "Symptoms can be varied and often mimic other conditions, requiring careful evaluation.",
+    "Diagnosis relies on clinical assessment supported by lab tests and imaging.",
+    "Treatment involves immunosuppressive medications and lifestyle modifications.",
+    "Safety monitoring is critical due to side effects and impact on reproductive health.",
+    "Educating patients helps dispel myths and supports effective management."
+  ],
+  "glossary": [
+    {
+      "term": "Autoimmune disease",
+      "definition": "A condition where the immune system attacks the body's own tissues, causing inflammation and damage."
+    },
+    {
+      "term": "Immune system",
+      "definition": "The body's defense network that protects against infections and foreign substances."
+    },
+    {
+      "term": "Self-tolerance",
+      "definition": "The immune system's ability to recognize the body’s own cells and avoid attacking them."
+    },
+    {
+      "term": "Chronic inflammation",
+      "definition": "Long-term immune system activation that can damage tissues and organs."
+    },
+    {
+      "term": "Systemic lupus erythematosus (SLE)",
+      "definition": "An autoimmune disease characterized by widespread inflammation affecting skin, joints, kidneys, and other organs."
+    },
+    {
+      "term": "Rheumatoid arthritis (RA)",
+      "definition": "An autoimmune disorder mainly affecting joints, causing pain, swelling, and potential joint destruction."
+    },
+    {
+      "term": "Autoantibodies",
+      "definition": "Antibodies produced by the immune system that mistakenly target the body’s own proteins."
+    },
+    {
+      "term": "Disease-modifying antirheumatic drugs (DMARDs)",
+      "definition": "Medications that slow or alter the progression of autoimmune diseases."
+    }
+  ],
+  "related_modules": [
+    "WOM-045",
+    "IMMU-102",
+    "ENDO-067"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILLU-001",
+      "title": "Immune System Attack in Autoimmune Disease",
+      "illustration_type": "Diagram",
+      "description": "A schematic illustration demonstrating how immune cells mistakenly attack healthy body tissues during autoimmune disease.",
+      "alt_text": "Diagram showing immune cells attacking body tissues in autoimmune disease."
+    },
+    {
+      "illustration_id": "ILLU-002",
+      "title": "Hormonal Influence on Autoimmune Risk",
+      "illustration_type": "Chart",
+      "description": "A chart showing the correlation between estrogen levels and autoimmune disease risk in women across different life stages.",
+      "alt_text": "Chart illustrating estrogen levels and autoimmune disease risk by age in women."
+    },
+    {
+      "illustration_id": "ILLU-003",
+      "title": "Common Symptoms of Autoimmune Diseases in Women",
+      "illustration_type": "Infographic",
+      "description": "An infographic highlighting key symptoms such as fatigue, joint pain, rash, and dry eyes frequently reported in autoimmune diseases affecting women.",
+      "alt_text": "Infographic displaying common autoimmune symptoms in women."
+    },
+    {
+      "illustration_id": "ILLU-004",
+      "title": "Medications Used in Autoimmune Disease Management",
+      "illustration_type": "Table",
+      "description": "A table summarizing major classes of medications including corticosteroids, DMARDs, and biologics with their mechanisms and common side effects.",
+      "alt_text": "Table showing autoimmune disease medications and their side effects."
+    }
+  ],
+  "references": [
+    {
+      "title": "Autoimmune Diseases and Gender Differences",
+      "organization_or_authors": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "year": "2023",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Diagnosis and Management of Autoimmune Diseases",
+      "organization_or_authors": "American College of Rheumatology Guidelines",
+      "year": "2022",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Hormonal Influences on Autoimmunity",
+      "organization_or_authors": "Journal of Clinical Immunology",
+      "year": "2021",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Lifestyle and Autoimmune Disease Outcomes",
+      "organization_or_authors": "National Institutes of Health, Autoimmune Research",
+      "year": "2023",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence with some emerging insights on microbiome and vitamin D involvement",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

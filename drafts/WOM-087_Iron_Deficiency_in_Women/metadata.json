@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-087",
+  "title": "Iron Deficiency in Women",
+  "subtitle": "Definitions, risk factors, symptoms, management, and safety considerations for iron deficiency in women.",
+  "domain": "Women's Health",
+  "category": "Common Women's Conditions",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Women",
+    "Healthcare Providers",
+    "Nutritionists"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "Iron deficiency",
+    "Anemia",
+    "Women’s health",
+    "Iron supplementation",
+    "Menstruation",
+    "Pregnancy",
+    "Fatigue",
+    "Dietary iron"
+  ],
+  "related_modules": [
+    "WOM-102",
+    "WOM-065",
+    "NUT-044"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines, population studies, and mechanistic research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
