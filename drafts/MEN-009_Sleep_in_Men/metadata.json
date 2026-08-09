@@ -1,0 +1,38 @@
+{
+  "module_id": "MEN-009",
+  "title": "Sleep in Men",
+  "subtitle": "Evidence, physiology, prevention, and practical implications of sleep in men.",
+  "domain": "Men's Health",
+  "category": "Men's Health Foundations",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention",
+    "Chronic Disease Management"
+  ],
+  "audience": [
+    "Men",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep",
+    "men's health",
+    "circadian rhythm",
+    "sleep disorders",
+    "testosterone",
+    "obstructive sleep apnea",
+    "insomnia",
+    "sleep hygiene",
+    "mental health",
+    "cardiovascular health"
+  ],
+  "related_modules": [
+    "MEN-004",
+    "MEN-012",
+    "GEN-007"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and peer-reviewed research supplemented by moderate evidence from recent observational studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "MEN-006",
+  "title": "Men's Health Screening",
+  "subtitle": "Evidence, physiology, prevention, and practical implications of men's health screening.",
+  "domain": "Men's Health",
+  "category": "Men's Health Foundations",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "Men",
+    "Healthcare Providers",
+    "Caregivers",
+    "Public Health Professionals"
+  ],
+  "reading_level": "Intermediate - General Public with Some Medical Knowledge",
+  "keywords": [
+    "men's health",
+    "health screening",
+    "preventive care",
+    "cancer screening",
+    "cardiovascular screening",
+    "prostate health",
+    "testosterone screening"
+  ],
+  "related_modules": [
+    "MEN-001_Men's_Health_Overview",
+    "MEN-010_Prostate_Health",
+    "GEN-015_Cancer_Screening_Basics",
+    "CVD-003_Cardiovascular_Risk_Assessment"
+  ],
+  "evidence_strength": "Established evidence for cardiovascular and colorectal cancer screenings; moderate evidence and ongoing debate regarding PSA screening; emerging evidence in testosterone screening utility.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
