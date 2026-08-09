@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-111",
+  "title": "Preventing Osteoarthritis Progression",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing osteoarthritis progression.",
+  "domain": "Disease Prevention",
+  "category": "Bone and Musculoskeletal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate - Suitable for informed consumers and healthcare students",
+  "keywords": [
+    "osteoarthritis",
+    "OA",
+    "joint health",
+    "cartilage",
+    "risk factors",
+    "physical activity",
+    "weight management",
+    "joint protection"
+  ],
+  "related_modules": [
+    "DIS-102",
+    "DIS-205",
+    "MSK-310"
+  ],
+  "evidence_strength": "Established evidence with some areas having moderate and emerging support; ongoing research continues to refine prevention approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
