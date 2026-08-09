@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-217",
+  "title": "Caregiver Burnout Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to caregiver burnout prevention.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention"
+  ],
+  "audience": [
+    "Caregivers",
+    "Healthcare Providers",
+    "Mental Health Professionals",
+    "General Public"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "caregiver burnout",
+    "burnout prevention",
+    "caregiver stress",
+    "risk factors",
+    "screening",
+    "mental health",
+    "self-care",
+    "support systems"
+  ],
+  "related_modules": [
+    "DIS-110",
+    "DIS-205",
+    "DIS-312"
+  ],
+  "evidence_strength": "Established evidence for definition, mechanisms, risk factors, screening, and prevention strategies; moderate and emerging evidence for specific interventions and community support effectiveness.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

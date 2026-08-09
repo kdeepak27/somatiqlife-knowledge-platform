@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-216",
+  "title": "Workplace Mental Health Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to workplace mental health prevention.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention"
+  ],
+  "audience": [
+    "Consumers",
+    "Employers",
+    "Occupational Health Professionals",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Workplace Mental Health",
+    "Mental Health Prevention",
+    "Stress Management",
+    "Occupational Health",
+    "Psychosocial Risk Factors",
+    "Screening Tools",
+    "Workplace Well-being",
+    "Employee Assistance Programs",
+    "Burnout Prevention",
+    "Mental Health Promotion"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-215",
+    "DIS-217"
+  ],
+  "evidence_strength": "Established evidence supports multi-component organizational and individual strategies for preventing workplace mental health problems, with growing evidence on the effectiveness of screening and specific interventions. However, variability in study designs and workplace contexts require ongoing research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
