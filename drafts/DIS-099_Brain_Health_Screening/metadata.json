@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-099",
+  "title": "Brain Health Screening",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to brain health screening.",
+  "domain": "Disease Prevention",
+  "category": "Brain and Neurologic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "brain health",
+    "neurologic screening",
+    "cognitive assessment",
+    "dementia risk",
+    "stroke prevention",
+    "neurodegeneration",
+    "Alzheimer's screening",
+    "memory testing",
+    "brain imaging",
+    "risk factors"
+  ],
+  "related_modules": [
+    "DIS-045",
+    "DIS-054",
+    "DIS-072"
+  ],
+  "evidence_strength": "Established evidence for cognitive screening; moderate evidence for combined biomarker and imaging approaches; emerging evidence for AI and novel biomarkers.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
