@@ -1,0 +1,38 @@
+{
+  "module_id": "AGE-132",
+  "title": "Healthy Aging Checkups",
+  "subtitle": "Prevention, screening, safety, and practical planning for healthy aging checkups.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Preventive Aging",
+  "som_stages": [
+    "Middle Age",
+    "Older Adult",
+    "Senior"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "healthy aging",
+    "preventive care",
+    "screening",
+    "geriatric assessment",
+    "chronic disease prevention",
+    "functional assessment",
+    "risk factors",
+    "vaccinations",
+    "cognitive screening",
+    "frailty"
+  ],
+  "related_modules": [
+    "AGE-101",
+    "AGE-125",
+    "CD-210"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
