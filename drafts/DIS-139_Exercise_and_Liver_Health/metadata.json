@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-139",
+  "title": "Exercise and Liver Health",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to exercise and liver health.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "exercise",
+    "physical activity",
+    "liver health",
+    "nonalcoholic fatty liver disease",
+    "NAFLD",
+    "liver disease prevention",
+    "screening",
+    "risk factors",
+    "metabolism",
+    "inflammation"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-142",
+    "DIS-128"
+  ],
+  "evidence_strength": "Mixed evidence from randomized controlled trials and observational studies; well-supported benefits for NAFLD prevention with moderate to strong consistency; emerging evidence for advanced liver disease stages.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

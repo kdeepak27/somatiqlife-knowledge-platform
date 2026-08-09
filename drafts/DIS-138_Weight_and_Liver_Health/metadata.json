@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-138",
+  "title": "Weight and Liver Health",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to weight and liver health.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "weight",
+    "liver health",
+    "fatty liver",
+    "non-alcoholic fatty liver disease",
+    "obesity",
+    "liver disease prevention",
+    "weight loss",
+    "screening",
+    "liver enzymes"
+  ],
+  "related_modules": [
+    "DIS-052",
+    "DIS-089",
+    "DIS-120"
+  ],
+  "evidence_strength": "Established evidence for the relationship between weight and NAFLD, supported by large epidemiological studies and clinical trials; moderate emerging evidence regarding pharmacologic interventions; some areas require ongoing research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
