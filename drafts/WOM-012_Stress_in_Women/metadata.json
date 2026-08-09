@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-012",
+  "title": "Stress in Women",
+  "subtitle": "Evidence, physiology, prevention, and practical implications of stress in women.",
+  "domain": "Women's Health",
+  "category": "Women's Health Foundations",
+  "som_stages": [
+    "All stages"
+  ],
+  "audience": [
+    "General public",
+    "Women of all ages",
+    "Healthcare providers",
+    "Researchers"
+  ],
+  "reading_level": "Grade 8 - Grade 10",
+  "keywords": [
+    "Stress",
+    "Women",
+    "Psychological stress",
+    "Physiology",
+    "HPA axis",
+    "Cortisol",
+    "Mental health",
+    "Stress management",
+    "Chronic stress",
+    "Hormones"
+  ],
+  "related_modules": [
+    "WOM-005: Hormonal Changes and Women's Health",
+    "WOM-020: Mental Health and Anxiety Disorders in Women",
+    "WOM-008: Cardiovascular Risk Factors in Women"
+  ],
+  "evidence_strength": "Established evidence for basic physiological mechanisms and common stress effects; emerging evidence on sex-specific variations and management tailored to women; some uncertainties remain in psychosocial interaction and long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,39 @@
+{
+  "module_id": "WOM-014",
+  "title": "Bone Health in Women",
+  "subtitle": "Evidence, physiology, prevention, and practical implications of bone health in women.",
+  "domain": "Women's Health",
+  "category": "Women's Health Foundations",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "Women",
+    "Clinicians",
+    "Health Educators",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "Bone health",
+    "osteoporosis",
+    "women",
+    "calcium",
+    "vitamin D",
+    "postmenopausal",
+    "bone density",
+    "fracture risk",
+    "physical activity",
+    "hormones"
+  ],
+  "related_modules": [
+    "WOM-012_Lifestyle_and_Chronic_Disease_in_Women",
+    "WOM-015_Hormonal_Changes_in_Perimenopause",
+    "WOM-018_Osteoporosis_Treatment_Options"
+  ],
+  "evidence_strength": "Established evidence for hormonal, nutritional, and mechanical influences on bone health; moderate evidence supporting some pharmacological treatments and risk prediction tools; emerging evidence on novel therapeutics and individualized exercise protocols.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

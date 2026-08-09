@@ -1,0 +1,35 @@
+{
+  "module_id": "WOM-011",
+  "title": "Sleep in Women",
+  "subtitle": "Evidence, physiology, prevention, and practical implications of sleep in women.",
+  "domain": "Women's Health",
+  "category": "Women's Health Foundations",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Women",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep",
+    "women's health",
+    "circadian rhythm",
+    "menopause",
+    "sleep disorders",
+    "hormones",
+    "insomnia",
+    "sleep quality"
+  ],
+  "related_modules": [
+    "WOM-004",
+    "WOM-022",
+    "GEN-015"
+  ],
+  "evidence_strength": "Established evidence with some emerging findings and research gaps noted.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
