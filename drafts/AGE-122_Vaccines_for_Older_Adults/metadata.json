@@ -1,0 +1,35 @@
+{
+  "module_id": "AGE-122",
+  "title": "Vaccines for Older Adults",
+  "subtitle": "Prevention, screening, safety, and practical planning for vaccines for older adults.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Preventive Aging",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "vaccines",
+    "older adults",
+    "immunization",
+    "preventive health",
+    "immunity",
+    "vaccine safety",
+    "vaccine effectiveness",
+    "elderly"
+  ],
+  "related_modules": [
+    "AGE-115",
+    "INF-101",
+    "IMM-210"
+  ],
+  "evidence_strength": "Established evidence with some emerging research on vaccine optimization for older adults",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

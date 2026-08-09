@@ -1,0 +1,37 @@
+{
+  "module_id": "AGE-125",
+  "title": "Dental Health With Aging",
+  "subtitle": "Prevention, screening, safety, and practical planning for dental health with aging.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Preventive Aging",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Care Planning"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "dental health",
+    "aging",
+    "oral hygiene",
+    "tooth decay",
+    "gum disease",
+    "xerostomia",
+    "oral cancer screening",
+    "prosthodontics",
+    "periodontal disease"
+  ],
+  "related_modules": [
+    "AGE-118",
+    "AGE-130",
+    "AGE-122"
+  ],
+  "evidence_strength": "Established evidence for preventive practices and aging-related changes; moderate emerging evidence on oral microbiome and systemic disease connections.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
