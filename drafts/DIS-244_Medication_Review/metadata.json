@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-244",
+  "title": "Medication Review",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to medication review.",
+  "domain": "Disease Prevention",
+  "category": "Preventive Care and Screening",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate (8th-10th grade)",
+  "keywords": [
+    "medication review",
+    "polypharmacy",
+    "adverse drug reactions",
+    "medication adherence",
+    "patient safety",
+    "drug interactions",
+    "pharmacist consultation",
+    "preventive care",
+    "medication management"
+  ],
+  "related_modules": [
+    "DIS-105",
+    "DIS-227",
+    "DIS-310"
+  ],
+  "evidence_strength": "Established evidence supported by systematic reviews and clinical practice guidelines; some emerging evidence on economic benefits and quality of life improvements.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

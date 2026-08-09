@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-241",
+  "title": "Vaccination Schedules for Adults",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to vaccination schedules for adults.",
+  "domain": "Disease Prevention",
+  "category": "Preventive Care and Screening",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "Adults",
+    "Healthcare Providers",
+    "Public Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "vaccination",
+    "immunization",
+    "adult vaccines",
+    "preventive care",
+    "vaccine schedule",
+    "immunity",
+    "booster shots",
+    "vaccine safety"
+  ],
+  "related_modules": [
+    "DIS-120-Infectious-Disease-Prevention",
+    "DIS-135-Childhood-Immunization",
+    "DIS-257-Vaccine-Safety-and-Effectiveness"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and systematic reviews",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
