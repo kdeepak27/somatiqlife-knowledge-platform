@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-055",
+  "title": "Prostate Cancer Risk Reduction",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to prostate cancer risk reduction.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "prostate cancer",
+    "risk reduction",
+    "screening",
+    "prevention",
+    "PSA test",
+    "diet",
+    "exercise",
+    "genetics",
+    "lifestyle"
+  ],
+  "related_modules": [
+    "DIS-034",
+    "DIS-067",
+    "CAN-102"
+  ],
+  "evidence_strength": "Established evidence combined with moderate emerging research in complementary prevention strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

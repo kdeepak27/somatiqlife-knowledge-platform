@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-052",
+  "title": "Lung Cancer Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to lung cancer prevention.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "lung cancer",
+    "prevention",
+    "smoking cessation",
+    "screening",
+    "risk factors",
+    "carcinogens",
+    "early detection",
+    "radon",
+    "air pollution",
+    "occupational exposure"
+  ],
+  "related_modules": [
+    "DIS-043",
+    "DIS-078",
+    "CAR-015"
+  ],
+  "evidence_strength": "Established evidence supports tobacco smoking cessation and LDCT screening for high-risk individuals as primary lung cancer prevention strategies; moderate evidence supports radon mitigation and occupational safety measures; emerging evidence suggests a role for diet and physical activity with ongoing research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

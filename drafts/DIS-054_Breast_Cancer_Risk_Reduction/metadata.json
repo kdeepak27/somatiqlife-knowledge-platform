@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-054",
+  "title": "Breast Cancer Risk Reduction",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to breast cancer risk reduction.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Primary Prevention",
+    "Early Detection",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "At-Risk Individuals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "breast cancer",
+    "risk reduction",
+    "prevention",
+    "screening",
+    "mammography",
+    "lifestyle",
+    "genetic risk",
+    "hormonal factors",
+    "diet",
+    "exercise"
+  ],
+  "related_modules": [
+    "DIS-012",
+    "DIS-078",
+    "GEN-034"
+  ],
+  "evidence_strength": "Established evidence for lifestyle modifications and screening; moderate evidence for chemoprevention in high-risk populations; emerging evidence for dietary influences.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
