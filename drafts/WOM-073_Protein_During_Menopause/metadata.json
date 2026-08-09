@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-073",
+  "title": "Protein During Menopause",
+  "subtitle": "Physiology, evidence, management options, and practical implications of protein during menopause.",
+  "domain": "Women's Health",
+  "category": "Perimenopause and Menopause",
+  "som_stages": [
+    "Perimenopause",
+    "Menopause",
+    "Postmenopause"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "protein",
+    "menopause",
+    "muscle mass",
+    "bone health",
+    "dietary protein",
+    "perimenopause",
+    "hormonal changes",
+    "nutrition",
+    "protein supplementation",
+    "protein intake"
+  ],
+  "related_modules": [
+    "WOM-021-Menopause_Basics",
+    "WOM-045-Bone_Health_in_Menopause",
+    "WOM-059-Weight_Management_Menopausal_Women"
+  ],
+  "evidence_strength": "Moderate evidence supports increased protein intake during menopause for muscle and bone health; however, large randomized controlled trials specifically targeting this population are limited.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

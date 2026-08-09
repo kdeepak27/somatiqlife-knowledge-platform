@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-072",
+  "title": "Nutrition During Menopause",
+  "subtitle": "Physiology, evidence, management options, and practical implications of nutrition during menopause.",
+  "domain": "Women's Health",
+  "category": "Perimenopause and Menopause",
+  "som_stages": [
+    "Perimenopause",
+    "Menopause",
+    "Postmenopause"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Menopause",
+    "Nutrition",
+    "Diet",
+    "Hormonal Changes",
+    "Bone Health",
+    "Cardiovascular Health",
+    "Menopausal Symptoms",
+    "Phytoestrogens",
+    "Calcium",
+    "Vitamin D"
+  ],
+  "related_modules": [
+    "WOM-058",
+    "WOM-073",
+    "GEN-101"
+  ],
+  "evidence_strength": "Established evidence for calcium, vitamin D, and macro-nutrient adjustments; moderate and emerging evidence for phytoestrogens and herbal supplements; limitations due to individual variability and inconsistent trial results for symptom management supplements.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
