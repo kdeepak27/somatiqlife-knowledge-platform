@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-069",
+  "title": "HPV Vaccination",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to hpv vaccination.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Education"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Public Health Educators"
+  ],
+  "reading_level": "Grade 8 - General Public",
+  "keywords": [
+    "HPV",
+    "Human Papillomavirus",
+    "Vaccination",
+    "Cancer Prevention",
+    "Cervical Cancer",
+    "HPV Vaccine",
+    "Immunization",
+    "Screening",
+    "Pap Smear",
+    "HPV Types"
+  ],
+  "related_modules": [
+    "DIS-045",
+    "DIS-112",
+    "DIS-078"
+  ],
+  "evidence_strength": "Strong evidence from randomized controlled trials and large population studies supports HPV vaccine efficacy and safety.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

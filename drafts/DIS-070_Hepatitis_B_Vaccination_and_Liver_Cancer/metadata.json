@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-070",
+  "title": "Hepatitis B Vaccination and Liver Cancer",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to hepatitis B vaccination and liver cancer.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Diagnosis"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Professionals"
+  ],
+  "reading_level": "Intermediate (Health Literate Audience)",
+  "keywords": [
+    "Hepatitis B",
+    "Liver Cancer",
+    "Hepatocellular Carcinoma",
+    "HBV Vaccination",
+    "Cancer Prevention",
+    "Screening",
+    "Risk Factors",
+    "Vaccination Safety"
+  ],
+  "related_modules": [
+    "DIS-045",
+    "DIS-078",
+    "DIS-120"
+  ],
+  "evidence_strength": "Established evidence with long-term randomized and observational studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

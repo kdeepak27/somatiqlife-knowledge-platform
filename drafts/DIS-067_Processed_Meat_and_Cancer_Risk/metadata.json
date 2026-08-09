@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-067",
+  "title": "Processed Meat and Cancer Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to processed meat and cancer risk.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "processed meat",
+    "cancer risk",
+    "colorectal cancer",
+    "nitrosamines",
+    "carcinogens",
+    "dietary risk factors",
+    "cancer prevention",
+    "screening",
+    "public health"
+  ],
+  "related_modules": [
+    "DIS-022",
+    "DIS-045",
+    "DIET-010",
+    "LIFE-013"
+  ],
+  "evidence_strength": "Established evidence for colorectal cancer; moderate for stomach and pancreatic cancers; emerging research for mechanistic details and individual risk factors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

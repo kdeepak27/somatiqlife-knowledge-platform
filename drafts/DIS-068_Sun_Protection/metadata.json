@@ -1,0 +1,34 @@
+{
+  "module_id": "DIS-068",
+  "title": "Sun Protection",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to sun protection.",
+  "domain": "Disease Prevention",
+  "category": "Cancer Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Educators"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "Ultraviolet Radiation",
+    "Skin Cancer Prevention",
+    "Sunscreen",
+    "UV Index",
+    "Sun Safety",
+    "Melanoma",
+    "Photoprotection"
+  ],
+  "related_modules": [
+    "DIS-034: Skin Cancer Diagnosis",
+    "DIS-052: Occupational Sun Exposure",
+    "DIS-092: Vitamin D and Health"
+  ],
+  "evidence_strength": "Established evidence for UV radiation's role in skin cancer and efficacy of physical and chemical sun protection methods. Moderate evidence for long-term cancer risk reduction with routine sunscreen use. Emerging data addresses formulation safety and environmental effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
