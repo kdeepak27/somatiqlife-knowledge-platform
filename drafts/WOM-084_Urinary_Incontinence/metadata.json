@@ -1,0 +1,39 @@
+{
+  "module_id": "WOM-084",
+  "title": "Urinary Incontinence",
+  "subtitle": "Definitions, risk factors, symptoms, management, and safety considerations for urinary incontinence.",
+  "domain": "Women's Health",
+  "category": "Common Women's Conditions",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Healthcare Providers"
+  ],
+  "reading_level": "8th Grade",
+  "keywords": [
+    "Urinary Incontinence",
+    "Bladder Control",
+    "Pelvic Floor",
+    "Overactive Bladder",
+    "Stress Incontinence",
+    "Urge Incontinence",
+    "Mixed Incontinence",
+    "Treatment",
+    "Diagnosis",
+    "Safety"
+  ],
+  "related_modules": [
+    "WOM-035 Pelvic Floor Disorders",
+    "WOM-012 Overactive Bladder",
+    "WOM-050 Menopause and Hormones",
+    "GEN-101 Neurological Disorders and Bladder Function"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and non-pharmacologic treatment; moderate to emerging evidence for pharmacologic and surgical interventions with noted limitations in individual response.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-081",
+  "title": "Vaginal Dryness",
+  "subtitle": "Definitions, risk factors, symptoms, management, and safety considerations for vaginal dryness.",
+  "domain": "Women's Health",
+  "category": "Common Women's Conditions",
+  "som_stages": [
+    "Preventive",
+    "Diagnostic",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Medium (Health Literate Audience)",
+  "keywords": [
+    "Vaginal dryness",
+    "Atrophic vaginitis",
+    "Genitourinary syndrome of menopause",
+    "Estrogen deficiency",
+    "Lubricants",
+    "Moisturizers",
+    "Hormone therapy",
+    "Sexual health",
+    "Menopause",
+    "Pelvic floor health"
+  ],
+  "related_modules": [
+    "WOM-045 Menopause Overview",
+    "WOM-072 Hormone Replacement Therapy",
+    "WOM-054 Sexual Health in Women"
+  ],
+  "evidence_strength": "Established evidence supporting most non-hormonal and low-dose vaginal estrogen therapies for vaginal dryness, with emerging evidence for novel treatments and moderate evidence regarding safety in specific populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

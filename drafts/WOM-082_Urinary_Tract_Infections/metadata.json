@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-082",
+  "title": "Urinary Tract Infections",
+  "subtitle": "Definitions, risk factors, symptoms, management, and safety considerations for urinary tract infections.",
+  "domain": "Women's Health",
+  "category": "Common Women's Conditions",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Treatment",
+    "Follow-up"
+  ],
+  "audience": [
+    "General Public",
+    "Women",
+    "Healthcare Providers",
+    "Students"
+  ],
+  "reading_level": "Intermediate (grades 8-10)",
+  "keywords": [
+    "urinary tract infection",
+    "UTI",
+    "cystitis",
+    "pyelonephritis",
+    "urinary symptoms",
+    "antibiotics",
+    "risk factors",
+    "prevention"
+  ],
+  "related_modules": [
+    "WOM-035 (Vaginal Infections)",
+    "WOM-091 (Pelvic Inflammatory Disease)",
+    "WOM-055 (Menopause Management)"
+  ],
+  "evidence_strength": "Established evidence with some emerging and moderate evidence on prevention strategies and antibiotic resistance.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
