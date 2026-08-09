@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-081",
+  "title": "Exercise and Dementia Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to exercise and dementia prevention.",
+  "domain": "Disease Prevention",
+  "category": "Brain and Neurologic Prevention",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "exercise",
+    "physical activity",
+    "dementia prevention",
+    "cognitive decline",
+    "Alzheimer's disease",
+    "brain health",
+    "risk factors",
+    "screening",
+    "physical fitness",
+    "neuroplasticity"
+  ],
+  "related_modules": [
+    "DIS-034:Cardiovascular Health and Stroke Prevention",
+    "DIS-102:Cognitive Training and Dementia Risk",
+    "DIS-045:Nutrition for Brain Health"
+  ],
+  "evidence_strength": "Moderate to Strong Evidence from Observational Studies and Randomized Controlled Trials",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

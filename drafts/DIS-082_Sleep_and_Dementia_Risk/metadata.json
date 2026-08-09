@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-082",
+  "title": "Sleep and Dementia Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to sleep and dementia risk.",
+  "domain": "Disease Prevention",
+  "category": "Brain and Neurologic Prevention",
+  "som_stages": [
+    "Primary Prevention",
+    "Risk Assessment",
+    "Patient Education"
+  ],
+  "audience": [
+    "Consumers",
+    "General Public",
+    "Caregivers",
+    "Health Educators"
+  ],
+  "reading_level": "General Audience (Grade 8-10)",
+  "keywords": [
+    "sleep",
+    "dementia",
+    "cognitive decline",
+    "Alzheimer's disease",
+    "risk factors",
+    "prevention",
+    "sleep hygiene",
+    "screening",
+    "brain health"
+  ],
+  "related_modules": [
+    "DIS-015",
+    "DIS-024",
+    "DIS-057"
+  ],
+  "evidence_strength": "Moderate evidence from observational and pilot interventional studies; RCTs limited; further research needed.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
