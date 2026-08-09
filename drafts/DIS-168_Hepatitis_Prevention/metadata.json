@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-168",
+  "title": "Hepatitis Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to hepatitis prevention.",
+  "domain": "Disease Prevention",
+  "category": "Respiratory and Infectious Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Health Education"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Professionals"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "Hepatitis",
+    "Prevention",
+    "Vaccination",
+    "Viral Hepatitis",
+    "Hepatitis B",
+    "Hepatitis C",
+    "Screening",
+    "Risk Factors",
+    "Infection Control",
+    "Liver Disease"
+  ],
+  "related_modules": [
+    "DIS-102",
+    "DIS-145",
+    "DIS-172"
+  ],
+  "evidence_strength": "Established evidence for hepatitis A and B vaccination efficacy; moderate and emerging evidence for other prevention strategies; limitations in vaccine availability for hepatitis C and E; consensus on transmission mechanisms and risk factors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

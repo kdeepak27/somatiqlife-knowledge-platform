@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-169",
+  "title": "Antibiotic Stewardship",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to antibiotic stewardship.",
+  "domain": "Disease Prevention",
+  "category": "Respiratory and Infectious Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Workers",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate (High School to College)",
+  "keywords": [
+    "Antibiotics",
+    "Stewardship",
+    "Infection Prevention",
+    "Antimicrobial Resistance",
+    "Prescription Practices",
+    "Drug Resistance",
+    "Healthcare",
+    "Bacterial Infections",
+    "Public Health"
+  ],
+  "related_modules": [
+    "DIS-102",
+    "DIS-110",
+    "DIS-125"
+  ],
+  "evidence_strength": "Established evidence supported by multiple clinical studies and systematic reviews; emerging evidence for some community-based interventions; ongoing research addressing implementation challenges and novel diagnostics.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

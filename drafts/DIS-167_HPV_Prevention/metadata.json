@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-167",
+  "title": "HPV Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to hpv prevention.",
+  "domain": "Disease Prevention",
+  "category": "Respiratory and Infectious Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Risk Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Educators"
+  ],
+  "reading_level": "General Audience",
+  "keywords": [
+    "Human Papillomavirus",
+    "HPV",
+    "Prevention",
+    "Screening",
+    "Vaccination",
+    "Risk Factors",
+    "Sexual Health",
+    "Cancer Prevention"
+  ],
+  "related_modules": [
+    "DIS-102",
+    "DIS-103",
+    "IMM-210"
+  ],
+  "evidence_strength": "Established evidence based on multiple randomized controlled trials and epidemiological studies with ongoing research updates.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

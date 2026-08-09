@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-166",
+  "title": "Sexually Transmitted Infection Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to sexually transmitted infection prevention.",
+  "domain": "Disease Prevention",
+  "category": "Respiratory and Infectious Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Health Educators"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "STI",
+    "STDs",
+    "Sexually Transmitted Infections",
+    "Prevention",
+    "Screening",
+    "Condoms",
+    "Safe Sex",
+    "Vaccination"
+  ],
+  "related_modules": [
+    "DIS-102",
+    "DIS-154",
+    "DIS-180"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and systematic reviews supports barrier methods, vaccination, and screening as effective STI prevention strategies. Emerging research is ongoing for vaccines against additional STIs and improved behavioral interventions. Limitations include adherence to preventive measures and access disparities.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
