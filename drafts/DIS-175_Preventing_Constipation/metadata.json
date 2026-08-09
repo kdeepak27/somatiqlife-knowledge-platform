@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-175",
+  "title": "Preventing Constipation",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing constipation.",
+  "domain": "Disease Prevention",
+  "category": "Digestive and Gastrointestinal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Patient Education"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "constipation",
+    "prevention",
+    "fiber",
+    "hydration",
+    "physical activity",
+    "bowel health",
+    "risk factors",
+    "gastrointestinal health"
+  ],
+  "related_modules": [
+    "DIS-142",
+    "DIS-160",
+    "DIS-180"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence areas (e.g., exact fiber dosing) and emerging data on long-term efficacy of specific interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
