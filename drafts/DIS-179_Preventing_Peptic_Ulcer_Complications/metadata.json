@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-179",
+  "title": "Preventing Peptic Ulcer Complications",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing peptic ulcer complications.",
+  "domain": "Disease Prevention",
+  "category": "Digestive and Gastrointestinal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Public Health Educators"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "Peptic ulcer",
+    "Ulcer complications",
+    "Peptic ulcer prevention",
+    "Helicobacter pylori",
+    "NSAIDs",
+    "Gastrointestinal bleeding",
+    "Ulcer screening",
+    "Digestive health"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-120",
+    "DIS-150"
+  ],
+  "evidence_strength": "Established evidence supports major preventive strategies such as H. pylori eradication and NSAID management. Emerging evidence continues to clarify optimal screening and lifestyle interventions. Limitations exist due to antibiotic resistance and patient adherence factors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

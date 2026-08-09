@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-178",
+  "title": "Preventing Gallstones",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing gallstones.",
+  "domain": "Disease Prevention",
+  "category": "Digestive and Gastrointestinal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Primary Care Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "Gallstones",
+    "Cholelithiasis",
+    "Gallbladder",
+    "Bile",
+    "Prevention",
+    "Risk Factors",
+    "Diet",
+    "Screening",
+    "Digestive Health"
+  ],
+  "related_modules": [
+    "DIS-045",
+    "DIS-102",
+    "NUT-210"
+  ],
+  "evidence_strength": "Established evidence for major risk factors and protective lifestyle factors; moderate evidence on effectiveness of pharmacologic prevention in selective cases. Emerging evidence on microbial influences on gallstone pathogenesis. Screening recommendations based primarily on expert consensus.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

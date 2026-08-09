@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-180",
+  "title": "H. pylori Awareness",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to h. pylori awareness.",
+  "domain": "Disease Prevention",
+  "category": "Digestive and Gastrointestinal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "General Audience",
+  "keywords": [
+    "Helicobacter pylori",
+    "H. pylori",
+    "Gastric infection",
+    "Peptic ulcers",
+    "Stomach cancer prevention",
+    "Digestive health",
+    "Bacterial gastritis",
+    "Gastritis",
+    "Screening",
+    "Risk factors"
+  ],
+  "related_modules": [
+    "DIS-181",
+    "DIS-190"
+  ],
+  "evidence_strength": "Established evidence with some emerging data on antibiotic resistance and screening policies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
