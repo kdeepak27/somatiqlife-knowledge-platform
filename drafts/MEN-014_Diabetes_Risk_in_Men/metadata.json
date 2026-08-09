@@ -1,0 +1,39 @@
+{
+  "module_id": "MEN-014",
+  "title": "Diabetes Risk in Men",
+  "subtitle": "Risk factors, prevention, evidence, and practical actions related to diabetes risk in men.",
+  "domain": "Men's Health",
+  "category": "Cardiometabolic Health",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "Men",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Diabetes",
+    "Type 2 Diabetes",
+    "Risk Factors",
+    "Men's Health",
+    "Insulin Resistance",
+    "Prevention",
+    "Metabolic Syndrome",
+    "Lifestyle",
+    "Obesity",
+    "Cardiometabolic Risk"
+  ],
+  "related_modules": [
+    "MEN-009: Cardiometabolic Screening in Men",
+    "MEN-021: Lifestyle Management for Men's Health",
+    "GEN-005: Genetics of Diabetes",
+    "NUT-012: Nutrition and Metabolic Health"
+  ],
+  "evidence_strength": "Established evidence from large studies and clinical guidelines; some emerging evidence on psychosocial factors and tailored interventions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

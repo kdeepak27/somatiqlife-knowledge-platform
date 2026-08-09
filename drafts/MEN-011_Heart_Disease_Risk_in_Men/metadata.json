@@ -1,0 +1,39 @@
+{
+  "module_id": "MEN-011",
+  "title": "Heart Disease Risk in Men",
+  "subtitle": "Risk factors, prevention, evidence, and practical actions related to heart disease risk in men.",
+  "domain": "Men's Health",
+  "category": "Cardiometabolic Health",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Men at Risk",
+    "Primary Care Providers",
+    "Cardiologists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "heart disease",
+    "men",
+    "risk factors",
+    "cardiovascular disease",
+    "prevention",
+    "cholesterol",
+    "hypertension",
+    "smoking",
+    "diabetes",
+    "obesity"
+  ],
+  "related_modules": [
+    "MEN-005-Metabolic-Syndrome",
+    "GEN-012-Genetic-Risk-Factors-Cardiovascular",
+    "GEN-008-Hypertension-Management"
+  ],
+  "evidence_strength": "Established evidence supported by large clinical trials and epidemiological data",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

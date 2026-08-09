@@ -1,0 +1,36 @@
+{
+  "module_id": "MEN-015",
+  "title": "Metabolic Syndrome in Men",
+  "subtitle": "Risk factors, prevention, evidence, and practical actions related to metabolic syndrome in men.",
+  "domain": "Men's Health",
+  "category": "Cardiometabolic Health",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "Men",
+    "Healthcare Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate (Health Literate Adult)",
+  "keywords": [
+    "Metabolic Syndrome",
+    "Cardiometabolic Risk",
+    "Insulin Resistance",
+    "Obesity",
+    "Type 2 Diabetes",
+    "Hypertension",
+    "Dyslipidemia",
+    "Lifestyle Intervention"
+  ],
+  "related_modules": [
+    "MEN-003: Cardiovascular Health in Men",
+    "MEN-008: Obesity and Weight Management",
+    "GEN-012: Diabetes Mellitus Overview"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
