@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-118",
+  "title": "Vitamin D in Older Women",
+  "subtitle": "How vitamin d in older women affects long-term health, function, and prevention.",
+  "domain": "Women's Health",
+  "category": "Healthy Aging for Women",
+  "som_stages": [
+    "Middle Age",
+    "Older Age",
+    "Postmenopause"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Caregivers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Vitamin D",
+    "Older Women",
+    "Bone Health",
+    "Immune Function",
+    "Muscle Strength",
+    "Fall Prevention",
+    "Osteoporosis",
+    "Supplementation"
+  ],
+  "related_modules": [
+    "WOM-102_Bone-Health-in-Postmenopausal-Women",
+    "WOM-105_Muscle-Function-and-Aging-Women",
+    "GEN-210_Immune-Function-and-Nutrition",
+    "WOM-120_Fall-Prevention-in-Elderly-Women"
+  ],
+  "evidence_strength": "Established evidence for bone health benefits; moderate evidence for fall prevention and muscle strength; emerging evidence for immune function; uncertainties remain in optimal dosing and broader health effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "WOM-117",
+  "title": "Protein Needs in Older Women",
+  "subtitle": "How protein needs in older women affects long-term health, function, and prevention.",
+  "domain": "Women's Health",
+  "category": "Healthy Aging for Women",
+  "som_stages": [
+    "Healthy Aging"
+  ],
+  "audience": [
+    "Consumers",
+    "Women over 50",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "High School to Adult",
+  "keywords": [
+    "protein intake",
+    "older women",
+    "muscle health",
+    "sarcopenia",
+    "nutrition",
+    "healthy aging",
+    "physical function",
+    "protein metabolism",
+    "dietary protein"
+  ],
+  "related_modules": [
+    "WOM-055",
+    "NUTR-034",
+    "WOM-120"
+  ],
+  "evidence_strength": "Established with some emerging evidence on supplementation and long-term safety",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
