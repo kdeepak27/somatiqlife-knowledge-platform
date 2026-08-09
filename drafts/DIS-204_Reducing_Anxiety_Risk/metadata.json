@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-204",
+  "title": "Reducing Anxiety Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to reducing anxiety risk.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Educators",
+    "Caregivers"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "anxiety",
+    "anxiety prevention",
+    "risk factors",
+    "screening",
+    "mental health",
+    "stress management",
+    "cognitive behavioral therapy",
+    "lifestyle changes",
+    "mindfulness",
+    "psychological resilience"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-205",
+    "MENT-310"
+  ],
+  "evidence_strength": "Established Evidence with Emerging Components",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-202",
+  "title": "Preventing Social Isolation",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing social isolation.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals",
+    "Policy Makers"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "Social Isolation",
+    "Loneliness",
+    "Mental Health",
+    "Prevention",
+    "Risk Factors",
+    "Screening",
+    "Community Engagement",
+    "Social Support"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "MH-307",
+    "PRV-203"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas requiring further study",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
