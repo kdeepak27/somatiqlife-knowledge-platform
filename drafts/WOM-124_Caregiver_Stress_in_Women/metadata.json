@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-124",
+  "title": "Caregiver Stress in Women",
+  "subtitle": "Evidence, prevention, safety, and practical strategies related to caregiver stress in women.",
+  "domain": "Women's Health",
+  "category": "Lifestyle and Safety",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Support"
+  ],
+  "audience": [
+    "Adult Women",
+    "Caregivers",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate Adult",
+  "keywords": [
+    "Caregiver stress",
+    "Women caregivers",
+    "Mental health",
+    "Resilience",
+    "Burnout",
+    "Stress management",
+    "Support systems",
+    "Self-care"
+  ],
+  "related_modules": [
+    "WOM-101",
+    "MENT-203",
+    "COM-145"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights and noted limitations",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

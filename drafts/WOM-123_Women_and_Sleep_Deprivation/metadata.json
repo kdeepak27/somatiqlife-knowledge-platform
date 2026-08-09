@@ -1,0 +1,36 @@
+{
+  "module_id": "WOM-123",
+  "title": "Women and Sleep Deprivation",
+  "subtitle": "Evidence, prevention, safety, and practical strategies related to women and sleep deprivation.",
+  "domain": "Women's Health",
+  "category": "Lifestyle and Safety",
+  "som_stages": [
+    "Prevention",
+    "Early Identification",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Women",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep deprivation",
+    "women's health",
+    "sleep physiology",
+    "insomnia",
+    "circadian rhythm",
+    "hormones",
+    "stress management",
+    "sleep hygiene"
+  ],
+  "related_modules": [
+    "GEN-045: Circadian Rhythms and Human Health",
+    "WOM-101: Menopause and Women's Health",
+    "WOM-117: Mental Health in Women"
+  ],
+  "evidence_strength": "Established evidence supplemented by moderate emerging research particularly regarding hormonal interactions and interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

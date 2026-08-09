@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-125",
+  "title": "Workplace Stress in Women",
+  "subtitle": "Evidence, prevention, safety, and practical strategies related to workplace stress in women.",
+  "domain": "Women's Health",
+  "category": "Lifestyle and Safety",
+  "som_stages": [
+    "Recognition",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Women Employees",
+    "Healthcare Providers",
+    "Employers"
+  ],
+  "reading_level": "Medium - General educated audience",
+  "keywords": [
+    "workplace stress",
+    "women's health",
+    "stress management",
+    "occupational health",
+    "psychosocial stress",
+    "mental health",
+    "burnout",
+    "work-life balance"
+  ],
+  "related_modules": [
+    "WOM-110",
+    "WOM-140",
+    "GEN-205"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging areas and recognized limitations in diverse populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

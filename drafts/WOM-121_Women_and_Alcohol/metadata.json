@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-121",
+  "title": "Women and Alcohol",
+  "subtitle": "Evidence, prevention, safety, and practical strategies related to women and alcohol.",
+  "domain": "Women's Health",
+  "category": "Lifestyle and Safety",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance",
+    "Risk Reduction"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Public Health Educators"
+  ],
+  "reading_level": "Adult, General Public",
+  "keywords": [
+    "Women",
+    "Alcohol",
+    "Alcohol Use",
+    "Health Effects",
+    "Safety",
+    "Prevention",
+    "Physiology",
+    "Metabolism",
+    "Behavioral Effects",
+    "Alcohol Use Disorder"
+  ],
+  "related_modules": [
+    "WOM-083",
+    "LIF-014",
+    "PSY-052"
+  ],
+  "evidence_strength": "Established evidence for sex differences in alcohol metabolism and related health risks; moderate evidence for social and psychological factors; emerging research on genetic and hormonal influences and personalized interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
