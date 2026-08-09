@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-053",
+  "title": "Diastasis Recti",
+  "subtitle": "Evidence-based information, recovery, and safety related to diastasis recti.",
+  "domain": "Women's Health",
+  "category": "Postpartum and Parenting",
+  "som_stages": [
+    "Pregnancy",
+    "Postpartum"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Physical Therapists",
+    "Postpartum Fitness Coaches"
+  ],
+  "reading_level": "Intermediate - general adult education",
+  "keywords": [
+    "diastasis recti",
+    "abdominal separation",
+    "postpartum recovery",
+    "rectus abdominis",
+    "core rehabilitation",
+    "abdominal muscles",
+    "post-pregnancy",
+    "physical therapy",
+    "pelvic floor",
+    "core stability"
+  ],
+  "related_modules": [
+    "WOM-047_Postpartum_Recovery_Physical_Therapy",
+    "WOM-058_Pelvic_Floor_Dysfunction",
+    "WOM-040_Pregnancy_Exercise_Safety"
+  ],
+  "evidence_strength": "Moderate evidence supports rehabilitation exercises and physical therapy for improving diastasis recti; however, standardized protocols and long-term outcomes require further high-quality research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

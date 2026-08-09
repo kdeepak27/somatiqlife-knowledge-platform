@@ -1,0 +1,35 @@
+{
+  "module_id": "WOM-051",
+  "title": "Returning to Exercise After Birth",
+  "subtitle": "Evidence-based information, recovery, and safety related to returning to exercise after birth.",
+  "domain": "Women's Health",
+  "category": "Postpartum and Parenting",
+  "som_stages": [
+    "Postpartum"
+  ],
+  "audience": [
+    "New Mothers",
+    "Healthcare Providers",
+    "Physical Therapists",
+    "Fitness Trainers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Postpartum exercise",
+    "Postnatal fitness",
+    "Exercise after childbirth",
+    "Pelvic floor rehabilitation",
+    "Postpartum recovery",
+    "Maternal health",
+    "Exercise safety postpartum",
+    "Physical activity after birth"
+  ],
+  "related_modules": [
+    "WOM-043_Postpartum_Mental_Health",
+    "WOM-022_Pelvic_Floor_Dysfunction",
+    "WOM-034_Physical_Therapy_Postpartum"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

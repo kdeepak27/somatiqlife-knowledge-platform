@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-055",
+  "title": "Postpartum Depression",
+  "subtitle": "Evidence-based information, recovery, and safety related to postpartum depression.",
+  "domain": "Women's Health",
+  "category": "Postpartum and Parenting",
+  "som_stages": [
+    "Postnatal Care",
+    "Mental Health Monitoring",
+    "Parenting Support"
+  ],
+  "audience": [
+    "Postpartum Mothers",
+    "Family Members",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Postpartum depression",
+    "postnatal depression",
+    "PPD",
+    "maternal mental health",
+    "postpartum mood disorders",
+    "baby blues",
+    "perinatal mental health",
+    "depression after childbirth"
+  ],
+  "related_modules": [
+    "WOM-034: Perinatal Mental Health",
+    "WOM-058: Postpartum Psychosis",
+    "WOM-070: Maternal Nutrition and Mental Health"
+  ],
+  "evidence_strength": "Established evidence for clinical features and treatment effectiveness; moderate evidence for biological mechanisms and emerging therapies; some uncertainty persists in prevention strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "WOM-052",
+  "title": "Pelvic Floor Recovery",
+  "subtitle": "Evidence-based information, recovery, and safety related to pelvic floor recovery.",
+  "domain": "Women's Health",
+  "category": "Postpartum and Parenting",
+  "som_stages": [
+    "postpartum",
+    "rehabilitation",
+    "parenting"
+  ],
+  "audience": [
+    "patients",
+    "caregivers",
+    "healthcare providers",
+    "physical therapists"
+  ],
+  "reading_level": "Intermediate (8th-10th grade)",
+  "keywords": [
+    "pelvic floor",
+    "postpartum recovery",
+    "pelvic floor muscles",
+    "pelvic organ prolapse",
+    "urinary incontinence",
+    "pelvic rehabilitation",
+    "Kegel exercises"
+  ],
+  "related_modules": [
+    "WOM-018 Postpartum Care Basics",
+    "WOM-045 Urinary Incontinence Management",
+    "WOM-061 Pelvic Organ Prolapse"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
