@@ -1,0 +1,266 @@
+{
+  "module_id": "DIS-162",
+  "title": "Tuberculosis Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to tuberculosis prevention.",
+  "domain": "Disease Prevention",
+  "category": "Respiratory and Infectious Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Professionals"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "Tuberculosis",
+    "TB prevention",
+    "Mycobacterium tuberculosis",
+    "Latent TB infection",
+    "BCG vaccine",
+    "Screening",
+    "Risk factors",
+    "Respiratory infection"
+  ],
+  "customer_questions": [
+    "What is tuberculosis and how is it spread?",
+    "How can I prevent tuberculosis infection?",
+    "What are the risk factors for developing tuberculosis?",
+    "Is there a vaccine to prevent tuberculosis?",
+    "What is latent tuberculosis infection (LTBI)?",
+    "How do healthcare providers screen for tuberculosis?",
+    "Can tuberculosis be prevented by wearing masks?",
+    "What are the best practices for tuberculosis control in crowded places?",
+    "How effective is the BCG vaccine?",
+    "Are there side effects or risks associated with tuberculosis prevention methods?",
+    "How can tuberculosis prevention differ in low-income versus high-income countries?",
+    "What are the common misconceptions about tuberculosis prevention?"
+  ],
+  "retrieval_summary": "Tuberculosis (TB) is an infectious disease primarily caused by the bacterium Mycobacterium tuberculosis. It spreads mainly through airborne particles when an infected person coughs or sneezes. Preventing TB involves multiple strategies aimed at interrupting transmission, reducing risk factors, identifying latent TB infection (LTBI), and providing preventive therapy. Major synonyms include pulmonary tuberculosis and active TB disease, but prevention efforts often focus on both active and latent forms. The Bacillus Calmette-Guérin (BCG) vaccine is the only currently available vaccine to prevent certain severe forms of childhood TB, but it does not fully prevent pulmonary TB in adults. Practical prevention includes vaccination, screening high-risk groups, environmental controls like improved ventilation, respiratory hygiene, and appropriate use of personal protective equipment such as masks in healthcare settings. Understanding and addressing social determinants such as poverty, malnutrition, and overcrowding are important because they increase susceptibility and transmission risk. Limitations exist; for example, standard screening tests cannot detect all latent infections, and preventive treatments have potential side effects. Safety measures during chemoprophylaxis and infection control are critical to avoid adverse events and transmission, respectively. Evidence-based strategies differ by region and resource availability, highlighting the need for tailored public health programs. This module integrates established knowledge and emerging practices to provide a comprehensive resource on TB prevention.",
+  "learning_objectives": [
+    "Define tuberculosis and identify modes of transmission.",
+    "Describe risk factors that increase the likelihood of TB infection and disease.",
+    "Explain the role and limitations of the BCG vaccine in TB prevention.",
+    "Understand screening methods for latent and active TB infection.",
+    "Identify evidence-based practical measures to reduce TB transmission.",
+    "Recognize misconceptions about TB prevention.",
+    "Discuss the safety considerations associated with TB preventive strategies.",
+    "Apply knowledge of social and environmental factors to TB control efforts."
+  ],
+  "definition": "Tuberculosis (TB) is a contagious infectious disease caused primarily by the bacterium Mycobacterium tuberculosis. It most commonly affects the lungs (pulmonary TB) but can affect other organs. Transmission occurs mainly through inhalation of airborne droplets expelled by infected individuals.",
+  "why_this_matters": "TB remains a leading cause of infectious disease worldwide. Effective prevention is vital to reduce morbidity, mortality, and global disease burden. Understanding TB transmission and prevention helps individuals, healthcare providers, and communities implement strategies that reduce new infections and control outbreaks, saving lives and resources.",
+  "sections": [
+    {
+      "heading": "Understanding Tuberculosis and Its Transmission",
+      "content": "Tuberculosis is caused by Mycobacterium tuberculosis, a slow-growing bacterium transmitted through the air. When a person with active pulmonary TB coughs, sneezes, or talks, microscopic droplets containing the bacteria are released, which can be inhaled by others nearby. Transmission requires prolonged or repeated exposure, usually in closed or crowded environments. TB primarily affects the lungs but can spread to other parts of the body. Understanding how TB spreads helps target prevention efforts effectively."
+    },
+    {
+      "heading": "Risk Factors for Tuberculosis Infection and Disease",
+      "content": "Certain conditions increase the risk of acquiring TB infection or progressing from latent infection to active disease. These include living in or traveling to high TB prevalence areas, close contact with people who have active TB, immunosuppression (e.g., HIV infection, diabetes), malnutrition, young age, smoking, and homelessness. Social determinants such as poverty and overcrowding also play a key role by facilitating transmission and reducing access to health services."
+    },
+    {
+      "heading": "Latent Tuberculosis Infection (LTBI): Definition and Importance",
+      "content": "Latent tuberculosis infection occurs when a person is infected with M. tuberculosis but does not have active disease and cannot transmit TB to others. However, LTBI can reactivate later, especially if the immune system is weakened. Screening and treating LTBI in high-risk groups is a prominent prevention strategy to reduce development of active TB disease."
+    },
+    {
+      "heading": "BCG Vaccination: Role and Limitations",
+      "content": "The Bacillus Calmette-Guérin (BCG) vaccine is derived from an attenuated strain of Mycobacterium bovis and is used in many countries to protect against severe TB forms, especially in children. While BCG offers significant protection against TB meningitis and miliary TB in infants, its effectiveness against adult pulmonary TB varies widely geographically and is generally limited. BCG vaccination is usually given once, typically in infancy or early childhood."
+    },
+    {
+      "heading": "Screening Methods for Tuberculosis",
+      "content": "Screening for TB includes tests to detect active disease and latent infection. Active TB is diagnosed using chest X-rays, sputum smear microscopy, culture, and molecular tests like GeneXpert. LTBI screening primarily uses the Tuberculin Skin Test (TST) or Interferon Gamma Release Assays (IGRAs). Each method has advantages and limitations in sensitivity, specificity, and resource requirements, influencing their use in different settings."
+    },
+    {
+      "heading": "Environmental and Personal Preventive Measures",
+      "content": "Preventing TB transmission involves environmental controls such as improving ventilation, using ultraviolet germicidal irradiation in healthcare settings, and minimizing time spent in crowded, poorly ventilated spaces. Personal protective equipment including masks (e.g., N95 respirators in healthcare) reduces inhalation of infectious droplets. Encouraging respiratory hygiene and cough etiquette also decreases spread in community and healthcare environments."
+    },
+    {
+      "heading": "Chemoprophylaxis for Tuberculosis Prevention",
+      "content": "Preventive therapy for people with latent TB infection significantly reduces progression to active TB disease. Common regimens include isoniazid monotherapy for 6-9 months or short-course combination therapies like rifapentine plus isoniazid. Treatment adherence and monitoring for drug toxicity, especially hepatotoxicity, are essential. Chemoprophylaxis is targeted mainly to high-risk groups such as recent contacts of TB cases and immunocompromised individuals."
+    },
+    {
+      "heading": "Addressing Social Determinants and Health System Factors",
+      "content": "Social factors such as housing, nutrition, education, and access to healthcare critically influence TB prevention success. Programs that improve living conditions, provide social support, and ensure timely diagnosis and treatment reduce TB incidence. Health system strengthening, including surveillance and contact tracing, is fundamental for sustained TB control."
+    },
+    {
+      "heading": "Common Misconceptions About Tuberculosis Prevention",
+      "content": "Misconceptions include beliefs that TB can be spread by casual contact like shaking hands or sharing utensils, that only sick-looking people transmit TB, or that BCG vaccination prevents all forms of TB. Clarifying these myths is important to reduce stigma, encourage appropriate health-seeking behavior, and promote effective prevention measures."
+    },
+    {
+      "heading": "Safety and Limitations in Tuberculosis Prevention Strategies",
+      "content": "While prevention strategies are effective, they carry limitations and risks. BCG vaccination may cause local adverse reactions and is contraindicated in immunocompromised persons. Preventive chemotherapy requires monitoring to avoid drug toxicity. Environmental controls in resource-limited settings may be difficult to implement consistently. Awareness of these limitations guides balanced, context-appropriate approaches."
+    }
+  ],
+  "practical_guidance": [
+    "Maintain good ventilation in living and work spaces to reduce airborne transmission risk.",
+    "Practice respiratory hygiene: cover mouth and nose when coughing or sneezing.",
+    "Use appropriate personal protective equipment when caring for TB patients, especially in healthcare settings.",
+    "Ensure BCG vaccination for infants in countries where TB is common, while understanding its protective scope.",
+    "Screen high-risk individuals for latent and active TB and follow up with preventive treatment as recommended.",
+    "Avoid close, prolonged contact with known TB cases until they are under effective treatment.",
+    "Implement social support and nutritional interventions to reduce TB susceptibility.",
+    "Educate communities to dispel myths and promote early diagnosis and adherence to prevention and treatment."
+  ],
+  "safety_notes": [
+    "BCG vaccination should not be administered to individuals with weakened immune systems due to risk of disseminated BCG infection.",
+    "Regular monitoring is necessary during TB preventive therapy to detect adverse drug reactions, especially liver toxicity with isoniazid.",
+    "Use respiratory protection equipment that meets standards (e.g., N95 masks) for healthcare workers in high-exposure settings.",
+    "Environmental interventions must be balanced with other safety considerations, such as fire risks with increased ventilation.",
+    "Promptly investigate and manage any signs of active TB to prevent infectious spread and protect contacts."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Tuberculosis can be spread by sharing utensils or casual contact.",
+      "reality": "TB is primarily spread through airborne droplets from coughing or sneezing, not by touching objects or casual contact."
+    },
+    {
+      "misconception": "BCG vaccine completely prevents all forms of tuberculosis throughout life.",
+      "reality": "BCG mainly protects infants against severe TB forms but does not fully prevent adult pulmonary TB infection or disease."
+    },
+    {
+      "misconception": "Only people who look sick with cough can transmit TB.",
+      "reality": "While coughing increases transmission risk, some individuals with active TB may have mild symptoms but still be contagious."
+    },
+    {
+      "misconception": "Wearing a regular cloth mask is sufficient to prevent TB transmission in all settings.",
+      "reality": "In healthcare settings with high TB exposure, specialized respirators like N95 masks are needed for effective protection."
+    }
+  ],
+  "clinical_pearls": [
+    "Early identification and treatment of active TB cases dramatically reduce transmission.",
+    "Screening and treating latent TB infection is a cornerstone in TB elimination strategies.",
+    "The protective effect of BCG vaccination varies by geographic region and prevalence of non-tuberculous mycobacteria.",
+    "Improved ventilation and air-disinfection technologies are cost-effective environmental controls in crowded settings.",
+    "TB prevention requires a combination of biomedical, social, and public health interventions for maximal impact."
+  ],
+  "key_takeaways": [
+    "Tuberculosis is an airborne infectious disease caused by Mycobacterium tuberculosis that mainly affects lungs.",
+    "Transmission occurs through inhalation of aerosolized droplets from infectious patients.",
+    "Risk factors include close contact with TB cases, immunosuppression, malnutrition, and overcrowding.",
+    "The BCG vaccine protects children against severe TB but has limited adult pulmonary TB protection.",
+    "Screening includes tests for active disease (chest X-ray, sputum) and latent infection (TST, IGRA).",
+    "Environmental and personal protective measures reduce the likelihood of transmission.",
+    "Chemoprophylaxis for latent TB infection prevents progression to active disease but requires monitoring for side effects.",
+    "Combating social determinants and dispelling misconceptions are critical components of TB prevention."
+  ],
+  "glossary": [
+    {
+      "term": "Tuberculosis (TB)",
+      "definition": "A contagious infectious disease caused by Mycobacterium tuberculosis, primarily affecting the lungs."
+    },
+    {
+      "term": "Mycobacterium tuberculosis",
+      "definition": "The species of bacteria that causes tuberculosis."
+    },
+    {
+      "term": "Latent Tuberculosis Infection (LTBI)",
+      "definition": "A state where a person is infected with TB bacteria but does not have active disease and is not contagious."
+    },
+    {
+      "term": "Active Tuberculosis",
+      "definition": "The state of having symptoms and signs of tuberculosis disease; the person can usually transmit TB to others."
+    },
+    {
+      "term": "BCG Vaccine",
+      "definition": "Bacillus Calmette-Guérin vaccine used to protect against certain severe forms of TB, especially in children."
+    },
+    {
+      "term": "Tuberculin Skin Test (TST)",
+      "definition": "A test that measures immune reaction to injected TB antigen to detect latent TB infection."
+    },
+    {
+      "term": "Interferon Gamma Release Assays (IGRAs)",
+      "definition": "Blood tests that measure immune response to TB antigens to identify latent TB infection."
+    },
+    {
+      "term": "Chemoprophylaxis",
+      "definition": "Preventive treatment with antibiotics to reduce the risk of developing active TB disease from latent infection."
+    },
+    {
+      "term": "Respiratory Hygiene",
+      "definition": "Practices such as covering coughs and sneezes to reduce spread of airborne infections."
+    },
+    {
+      "term": "N95 Respirator",
+      "definition": "A type of mask that filters at least 95% of airborne particles, recommended for healthcare workers to prevent TB exposure."
+    }
+  ],
+  "related_modules": [
+    "DIS-164 (Tuberculosis Treatment)",
+    "DIS-163 (Latent Tuberculosis Infection)",
+    "INF-101 (Respiratory Infection Control)"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-0621",
+      "title": "Mycobacterium tuberculosis",
+      "illustration_type": "Scientific Diagram",
+      "description": "Microscopic image and structure of Mycobacterium tuberculosis bacteria.",
+      "alt_text": "Microscopic image of Mycobacterium tuberculosis showing rod-shaped bacteria."
+    },
+    {
+      "illustration_id": "ILL-0622",
+      "title": "TB Transmission Routes",
+      "illustration_type": "Flowchart",
+      "description": "Visual representation of how tuberculosis spreads through airborne droplets in various environments.",
+      "alt_text": "Diagram showing TB bacteria spreading through airborne droplets during coughing and sneezing."
+    },
+    {
+      "illustration_id": "ILL-0623",
+      "title": "Latent vs Active Tuberculosis",
+      "illustration_type": "Infographic",
+      "description": "Comparison between latent TB infection and active tuberculosis disease including symptoms and infectivity.",
+      "alt_text": "Infographic contrasting latent TB infection with active TB disease."
+    },
+    {
+      "illustration_id": "ILL-0624",
+      "title": "BCG Vaccine Administration",
+      "illustration_type": "Photograph",
+      "description": "Health worker administering BCG vaccination to a child.",
+      "alt_text": "Photograph of a nurse vaccinating a young child with BCG vaccine on the upper arm."
+    },
+    {
+      "illustration_id": "ILL-0625",
+      "title": "Preventive Measures for TB",
+      "illustration_type": "Illustration",
+      "description": "Visual summary of prevention strategies like mask use, ventilation, and screening programs.",
+      "alt_text": "Illustration showing various TB preventive actions including mask wearing and improved ventilation."
+    }
+  ],
+  "references": [
+    {
+      "title": "Global Tuberculosis Report 2022",
+      "organization_or_authors": "World Health Organization (WHO)",
+      "year": "2022",
+      "identifier": "https://www.who.int/publications/i/item/9789240061729",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "CDC Tuberculosis (TB) Page",
+      "organization_or_authors": "Centers for Disease Control and Prevention (CDC)",
+      "year": "2023",
+      "identifier": "https://www.cdc.gov/tb/topic/basics/tbinfectiondisease.htm",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Tuberculosis Screening and Prevention in High-Risk Populations",
+      "organization_or_authors": "National Institute for Health and Care Excellence (NICE)",
+      "year": "2016",
+      "identifier": "https://www.nice.org.uk/guidance/ng33",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Effectiveness of BCG vaccine and new TB vaccines",
+      "organization_or_authors": "International Union Against Tuberculosis and Lung Disease",
+      "year": "2021",
+      "identifier": "https://iuatld.org/resources/",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence in emerging preventive treatments and environmental controls",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-162",
+  "title": "Tuberculosis Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to tuberculosis prevention.",
+  "domain": "Disease Prevention",
+  "category": "Respiratory and Infectious Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Professionals"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "Tuberculosis",
+    "TB prevention",
+    "Mycobacterium tuberculosis",
+    "Latent TB infection",
+    "BCG vaccine",
+    "Screening",
+    "Risk factors",
+    "Respiratory infection"
+  ],
+  "related_modules": [
+    "DIS-164 (Tuberculosis Treatment)",
+    "DIS-163 (Latent Tuberculosis Infection)",
+    "INF-101 (Respiratory Infection Control)"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence in emerging preventive treatments and environmental controls",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
