@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-035",
+  "title": "Preventing Metabolic Complications",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing metabolic complications.",
+  "domain": "Disease Prevention",
+  "category": "Metabolic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Metabolic complications",
+    "Prevention",
+    "Risk factors",
+    "Screening",
+    "Metabolic syndrome",
+    "Diabetes prevention",
+    "Obesity",
+    "Cardiovascular risk",
+    "Lifestyle modifications",
+    "Health screening"
+  ],
+  "related_modules": [
+    "DIS-012",
+    "DIS-042",
+    "NUT-028"
+  ],
+  "evidence_strength": "Established evidence supported by major clinical guidelines and multiple high-quality studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

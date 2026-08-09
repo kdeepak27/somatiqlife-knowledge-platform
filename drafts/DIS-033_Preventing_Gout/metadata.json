@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-033",
+  "title": "Preventing Gout",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing gout.",
+  "domain": "Disease Prevention",
+  "category": "Metabolic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "At-risk Individuals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "gout",
+    "uric acid",
+    "prevention",
+    "risk factors",
+    "diet",
+    "lifestyle",
+    "screening",
+    "metabolic health"
+  ],
+  "related_modules": [
+    "DIS-017",
+    "DIS-042",
+    "DIS-029"
+  ],
+  "evidence_strength": "Established evidence for major lifestyle modifications and pharmacologic prevention in recurrent gout; moderate to emerging evidence for specific dietary components such as cherries and fructose limitation; uncertain evidence for routine population screening.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

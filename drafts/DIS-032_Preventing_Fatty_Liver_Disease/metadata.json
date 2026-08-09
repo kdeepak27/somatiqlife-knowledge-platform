@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-032",
+  "title": "Preventing Fatty Liver Disease",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing fatty liver disease.",
+  "domain": "Disease Prevention",
+  "category": "Metabolic Prevention",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Patients at Risk",
+    "Healthcare Providers"
+  ],
+  "reading_level": "High-school to General Adult",
+  "keywords": [
+    "fatty liver disease",
+    "nonalcoholic fatty liver disease",
+    "NAFLD",
+    "liver health",
+    "metabolic syndrome",
+    "prevention",
+    "screening",
+    "risk factors",
+    "lifestyle",
+    "diet"
+  ],
+  "related_modules": [
+    "DIS-020",
+    "DIS-045",
+    "DIS-050"
+  ],
+  "evidence_strength": "Strong evidence supports lifestyle modification for prevention, moderate emerging evidence on some dietary supplements, and limited data supporting universal screening strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
