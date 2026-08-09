@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-104",
+  "title": "Preventing Falls",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing falls.",
+  "domain": "Disease Prevention",
+  "category": "Bone and Musculoskeletal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "falls",
+    "fall prevention",
+    "risk factors",
+    "balance",
+    "bone health",
+    "musculoskeletal health",
+    "screening",
+    "exercise",
+    "home safety"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-107",
+    "DIS-121"
+  ],
+  "evidence_strength": "Established evidence for multifactorial interventions; Moderate evidence for vitamin D supplementation; Emerging evidence for technology aids",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

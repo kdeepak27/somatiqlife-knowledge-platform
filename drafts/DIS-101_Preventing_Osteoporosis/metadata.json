@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-101",
+  "title": "Preventing Osteoporosis",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing osteoporosis.",
+  "domain": "Disease Prevention",
+  "category": "Bone and Musculoskeletal Prevention",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "General Public",
+    "Health Educators"
+  ],
+  "reading_level": "8th grade",
+  "keywords": [
+    "osteoporosis",
+    "bone health",
+    "bone density",
+    "fracture prevention",
+    "calcium",
+    "vitamin D",
+    "physical activity",
+    "risk factors",
+    "screening",
+    "bone loss"
+  ],
+  "related_modules": [
+    "DIS-102",
+    "NUT-203",
+    "EXR-105"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging data on long-term intervention strategies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

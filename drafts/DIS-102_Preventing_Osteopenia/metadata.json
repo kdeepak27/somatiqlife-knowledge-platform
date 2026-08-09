@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-102",
+  "title": "Preventing Osteopenia",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing osteopenia.",
+  "domain": "Disease Prevention",
+  "category": "Bone and Musculoskeletal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "osteopenia",
+    "bone density",
+    "prevention",
+    "risk factors",
+    "screening",
+    "calcium",
+    "vitamin D",
+    "exercise",
+    "bone health",
+    "bone mineral density"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-103",
+    "DIS-110"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and randomized controlled trials support lifestyle interventions for osteopenia prevention.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
