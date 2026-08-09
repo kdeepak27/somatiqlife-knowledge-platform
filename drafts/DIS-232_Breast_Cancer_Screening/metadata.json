@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-232",
+  "title": "Breast Cancer Screening",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to breast cancer screening.",
+  "domain": "Disease Prevention",
+  "category": "Preventive Care and Screening",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (8th-10th grade)",
+  "keywords": [
+    "Breast cancer",
+    "Screening",
+    "Mammography",
+    "Ultrasound",
+    "MRI",
+    "Risk factors",
+    "Early detection",
+    "Preventive care"
+  ],
+  "related_modules": [
+    "DIS-101: Breast Cancer Basics",
+    "GEN-205: Genetic Testing for Cancer Risk",
+    "DIS-250: Cancer Screening Guidelines",
+    "PREV-311: Women's Preventive Health"
+  ],
+  "evidence_strength": "Established evidence with ongoing research on optimal strategies and supplemental screening methods.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

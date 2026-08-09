@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-234",
+  "title": "Lung Cancer Screening",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to lung cancer screening.",
+  "domain": "Disease Prevention",
+  "category": "Preventive Care and Screening",
+  "som_stages": [
+    "Prevention",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "At-risk Adults",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "lung cancer",
+    "screening",
+    "low-dose CT",
+    "risk factors",
+    "smoking",
+    "early detection",
+    "preventive care",
+    "lung nodules"
+  ],
+  "related_modules": [
+    "DIS-101-Smoking-Cessation",
+    "DIS-220-Lung-Cancer-Treatment",
+    "DIS-112-Cancer-Prevention"
+  ],
+  "evidence_strength": "Established Evidence from Large Randomized Controlled Trials",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
