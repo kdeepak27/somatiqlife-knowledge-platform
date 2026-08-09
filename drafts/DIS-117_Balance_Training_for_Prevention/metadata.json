@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-117",
+  "title": "Balance Training for Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to balance training for prevention.",
+  "domain": "Disease Prevention",
+  "category": "Bone and Musculoskeletal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Physical Therapists",
+    "Fitness Professionals"
+  ],
+  "reading_level": "High School to Adult",
+  "keywords": [
+    "Balance Training",
+    "Fall Prevention",
+    "Postural Control",
+    "Musculoskeletal Health",
+    "Risk Factors",
+    "Screening",
+    "Physical Therapy"
+  ],
+  "related_modules": [
+    "DIS-075: Fall Prevention Strategies",
+    "DIS-089: Exercise and Musculoskeletal Health",
+    "DIS-102: Neurological Rehabilitation"
+  ],
+  "evidence_strength": "Established evidence from systematic reviews and randomized controlled trials supports balance training as effective for fall prevention, especially in older adults. Emerging evidence suggests technology-assisted programs may offer additional benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
