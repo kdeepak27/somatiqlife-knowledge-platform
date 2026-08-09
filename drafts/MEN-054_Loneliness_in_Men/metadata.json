@@ -1,0 +1,39 @@
+{
+  "module_id": "MEN-054",
+  "title": "Loneliness in Men",
+  "subtitle": "Recognition, prevention, evidence-based support, and safety related to loneliness in men.",
+  "domain": "Men's Health",
+  "category": "Mental Health",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Men",
+    "Healthcare Providers",
+    "Family Members",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Loneliness",
+    "Men's mental health",
+    "Social isolation",
+    "Emotional well-being",
+    "Psychological support",
+    "Preventive strategies",
+    "Risk factors",
+    "Social connections",
+    "Mental health interventions",
+    "Safety considerations"
+  ],
+  "related_modules": [
+    "MEN-023",
+    "MEN-047",
+    "MH-102"
+  ],
+  "evidence_strength": "Established and emerging evidence with ongoing research needs",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

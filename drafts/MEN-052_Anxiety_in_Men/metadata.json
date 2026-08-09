@@ -1,0 +1,37 @@
+{
+  "module_id": "MEN-052",
+  "title": "Anxiety in Men",
+  "subtitle": "Recognition, prevention, evidence-based support, and safety related to anxiety in men.",
+  "domain": "Men's Health",
+  "category": "Mental Health",
+  "som_stages": [
+    "Recognition",
+    "Prevention",
+    "Support"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Anxiety",
+    "Men's Mental Health",
+    "Anxiety Disorders",
+    "Stress",
+    "Psychotherapy",
+    "Pharmacotherapy",
+    "Cognitive Behavioral Therapy",
+    "CBT",
+    "Safety",
+    "Prevention"
+  ],
+  "related_modules": [
+    "MEN-034",
+    "MEN-058"
+  ],
+  "evidence_strength": "Established and emerging evidence from clinical guidelines and research studies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
