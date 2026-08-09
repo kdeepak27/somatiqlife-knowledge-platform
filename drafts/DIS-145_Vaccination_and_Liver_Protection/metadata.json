@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-145",
+  "title": "Vaccination and Liver Protection",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to vaccination and liver protection.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare providers"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "vaccination",
+    "liver protection",
+    "hepatitis B",
+    "hepatitis A",
+    "liver disease prevention",
+    "immunization",
+    "liver screening",
+    "hepatitis C",
+    "vaccine safety",
+    "liver health"
+  ],
+  "related_modules": [
+    "DIS-102",
+    "DIS-210",
+    "DIS-320"
+  ],
+  "evidence_strength": "Established evidence based on extensive epidemiological and clinical research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

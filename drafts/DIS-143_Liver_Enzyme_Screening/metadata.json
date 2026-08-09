@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-143",
+  "title": "Liver Enzyme Screening",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to liver enzyme screening.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Primary Care Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Middle School to High School",
+  "keywords": [
+    "Liver enzymes",
+    "Screening",
+    "ALT",
+    "AST",
+    "Liver function tests",
+    "Hepatic health",
+    "Preventive screening",
+    "Risk factors",
+    "Liver disease",
+    "Blood tests"
+  ],
+  "related_modules": [
+    "DIS-132",
+    "DIS-158"
+  ],
+  "evidence_strength": "Established evidence for clinical utility in at-risk populations; moderate evidence for general population screening; ongoing research on long-term outcomes and optimization of screening intervals.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

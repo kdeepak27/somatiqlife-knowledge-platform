@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-144",
+  "title": "Metabolic Health and Liver Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to metabolic health and liver risk.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Primary Care Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Metabolic Health",
+    "Liver Disease",
+    "Non-alcoholic Fatty Liver Disease",
+    "NAFLD",
+    "Metabolic Syndrome",
+    "Insulin Resistance",
+    "Screening",
+    "Prevention",
+    "Lifestyle",
+    "Liver Risk"
+  ],
+  "related_modules": [
+    "DIS-120",
+    "DIS-130",
+    "DIS-150"
+  ],
+  "evidence_strength": "Established evidence with emerging areas",
+  "version": "2024-06-01",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
