@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-250",
+  "title": "Integrating Disease Prevention: Practical Synthesis 4",
+  "subtitle": "An integrated evidence-based synthesis of disease prevention concepts, priorities, practical application, and safety.",
+  "domain": "Disease Prevention",
+  "category": "Integrated Practice",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Public Health Officials"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "disease prevention",
+    "public health",
+    "risk factors",
+    "lifestyle modification",
+    "vaccination",
+    "screening",
+    "health education",
+    "safety",
+    "misconceptions",
+    "clinical guidelines"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-190",
+    "PH-300"
+  ],
+  "evidence_strength": "Established and Emerging Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

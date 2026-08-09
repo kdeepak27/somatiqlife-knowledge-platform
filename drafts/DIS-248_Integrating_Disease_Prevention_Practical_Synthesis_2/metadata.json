@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-248",
+  "title": "Integrating Disease Prevention: Practical Synthesis 2",
+  "subtitle": "An integrated evidence-based synthesis of disease prevention concepts, priorities, practical application, and safety.",
+  "domain": "Disease Prevention",
+  "category": "Integrated Practice",
+  "som_stages": [
+    "Primary Prevention",
+    "Secondary Prevention",
+    "Tertiary Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Public Health Officials"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Disease Prevention",
+    "Health Promotion",
+    "Risk Reduction",
+    "Lifestyle Modification",
+    "Screening",
+    "Vaccination",
+    "Evidence-Based Practice",
+    "Patient Safety"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "IMM-202",
+    "PRV-310"
+  ],
+  "evidence_strength": "Established scientific evidence based on systematic reviews, randomized controlled trials, and expert consensus supports most disease prevention strategies, with some emerging areas requiring further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
