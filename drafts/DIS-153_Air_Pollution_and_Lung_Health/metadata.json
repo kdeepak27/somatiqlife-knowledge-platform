@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-153",
+  "title": "Air Pollution and Lung Health",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to air pollution and lung health.",
+  "domain": "Disease Prevention",
+  "category": "Respiratory and Infectious Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Professionals"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "air pollution",
+    "lung health",
+    "particulate matter",
+    "respiratory disease",
+    "pollution prevention",
+    "indoor air quality",
+    "lung screening",
+    "COPD",
+    "asthma",
+    "environmental health"
+  ],
+  "related_modules": [
+    "DIS-101-Smoking-Cessation",
+    "DIS-210-Asthma-Management",
+    "DIS-178-COPD-Overview"
+  ],
+  "evidence_strength": "Established evidence for health impacts; moderate evidence for prevention efficacy in diverse populations; emerging evidence for biomarkers and long-term screening.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
