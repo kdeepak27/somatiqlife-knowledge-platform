@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-127",
+  "title": "Preventing Kidney Function Decline",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing kidney function decline.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General public",
+    "Patients at risk",
+    "Healthcare providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Kidney function",
+    "Chronic kidney disease",
+    "Prevention",
+    "Screening",
+    "Risk factors",
+    "Renal health",
+    "Kidney decline",
+    "Lifestyle"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-129",
+    "DIS-132"
+  ],
+  "evidence_strength": "Established evidence where available with some moderate evidence in emerging areas such as dietary patterns.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

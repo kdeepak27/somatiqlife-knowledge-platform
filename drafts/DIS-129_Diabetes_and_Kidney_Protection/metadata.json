@@ -1,0 +1,40 @@
+{
+  "module_id": "DIS-129",
+  "title": "Diabetes and Kidney Protection",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to diabetes and kidney protection.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Preventive Care",
+    "Early Detection",
+    "Chronic Disease Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers",
+    "Endocrinologists",
+    "Nephrologists",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Diabetes",
+    "Kidney protection",
+    "Nephropathy",
+    "Chronic kidney disease",
+    "Screening",
+    "Prevention",
+    "Risk factors",
+    "Blood sugar control",
+    "Hypertension",
+    "Renal function"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-152"
+  ],
+  "evidence_strength": "Established evidence based on longitudinal cohort studies and randomized controlled trials, with emerging data on novel therapeutics.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

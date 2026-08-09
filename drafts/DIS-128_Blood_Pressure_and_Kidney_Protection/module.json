@@ -1,0 +1,263 @@
+{
+  "module_id": "DIS-128",
+  "title": "Blood Pressure and Kidney Protection",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to blood pressure and kidney protection.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Patients at Risk"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Blood Pressure",
+    "Hypertension",
+    "Kidney Protection",
+    "Chronic Kidney Disease",
+    "Renal Function",
+    "Screening",
+    "Risk Factors",
+    "Prevention",
+    "Lifestyle",
+    "Medication"
+  ],
+  "customer_questions": [
+    "What is the relationship between blood pressure and kidney health?",
+    "How does hypertension damage the kidneys?",
+    "Can controlling blood pressure prevent kidney disease?",
+    "What are the risk factors for high blood pressure affecting the kidneys?",
+    "How often should I screen my kidney function if I have high blood pressure?",
+    "What lifestyle changes help protect kidneys in hypertensive patients?",
+    "Are there medications that help protect kidneys beyond lowering blood pressure?",
+    "What is the role of sodium intake in blood pressure and kidney health?",
+    "Can blood pressure control reverse kidney damage?",
+    "What are the signs of kidney problems in people with hypertension?",
+    "How does diabetes interact with blood pressure to affect kidney health?",
+    "Is ambulatory blood pressure monitoring useful for kidney protection?"
+  ],
+  "retrieval_summary": "Blood pressure (BP) is the force exerted by circulating blood on the walls of blood vessels, usually measured as systolic over diastolic pressure in millimeters of mercury (mmHg). High blood pressure, or hypertension, is a leading cause of chronic kidney disease (CKD), as elevated BP damages the small blood vessels in the kidneys, impairing their filtering ability. This relationship is bidirectional: poor kidney function can also worsen hypertension, creating a detrimental cycle. Protecting kidney health involves understanding the pathophysiology of hypertension-induced renal injury, including mechanisms such as glomerular hypertension, ischemic injury from arteriosclerosis, and profibrotic processes. Evidence robustly supports blood pressure control as a key intervention to prevent or slow CKD progression. Controlling BP includes lifestyle approaches (dietary sodium restriction, physical activity, weight management), medical management with antihypertensive agents (ACE inhibitors, ARBs), and regular kidney function screening. Major synonyms and related terms include high blood pressure (hypertension), renal protection, nephropathy prevention, and renal hypertension management. Limitations include variability in individual response to treatment and challenges in achieving target BP. Safety concerns pertain to over-lowering BP causing hypoperfusion and ischemic injury, especially in advanced CKD. Practical relevance encompasses both public health and clinical practice for preventing kidney failure and associated complications. This module aims to equip readers with fundamental knowledge, evidence-based prevention strategies, and actionable guidance for protecting kidneys through blood pressure management.",
+  "learning_objectives": [
+    "Define blood pressure and explain its role in kidney function and damage.",
+    "Describe mechanisms by which hypertension affects kidneys.",
+    "List major risk factors linking high blood pressure to kidney disease.",
+    "Summarize evidence supporting blood pressure control in kidney protection.",
+    "Explain screening strategies for detecting kidney damage in hypertensive individuals.",
+    "Identify practical lifestyle and pharmacologic interventions to protect kidneys.",
+    "Discuss safety considerations in blood pressure management for kidney health.",
+    "Recognize common misconceptions about blood pressure and kidney disease."
+  ],
+  "definition": "Blood pressure refers to the force exerted by circulating blood against the walls of blood vessels. Hypertension, or high blood pressure, is a chronic condition characterized by consistently elevated blood pressure levels, which can damage organs including the kidneys. Kidney protection involves strategies to prevent or slow kidney damage caused by hypertension.",
+  "why_this_matters": "Understanding the link between blood pressure and kidney health is crucial because hypertension is a major modifiable risk factor for chronic kidney disease — a condition that can lead to kidney failure, dialysis, or transplantation. Effective blood pressure control can significantly reduce the risk of kidney damage and improve overall health and longevity.",
+  "sections": [
+    {
+      "heading": "Understanding Blood Pressure and Hypertension",
+      "content": "Blood pressure is measured in millimeters of mercury (mmHg) and recorded as two numbers: systolic pressure (pressure during heartbeats) and diastolic pressure (pressure between beats). Normal blood pressure is generally considered below 120/80 mmHg. Hypertension is diagnosed when readings consistently exceed 130/80 mmHg according to current guidelines. This section explains blood pressure physiology, measurement techniques, and classifications relevant to kidney health."
+    },
+    {
+      "heading": "How Hypertension Damages the Kidneys",
+      "content": "Hypertension contributes to kidney damage by causing high pressure in the small vessels (glomeruli) that filter blood in the kidneys, leading to scarring (glomerulosclerosis), reduced filtration capacity, and eventual chronic kidney disease (CKD). Sustained elevated BP causes arteriosclerosis of renal arteries, reducing blood flow and oxygen delivery, inducing ischemic injury. Mechanistic pathways including hormonal (renin-angiotensin-aldosterone system) and inflammatory mediators exacerbate injury."
+    },
+    {
+      "heading": "Epidemiology and Risk Factors for Hypertensive Kidney Disease",
+      "content": "Hypertensive kidney damage is more common in older adults, people of African descent, and those with comorbidities such as diabetes, obesity, and cardiovascular disease. Genetic predisposition and socioeconomic factors also influence risk. This section reviews epidemiologic data outlining populations at higher risk and modifiable risk factors including high sodium intake, sedentary lifestyle, and poor medication adherence."
+    },
+    {
+      "heading": "Evidence Supporting Blood Pressure Control for Kidney Protection",
+      "content": "Randomized controlled trials and longitudinal studies demonstrate that controlling blood pressure reduces the incidence and progression of CKD. Therapeutic targets typically aim at less than 130/80 mmHg for patients with kidney disease. Antihypertensive agents, especially ACE inhibitors and angiotensin receptor blockers (ARBs), show renoprotective effects beyond blood pressure lowering. Guidelines from KDIGO, American Heart Association, and others recommend aggressive BP management in at-risk populations."
+    },
+    {
+      "heading": "Screening for Kidney Damage in People with Hypertension",
+      "content": "Early detection of kidney damage involves screening for proteinuria (albuminuria), serum creatinine measurement to estimate glomerular filtration rate (eGFR), and blood pressure monitoring. Annual screening is advised for hypertensive individuals, with more frequent testing if abnormalities are detected or risk factors accumulate. Screening helps guide treatment intensity and monitor disease progression."
+    },
+    {
+      "heading": "Lifestyle Interventions to Protect Kidneys",
+      "content": "Key lifestyle strategies include dietary sodium reduction (ideally under 2 grams per day), adopting the DASH (Dietary Approaches to Stop Hypertension) diet rich in fruits, vegetables, and low-fat dairy, regular aerobic exercise, weight control, limiting alcohol, and smoking cessation. These changes improve blood pressure levels and reduce kidney strain. Practical tools include meal planning, physical activity recommendations, and behavior modification support."
+    },
+    {
+      "heading": "Pharmacologic Approaches for Kidney Protection",
+      "content": "Medications such as ACE inhibitors and ARBs decrease glomerular pressure and proteinuria, directly protecting kidneys. Other antihypertensive classes may be used to achieve target BP, but ACE inhibitors/ARBs remain first-line for renal protection. Monitoring for hyperkalemia and kidney function is essential during treatment. Combination therapy is often required. This section reviews drug classes, dosing considerations, and adverse effects."
+    },
+    {
+      "heading": "Limitations and Challenges in Blood Pressure Management",
+      "content": "Not all patients respond equally to blood pressure lowering, and some may experience side effects such as hypotension or electrolyte imbalances. Access to care, medication adherence, and comorbidities complicate management. Certain CKD stages require individualized targets. Awareness of these challenges informs patient education and healthcare planning."
+    },
+    {
+      "heading": "Common Misconceptions About Blood Pressure and Kidney Disease",
+      "content": "Misconceptions include the belief that kidney damage from hypertension is inevitable, that only very high blood pressure causes kidney harm, or that kidney impairment always causes symptoms. This section clarifies these myths with evidence-based explanations to promote informed patient perspectives."
+    },
+    {
+      "heading": "Safety Considerations in Blood Pressure and Kidney Treatment",
+      "content": "While controlling blood pressure is protective, excessively low blood pressure may reduce kidney perfusion, causing acute kidney injury particularly in older adults or those with advanced CKD. Regular monitoring helps balance BP goals and safety. Patient-specific factors must guide therapy to avoid adverse outcomes."
+    }
+  ],
+  "practical_guidance": [
+    "Measure blood pressure regularly and aim for BP targets advised by your healthcare provider.",
+    "Adopt a low-sodium, DASH-style diet to reduce blood pressure and protect kidneys.",
+    "Engage in regular physical activity (150 minutes/week moderate intensity) to help control blood pressure.",
+    "If prescribed, take antihypertensive medications consistently and report side effects.",
+    "Schedule annual kidney function screening if you have hypertension or risk factors.",
+    "Avoid smoking and limit alcohol as these can worsen blood pressure and kidney health.",
+    "Monitor for symptoms like swelling or changes in urination and report changes promptly.",
+    "Discuss individualized blood pressure targets with your healthcare provider, considering your kidney health."
+  ],
+  "safety_notes": [
+    "Avoid sudden and excessive blood pressure lowering to prevent kidney hypoperfusion.",
+    "Manage electrolytes, especially potassium, during ACE inhibitor or ARB therapy to avoid hyperkalemia.",
+    "Do not stop medications without consulting your healthcare provider.",
+    "Be aware of potential drug interactions that may affect kidney function.",
+    "Report any signs of kidney dysfunction such as decreased urine output or swelling immediately."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "High blood pressure only affects the heart and brain, not the kidneys.",
+      "reality": "Hypertension directly damages the kidneys by increasing pressure in small blood vessels, leading to chronic kidney disease."
+    },
+    {
+      "misconception": "Kidney damage from hypertension always causes noticeable symptoms early on.",
+      "reality": "Kidney damage often progresses silently with few or no symptoms until advanced stages."
+    },
+    {
+      "misconception": "Only very high blood pressure levels can cause kidney injury.",
+      "reality": "Even moderately elevated blood pressure over time can contribute to renal damage, especially in susceptible individuals."
+    }
+  ],
+  "clinical_pearls": [
+    "ACE inhibitors and ARBs not only lower blood pressure but also reduce proteinuria, a key marker of kidney injury.",
+    "Regular screening for albuminuria helps in early detection of kidney damage in hypertensive patients.",
+    "Blood pressure targets may be individualized based on patient age, comorbidities, and kidney function.",
+    "Lifestyle modifications are foundational and can reduce the need for medications if started early.",
+    "Monitoring electrolytes and kidney function tests is critical when using renin-angiotensin system blockers."
+  ],
+  "key_takeaways": [
+    "High blood pressure is a major, preventable cause of chronic kidney disease.",
+    "Blood pressure affects kidney health by damaging renal blood vessels and filtration units.",
+    "Early detection of kidney damage through screening is essential for effective intervention.",
+    "Lifestyle changes such as sodium restriction and exercise aid blood pressure control and kidney protection.",
+    "ACE inhibitors and ARBs are first-line medications for hypertensive kidney disease due to their renoprotective effects.",
+    "Strict blood pressure control slows progression of kidney damage and reduces cardiovascular risk.",
+    "Overly aggressive blood pressure lowering may be harmful; monitoring is critical.",
+    "Educating patients about blood pressure and kidney health reduces misconceptions and improves outcomes."
+  ],
+  "glossary": [
+    {
+      "term": "Blood Pressure (BP)",
+      "definition": "The force of blood pushing against the walls of arteries as the heart pumps."
+    },
+    {
+      "term": "Hypertension",
+      "definition": "A chronic condition characterized by consistently elevated blood pressure above normal levels."
+    },
+    {
+      "term": "Chronic Kidney Disease (CKD)",
+      "definition": "A gradual loss of kidney function over time, often caused by diabetes and hypertension."
+    },
+    {
+      "term": "Glomerulus",
+      "definition": "Tiny blood vessels in the kidneys that filter waste and excess substances from the blood."
+    },
+    {
+      "term": "Proteinuria",
+      "definition": "Presence of excess protein in the urine, indicating kidney damage."
+    },
+    {
+      "term": "Estimated Glomerular Filtration Rate (eGFR)",
+      "definition": "A blood test that estimates how well the kidneys are filtering waste."
+    },
+    {
+      "term": "Angiotensin-Converting Enzyme (ACE) Inhibitors",
+      "definition": "A class of medications that lower blood pressure and protect kidney function."
+    },
+    {
+      "term": "Angiotensin Receptor Blockers (ARBs)",
+      "definition": "Medications that block effects of angiotensin II, reducing blood pressure and kidney damage."
+    },
+    {
+      "term": "Renin-Angiotensin-Aldosterone System (RAAS)",
+      "definition": "A hormone system regulating blood pressure and fluid balance, often targeted in hypertension treatment."
+    },
+    {
+      "term": "DASH Diet",
+      "definition": "Dietary Approaches to Stop Hypertension; emphasizes fruits, vegetables, whole grains, and low sodium."
+    }
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-130",
+    "DIS-115"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Blood Pressure Measurement",
+      "illustration_type": "Diagram",
+      "description": "Visual explanation of how systolic and diastolic blood pressure is measured using a cuff and gauge.",
+      "alt_text": "Diagram showing blood pressure cuff wrapping around an arm and gauge reading pressure values."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Kidney Structure and Function",
+      "illustration_type": "Anatomical Illustration",
+      "description": "Detailed illustration of the kidney showing the glomeruli and blood vessels involved in filtration.",
+      "alt_text": "Anatomical drawing of kidney highlighting nephron and glomerulus."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Effects of Hypertension on Kidney Vessels",
+      "illustration_type": "Pathophysiology Chart",
+      "description": "Chart illustrating how high blood pressure causes vessel thickening, scarring, and reduced kidney filtration.",
+      "alt_text": "Flow diagram of hypertension damaging kidney arterioles and glomeruli resulting in CKD."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Lifestyle Modifications for Blood Pressure Control",
+      "illustration_type": "Infographic",
+      "description": "Infographic summarizing key lifestyle changes recommended to lower blood pressure and protect kidneys.",
+      "alt_text": "Colorful infographic with icons for diet, exercise, weight loss, and smoking cessation."
+    }
+  ],
+  "references": [
+    {
+      "title": "KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease",
+      "organization_or_authors": "Kidney Disease: Improving Global Outcomes (KDIGO)",
+      "year": "2021",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "2017 ACC/AHA Hypertension Guideline",
+      "organization_or_authors": "American College of Cardiology/American Heart Association",
+      "year": "2017",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Dietary Approaches to Stop Hypertension (DASH) Eating Plan",
+      "organization_or_authors": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "year": "2019",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Renin-Angiotensin System Blockade in Chronic Kidney Disease",
+      "organization_or_authors": "American Journal of Kidney Diseases",
+      "year": "2019",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Hypertension and Kidney Disease: Epidemiology and Pathophysiology",
+      "organization_or_authors": "National Kidney Foundation",
+      "year": "2020",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence supported by high-quality clinical trials and guidelines with some emerging insights on individual variability and optimal targets.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

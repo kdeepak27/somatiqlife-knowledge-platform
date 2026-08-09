@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-130",
+  "title": "Preventing Kidney Stones",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing kidney stones.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Patients at Risk",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "kidney stones",
+    "nephrolithiasis",
+    "kidney stone prevention",
+    "risk factors",
+    "dietary modifications",
+    "hydration",
+    "screening",
+    "calcium oxalate stones",
+    "uric acid stones",
+    "medical management"
+  ],
+  "related_modules": [
+    "DIS-105",
+    "DIS-142",
+    "DIS-175"
+  ],
+  "evidence_strength": "Established evidence based on randomized controlled trials, meta-analyses, and clinical guidelines for primary prevention of kidney stones.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
