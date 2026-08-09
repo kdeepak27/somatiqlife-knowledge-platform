@@ -1,0 +1,37 @@
+{
+  "module_id": "AGE-130",
+  "title": "Functional Assessment",
+  "subtitle": "Prevention, screening, safety, and practical planning for functional assessment.",
+  "domain": "Healthy Aging and Longevity",
+  "category": "Preventive Aging",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Moderate (high school to early college)",
+  "keywords": [
+    "Functional Assessment",
+    "Activities of Daily Living",
+    "Instrumental Activities of Daily Living",
+    "Mobility",
+    "Fall Risk Assessment",
+    "Healthy Aging",
+    "Physical Function",
+    "Cognitive Function",
+    "Preventive Screening",
+    "Aging"
+  ],
+  "related_modules": [
+    "AGE-120",
+    "AGE-140",
+    "AGE-150"
+  ],
+  "evidence_strength": "Established evidence supplemented by emerging technologies and applications",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
