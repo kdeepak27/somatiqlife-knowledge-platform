@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-048",
+  "title": "Alcohol and Metabolic Health",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to alcohol and metabolic health.",
+  "domain": "Disease Prevention",
+  "category": "Metabolic Prevention",
+  "som_stages": [
+    "Primary Prevention",
+    "Secondary Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate (Grade 8-12)",
+  "keywords": [
+    "Alcohol Consumption",
+    "Metabolic Health",
+    "Metabolic Syndrome",
+    "Diabetes",
+    "Obesity",
+    "Liver Function",
+    "Cardiovascular Risk",
+    "Screening",
+    "Prevention"
+  ],
+  "related_modules": [
+    "DIS-032 - Alcohol Use and Liver Disease",
+    "DIS-056 - Diabetes Prevention and Management",
+    "DIS-075 - Cardiovascular Risk Reduction"
+  ],
+  "evidence_strength": "Mixed evidence with strong consensus on risks of heavy consumption and emerging, inconsistent evidence on moderate consumption benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

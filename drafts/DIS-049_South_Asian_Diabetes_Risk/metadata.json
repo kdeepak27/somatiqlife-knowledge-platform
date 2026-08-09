@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-049",
+  "title": "South Asian Diabetes Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to south asian diabetes risk.",
+  "domain": "Disease Prevention",
+  "category": "Metabolic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Professionals"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "South Asian",
+    "Diabetes",
+    "Type 2 Diabetes Mellitus",
+    "Risk Factors",
+    "Prevention",
+    "Screening",
+    "Glucose Metabolism",
+    "Insulin Resistance"
+  ],
+  "related_modules": [
+    "DIS-002",
+    "DIS-015",
+    "NUT-021"
+  ],
+  "evidence_strength": "Established evidence supports increased diabetes risk and key physiological and environmental factors in South Asians. Emerging evidence supports effectiveness of culturally tailored interventions. Some uncertainty remains in genetic mechanisms and subgroup variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-047",
+  "title": "Sugary Drinks and Metabolic Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to sugary drinks and metabolic risk.",
+  "domain": "Disease Prevention",
+  "category": "Metabolic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Risk Assessment",
+    "Health Education"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Public Health Officials"
+  ],
+  "reading_level": "Intermediate (Grade 8-12)",
+  "keywords": [
+    "Sugary Drinks",
+    "Metabolic Risk",
+    "Obesity",
+    "Diabetes",
+    "Cardiovascular Disease",
+    "Fructose",
+    "Insulin Resistance"
+  ],
+  "related_modules": [
+    "DIS-023-Nutrition-and-Obesity-Prevention",
+    "DIS-038-Diabetes-Risk-and-Management",
+    "DIS-052-Cardiovascular-Risk-Factors"
+  ],
+  "evidence_strength": "Strong evidence from epidemiological and experimental studies with some limitations in randomized trials due to feasibility constraints.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
