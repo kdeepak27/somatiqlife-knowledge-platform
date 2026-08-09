@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-211",
+  "title": "Opioid Misuse Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to opioid misuse prevention.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Primary Prevention",
+    "Secondary Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Workers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "opioid misuse",
+    "prevention",
+    "risk factors",
+    "screening",
+    "opioid use disorder",
+    "substance abuse prevention",
+    "harm reduction",
+    "addiction"
+  ],
+  "related_modules": [
+    "DIS-198",
+    "DIS-220",
+    "DIS-230"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

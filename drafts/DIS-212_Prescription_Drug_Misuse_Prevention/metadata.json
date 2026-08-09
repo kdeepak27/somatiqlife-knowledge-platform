@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-212",
+  "title": "Prescription Drug Misuse Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to prescription drug misuse prevention.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Professionals"
+  ],
+  "reading_level": "High School",
+  "keywords": [
+    "prescription drug misuse",
+    "opioids",
+    "medication safety",
+    "addiction prevention",
+    "substance abuse",
+    "risk factors",
+    "screening tools",
+    "patient education"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-305",
+    "PH-208"
+  ],
+  "evidence_strength": "Established and emerging evidence with some limitations in generalizability",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

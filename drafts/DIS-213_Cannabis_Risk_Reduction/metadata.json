@@ -1,0 +1,39 @@
+{
+  "module_id": "DIS-213",
+  "title": "Cannabis Risk Reduction",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to cannabis risk reduction.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention",
+    "Risk Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals",
+    "Substance Use Counselors"
+  ],
+  "reading_level": "Grade 10 - General Audience",
+  "keywords": [
+    "Cannabis",
+    "Marijuana",
+    "THC",
+    "Risk Reduction",
+    "Prevention",
+    "Screening",
+    "Substance Use",
+    "Mental Health",
+    "Addiction",
+    "Safety"
+  ],
+  "related_modules": [
+    "DIS-101 - Substance Use Disorders Screening and Prevention",
+    "DIS-205 - Adolescent Mental Health Risk and Prevention",
+    "DIS-220 - Safe Substance Use Education"
+  ],
+  "evidence_strength": "Established and Emerging Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

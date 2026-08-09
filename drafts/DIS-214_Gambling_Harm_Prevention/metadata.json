@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-214",
+  "title": "Gambling Harm Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to gambling harm prevention.",
+  "domain": "Disease Prevention",
+  "category": "Mental Health and Substance Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals",
+    "Policy Makers"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "gambling harm",
+    "problem gambling",
+    "gambling addiction",
+    "prevention",
+    "risk factors",
+    "screening",
+    "cognitive behavioral therapy",
+    "self-exclusion",
+    "mental health"
+  ],
+  "related_modules": [
+    "DIS-120",
+    "DIS-301",
+    "MH-204"
+  ],
+  "evidence_strength": "Established evidence for screening and CBT; moderate evidence supporting self-exclusion and public education; emerging evidence on neurobiological mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
