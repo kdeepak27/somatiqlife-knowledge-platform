@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-044",
+  "title": "Protein and Weight Management",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to protein and weight management.",
+  "domain": "Disease Prevention",
+  "category": "Metabolic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Protein",
+    "Weight Management",
+    "Nutrition",
+    "Metabolic Health",
+    "Muscle Mass",
+    "Energy Balance",
+    "Dietary Protein",
+    "Satiety"
+  ],
+  "related_modules": [
+    "DIS-012_Nutrition_Basics",
+    "DIS-032_Energy_Balance_and_Metabolism",
+    "DIS-049_Obesity_Prevention_Strategies"
+  ],
+  "evidence_strength": "Moderate to Strong evidence supporting the beneficial role of protein in weight management; however, variability exists due to individual differences and study designs.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

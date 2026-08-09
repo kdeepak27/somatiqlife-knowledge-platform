@@ -1,0 +1,36 @@
+{
+  "module_id": "DIS-041",
+  "title": "Walking and Diabetes Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to walking and diabetes prevention.",
+  "domain": "Disease Prevention",
+  "category": "Metabolic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Risk Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients at Risk",
+    "Health Educators",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "Walking",
+    "Physical Activity",
+    "Diabetes Prevention",
+    "Type 2 Diabetes",
+    "Metabolic Health",
+    "Insulin Sensitivity",
+    "Glycemic Control"
+  ],
+  "related_modules": [
+    "DIS-038 - Physical Activity and Metabolic Health",
+    "DIS-042 - Nutrition and Diabetes Prevention",
+    "DIS-045 - Lifestyle Interventions in Prediabetes"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
