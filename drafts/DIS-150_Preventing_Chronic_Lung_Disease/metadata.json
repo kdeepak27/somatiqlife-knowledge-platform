@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-150",
+  "title": "Preventing Chronic Lung Disease",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing chronic lung disease.",
+  "domain": "Disease Prevention",
+  "category": "Respiratory and Infectious Prevention",
+  "som_stages": [
+    "prevention",
+    "early detection"
+  ],
+  "audience": [
+    "general public",
+    "health educators",
+    "primary care providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "chronic lung disease",
+    "COPD",
+    "asthma prevention",
+    "lung health",
+    "risk factors",
+    "screening",
+    "smoking cessation",
+    "air pollution",
+    "vaccination",
+    "pulmonary rehabilitation"
+  ],
+  "related_modules": [
+    "DIS-102",
+    "DIS-142",
+    "DIS-155"
+  ],
+  "evidence_strength": "Established evidence for smoking cessation and pollution reduction; moderate evidence for lifestyle; emerging evidence for novel preventive interventions and diet; limitations due to variability in genetics and exposures.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

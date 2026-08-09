@@ -1,0 +1,40 @@
+{
+  "module_id": "DIS-147",
+  "title": "Liver Health With Aging",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to liver health with aging.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Adults 50+",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "Liver health",
+    "Aging",
+    "Liver disease prevention",
+    "Liver function",
+    "Screening",
+    "Risk factors",
+    "Fatty liver",
+    "Cirrhosis",
+    "Hepatitis",
+    "Liver enzymes"
+  ],
+  "related_modules": [
+    "DIS-125 - Kidney Function and Aging",
+    "DIS-130 - Managing Metabolic Syndrome",
+    "DIS-142 - Nutrition and Aging",
+    "DIS-155 - Alcohol Use and Health Risks"
+  ],
+  "evidence_strength": "Established evidence supported by observational studies and clinical guidelines; emerging evidence on molecular aging mechanisms under research; some evidence gaps in standardized screening protocols.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

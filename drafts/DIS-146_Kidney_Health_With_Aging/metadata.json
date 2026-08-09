@@ -1,0 +1,40 @@
+{
+  "module_id": "DIS-146",
+  "title": "Kidney Health With Aging",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to kidney health with aging.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate (Grades 9-12)",
+  "keywords": [
+    "Kidney Health",
+    "Aging",
+    "Chronic Kidney Disease",
+    "Screening",
+    "Risk Factors",
+    "Prevention",
+    "Renal Function",
+    "Glomerular Filtration Rate",
+    "Hypertension",
+    "Diabetes"
+  ],
+  "related_modules": [
+    "DIS-121: Hypertension Management in Older Adults",
+    "DIS-130: Diabetes Prevention and Control",
+    "DIS-150: Nutrition and Aging",
+    "DIS-165: Medication Safety in Seniors"
+  ],
+  "evidence_strength": "Established evidence complemented by emerging and moderate evidence on lifestyle interventions and screening nuances.",
+  "version": "2024-06-05",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

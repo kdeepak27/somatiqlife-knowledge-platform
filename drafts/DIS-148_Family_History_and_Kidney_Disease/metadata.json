@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-148",
+  "title": "Family History and Kidney Disease",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to family history and kidney disease.",
+  "domain": "Disease Prevention",
+  "category": "Kidney and Liver Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General public",
+    "Patients",
+    "Primary care providers",
+    "Health educators"
+  ],
+  "reading_level": "Moderate (Grade 10)",
+  "keywords": [
+    "kidney disease",
+    "family history",
+    "chronic kidney disease",
+    "risk factors",
+    "screening",
+    "prevention",
+    "renal disease",
+    "genetics",
+    "lifestyle"
+  ],
+  "related_modules": [
+    "DIS-102",
+    "GEN-204",
+    "DIS-160"
+  ],
+  "evidence_strength": "Established evidence complemented by emerging genetic research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
