@@ -1,0 +1,35 @@
+{
+  "module_id": "DIS-028",
+  "title": "Preventing Insulin Resistance",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing insulin resistance.",
+  "domain": "Disease Prevention",
+  "category": "Metabolic Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "Insulin Resistance",
+    "Prevention",
+    "Metabolic Health",
+    "Type 2 Diabetes",
+    "Obesity",
+    "Physical Activity",
+    "Diet",
+    "Screening"
+  ],
+  "related_modules": [
+    "DIS-015",
+    "DIS-031",
+    "DIS-045"
+  ],
+  "evidence_strength": "Established evidence supports lifestyle modification for prevention; genetic and biomarker research is emerging; some screening methods are recommended with moderate evidence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
