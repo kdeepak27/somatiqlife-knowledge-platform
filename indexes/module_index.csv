@@ -179,6 +179,56 @@ DIS-177,Preventing GERD,Disease Prevention,Digestive and Gastrointestinal Preven
 DIS-178,Preventing Gallstones,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-178_Preventing_Gallstones/module.json
 DIS-179,Preventing Peptic Ulcer Complications,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-179_Preventing_Peptic_Ulcer_Complications/module.json
 DIS-180,H. pylori Awareness,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-180_H._pylori_Awareness/module.json
+DIS-181,Preventing Colorectal Polyps,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-181_Preventing_Colorectal_Polyps/module.json
+DIS-182,Colorectal Cancer Screening,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-182_Colorectal_Cancer_Screening/module.json
+DIS-183,Fiber and Digestive Health,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-183_Fiber_and_Digestive_Health/module.json
+DIS-184,Hydration and Digestive Health,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-184_Hydration_and_Digestive_Health/module.json
+DIS-185,Physical Activity and Gut Health,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-185_Physical_Activity_and_Gut_Health/module.json
+DIS-186,Food Safety and GI Prevention,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-186_Food_Safety_and_GI_Prevention/module.json
+DIS-187,Alcohol and Digestive Health,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-187_Alcohol_and_Digestive_Health/module.json
+DIS-188,NSAIDs and Stomach Risk,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-188_NSAIDs_and_Stomach_Risk/module.json
+DIS-189,Healthy Weight and GERD Risk,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-189_Healthy_Weight_and_GERD_Risk/module.json
+DIS-190,Preventing Hemorrhoids,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-190_Preventing_Hemorrhoids/module.json
+DIS-191,Preventing Dehydration From GI Illness,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-191_Preventing_Dehydration_From_GI_Illness/module.json
+DIS-192,Celiac Disease Awareness,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-192_Celiac_Disease_Awareness/module.json
+DIS-193,Food Allergy Prevention and Safety,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-193_Food_Allergy_Prevention_and_Safety/module.json
+DIS-194,Lactose Intolerance Management,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-194_Lactose_Intolerance_Management/module.json
+DIS-195,Gut Microbiome and Prevention,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-195_Gut_Microbiome_and_Prevention/module.json
+DIS-196,Stress and Gut Symptoms,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-196_Stress_and_Gut_Symptoms/module.json
+DIS-197,Medication Effects on the Gut,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-197_Medication_Effects_on_the_Gut/module.json
+DIS-198,Healthy Bowel Habits,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-198_Healthy_Bowel_Habits/module.json
+DIS-199,Building a Digestive Prevention Plan,Disease Prevention,Digestive and Gastrointestinal Prevention,1.0,drafts,drafts/DIS-199_Building_a_Digestive_Prevention_Plan/module.json
+DIS-200,Preventing Burnout,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-200_Preventing_Burnout/module.json
+DIS-201,Preventing Chronic Stress,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-201_Preventing_Chronic_Stress/module.json
+DIS-202,Preventing Social Isolation,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-202_Preventing_Social_Isolation/module.json
+DIS-203,Reducing Depression Risk,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-203_Reducing_Depression_Risk/module.json
+DIS-204,Reducing Anxiety Risk,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-204_Reducing_Anxiety_Risk/module.json
+DIS-205,Sleep and Mental Health Prevention,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-205_Sleep_and_Mental_Health_Prevention/module.json
+DIS-206,Exercise and Mental Health Prevention,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-206_Exercise_and_Mental_Health_Prevention/module.json
+DIS-207,Social Connection and Mental Health,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-207_Social_Connection_and_Mental_Health/module.json
+DIS-208,Alcohol Misuse Prevention,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-208_Alcohol_Misuse_Prevention/module.json
+DIS-209,Smoking Prevention,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-209_Smoking_Prevention/module.json
+DIS-210,Vaping Prevention,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-210_Vaping_Prevention/module.json
+DIS-211,Opioid Misuse Prevention,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-211_Opioid_Misuse_Prevention/module.json
+DIS-212,Prescription Drug Misuse Prevention,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-212_Prescription_Drug_Misuse_Prevention/module.json
+DIS-213,Cannabis Risk Reduction,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-213_Cannabis_Risk_Reduction/module.json
+DIS-214,Gambling Harm Prevention,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-214_Gambling_Harm_Prevention/module.json
+DIS-215,Digital Well-Being and Mental Health,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-215_Digital_Well-Being_and_Mental_Health/module.json
+DIS-216,Workplace Mental Health Prevention,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-216_Workplace_Mental_Health_Prevention/module.json
+DIS-217,Caregiver Burnout Prevention,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-217_Caregiver_Burnout_Prevention/module.json
+DIS-218,Suicide Risk Awareness,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-218_Suicide_Risk_Awareness/module.json
+DIS-219,Early Mental Health Support,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-219_Early_Mental_Health_Support/module.json
+DIS-220,Resilience Building,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-220_Resilience_Building/module.json
+DIS-221,Healthy Coping Skills,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-221_Healthy_Coping_Skills/module.json
+DIS-222,Stress Management Planning,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-222_Stress_Management_Planning/module.json
+DIS-223,When to Seek Mental Health Care,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-223_When_to_Seek_Mental_Health_Care/module.json
+DIS-224,Building a Mental Well-Being Prevention Plan,Disease Prevention,Mental Health and Substance Prevention,1.0,drafts,drafts/DIS-224_Building_a_Mental_Well-Being_Prevention_Plan/module.json
+DIS-225,Preventive Health Checkups,Disease Prevention,Preventive Care and Screening,1.0,drafts,drafts/DIS-225_Preventive_Health_Checkups/module.json
+DIS-226,Shared Decision Making in Screening,Disease Prevention,Preventive Care and Screening,1.0,drafts,drafts/DIS-226_Shared_Decision_Making_in_Screening/module.json
+DIS-227,Understanding Screening Tests,Disease Prevention,Preventive Care and Screening,1.0,drafts,drafts/DIS-227_Understanding_Screening_Tests/module.json
+DIS-228,Screening Benefits and Harms,Disease Prevention,Preventive Care and Screening,1.0,drafts,drafts/DIS-228_Screening_Benefits_and_Harms/module.json
+DIS-229,Overdiagnosis,Disease Prevention,Preventive Care and Screening,1.0,drafts,drafts/DIS-229_Overdiagnosis/module.json
+DIS-230,False Positive Screening Results,Disease Prevention,Preventive Care and Screening,1.0,drafts,drafts/DIS-230_False_Positive_Screening_Results/module.json
 BIO-001,What Is Health?,Human Biology,Health Foundations,1.0,approved,approved/BIO-001_What_Is_Health/module.json
 BIO-002,The Human Body as an Integrated System,Human Biology,Systems Biology,1.0,approved,approved/BIO-002_The_Human_Body_as_an_Integrated_System/module.json
 BIO-003,Levels of Biological Organization,Human Biology,Foundational Biology,1.0,approved,approved/BIO-003_Levels_of_Biological_Organization/module.json
