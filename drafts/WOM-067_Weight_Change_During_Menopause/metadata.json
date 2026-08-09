@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-067",
+  "title": "Weight Change During Menopause",
+  "subtitle": "Physiology, evidence, management options, and practical implications of weight change during menopause.",
+  "domain": "Women's Health",
+  "category": "Perimenopause and Menopause",
+  "som_stages": [
+    "Perimenopause",
+    "Menopause",
+    "Postmenopause"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare providers",
+    "Women's health specialists",
+    "Nutritionists",
+    "Endocrinologists"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "menopause",
+    "weight change",
+    "body composition",
+    "estrogen decline",
+    "metabolism",
+    "menopausal symptoms",
+    "obesity",
+    "weight management"
+  ],
+  "related_modules": [
+    "WOM-045",
+    "WOM-089",
+    "ENDO-034"
+  ],
+  "evidence_strength": "Established evidence for physiological mechanisms and lifestyle management; moderate evidence for hormone therapy effects; emerging evidence on novel interventions and individualized approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

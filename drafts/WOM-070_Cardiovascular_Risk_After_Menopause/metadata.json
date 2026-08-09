@@ -1,0 +1,36 @@
+{
+  "module_id": "WOM-070",
+  "title": "Cardiovascular Risk After Menopause",
+  "subtitle": "Physiology, evidence, management options, and practical implications of cardiovascular risk after menopause.",
+  "domain": "Women's Health",
+  "category": "Perimenopause and Menopause",
+  "som_stages": [
+    "Perimenopause",
+    "Menopause",
+    "Postmenopause"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Cardiovascular Risk",
+    "Menopause",
+    "Estrogen Deficiency",
+    "Heart Disease",
+    "Blood Pressure",
+    "Lipid Profile",
+    "Hormone Replacement Therapy",
+    "Cardiovascular Disease Prevention"
+  ],
+  "related_modules": [
+    "WOM-045",
+    "WOM-055",
+    "WOM-071"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence regarding hormone therapy timing and safety",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

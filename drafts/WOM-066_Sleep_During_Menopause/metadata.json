@@ -1,0 +1,39 @@
+{
+  "module_id": "WOM-066",
+  "title": "Sleep During Menopause",
+  "subtitle": "Physiology, evidence, management options, and practical implications of sleep during menopause.",
+  "domain": "Women's Health",
+  "category": "Perimenopause and Menopause",
+  "som_stages": [
+    "Perimenopause",
+    "Menopause",
+    "Postmenopause"
+  ],
+  "audience": [
+    "General Public",
+    "Perimenopausal Women",
+    "Menopausal Women",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "menopause",
+    "sleep disturbances",
+    "hot flashes",
+    "insomnia",
+    "hormonal changes",
+    "cognitive behavioral therapy",
+    "melatonin",
+    "sleep hygiene",
+    "vasomotor symptoms",
+    "women's health"
+  ],
+  "related_modules": [
+    "WOM-045_Hormone_Replacement_Therapy",
+    "WOM-058_Vasomotor_Symptoms_Management",
+    "WOM-078_Cognitive_Behavioral_Therapy_for_Insomnia"
+  ],
+  "evidence_strength": "Established and moderate evidence with emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

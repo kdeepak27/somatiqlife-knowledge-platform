@@ -1,0 +1,40 @@
+{
+  "module_id": "WOM-069",
+  "title": "Bone Loss During Menopause",
+  "subtitle": "Physiology, evidence, management options, and practical implications of bone loss during menopause.",
+  "domain": "Women's Health",
+  "category": "Perimenopause and Menopause",
+  "som_stages": [
+    "Perimenopause",
+    "Menopause",
+    "Postmenopause"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Primary Care Providers",
+    "Gynecologists",
+    "Endocrinologists"
+  ],
+  "reading_level": "8th Grade",
+  "keywords": [
+    "Bone loss",
+    "Menopause",
+    "Osteoporosis",
+    "Estrogen deficiency",
+    "Bone density",
+    "Fracture risk",
+    "Hormone therapy",
+    "Calcium",
+    "Vitamin D",
+    "Exercise"
+  ],
+  "related_modules": [
+    "WOM-045",
+    "WOM-072",
+    "WOM-051"
+  ],
+  "evidence_strength": "Established Evidence for physiology, epidemiology, diagnostic methods, and standard treatments; Moderate Evidence for long-term safety and emerging therapies; Emerging Evidence regarding genetic predictors and novel agents.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
