@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-191",
+  "title": "Preventing Dehydration From GI Illness",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to preventing dehydration from gi illness.",
+  "domain": "Disease Prevention",
+  "category": "Digestive and Gastrointestinal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "dehydration",
+    "gastrointestinal illness",
+    "diarrhea",
+    "vomiting",
+    "hydration",
+    "fluid balance",
+    "electrolytes",
+    "prevention",
+    "risk factors"
+  ],
+  "related_modules": [
+    "DIS-142",
+    "DIS-180",
+    "DIS-202"
+  ],
+  "evidence_strength": "Established evidence for use of oral rehydration solutions; moderate evidence for some prevention strategies in specific populations; emerging evidence for novel rehydration formulations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,39 @@
+{
+  "module_id": "DIS-194",
+  "title": "Lactose Intolerance Management",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to lactose intolerance management.",
+  "domain": "Disease Prevention",
+  "category": "Digestive and Gastrointestinal Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate - General Audience",
+  "keywords": [
+    "Lactose intolerance",
+    "Lactase deficiency",
+    "Digestive health",
+    "Dietary management",
+    "Calcium absorption",
+    "Hydrogen breath test",
+    "Flatulence",
+    "Diarrhea",
+    "Milk allergy",
+    "Probiotics"
+  ],
+  "related_modules": [
+    "DIS-128",
+    "DIS-170",
+    "DIS-210"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and dietary management; moderate and emerging evidence for probiotics efficacy; safety concerns based on nutrition research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
