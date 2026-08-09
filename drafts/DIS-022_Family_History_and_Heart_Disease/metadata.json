@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-022",
+  "title": "Family History and Heart Disease",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to family history and heart disease.",
+  "domain": "Disease Prevention",
+  "category": "Cardiovascular Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Primary Care Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Eighth Grade",
+  "keywords": [
+    "family history",
+    "heart disease",
+    "cardiovascular risk",
+    "prevention",
+    "screening",
+    "genetics",
+    "atherosclerosis",
+    "myocardial infarction",
+    "stroke",
+    "coronary artery disease"
+  ],
+  "related_modules": [
+    "DIS-011",
+    "DIS-047",
+    "DIS-099"
+  ],
+  "evidence_strength": "Established evidence for associations between family history and heart disease risk, supported by multiple epidemiological studies; moderate evidence on effectiveness of modified screening strategies; emerging evidence on genetic mechanisms and precision medicine applications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-024",
+  "title": "South Asian Cardiovascular Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to South Asian cardiovascular risk.",
+  "domain": "Disease Prevention",
+  "category": "Cardiovascular Prevention",
+  "som_stages": [
+    "prevention",
+    "screening"
+  ],
+  "audience": [
+    "general public",
+    "healthcare providers",
+    "public health professionals"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "South Asian",
+    "cardiovascular risk",
+    "heart disease",
+    "atherosclerosis",
+    "diabetes",
+    "hypertension",
+    "primary prevention",
+    "screening",
+    "lipid profile",
+    "risk factors"
+  ],
+  "related_modules": [
+    "DIS-001",
+    "DIS-015",
+    "DIS-030"
+  ],
+  "evidence_strength": "Established evidence with emerging insights from population-specific studies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

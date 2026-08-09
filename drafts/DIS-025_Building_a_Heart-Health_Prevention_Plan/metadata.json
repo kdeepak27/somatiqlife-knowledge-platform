@@ -1,0 +1,38 @@
+{
+  "module_id": "DIS-025",
+  "title": "Building a Heart-Health Prevention Plan",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to building a heart-health prevention plan.",
+  "domain": "Disease Prevention",
+  "category": "Cardiovascular Prevention",
+  "som_stages": [
+    "Prevention",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "heart health",
+    "cardiovascular disease",
+    "prevention plan",
+    "risk factors",
+    "screening",
+    "cholesterol",
+    "blood pressure",
+    "lifestyle",
+    "exercise",
+    "diet",
+    "smoking cessation"
+  ],
+  "related_modules": [
+    "DIS-012",
+    "DIS-018",
+    "NUT-034"
+  ],
+  "evidence_strength": "Established evidence for lifestyle interventions and screening; moderate evidence for psychosocial factors; emerging evidence in personalized risk stratification.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

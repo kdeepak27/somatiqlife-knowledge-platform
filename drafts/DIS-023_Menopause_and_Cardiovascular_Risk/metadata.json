@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-023",
+  "title": "Menopause and Cardiovascular Risk",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to menopause and cardiovascular risk.",
+  "domain": "Disease Prevention",
+  "category": "Cardiovascular Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "menopause",
+    "cardiovascular risk",
+    "heart disease",
+    "estrogen deficiency",
+    "atherosclerosis",
+    "hypertension",
+    "lipids",
+    "screening",
+    "prevention"
+  ],
+  "related_modules": [
+    "DIS-005",
+    "DIS-012",
+    "DIS-030"
+  ],
+  "evidence_strength": "Established evidence with some areas of moderate and emerging evidence, particularly regarding hormone replacement therapy timing and personalized cardiovascular risk management.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
