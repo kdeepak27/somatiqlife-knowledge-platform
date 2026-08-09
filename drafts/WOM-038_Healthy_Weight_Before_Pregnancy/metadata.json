@@ -1,0 +1,35 @@
+{
+  "module_id": "WOM-038",
+  "title": "Healthy Weight Before Pregnancy",
+  "subtitle": "Evidence, practical guidance, and safety considerations for healthy weight before pregnancy.",
+  "domain": "Women's Health",
+  "category": "Fertility and Pregnancy",
+  "som_stages": [
+    "Preconception",
+    "Pregnancy Planning"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Educators",
+    "Clinicians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Healthy weight",
+    "Preconception health",
+    "Body mass index",
+    "Fertility",
+    "Pregnancy outcomes",
+    "Nutrition",
+    "Physical activity",
+    "Weight management"
+  ],
+  "related_modules": [
+    "WOM-025 Preconception Health Basics",
+    "WOM-041 Nutrition in Pregnancy",
+    "WOM-022 Fertility and Lifestyle Factors"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence in weight management interventions before pregnancy.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

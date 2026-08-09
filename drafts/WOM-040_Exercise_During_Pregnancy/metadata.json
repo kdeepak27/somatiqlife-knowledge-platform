@@ -1,0 +1,41 @@
+{
+  "module_id": "WOM-040",
+  "title": "Exercise During Pregnancy",
+  "subtitle": "Evidence, practical guidance, and safety considerations for exercise during pregnancy.",
+  "domain": "Women's Health",
+  "category": "Fertility and Pregnancy",
+  "som_stages": [
+    "Preconception",
+    "First Trimester",
+    "Second Trimester",
+    "Third Trimester",
+    "Postpartum"
+  ],
+  "audience": [
+    "Pregnant Individuals",
+    "Healthcare Providers",
+    "Fitness Professionals",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "pregnancy",
+    "exercise",
+    "physical activity",
+    "prenatal fitness",
+    "gestational health",
+    "maternal health",
+    "fetal health",
+    "safety guidelines",
+    "prenatal exercise",
+    "postpartum recovery"
+  ],
+  "related_modules": [
+    "WOM-035",
+    "WOM-045",
+    "WOM-050"
+  ],
+  "evidence_strength": "Established evidence supports moderate-intensity exercise benefits during pregnancy with clear contraindications. Emerging evidence explores optimal exercise types and postpartum impacts.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

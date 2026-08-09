@@ -1,0 +1,40 @@
+{
+  "module_id": "WOM-039",
+  "title": "Pregnancy Nutrition",
+  "subtitle": "Evidence, practical guidance, and safety considerations for pregnancy nutrition.",
+  "domain": "Women's Health",
+  "category": "Fertility and Pregnancy",
+  "som_stages": [
+    "Preconception",
+    "First Trimester",
+    "Second Trimester",
+    "Third Trimester",
+    "Postpartum"
+  ],
+  "audience": [
+    "Pregnant individuals",
+    "Expecting parents",
+    "Healthcare providers",
+    "Nutritionists",
+    "Public health educators"
+  ],
+  "reading_level": "Accessible to general adult audience",
+  "keywords": [
+    "Pregnancy nutrition",
+    "Prenatal diet",
+    "Micronutrients in pregnancy",
+    "Fetal development nutrition",
+    "Gestational nutrition",
+    "Prenatal vitamins",
+    "Maternal health",
+    "Pregnancy diet safety"
+  ],
+  "related_modules": [
+    "WOM-021 - Fertility and Preconception Health",
+    "WOM-045 - Gestational Diabetes Management",
+    "WOM-055 - Postpartum Nutrition and Recovery"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines from professional organizations; emerging evidence in micronutrient optimization and individualized nutrition plans.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

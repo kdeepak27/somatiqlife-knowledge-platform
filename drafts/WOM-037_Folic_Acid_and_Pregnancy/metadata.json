@@ -1,0 +1,37 @@
+{
+  "module_id": "WOM-037",
+  "title": "Folic Acid and Pregnancy",
+  "subtitle": "Evidence, practical guidance, and safety considerations for folic acid and pregnancy.",
+  "domain": "Women's Health",
+  "category": "Fertility and Pregnancy",
+  "som_stages": [
+    "Preconception",
+    "First Trimester",
+    "Second Trimester",
+    "Third Trimester"
+  ],
+  "audience": [
+    "Consumers",
+    "Pregnant Individuals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Folic Acid",
+    "Pregnancy",
+    "Neural Tube Defects",
+    "Prenatal Vitamins",
+    "Vitamin B9",
+    "Preconception Care",
+    "Folate",
+    "Prenatal Supplementation"
+  ],
+  "related_modules": [
+    "WOM-021 - Prenatal Vitamins and Minerals",
+    "WOM-045 - Neural Tube Defects: Overview and Prevention",
+    "WOM-052 - Nutrition and Fertility"
+  ],
+  "evidence_strength": "Established evidence supporting folic acid supplementation to prevent neural tube defects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
