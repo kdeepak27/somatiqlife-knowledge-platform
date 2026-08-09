@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-156",
+  "title": "Hand Hygiene",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to hand hygiene.",
+  "domain": "Disease Prevention",
+  "category": "Respiratory and Infectious Prevention",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Self-Care"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Workers",
+    "Public Health Educators"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "hand hygiene",
+    "hand washing",
+    "infection prevention",
+    "hand sanitizer",
+    "disease transmission",
+    "microorganisms",
+    "respiratory infections",
+    "healthcare-associated infections",
+    "hand disinfection"
+  ],
+  "related_modules": [
+    "DIS-101",
+    "DIS-147",
+    "DIS-152"
+  ],
+  "evidence_strength": "Established evidence supports the effectiveness of hand hygiene in reducing transmission of infectious diseases including respiratory and gastrointestinal infections in both community and healthcare settings. Moderate evidence informs optimal products and techniques. Emerging evidence relates to behavioral interventions to improve compliance.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

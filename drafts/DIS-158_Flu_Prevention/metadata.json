@@ -1,0 +1,37 @@
+{
+  "module_id": "DIS-158",
+  "title": "Flu Prevention",
+  "subtitle": "Prevention, risk factors, screening, evidence, and practical actions related to flu prevention.",
+  "domain": "Disease Prevention",
+  "category": "Respiratory and Infectious Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Public Health Educators"
+  ],
+  "reading_level": "Accessible to general adult audience with scientific interest",
+  "keywords": [
+    "influenza",
+    "flu",
+    "prevention",
+    "vaccination",
+    "risk factors",
+    "hygiene",
+    "respiratory infection",
+    "antiviral drugs",
+    "immune system",
+    "screening"
+  ],
+  "related_modules": [
+    "DIS-165",
+    "DIS-172",
+    "DIS-180"
+  ],
+  "evidence_strength": "Established evidence from multiple public health authorities and clinical guidelines supports vaccination, hygiene, and antiviral use in influenza prevention.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
