@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-099",
+  "title": "Endometrial Cancer Awareness",
+  "subtitle": "Risk reduction, screening, evidence, and practical considerations for endometrial cancer awareness.",
+  "domain": "Women's Health",
+  "category": "Cancer and Screening",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Detection"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Grade 8-10",
+  "keywords": [
+    "Endometrial cancer",
+    "Uterine cancer",
+    "Cancer screening",
+    "Risk factors",
+    "Symptoms",
+    "Diagnosis",
+    "Treatment",
+    "Prevention",
+    "Gynecologic cancer",
+    "Hormonal therapy"
+  ],
+  "related_modules": [
+    "WOM-045 Female Gynecologic Cancers Overview",
+    "WOM-102 Pelvic Ultrasound in Women's Health",
+    "WOM-123 Hormone Replacement Therapy Risks and Benefits"
+  ],
+  "evidence_strength": "Established evidence supplemented by moderate evidence on prevention and emerging evidence on screening limitations and molecular stratification.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "WOM-096",
+  "title": "Cervical Cancer Screening",
+  "subtitle": "Risk reduction, screening, evidence, and practical considerations for cervical cancer screening.",
+  "domain": "Women's Health",
+  "category": "Cancer and Screening",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Detection"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Health Educators"
+  ],
+  "reading_level": "8th Grade",
+  "keywords": [
+    "Cervical Cancer",
+    "Screening",
+    "Pap Smear",
+    "HPV Testing",
+    "Prevention",
+    "Risk Reduction",
+    "Women's Health",
+    "Cancer Screening"
+  ],
+  "related_modules": [
+    "WOM-034",
+    "WOM-127",
+    "INF-052"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,40 @@
+{
+  "module_id": "WOM-100",
+  "title": "Genetic Cancer Risk in Women",
+  "subtitle": "Risk reduction, screening, evidence, and practical considerations for genetic cancer risk in women.",
+  "domain": "Women's Health",
+  "category": "Cancer and Screening",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Genetic Counselors",
+    "Public Health Educators"
+  ],
+  "reading_level": "High School to Adult",
+  "keywords": [
+    "genetic cancer risk",
+    "women",
+    "BRCA mutations",
+    "hereditary cancer",
+    "genetic screening",
+    "risk reduction",
+    "breast cancer",
+    "ovarian cancer",
+    "genetic counseling",
+    "cancer prevention"
+  ],
+  "related_modules": [
+    "WOM-101-BreastCancerScreening",
+    "GEN-202-HereditaryCancerSyndromes",
+    "WOM-103-OvarianCancerRisk",
+    "GEN-301-GeneticCounselingBasics"
+  ],
+  "evidence_strength": "Established evidence with emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

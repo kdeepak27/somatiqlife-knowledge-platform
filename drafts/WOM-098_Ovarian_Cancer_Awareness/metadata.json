@@ -1,0 +1,38 @@
+{
+  "module_id": "WOM-098",
+  "title": "Ovarian Cancer Awareness",
+  "subtitle": "Risk reduction, screening, evidence, and practical considerations for ovarian cancer awareness.",
+  "domain": "Women's Health",
+  "category": "Cancer and Screening",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Ovarian cancer",
+    "Risk factors",
+    "Screening",
+    "Cancer symptoms",
+    "Genetics",
+    "BRCA mutation",
+    "CA-125",
+    "Transvaginal ultrasound",
+    "Preventive surgery",
+    "Genetic counseling"
+  ],
+  "related_modules": [
+    "WOM-045 Breast Cancer Awareness",
+    "WOM-062 Genetic Counseling in Women’s Health",
+    "WOM-073 Cancer Screening Guidelines"
+  ],
+  "evidence_strength": "Established evidence with some emerging research on improved screening methods and preventive strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,39 @@
+{
+  "module_id": "WOM-097",
+  "title": "HPV and Women's Health",
+  "subtitle": "Risk reduction, screening, evidence, and practical considerations for HPV and women's health.",
+  "domain": "Women's Health",
+  "category": "Cancer and Screening",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Patient Advocates"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "HPV",
+    "Human Papillomavirus",
+    "Cervical Cancer",
+    "Screening",
+    "Vaccination",
+    "Women's Health",
+    "Pap Smear",
+    "HPV Test",
+    "HPV Vaccines",
+    "Risk Reduction",
+    "HPV Transmission"
+  ],
+  "related_modules": [
+    "WOM-034_Cervical_Cancer_Screening",
+    "WOM-056_Sexually_Transmitted_Infections",
+    "IMM-022_Vaccination_Principles"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and large-scale studies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
