@@ -1,0 +1,39 @@
+{
+  "module_id": "MEN-033",
+  "title": "Sperm Health",
+  "subtitle": "Definitions, evaluation, evidence, treatment considerations, and safety related to sperm health.",
+  "domain": "Men's Health",
+  "category": "Sexual and Reproductive Health",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Evaluation",
+    "Treatment",
+    "Follow-up"
+  ],
+  "audience": [
+    "General Public",
+    "Health Professionals",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sperm",
+    "sperm health",
+    "semen analysis",
+    "fertility",
+    "male reproductive health",
+    "sperm morphology",
+    "sperm motility",
+    "sperm count"
+  ],
+  "related_modules": [
+    "MEN-015",
+    "MEN-021",
+    "MEN-030"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

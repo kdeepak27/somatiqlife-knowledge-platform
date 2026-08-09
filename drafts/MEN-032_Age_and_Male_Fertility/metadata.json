@@ -1,0 +1,36 @@
+{
+  "module_id": "MEN-032",
+  "title": "Age and Male Fertility",
+  "subtitle": "Definitions, evaluation, evidence, treatment considerations, and safety related to age and male fertility.",
+  "domain": "Men's Health",
+  "category": "Sexual and Reproductive Health",
+  "som_stages": [
+    "Evaluation",
+    "Management",
+    "Counseling"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Educators"
+  ],
+  "reading_level": "Intermediate (Grade 10+)",
+  "keywords": [
+    "male fertility",
+    "age and fertility",
+    "sperm quality",
+    "reproductive aging",
+    "infertility",
+    "semen analysis",
+    "fertility treatment",
+    "andrology"
+  ],
+  "related_modules": [
+    "MEN-015-Male-Hormonal-Health",
+    "MEN-020-Infertility-Evaluation",
+    "WOM-010-Female-Reproductive-Aging"
+  ],
+  "evidence_strength": "Established with moderate heterogeneity and emerging research supporting intervention strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
