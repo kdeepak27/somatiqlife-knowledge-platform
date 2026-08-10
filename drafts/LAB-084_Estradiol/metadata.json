@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-084",
+  "title": "Estradiol",
+  "subtitle": "What estradiol measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Thyroid and Hormones",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Estradiol",
+    "E2",
+    "Estrogen",
+    "Hormone assay",
+    "Reproductive hormones",
+    "Menopause",
+    "Hormone replacement therapy",
+    "Hypogonadism",
+    "Breast cancer",
+    "Fertility assessment"
+  ],
+  "related_modules": [
+    "LAB-052-Hormone-Testing-Basics",
+    "LAB-076-Testosterone",
+    "LAB-090-Menopause-Hormonal-Changes"
+  ],
+  "evidence_strength": "Established with emerging aspects",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
