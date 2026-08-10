@@ -1,0 +1,41 @@
+{
+  "module_id": "CHD-058",
+  "title": "Headaches in Children",
+  "subtitle": "Common causes, home care principles, red flags, and when professional evaluation matters for headaches in children.",
+  "domain": "Children and Adolescents",
+  "category": "Common Health Issues",
+  "som_stages": [
+    "Screening",
+    "Symptom Awareness",
+    "Initial Care",
+    "Referral"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Pediatric Healthcare Providers",
+    "School Nurses",
+    "Health Educators"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "headache",
+    "children",
+    "pediatric",
+    "migraine",
+    "tension headache",
+    "home care",
+    "red flags",
+    "neurological symptoms",
+    "fever",
+    "professional evaluation"
+  ],
+  "related_modules": [
+    "CHD-045",
+    "CHD-062",
+    "CHD-085"
+  ],
+  "evidence_strength": "Established evidence for epidemiology, clinical features, and management of pediatric headaches supported by guidelines from professional organizations. Moderate evidence for use of triptan medications in adolescents. Emerging evidence on behavioral and lifestyle interventions. Limitations include variability in pediatric headache presentation and need for individualized clinical judgment.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
