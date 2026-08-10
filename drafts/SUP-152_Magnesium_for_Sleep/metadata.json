@@ -1,0 +1,39 @@
+{
+  "module_id": "SUP-152",
+  "title": "Magnesium for Sleep",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for magnesium for sleep.",
+  "domain": "Supplements",
+  "category": "Sleep Stress and Cognition",
+  "som_stages": [
+    "Prevention",
+    "Symptom Management",
+    "Wellness"
+  ],
+  "audience": [
+    "Consumers",
+    "General Public",
+    "Health Educators"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "Magnesium",
+    "Sleep",
+    "Insomnia",
+    "Sleep quality",
+    "Minerals",
+    "Supplementation",
+    "Sleep aid",
+    "Magnesium dosage",
+    "Sleep disturbances",
+    "Sleep physiology"
+  ],
+  "related_modules": [
+    "SUP-148",
+    "SUP-125",
+    "SLEE-019",
+    "STRES-077"
+  ],
+  "evidence_strength": "Moderate evidence supports magnesium supplementation for improving subjective sleep parameters in some populations, but findings are inconsistent; more high-quality research is needed.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

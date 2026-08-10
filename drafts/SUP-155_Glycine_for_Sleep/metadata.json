@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-155",
+  "title": "Glycine for Sleep",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for glycine for sleep.",
+  "domain": "Supplements",
+  "category": "Sleep Stress and Cognition",
+  "som_stages": [
+    "General Knowledge",
+    "Supplement Consideration"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "glycine",
+    "sleep",
+    "amino acid",
+    "supplement",
+    "insomnia",
+    "sleep quality",
+    "dosage",
+    "safety",
+    "pharmacology",
+    "neurotransmitter"
+  ],
+  "related_modules": [
+    "SUP-010",
+    "SUP-045",
+    "SUP-123"
+  ],
+  "evidence_strength": "Moderate Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

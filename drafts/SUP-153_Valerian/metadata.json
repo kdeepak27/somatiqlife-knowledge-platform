@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-153",
+  "title": "Valerian",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for valerian.",
+  "domain": "Supplements",
+  "category": "Sleep Stress and Cognition",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Valerian",
+    "Valeriana officinalis",
+    "Sleep aid",
+    "Insomnia",
+    "Anxiety",
+    "Herbal supplement",
+    "Sedative",
+    "Natural remedy",
+    "Dosing",
+    "Side effects"
+  ],
+  "related_modules": [
+    "SUP-102",
+    "SUP-167",
+    "SUP-175"
+  ],
+  "evidence_strength": "Moderate evidence supports valerian’s mild benefit for sleep and anxiety, though quality and consistency vary.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
