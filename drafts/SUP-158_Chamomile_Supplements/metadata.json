@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-158",
+  "title": "Chamomile Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for chamomile supplements.",
+  "domain": "Supplements",
+  "category": "Sleep Stress and Cognition",
+  "som_stages": [
+    "Wellness",
+    "Prevention",
+    "Self-care"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Chamomile",
+    "Matricaria chamomilla",
+    "Botanical supplement",
+    "Sleep aid",
+    "Anxiety",
+    "Flavonoids",
+    "Apigenin",
+    "Herbal medicine"
+  ],
+  "related_modules": [
+    "SUP-045",
+    "SUP-103",
+    "SUP-121"
+  ],
+  "evidence_strength": "Moderate - based on clinical trials with some limitations",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

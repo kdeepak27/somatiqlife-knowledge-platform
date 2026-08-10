@@ -1,0 +1,39 @@
+{
+  "module_id": "SUP-160",
+  "title": "Passionflower",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for passionflower.",
+  "domain": "Supplements",
+  "category": "Sleep Stress and Cognition",
+  "som_stages": [
+    "For General Public",
+    "For Healthcare Providers",
+    "For Researchers"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Passionflower",
+    "Passiflora",
+    "Sleep aid",
+    "Anxiety",
+    "Herbal supplement",
+    "Phytotherapy",
+    "Passionflower extract",
+    "Natural sleep remedy",
+    "Sedative herbs",
+    "Cognitive support"
+  ],
+  "related_modules": [
+    "SUP-142-HerbalSleepAids",
+    "SUP-145-AnxietySupplements",
+    "SUP-171-GABAergicSupplements",
+    "SUP-190-SafetyHerbalSupplements"
+  ],
+  "evidence_strength": "Moderate evidence for anxiolytic and mild sedative effects; emerging evidence for cognitive benefits is limited and uncertain.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
