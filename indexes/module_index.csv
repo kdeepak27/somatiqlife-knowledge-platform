@@ -1,4 +1,9 @@
 module_id,title,domain,category,version,stage,path
+CHD-001,Healthy Growth in Children,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-001_Healthy_Growth_in_Children/module.json
+CHD-002,Child Development Milestones,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-002_Child_Development_Milestones/module.json
+CHD-003,Adolescent Development,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-003_Adolescent_Development/module.json
+CHD-004,Puberty,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-004_Puberty/module.json
+CHD-005,Growth Spurts,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-005_Growth_Spurts/module.json
 MEN-001,Men's Health Across Adulthood,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-001_Men's_Health_Across_Adulthood/module.json
 MEN-002,Male Reproductive Anatomy,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-002_Male_Reproductive_Anatomy/module.json
 MEN-003,Male Reproductive Hormones,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-003_Male_Reproductive_Hormones/module.json
@@ -54,6 +59,51 @@ MEN-052,Anxiety in Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-052_Anxi
 MEN-053,Burnout in Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-053_Burnout_in_Men/module.json
 MEN-054,Loneliness in Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-054_Loneliness_in_Men/module.json
 MEN-055,Suicide Risk in Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-055_Suicide_Risk_in_Men/module.json
+MEN-056,Healthy Coping for Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-056_Healthy_Coping_for_Men/module.json
+MEN-057,Social Connection for Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-057_Social_Connection_for_Men/module.json
+MEN-058,Work Stress in Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-058_Work_Stress_in_Men/module.json
+MEN-059,When Men Should Seek Mental Health Care,Men's Health,Mental Health,1.0,drafts,drafts/MEN-059_When_Men_Should_Seek_Mental_Health_Care/module.json
+MEN-060,Prostate Cancer Prevention,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-060_Prostate_Cancer_Prevention/module.json
+MEN-061,Colorectal Cancer Prevention in Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-061_Colorectal_Cancer_Prevention_in_Men/module.json
+MEN-062,Lung Cancer Prevention in Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-062_Lung_Cancer_Prevention_in_Men/module.json
+MEN-063,Skin Cancer Prevention in Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-063_Skin_Cancer_Prevention_in_Men/module.json
+MEN-064,Testicular Cancer Awareness,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-064_Testicular_Cancer_Awareness/module.json
+MEN-065,Oral Cancer Risk in Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-065_Oral_Cancer_Risk_in_Men/module.json
+MEN-066,Alcohol and Cancer Risk in Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-066_Alcohol_and_Cancer_Risk_in_Men/module.json
+MEN-067,Smoking and Cancer Risk in Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-067_Smoking_and_Cancer_Risk_in_Men/module.json
+MEN-068,Cancer Screening for Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-068_Cancer_Screening_for_Men/module.json
+MEN-069,Family Cancer History in Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-069_Family_Cancer_History_in_Men/module.json
+MEN-070,Healthy Aging for Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-070_Healthy_Aging_for_Men/module.json
+MEN-071,Sarcopenia in Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-071_Sarcopenia_in_Men/module.json
+MEN-072,Bone Health in Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-072_Bone_Health_in_Men/module.json
+MEN-073,Osteoporosis in Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-073_Osteoporosis_in_Men/module.json
+MEN-074,Falls in Older Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-074_Falls_in_Older_Men/module.json
+MEN-075,Brain Health in Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-075_Brain_Health_in_Men/module.json
+MEN-076,Sleep in Older Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-076_Sleep_in_Older_Men/module.json
+MEN-077,Hearing Loss in Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-077_Hearing_Loss_in_Men/module.json
+MEN-078,Retirement and Men's Health,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-078_Retirement_and_Men's_Health/module.json
+MEN-079,Longevity for Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-079_Longevity_for_Men/module.json
+MEN-080,Alcohol and Men's Health,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-080_Alcohol_and_Men's_Health/module.json
+MEN-081,Smoking and Men's Health,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-081_Smoking_and_Men's_Health/module.json
+MEN-082,Vaping and Men's Health,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-082_Vaping_and_Men's_Health/module.json
+MEN-083,Cannabis and Men's Health,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-083_Cannabis_and_Men's_Health/module.json
+MEN-084,Sleep Apnea in Men,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-084_Sleep_Apnea_in_Men/module.json
+MEN-085,Driving Safety in Older Men,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-085_Driving_Safety_in_Older_Men/module.json
+MEN-086,Workplace Injury Prevention,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-086_Workplace_Injury_Prevention/module.json
+MEN-087,Sun Protection for Men,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-087_Sun_Protection_for_Men/module.json
+MEN-088,Healthy Weight Without Extreme Dieting,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-088_Healthy_Weight_Without_Extreme_Dieting/module.json
+MEN-089,Building a Personal Men's Health Plan,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-089_Building_a_Personal_Men's_Health_Plan/module.json
+MEN-090,Hair Loss in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-090_Hair_Loss_in_Men/module.json
+MEN-091,Male Pattern Baldness,Men's Health,Common Questions,1.0,drafts,drafts/MEN-091_Male_Pattern_Baldness/module.json
+MEN-092,Gynecomastia,Men's Health,Common Questions,1.0,drafts,drafts/MEN-092_Gynecomastia/module.json
+MEN-093,Snoring in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-093_Snoring_in_Men/module.json
+MEN-094,Gout in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-094_Gout_in_Men/module.json
+MEN-095,Kidney Stones in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-095_Kidney_Stones_in_Men/module.json
+MEN-096,Back Pain in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-096_Back_Pain_in_Men/module.json
+MEN-097,Joint Pain in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-097_Joint_Pain_in_Men/module.json
+MEN-098,Fatigue in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-098_Fatigue_in_Men/module.json
+MEN-099,Low Energy in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-099_Low_Energy_in_Men/module.json
+MEN-100,Integrating Men's Health: Practical Synthesis,Men's Health,Integrated Practice,1.0,drafts,drafts/MEN-100_Integrating_Men's_Health_Practical_Synthesis/module.json
 WOM-001,Women's Health Across Adulthood,Women's Health,Women's Health Foundations,1.0,drafts,drafts/WOM-001_Women's_Health_Across_Adulthood/module.json
 WOM-002,Female Reproductive Anatomy,Women's Health,Women's Health Foundations,1.0,drafts,drafts/WOM-002_Female_Reproductive_Anatomy/module.json
 WOM-003,Female Reproductive Hormones,Women's Health,Women's Health Foundations,1.0,drafts,drafts/WOM-003_Female_Reproductive_Hormones/module.json
