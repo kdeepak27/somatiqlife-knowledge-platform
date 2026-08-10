@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-141",
+  "title": "Glutamine for Gut Health",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for glutamine for gut health.",
+  "domain": "Supplements",
+  "category": "Digestive and Gut Supplements",
+  "som_stages": [
+    "Prevention",
+    "Supportive Care"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "Glutamine",
+    "Gut Health",
+    "Digestive Health",
+    "Amino Acid",
+    "Intestinal Barrier",
+    "Leaky Gut",
+    "Supplementation",
+    "Immune Support",
+    "GI Tract"
+  ],
+  "related_modules": [
+    "SUP-034",
+    "SUP-056",
+    "SUP-112"
+  ],
+  "evidence_strength": "Moderate to emerging evidence supporting gut barrier repair and symptom support in select digestive conditions; more high-quality research needed for broad recommendations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
