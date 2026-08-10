@@ -1,0 +1,34 @@
+{
+  "module_id": "MEN-086",
+  "title": "Workplace Injury Prevention",
+  "subtitle": "Evidence, prevention, risk reduction, and practical strategies related to workplace injury prevention.",
+  "domain": "Men's Health",
+  "category": "Lifestyle and Safety",
+  "som_stages": [
+    "Prevention",
+    "Health Promotion"
+  ],
+  "audience": [
+    "General Public",
+    "Occupational Safety Professionals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "workplace safety",
+    "injury prevention",
+    "risk reduction",
+    "occupational health",
+    "ergonomics",
+    "protective equipment",
+    "hazard control"
+  ],
+  "related_modules": [
+    "MEN-045: Occupational Health Basics",
+    "MEN-092: Stress Management in the Workplace",
+    "GEN-101: Injury and Accident Prevention Strategies"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging topics",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
