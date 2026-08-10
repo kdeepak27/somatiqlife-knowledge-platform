@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-104",
+  "title": "Vitamin A Test",
+  "subtitle": "What vitamin a test measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Vitamins Minerals and Bone",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Vitamin A",
+    "Retinol",
+    "Serum retinol",
+    "Vitamin A deficiency",
+    "Vitamin A toxicity",
+    "Biomarkers",
+    "Laboratory testing",
+    "Nutritional assessment",
+    "Liver function",
+    "Fat-soluble vitamins"
+  ],
+  "related_modules": [
+    "LAB-101",
+    "LAB-102",
+    "NUTR-305"
+  ],
+  "evidence_strength": "Established evidence with some emerging research on improved biomarkers",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

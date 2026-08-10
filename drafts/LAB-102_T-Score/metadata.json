@@ -1,0 +1,33 @@
+{
+  "module_id": "LAB-102",
+  "title": "T-Score",
+  "subtitle": "What t-score measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Vitamins Minerals and Bone",
+  "som_stages": [
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "T-score",
+    "Bone Density",
+    "Osteoporosis",
+    "Bone Mineral Density",
+    "DXA",
+    "Fracture Risk"
+  ],
+  "related_modules": [
+    "LAB-105: Bone Mineral Density Testing",
+    "LAB-110: Osteoporosis Biomarkers",
+    "LAB-103: Vitamin D and Bone Health"
+  ],
+  "evidence_strength": "Established evidence from meta-analyses, population studies, and international clinical guidelines supports T-score utility in osteoporosis diagnosis and fracture risk assessment.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
