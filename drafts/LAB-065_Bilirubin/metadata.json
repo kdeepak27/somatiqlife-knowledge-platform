@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-065",
+  "title": "Bilirubin",
+  "subtitle": "What bilirubin measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Liver and Kidney",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Clinicians",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "bilirubin",
+    "liver function",
+    "jaundice",
+    "bilirubin test",
+    "unconjugated bilirubin",
+    "conjugated bilirubin",
+    "hyperbilirubinemia",
+    "bilirubin metabolism",
+    "hepatobiliary disease",
+    "bilirubin clearance"
+  ],
+  "related_modules": [
+    "LAB-012",
+    "LAB-034",
+    "LAB-058"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights on newborn bilirubin metabolism and genetic factors",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

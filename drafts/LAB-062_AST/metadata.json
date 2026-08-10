@@ -1,0 +1,36 @@
+{
+  "module_id": "LAB-062",
+  "title": "AST",
+  "subtitle": "What AST measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Liver and Kidney",
+  "som_stages": [
+    "Detection",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "AST",
+    "Aspartate Aminotransferase",
+    "Liver Function",
+    "Biomarker",
+    "Enzyme",
+    "Blood Test",
+    "Hepatic Injury",
+    "Muscle Damage"
+  ],
+  "related_modules": [
+    "LAB-058",
+    "LAB-059",
+    "LAB-063"
+  ],
+  "evidence_strength": "Established evidence supports the role of AST as a biomarker for tissue injury primarily in liver disease, with moderate evidence clarifying its limitations and applications in other contexts.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
