@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-094",
+  "title": "Parathyroid Hormone",
+  "subtitle": "What parathyroid hormone measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Vitamins Minerals and Bone",
+  "som_stages": [
+    "Evaluation",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Moderate (Health Literate Audience)",
+  "keywords": [
+    "Parathyroid hormone",
+    "PTH",
+    "Calcium metabolism",
+    "Bone health",
+    "Vitamin D",
+    "Hyperparathyroidism",
+    "Hypoparathyroidism",
+    "Bone mineral density",
+    "Calcium regulation",
+    "Kidney function"
+  ],
+  "related_modules": [
+    "LAB-012",
+    "LAB-076",
+    "LAB-102"
+  ],
+  "evidence_strength": "Established scientific evidence based on clinical guidelines and biochemical understanding.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

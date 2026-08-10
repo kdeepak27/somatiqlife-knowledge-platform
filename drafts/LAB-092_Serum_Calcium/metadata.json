@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-092",
+  "title": "Serum Calcium",
+  "subtitle": "What serum calcium measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Vitamins Minerals and Bone",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Professionals",
+    "Students"
+  ],
+  "reading_level": "High School to General Adult",
+  "keywords": [
+    "Serum Calcium",
+    "Calcium Level",
+    "Hypocalcemia",
+    "Hypercalcemia",
+    "Albumin",
+    "Calcium Metabolism",
+    "Bone Health",
+    "Vitamin D",
+    "Parathyroid Hormone"
+  ],
+  "related_modules": [
+    "LAB-030-Vitamin-D",
+    "LAB-045-Parathyroid-Hormone",
+    "LAB-120-Phosphorus-Level",
+    "LAB-080-Kidney-Function"
+  ],
+  "evidence_strength": "Established evidence for clinical utility and biochemical mechanisms; moderate evidence regarding best correction methods and ionized calcium use in special populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

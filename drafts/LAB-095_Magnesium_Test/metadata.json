@@ -1,0 +1,39 @@
+{
+  "module_id": "LAB-095",
+  "title": "Magnesium Test",
+  "subtitle": "What magnesium test measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Vitamins Minerals and Bone",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "magnesium test",
+    "serum magnesium",
+    "magnesium deficiency",
+    "hypomagnesemia",
+    "hypermagnesemia",
+    "magnesium levels",
+    "electrolytes",
+    "lab tests",
+    "minerals",
+    "biomarkers"
+  ],
+  "related_modules": [
+    "LAB-022_Electrolyte_Panel",
+    "LAB-068_Calcium_Test",
+    "LAB-072_Vitamin_D_Test"
+  ],
+  "evidence_strength": "Established evidence for clinical roles of serum magnesium testing; emerging evidence for alternative assessment methods.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
