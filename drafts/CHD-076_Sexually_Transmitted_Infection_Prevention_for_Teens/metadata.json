@@ -1,0 +1,36 @@
+{
+  "module_id": "CHD-076",
+  "title": "Sexually Transmitted Infection Prevention for Teens",
+  "subtitle": "Age-appropriate education, prevention, risk reduction, and support related to sexually transmitted infection prevention for teens.",
+  "domain": "Children and Adolescents",
+  "category": "Adolescent Health",
+  "som_stages": [
+    "Prevention",
+    "Health Education"
+  ],
+  "audience": [
+    "Teens",
+    "Parents",
+    "Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Middle School",
+  "keywords": [
+    "Sexually transmitted infections",
+    "STIs",
+    "Teen health",
+    "Condom use",
+    "Vaccination",
+    "Sex education",
+    "Risk reduction",
+    "Prevention"
+  ],
+  "related_modules": [
+    "CHD-045:Adolescent Vaccination Programs",
+    "CHD-102:Healthy Communication for Teens",
+    "CHD-087:Substance Use and Sexual Risk in Adolescents"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
