@@ -1,0 +1,36 @@
+{
+  "module_id": "CHD-082",
+  "title": "Parents as Health Role Models",
+  "subtitle": "Practical family strategies and evidence related to parents as health role models.",
+  "domain": "Children and Adolescents",
+  "category": "Family Health",
+  "som_stages": [
+    "Prevention",
+    "Health Promotion"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Family Health Educators",
+    "Pediatricians"
+  ],
+  "reading_level": "Grade 8 (Age 13-14)",
+  "keywords": [
+    "Parents",
+    "Role models",
+    "Family health",
+    "Child behavior",
+    "Health habits",
+    "Modeling",
+    "Child development",
+    "Health promotion"
+  ],
+  "related_modules": [
+    "CHD-034",
+    "CHD-069",
+    "FAM-001"
+  ],
+  "evidence_strength": "Moderate to strong evidence supports the influence of parental modeling on various child health behaviors, with diverse studies showing associations and intervention benefits. However, causality can be influenced by contextual factors and ecological systems. Ongoing research addresses specificity and mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
