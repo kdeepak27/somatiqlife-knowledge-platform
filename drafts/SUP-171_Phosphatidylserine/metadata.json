@@ -1,0 +1,35 @@
+{
+  "module_id": "SUP-171",
+  "title": "Phosphatidylserine",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for phosphatidylserine.",
+  "domain": "Supplements",
+  "category": "Sleep Stress and Cognition",
+  "som_stages": [
+    "Research",
+    "Consumer Education"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Phosphatidylserine",
+    "PS",
+    "Cognitive function",
+    "Memory",
+    "Stress reduction",
+    "Supplements",
+    "Dosage",
+    "Safety"
+  ],
+  "related_modules": [
+    "SUP-142-CogDecline",
+    "SUP-158-SleepEnhancers",
+    "SUP-164-StressAdaptogens"
+  ],
+  "evidence_strength": "Moderate evidence for cognitive benefit and stress reduction; limited long-term safety data; emerging evidence requires further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
