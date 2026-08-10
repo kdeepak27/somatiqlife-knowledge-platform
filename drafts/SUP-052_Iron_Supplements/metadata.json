@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-052",
+  "title": "Iron Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for iron supplements.",
+  "domain": "Supplements",
+  "category": "Minerals",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "iron",
+    "iron supplements",
+    "anemia",
+    "ferrous sulfate",
+    "iron deficiency",
+    "bioavailability",
+    "heme iron",
+    "non-heme iron",
+    "iron toxicity",
+    "iron interactions"
+  ],
+  "related_modules": [
+    "SUP-031",
+    "NUT-054",
+    "SUP-014"
+  ],
+  "evidence_strength": "Established evidence supported by clinical trials and systematic reviews.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
