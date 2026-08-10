@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-003",
+  "title": "Generic vs Brand-Name Medicines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to generic vs brand-name medicines.",
+  "domain": "Medications",
+  "category": "Medication Foundations",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Generic medicines",
+    "Brand-name medicines",
+    "Bioequivalence",
+    "Medication safety",
+    "Drug efficacy",
+    "Drug interactions",
+    "Pharmaceutical formulations",
+    "Medication costs",
+    "Side effects",
+    "Patient education"
+  ],
+  "related_modules": [
+    "MED-007-MedicationAdherence",
+    "MED-010-Pharmacovigilance",
+    "MED-015-DrugInteractions"
+  ],
+  "evidence_strength": "Established evidence based on regulatory standards, systematic reviews, and clinical studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

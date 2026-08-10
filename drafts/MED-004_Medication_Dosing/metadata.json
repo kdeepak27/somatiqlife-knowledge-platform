@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-004",
+  "title": "Medication Dosing",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication dosing.",
+  "domain": "Medications",
+  "category": "Medication Foundations",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Treatment",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "General Audience",
+  "keywords": [
+    "medication dosing",
+    "drug dose",
+    "pharmacokinetics",
+    "side effects",
+    "drug interactions",
+    "therapeutic monitoring",
+    "dose adjustment",
+    "medication safety"
+  ],
+  "related_modules": [
+    "MED-001",
+    "MED-002",
+    "MED-007"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-002",
+  "title": "Prescription vs Over-the-Counter Medicines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to prescription vs over-the-counter medicines.",
+  "domain": "Medications",
+  "category": "Medication Foundations",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Self-Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Students",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Prescription medicines",
+    "Over-the-counter medicines",
+    "OTC",
+    "Drug safety",
+    "Medication interactions",
+    "Pharmacology",
+    "Side effects",
+    "Medication monitoring"
+  ],
+  "related_modules": [
+    "MED-001_Basic_Pharmacology",
+    "MED-010_Medication_Safety_And_Interactions",
+    "MED-011_Safe_Medication_Use_In_Seniors"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
