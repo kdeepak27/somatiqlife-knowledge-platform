@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-191",
+  "title": "Urolithin A",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for urolithin a.",
+  "domain": "Supplements",
+  "category": "Healthy Aging and Specialty Supplements",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Healthy Aging"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Moderate (Grade 10+ with scientific literacy)",
+  "keywords": [
+    "Urolithin A",
+    "Mitophagy",
+    "Aging",
+    "Ellagitannins",
+    "Pomegranate",
+    "Supplements",
+    "Mitochondria",
+    "Polyphenols",
+    "Muscle Health",
+    "Oxidative Stress"
+  ],
+  "related_modules": [
+    "SUP-072",
+    "SUP-134",
+    "SUP-210"
+  ],
+  "evidence_strength": "Moderate evidence from preclinical studies and early-phase human clinical trials supports the mitochondrial and muscle benefits of Urolithin A. However, long-term efficacy and safety in diverse populations remain uncertain.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

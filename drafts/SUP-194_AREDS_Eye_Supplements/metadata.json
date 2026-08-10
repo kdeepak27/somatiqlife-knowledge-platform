@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-194",
+  "title": "AREDS Eye Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for AREDS eye supplements.",
+  "domain": "Supplements",
+  "category": "Healthy Aging and Specialty Supplements",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "AREDS",
+    "Age-Related Eye Disease Study",
+    "Macular Degeneration",
+    "Eye Supplements",
+    "Antioxidants",
+    "Zinc",
+    "Lutein",
+    "Zeaxanthin",
+    "Vision Health"
+  ],
+  "related_modules": [
+    "SUP-183",
+    "SUP-210",
+    "INF-105"
+  ],
+  "evidence_strength": "Established evidence for efficacy in intermediate and advanced AMD; moderate evidence for safety and formulation optimization; emerging evidence for additional nutrients and lifestyle integration.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
