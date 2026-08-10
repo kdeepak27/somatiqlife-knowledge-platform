@@ -1,0 +1,39 @@
+{
+  "module_id": "LAB-126",
+  "title": "Cancer Biomarkers Overview",
+  "subtitle": "What cancer biomarkers overview measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Cancer and Screening Biomarkers",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring",
+    "Prognosis"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Cancer biomarkers",
+    "tumor markers",
+    "oncology",
+    "diagnosis",
+    "screening",
+    "treatment monitoring",
+    "prognosis",
+    "limitations",
+    "interpretation",
+    "safety"
+  ],
+  "related_modules": [
+    "LAB-101-CancerScreeningBasics",
+    "LAB-130-GeneticTestingInCancer",
+    "LAB-110-OncologyImagingOverview"
+  ],
+  "evidence_strength": "Moderate evidence supporting use of established biomarkers such as PSA and CA-125; emerging biomarkers require further validation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
