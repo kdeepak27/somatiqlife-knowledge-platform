@@ -1,0 +1,35 @@
+{
+  "module_id": "LAB-133",
+  "title": "Low-Dose CT Screening",
+  "subtitle": "What low-dose CT screening measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Cancer and Screening Biomarkers",
+  "som_stages": [
+    "Screening",
+    "Diagnosis"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "Low-dose CT",
+    "Computed Tomography",
+    "Lung Cancer Screening",
+    "Early Detection",
+    "Radiation Dose",
+    "Nodules",
+    "False Positives",
+    "Screening Limitations"
+  ],
+  "related_modules": [
+    "LAB-101",
+    "LAB-120",
+    "LAB-150"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials and clinical guidelines supports LDCT screening effectiveness in selected high-risk populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

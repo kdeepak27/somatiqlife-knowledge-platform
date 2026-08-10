@@ -1,0 +1,40 @@
+{
+  "module_id": "LAB-135",
+  "title": "Liquid Biopsy Basics",
+  "subtitle": "What liquid biopsy basics measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Cancer and Screening Biomarkers",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring",
+    "Recurrence Detection"
+  ],
+  "audience": [
+    "Patients",
+    "Clinicians",
+    "Researchers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "liquid biopsy",
+    "circulating tumor DNA",
+    "ctDNA",
+    "circulating tumor cells",
+    "biomarkers",
+    "cancer screening",
+    "cancer monitoring",
+    "non-invasive biopsy",
+    "cancer biomarkers",
+    "precision oncology"
+  ],
+  "related_modules": [
+    "LAB-101",
+    "LAB-141",
+    "ONC-202"
+  ],
+  "evidence_strength": "Established evidence with ongoing research and moderate emerging applications",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
