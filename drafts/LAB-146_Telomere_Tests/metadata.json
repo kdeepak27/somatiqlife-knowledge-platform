@@ -1,0 +1,39 @@
+{
+  "module_id": "LAB-146",
+  "title": "Telomere Tests",
+  "subtitle": "What telomere tests measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Advanced and Consumer Testing",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "High school and above",
+  "keywords": [
+    "Telomere",
+    "Telomere length",
+    "Biomarker",
+    "Aging",
+    "Laboratory test",
+    "Q-PCR",
+    "Flow-FISH",
+    "Leukocytes",
+    "Cellular senescence",
+    "Chromosome caps"
+  ],
+  "related_modules": [
+    "LAB-102-Biomarkers-of-Aging",
+    "LAB-123-Genetic-Testing-Overview",
+    "LAB-134-Direct-to-Consumer-Genetic-Tests"
+  ],
+  "evidence_strength": "Established for telomere biology and testing methods; moderate and emerging evidence for clinical utility in aging and disease prediction; uncertain evidence on health outcomes from consumer testing.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
