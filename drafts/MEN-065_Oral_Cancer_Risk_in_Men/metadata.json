@@ -1,0 +1,38 @@
+{
+  "module_id": "MEN-065",
+  "title": "Oral Cancer Risk in Men",
+  "subtitle": "Risk reduction, screening, evidence, and practical prevention related to oral cancer risk in men.",
+  "domain": "Men's Health",
+  "category": "Cancer and Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Men at Risk",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "oral cancer",
+    "men's health",
+    "risk reduction",
+    "screening",
+    "tobacco",
+    "alcohol",
+    "HPV",
+    "prevention",
+    "oral hygiene",
+    "early detection"
+  ],
+  "related_modules": [
+    "MEN-023",
+    "MEN-042",
+    "GEN-011"
+  ],
+  "evidence_strength": "Established evidence with some moderate-emerging areas (e.g., HPV roles outside oropharynx)",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
