@@ -1,0 +1,34 @@
+{
+  "module_id": "SUP-042",
+  "title": "Prenatal Vitamins",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for prenatal vitamins.",
+  "domain": "Supplements",
+  "category": "Vitamins",
+  "som_stages": [
+    "Preconception",
+    "Pregnancy",
+    "Postpartum"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate - Lay and Health Literate Audience",
+  "keywords": [
+    "prenatal vitamins",
+    "folic acid",
+    "pregnancy supplements",
+    "vitamin D",
+    "iron supplementation",
+    "pregnancy nutrition",
+    "maternal health",
+    "multivitamins"
+  ],
+  "related_modules": [
+    "SUP-021",
+    "NUT-011"
+  ],
+  "evidence_strength": "Established evidence primarily supports folic acid and iron supplementation benefits; moderate evidence supports other nutrients with ongoing research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
