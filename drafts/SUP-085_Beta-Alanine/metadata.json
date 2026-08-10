@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-085",
+  "title": "Beta-Alanine",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for beta-alanine.",
+  "domain": "Supplements",
+  "category": "Performance Supplements",
+  "som_stages": [
+    "Performance Optimization",
+    "Sports Nutrition"
+  ],
+  "audience": [
+    "Consumers",
+    "Athletes",
+    "Healthcare Professionals",
+    "Trainers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "beta-alanine",
+    "carnosine",
+    "muscle fatigue",
+    "supplementation",
+    "ergogenic aid",
+    "amino acid",
+    "dosing",
+    "side effects",
+    "safety",
+    "performance enhancement"
+  ],
+  "related_modules": [
+    "SUP-042",
+    "SUP-073",
+    "SUP-097"
+  ],
+  "evidence_strength": "Established evidence supports beta-alanine’s benefits in high-intensity exercise performance and safety at recommended doses, with emerging research into secondary mechanisms and long-term effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
