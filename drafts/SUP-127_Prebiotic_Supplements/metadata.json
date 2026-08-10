@@ -1,0 +1,35 @@
+{
+  "module_id": "SUP-127",
+  "title": "Prebiotic Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for prebiotic supplements.",
+  "domain": "Supplements",
+  "category": "Digestive and Gut Supplements",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Prebiotic",
+    "Dietary Fiber",
+    "Gut Microbiota",
+    "Inulin",
+    "Fructooligosaccharides",
+    "Gut Health",
+    "Digestive Health",
+    "Supplementation"
+  ],
+  "related_modules": [
+    "SUP-105",
+    "SUP-110",
+    "SUP-130"
+  ],
+  "evidence_strength": "Established and moderate evidence for gut health benefits; emerging evidence for systemic effects; generally safe with mild side effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
