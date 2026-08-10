@@ -1,0 +1,37 @@
+{
+  "module_id": "CHD-070",
+  "title": "Concussion Prevention",
+  "subtitle": "Prevention, safety, and evidence-based guidance related to concussion prevention.",
+  "domain": "Children and Adolescents",
+  "category": "Prevention and Safety",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "Parents",
+    "Coaches",
+    "Teachers",
+    "Healthcare Professionals",
+    "Adolescents"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "concussion",
+    "brain injury",
+    "head injury",
+    "helmet",
+    "safety",
+    "children",
+    "adolescents",
+    "sports injuries",
+    "prevention"
+  ],
+  "related_modules": [
+    "CHD-050-Sports Injury Management",
+    "CHD-055-Youth Sports Safety",
+    "CHD-060-Traumatic Brain Injury Overview"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
