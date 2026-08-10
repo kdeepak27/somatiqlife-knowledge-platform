@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-037",
+  "title": "Vitamin C Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for vitamin c supplements.",
+  "domain": "Supplements",
+  "category": "Vitamins",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Mild Deficiency Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Vitamin C",
+    "Ascorbic Acid",
+    "Supplements",
+    "Antioxidants",
+    "Immune Support",
+    "Dose Recommendations",
+    "Safety",
+    "Side Effects",
+    "Interactions",
+    "Deficiency"
+  ],
+  "related_modules": [
+    "SUP-045",
+    "SUP-062",
+    "NUT-013"
+  ],
+  "evidence_strength": "Established evidence for deficiency prevention; moderate evidence for immune and cold symptom impact; emerging evidence for other health benefits; safety established at recommended doses with caution at high doses.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

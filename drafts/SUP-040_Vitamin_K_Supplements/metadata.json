@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-040",
+  "title": "Vitamin K Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for vitamin k supplements.",
+  "domain": "Supplements",
+  "category": "Vitamins",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "High School to Adult",
+  "keywords": [
+    "Vitamin K",
+    "Vitamin K1",
+    "Vitamin K2",
+    "Menaquinone",
+    "Phylloquinone",
+    "Supplementation",
+    "Dosing",
+    "Coagulation",
+    "Bone Health",
+    "Drug Interactions"
+  ],
+  "related_modules": [
+    "SUP-021",
+    "SUP-053",
+    "NUT-017"
+  ],
+  "evidence_strength": "Established and Moderate Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
