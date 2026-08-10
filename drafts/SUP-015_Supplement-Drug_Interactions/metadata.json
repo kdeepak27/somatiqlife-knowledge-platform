@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-015",
+  "title": "Supplement-Drug Interactions",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for supplement-drug interactions.",
+  "domain": "Supplements",
+  "category": "Supplement Foundations",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Supplement",
+    "Drug Interaction",
+    "Pharmacokinetics",
+    "Pharmacodynamics",
+    "Herb-Drug Interactions",
+    "Safety",
+    "Dosing",
+    "Mechanisms"
+  ],
+  "related_modules": [
+    "SUP-002",
+    "SUP-008",
+    "PHAR-010"
+  ],
+  "evidence_strength": "Established evidence supported by observational studies and pharmacological research; clinical trial data limited; emerging evidence requires further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
