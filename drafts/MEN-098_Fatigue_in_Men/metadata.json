@@ -1,0 +1,38 @@
+{
+  "module_id": "MEN-098",
+  "title": "Fatigue in Men",
+  "subtitle": "Common causes, evidence-based evaluation, management, and safety related to fatigue in men.",
+  "domain": "Men's Health",
+  "category": "Common Questions",
+  "som_stages": [
+    "Awareness",
+    "Investigation",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Primary Care Providers",
+    "Men's Health Specialists"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "fatigue",
+    "tiredness",
+    "men's health",
+    "chronic fatigue",
+    "causes of fatigue",
+    "evaluation",
+    "management",
+    "sleep disorders",
+    "depression",
+    "thyroid dysfunction"
+  ],
+  "related_modules": [
+    "MEN-034",
+    "MEN-056",
+    "GEN-012"
+  ],
+  "evidence_strength": "Established and emerging evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

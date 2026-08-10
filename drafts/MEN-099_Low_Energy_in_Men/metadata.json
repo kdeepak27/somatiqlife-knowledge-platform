@@ -1,0 +1,37 @@
+{
+  "module_id": "MEN-099",
+  "title": "Low Energy in Men",
+  "subtitle": "Common causes, evidence-based evaluation, management, and safety related to low energy in men.",
+  "domain": "Men's Health",
+  "category": "Common Questions",
+  "som_stages": [
+    "Prevention",
+    "Symptom Recognition",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "Adult Men",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "low energy",
+    "fatigue",
+    "men's health",
+    "testosterone",
+    "sleep disorders",
+    "depression",
+    "nutritional deficiency",
+    "exercise"
+  ],
+  "related_modules": [
+    "MEN-045-Testosterone-Deficiency-Evaluation",
+    "MEN-071-Sleep-Disorders-in-Men",
+    "MEN-054-Depression-and-Anxiety-in-Men"
+  ],
+  "evidence_strength": "Established evidence supports major causes such as hormonal deficiency, sleep disorders, psychological factors, and nutritional issues. Emerging evidence highlights complex interactions and individualized responses. Some treatments lack high-quality randomized controlled trials but have clinical consensus.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
