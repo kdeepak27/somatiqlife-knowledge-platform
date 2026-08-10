@@ -54,6 +54,51 @@ CHD-052,Common Colds in Children,Children and Adolescents,Common Health Issues,1
 CHD-053,Cough in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-053_Cough_in_Children/module.json
 CHD-054,Sore Throat in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-054_Sore_Throat_in_Children/module.json
 CHD-055,Stomach Pain in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-055_Stomach_Pain_in_Children/module.json
+CHD-056,Constipation in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-056_Constipation_in_Children/module.json
+CHD-057,Diarrhea in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-057_Diarrhea_in_Children/module.json
+CHD-058,Headaches in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-058_Headaches_in_Children/module.json
+CHD-059,Growing Pains,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-059_Growing_Pains/module.json
+CHD-060,Allergies in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-060_Allergies_in_Children/module.json
+CHD-061,Childhood Vaccinations,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-061_Childhood_Vaccinations/module.json
+CHD-062,Adolescent Vaccinations,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-062_Adolescent_Vaccinations/module.json
+CHD-063,Hand Hygiene for Children,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-063_Hand_Hygiene_for_Children/module.json
+CHD-064,Food Safety for Children,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-064_Food_Safety_for_Children/module.json
+CHD-065,Sun Safety for Children,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-065_Sun_Safety_for_Children/module.json
+CHD-066,Water Safety,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-066_Water_Safety/module.json
+CHD-067,Bike Safety,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-067_Bike_Safety/module.json
+CHD-068,Car Seat Safety,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-068_Car_Seat_Safety/module.json
+CHD-069,Sports Injury Prevention,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-069_Sports_Injury_Prevention/module.json
+CHD-070,Concussion Prevention,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-070_Concussion_Prevention/module.json
+CHD-071,Teen Nutrition,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-071_Teen_Nutrition/module.json
+CHD-072,Teen Exercise,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-072_Teen_Exercise/module.json
+CHD-073,Teen Sleep,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-073_Teen_Sleep/module.json
+CHD-074,Teen Stress,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-074_Teen_Stress/module.json
+CHD-075,Teen Sexual Health,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-075_Teen_Sexual_Health/module.json
+CHD-076,Sexually Transmitted Infection Prevention for Teens,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-076_Sexually_Transmitted_Infection_Prevention_for_Teens/module.json
+CHD-077,Substance Use Prevention,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-077_Substance_Use_Prevention/module.json
+CHD-078,Vaping Prevention in Teens,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-078_Vaping_Prevention_in_Teens/module.json
+CHD-079,Alcohol Prevention in Teens,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-079_Alcohol_Prevention_in_Teens/module.json
+CHD-080,Healthy Relationships for Teens,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-080_Healthy_Relationships_for_Teens/module.json
+CHD-081,Healthy Family Routines,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-081_Healthy_Family_Routines/module.json
+CHD-082,Parents as Health Role Models,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-082_Parents_as_Health_Role_Models/module.json
+CHD-083,Talking to Children About Health,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-083_Talking_to_Children_About_Health/module.json
+CHD-084,Talking to Teens About Health,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-084_Talking_to_Teens_About_Health/module.json
+CHD-085,Healthy Food Environment at Home,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-085_Healthy_Food_Environment_at_Home/module.json
+CHD-086,Active Family Weekends,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-086_Active_Family_Weekends/module.json
+CHD-087,Family Screen Rules,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-087_Family_Screen_Rules/module.json
+CHD-088,Family Sleep Routines,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-088_Family_Sleep_Routines/module.json
+CHD-089,Managing Health During School Holidays,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-089_Managing_Health_During_School_Holidays/module.json
+CHD-090,Building Sustainable Family Habits,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-090_Building_Sustainable_Family_Habits/module.json
+CHD-091,Childhood Obesity Prevention,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-091_Childhood_Obesity_Prevention/module.json
+CHD-092,Prediabetes in Adolescents,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-092_Prediabetes_in_Adolescents/module.json
+CHD-093,High Blood Pressure in Youth,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-093_High_Blood_Pressure_in_Youth/module.json
+CHD-094,Asthma and Exercise,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-094_Asthma_and_Exercise/module.json
+CHD-095,Food Allergies in Children,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-095_Food_Allergies_in_Children/module.json
+CHD-096,ADHD and Lifestyle,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-096_ADHD_and_Lifestyle/module.json
+CHD-097,Autism and Healthy Routines,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-097_Autism_and_Healthy_Routines/module.json
+CHD-098,Eating Disorders in Adolescents,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-098_Eating_Disorders_in_Adolescents/module.json
+CHD-099,Menstrual Health for Teen Girls,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-099_Menstrual_Health_for_Teen_Girls/module.json
+CHD-100,Healthy Transition to College,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-100_Healthy_Transition_to_College/module.json
 MEN-001,Men's Health Across Adulthood,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-001_Men's_Health_Across_Adulthood/module.json
 MEN-002,Male Reproductive Anatomy,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-002_Male_Reproductive_Anatomy/module.json
 MEN-003,Male Reproductive Hormones,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-003_Male_Reproductive_Hormones/module.json
@@ -154,6 +199,11 @@ MEN-097,Joint Pain in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-09
 MEN-098,Fatigue in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-098_Fatigue_in_Men/module.json
 MEN-099,Low Energy in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-099_Low_Energy_in_Men/module.json
 MEN-100,Integrating Men's Health: Practical Synthesis,Men's Health,Integrated Practice,1.0,drafts,drafts/MEN-100_Integrating_Men's_Health_Practical_Synthesis/module.json
+SUP-001,Dietary Supplements Overview,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-001_Dietary_Supplements_Overview/module.json
+SUP-002,How Supplements Are Regulated,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-002_How_Supplements_Are_Regulated/module.json
+SUP-003,How to Read a Supplement Label,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-003_How_to_Read_a_Supplement_Label/module.json
+SUP-004,Supplement Quality Testing,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-004_Supplement_Quality_Testing/module.json
+SUP-005,Third-Party Supplement Certification,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-005_Third-Party_Supplement_Certification/module.json
 WOM-001,Women's Health Across Adulthood,Women's Health,Women's Health Foundations,1.0,drafts,drafts/WOM-001_Women's_Health_Across_Adulthood/module.json
 WOM-002,Female Reproductive Anatomy,Women's Health,Women's Health Foundations,1.0,drafts,drafts/WOM-002_Female_Reproductive_Anatomy/module.json
 WOM-003,Female Reproductive Hormones,Women's Health,Women's Health Foundations,1.0,drafts,drafts/WOM-003_Female_Reproductive_Hormones/module.json
