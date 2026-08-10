@@ -1,0 +1,38 @@
+{
+  "module_id": "MEN-072",
+  "title": "Bone Health in Men",
+  "subtitle": "How bone health in men affects independence, function, and long-term health.",
+  "domain": "Men's Health",
+  "category": "Healthy Aging",
+  "som_stages": [
+    "Maintenance",
+    "Prevention",
+    "Chronic Care"
+  ],
+  "audience": [
+    "Men",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Bone health",
+    "Osteoporosis",
+    "Men's health",
+    "Bone density",
+    "Aging",
+    "Fractures",
+    "Calcium",
+    "Vitamin D",
+    "Exercise",
+    "Hormones"
+  ],
+  "related_modules": [
+    "MEN-021",
+    "MEN-045",
+    "AGE-030"
+  ],
+  "evidence_strength": "Established evidence with moderate evidence in some areas of hormone therapy and emerging approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

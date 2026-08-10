@@ -1,0 +1,39 @@
+{
+  "module_id": "CHD-049",
+  "title": "Resilience in Children",
+  "subtitle": "Recognition, prevention, support, and safety related to resilience in children.",
+  "domain": "Children and Adolescents",
+  "category": "Mental and Emotional Health",
+  "som_stages": [
+    "Early childhood",
+    "Middle childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Teachers",
+    "Pediatric healthcare providers",
+    "Mental health professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Accessible to general public with some professional interest",
+  "keywords": [
+    "Resilience",
+    "Children",
+    "Mental health",
+    "Emotional strength",
+    "Stress coping",
+    "Protective factors",
+    "Risk factors",
+    "Support strategies",
+    "Child development"
+  ],
+  "related_modules": [
+    "CHD-032 Social-Emotional Learning in Children",
+    "CHD-041 Childhood Trauma and PTSD",
+    "CHD-058 Mental Health Screening in Pediatrics"
+  ],
+  "evidence_strength": "Established evidence with areas of emerging research and ongoing exploration, particularly in cultural applications and intervention efficacy.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

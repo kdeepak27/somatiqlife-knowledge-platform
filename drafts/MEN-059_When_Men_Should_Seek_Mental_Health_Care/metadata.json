@@ -1,0 +1,39 @@
+{
+  "module_id": "MEN-059",
+  "title": "When Men Should Seek Mental Health Care",
+  "subtitle": "Recognition, prevention, evidence-based support, and safety related to when men should seek mental health care.",
+  "domain": "Men's Health",
+  "category": "Mental Health",
+  "som_stages": [
+    "Recognition",
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Men",
+    "Healthcare Providers",
+    "Caregivers",
+    "Mental Health Advocates"
+  ],
+  "reading_level": "Grade 8-10",
+  "keywords": [
+    "mental health",
+    "men's health",
+    "mental illness recognition",
+    "mental health care",
+    "depression in men",
+    "anxiety in men",
+    "suicide prevention",
+    "male mental health stigma",
+    "therapy for men",
+    "mental health screening"
+  ],
+  "related_modules": [
+    "MEN-044",
+    "MEN-090",
+    "GEN-019"
+  ],
+  "evidence_strength": "Established evidence for recognition and treatment; emerging evidence for tailored interventions and stigma reduction strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

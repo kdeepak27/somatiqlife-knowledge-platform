@@ -1,0 +1,40 @@
+{
+  "module_id": "MEN-094",
+  "title": "Gout in Men",
+  "subtitle": "Common causes, evidence-based evaluation, management, and safety related to gout in men.",
+  "domain": "Men's Health",
+  "category": "Common Questions",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "General Public"
+  ],
+  "reading_level": "Intermediate (Grades 8-10)",
+  "keywords": [
+    "Gout",
+    "Men's Health",
+    "Hyperuricemia",
+    "Uric Acid",
+    "Inflammation",
+    "Arthritis",
+    "Lifestyle",
+    "Medications",
+    "Diagnosis",
+    "Management"
+  ],
+  "related_modules": [
+    "MEN-032",
+    "MEN-059",
+    "GEN-021"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and large studies; some emerging evidence in lifestyle and long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

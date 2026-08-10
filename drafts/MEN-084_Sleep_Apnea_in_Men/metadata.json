@@ -1,0 +1,38 @@
+{
+  "module_id": "MEN-084",
+  "title": "Sleep Apnea in Men",
+  "subtitle": "Evidence, prevention, risk reduction, and practical strategies related to sleep apnea in men.",
+  "domain": "Men's Health",
+  "category": "Lifestyle and Safety",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Men at risk",
+    "Healthcare providers"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "sleep apnea",
+    "obstructive sleep apnea",
+    "OSA",
+    "men's health",
+    "sleep disorders",
+    "risk factors",
+    "CPAP",
+    "snoring",
+    "daytime sleepiness",
+    "cardiovascular risk"
+  ],
+  "related_modules": [
+    "MEN-022",
+    "MEN-057",
+    "GEN-103"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging data on long-term outcomes and personalized interventions in men-specific populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

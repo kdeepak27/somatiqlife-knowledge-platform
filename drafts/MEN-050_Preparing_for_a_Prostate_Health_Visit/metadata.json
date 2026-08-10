@@ -1,0 +1,36 @@
+{
+  "module_id": "MEN-050",
+  "title": "Preparing for a Prostate Health Visit",
+  "subtitle": "Risk, symptoms, screening, evidence, and management related to preparing for a prostate health visit.",
+  "domain": "Men's Health",
+  "category": "Prostate and Urinary Health",
+  "som_stages": [
+    "Awareness",
+    "Screening",
+    "Early Detection"
+  ],
+  "audience": [
+    "Adult Men",
+    "Healthcare Consumers",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "Prostate Health",
+    "Screening",
+    "PSA Test",
+    "Digital Rectal Exam",
+    "Benign Prostatic Hyperplasia",
+    "Prostate Cancer",
+    "Urinary Symptoms",
+    "Risk Factors"
+  ],
+  "related_modules": [
+    "MEN-030",
+    "MEN-045",
+    "MEN-060"
+  ],
+  "evidence_strength": "Established evidence summarized with some moderate and emerging evidence noted",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,40 @@
+{
+  "module_id": "MEN-048",
+  "title": "Urinary Incontinence in Men",
+  "subtitle": "Risk, symptoms, screening, evidence, and management related to urinary incontinence in men.",
+  "domain": "Men's Health",
+  "category": "Prostate and Urinary Health",
+  "som_stages": [
+    "Primary Prevention",
+    "Screening",
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Adult Men",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "urinary incontinence",
+    "men",
+    "prostate health",
+    "bladder control",
+    "pelvic floor muscles",
+    "overactive bladder",
+    "risk factors",
+    "treatment",
+    "symptoms",
+    "screening"
+  ],
+  "related_modules": [
+    "MEN-012",
+    "MEN-033",
+    "MEN-061"
+  ],
+  "evidence_strength": "Established evidence for definitions, physiology, and first-line treatments; moderate evidence for pharmacological interventions; emerging evidence for novel therapies and long-term outcomes; safety considerations based on clinical guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "SUP-011",
+  "title": "Food vs Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for food vs supplements.",
+  "domain": "Supplements",
+  "category": "Supplement Foundations",
+  "som_stages": [
+    "prevention",
+    "management"
+  ],
+  "audience": [
+    "consumers",
+    "healthcare professionals",
+    "nutritionists"
+  ],
+  "reading_level": "General public and professionals",
+  "keywords": [
+    "food",
+    "dietary supplements",
+    "nutrition",
+    "vitamins",
+    "minerals",
+    "bioavailability",
+    "safety",
+    "interactions",
+    "dosing",
+    "supplementation"
+  ],
+  "related_modules": [
+    "SUP-008",
+    "NUT-015",
+    "CLIN-022"
+  ],
+  "evidence_strength": "Established evidence for food as primary nutrient source; moderate and emerging evidence for specific supplement benefits and safety considerations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

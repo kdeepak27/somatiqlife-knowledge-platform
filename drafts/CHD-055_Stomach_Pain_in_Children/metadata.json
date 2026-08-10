@@ -1,0 +1,38 @@
+{
+  "module_id": "CHD-055",
+  "title": "Stomach Pain in Children",
+  "subtitle": "Common causes, home care principles, red flags, and when professional evaluation matters for stomach pain in children.",
+  "domain": "Children and Adolescents",
+  "category": "Common Health Issues",
+  "som_stages": [
+    "Initial Recognition",
+    "Symptom Management",
+    "Referral Decision"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Primary Care Providers",
+    "Pediatric Nurses"
+  ],
+  "reading_level": "Grade 7",
+  "keywords": [
+    "stomach pain",
+    "abdominal pain",
+    "children",
+    "pediatric pain",
+    "home care",
+    "red flags",
+    "gastroenteritis",
+    "constipation",
+    "appendicitis"
+  ],
+  "related_modules": [
+    "CHD-032-Constipation-in-Children",
+    "CHD-080-Pediatric-Gastroenteritis",
+    "CHD-110-Recognizing-Emergency-Signs-in-Children"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence on psychosomatic contributions and home care effectiveness. Limitations include variability in clinical presentation and challenges in pediatric assessment.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

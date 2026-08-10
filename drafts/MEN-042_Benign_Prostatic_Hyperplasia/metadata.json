@@ -1,0 +1,36 @@
+{
+  "module_id": "MEN-042",
+  "title": "Benign Prostatic Hyperplasia",
+  "subtitle": "Risk, symptoms, screening, evidence, and management related to benign prostatic hyperplasia.",
+  "domain": "Men's Health",
+  "category": "Prostate and Urinary Health",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "Clinicians",
+    "General Public"
+  ],
+  "reading_level": "Moderate (Grade 9-11)",
+  "keywords": [
+    "Benign prostatic hyperplasia",
+    "BPH",
+    "Prostate enlargement",
+    "Lower urinary tract symptoms",
+    "LUTS",
+    "Alpha blockers",
+    "5-alpha-reductase inhibitors",
+    "Prostate health"
+  ],
+  "related_modules": [
+    "MEN-039-Prostate-Cancer-Screening",
+    "MEN-045-Urinary-Tract-Infections-Men"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and randomized trials supports the pathophysiology, diagnosis, and management of BPH, with moderate evidence on newer minimally invasive treatments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

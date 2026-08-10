@@ -1,0 +1,251 @@
+{
+  "module_id": "CHD-094",
+  "title": "Asthma and Exercise",
+  "subtitle": "Evidence, safety, lifestyle considerations, and when professional care matters for asthma and exercise.",
+  "domain": "Children and Adolescents",
+  "category": "Special Topics",
+  "som_stages": [
+    "Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Patients",
+    "Parents",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8 - General Audience",
+  "keywords": [
+    "asthma",
+    "exercise-induced bronchoconstriction",
+    "physical activity",
+    "children",
+    "adolescents",
+    "respiratory health",
+    "sports",
+    "breathing techniques",
+    "medication management"
+  ],
+  "customer_questions": [
+    "What is exercise-induced asthma or exercise-induced bronchoconstriction?",
+    "Can children with asthma participate safely in sports and physical activities?",
+    "How does exercise trigger asthma symptoms?",
+    "What are the best practices to manage asthma before and after exercise?",
+    "Which types of exercise are safer or more suitable for children with asthma?",
+    "What symptoms indicate that exercise is causing asthma problems?",
+    "Is medication needed to prevent asthma attacks during exercise?",
+    "How can parents and coaches support children with asthma in staying active?",
+    "When should a child with asthma see a healthcare professional regarding exercise symptoms?",
+    "Are there special warm-up routines that help prevent exercise-induced asthma?",
+    "Can asthma be outgrown or improved through regular exercise?",
+    "What emergency steps should be taken if a child has an asthma attack during exercise?"
+  ],
+  "retrieval_summary": "Asthma and exercise is a relevant health topic addressing how physical activity interacts with asthma, a chronic respiratory condition characterized by airway inflammation and hyperresponsiveness. Exercise-induced bronchoconstriction (EIB), often called exercise-induced asthma, refers to temporary narrowing of the airways triggered by exercise, leading to symptoms such as coughing, wheezing, chest tightness, and shortness of breath. Children and adolescents with asthma face unique challenges and benefits related to exercise. The pathophysiology involves airway cooling and drying during increased ventilation, which stimulates airway receptors and inflammatory responses. Despite these challenges, regular physical activity can improve overall lung function, cardiovascular fitness, and quality of life when asthma is well-controlled. Safety considerations include identifying triggers, appropriate medication use, and symptom monitoring. Common synonyms include exercise-induced bronchospasm (EIB) and exercise-induced airway obstruction. Limitations include the variability of symptoms among individuals, distinction between poor fitness and asthma symptoms, and occasional over-restriction of activity due to misconception or fear. Practical relevance focuses on enabling safe participation in sports and daily exercise to promote health and social inclusion. Professional care matters when symptoms are recurrent, severe, or do not improve with standard preventive measures. This module also emphasizes evidence-based strategies, safety notes, and dispels misconceptions to facilitate informed decision-making for children, parents, and healthcare providers.",
+  "learning_objectives": [
+    "Understand the definition and mechanisms of exercise-induced asthma or exercise-induced bronchoconstriction (EIB).",
+    "Recognize the types of exercise-related symptoms and their clinical significance in children and adolescents with asthma.",
+    "Identify evidence-based management strategies for exercising safely with asthma, including medication and warm-up routines.",
+    "Learn about the benefits and safety considerations of physical activity in children with asthma.",
+    "Distinguish between asthma symptoms and other causes of exercise intolerance.",
+    "Understand when professional evaluation and care are warranted for exercise-related asthma issues.",
+    "Gain knowledge of common misconceptions about asthma and exercise and correct them with scientific evidence.",
+    "Become familiar with terminology related to asthma and exercise and practical guidance for families and caregivers."
+  ],
+  "definition": "Exercise-induced bronchoconstriction (EIB), commonly referred to as exercise-induced asthma, is a temporary narrowing of the airways that occurs during or after physical activity in individuals with or without chronic asthma. This condition leads to respiratory symptoms such as wheezing, coughing, chest tightness, and shortness of breath. Asthma is a chronic inflammatory disorder of the airways characterized by variable airflow obstruction and airway hyperresponsiveness. EIB affects many children and adolescents with asthma, but can also occur in individuals without a formal asthma diagnosis.",
+  "why_this_matters": "Physical activity is crucial for healthy growth and development in children and adolescents, yet asthma can pose challenges for participation in exercise. Understanding how exercise impacts asthma, how to prevent and manage symptoms, and when to seek professional care empowers patients, families, and healthcare providers to support safe and beneficial physical activity. This knowledge helps prevent unnecessary avoidance of exercise, supports optimal asthma control, and promotes quality of life and long-term respiratory health.",
+  "sections": [
+    {
+      "heading": "Understanding Asthma and Exercise-Induced Bronchoconstriction",
+      "content": "Asthma is a chronic respiratory condition producing inflammation and narrowing of the airways, leading to variable breathing difficulties. Exercise-induced bronchoconstriction (EIB) is a phenomenon where physical activity triggers transient airway narrowing and asthma-like symptoms. EIB is common among children and adolescents with asthma but may also occur in those without diagnosed asthma. Symptoms include coughing, wheezing, shortness of breath, and chest tightness typically beginning during or shortly after exercise. EIB results primarily from airway cooling and drying caused by increased ventilation during exercise, which promotes release of inflammatory mediators and airway muscle constriction."
+    },
+    {
+      "heading": "Mechanisms of Exercise-Induced Bronchoconstriction",
+      "content": "During exercise, increased breathing rate and depth cause the airways to lose heat and moisture rapidly, especially when breathing cold or dry air. This airway dehydration triggers inflammatory responses and the release of mediators such as histamine and leukotrienes, causing smooth muscle contraction around the airways (bronchoconstriction). This process narrows the airways, reducing airflow and causing symptoms. Underlying airway inflammation from chronic asthma increases susceptibility to EIB. The process usually starts within 5 to 15 minutes after beginning exercise and peaks shortly after exercise cessation."
+    },
+    {
+      "heading": "Effects of Exercise on Lung Physiology in Asthma",
+      "content": "Exercise normally improves cardiovascular fitness and lung function. In controlled asthma, physical activity enhances respiratory muscle strength, lung capacity, and mucociliary clearance. However, in poorly controlled asthma, inflammation and airway hyperresponsiveness can worsen with exercise, leading to symptomatic airflow obstruction. Not all respiratory symptoms during exercise are due to asthma; deconditioning, vocal cord dysfunction, and other causes should be considered. Appropriate management enables most children with asthma to safely participate in sports and activities."
+    },
+    {
+      "heading": "Evidence-Based Benefits of Exercise for Children with Asthma",
+      "content": "Regular physical activity in children with well-controlled asthma is associated with improved aerobic capacity, better asthma control, reduced airway inflammation, and enhanced psychosocial well-being. Studies have shown that participation in sports and exercise does not increase asthma exacerbations when proper management is followed. Physical activity in this population also supports weight control, improves mood, and promotes social inclusion, which are important for overall health."
+    },
+    {
+      "heading": "Managing Asthma Symptoms Before and During Exercise",
+      "content": "Effective management includes ensuring optimal asthma control with prescribed maintenance medications, often inhaled corticosteroids. Short-acting beta-2 agonists (SABAs) can be used 15-30 minutes before exercise as pre-exercise prophylaxis to prevent EIB. Warm-up exercises lasting 10-15 minutes may induce a refractory period, reducing the severity of EIB symptoms. Avoiding known triggers such as cold air or high pollen environments and using a spacer with inhalers enhance medication effectiveness. Monitoring symptoms closely during exercise allows timely intervention if problems arise."
+    },
+    {
+      "heading": "Safety Considerations for Exercise in Children with Asthma",
+      "content": "Safety strategies include having quick access to rescue inhalers during activities, educating children, parents, and coaches about asthma signs, and avoiding strenuous exercise when asthma is not well-controlled. Environmental factors such as air quality, temperature, and allergens should be considered. Children experiencing severe or persistent symptoms require evaluation to adjust their treatment plan. Emergency action plans tailored to individual needs support prompt response to acute asthma attacks during physical activity."
+    },
+    {
+      "heading": "Common Misconceptions About Asthma and Exercise",
+      "content": "A prevalent misconception is that children with asthma should avoid exercise altogether; in fact, regular activity is beneficial and safe with proper management. Some believe that all respiratory symptoms during exercise indicate uncontrolled asthma, but other causes exist, such as poor fitness or vocal cord dysfunction. Another myth is that inhaler use before exercise causes dependency, whereas pre-exercise medication is a preventive measure. Dispelling these misconceptions is important to encourage physical activity and optimize asthma care."
+    },
+    {
+      "heading": "Types of Exercise Suitable for Children with Asthma",
+      "content": "Most forms of exercise are safe, including aerobic activities like swimming, walking, cycling, and running. Swimming is frequently recommended due to warm, humid air reducing airway irritation. Interval training, involving bursts of activity with rests, may be better tolerated than continuous strenuous exercise. Yoga and breathing exercises can improve respiratory muscle strength and breath control, though they do not replace asthma medications. Tailoring activities according to individual tolerance and asthma control supports participation and enjoyment."
+    },
+    {
+      "heading": "Recognizing Symptoms That Require Medical Attention",
+      "content": "Symptoms during or after exercise such as prolonged shortness of breath, wheezing not relieved by rescue inhalers, chest pain, difficulty speaking, or cyanosis (bluish lips or face) require immediate medical evaluation. Frequent episodes of EIB or symptoms that limit physical activity despite treatment should prompt consultation with a healthcare provider to assess asthma control and therapy adjustments. Early recognition helps prevent severe exacerbations and long-term airway damage."
+    },
+    {
+      "heading": "Practical Guidance for Families, Teachers, and Coaches",
+      "content": "Education about asthma, symptom recognition, proper inhaler technique, and emergency response plans improves safety and confidence. Encouraging regular, enjoyable physical activity supports children's health and social development. Communication among families, schools, and sports organizations is essential to accommodate asthma needs and prevent activity restrictions based on misconceptions. Providing written asthma action plans and ensuring quick access to medications during physical activity are best practices."
+    },
+    {
+      "heading": "When Professional Care is Important for Children with Exercise-Related Asthma Symptoms",
+      "content": "Professional evaluation is recommended when exercise triggers frequent or severe symptoms, if symptoms interfere with daily activities or sports participation, or if rescue medications are needed frequently. Healthcare professionals may perform lung function tests, exercise challenge tests, or adjust treatment plans. Referral to asthma specialists or pulmonologists may be necessary in complex cases. Continuous monitoring and follow-up optimize asthma control and safe exercise participation."
+    }
+  ],
+  "practical_guidance": [
+    "Ensure the child’s asthma is optimally controlled with prescribed maintenance medications before engaging in regular exercise.",
+    "Use a short-acting beta-2 agonist inhaler 15-30 minutes prior to exercise for preventing exercise-induced symptoms, as advised by a healthcare provider.",
+    "Incorporate a warm-up period of 10-15 minutes to help reduce airway responsiveness during exercise.",
+    "Avoid exercise in cold, dry, or high allergen environments when possible to minimize airway irritation.",
+    "Educate the child and caregivers on recognizing early symptoms of asthma exacerbation during exercise and how to respond.",
+    "Keep rescue inhalers accessible during all physical activities and teach children how to use them properly.",
+    "Encourage sport and exercise types that the child enjoys and tolerates well, such as swimming or interval training.",
+    "Communicate asthma management plans with coaches, teachers, and caregivers to ensure safety and inclusion."
+  ],
+  "safety_notes": [
+    "Children with poorly controlled asthma should avoid strenuous exercise until their condition is stabilized to prevent severe bronchoconstriction.",
+    "Emergency asthma action plans should be in place during all physical activity sessions.",
+    "Immediate use of rescue inhalers is required if symptoms like wheezing or shortness of breath occur during exercise.",
+    "Seek urgent medical attention if symptoms worsen rapidly, if rescue medication is ineffective, or if there are signs of severe airway obstruction.",
+    "Avoid over-restriction of physical activity, which can negatively affect physical and psychosocial health."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Children with asthma should avoid exercise to prevent asthma attacks.",
+      "reality": "Regular, controlled exercise is safe and beneficial with appropriate asthma management and does not increase the risk of severe asthma attacks."
+    },
+    {
+      "misconception": "All breathing difficulties during exercise in children with asthma mean the asthma is uncontrolled.",
+      "reality": "Other factors such as poor physical fitness, vocal cord dysfunction, or respiratory infections can cause symptoms; proper assessment is necessary."
+    },
+    {
+      "misconception": "Using inhalers before exercise makes the child dependent on medication.",
+      "reality": "Pre-exercise inhaler use prevents symptoms and allows safe participation; it does not cause medication dependency."
+    }
+  ],
+  "clinical_pearls": [
+    "Exercise-induced bronchoconstriction usually peaks 5-10 minutes after stopping exercise and resolves within 20-30 minutes.",
+    "Warm-up exercises can induce a refractory period, decreasing the chance of exercise-induced symptoms.",
+    "Swimming is often better tolerated due to humid air but individual responses vary.",
+    "Asthma action plans tailored for exercise situations improve safety and confidence in children and caregivers.",
+    "Regular assessment and adjustment of asthma therapy optimize exercise tolerance and reduce risk."
+  ],
+  "key_takeaways": [
+    "Exercise-induced bronchoconstriction (EIB) is a common but manageable condition in children with asthma.",
+    "Physical activity provides important health and psychosocial benefits for children and adolescents with asthma.",
+    "Proper asthma control and use of preventive medications allow safe and effective exercise participation.",
+    "Warming up before exercise may reduce the severity of exercise-induced asthma symptoms.",
+    "Swimming and interval training are often well tolerated forms of exercise in asthma patients.",
+    "Children and caregivers should be educated on recognizing symptoms and emergency response during exercise.",
+    "Misconceptions about asthma and exercise should be addressed to prevent unnecessary activity restriction.",
+    "Professional evaluation is necessary if exercise triggers frequent or severe asthma symptoms or limits activity."
+  ],
+  "glossary": [
+    {
+      "term": "Asthma",
+      "definition": "A chronic inflammatory disease of the airways characterized by variable airflow obstruction, airway hyperresponsiveness, and respiratory symptoms such as wheezing, coughing, and shortness of breath."
+    },
+    {
+      "term": "Exercise-Induced Bronchoconstriction (EIB)",
+      "definition": "Temporary narrowing of the airways during or after exercise causing asthma-like symptoms including wheezing and breathlessness."
+    },
+    {
+      "term": "Bronchoconstriction",
+      "definition": "Contraction of the smooth muscles surrounding the airways, resulting in narrowing and airflow limitation."
+    },
+    {
+      "term": "Inflammation",
+      "definition": "The immune system's response to injury or irritants, often causing swelling, redness, and increased mucus production in the airways in asthma."
+    },
+    {
+      "term": "Short-Acting Beta-2 Agonist (SABA)",
+      "definition": "Medications that relax airway muscles rapidly to relieve asthma symptoms, often used as rescue or pre-exercise inhalers."
+    },
+    {
+      "term": "Airway Hyperresponsiveness",
+      "definition": "Increased sensitivity of the airways to various stimuli leading to exaggerated narrowing."
+    },
+    {
+      "term": "Spirometry",
+      "definition": "A lung function test measuring airflow to assess asthma control and airway obstruction."
+    },
+    {
+      "term": "Refractory Period",
+      "definition": "A temporary phase following exercise during which the likelihood of bronchoconstriction is reduced."
+    }
+  ],
+  "related_modules": [
+    "CHD-087",
+    "CHD-106",
+    "CHD-122"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Airway Changes During Exercise-Induced Bronchoconstriction",
+      "illustration_type": "Diagram",
+      "description": "Visual representation of airway narrowing, inflammation, and smooth muscle contraction during exercise-induced bronchoconstriction in children.",
+      "alt_text": "Diagram showing narrowed airways and inflammation in lungs during exercise-induced asthma."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Managing Asthma Medication Timing Around Exercise",
+      "illustration_type": "Flowchart",
+      "description": "Step-by-step flowchart outlining timing and use of inhalers before, during, and after exercise for children with asthma.",
+      "alt_text": "Flowchart showing inhaler use recommendations for children with asthma exercising safely."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Safe Exercise Warm-Up Routine for Children with Asthma",
+      "illustration_type": "Infographic",
+      "description": "Illustration demonstrating effective warm-up exercises to reduce exercise-induced asthma symptoms.",
+      "alt_text": "Infographic showing warm-up stretches and light activities before exercise for asthma management."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Symptoms of Asthma During Exercise",
+      "illustration_type": "Chart",
+      "description": "Chart comparing common symptoms of asthma during exercise in children with normal responses to exertion.",
+      "alt_text": "Chart listing symptoms like wheezing, coughing, and chest tightness and their significance."
+    }
+  ],
+  "references": [
+    {
+      "title": "Exercise-induced bronchoconstriction in athletes: New evidence and research perspectives",
+      "organization_or_authors": "Hull, JH, Ansley L, and Dickinson JW",
+      "year": "2017",
+      "identifier": "DOI: 10.1136/bjsports-2016-096852",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Global Initiative for Asthma (GINA) – 2023 Report",
+      "organization_or_authors": "GINA",
+      "year": "2023",
+      "identifier": "https://ginasthma.org/gina-reports/",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Exercise and physical activity in asthma: Relevance for management and prevention",
+      "organization_or_authors": "Weiler JM, Brannan JD et al.",
+      "year": "2016",
+      "identifier": "J Allergy Clin Immunol Pract. 2016 Jan-Feb;4(1):61-72",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Physical Activity and Exercise in Children and Adults with Asthma: A Narrative Review",
+      "organization_or_authors": "Freitas PD, Silva LE, et al.",
+      "year": "2019",
+      "identifier": "Sports Med Open. 2019;5(1):39",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence with some emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "CHD-024",
+  "title": "Sports Participation",
+  "subtitle": "Benefits, safety, evidence, and practical guidance related to sports participation.",
+  "domain": "Children and Adolescents",
+  "category": "Physical Activity",
+  "som_stages": [
+    "Prevention",
+    "Health Promotion"
+  ],
+  "audience": [
+    "Consumers",
+    "Parents",
+    "Educators",
+    "Pediatric Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sports",
+    "physical activity",
+    "children",
+    "adolescents",
+    "health benefits",
+    "injury prevention",
+    "mental health",
+    "team sports",
+    "individual sports",
+    "physical fitness"
+  ],
+  "related_modules": [
+    "CHD-012",
+    "CHD-037",
+    "CHD-045"
+  ],
+  "evidence_strength": "Established evidence with some moderate emerging findings",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

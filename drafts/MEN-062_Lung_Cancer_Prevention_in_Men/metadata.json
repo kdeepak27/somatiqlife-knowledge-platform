@@ -1,0 +1,37 @@
+{
+  "module_id": "MEN-062",
+  "title": "Lung Cancer Prevention in Men",
+  "subtitle": "Risk reduction, screening, evidence, and practical prevention related to lung cancer prevention in men.",
+  "domain": "Men's Health",
+  "category": "Cancer and Prevention",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Men at Risk",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "lung cancer",
+    "prevention",
+    "men's health",
+    "risk reduction",
+    "screening",
+    "smoking cessation",
+    "environmental exposures",
+    "early detection",
+    "healthy lifestyle"
+  ],
+  "related_modules": [
+    "GEN-103",
+    "CAN-047",
+    "ENV-021"
+  ],
+  "evidence_strength": "Established evidence for smoking cessation and screening efficacy; moderate evidence for environmental and occupational exposures; emerging evidence on genetic factors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

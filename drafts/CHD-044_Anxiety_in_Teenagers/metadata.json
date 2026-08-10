@@ -1,0 +1,39 @@
+{
+  "module_id": "CHD-044",
+  "title": "Anxiety in Teenagers",
+  "subtitle": "Recognition, prevention, support, and safety related to anxiety in teenagers.",
+  "domain": "Children and Adolescents",
+  "category": "Mental and Emotional Health",
+  "som_stages": [
+    "Recognition",
+    "Management",
+    "Support"
+  ],
+  "audience": [
+    "Parents",
+    "Teachers",
+    "Healthcare Providers",
+    "Teenagers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "anxiety",
+    "teenagers",
+    "adolescents",
+    "mental health",
+    "stress",
+    "anxiety disorders",
+    "recognition",
+    "prevention",
+    "support",
+    "safety"
+  ],
+  "related_modules": [
+    "CHD-021: Depression in Teenagers",
+    "CHD-035: Stress Management in Adolescents",
+    "CHD-056: Pediatric Sleep Disorders"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and CBT treatment; moderate evidence for prevention strategies; emerging evidence for neurobiological mechanisms in adolescence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

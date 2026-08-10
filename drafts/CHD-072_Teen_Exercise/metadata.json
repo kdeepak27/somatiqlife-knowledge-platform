@@ -1,0 +1,36 @@
+{
+  "module_id": "CHD-072",
+  "title": "Teen Exercise",
+  "subtitle": "Age-appropriate education, prevention, risk reduction, and support related to teen exercise.",
+  "domain": "Children and Adolescents",
+  "category": "Adolescent Health",
+  "som_stages": [
+    "Prevention",
+    "Health Promotion"
+  ],
+  "audience": [
+    "Teens",
+    "Parents",
+    "Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "teen exercise",
+    "adolescent physical activity",
+    "exercise benefits",
+    "youth fitness",
+    "safe exercise",
+    "exercise guidelines",
+    "physical activity",
+    "teen health"
+  ],
+  "related_modules": [
+    "CHD-053_Adolescent_Nutrition",
+    "CHD-061_Youth_Mental_Health",
+    "CHD-078_Team_Sports_For_Teens"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

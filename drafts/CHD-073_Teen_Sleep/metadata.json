@@ -1,0 +1,35 @@
+{
+  "module_id": "CHD-073",
+  "title": "Teen Sleep",
+  "subtitle": "Age-appropriate education, prevention, risk reduction, and support related to teen sleep.",
+  "domain": "Children and Adolescents",
+  "category": "Adolescent Health",
+  "som_stages": [
+    "Adolescence"
+  ],
+  "audience": [
+    "Teens",
+    "Parents",
+    "Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8–10",
+  "keywords": [
+    "teen sleep",
+    "adolescent sleep",
+    "circadian rhythm",
+    "sleep hygiene",
+    "sleep deprivation",
+    "melatonin",
+    "sleep disorders",
+    "sleep health"
+  ],
+  "related_modules": [
+    "CHD-045",
+    "CHD-088",
+    "CHD-060"
+  ],
+  "evidence_strength": "Established evidence based on consistent findings from sleep physiology and adolescent health studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

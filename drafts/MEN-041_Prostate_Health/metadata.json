@@ -1,0 +1,38 @@
+{
+  "module_id": "MEN-041",
+  "title": "Prostate Health",
+  "subtitle": "Risk, symptoms, screening, evidence, and management related to prostate health.",
+  "domain": "Men's Health",
+  "category": "Prostate and Urinary Health",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General public",
+    "Patients",
+    "Caregivers",
+    "Healthcare providers"
+  ],
+  "reading_level": "General audience",
+  "keywords": [
+    "Prostate",
+    "Prostate health",
+    "Benign prostatic hyperplasia",
+    "Prostate cancer",
+    "PSA",
+    "Urinary symptoms",
+    "Screening",
+    "Digital rectal exam"
+  ],
+  "related_modules": [
+    "MEN-043",
+    "MEN-045",
+    "GEN-010"
+  ],
+  "evidence_strength": "Established evidence with some moderate and emerging evidence areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

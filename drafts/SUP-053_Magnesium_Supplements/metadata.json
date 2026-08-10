@@ -1,0 +1,35 @@
+{
+  "module_id": "SUP-053",
+  "title": "Magnesium Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for magnesium supplements.",
+  "domain": "Supplements",
+  "category": "Minerals",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Treatment"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "magnesium",
+    "supplements",
+    "minerals",
+    "dosing",
+    "safety",
+    "interactions",
+    "magnesium deficiency"
+  ],
+  "related_modules": [
+    "SUP-010",
+    "SUP-034",
+    "SUP-078"
+  ],
+  "evidence_strength": "Established Evidence for deficiency correction and migraine; Moderate Evidence for cardiovascular and metabolic benefits; Emerging Evidence for other uses such as sleep and mood",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

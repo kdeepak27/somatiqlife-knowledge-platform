@@ -1,0 +1,38 @@
+{
+  "module_id": "MEN-034",
+  "title": "Erectile Dysfunction",
+  "subtitle": "Definitions, evaluation, evidence, treatment considerations, and safety related to erectile dysfunction.",
+  "domain": "Men's Health",
+  "category": "Sexual and Reproductive Health",
+  "som_stages": [
+    "Evaluation",
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "erectile dysfunction",
+    "impotence",
+    "sexual dysfunction",
+    "penile erection",
+    "phosphodiesterase inhibitors",
+    "psychogenic erectile dysfunction",
+    "organic erectile dysfunction",
+    "treatment of ED",
+    "ED evaluation",
+    "ED safety"
+  ],
+  "related_modules": [
+    "MEN-001",
+    "MEN-022"
+  ],
+  "evidence_strength": "Established evidence based on clinical guidelines and systematic reviews",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

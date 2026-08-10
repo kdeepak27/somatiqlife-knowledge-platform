@@ -1,0 +1,40 @@
+{
+  "module_id": "CHD-075",
+  "title": "Teen Sexual Health",
+  "subtitle": "Age-appropriate education, prevention, risk reduction, and support related to teen sexual health.",
+  "domain": "Children and Adolescents",
+  "category": "Adolescent Health",
+  "som_stages": [
+    "Adolescence",
+    "Early Teens",
+    "Mid Teens",
+    "Late Teens"
+  ],
+  "audience": [
+    "Adolescents",
+    "Parents and Guardians",
+    "Healthcare Providers",
+    "Educators"
+  ],
+  "reading_level": "Middle School to High School",
+  "keywords": [
+    "sexual health",
+    "teen health",
+    "adolescent sexuality",
+    "STI prevention",
+    "contraception",
+    "consent",
+    "puberty",
+    "sexual education",
+    "risk reduction",
+    "relationships"
+  ],
+  "related_modules": [
+    "CHD-054 - Adolescent Mental Health",
+    "CHD-093 - Contraception and Family Planning",
+    "CHD-078 - Puberty and Physical Development"
+  ],
+  "evidence_strength": "Established evidence supported by systematic reviews and authoritative public health guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

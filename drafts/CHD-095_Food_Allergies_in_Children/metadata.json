@@ -1,0 +1,37 @@
+{
+  "module_id": "CHD-095",
+  "title": "Food Allergies in Children",
+  "subtitle": "Evidence, safety, lifestyle considerations, and when professional care matters for food allergies in children.",
+  "domain": "Children and Adolescents",
+  "category": "Special Topics",
+  "som_stages": [
+    "Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Pediatric Healthcare Providers",
+    "School Nurses"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "Food Allergy",
+    "Children",
+    "Pediatric Allergy",
+    "Anaphylaxis",
+    "Food Intolerance",
+    "Immunoglobulin E",
+    "IgE",
+    "Food Hypersensitivity",
+    "Elimination Diet",
+    "Epipen"
+  ],
+  "related_modules": [
+    "CHD-067",
+    "CHD-102"
+  ],
+  "evidence_strength": "Established evidence with emerging and moderate-strength findings in prevention and immunotherapy",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

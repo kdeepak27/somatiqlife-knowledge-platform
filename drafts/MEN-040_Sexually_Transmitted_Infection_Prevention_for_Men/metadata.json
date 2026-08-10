@@ -1,0 +1,38 @@
+{
+  "module_id": "MEN-040",
+  "title": "Sexually Transmitted Infection Prevention for Men",
+  "subtitle": "Definitions, evaluation, evidence, treatment considerations, and safety related to sexually transmitted infection prevention for men.",
+  "domain": "Men's Health",
+  "category": "Sexual and Reproductive Health",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Men",
+    "Healthcare Providers",
+    "Sexual Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "STI prevention",
+    "men's sexual health",
+    "condom use",
+    "PrEP",
+    "safe sex",
+    "sexual health screening",
+    "barrier methods",
+    "vaccination",
+    "sexual transmitted infections",
+    "HIV prevention"
+  ],
+  "related_modules": [
+    "MEN-010",
+    "MEN-041",
+    "GEN-020"
+  ],
+  "evidence_strength": "Established evidence for condom use, PrEP, vaccination, and screening; Emerging evidence for antibiotic prophylaxis; Moderate evidence regarding behavioral interventions; Limitations include variability in effectiveness and adherence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

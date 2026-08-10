@@ -1,0 +1,38 @@
+{
+  "module_id": "MEN-013",
+  "title": "High Cholesterol in Men",
+  "subtitle": "Risk factors, prevention, evidence, and practical actions related to high cholesterol in men.",
+  "domain": "Men's Health",
+  "category": "Cardiometabolic Health",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Men at Risk",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "cholesterol",
+    "men",
+    "cardiovascular risk",
+    "LDL",
+    "HDL",
+    "lipids",
+    "prevention",
+    "statins",
+    "diet",
+    "exercise"
+  ],
+  "related_modules": [
+    "MEN-009",
+    "MEN-015",
+    "CARD-020"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials and clinical guidelines supports cholesterol screening and management in men.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

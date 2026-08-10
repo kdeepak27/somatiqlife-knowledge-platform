@@ -1,0 +1,39 @@
+{
+  "module_id": "MEN-071",
+  "title": "Sarcopenia in Men",
+  "subtitle": "How sarcopenia in men affects independence, function, and long-term health.",
+  "domain": "Men's Health",
+  "category": "Healthy Aging",
+  "som_stages": [
+    "Middle Age",
+    "Older Adult",
+    "Geriatric"
+  ],
+  "audience": [
+    "Men",
+    "Caregivers",
+    "Healthcare Providers",
+    "Aging Individuals"
+  ],
+  "reading_level": "Intermediate - Lay and health professionals",
+  "keywords": [
+    "Sarcopenia",
+    "Muscle Loss",
+    "Men's Health",
+    "Aging",
+    "Muscle Function",
+    "Nutrition",
+    "Exercise",
+    "Muscle Strength",
+    "Frailty",
+    "Healthy Aging"
+  ],
+  "related_modules": [
+    "MEN-045-Healthy-Aging",
+    "GEN-030-Nutrition-in-Aging",
+    "PHY-012-Exercise-for-Older-Adults"
+  ],
+  "evidence_strength": "Established evidence for definition, diagnosis, nutrition, and exercise; emerging evidence for pharmacological treatments; moderate evidence for hormonal and inflammatory mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "MEN-021",
+  "title": "Muscle Loss in Men",
+  "subtitle": "Evidence-based training, nutrition, recovery, and safety for muscle loss in men.",
+  "domain": "Men's Health",
+  "category": "Muscle and Fitness",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Recovery"
+  ],
+  "audience": [
+    "Adult Men",
+    "Fitness Enthusiasts",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "muscle loss",
+    "sarcopenia",
+    "men",
+    "strength training",
+    "nutrition",
+    "protein intake",
+    "resistance exercise",
+    "recovery",
+    "testosterone",
+    "aging"
+  ],
+  "related_modules": [
+    "MEN-017",
+    "MEN-030",
+    "GEN-012"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

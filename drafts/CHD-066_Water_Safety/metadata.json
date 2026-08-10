@@ -1,0 +1,35 @@
+{
+  "module_id": "CHD-066",
+  "title": "Water Safety",
+  "subtitle": "Prevention, safety, and evidence-based guidance related to water safety.",
+  "domain": "Children and Adolescents",
+  "category": "Prevention and Safety",
+  "som_stages": [
+    "Prevention",
+    "Health Promotion"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Middle school to adult",
+  "keywords": [
+    "water safety",
+    "drowning prevention",
+    "child safety",
+    "swimming safety",
+    "water hazards",
+    "life jackets",
+    "supervision"
+  ],
+  "related_modules": [
+    "CHD-045: Infant Safety",
+    "CHD-067: Swimming Skills and Water Competency",
+    "CHD-102: Emergency First Aid for Children"
+  ],
+  "evidence_strength": "Established evidence from epidemiological studies, systematic reviews, and expert consensus supports multilayered approaches combining supervision, physical barriers, education, and emergency response training to effectively reduce drowning risk among children.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

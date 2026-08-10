@@ -1,0 +1,39 @@
+{
+  "module_id": "MEN-046",
+  "title": "PSA Testing",
+  "subtitle": "Risk, symptoms, screening, evidence, and management related to PSA testing.",
+  "domain": "Men's Health",
+  "category": "Prostate and Urinary Health",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "8th-10th Grade",
+  "keywords": [
+    "PSA",
+    "Prostate-Specific Antigen",
+    "Prostate Cancer",
+    "Screening",
+    "Diagnostic Testing",
+    "Men's Health",
+    "Urinary Health",
+    "Prostate Screening",
+    "PSA Levels",
+    "Cancer Detection"
+  ],
+  "related_modules": [
+    "MEN-021",
+    "MEN-034",
+    "URIN-015"
+  ],
+  "evidence_strength": "Established evidence with moderate evidence on emerging tests and ongoing controversies in screening recommendations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

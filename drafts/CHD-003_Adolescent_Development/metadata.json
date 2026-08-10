@@ -1,0 +1,35 @@
+{
+  "module_id": "CHD-003",
+  "title": "Adolescent Development",
+  "subtitle": "Age-appropriate evidence, prevention, and practical guidance related to adolescent development.",
+  "domain": "Children and Adolescents",
+  "category": "Growth and Development",
+  "som_stages": [
+    "Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Educators",
+    "Healthcare Providers",
+    "Adolescents"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "Adolescence",
+    "Puberty",
+    "Growth",
+    "Cognitive Development",
+    "Psychosocial Development",
+    "Hormonal Changes",
+    "Prevention",
+    "Mental Health"
+  ],
+  "related_modules": [
+    "CHD-001",
+    "CHD-004"
+  ],
+  "evidence_strength": "Established evidence for biological and cognitive development; moderate evidence for effectiveness of intervention strategies; emerging evidence on variability and long-term psychosocial impacts.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "MEN-004",
+  "title": "Testosterone",
+  "subtitle": "Evidence, physiology, prevention, and practical implications of testosterone.",
+  "domain": "Men's Health",
+  "category": "Men's Health Foundations",
+  "som_stages": [
+    "Prevention",
+    "Wellness Optimization",
+    "Chronic Disease Management"
+  ],
+  "audience": [
+    "Men",
+    "Healthcare Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Testosterone",
+    "Androgens",
+    "Male Hormones",
+    "Hypogonadism",
+    "Hormone Therapy",
+    "Endocrinology",
+    "Men's Health",
+    "Testosterone Deficiency"
+  ],
+  "related_modules": [
+    "MEN-001",
+    "MEN-005",
+    "MEN-010"
+  ],
+  "evidence_strength": "Established evidence for physiology and clinical use; moderate evidence for lifestyle effects; emerging and uncertain evidence for cardiovascular risks and novel therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

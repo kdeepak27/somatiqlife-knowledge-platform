@@ -1,0 +1,36 @@
+{
+  "module_id": "CHD-016",
+  "title": "Calcium for Children",
+  "subtitle": "Evidence-based nutrition and practical family guidance related to calcium for children.",
+  "domain": "Children and Adolescents",
+  "category": "Nutrition",
+  "som_stages": [
+    "Growth",
+    "Development"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Pediatricians",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "calcium",
+    "children",
+    "nutrition",
+    "bone health",
+    "dietary calcium",
+    "calcium absorption",
+    "calcium deficiency",
+    "calcium safety"
+  ],
+  "related_modules": [
+    "CHD-027",
+    "CHD-031",
+    "CHD-045"
+  ],
+  "evidence_strength": "Established evidence supports the critical role of calcium in bone growth and health in children, as well as safe intake limits. Moderate evidence supports the impact of diet variations and supplementation in special populations. Emerging evidence is investigating the broader systemic roles of calcium and interactions with other nutrients.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

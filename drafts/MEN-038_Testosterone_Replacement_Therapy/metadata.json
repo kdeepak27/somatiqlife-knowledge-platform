@@ -1,0 +1,36 @@
+{
+  "module_id": "MEN-038",
+  "title": "Testosterone Replacement Therapy",
+  "subtitle": "Definitions, evaluation, evidence, treatment considerations, and safety related to testosterone replacement therapy.",
+  "domain": "Men's Health",
+  "category": "Sexual and Reproductive Health",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Treatment"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Testosterone",
+    "Hypogonadism",
+    "Hormone Replacement",
+    "Endocrinology",
+    "Men's Health",
+    "Sexual Function",
+    "Hormone Therapy",
+    "Androgens"
+  ],
+  "related_modules": [
+    "MEN-002: Male Sexual Dysfunction",
+    "MEN-017: Male Hypogonadism",
+    "MEN-045: Prostate Health and Disease"
+  ],
+  "evidence_strength": "Moderate - Strong evidence supports benefits in men with confirmed hypogonadism; cardiovascular safety and long-term effects remain under investigation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

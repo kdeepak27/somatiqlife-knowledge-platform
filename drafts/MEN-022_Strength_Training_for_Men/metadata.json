@@ -1,0 +1,36 @@
+{
+  "module_id": "MEN-022",
+  "title": "Strength Training for Men",
+  "subtitle": "Evidence-based training, nutrition, recovery, and safety for strength training for men.",
+  "domain": "Men's Health",
+  "category": "Muscle and Fitness",
+  "som_stages": [
+    "Prevention",
+    "Fitness Optimization",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "Men",
+    "Fitness Enthusiasts",
+    "Coaches",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "strength training",
+    "resistance exercise",
+    "muscle hypertrophy",
+    "nutrition",
+    "recovery",
+    "male physiology",
+    "exercise safety"
+  ],
+  "related_modules": [
+    "MEN-015",
+    "FIT-034",
+    "NUT-009"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

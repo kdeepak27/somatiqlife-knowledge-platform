@@ -1,0 +1,38 @@
+{
+  "module_id": "CHD-025",
+  "title": "Motor Skill Development",
+  "subtitle": "Benefits, safety, evidence, and practical guidance related to motor skill development.",
+  "domain": "Children and Adolescents",
+  "category": "Physical Activity",
+  "som_stages": [
+    "Infancy",
+    "Early Childhood",
+    "Middle Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Educators",
+    "Pediatric Healthcare Providers",
+    "Physical Therapists"
+  ],
+  "reading_level": "Middle school to adult",
+  "keywords": [
+    "motor skill development",
+    "gross motor skills",
+    "fine motor skills",
+    "child development",
+    "physical activity",
+    "neuromotor function",
+    "coordination",
+    "motor learning"
+  ],
+  "related_modules": [
+    "CHD-012",
+    "CHD-034",
+    "CHD-041"
+  ],
+  "evidence_strength": "Established evidence with some emerging research areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

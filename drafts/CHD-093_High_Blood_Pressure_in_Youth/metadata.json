@@ -1,0 +1,37 @@
+{
+  "module_id": "CHD-093",
+  "title": "High Blood Pressure in Youth",
+  "subtitle": "Evidence, safety, lifestyle considerations, and when professional care matters for high blood pressure in youth.",
+  "domain": "Children and Adolescents",
+  "category": "Special Topics",
+  "som_stages": [
+    "Awareness",
+    "Screening",
+    "Management"
+  ],
+  "audience": [
+    "Caregivers",
+    "Adolescents",
+    "Pediatric Healthcare Providers",
+    "School Nurses"
+  ],
+  "reading_level": "Grade 8 to 10",
+  "keywords": [
+    "hypertension",
+    "high blood pressure",
+    "children",
+    "adolescents",
+    "cardiovascular risk",
+    "blood pressure monitoring",
+    "lifestyle changes",
+    "pharmacotherapy"
+  ],
+  "related_modules": [
+    "CHD-054 Hypertension in Adults",
+    "CHD-077 Pediatric Obesity and Cardiometabolic Risk",
+    "CHD-112 Kidney Diseases in Children"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and lifestyle management; moderate evidence for pharmacologic treatment guidelines and long-term outcomes in youth; emerging evidence on optimal screening strategies and ambulatory monitoring in pediatric populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

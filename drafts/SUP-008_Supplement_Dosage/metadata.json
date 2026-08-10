@@ -1,0 +1,34 @@
+{
+  "module_id": "SUP-008",
+  "title": "Supplement Dosage",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for supplement dosage.",
+  "domain": "Supplements",
+  "category": "Supplement Foundations",
+  "som_stages": [
+    "Foundations",
+    "Practical Use"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "supplement dosage",
+    "nutrient supplementation",
+    "safety",
+    "interactions",
+    "dosing guidelines",
+    "nutraceuticals",
+    "supplement efficacy"
+  ],
+  "related_modules": [
+    "SUP-001",
+    "SUP-005",
+    "NUT-010"
+  ],
+  "evidence_strength": "Established to moderate evidence depending on specific supplement and dosing context",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

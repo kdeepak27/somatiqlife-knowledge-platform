@@ -1,0 +1,35 @@
+{
+  "module_id": "SUP-005",
+  "title": "Third-Party Supplement Certification",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for third-party supplement certification.",
+  "domain": "Supplements",
+  "category": "Supplement Foundations",
+  "som_stages": [
+    "Awareness",
+    "Understanding"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Supplement Manufacturers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "third-party certification",
+    "supplement quality",
+    "dietary supplements",
+    "GMP",
+    "label accuracy",
+    "adulteration",
+    "contaminants",
+    "verified supplements"
+  ],
+  "related_modules": [
+    "SUP-001",
+    "SUP-007",
+    "REG-003"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

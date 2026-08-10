@@ -1,0 +1,39 @@
+{
+  "module_id": "CHD-010",
+  "title": "School Health",
+  "subtitle": "Age-appropriate evidence, prevention, and practical guidance related to school health.",
+  "domain": "Children and Adolescents",
+  "category": "Growth and Development",
+  "som_stages": [
+    "Early Childhood",
+    "Middle Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Educators",
+    "Healthcare Providers",
+    "School Administrators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "school health",
+    "child health",
+    "adolescent health",
+    "growth and development",
+    "health education",
+    "nutrition",
+    "mental health",
+    "physical activity",
+    "immunization",
+    "safety"
+  ],
+  "related_modules": [
+    "CHD-004",
+    "CHD-007",
+    "CHD-012"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

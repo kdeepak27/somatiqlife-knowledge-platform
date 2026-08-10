@@ -1,0 +1,39 @@
+{
+  "module_id": "SUP-055",
+  "title": "Potassium Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for potassium supplements.",
+  "domain": "Supplements",
+  "category": "Minerals",
+  "som_stages": [
+    "Prevention",
+    "Wellness",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Pharmacists",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Potassium",
+    "Potassium supplements",
+    "Electrolytes",
+    "Hypokalemia",
+    "Hyperkalemia",
+    "Minerals",
+    "Dietary supplements",
+    "Potassium chloride",
+    "Potassium citrate",
+    "Kidney function"
+  ],
+  "related_modules": [
+    "SUP-038-ElectrolyteBalance",
+    "SUP-041-MineralSupplementsOverview",
+    "PHR-102-DiureticsAndElectrolytes"
+  ],
+  "evidence_strength": "Established evidence for hypokalemia treatment; moderate and emerging evidence for cardiovascular benefits; safety evidence based on clinical pharmacology and monitoring.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

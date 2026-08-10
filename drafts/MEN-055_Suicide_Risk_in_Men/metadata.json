@@ -1,0 +1,38 @@
+{
+  "module_id": "MEN-055",
+  "title": "Suicide Risk in Men",
+  "subtitle": "Recognition, prevention, evidence-based support, and safety related to suicide risk in men.",
+  "domain": "Men's Health",
+  "category": "Mental Health",
+  "som_stages": [
+    "Recognition",
+    "Prevention",
+    "Support",
+    "Safety"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Suicide Risk",
+    "Men's Mental Health",
+    "Prevention",
+    "Depression",
+    "Mental Illness",
+    "Crisis Intervention",
+    "Safety Planning",
+    "Help-Seeking Behavior"
+  ],
+  "related_modules": [
+    "MH-001",
+    "MH-023",
+    "MEN-044"
+  ],
+  "evidence_strength": "Established evidence for epidemiology, biological and psychosocial mechanisms, and prevention strategies; moderate evidence for neurobiological biomarkers; emerging evidence for digital interventions and culturally tailored programs.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

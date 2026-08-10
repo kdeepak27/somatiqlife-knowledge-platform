@@ -1,0 +1,39 @@
+{
+  "module_id": "CHD-054",
+  "title": "Sore Throat in Children",
+  "subtitle": "Common causes, home care principles, red flags, and when professional evaluation matters for sore throat in children.",
+  "domain": "Children and Adolescents",
+  "category": "Common Health Issues",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Follow-up"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Primary Care Providers",
+    "Pediatricians"
+  ],
+  "reading_level": "7th to 9th Grade",
+  "keywords": [
+    "sore throat",
+    "pharyngitis",
+    "children",
+    "home care",
+    "red flags",
+    "bacterial infection",
+    "viral infection",
+    "tonsillitis",
+    "group A streptococcus",
+    "antibiotics"
+  ],
+  "related_modules": [
+    "CHD-021",
+    "CHD-102",
+    "CHD-078"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and systematic reviews with some emerging data on home remedies and diagnostic tests.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

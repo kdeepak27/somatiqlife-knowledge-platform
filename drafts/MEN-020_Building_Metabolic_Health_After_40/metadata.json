@@ -1,0 +1,39 @@
+{
+  "module_id": "MEN-020",
+  "title": "Building Metabolic Health After 40",
+  "subtitle": "Risk factors, prevention, evidence, and practical actions related to building metabolic health after 40.",
+  "domain": "Men's Health",
+  "category": "Cardiometabolic Health",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Men over 40",
+    "Healthcare Providers",
+    "Health Coaches",
+    "General Public"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "Metabolic Health",
+    "Cardiometabolic Risk",
+    "Insulin Resistance",
+    "Type 2 Diabetes",
+    "Physical Activity",
+    "Nutrition",
+    "Weight Management",
+    "Blood Pressure",
+    "Cholesterol",
+    "Inflammation"
+  ],
+  "related_modules": [
+    "GEN-015_Age_related_Physiological_Changes",
+    "MET-010_Insulin_Resistance_Pathophysiology",
+    "LIF-025_Diet_and_Lifestyle_for_Cardiometabolic_Health"
+  ],
+  "evidence_strength": "Established and emerging scientific evidence from observational studies, randomized controlled trials, and clinical guidelines supports the recommendations, though individual response varies and long-term adherence remains challenging.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,39 @@
+{
+  "module_id": "MEN-016",
+  "title": "Abdominal Fat in Men",
+  "subtitle": "Risk factors, prevention, evidence, and practical actions related to abdominal fat in men.",
+  "domain": "Men's Health",
+  "category": "Cardiometabolic Health",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Management"
+  ],
+  "audience": [
+    "Adult Men",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "General audience with interest in health",
+  "keywords": [
+    "abdominal fat",
+    "visceral fat",
+    "men's health",
+    "cardiometabolic risk",
+    "obesity",
+    "weight management",
+    "insulin resistance",
+    "metabolic syndrome",
+    "lifestyle changes",
+    "physical activity"
+  ],
+  "related_modules": [
+    "MEN-010",
+    "MEN-014",
+    "CARD-003",
+    "ENDO-007"
+  ],
+  "evidence_strength": "Established evidence for associations and interventions with moderate emerging research on specific dietary patterns and genetic influences.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

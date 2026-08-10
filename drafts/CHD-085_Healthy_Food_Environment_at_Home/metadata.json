@@ -1,0 +1,36 @@
+{
+  "module_id": "CHD-085",
+  "title": "Healthy Food Environment at Home",
+  "subtitle": "Practical family strategies and evidence related to healthy food environment at home.",
+  "domain": "Children and Adolescents",
+  "category": "Family Health",
+  "som_stages": [
+    "Prevention",
+    "Health Promotion"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Family Health Educators",
+    "Pediatric Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "healthy food environment",
+    "family nutrition",
+    "home food availability",
+    "child eating behaviors",
+    "family meals",
+    "food accessibility",
+    "nutrition education",
+    "obesity prevention"
+  ],
+  "related_modules": [
+    "CHD-041",
+    "CHD-089",
+    "FAM-033"
+  ],
+  "evidence_strength": "Established evidence in observational and intervention studies with some moderate variability due to heterogeneity of family contexts.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

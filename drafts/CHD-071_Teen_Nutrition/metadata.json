@@ -1,0 +1,38 @@
+{
+  "module_id": "CHD-071",
+  "title": "Teen Nutrition",
+  "subtitle": "Age-appropriate education, prevention, risk reduction, and support related to teen nutrition.",
+  "domain": "Children and Adolescents",
+  "category": "Adolescent Health",
+  "som_stages": [
+    "Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Consumers",
+    "Parents",
+    "Adolescents",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "teen nutrition",
+    "adolescent diet",
+    "healthy eating",
+    "nutrients",
+    "growth",
+    "development",
+    "dietary guidelines",
+    "metabolism",
+    "prevention",
+    "risk reduction"
+  ],
+  "related_modules": [
+    "CHD-045: Childhood Nutrition",
+    "CHD-089: Eating Disorders in Adolescents",
+    "CHD-102: Physical Activity for Teens"
+  ],
+  "evidence_strength": "Well-established evidence from national and international dietary guidelines and physiologic studies on adolescent growth and nutrition.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

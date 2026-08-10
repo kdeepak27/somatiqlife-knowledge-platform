@@ -1,0 +1,36 @@
+{
+  "module_id": "MEN-039",
+  "title": "Peyronie Disease",
+  "subtitle": "Definitions, evaluation, evidence, treatment considerations, and safety related to peyronie disease.",
+  "domain": "Men's Health",
+  "category": "Sexual and Reproductive Health",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate (Grade 10-12)",
+  "keywords": [
+    "Peyronie disease",
+    "penile curvature",
+    "fibrous plaque",
+    "erectile dysfunction",
+    "penile fibrosis",
+    "collagen",
+    "men's sexual health",
+    "penile deformity"
+  ],
+  "related_modules": [
+    "MEN-021-ErectileDysfunction",
+    "MEN-042-DupuytrenContracture",
+    "MEN-056-MaleSexualDysfunction"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and surgical treatment; moderate evidence for intralesional collagenase; emerging evidence for alternative therapies; limited evidence for oral agents.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

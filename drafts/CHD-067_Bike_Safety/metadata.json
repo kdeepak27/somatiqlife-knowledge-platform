@@ -1,0 +1,35 @@
+{
+  "module_id": "CHD-067",
+  "title": "Bike Safety",
+  "subtitle": "Prevention, safety, and evidence-based guidance related to bike safety.",
+  "domain": "Children and Adolescents",
+  "category": "Prevention and Safety",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "Parents",
+    "Teachers",
+    "Healthcare Providers",
+    "Children and Adolescents",
+    "Community Health Workers"
+  ],
+  "reading_level": "Grade 6-8",
+  "keywords": [
+    "Bicycle safety",
+    "Helmet use",
+    "Road safety",
+    "Child injury prevention",
+    "Bicycle helmets",
+    "Traffic rules",
+    "Protective gear",
+    "Bike accidents"
+  ],
+  "related_modules": [
+    "CHD-042 - Childhood Injury Prevention",
+    "CHD-083 - Helmet Safety and Injury Prevention"
+  ],
+  "evidence_strength": "Established evidence supported by systematic reviews and large observational studies; emerging evidence for community interventions and behavior modification programs.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

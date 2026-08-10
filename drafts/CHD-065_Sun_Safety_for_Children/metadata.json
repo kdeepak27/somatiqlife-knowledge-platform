@@ -1,0 +1,38 @@
+{
+  "module_id": "CHD-065",
+  "title": "Sun Safety for Children",
+  "subtitle": "Prevention, safety, and evidence-based guidance related to sun safety for children.",
+  "domain": "Children and Adolescents",
+  "category": "Prevention and Safety",
+  "som_stages": [
+    "Infancy",
+    "Early Childhood",
+    "Middle Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Pediatric Healthcare Providers",
+    "Educators"
+  ],
+  "reading_level": "Grade 6-8",
+  "keywords": [
+    "sun safety",
+    "children",
+    "UV radiation",
+    "sunscreen",
+    "skin cancer prevention",
+    "sunburn",
+    "UV index",
+    "protective clothing"
+  ],
+  "related_modules": [
+    "CHD-042-Pediatric-Skin-Care",
+    "CHD-078-Childhood-Health-Education",
+    "CHD-059-Vitamin-D-Deficiency-Prevention"
+  ],
+  "evidence_strength": "Established evidence from multiple randomized controlled trials, systematic reviews, and expert guidelines supporting sun safety interventions in children.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

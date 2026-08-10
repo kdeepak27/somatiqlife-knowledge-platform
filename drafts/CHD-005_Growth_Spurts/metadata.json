@@ -1,0 +1,37 @@
+{
+  "module_id": "CHD-005",
+  "title": "Growth Spurts",
+  "subtitle": "Age-appropriate evidence, prevention, and practical guidance related to growth spurts.",
+  "domain": "Children and Adolescents",
+  "category": "Growth and Development",
+  "som_stages": [
+    "Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Pediatricians",
+    "School Nurses",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "growth spurts",
+    "child development",
+    "adolescent growth",
+    "height increase",
+    "growth hormone",
+    "nutrition",
+    "puberty",
+    "skeletal growth"
+  ],
+  "related_modules": [
+    "CHD-002: Nutrition in Childhood",
+    "CHD-007: Pubertal Development Stages",
+    "CHD-010: Pediatric Bone Health"
+  ],
+  "evidence_strength": "Established evidence from pediatric endocrinology and nutrition research supports the biological basis and clinical features of growth spurts. Moderate evidence underpins practical guidance related to nutritional needs and symptom management. Emerging evidence addresses variability in growth timing and etiology of growing pains. Safety recommendations align with general pediatric practice guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

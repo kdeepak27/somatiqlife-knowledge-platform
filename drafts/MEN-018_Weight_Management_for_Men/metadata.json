@@ -1,0 +1,36 @@
+{
+  "module_id": "MEN-018",
+  "title": "Weight Management for Men",
+  "subtitle": "Risk factors, prevention, evidence, and practical actions related to weight management for men.",
+  "domain": "Men's Health",
+  "category": "Cardiometabolic Health",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Lifestyle Intervention"
+  ],
+  "audience": [
+    "General Public",
+    "Men at Risk",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "weight management",
+    "men's health",
+    "obesity",
+    "cardiometabolic risk",
+    "diet",
+    "exercise",
+    "body composition",
+    "metabolism"
+  ],
+  "related_modules": [
+    "MEN-010",
+    "MEN-015",
+    "MEN-020"
+  ],
+  "evidence_strength": "Established evidence with some emerging research in dietary timing and hormonal treatments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

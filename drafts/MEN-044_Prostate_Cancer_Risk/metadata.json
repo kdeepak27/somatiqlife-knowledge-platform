@@ -1,0 +1,37 @@
+{
+  "module_id": "MEN-044",
+  "title": "Prostate Cancer Risk",
+  "subtitle": "Risk, symptoms, screening, evidence, and management related to prostate cancer risk.",
+  "domain": "Men's Health",
+  "category": "Prostate and Urinary Health",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Primary Care Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "prostate cancer",
+    "risk factors",
+    "screening",
+    "PSA test",
+    "symptoms",
+    "prevention",
+    "early detection",
+    "management"
+  ],
+  "related_modules": [
+    "MEN-032",
+    "MEN-046",
+    "MEN-054"
+  ],
+  "evidence_strength": "Established evidence supported by large clinical trials and expert guidelines; ongoing studies for emerging biomarkers and imaging techniques.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

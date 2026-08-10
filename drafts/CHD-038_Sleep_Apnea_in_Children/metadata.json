@@ -1,0 +1,41 @@
+{
+  "module_id": "CHD-038",
+  "title": "Sleep Apnea in Children",
+  "subtitle": "Evidence, common problems, practical routines, and safety related to sleep apnea in children.",
+  "domain": "Children and Adolescents",
+  "category": "Sleep",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Management",
+    "Follow-Up"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Pediatricians",
+    "Sleep Specialists",
+    "School Nurses"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep apnea",
+    "children",
+    "obstructive sleep apnea",
+    "OSA",
+    "breathing disorder",
+    "pediatric sleep",
+    "snoring",
+    "tonsillectomy",
+    "adenotonsillectomy",
+    "CPAP"
+  ],
+  "related_modules": [
+    "CHD-012",
+    "CHD-045",
+    "CHD-029"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and surgical treatment; moderate emerging evidence for adjunctive therapies and long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "CHD-019",
+  "title": "Healthy Snacks for Children",
+  "subtitle": "Evidence-based nutrition and practical family guidance related to healthy snacks for children.",
+  "domain": "Children and Adolescents",
+  "category": "Nutrition",
+  "som_stages": [
+    "Early Childhood",
+    "Middle Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Pediatricians",
+    "Nutritionists",
+    "Teachers"
+  ],
+  "reading_level": "8th grade",
+  "keywords": [
+    "healthy snacks",
+    "children nutrition",
+    "childhood diet",
+    "snacking habits",
+    "nutrient-dense foods",
+    "family nutrition guidance",
+    "pediatric nutrition"
+  ],
+  "related_modules": [
+    "CHD-013-Nutrition-BalancedMeals",
+    "CHD-025-Childhood-Obesity-Prevention",
+    "CHD-037-Allergy-Management-Children"
+  ],
+  "evidence_strength": "Strong evidence supports nutrient-dense snacks for positive health outcomes; moderate evidence highlights risks of processed snacks and added sugars; some practical guidance is based on emerging consensus.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "MEN-076",
+  "title": "Sleep in Older Men",
+  "subtitle": "How sleep in older men affects independence, function, and long-term health.",
+  "domain": "Men's Health",
+  "category": "Healthy Aging",
+  "som_stages": [
+    "Middle Age",
+    "Older Adult",
+    "Senior"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep",
+    "older men",
+    "aging",
+    "sleep changes",
+    "independence",
+    "cognitive function",
+    "physical function",
+    "sleep disorders",
+    "healthy aging"
+  ],
+  "related_modules": [
+    "MEN-048",
+    "MEN-102",
+    "GEN-134"
+  ],
+  "evidence_strength": "Established evidence for typical sleep changes and common sleep disorders in older men; moderate evidence for sleep’s role in cognitive decline and physical function; emerging evidence for long-term benefits of sleep interventions; safety concerns well documented.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

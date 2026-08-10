@@ -1,0 +1,38 @@
+{
+  "module_id": "CHD-032",
+  "title": "Sleep Needs in Teenagers",
+  "subtitle": "Evidence, common problems, practical routines, and safety related to sleep needs in teenagers.",
+  "domain": "Children and Adolescents",
+  "category": "Sleep",
+  "som_stages": [
+    "Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Teenagers",
+    "Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "teenager sleep",
+    "adolescent sleep needs",
+    "circadian rhythm",
+    "sleep deprivation",
+    "sleep hygiene",
+    "melatonin",
+    "school start times",
+    "sleep disorders",
+    "cognitive development",
+    "mental health"
+  ],
+  "related_modules": [
+    "CHD-015",
+    "CHD-029",
+    "CHD-037"
+  ],
+  "evidence_strength": "Established evidence from population studies and randomized trials supports the biological changes in adolescent sleep rhythms and the benefits of sleep extension interventions such as delayed school start times. Emerging evidence exists around optimized behavioral interventions and long-term outcomes among diverse populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

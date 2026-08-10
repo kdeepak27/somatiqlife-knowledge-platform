@@ -1,0 +1,41 @@
+{
+  "module_id": "CHD-045",
+  "title": "Depression in Teenagers",
+  "subtitle": "Recognition, prevention, support, and safety related to depression in teenagers.",
+  "domain": "Children and Adolescents",
+  "category": "Mental and Emotional Health",
+  "som_stages": [
+    "Recognition",
+    "Prevention",
+    "Support",
+    "Safety"
+  ],
+  "audience": [
+    "Parents",
+    "Teachers",
+    "Healthcare Providers",
+    "Teenagers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Depression",
+    "Teenagers",
+    "Adolescents",
+    "Mood Disorders",
+    "Mental Health",
+    "Prevention",
+    "Support",
+    "Suicide Risk",
+    "Anxiety",
+    "Psychotherapy"
+  ],
+  "related_modules": [
+    "CHD-038",
+    "CHD-052",
+    "CHD-063"
+  ],
+  "evidence_strength": "Established evidence from multiple clinical guidelines and meta-analyses supports the diagnosis, treatment, and prevention strategies discussed, with ongoing research expanding understanding of biological mechanisms and optimal interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

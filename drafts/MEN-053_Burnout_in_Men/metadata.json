@@ -1,0 +1,38 @@
+{
+  "module_id": "MEN-053",
+  "title": "Burnout in Men",
+  "subtitle": "Recognition, prevention, evidence-based support, and safety related to burnout in men.",
+  "domain": "Men's Health",
+  "category": "Mental Health",
+  "som_stages": [
+    "Recognition",
+    "Intervention",
+    "Prevention"
+  ],
+  "audience": [
+    "Men",
+    "Healthcare Providers",
+    "Mental Health Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Burnout",
+    "Men's Mental Health",
+    "Stress",
+    "Prevention",
+    "Support",
+    "Work-related Stress",
+    "Emotional Exhaustion",
+    "Depersonalization",
+    "Personal Accomplishment"
+  ],
+  "related_modules": [
+    "MEN-042",
+    "MEN-037",
+    "MENT-012"
+  ],
+  "evidence_strength": "Established evidence for definition, symptoms, and physiological mechanisms; Moderate evidence for gender differences and workplace interventions; Emerging evidence for biological sex hormone influences and tailored therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

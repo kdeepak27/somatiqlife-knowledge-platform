@@ -1,0 +1,36 @@
+{
+  "module_id": "CHD-060",
+  "title": "Allergies in Children",
+  "subtitle": "Common causes, home care principles, red flags, and when professional evaluation matters for allergies in children.",
+  "domain": "Children and Adolescents",
+  "category": "Common Health Issues",
+  "som_stages": [
+    "Prevention",
+    "Early Recognition",
+    "Management"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Pediatric Healthcare Providers",
+    "School Nurses"
+  ],
+  "reading_level": "Moderate (Grade 7-9)",
+  "keywords": [
+    "allergies",
+    "children",
+    "pediatric allergy",
+    "allergic reactions",
+    "home care",
+    "anaphylaxis",
+    "immunology"
+  ],
+  "related_modules": [
+    "CHD-045 Pediatric Asthma Management",
+    "CHD-048 Food Intolerance vs Allergy",
+    "CHD-063 Anaphylaxis Emergency Response"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and randomized controlled trials.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

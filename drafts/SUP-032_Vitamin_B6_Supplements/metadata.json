@@ -1,0 +1,37 @@
+{
+  "module_id": "SUP-032",
+  "title": "Vitamin B6 Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for vitamin B6 supplements.",
+  "domain": "Supplements",
+  "category": "Vitamins",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Optimization"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Vitamin B6",
+    "Pyridoxine",
+    "Pyridoxal phosphate",
+    "Supplements",
+    "Dosage",
+    "Safety",
+    "Interactions",
+    "Deficiency",
+    "Neuropathy"
+  ],
+  "related_modules": [
+    "SUP-015",
+    "SUP-044",
+    "NUT-103"
+  ],
+  "evidence_strength": "Established evidence for deficiency treatment and pregnancy nausea; moderate to emerging evidence for neuropathy management; emerging safety data on neurotoxicity risk at high doses.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

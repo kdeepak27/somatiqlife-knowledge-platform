@@ -1,0 +1,40 @@
+{
+  "module_id": "CHD-050",
+  "title": "When a Child Needs Mental Health Support",
+  "subtitle": "Recognition, prevention, support, and safety related to when a child needs mental health support.",
+  "domain": "Children and Adolescents",
+  "category": "Mental and Emotional Health",
+  "som_stages": [
+    "Early Childhood",
+    "Middle Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Educators",
+    "Pediatricians",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "child mental health",
+    "mental health support",
+    "childhood anxiety",
+    "behavioral problems",
+    "mental health screening",
+    "emotional well-being",
+    "child therapy",
+    "parental support",
+    "child psychology",
+    "mental health prevention"
+  ],
+  "related_modules": [
+    "CHD-045 - Childhood Anxiety Disorders",
+    "CHD-070 - Behavioral Interventions in Children",
+    "CHD-080 - Childhood Trauma and Recovery"
+  ],
+  "evidence_strength": "Established Evidence Based on Systematic Reviews and Clinical Guidelines",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

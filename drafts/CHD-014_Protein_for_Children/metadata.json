@@ -1,0 +1,41 @@
+{
+  "module_id": "CHD-014",
+  "title": "Protein for Children",
+  "subtitle": "Evidence-based nutrition and practical family guidance related to protein for children.",
+  "domain": "Children and Adolescents",
+  "category": "Nutrition",
+  "som_stages": [
+    "Infancy",
+    "Early Childhood",
+    "Middle Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Pediatric Healthcare Providers",
+    "Nutritionists",
+    "Educators"
+  ],
+  "reading_level": "Grade 6-8 (Intermediate)",
+  "keywords": [
+    "Protein",
+    "Children Nutrition",
+    "Amino Acids",
+    "Growth",
+    "Dietary Protein",
+    "Protein Sources",
+    "Protein Deficiency",
+    "Child Development",
+    "Protein Requirements",
+    "Safe Protein Intake"
+  ],
+  "related_modules": [
+    "CHD-010-Nutrition-ChildGrowth",
+    "CHD-021-Immunity-Children",
+    "CHD-015-VeganNutrition-Children"
+  ],
+  "evidence_strength": "Established evidence from nutrition science and pediatric guidelines; moderate evidence on optimal protein quality in plant-based pediatric diets; emerging evidence on long-term effects of excessive protein intake in children.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

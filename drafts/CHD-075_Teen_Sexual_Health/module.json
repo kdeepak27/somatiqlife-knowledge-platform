@@ -1,0 +1,265 @@
+{
+  "module_id": "CHD-075",
+  "title": "Teen Sexual Health",
+  "subtitle": "Age-appropriate education, prevention, risk reduction, and support related to teen sexual health.",
+  "domain": "Children and Adolescents",
+  "category": "Adolescent Health",
+  "som_stages": [
+    "Adolescence",
+    "Early Teens",
+    "Mid Teens",
+    "Late Teens"
+  ],
+  "audience": [
+    "Adolescents",
+    "Parents and Guardians",
+    "Healthcare Providers",
+    "Educators"
+  ],
+  "reading_level": "Middle School to High School",
+  "keywords": [
+    "sexual health",
+    "teen health",
+    "adolescent sexuality",
+    "STI prevention",
+    "contraception",
+    "consent",
+    "puberty",
+    "sexual education",
+    "risk reduction",
+    "relationships"
+  ],
+  "customer_questions": [
+    "What is teen sexual health and why is it important?",
+    "At what age should sexual health education begin?",
+    "What are common changes during puberty that affect sexual health?",
+    "How can teens reduce their risk of sexually transmitted infections (STIs)?",
+    "What types of contraception are available and effective for teens?",
+    "Why is understanding consent critical in teen relationships?",
+    "How can parents support their teens in sexual health matters?",
+    "What are myths and misconceptions about teen sexual health?",
+    "How do hormonal changes influence emotions and sexual behavior during adolescence?",
+    "What resources are available for teens seeking confidential sexual health advice?",
+    "How does sexual orientation and gender identity relate to teen sexual health?",
+    "What safety measures should teens consider when exploring romantic and sexual relationships?"
+  ],
+  "retrieval_summary": "Teen sexual health encompasses the physical, emotional, and social well-being related to sexuality during adolescence, a key developmental period roughly from ages 10 to 19. It involves understanding and managing puberty-related physiological changes, safe sexual practices, consent, emotional readiness, and prevention of unintended pregnancies and sexually transmitted infections (STIs). Mechanistically, teen sexual health integrates biological processes such as hormonal changes that affect reproductive system maturation with psychosocial components like relationship dynamics and communication skills. Education about sexual health aims to equip teens with accurate information and skills to make informed decisions, prevent health risks, and foster healthy relationships. Major synonyms or related terms include 'adolescent reproductive health' and 'youth sexual education.' Limitations in teen sexual health education often stem from cultural sensitivities, misinformation, and uneven access to age-appropriate resources. Safety considerations emphasize confidential access to healthcare, respectful communication about boundaries and consent, and appropriate contraception use. This module provides comprehensive information and guidance for teens, caregivers, educators, and healthcare providers to support positive sexual health outcomes during adolescence.",
+  "learning_objectives": [
+    "Define teen sexual health and its components.",
+    "Describe physiological changes during puberty affecting sexual health.",
+    "Identify effective risk reduction strategies for STIs.",
+    "Explain the variety of contraception methods available to teens.",
+    "Understand the importance of consent in sexual relationships.",
+    "Recognize the impact of emotions and hormones on teen sexuality.",
+    "Identify common myths about teen sexual health and clarify facts.",
+    "List resources available to teens for sexual health support."
+  ],
+  "definition": "Teen sexual health is the state of physical, emotional, mental, and social well-being in relation to sexuality during adolescence. It includes understanding the body’s development, safe sexual practices, communication about intimacy and relationships, prevention of infections and unintended pregnancy, and positive self-image and respect for others.",
+  "why_this_matters": "Adolescence is a critical time of growth and exploration. Effective teen sexual health education empowers young people to make informed decisions, reduces risks of STIs and unintended pregnancies, supports emotional well-being, and promotes respect and consent. Improved teen sexual health leads to better lifelong health outcomes and healthier relationships.",
+  "sections": [
+    {
+      "heading": "Understanding Teen Sexual Health",
+      "content": "Teen sexual health refers to the holistic well-being concerning sexuality during the adolescent years. This includes physical aspects such as puberty and reproductive anatomy, emotional aspects including relationships and identity, and social aspects such as peer influence and cultural norms. A foundational understanding helps recognize normal development and when to seek guidance."
+    },
+    {
+      "heading": "Physiological Changes During Puberty",
+      "content": "Puberty triggers hormonal changes that affect the reproductive system, secondary sexual characteristics, and emotional regulation. In teens assigned female at birth, menstruation begins; in those assigned male, testicular and penile growth occurs. Hormones such as estrogen and testosterone impact libido and mood, influencing sexual development and behavior."
+    },
+    {
+      "heading": "Sexually Transmitted Infections (STIs) and Their Prevention",
+      "content": "STIs, including chlamydia, gonorrhea, HPV, and HIV, are infections transmitted primarily through sexual contact. Teens can reduce risk through abstinence, consistent condom use, limiting number of partners, and vaccination (e.g., HPV vaccine). Regular testing and open communication with healthcare providers are crucial for prevention and early treatment."
+    },
+    {
+      "heading": "Contraception Methods for Teens",
+      "content": "Various contraception options are available to prevent unintended pregnancy, including barrier methods (condoms), hormonal methods (birth control pills, patches, injections), intrauterine devices (IUDs), and fertility awareness. Condoms uniquely also reduce STI transmission. Teens should consult healthcare professionals to choose appropriate methods based on efficacy, side effects, and lifestyle."
+    },
+    {
+      "heading": "Importance of Consent and Communication",
+      "content": "Consent means giving clear, voluntary agreement to participate in sexual activity. Understanding and practicing consent respects personal boundaries and prevents coercion or abuse. Teens need education about affirmative consent, communication skills to negotiate limits, and recognizing non-verbal cues to foster safe and respectful relationships."
+    },
+    {
+      "heading": "Emotional and Psychological Aspects of Teen Sexuality",
+      "content": "Emotions and mental health strongly influence sexual behavior and relationships in teens. Hormonal fluctuations can cause mood swings and heightened sensitivity. Teens may face pressures from peers or partners, impacting decisions. Supportive environments and coping strategies help maintain psychological well-being during this complex developmental period."
+    },
+    {
+      "heading": "Myths and Misconceptions About Teen Sexual Health",
+      "content": "Common myths include beliefs such as 'birth control causes infertility' or 'you can’t get an STI from oral sex.' These misunderstandings can lead to risky behaviors. Providing accurate, science-based information helps dispel myths, enabling teens to make safer, informed choices about their sexual health."
+    },
+    {
+      "heading": "Supporting Teens: The Role of Parents and Caregivers",
+      "content": "Parents and caregivers play a crucial role by providing open, honest communication about sexual health, setting values while respecting teen autonomy, and facilitating access to healthcare resources. Creating a nonjudgmental atmosphere encourages teens to seek advice and share concerns."
+    },
+    {
+      "heading": "Sexual Orientation, Gender Identity, and Teen Sexual Health",
+      "content": "Recognizing diverse sexual orientations (e.g., lesbian, gay, bisexual) and gender identities (e.g., transgender, nonbinary) is essential for inclusive sexual health education. Affirming teens’ identities supports mental health, reduces stigma, and ensures access to appropriate resources and healthcare tailored to their needs."
+    },
+    {
+      "heading": "Confidentiality and Access to Sexual Health Services",
+      "content": "Confidential sexual health services allow teens to seek testing, contraception, and counseling without fear of unwanted disclosure. Knowledge of rights and available resources, including school-based clinics and youth-friendly healthcare providers, empowers teens to maintain their health safely and independently."
+    }
+  ],
+  "practical_guidance": [
+    "Encourage open, age-appropriate conversations about sexual health between teens and trusted adults.",
+    "Promote consistent and correct use of condoms to prevent STIs and unintended pregnancy.",
+    "Facilitate access to confidential sexual health services and education resources.",
+    "Support teens in understanding and practicing consent in all relationships.",
+    "Address myths by providing factual, evidence-based sexual health information.",
+    "Encourage vaccination against HPV and consider vaccination status during health visits.",
+    "Recognize and affirm diverse sexual orientations and gender identities to promote inclusive care.",
+    "Teach about emotional readiness and healthy relationship dynamics.",
+    "Help teens develop skills for negotiating boundaries and peer pressure.",
+    "Collaborate with schools and community programs to reinforce comprehensive sexual education."
+  ],
+  "safety_notes": [
+    "Always use condoms and/or other effective contraception methods to reduce risk of STIs and pregnancy.",
+    "Seek regular sexual health screenings as recommended by healthcare providers.",
+    "Confidentiality is critical; know local laws about consent and minors’ rights to access services.",
+    "Avoid misinformation and unreliable sources when researching sexual health topics.",
+    "Be aware of emotional impacts and seek support if experiencing distress or abuse."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Teen sexual health education encourages early sexual activity.",
+      "reality": "Evidence shows comprehensive sexual education delays sexual initiation and increases safe practices."
+    },
+    {
+      "misconception": "Condoms are not effective in preventing STIs.",
+      "reality": "Correct and consistent use of condoms significantly reduces the risk of most STIs."
+    },
+    {
+      "misconception": "Birth control pills cause infertility.",
+      "reality": "Hormonal contraceptives do not cause infertility; fertility typically returns quickly after stopping them."
+    },
+    {
+      "misconception": "You cannot get STIs through oral sex.",
+      "reality": "STIs can be transmitted through oral sex, making protection important."
+    }
+  ],
+  "clinical_pearls": [
+    "HPV vaccination is recommended typically starting at ages 11-12 to prevent cervical and other cancers.",
+    "Emergency contraception is safe for teens and can prevent pregnancy after unprotected sex.",
+    "Regular screening for STIs is important even if a teen has no symptoms.",
+    "Open dialogue about sexual health improves teens’ health outcomes and reduces risk-taking behavior.",
+    "Awareness of local laws about minors’ healthcare rights promotes better access to services."
+  ],
+  "key_takeaways": [
+    "Teen sexual health includes physical, emotional, and social well-being during adolescence.",
+    "Puberty induces significant hormonal and bodily changes influencing sexual development.",
+    "STI prevention relies on education, condom use, vaccination, and testing.",
+    "Various contraceptive methods empower teens to prevent unintended pregnancies.",
+    "Consent and communication are foundational to healthy sexual relationships.",
+    "Accurate information helps dispel myths and supports safe decision-making.",
+    "Parents and caregivers play a vital supportive role in teen sexual health.",
+    "Inclusive education respects diverse sexual orientations and gender identities."
+  ],
+  "glossary": [
+    {
+      "term": "Adolescence",
+      "definition": "The developmental period between childhood and adulthood, generally encompassing ages 10 to 19."
+    },
+    {
+      "term": "Consent",
+      "definition": "A clear and voluntary agreement to engage in a specific activity, such as sexual contact, without coercion."
+    },
+    {
+      "term": "Contraception",
+      "definition": "Methods or devices used to prevent pregnancy during sexual activity."
+    },
+    {
+      "term": "Hormones",
+      "definition": "Chemical messengers like estrogen and testosterone that regulate body functions including sexual development."
+    },
+    {
+      "term": "Human Papillomavirus (HPV)",
+      "definition": "A common viral infection that can cause genital warts and certain cancers; preventable by vaccine."
+    },
+    {
+      "term": "Puberty",
+      "definition": "The process of physical changes through which a child's body matures into an adult body capable of sexual reproduction."
+    },
+    {
+      "term": "Sexually Transmitted Infection (STI)",
+      "definition": "Infections transmitted primarily through sexual contact, including chlamydia, gonorrhea, HIV, and others."
+    },
+    {
+      "term": "Sexual Orientation",
+      "definition": "A person's pattern of emotional, romantic, or sexual attraction to others."
+    },
+    {
+      "term": "Gender Identity",
+      "definition": "An individual’s personal sense of their own gender, which may or may not correspond to their sex assigned at birth."
+    },
+    {
+      "term": "Emergency Contraception",
+      "definition": "Methods used after unprotected sex to prevent pregnancy, often called the 'morning-after pill'."
+    }
+  ],
+  "related_modules": [
+    "CHD-054 - Adolescent Mental Health",
+    "CHD-093 - Contraception and Family Planning",
+    "CHD-078 - Puberty and Physical Development"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-CHD075-001",
+      "title": "Stages of Pubertal Development",
+      "illustration_type": "Diagram",
+      "description": "Visual depiction of physical changes during puberty in males and females showing chronological progression and hormonal influences.",
+      "alt_text": "Diagram showing physical and hormonal changes in puberty for boys and girls."
+    },
+    {
+      "illustration_id": "ILL-CHD075-002",
+      "title": "Barrier Methods of Contraception",
+      "illustration_type": "Infographic",
+      "description": "Images and descriptions of condoms, diaphragms, and other barrier methods explaining usage and effectiveness.",
+      "alt_text": "Infographic illustrating different barrier contraceptive methods including condoms."
+    },
+    {
+      "illustration_id": "ILL-CHD075-003",
+      "title": "HPV Virus and Vaccination",
+      "illustration_type": "Medical Illustration",
+      "description": "Microscopic view of HPV virus and the mechanism of action of the HPV vaccine in preventing infection.",
+      "alt_text": "Medical illustration showing human papillomavirus and vaccine mechanism."
+    },
+    {
+      "illustration_id": "ILL-CHD075-004",
+      "title": "Consent Communication Flowchart",
+      "illustration_type": "Flowchart",
+      "description": "Stepwise diagram illustrating key components of obtaining and respecting consent in relationships.",
+      "alt_text": "Flowchart explaining steps for clear and affirmative consent communication."
+    }
+  ],
+  "references": [
+    {
+      "title": "Sexual Health in Adolescents and Young Adults",
+      "organization_or_authors": "World Health Organization",
+      "year": "2017",
+      "identifier": "WHO Reproductive Health Factsheet",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "AAP Policy Statement: Contraception for Adolescents",
+      "organization_or_authors": "American Academy of Pediatrics",
+      "year": "2014",
+      "identifier": "Pediatrics, 134(4):e1244-e1256",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "CDC Recommendations for STI Screening in Adolescents",
+      "organization_or_authors": "Centers for Disease Control and Prevention",
+      "year": "2021",
+      "identifier": "CDC Guidelines 2021",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Consensus Guidelines on Adolescent Sexual Health Education",
+      "organization_or_authors": "Society for Adolescent Health and Medicine",
+      "year": "2018",
+      "identifier": "J Adolesc Health, 62(2):S4-S7",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence supported by systematic reviews and authoritative public health guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

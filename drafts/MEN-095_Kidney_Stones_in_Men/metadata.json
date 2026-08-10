@@ -1,0 +1,40 @@
+{
+  "module_id": "MEN-095",
+  "title": "Kidney Stones in Men",
+  "subtitle": "Common causes, evidence-based evaluation, management, and safety related to kidney stones in men.",
+  "domain": "Men's Health",
+  "category": "Common Questions",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Treatment",
+    "Follow-up"
+  ],
+  "audience": [
+    "Men",
+    "Healthcare Consumers",
+    "Primary Care Providers",
+    "Urologists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Kidney stones",
+    "Nephrolithiasis",
+    "Men's health",
+    "Urolithiasis",
+    "Calcium oxalate stones",
+    "Hydration",
+    "Pain management",
+    "Stone prevention",
+    "Diagnosis",
+    "Treatment"
+  ],
+  "related_modules": [
+    "GEN-101_Men's_Urinary_Health",
+    "UTI-145_Urinary_Tract_Infections_in_Men",
+    "MEN-092_BPH_and_Lower_Urinary_Tract_Symptoms"
+  ],
+  "evidence_strength": "Established evidence supplemented with emerging insights on personalized prevention and newer surgical techniques.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

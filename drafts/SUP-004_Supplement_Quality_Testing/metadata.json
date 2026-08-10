@@ -1,0 +1,35 @@
+{
+  "module_id": "SUP-004",
+  "title": "Supplement Quality Testing",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for supplement quality testing.",
+  "domain": "Supplements",
+  "category": "Supplement Foundations",
+  "som_stages": [
+    "Foundation",
+    "Application"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Supplement Industry Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Supplement Quality",
+    "Testing",
+    "Purity",
+    "Potency",
+    "Contaminants",
+    "Regulation",
+    "Verification",
+    "Safety"
+  ],
+  "related_modules": [
+    "SUP-001",
+    "SUP-005",
+    "SUP-007"
+  ],
+  "evidence_strength": "Established evidence derived from regulatory standards, analytical chemistry, and official guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

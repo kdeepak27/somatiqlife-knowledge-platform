@@ -1,0 +1,37 @@
+{
+  "module_id": "MEN-100",
+  "title": "Integrating Men's Health: Practical Synthesis",
+  "subtitle": "An integrated evidence-based synthesis of men's health concepts, priorities, practical application, and safety.",
+  "domain": "Men's Health",
+  "category": "Integrated Practice",
+  "som_stages": [
+    "Prevention",
+    "Assessment",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Men's health",
+    "male physiology",
+    "andrology",
+    "mental health",
+    "preventive care",
+    "sexual health",
+    "chronic disease",
+    "lifestyle"
+  ],
+  "related_modules": [
+    "MEN-210",
+    "MEN-305",
+    "GEN-101"
+  ],
+  "evidence_strength": "Established evidence for core concepts; moderate evidence for emerging interventions; some areas with uncertain evidence due to gaps in research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

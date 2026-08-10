@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-043",
+  "title": "Senior Multivitamins",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for senior multivitamins.",
+  "domain": "Supplements",
+  "category": "Vitamins",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Seniors",
+    "Caregivers",
+    "Healthcare Professionals",
+    "Consumers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "multivitamins",
+    "seniors",
+    "elderly nutrition",
+    "vitamin supplements",
+    "mineral supplements",
+    "dietary supplements",
+    "nutrition",
+    "vitamin D",
+    "B12",
+    "calcium"
+  ],
+  "related_modules": [
+    "NUT-015",
+    "SUP-021",
+    "SUP-056"
+  ],
+  "evidence_strength": "Moderate evidence with recognized limitations and ongoing research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

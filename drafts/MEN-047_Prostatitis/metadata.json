@@ -1,0 +1,38 @@
+{
+  "module_id": "MEN-047",
+  "title": "Prostatitis",
+  "subtitle": "Risk, symptoms, screening, evidence, and management related to prostatitis.",
+  "domain": "Men's Health",
+  "category": "Prostate and Urinary Health",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "General Public"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "prostatitis",
+    "prostate inflammation",
+    "urinary symptoms",
+    "chronic pelvic pain syndrome",
+    "prostate health",
+    "digital rectal exam",
+    "antibiotics",
+    "pelvic pain",
+    "urinary frequency",
+    "men's health"
+  ],
+  "related_modules": [
+    "MEN-033",
+    "MEN-045",
+    "MEN-050"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and bacterial treatment; moderate evidence for nonbacterial management; emerging evidence for novel therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
