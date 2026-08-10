@@ -1,0 +1,36 @@
+{
+  "module_id": "LAB-098",
+  "title": "Copper Test",
+  "subtitle": "What copper test measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Vitamins Minerals and Bone",
+  "som_stages": [
+    "Diagnostic",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Copper test",
+    "Serum copper",
+    "Ceruloplasmin",
+    "Copper deficiency",
+    "Copper toxicity",
+    "Trace minerals",
+    "Biomarkers",
+    "Laboratory testing",
+    "Wilson's disease",
+    "Menkes disease"
+  ],
+  "related_modules": [
+    "LAB-045",
+    "LAB-067",
+    "GEN-011"
+  ],
+  "evidence_strength": "Established evidence for copper metabolism and clinical utility of copper testing; moderate evidence for emerging biomarkers; well-documented limitations and interpretational challenges.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
