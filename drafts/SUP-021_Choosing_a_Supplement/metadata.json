@@ -1,0 +1,35 @@
+{
+  "module_id": "SUP-021",
+  "title": "Choosing a Supplement",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for choosing a supplement.",
+  "domain": "Supplements",
+  "category": "Supplement Foundations",
+  "som_stages": [
+    "Foundational Understanding"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "supplements",
+    "dietary supplements",
+    "nutritional supplements",
+    "dosing",
+    "safety",
+    "interactions",
+    "efficacy",
+    "quality",
+    "regulation"
+  ],
+  "related_modules": [
+    "SUP-015",
+    "SUP-034",
+    "NUTR-010"
+  ],
+  "evidence_strength": "Established for some supplements; variable and emerging for many others; safety profile depends on product and context.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-025",
+  "title": "Building a Safe Supplement Plan",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for building a safe supplement plan.",
+  "domain": "Supplements",
+  "category": "Supplement Foundations",
+  "som_stages": [
+    "Awareness",
+    "Consideration",
+    "Decision"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "supplement plan",
+    "safety",
+    "dosing",
+    "interactions",
+    "nutritional supplements",
+    "natural products",
+    "evidence-based supplementation"
+  ],
+  "related_modules": [
+    "SUP-010",
+    "SUP-031",
+    "PHARM-015",
+    "NUTR-022"
+  ],
+  "evidence_strength": "Established evidence for dosing and safety; moderate evidence for interaction specifics; emerging evidence for some supplement claims; limitations due to regulatory variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
