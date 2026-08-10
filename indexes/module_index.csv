@@ -99,6 +99,11 @@ CHD-097,Autism and Healthy Routines,Children and Adolescents,Special Topics,1.0,
 CHD-098,Eating Disorders in Adolescents,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-098_Eating_Disorders_in_Adolescents/module.json
 CHD-099,Menstrual Health for Teen Girls,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-099_Menstrual_Health_for_Teen_Girls/module.json
 CHD-100,Healthy Transition to College,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-100_Healthy_Transition_to_College/module.json
+LAB-001,Understanding Laboratory Tests,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-001_Understanding_Laboratory_Tests/module.json
+LAB-002,Reference Ranges,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-002_Reference_Ranges/module.json
+LAB-003,Normal vs Optimal Lab Values,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-003_Normal_vs_Optimal_Lab_Values/module.json
+LAB-004,Fasting Before Blood Tests,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-004_Fasting_Before_Blood_Tests/module.json
+LAB-005,Preparing for Blood Tests,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-005_Preparing_for_Blood_Tests/module.json
 MEN-001,Men's Health Across Adulthood,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-001_Men's_Health_Across_Adulthood/module.json
 MEN-002,Male Reproductive Anatomy,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-002_Male_Reproductive_Anatomy/module.json
 MEN-003,Male Reproductive Hormones,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-003_Male_Reproductive_Hormones/module.json
@@ -354,3 +359,48 @@ SUP-152,Magnesium for Sleep,Supplements,Sleep Stress and Cognition,1.0,drafts,dr
 SUP-153,Valerian,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-153_Valerian/module.json
 SUP-154,L-Theanine,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-154_L-Theanine/module.json
 SUP-155,Glycine for Sleep,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-155_Glycine_for_Sleep/module.json
+SUP-156,Ashwagandha,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-156_Ashwagandha/module.json
+SUP-157,Rhodiola,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-157_Rhodiola/module.json
+SUP-158,Chamomile Supplements,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-158_Chamomile_Supplements/module.json
+SUP-159,Lavender Supplements,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-159_Lavender_Supplements/module.json
+SUP-160,Passionflower,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-160_Passionflower/module.json
+SUP-161,GABA Supplements,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-161_GABA_Supplements/module.json
+SUP-162,5-HTP,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-162_5-HTP/module.json
+SUP-163,SAM-e,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-163_SAM-e/module.json
+SUP-164,St John's Wort,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-164_St_John's_Wort/module.json
+SUP-165,Omega-3s and Mood,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-165_Omega-3s_and_Mood/module.json
+SUP-166,Vitamin D and Mood,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-166_Vitamin_D_and_Mood/module.json
+SUP-167,B Vitamins and Cognition,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-167_B_Vitamins_and_Cognition/module.json
+SUP-168,Creatine and Cognition,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-168_Creatine_and_Cognition/module.json
+SUP-169,Citicoline,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-169_Citicoline/module.json
+SUP-170,Alpha-GPC,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-170_Alpha-GPC/module.json
+SUP-171,Phosphatidylserine,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-171_Phosphatidylserine/module.json
+SUP-172,Bacopa,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-172_Bacopa/module.json
+SUP-173,Ginkgo Biloba,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-173_Ginkgo_Biloba/module.json
+SUP-174,Nootropic Supplements,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-174_Nootropic_Supplements/module.json
+SUP-175,Sleep and Stress Supplement Safety,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-175_Sleep_and_Stress_Supplement_Safety/module.json
+SUP-176,Collagen Supplements,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-176_Collagen_Supplements/module.json
+SUP-177,Glucosamine,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-177_Glucosamine/module.json
+SUP-178,Chondroitin,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-178_Chondroitin/module.json
+SUP-179,MSM,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-179_MSM/module.json
+SUP-180,Curcumin,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-180_Curcumin/module.json
+SUP-181,Boswellia,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-181_Boswellia/module.json
+SUP-182,Vitamin D for Bone Health,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-182_Vitamin_D_for_Bone_Health/module.json
+SUP-183,Calcium for Bone Health,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-183_Calcium_for_Bone_Health/module.json
+SUP-184,Creatine for Older Adults,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-184_Creatine_for_Older_Adults/module.json
+SUP-185,Protein Supplements for Older Adults,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-185_Protein_Supplements_for_Older_Adults/module.json
+SUP-186,CoQ10 for Older Adults,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-186_CoQ10_for_Older_Adults/module.json
+SUP-187,Resveratrol,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-187_Resveratrol/module.json
+SUP-188,NMN,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-188_NMN/module.json
+SUP-189,NAD Precursors,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-189_NAD_Precursors/module.json
+SUP-190,Spermidine,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-190_Spermidine/module.json
+SUP-191,Urolithin A,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-191_Urolithin_A/module.json
+SUP-192,Astaxanthin,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-192_Astaxanthin/module.json
+SUP-193,Lutein and Zeaxanthin,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-193_Lutein_and_Zeaxanthin/module.json
+SUP-194,AREDS Eye Supplements,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-194_AREDS_Eye_Supplements/module.json
+SUP-195,Saw Palmetto,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-195_Saw_Palmetto/module.json
+SUP-196,Cranberry Supplements,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-196_Cranberry_Supplements/module.json
+SUP-197,D-Mannose,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-197_D-Mannose/module.json
+SUP-198,Hair Skin and Nail Supplements,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-198_Hair_Skin_and_Nail_Supplements/module.json
+SUP-199,Joint Health Supplements,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-199_Joint_Health_Supplements/module.json
+SUP-200,Longevity Supplement Claims,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-200_Longevity_Supplement_Claims/module.json
