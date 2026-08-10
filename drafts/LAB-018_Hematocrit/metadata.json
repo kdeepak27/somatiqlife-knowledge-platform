@@ -1,0 +1,40 @@
+{
+  "module_id": "LAB-018",
+  "title": "Hematocrit",
+  "subtitle": "What hematocrit measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Blood Count and Iron",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring",
+    "Prognosis"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Medical Students",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "hematocrit",
+    "red blood cells",
+    "packed cell volume",
+    "blood concentration",
+    "anemia",
+    "polycythemia",
+    "blood test",
+    "CBC",
+    "blood viscosity",
+    "hemoglobin"
+  ],
+  "related_modules": [
+    "LAB-015-Hemoglobin",
+    "LAB-020-Complete-Blood-Count",
+    "LAB-021-Iron-Studies"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and laboratory standards.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
