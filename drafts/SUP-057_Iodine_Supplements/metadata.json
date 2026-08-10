@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-057",
+  "title": "Iodine Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for iodine supplements.",
+  "domain": "Supplements",
+  "category": "Minerals",
+  "som_stages": [
+    "Awareness",
+    "Consideration",
+    "Decision"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "iodine",
+    "iodine supplements",
+    "thyroid health",
+    "iodine deficiency",
+    "mineral supplements",
+    "iodine toxicity",
+    "iodine dosing",
+    "iodine interactions"
+  ],
+  "related_modules": [
+    "SUP-045-Thyroid-Health",
+    "SUP-066-Selenium-Supplements",
+    "NUT-022-Pregnancy-Nutrition"
+  ],
+  "evidence_strength": "Established evidence for iodine supplementation in iodine deficiency prevention; moderate and emerging evidence for its broader health effects; safety data strongly supports dosing limits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

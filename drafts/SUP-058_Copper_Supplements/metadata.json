@@ -1,0 +1,34 @@
+{
+  "module_id": "SUP-058",
+  "title": "Copper Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for copper supplements.",
+  "domain": "Supplements",
+  "category": "Minerals",
+  "som_stages": [
+    "General Wellness",
+    "Nutritional Support"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Copper",
+    "Copper supplementation",
+    "Trace minerals",
+    "Copper deficiency",
+    "Copper toxicity",
+    "Minerals",
+    "Dietary supplements"
+  ],
+  "related_modules": [
+    "SUP-045",
+    "SUP-061",
+    "NUTR-010"
+  ],
+  "evidence_strength": "Established evidence for copper supplementation in deficiency states; moderate evidence regarding safety and interactions; emerging evidence in special populations; limitations due to lack of large RCTs for supplementation in general population.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
