@@ -104,6 +104,56 @@ LAB-002,Reference Ranges,Laboratory Tests and Biomarkers,Lab Testing Foundations
 LAB-003,Normal vs Optimal Lab Values,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-003_Normal_vs_Optimal_Lab_Values/module.json
 LAB-004,Fasting Before Blood Tests,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-004_Fasting_Before_Blood_Tests/module.json
 LAB-005,Preparing for Blood Tests,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-005_Preparing_for_Blood_Tests/module.json
+LAB-006,Biological Variation in Lab Results,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-006_Biological_Variation_in_Lab_Results/module.json
+LAB-007,Lab Measurement Error,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-007_Lab_Measurement_Error/module.json
+LAB-008,False Positive Lab Results,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-008_False_Positive_Lab_Results/module.json
+LAB-009,False Negative Lab Results,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-009_False_Negative_Lab_Results/module.json
+LAB-010,Repeat Testing,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-010_Repeat_Testing/module.json
+LAB-011,Trending Lab Results Over Time,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-011_Trending_Lab_Results_Over_Time/module.json
+LAB-012,Units in Laboratory Testing,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-012_Units_in_Laboratory_Testing/module.json
+LAB-013,Age and Lab Values,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-013_Age_and_Lab_Values/module.json
+LAB-014,Sex and Lab Values,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-014_Sex_and_Lab_Values/module.json
+LAB-015,Medication Effects on Lab Tests,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-015_Medication_Effects_on_Lab_Tests/module.json
+LAB-016,Complete Blood Count,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-016_Complete_Blood_Count/module.json
+LAB-017,Hemoglobin,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-017_Hemoglobin/module.json
+LAB-018,Hematocrit,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-018_Hematocrit/module.json
+LAB-019,Red Blood Cell Count,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-019_Red_Blood_Cell_Count/module.json
+LAB-020,Mean Corpuscular Volume,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-020_Mean_Corpuscular_Volume/module.json
+LAB-021,White Blood Cell Count,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-021_White_Blood_Cell_Count/module.json
+LAB-022,Neutrophils,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-022_Neutrophils/module.json
+LAB-023,Lymphocytes,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-023_Lymphocytes/module.json
+LAB-024,Platelet Count,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-024_Platelet_Count/module.json
+LAB-025,Ferritin,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-025_Ferritin/module.json
+LAB-026,Serum Iron,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-026_Serum_Iron/module.json
+LAB-027,Total Iron-Binding Capacity,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-027_Total_Iron-Binding_Capacity/module.json
+LAB-028,Transferrin Saturation,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-028_Transferrin_Saturation/module.json
+LAB-029,Vitamin B12 Test,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-029_Vitamin_B12_Test/module.json
+LAB-030,Folate Test,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-030_Folate_Test/module.json
+LAB-031,Fasting Glucose,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-031_Fasting_Glucose/module.json
+LAB-032,HbA1c,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-032_HbA1c/module.json
+LAB-033,Oral Glucose Tolerance Test,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-033_Oral_Glucose_Tolerance_Test/module.json
+LAB-034,Random Glucose,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-034_Random_Glucose/module.json
+LAB-035,Fasting Insulin,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-035_Fasting_Insulin/module.json
+LAB-036,C-Peptide,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-036_C-Peptide/module.json
+LAB-037,HOMA-IR,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-037_HOMA-IR/module.json
+LAB-038,Fructosamine,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-038_Fructosamine/module.json
+LAB-039,Ketones,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-039_Ketones/module.json
+LAB-040,Lactate,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-040_Lactate/module.json
+LAB-041,Uric Acid,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-041_Uric_Acid/module.json
+LAB-042,Metabolic Panel,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-042_Metabolic_Panel/module.json
+LAB-043,Anion Gap,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-043_Anion_Gap/module.json
+LAB-044,Bicarbonate,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-044_Bicarbonate/module.json
+LAB-045,Serum Osmolality,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-045_Serum_Osmolality/module.json
+LAB-046,Total Cholesterol,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-046_Total_Cholesterol/module.json
+LAB-047,LDL Cholesterol,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-047_LDL_Cholesterol/module.json
+LAB-048,HDL Cholesterol,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-048_HDL_Cholesterol/module.json
+LAB-049,Triglycerides,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-049_Triglycerides/module.json
+LAB-050,Non-HDL Cholesterol,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-050_Non-HDL_Cholesterol/module.json
+LAB-051,Apolipoprotein B,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-051_Apolipoprotein_B/module.json
+LAB-052,Lipoprotein(a),Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-052_Lipoprotein(a)/module.json
+LAB-053,LDL Particle Number,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-053_LDL_Particle_Number/module.json
+LAB-054,Small Dense LDL,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-054_Small_Dense_LDL/module.json
+LAB-055,High-Sensitivity C-Reactive Protein,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-055_High-Sensitivity_C-Reactive_Protein/module.json
 MEN-001,Men's Health Across Adulthood,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-001_Men's_Health_Across_Adulthood/module.json
 MEN-002,Male Reproductive Anatomy,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-002_Male_Reproductive_Anatomy/module.json
 MEN-003,Male Reproductive Hormones,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-003_Male_Reproductive_Hormones/module.json
