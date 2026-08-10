@@ -1,0 +1,39 @@
+{
+  "module_id": "SUP-075",
+  "title": "Mineral Supplements for Athletes",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for mineral supplements for athletes.",
+  "domain": "Supplements",
+  "category": "Minerals",
+  "som_stages": [
+    "Training",
+    "Competition",
+    "Recovery"
+  ],
+  "audience": [
+    "Athletes",
+    "Coaches",
+    "Sports Nutritionists",
+    "Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "minerals",
+    "supplements",
+    "athletes",
+    "dosing",
+    "safety",
+    "interactions",
+    "magnesium",
+    "iron",
+    "calcium",
+    "zinc"
+  ],
+  "related_modules": [
+    "SUP-048",
+    "SUP-099",
+    "SUP-102"
+  ],
+  "evidence_strength": "Established evidence for mineral supplementation benefits in deficient athletes; moderate evidence for supplementation in well-nourished populations; emerging research on optimized dosing protocols.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
