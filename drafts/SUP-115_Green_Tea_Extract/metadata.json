@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-115",
+  "title": "Green Tea Extract",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for green tea extract.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "green tea extract",
+    "catechins",
+    "EGCG",
+    "cardiometabolic health",
+    "antioxidants",
+    "supplements",
+    "dosage",
+    "safety",
+    "interactions"
+  ],
+  "related_modules": [
+    "SUP-102",
+    "SUP-118",
+    "SUP-142"
+  ],
+  "evidence_strength": "Moderate evidence from randomized controlled trials and meta-analyses supports cardiometabolic benefits of green tea extract, with some inconsistency due to heterogeneity of studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
