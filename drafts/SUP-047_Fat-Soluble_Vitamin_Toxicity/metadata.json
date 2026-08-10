@@ -1,0 +1,37 @@
+{
+  "module_id": "SUP-047",
+  "title": "Fat-Soluble Vitamin Toxicity",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for fat-soluble vitamin toxicity.",
+  "domain": "Supplements",
+  "category": "Vitamins",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Fat-Soluble Vitamins",
+    "Vitamin A Toxicity",
+    "Vitamin D Toxicity",
+    "Vitamin E Toxicity",
+    "Vitamin K Toxicity",
+    "Hypervitaminosis",
+    "Supplement Safety",
+    "Vitamin Overdose"
+  ],
+  "related_modules": [
+    "SUP-012",
+    "SUP-028",
+    "NUT-115"
+  ],
+  "evidence_strength": "Established evidence for vitamin A and D toxicity mechanisms and clinical presentation; moderate evidence for vitamin E bleeding risk; low to negligible toxicity risk for vitamin K with dietary forms; emerging research on genetic susceptibility and metabolism variations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

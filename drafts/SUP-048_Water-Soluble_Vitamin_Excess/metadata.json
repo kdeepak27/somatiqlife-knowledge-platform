@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-048",
+  "title": "Water-Soluble Vitamin Excess",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for water-soluble vitamin excess.",
+  "domain": "Supplements",
+  "category": "Vitamins",
+  "som_stages": [
+    "Prevention",
+    "Monitoring",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Moderate (Undergraduate level)",
+  "keywords": [
+    "water-soluble vitamins",
+    "vitamin excess",
+    "vitamin toxicity",
+    "hypervitaminosis",
+    "B-complex vitamins",
+    "vitamin C",
+    "safety",
+    "dosing",
+    "supplement interactions"
+  ],
+  "related_modules": [
+    "SUP-010-VitaminBComplex",
+    "SUP-015-VitaminCMisc",
+    "SUP-025-VitaminToxicityGeneral",
+    "MET-002-KidneyFunctionBasics"
+  ],
+  "evidence_strength": "Established evidence for acute toxicity of vitamin B6 and niacin; moderate evidence for vitamin C-related adverse effects; emerging evidence for long-term outcomes of chronic excess; clinical guidelines based on observational and experimental data.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

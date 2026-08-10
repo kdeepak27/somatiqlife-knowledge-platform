@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-049",
+  "title": "Vitamin Supplements for Vegans",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for vitamin supplements for vegans.",
+  "domain": "Supplements",
+  "category": "Vitamins",
+  "som_stages": [
+    "prevention",
+    "maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Dietitians",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "vegan",
+    "vitamin supplements",
+    "B12",
+    "D",
+    "iron",
+    "calcium",
+    "omega-3",
+    "nutrient deficiency",
+    "plant-based diet",
+    "supplement safety"
+  ],
+  "related_modules": [
+    "SUP-034 Vegan Diet Basics",
+    "SUP-056 Omega-3 Fatty Acids",
+    "SUP-012 Iron Deficiency and Supplementation"
+  ],
+  "evidence_strength": "Established evidence for vitamin B12 and D supplementation; moderate evidence for iron, calcium, and omega-3 supplementation; emerging evidence on optimal dosing and formulations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
