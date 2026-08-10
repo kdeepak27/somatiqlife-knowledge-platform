@@ -1,0 +1,37 @@
+{
+  "module_id": "SUP-188",
+  "title": "NMN",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for nmn.",
+  "domain": "Supplements",
+  "category": "Healthy Aging and Specialty Supplements",
+  "som_stages": [
+    "Wellness Maintenance",
+    "Healthy Aging"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Moderate (Grade 10+ with scientific terms explained)",
+  "keywords": [
+    "NMN",
+    "Nicotinamide mononucleotide",
+    "NAD+ precursor",
+    "Aging",
+    "Supplements",
+    "Healthy aging",
+    "Cell metabolism",
+    "Safety",
+    "Dosage",
+    "Interactions"
+  ],
+  "related_modules": [
+    "SUP-059-NADPlusMetabolism",
+    "SUP-112-NicotinamideRiboside",
+    "SUP-153-AntiAgingSupplements"
+  ],
+  "evidence_strength": "Preliminary Human Evidence with Strong Preclinical Support",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
