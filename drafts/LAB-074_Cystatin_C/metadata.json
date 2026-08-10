@@ -1,0 +1,36 @@
+{
+  "module_id": "LAB-074",
+  "title": "Cystatin C",
+  "subtitle": "What cystatin c measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Liver and Kidney",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Clinicians",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Cystatin C",
+    "Kidney function",
+    "GFR",
+    "Glomerular filtration rate",
+    "Biomarker",
+    "Renal function test",
+    "Chronic kidney disease",
+    "Serum cystatin C"
+  ],
+  "related_modules": [
+    "LAB-012",
+    "LAB-098",
+    "LAB-103"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
