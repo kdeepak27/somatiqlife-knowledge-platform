@@ -1,0 +1,39 @@
+{
+  "module_id": "SUP-093",
+  "title": "Electrolyte Powders",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for electrolyte powders.",
+  "domain": "Supplements",
+  "category": "Performance Supplements",
+  "som_stages": [
+    "Prevention",
+    "Performance Optimization",
+    "Recovery"
+  ],
+  "audience": [
+    "Consumers",
+    "Athletes",
+    "Nutritionists",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "electrolyte powders",
+    "hydration",
+    "sodium",
+    "potassium",
+    "magnesium",
+    "calcium",
+    "sports supplements",
+    "oral rehydration",
+    "performance",
+    "safety"
+  ],
+  "related_modules": [
+    "SUP-021",
+    "SUP-024",
+    "NUT-015"
+  ],
+  "evidence_strength": "Moderate evidence supports efficacy for hydration and athletic performance; Safety profiles are well established under appropriate use conditions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

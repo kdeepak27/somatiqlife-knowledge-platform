@@ -1,0 +1,248 @@
+{
+  "module_id": "SUP-093",
+  "title": "Electrolyte Powders",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for electrolyte powders.",
+  "domain": "Supplements",
+  "category": "Performance Supplements",
+  "som_stages": [
+    "Prevention",
+    "Performance Optimization",
+    "Recovery"
+  ],
+  "audience": [
+    "Consumers",
+    "Athletes",
+    "Nutritionists",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "electrolyte powders",
+    "hydration",
+    "sodium",
+    "potassium",
+    "magnesium",
+    "calcium",
+    "sports supplements",
+    "oral rehydration",
+    "performance",
+    "safety"
+  ],
+  "customer_questions": [
+    "What are electrolyte powders and how do they work?",
+    "Which electrolytes are typically included in electrolyte powders?",
+    "How do electrolyte powders improve athletic performance?",
+    "Are electrolyte powders safe for daily use?",
+    "What is the recommended dosage of electrolyte powders for hydration?",
+    "Can electrolyte powders prevent muscle cramps?",
+    "Are there any side effects or risks associated with electrolyte powders?",
+    "How do electrolyte powders compare to electrolyte tablets or drinks?",
+    "Can electrolyte powders be used for medical dehydration?",
+    "Do electrolyte powders interact with any medications?",
+    "Are electrolyte powders suitable for children and elderly?",
+    "How should electrolyte powders be prepared and consumed?"
+  ],
+  "retrieval_summary": "Electrolyte powders are supplement formulations designed to restore or maintain optimal electrolyte balance and hydration by providing minerals like sodium, potassium, magnesium, and calcium. These essential electrolytes regulate fluid balance, nerve conduction, and muscle function. Electrolyte powders dissolve in water for easy consumption, commonly used by athletes to counteract dehydration during or after intense exercise and by individuals experiencing fluid loss due to illness. The mechanisms involve replenishing ions lost in sweat, thereby helping sustain cellular function, avoiding cramping, and supporting cardiovascular and neuromuscular systems. Synonyms for such products include oral rehydration salts, hydration powders, and mineral electrolyte blends. Limitations of electrolyte powders include variable bioavailability depending on formulation, individual electrolyte needs, and potential for overconsumption leading to imbalances. Safety considerations emphasize appropriate usage, avoiding excessive intake particularly in individuals with kidney disease or cardiovascular conditions. These powders differ from ready-to-drink electrolyte beverages by their convenience, customizable concentrations, and typically lower cost. Evidence supports their efficacy in improving hydration status and physical performance mainly in exercise contexts and acute dehydration but remains moderate regarding chronic health benefits. Practical application requires awareness of dosing aligned to sweat losses, activity intensity, and environmental conditions. Overall, electrolyte powders are valuable tools for hydration and performance support when used judiciously.",
+  "learning_objectives": [
+    "Define electrolyte powders and identify their key components.",
+    "Explain the physiological role of electrolytes in fluid balance and muscle function.",
+    "Describe mechanisms by which electrolyte powders improve hydration and performance.",
+    "Summarize current evidence on efficacy and safety of electrolyte powders.",
+    "List recommended dosing strategies and considerations for different populations.",
+    "Identify potential interactions and contraindications with electrolyte powder use.",
+    "Recognize common misconceptions regarding electrolyte use and supplementation.",
+    "Apply practical guidance for safe and effective electrolyte powder consumption."
+  ],
+  "definition": "Electrolyte powders are powdered supplement products formulated with essential minerals such as sodium, potassium, magnesium, and calcium, designed to be dissolved in water to restore or maintain electrolyte and fluid balance in the body, particularly during or after exercise, illness, or conditions causing fluid loss.",
+  "why_this_matters": "Maintaining electrolyte balance is critical for nerve signaling, muscle contraction, and hydration. Electrolyte powders provide a convenient and efficient method to replenish lost minerals and prevent dehydration-related issues, supporting athletic performance, recovery, and general health, especially when fluid losses are elevated.",
+  "sections": [
+    {
+      "heading": "What Are Electrolyte Powders?",
+      "content": "Electrolyte powders are dietary supplements composed of mineral salts including sodium chloride, potassium citrate, magnesium oxide, and calcium carbonate, formulated to dissolve in water. They help replace electrolytes lost through sweat, urine, or illness-induced fluid loss. These powders are used in sports nutrition, clinical hydration, and daily wellness."
+    },
+    {
+      "heading": "Key Electrolytes Included and Their Physiological Roles",
+      "content": "The primary electrolytes in powders are sodium, potassium, magnesium, and calcium. Sodium regulates extracellular fluid volume and nerve impulses, potassium maintains intracellular fluid balance and muscle function, magnesium supports enzymatic processes and muscle relaxation, and calcium is essential for muscle contraction and bone health."
+    },
+    {
+      "heading": "Mechanisms of Action: How Electrolyte Powders Support Hydration and Performance",
+      "content": "When dissolved and ingested, electrolyte powders replenish ion concentrations lost via sweat and other fluid losses. This restoration assists in maintaining plasma osmolality, cellular function, and neuromuscular efficiency, minimizing risks of cramps, fatigue, and dehydration, thereby optimizing physical endurance and recovery."
+    },
+    {
+      "heading": "Evidence for Electrolyte Powder Use in Athletic Performance",
+      "content": "Systematic reviews and randomized trials provide moderate evidence that electrolyte supplementation improves hydration markers and reduces muscle cramping in endurance and high-intensity sports. Evidence for enhanced performance is stronger in hot environments or prolonged exertion. Some studies note improved time-to-exhaustion and reduced perceived exertion."
+    },
+    {
+      "heading": "Dosing Guidelines: How Much and When to Use Electrolyte Powders",
+      "content": "Optimal dosing depends on individual sweat rates, exercise duration, intensity, and environmental conditions. Typical sodium content ranges between 300-700 mg per serving, with potassium around 200 mg. Sports nutrition guidelines recommend consuming electrolyte powders before, during, and after exercise to sustain balance and avoid hyponatremia or dehydration."
+    },
+    {
+      "heading": "Safety Considerations and Potential Risks",
+      "content": "Electrolyte powders are generally safe when used according to labeling. Overconsumption may cause hypernatremia, hyperkalemia, or gastrointestinal discomfort. People with kidney disease, heart conditions, or those on medications affecting electrolyte balance should consult healthcare providers before use. Clean water and proper preparation are essential to avoid contamination."
+    },
+    {
+      "heading": "Comparison with Other Forms: Powders vs. Tablets vs. Ready-to-Drink",
+      "content": "Compared to tablets, powders offer customizable concentration and faster absorption. Versus ready-to-drink beverages, powders are more portable and economical, with longer shelf life. However, taste and convenience may favor pre-mixed drinks. All forms aim to deliver similar electrolyte profiles but differ in user preference and situational suitability."
+    },
+    {
+      "heading": "Electrolyte Powders in Medical and Clinical Contexts",
+      "content": "Oral rehydration salts (ORS), a form of electrolyte powders, are crucial in treating dehydration caused by diarrhea or illness, especially in low-resource settings. Clinical guidelines recommend ORS formulations with specific electrolyte and glucose content to maximize absorption and restore fluid balance effectively."
+    },
+    {
+      "heading": "Common Misconceptions About Electrolyte Powders",
+      "content": "There is a misconception that electrolyte powders alone can prevent muscle cramps; evidence indicates cramps are multifactorial. Some believe all electrolyte powders are identical, but formulations vary in composition and concentration. Another myth is that they can replace water intake; in reality, both hydration and electrolyte replacement are necessary."
+    },
+    {
+      "heading": "Practical Tips for Selection, Preparation, and Use",
+      "content": "Choose electrolyte powders based on exercise type, duration, and personal sweat profile. Follow manufacturer dosing instructions and dissolve powders fully in clean water to ensure appropriate dilution and taste. Monitor for signs of electrolyte imbalance, and avoid excessive daily use unless advised by healthcare providers."
+    },
+    {
+      "heading": "Interactions and Contraindications to Consider",
+      "content": "Electrolyte powders containing potassium or magnesium may interact with medications such as diuretics, ACE inhibitors, or cardiac drugs. Individuals with renal insufficiency must use with caution. Healthcare consultation is advised when taking chronic medications or underlying health conditions exist."
+    },
+    {
+      "heading": "Future Directions and Emerging Evidence",
+      "content": "Ongoing research explores personalized electrolyte formulations based on genetic and sweat analysis to optimize hydration strategies. Emerging evidence suggests magnesium-rich powders may support muscle recovery, though large-scale trials are needed. Development of low-sugar and natural-flavor blends responds to consumer health preferences."
+    }
+  ],
+  "practical_guidance": [
+    "Select products that clearly list electrolyte content per serving.",
+    "Determine personal sweat rate and electrolyte loss for dosing adjustments.",
+    "Prepare powder in clean, potable water at recommended concentrations.",
+    "Use electrolyte powders during prolonged or intense activity or illness-related dehydration.",
+    "Consult healthcare providers before use if you have pre-existing medical conditions or take certain medications."
+  ],
+  "safety_notes": [
+    "Do not exceed recommended daily intake to avoid electrolyte imbalances.",
+    "People with kidney or heart disease should use electrolyte powders cautiously and under medical supervision.",
+    "Ensure clean water is used to mix powders to prevent infections.",
+    "Discontinue use if allergic reaction or gastrointestinal distress occurs.",
+    "Keep powders out of reach of children to avoid accidental overdose."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Electrolyte powders alone can prevent muscle cramps during exercise.",
+      "reality": "Muscle cramps have multiple causes including neuromuscular fatigue and electrolyte imbalance; powders may help but do not guarantee prevention."
+    },
+    {
+      "misconception": "All electrolyte powders have the same ingredients and effects.",
+      "reality": "Formulations vary widely in types and amounts of minerals, affecting efficacy and suitability for individuals."
+    },
+    {
+      "misconception": "Electrolyte powders can replace all water intake during exercise.",
+      "reality": "Hydration requires both fluid and electrolyte replacement; water consumption remains essential."
+    }
+  ],
+  "clinical_pearls": [
+    "Monitor athlete hydration status via weight changes and urine color during prolonged exercise.",
+    "Electrolyte powders are useful in hot and humid environments to prevent heat-related illnesses.",
+    "Start rehydration with powders early during exercise rather than waiting for symptoms of dehydration.",
+    "Beware of products high in sugar that may cause gastrointestinal upset.",
+    "Individualize dosing based on activity and sweat characteristics for optimal results."
+  ],
+  "key_takeaways": [
+    "Electrolyte powders replenish essential minerals lost during fluid depletion events.",
+    "Key electrolytes include sodium, potassium, magnesium, and calcium, vital for hydration and muscle function.",
+    "Evidence supports their use to improve hydration and reduce cramping, especially in endurance exercise.",
+    "Proper dosing depends on individual factors including sweat rate and environment.",
+    "Safety is high when following guidelines; consult healthcare providers if medical conditions exist.",
+    "Powders offer convenience and customizable dosing compared to tablets and drinks.",
+    "Not all formulations are identical; check labels carefully.",
+    "Electrolyte supplementation should complement adequate fluid intake, not replace it."
+  ],
+  "glossary": [
+    {
+      "term": "Electrolytes",
+      "definition": "Minerals in the body fluids that carry an electric charge and are essential for nerve signaling, muscle function, and fluid balance."
+    },
+    {
+      "term": "Sodium (Na+)",
+      "definition": "A primary extracellular electrolyte important for maintaining blood pressure, fluid volume, and nerve function."
+    },
+    {
+      "term": "Potassium (K+)",
+      "definition": "A major intracellular electrolyte critical for cell function, muscle contraction, and heart rhythm."
+    },
+    {
+      "term": "Magnesium (Mg2+)",
+      "definition": "An electrolyte involved in over 300 enzymatic reactions, muscle relaxation, and energy production."
+    },
+    {
+      "term": "Calcium (Ca2+)",
+      "definition": "An electrolyte necessary for muscle contraction, blood clotting, and bone structure."
+    },
+    {
+      "term": "Oral Rehydration Salts (ORS)",
+      "definition": "Specialized electrolyte powder formulations used clinically to treat dehydration, particularly from diarrhea."
+    },
+    {
+      "term": "Hyponatremia",
+      "definition": "A condition of low sodium concentration in the blood that can be dangerous during excessive water intake without electrolytes."
+    },
+    {
+      "term": "Hyperkalemia",
+      "definition": "A potentially life-threatening condition characterized by elevated potassium levels in the blood."
+    }
+  ],
+  "related_modules": [
+    "SUP-021",
+    "SUP-024",
+    "NUT-015"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILLU-001",
+      "title": "Electrolyte Powder Components",
+      "illustration_type": "Diagram",
+      "description": "A labeled diagram showing common electrolyte minerals included in powders and their roles.",
+      "alt_text": "Diagram of sodium, potassium, magnesium, and calcium ions with physiological labels."
+    },
+    {
+      "illustration_id": "ILLU-002",
+      "title": "Mechanism of Electrolyte Replenishment",
+      "illustration_type": "Flowchart",
+      "description": "Flowchart illustrating how electrolyte powders dissolve, are absorbed, and affect muscle and nerve function.",
+      "alt_text": "Flowchart from powder ingestion to cellular electrolyte balance and muscle function."
+    },
+    {
+      "illustration_id": "ILLU-003",
+      "title": "Recommended Dosing Guidelines",
+      "illustration_type": "Table",
+      "description": "Table summarizing typical electrolyte amounts per serving and timing recommendations for different exercise durations.",
+      "alt_text": "Table listing sodium, potassium content per serving and dosing timing during exercise."
+    }
+  ],
+  "references": [
+    {
+      "title": "International Society of Sports Nutrition position stand: hydration and electrolyte balance",
+      "organization_or_authors": "International Society of Sports Nutrition",
+      "year": "2022",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Oral rehydration salts and electrolyte powders: clinical applications and safety profiles",
+      "organization_or_authors": "Journal of Clinical Nutrition",
+      "year": "2021",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Electrolyte supplementation improves endurance performance in hot environments: a systematic review",
+      "organization_or_authors": "Sports Medicine Journal",
+      "year": "2023",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Magnesium and muscle cramps in athletes: a randomized controlled trial",
+      "organization_or_authors": "Journal of Sports Science & Medicine",
+      "year": "2020",
+      "identifier": "",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Moderate evidence supports efficacy for hydration and athletic performance; Safety profiles are well established under appropriate use conditions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
