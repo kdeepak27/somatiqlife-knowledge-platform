@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-184",
+  "title": "Creatine for Older Adults",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for creatine for older adults.",
+  "domain": "Supplements",
+  "category": "Healthy Aging and Specialty Supplements",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Healthy Aging"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Professionals",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "creatine",
+    "older adults",
+    "muscle health",
+    "cognitive function",
+    "supplements",
+    "dosing",
+    "safety",
+    "aging",
+    "nutrition"
+  ],
+  "related_modules": [
+    "SUP-175",
+    "SUP-190",
+    "AGING-102"
+  ],
+  "evidence_strength": "Established evidence for muscle benefits; moderate emerging evidence for cognitive effects; established safety in healthy elders; emerging caution in renal impairment.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
