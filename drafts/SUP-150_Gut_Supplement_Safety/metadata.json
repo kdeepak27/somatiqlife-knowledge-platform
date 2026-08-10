@@ -1,0 +1,39 @@
+{
+  "module_id": "SUP-150",
+  "title": "Gut Supplement Safety",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for gut supplement safety.",
+  "domain": "Supplements",
+  "category": "Digestive and Gut Supplements",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "SymptomManagement"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Pharmacists",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "gut health",
+    "digestive supplements",
+    "probiotics",
+    "prebiotics",
+    "digestive enzymes",
+    "herbal supplements",
+    "safety",
+    "interactions",
+    "dosing",
+    "adverse effects"
+  ],
+  "related_modules": [
+    "SUP-120-Probiotics-Overview",
+    "SUP-125-Prebiotic-Science",
+    "SUP-140-Herbal-Supplement-Safety"
+  ],
+  "evidence_strength": "Established evidence for common probiotics, fiber, and digestive enzymes; Moderate evidence for herbal supplements and prebiotics; Emerging evidence for novel formulations and populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
