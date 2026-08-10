@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-140",
+  "title": "Turmeric Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for turmeric supplements.",
+  "domain": "Supplements",
+  "category": "Digestive and Gut Supplements",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Turmeric",
+    "Curcumin",
+    "Digestive Health",
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Supplements",
+    "Dosage",
+    "Safety",
+    "Drug Interactions"
+  ],
+  "related_modules": [
+    "SUP-041",
+    "SUP-102",
+    "SUP-065"
+  ],
+  "evidence_strength": "Moderate",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
