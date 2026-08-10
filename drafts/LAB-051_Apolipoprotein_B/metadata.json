@@ -1,0 +1,37 @@
+{
+  "module_id": "LAB-051",
+  "title": "Apolipoprotein B",
+  "subtitle": "What apolipoprotein b measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Lipids and Cardiovascular",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Apolipoprotein B",
+    "ApoB",
+    "Lipoproteins",
+    "Cholesterol",
+    "Cardiovascular Risk",
+    "Biomarker",
+    "LDL",
+    "VLDL",
+    "Heart Disease"
+  ],
+  "related_modules": [
+    "LAB-020",
+    "LAB-073",
+    "LAB-082"
+  ],
+  "evidence_strength": "Moderate-quality evidence supports ApoB as a valuable biomarker for cardiovascular risk assessment, particularly in select high-risk populations, while acknowledging limitations and variability in clinical guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

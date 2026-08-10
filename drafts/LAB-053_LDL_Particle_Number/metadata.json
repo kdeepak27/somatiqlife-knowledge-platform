@@ -1,0 +1,34 @@
+{
+  "module_id": "LAB-053",
+  "title": "LDL Particle Number",
+  "subtitle": "What ldl particle number measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Lipids and Cardiovascular",
+  "som_stages": [
+    "Risk Assessment",
+    "Diagnostics"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "LDL particle number",
+    "LDL-P",
+    "low-density lipoprotein",
+    "cholesterol",
+    "cardiovascular risk",
+    "atherosclerosis",
+    "lipoproteins",
+    "cardiac biomarkers"
+  ],
+  "related_modules": [
+    "LAB-024",
+    "LAB-040",
+    "LAB-070"
+  ],
+  "evidence_strength": "Established evidence supplemented by emerging clinical research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
