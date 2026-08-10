@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-176",
+  "title": "Collagen Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for collagen supplements.",
+  "domain": "Supplements",
+  "category": "Healthy Aging and Specialty Supplements",
+  "som_stages": [
+    "Awareness",
+    "Consideration",
+    "Decision"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "collagen",
+    "collagen supplements",
+    "healthy aging",
+    "skin health",
+    "joint health",
+    "dosing",
+    "safety",
+    "interactions"
+  ],
+  "related_modules": [
+    "SUP-102",
+    "SUP-134",
+    "SUP-145"
+  ],
+  "evidence_strength": "Moderate – Supported by several randomized controlled trials and systematic reviews, though with some variability and need for further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
