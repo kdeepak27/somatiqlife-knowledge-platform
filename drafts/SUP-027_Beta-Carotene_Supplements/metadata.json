@@ -1,0 +1,37 @@
+{
+  "module_id": "SUP-027",
+  "title": "Beta-Carotene Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for beta-carotene supplements.",
+  "domain": "Supplements",
+  "category": "Vitamins",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "General Public",
+    "Health Professionals"
+  ],
+  "reading_level": "Intermediate, layperson-friendly",
+  "keywords": [
+    "beta-carotene",
+    "Vitamin A precursor",
+    "antioxidant",
+    "carotenoids",
+    "supplements",
+    "eye health",
+    "cancer prevention",
+    "smoking",
+    "dosage",
+    "safety"
+  ],
+  "related_modules": [
+    "SUP-015-Carotenoids",
+    "SUP-033-Vitamin-A",
+    "SUP-041-Antioxidant-Supplements"
+  ],
+  "evidence_strength": "Moderate; strong evidence for beta-carotene as vitamin A precursor and antioxidant with well-established physiology; mixed and inconclusive evidence on cancer prevention and chronic disease; consistent evidence of harm from high-dose supplements in smokers.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
