@@ -1,0 +1,34 @@
+{
+  "module_id": "CHD-061",
+  "title": "Childhood Vaccinations",
+  "subtitle": "Prevention, safety, and evidence-based guidance related to childhood vaccinations.",
+  "domain": "Children and Adolescents",
+  "category": "Prevention and Safety",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Healthcare Providers",
+    "Educators"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "childhood vaccinations",
+    "immunization",
+    "vaccine safety",
+    "vaccine schedule",
+    "immunity",
+    "vaccine-preventable diseases",
+    "vaccine side effects",
+    "herd immunity"
+  ],
+  "related_modules": [
+    "CHD-062",
+    "CHD-063"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
