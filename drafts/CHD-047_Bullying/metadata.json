@@ -1,0 +1,38 @@
+{
+  "module_id": "CHD-047",
+  "title": "Bullying",
+  "subtitle": "Recognition, prevention, support, and safety related to bullying.",
+  "domain": "Children and Adolescents",
+  "category": "Mental and Emotional Health",
+  "som_stages": [
+    "Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Educators",
+    "Healthcare Providers",
+    "Mental Health Professionals",
+    "Youth"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "bullying",
+    "peer victimization",
+    "mental health",
+    "prevention",
+    "support",
+    "safety",
+    "childhood bullying",
+    "adolescent bullying",
+    "cyberbullying"
+  ],
+  "related_modules": [
+    "CHD-050-MentalHealthSupport",
+    "CHD-055-CyberSafety",
+    "CHD-058-ChildDevelopment"
+  ],
+  "evidence_strength": "Established evidence with some emerging data regarding cyberbullying and biological impacts.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

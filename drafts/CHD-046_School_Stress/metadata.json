@@ -1,0 +1,38 @@
+{
+  "module_id": "CHD-046",
+  "title": "School Stress",
+  "subtitle": "Recognition, prevention, support, and safety related to school stress.",
+  "domain": "Children and Adolescents",
+  "category": "Mental and Emotional Health",
+  "som_stages": [
+    "Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Educators",
+    "Healthcare Providers",
+    "Youth"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "school stress",
+    "academic pressure",
+    "child mental health",
+    "stress management",
+    "emotional health",
+    "adolescent stress",
+    "cognitive effects",
+    "physical symptoms",
+    "stress prevention",
+    "support strategies"
+  ],
+  "related_modules": [
+    "CHD-012",
+    "CHD-078",
+    "AD-034"
+  ],
+  "evidence_strength": "Established and moderate evidence summarizes current understanding and interventions, with emerging research on school-wide prevention programs.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
