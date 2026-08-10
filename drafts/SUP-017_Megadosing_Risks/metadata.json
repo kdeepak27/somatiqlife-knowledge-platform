@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-017",
+  "title": "Megadosing Risks",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for megadosing risks.",
+  "domain": "Supplements",
+  "category": "Supplement Foundations",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Practical Application"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Dietitians",
+    "Supplement Industry"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Megadosing",
+    "Supplements",
+    "Toxicity",
+    "Safety",
+    "Interactions",
+    "Dosage",
+    "Overdose"
+  ],
+  "related_modules": [
+    "SUP-003",
+    "SUP-010",
+    "NUT-005"
+  ],
+  "evidence_strength": "Established evidence exists for toxicity risks associated with megadosing various nutrients, while clinical benefits remain moderate to emerging and require further studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
