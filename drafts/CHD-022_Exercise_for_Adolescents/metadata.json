@@ -1,0 +1,38 @@
+{
+  "module_id": "CHD-022",
+  "title": "Exercise for Adolescents",
+  "subtitle": "Benefits, safety, evidence, and practical guidance related to exercise for adolescents.",
+  "domain": "Children and Adolescents",
+  "category": "Physical Activity",
+  "som_stages": [
+    "Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Adolescents",
+    "Pediatricians",
+    "Physical Educators",
+    "Health Coaches"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "exercise",
+    "physical activity",
+    "adolescents",
+    "youth fitness",
+    "health benefits",
+    "safety",
+    "guidelines",
+    "mental health",
+    "cardiovascular health"
+  ],
+  "related_modules": [
+    "CHD-019: Nutrition for Adolescents",
+    "CHD-021: Mental Health in Children and Adolescents",
+    "CHD-025: Obesity Prevention in Youth"
+  ],
+  "evidence_strength": "Established and Moderate Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
