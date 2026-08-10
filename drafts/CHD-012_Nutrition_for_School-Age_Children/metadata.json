@@ -1,0 +1,40 @@
+{
+  "module_id": "CHD-012",
+  "title": "Nutrition for School-Age Children",
+  "subtitle": "Evidence-based nutrition and practical family guidance related to nutrition for school-age children.",
+  "domain": "Children and Adolescents",
+  "category": "Nutrition",
+  "som_stages": [
+    "School Age (6-12 years)"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Health Educators",
+    "Pediatricians",
+    "Nutritionists"
+  ],
+  "reading_level": "Upper Elementary to Middle School",
+  "keywords": [
+    "nutrition",
+    "school-age children",
+    "healthy eating",
+    "child development",
+    "macronutrients",
+    "micronutrients",
+    "dietary guidelines",
+    "hydration",
+    "family meals",
+    "vitamins",
+    "minerals",
+    "physical activity"
+  ],
+  "related_modules": [
+    "CHD-004: Infant and Toddler Nutrition",
+    "CHD-015: Adolescent Nutrition",
+    "CHD-020: Pediatric Obesity Management"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

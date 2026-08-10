@@ -1,0 +1,257 @@
+{
+  "module_id": "CHD-011",
+  "title": "Nutrition for Young Children",
+  "subtitle": "Evidence-based nutrition and practical family guidance related to nutrition for young children.",
+  "domain": "Children and Adolescents",
+  "category": "Nutrition",
+  "som_stages": [
+    "Early Childhood",
+    "Preschool Age"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Pediatricians",
+    "Nutritionists",
+    "Childcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "nutrition",
+    "young children",
+    "diet",
+    "growth",
+    "development",
+    "feeding",
+    "nutrients",
+    "pediatric nutrition",
+    "child health",
+    "family guidance"
+  ],
+  "customer_questions": [
+    "What are the key nutrients essential for young children's growth?",
+    "How much milk should my toddler consume daily?",
+    "What are healthy snacks for preschool children?",
+    "How do I handle picky eating in young kids?",
+    "At what age should solid foods be introduced?",
+    "What nutritional deficiencies are common in young children?",
+    "How can I ensure my child has a balanced diet?",
+    "Is vitamin supplementation necessary for toddlers?",
+    "How does nutrition affect cognitive development in early childhood?",
+    "What are safe foods to avoid choking hazards?",
+    "How much sugar is safe for young children?",
+    "How can I help my child develop healthy eating habits?"
+  ],
+  "retrieval_summary": "Nutrition for young children encompasses dietary principles and practices essential to support optimal growth, development, and long-term health in infants and preschool-aged children. This module defines nutrition in this age group as the intake and utilization of macronutrients (carbohydrates, proteins, fats) and micronutrients (vitamins and minerals) crucial for physical and cognitive development. Mechanistically, appropriate nutrition supports cellular processes, energy metabolism, immune function, and brain maturation during critical growth periods. Practical relevance lies in guiding parents and caregivers to provide balanced meals and feeding strategies suitable for young children’s developmental needs and appetites. Synonyms for this topic include pediatric nutrition, infant and toddler feeding, and early childhood diet. Limitations in current evidence include variability in dietary recommendations globally due to cultural habits, food availability, and emerging but not fully conclusive data on supplementation benefits. Safety considerations highlight choking prevention, avoiding excess added sugars and salt, and recognizing allergy risks. This module addresses essential nutrients, feeding milestones, managing picky eating, and fostering healthy dietary behaviors with evidence calibration, enabling informed family-centered nutrition planning for young children.",
+  "learning_objectives": [
+    "Define key nutrients necessary for young children's growth and development.",
+    "Explain the physiological mechanisms by which nutrition affects early childhood outcomes.",
+    "Describe evidence-based feeding practices appropriate for infants and preschoolers.",
+    "Identify common nutritional deficiencies and strategies for prevention.",
+    "Discuss practical approaches to managing picky eating and promoting healthy habits.",
+    "Recognize safety issues related to feeding young children including choking hazards and allergies.",
+    "Summarize current evidence on supplementation and added sugar limits.",
+    "Outline methods to support cognitive development via nutrition."
+  ],
+  "definition": "Nutrition for young children refers to the provision of adequate and appropriate macronutrients and micronutrients to support the rapid physical growth, brain development, and overall health of infants through preschool-aged children, typically ages 6 months to 5 years.",
+  "why_this_matters": "Proper nutrition during early childhood lays the foundation for lifelong health, influences growth trajectories, supports immune defenses, and enhances cognitive and motor development. Addressing nutritional needs effectively prevents deficiencies, developmental delays, and chronic disease risks, while empowering families with practical feeding knowledge.",
+  "sections": [
+    {
+      "heading": "Essential Nutrients for Young Children",
+      "content": "Young children require a balanced intake of macronutrients — carbohydrates for energy, proteins for tissue growth and repair, and fats (particularly essential fatty acids) for brain development. Micronutrients such as iron, calcium, vitamin D, zinc, iodine, and B vitamins are critical for bone health, cognitive function, and immune support. Deficiencies in these nutrients during early childhood can impair development and predispose to illness. Recommended daily intakes vary by age and developmental stage."
+    },
+    {
+      "heading": "Introduction to Solid Foods and Feeding Milestones",
+      "content": "Introducing solid foods typically begins around 6 months of age when infants show readiness cues such as good head control and interest in food. Starting solids complements breastmilk or formula by providing additional nutrients, especially iron. Feeding milestones include progressing from pureed to more textured foods and transitioning to family meals by around 12 months. Responsive feeding — offering food and allowing self-feeding cues — promotes positive feeding experiences."
+    },
+    {
+      "heading": "Managing Picky Eating and Food Preferences",
+      "content": "Picky eating, common in toddlers and preschoolers, involves refusal of certain foods or limited dietary variety. Evidence supports that repeated exposure to new foods over 10 or more offerings can increase acceptance. Strategies include offering choices, modeling healthy eating behaviors, avoiding pressure or force, and maintaining meal routines. Understanding that neophobia (fear of new foods) peaks in early childhood helps caregivers adopt patience and persistence."
+    },
+    {
+      "heading": "Role of Milk and Dairy in Early Childhood Nutrition",
+      "content": "Milk and dairy products supply important nutrients like calcium and vitamin D essential for bone development. The American Academy of Pediatrics recommends about 16-24 ounces of whole milk daily for toddlers aged 12-24 months, with a gradual switch to lower-fat milk after age 2, unless otherwise advised. Excessive milk intake can reduce appetite for other foods and risk iron deficiency anemia."
+    },
+    {
+      "heading": "Healthy Snack Choices for Young Children",
+      "content": "Healthy snacks provide additional opportunities to meet nutrient needs between meals. Good options include cut fruits, vegetables with hummus, whole-grain crackers, yogurt, and cheese. Snacks should be age-appropriate in texture to minimize choking risk and low in added sugars and salt. Structured snack times help regulate appetite and prevent grazing throughout the day."
+    },
+    {
+      "heading": "Nutritional Deficiencies in Young Children: Risks and Prevention",
+      "content": "Common nutritional deficiencies globally include iron-deficiency anemia, vitamin D deficiency, and iodine insufficiency. Iron deficiency is the most prevalent, affecting cognitive development and immune function. Prevention includes iron-rich complementary foods like fortified cereals and lean meats, sun exposure or supplementation for vitamin D, and use of iodized salt. Screening and supplementation may be indicated in high-risk populations."
+    },
+    {
+      "heading": "Cognitive Development and Nutrition",
+      "content": "Nutrition underpins brain growth, myelination, neurotransmitter synthesis, and synaptic plasticity during early childhood. Essential fatty acids (DHA and EPA), iron, zinc, iodine, and B vitamins directly influence cognition and behavior. Malnutrition or deficiencies during critical windows may have long-term effects on learning and executive function. Optimal nutrition supports attention, memory, and school readiness."
+    },
+    {
+      "heading": "Safety Considerations in Feeding",
+      "content": "Feeding young children carries specific safety considerations to prevent choking, allergic reactions, and exposure to contaminants. Avoid small, hard foods (e.g., whole nuts, popcorn) and prepare foods in manageable textures. Introduce allergenic foods such as peanuts following current guidelines to reduce allergy risk. Store and prepare foods hygienically to prevent infections."
+    },
+    {
+      "heading": "Sugar Intake and Its Implications",
+      "content": "Excess added sugars in young children’s diets contribute to obesity risk, dental caries, and poor nutrient density. The World Health Organization recommends limiting free sugars to less than 10% of total energy intake, ideally below 5% for additional benefits. Parents should be cautious of sugary beverages, snacks, and processed foods marketed toward children."
+    },
+    {
+      "heading": "Vitamin Supplementation: When and What",
+      "content": "Routine multivitamin supplementation is generally not necessary for well-nourished children consuming balanced diets. However, vitamin D supplementation is recommended for breastfed infants and young children due to limited dietary sources. Supplement use should be guided by healthcare providers based on individual risk factors and local guidelines. Excess vitamin intake can cause toxicity, hence the need for professional advice."
+    }
+  ],
+  "practical_guidance": [
+    "Begin introducing iron-rich solid foods around 6 months alongside continued breastfeeding or formula feeding.",
+    "Provide a variety of foods repeatedly to encourage acceptance and reduce picky eating behaviors.",
+    "Offer whole milk in recommended amounts to toddlers but avoid excessive consumption that may interfere with other food intake.",
+    "Choose healthy snacks with appropriate textures and low added sugars to support nutrition and avoid choking hazards.",
+    "Incorporate vitamin D supplementation as recommended, especially for exclusively breastfed infants.",
+    "Avoid pressuring children to eat; use positive role modeling and create a pleasant mealtime environment.",
+    "Limit added sugars to reduce risk of obesity and dental problems; read labels carefully on packaged foods.",
+    "Introduce potential allergens early in small amounts to potentially reduce allergy development, following pediatric guidelines."
+  ],
+  "safety_notes": [
+    "Never give whole nuts, raw carrots, or popcorn to children under 4 years to prevent choking risk.",
+    "Introduce allergenic foods like peanuts cautiously and observe for reactions.",
+    "Avoid added salt in young children's foods to protect developing kidneys and reduce hypertension risk later in life.",
+    "Maintain proper food hygiene to prevent bacterial or viral infections.",
+    "Do not exceed recommended vitamin supplement doses to avoid toxicity."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "All toddlers need vitamin supplements regardless of diet.",
+      "reality": "Most toddlers eating a balanced diet do not require routine vitamin supplements except for vitamin D as recommended."
+    },
+    {
+      "misconception": "Picky eating is a sign of poor parenting or nutritional neglect.",
+      "reality": "Picky eating is a common developmental phase related to neophobia and does not necessarily indicate poor care."
+    },
+    {
+      "misconception": "Whole milk can be given in unlimited amounts to toddlers.",
+      "reality": "Excessive whole milk intake can cause iron deficiency anemia and reduce appetite for other nutrient-rich foods."
+    }
+  ],
+  "clinical_pearls": [
+    "Repeated exposure to new foods over time increases acceptance in picky eaters.",
+    "Vitamin D supplementation is critical for breastfed infants due to low dietary vitamin D sources.",
+    "Avoiding high-choking-risk foods is essential until children develop sufficient chewing skills (around 4 years).",
+    "Parent modeling of healthy eating behaviors strongly influences child food preferences.",
+    "Limiting added sugars promotes healthier weight and dental outcomes in young children."
+  ],
+  "key_takeaways": [
+    "Proper nutrition in early childhood supports physical growth and brain development.",
+    "Essential nutrients include proteins, essential fatty acids, iron, calcium, vitamin D, and zinc.",
+    "Introduce solid foods around 6 months with responsive feeding practices.",
+    "Repeated exposure helps overcome picky eating; pressure to eat is ineffective.",
+    "Limit whole milk intake in toddlers to recommended amounts to prevent iron deficiency.",
+    "Healthy snacks should be nutrient-rich and low in sugar and choking hazards.",
+    "Vitamin D supplementation is recommended for breastfed infants; routine multivitamins usually not needed.",
+    "Avoid choking hazards and introduce allergenic foods cautiously following guidelines."
+  ],
+  "glossary": [
+    {
+      "term": "Macronutrients",
+      "definition": "Nutrients required in large amounts such as carbohydrates, proteins, and fats that provide energy and support growth."
+    },
+    {
+      "term": "Micronutrients",
+      "definition": "Vitamins and minerals needed in small quantities essential for development and metabolic functions."
+    },
+    {
+      "term": "Neophobia",
+      "definition": "Fear of new foods commonly observed in young children affecting willingness to try unfamiliar foods."
+    },
+    {
+      "term": "Complementary feeding",
+      "definition": "Introduction of solid and semi-solid foods along with breastmilk or formula to meet nutritional needs."
+    },
+    {
+      "term": "Iron-deficiency anemia",
+      "definition": "A condition where insufficient iron leads to reduced hemoglobin affecting oxygen transport and development."
+    },
+    {
+      "term": "Essential fatty acids",
+      "definition": "Fatty acids like DHA and EPA that the body cannot make and are vital for brain and eye development."
+    },
+    {
+      "term": "Responsive feeding",
+      "definition": "Feeding approach where caregivers provide food in response to the child’s hunger and fullness cues."
+    },
+    {
+      "term": "Choking hazard",
+      "definition": "Foods or objects that can block the airway and cause choking, especially in young children."
+    }
+  ],
+  "related_modules": [
+    "CHD-012",
+    "CHD-015",
+    "CHD-020"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "illu1",
+      "title": "Feeding Milestones Chart",
+      "illustration_type": "Diagram",
+      "description": "A timeline illustrating age-appropriate feeding milestones including introduction of solids, textures, and self-feeding progression.",
+      "alt_text": "Chart showing feeding stages from purees to finger foods by age."
+    },
+    {
+      "illustration_id": "illu2",
+      "title": "Healthy Snack Examples",
+      "illustration_type": "Photo Collection",
+      "description": "Images of nutrient-dense, age-appropriate snacks such as cut fruits, vegetables, yogurt, and whole-grain crackers.",
+      "alt_text": "Photos of healthy snacks suitable for toddlers."
+    },
+    {
+      "illustration_id": "illu3",
+      "title": "Choking Hazard Foods to Avoid",
+      "illustration_type": "Infographic",
+      "description": "Visual guide highlighting common foods that pose choking risks and safer alternatives for young children.",
+      "alt_text": "Infographic showing unsafe foods like whole nuts and popcorn and safe options."
+    },
+    {
+      "illustration_id": "illu4",
+      "title": "Key Nutrients for Early Childhood",
+      "illustration_type": "Illustration",
+      "description": "Diagram depicting essential nutrients with their food sources and roles in child development.",
+      "alt_text": "Illustration showing nutrients such as iron, vitamin D, calcium, and their benefits."
+    }
+  ],
+  "references": [
+    {
+      "title": "Nutrition for Infants and Young Children",
+      "organization_or_authors": "American Academy of Pediatrics",
+      "year": "2021",
+      "identifier": "https://publications.aap.org/patiented/article/doi/10.1542/peo_document093",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Complementary Feeding: Report of the Global Consultation",
+      "organization_or_authors": "World Health Organization",
+      "year": "2003",
+      "identifier": "https://www.who.int/nutrition/publications/infantfeeding/WHO_NHD_01.2/en/",
+      "verification_status": "Verified"
+    },
+    {
+      "title": "Dietary Guidelines for Americans 2020-2025",
+      "organization_or_authors": "U.S. Department of Agriculture, U.S. Department of Health and Human Services",
+      "year": "2020",
+      "identifier": "https://www.dietaryguidelines.gov",
+      "verification_status": "Verified"
+    },
+    {
+      "title": "Iron Deficiency Anemia: Assessment, Prevention, and Control",
+      "organization_or_authors": "World Health Organization",
+      "year": "2001",
+      "identifier": "https://www.who.int/nutrition/publications/en/ida_assessment_prevention_control.pdf",
+      "verification_status": "Verified"
+    },
+    {
+      "title": "Choking Prevention in Children",
+      "organization_or_authors": "American Academy of Pediatrics",
+      "year": "2018",
+      "identifier": "https://www.aap.org/en/patient-care/choking-prevention-in-children/",
+      "verification_status": "Verified"
+    }
+  ],
+  "evidence_strength": "Established evidence where referenced; moderate evidence where feeding strategies and supplementation vary by population; emerging evidence for some allergy introduction protocols.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
