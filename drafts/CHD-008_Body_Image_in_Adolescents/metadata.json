@@ -1,0 +1,38 @@
+{
+  "module_id": "CHD-008",
+  "title": "Body Image in Adolescents",
+  "subtitle": "Age-appropriate evidence, prevention, and practical guidance related to body image in adolescents.",
+  "domain": "Children and Adolescents",
+  "category": "Growth and Development",
+  "som_stages": [
+    "Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Educators",
+    "Health Care Providers",
+    "Adolescents"
+  ],
+  "reading_level": "Grade 8 - 12",
+  "keywords": [
+    "body image",
+    "adolescents",
+    "self-esteem",
+    "eating disorders",
+    "mental health",
+    "growth and development",
+    "peer influence",
+    "media influence",
+    "prevention",
+    "psychosocial"
+  ],
+  "related_modules": [
+    "CHD-005_Puberty_and_Physical_Development",
+    "CHD-023_Eating_Disorders_in_Adolescents",
+    "CHD-036_Mental_Health_in_Teenagers"
+  ],
+  "evidence_strength": "Established evidence for psychosocial impacts and prevention strategies; emerging evidence regarding social media influences and culturally tailored interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

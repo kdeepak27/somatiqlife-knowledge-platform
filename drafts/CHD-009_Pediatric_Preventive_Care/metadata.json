@@ -1,0 +1,43 @@
+{
+  "module_id": "CHD-009",
+  "title": "Pediatric Preventive Care",
+  "subtitle": "Age-appropriate evidence, prevention, and practical guidance related to pediatric preventive care.",
+  "domain": "Children and Adolescents",
+  "category": "Growth and Development",
+  "som_stages": [
+    "Infancy",
+    "Early Childhood",
+    "Middle Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Pediatricians",
+    "Family Physicians",
+    "Nurses",
+    "Child Health Educators"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "Pediatric preventive care",
+    "Immunizations",
+    "Growth monitoring",
+    "Developmental screening",
+    "Nutrition",
+    "Safety",
+    "Well-child visits",
+    "Oral health",
+    "Mental health",
+    "Screening"
+  ],
+  "related_modules": [
+    "CHD-004 Childhood Immunizations",
+    "CHD-017 Adolescent Health",
+    "CHD-022 Nutrition in Children",
+    "CHD-031 Injury Prevention in Pediatrics"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
