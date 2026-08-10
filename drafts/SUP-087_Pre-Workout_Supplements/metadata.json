@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-087",
+  "title": "Pre-Workout Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for pre-workout supplements.",
+  "domain": "Supplements",
+  "category": "Performance Supplements",
+  "som_stages": [
+    "Awareness",
+    "Consideration",
+    "Decision"
+  ],
+  "audience": [
+    "Consumers",
+    "Athletes",
+    "Fitness Enthusiasts",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Pre-workout supplements",
+    "Performance enhancement",
+    "Caffeine",
+    "Creatine",
+    "Beta-alanine",
+    "Nitric oxide boosters",
+    "Supplement safety"
+  ],
+  "related_modules": [
+    "SUP-012",
+    "SUP-045",
+    "SUP-054"
+  ],
+  "evidence_strength": "Established evidence for caffeine and creatine; moderate evidence for beta-alanine; emerging and variable evidence for nitric oxide precursors and combined formulas.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

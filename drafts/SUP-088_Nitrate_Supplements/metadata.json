@@ -1,0 +1,37 @@
+{
+  "module_id": "SUP-088",
+  "title": "Nitrate Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for nitrate supplements.",
+  "domain": "Supplements",
+  "category": "Performance Supplements",
+  "som_stages": [
+    "Performance Optimization",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Athletes",
+    "Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "nitrate supplements",
+    "nitric oxide",
+    "exercise performance",
+    "dietary nitrates",
+    "beetroot juice",
+    "supplement safety",
+    "vasodilation",
+    "supplement dosing",
+    "ergogenic aids",
+    "cardiovascular health"
+  ],
+  "related_modules": [
+    "SUP-024",
+    "SUP-067",
+    "PHY-055"
+  ],
+  "evidence_strength": "Moderate to Strong for exercise performance improvements in endurance activities; Emerging for long-term cardiovascular benefits; Limited for anaerobic and strength exercise effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

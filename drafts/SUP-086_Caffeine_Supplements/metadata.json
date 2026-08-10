@@ -1,0 +1,35 @@
+{
+  "module_id": "SUP-086",
+  "title": "Caffeine Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for caffeine supplements.",
+  "domain": "Supplements",
+  "category": "Performance Supplements",
+  "som_stages": [
+    "Awareness",
+    "Consideration",
+    "Decision"
+  ],
+  "audience": [
+    "Consumers",
+    "Athletes",
+    "Healthcare Providers"
+  ],
+  "reading_level": "General Audience (Grade 8-10)",
+  "keywords": [
+    "Caffeine",
+    "Caffeine Supplementation",
+    "Performance Enhancement",
+    "Dosing",
+    "Safety",
+    "Interactions",
+    "Mechanism of Action"
+  ],
+  "related_modules": [
+    "SUP-012",
+    "SUP-074",
+    "SUP-142"
+  ],
+  "evidence_strength": "Established evidence from multiple clinical trials and meta-analyses supports caffeine supplementation benefits for physical and cognitive performance. Moderate evidence describes individual variation and specific safety considerations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

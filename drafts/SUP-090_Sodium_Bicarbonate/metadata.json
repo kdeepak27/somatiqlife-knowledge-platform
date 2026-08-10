@@ -1,0 +1,39 @@
+{
+  "module_id": "SUP-090",
+  "title": "Sodium Bicarbonate",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for sodium bicarbonate.",
+  "domain": "Supplements",
+  "category": "Performance Supplements",
+  "som_stages": [
+    "Supplement Knowledge",
+    "Performance Optimization",
+    "Safety and Interactions"
+  ],
+  "audience": [
+    "Consumers",
+    "Athletes",
+    "Healthcare Providers",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sodium bicarbonate",
+    "baking soda",
+    "performance supplement",
+    "acid-base balance",
+    "ergogenic aid",
+    "exercise buffering",
+    "alkalosis",
+    "muscle fatigue",
+    "dosing",
+    "safety"
+  ],
+  "related_modules": [
+    "SUP-034_beta-alanine",
+    "SUP-055_creatine",
+    "SUP-078_caffeine"
+  ],
+  "evidence_strength": "Moderate evidence from controlled trials supports sodium bicarbonate’s performance benefits primarily in high-intensity, short-duration exercise.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
