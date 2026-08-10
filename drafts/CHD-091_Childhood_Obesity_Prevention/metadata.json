@@ -1,0 +1,35 @@
+{
+  "module_id": "CHD-091",
+  "title": "Childhood Obesity Prevention",
+  "subtitle": "Evidence, safety, lifestyle considerations, and when professional care matters for childhood obesity prevention.",
+  "domain": "Children and Adolescents",
+  "category": "Special Topics",
+  "som_stages": [
+    "Prevention"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Healthcare Providers",
+    "Educators"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "childhood obesity",
+    "prevention",
+    "nutrition",
+    "physical activity",
+    "lifestyle",
+    "metabolism",
+    "health risks",
+    "weight management"
+  ],
+  "related_modules": [
+    "CHD-035",
+    "CHD-058",
+    "CHD-080"
+  ],
+  "evidence_strength": "Established evidence supported by expert consensus and systematic reviews.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

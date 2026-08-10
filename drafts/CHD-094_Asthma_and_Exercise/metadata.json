@@ -1,0 +1,36 @@
+{
+  "module_id": "CHD-094",
+  "title": "Asthma and Exercise",
+  "subtitle": "Evidence, safety, lifestyle considerations, and when professional care matters for asthma and exercise.",
+  "domain": "Children and Adolescents",
+  "category": "Special Topics",
+  "som_stages": [
+    "Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Patients",
+    "Parents",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8 - General Audience",
+  "keywords": [
+    "asthma",
+    "exercise-induced bronchoconstriction",
+    "physical activity",
+    "children",
+    "adolescents",
+    "respiratory health",
+    "sports",
+    "breathing techniques",
+    "medication management"
+  ],
+  "related_modules": [
+    "CHD-087",
+    "CHD-106",
+    "CHD-122"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
