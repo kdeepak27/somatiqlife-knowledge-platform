@@ -1,0 +1,33 @@
+{
+  "module_id": "SUP-197",
+  "title": "D-Mannose",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for d-mannose.",
+  "domain": "Supplements",
+  "category": "Healthy Aging and Specialty Supplements",
+  "som_stages": [
+    "Supplement Education",
+    "Supplement Screening",
+    "Practical Application"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "D-Mannose",
+    "Urinary tract infection",
+    "Supplement dosing",
+    "Sugar supplement",
+    "Safety of d-mannose"
+  ],
+  "related_modules": [
+    "SUP-120",
+    "SUP-195",
+    "SUP-205"
+  ],
+  "evidence_strength": "Moderate evidence supporting preventive use for recurrent UTIs; limited by heterogeneity and small study sizes; safety well-supported in short term, but long-term data insufficient.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

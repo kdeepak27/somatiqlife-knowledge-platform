@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-198",
+  "title": "Hair Skin and Nail Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for hair skin and nail supplements.",
+  "domain": "Supplements",
+  "category": "Healthy Aging and Specialty Supplements",
+  "som_stages": [
+    "Maintenance",
+    "Prevention",
+    "Symptom Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Supplement Retailers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "hair health",
+    "skin health",
+    "nail supplements",
+    "biotin",
+    "collagen",
+    "vitamins for skin",
+    "nutritional supplements",
+    "healthy aging"
+  ],
+  "related_modules": [
+    "SUP-101",
+    "SKN-205",
+    "SUP-302"
+  ],
+  "evidence_strength": "Established evidence for biotin and collagen in specific contexts; moderate for zinc and vitamins; emerging for botanicals; safety data sufficient for recommended doses.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
