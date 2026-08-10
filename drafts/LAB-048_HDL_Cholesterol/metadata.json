@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-048",
+  "title": "HDL Cholesterol",
+  "subtitle": "What hdl cholesterol measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Lipids and Cardiovascular",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "HDL",
+    "Cholesterol",
+    "Lipoproteins",
+    "Cardiovascular Risk",
+    "Lipids",
+    "HDL-C",
+    "Heart Disease",
+    "Cholesterol Testing",
+    "Dyslipidemia"
+  ],
+  "related_modules": [
+    "LAB-045",
+    "LAB-049",
+    "LAB-052"
+  ],
+  "evidence_strength": "Mixed evidence with strong foundational physiological understanding but emerging and sometimes conflicting clinical data on predictive utility and therapeutic targeting.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
