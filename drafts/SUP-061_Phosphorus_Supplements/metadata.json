@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-061",
+  "title": "Phosphorus Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for phosphorus supplements.",
+  "domain": "Supplements",
+  "category": "Minerals",
+  "som_stages": [
+    "Prevention",
+    "Wellness",
+    "Adjunctive Care"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "phosphorus",
+    "phosphate",
+    "mineral supplement",
+    "bone health",
+    "energy metabolism",
+    "dosing",
+    "toxicity",
+    "dietary supplements"
+  ],
+  "related_modules": [
+    "SUP-034-Calcium-Supplements",
+    "SUP-012-Vitamin-D-Supplements",
+    "NUT-021-Bone-Health",
+    "CON-045-Hypertension-and-Minerals"
+  ],
+  "evidence_strength": "Established evidence from clinical studies supports the safety and efficacy of phosphorus supplementation primarily in correcting deficiency states such as hypophosphatemia; evidence for supplementation benefits in the general population is limited; safety concerns justify cautious use especially in renal impairment.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
