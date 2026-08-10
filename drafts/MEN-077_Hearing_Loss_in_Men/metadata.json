@@ -1,0 +1,39 @@
+{
+  "module_id": "MEN-077",
+  "title": "Hearing Loss in Men",
+  "subtitle": "How hearing loss in men affects independence, function, and long-term health.",
+  "domain": "Men's Health",
+  "category": "Healthy Aging",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Men Age 50+",
+    "Caregivers",
+    "Primary Care Providers",
+    "Audiologists"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "hearing loss",
+    "men's health",
+    "age-related hearing decline",
+    "audiology",
+    "sensory impairment",
+    "independence",
+    "cognitive function",
+    "tinnitus",
+    "communication difficulties",
+    "hearing aids"
+  ],
+  "related_modules": [
+    "MEN-034_CognitiveHealthInMen",
+    "MEN-089_AgeRelatedBalanceDisorders",
+    "GEN-056_ChronicDiseaseManagement"
+  ],
+  "evidence_strength": "Established Evidence with Some Emerging Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

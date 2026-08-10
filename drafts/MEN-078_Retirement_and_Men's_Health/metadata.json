@@ -1,0 +1,36 @@
+{
+  "module_id": "MEN-078",
+  "title": "Retirement and Men's Health",
+  "subtitle": "How retirement and men's health affects independence, function, and long-term health.",
+  "domain": "Men's Health",
+  "category": "Healthy Aging",
+  "som_stages": [
+    "middle age",
+    "older adult"
+  ],
+  "audience": [
+    "men",
+    "caregivers",
+    "health educators",
+    "clinicians"
+  ],
+  "reading_level": "intermediate",
+  "keywords": [
+    "retirement",
+    "men's health",
+    "healthy aging",
+    "independence",
+    "physical function",
+    "mental health",
+    "chronic disease",
+    "social engagement"
+  ],
+  "related_modules": [
+    "MEN-045",
+    "GEN-034",
+    "MNT-021"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights and recognized research limitations",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
