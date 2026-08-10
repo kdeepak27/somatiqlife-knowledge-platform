@@ -1,0 +1,40 @@
+{
+  "module_id": "MEN-073",
+  "title": "Osteoporosis in Men",
+  "subtitle": "How osteoporosis in men affects independence, function, and long-term health.",
+  "domain": "Men's Health",
+  "category": "Healthy Aging",
+  "som_stages": [
+    "Late Adulthood",
+    "Aging with Chronic Conditions"
+  ],
+  "audience": [
+    "Men aged 50 and older",
+    "Primary Care Providers",
+    "Geriatricians",
+    "Physical Therapists",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "osteoporosis",
+    "men's health",
+    "bone density",
+    "fracture risk",
+    "bone loss",
+    "aging",
+    "bone health",
+    "calcium",
+    "vitamin D",
+    "bone fractures"
+  ],
+  "related_modules": [
+    "GEN-010_Nutrition_Bone_Health",
+    "MEN-045_Tests_and_Screening_in_Men",
+    "MEN-082_Exercise_for_Healthy_Aging",
+    "GEN-022_Fall_Prevention_Strategies"
+  ],
+  "evidence_strength": "Established evidence from epidemiological, clinical, and guideline literature; moderate evidence in new treatments and evolving diagnostics.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
