@@ -1,0 +1,36 @@
+{
+  "module_id": "MEN-092",
+  "title": "Gynecomastia",
+  "subtitle": "Common causes, evidence-based evaluation, management, and safety related to gynecomastia.",
+  "domain": "Men's Health",
+  "category": "Common Questions",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "gynecomastia",
+    "male breast enlargement",
+    "hormonal imbalance",
+    "diagnosis",
+    "treatment",
+    "men's health",
+    "breast tissue",
+    "endocrinology"
+  ],
+  "related_modules": [
+    "MEN-087",
+    "MEN-093",
+    "ENDO-041"
+  ],
+  "evidence_strength": "Established evidence for diagnosis, basic mechanisms, and management; moderate evidence for pharmacologic treatments; emerging evidence on long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
