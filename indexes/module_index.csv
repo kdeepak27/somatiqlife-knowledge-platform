@@ -204,6 +204,56 @@ SUP-002,How Supplements Are Regulated,Supplements,Supplement Foundations,1.0,dra
 SUP-003,How to Read a Supplement Label,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-003_How_to_Read_a_Supplement_Label/module.json
 SUP-004,Supplement Quality Testing,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-004_Supplement_Quality_Testing/module.json
 SUP-005,Third-Party Supplement Certification,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-005_Third-Party_Supplement_Certification/module.json
+SUP-006,Supplement Contamination,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-006_Supplement_Contamination/module.json
+SUP-007,Supplement Adulteration,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-007_Supplement_Adulteration/module.json
+SUP-008,Supplement Dosage,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-008_Supplement_Dosage/module.json
+SUP-009,Supplement Timing,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-009_Supplement_Timing/module.json
+SUP-010,Supplement Absorption,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-010_Supplement_Absorption/module.json
+SUP-011,Food vs Supplements,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-011_Food_vs_Supplements/module.json
+SUP-012,Who May Need Supplements,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-012_Who_May_Need_Supplements/module.json
+SUP-013,Who Should Avoid Supplements,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-013_Who_Should_Avoid_Supplements/module.json
+SUP-014,Supplement Side Effects,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-014_Supplement_Side_Effects/module.json
+SUP-015,Supplement-Drug Interactions,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-015_Supplement-Drug_Interactions/module.json
+SUP-016,Supplement-Supplement Interactions,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-016_Supplement-Supplement_Interactions/module.json
+SUP-017,Megadosing Risks,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-017_Megadosing_Risks/module.json
+SUP-018,Natural Does Not Mean Safe,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-018_Natural_Does_Not_Mean_Safe/module.json
+SUP-019,Evidence Levels for Supplements,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-019_Evidence_Levels_for_Supplements/module.json
+SUP-020,Placebo Effects and Supplements,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-020_Placebo_Effects_and_Supplements/module.json
+SUP-021,Choosing a Supplement,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-021_Choosing_a_Supplement/module.json
+SUP-022,Tracking Supplement Use,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-022_Tracking_Supplement_Use/module.json
+SUP-023,Discussing Supplements With a Clinician,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-023_Discussing_Supplements_With_a_Clinician/module.json
+SUP-024,Stopping Unnecessary Supplements,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-024_Stopping_Unnecessary_Supplements/module.json
+SUP-025,Building a Safe Supplement Plan,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-025_Building_a_Safe_Supplement_Plan/module.json
+SUP-026,Vitamin A Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-026_Vitamin_A_Supplements/module.json
+SUP-027,Beta-Carotene Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-027_Beta-Carotene_Supplements/module.json
+SUP-028,Thiamin Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-028_Thiamin_Supplements/module.json
+SUP-029,Riboflavin Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-029_Riboflavin_Supplements/module.json
+SUP-030,Niacin Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-030_Niacin_Supplements/module.json
+SUP-031,Pantothenic Acid Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-031_Pantothenic_Acid_Supplements/module.json
+SUP-032,Vitamin B6 Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-032_Vitamin_B6_Supplements/module.json
+SUP-033,Biotin Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-033_Biotin_Supplements/module.json
+SUP-034,Folate Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-034_Folate_Supplements/module.json
+SUP-035,Folic Acid Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-035_Folic_Acid_Supplements/module.json
+SUP-036,Vitamin B12 Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-036_Vitamin_B12_Supplements/module.json
+SUP-037,Vitamin C Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-037_Vitamin_C_Supplements/module.json
+SUP-038,Vitamin D Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-038_Vitamin_D_Supplements/module.json
+SUP-039,Vitamin E Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-039_Vitamin_E_Supplements/module.json
+SUP-040,Vitamin K Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-040_Vitamin_K_Supplements/module.json
+SUP-041,Multivitamins,Supplements,Vitamins,1.0,drafts,drafts/SUP-041_Multivitamins/module.json
+SUP-042,Prenatal Vitamins,Supplements,Vitamins,1.0,drafts,drafts/SUP-042_Prenatal_Vitamins/module.json
+SUP-043,Senior Multivitamins,Supplements,Vitamins,1.0,drafts,drafts/SUP-043_Senior_Multivitamins/module.json
+SUP-044,B-Complex Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-044_B-Complex_Supplements/module.json
+SUP-045,High-Dose Vitamin Therapy,Supplements,Vitamins,1.0,drafts,drafts/SUP-045_High-Dose_Vitamin_Therapy/module.json
+SUP-046,Vitamin Deficiency Testing Before Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-046_Vitamin_Deficiency_Testing_Before_Supplements/module.json
+SUP-047,Fat-Soluble Vitamin Toxicity,Supplements,Vitamins,1.0,drafts,drafts/SUP-047_Fat-Soluble_Vitamin_Toxicity/module.json
+SUP-048,Water-Soluble Vitamin Excess,Supplements,Vitamins,1.0,drafts,drafts/SUP-048_Water-Soluble_Vitamin_Excess/module.json
+SUP-049,Vitamin Supplements for Vegans,Supplements,Vitamins,1.0,drafts,drafts/SUP-049_Vitamin_Supplements_for_Vegans/module.json
+SUP-050,Vitamin Supplements for Older Adults,Supplements,Vitamins,1.0,drafts,drafts/SUP-050_Vitamin_Supplements_for_Older_Adults/module.json
+SUP-051,Calcium Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-051_Calcium_Supplements/module.json
+SUP-052,Iron Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-052_Iron_Supplements/module.json
+SUP-053,Magnesium Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-053_Magnesium_Supplements/module.json
+SUP-054,Zinc Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-054_Zinc_Supplements/module.json
+SUP-055,Potassium Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-055_Potassium_Supplements/module.json
 WOM-001,Women's Health Across Adulthood,Women's Health,Women's Health Foundations,1.0,drafts,drafts/WOM-001_Women's_Health_Across_Adulthood/module.json
 WOM-002,Female Reproductive Anatomy,Women's Health,Women's Health Foundations,1.0,drafts,drafts/WOM-002_Female_Reproductive_Anatomy/module.json
 WOM-003,Female Reproductive Hormones,Women's Health,Women's Health Foundations,1.0,drafts,drafts/WOM-003_Female_Reproductive_Hormones/module.json
