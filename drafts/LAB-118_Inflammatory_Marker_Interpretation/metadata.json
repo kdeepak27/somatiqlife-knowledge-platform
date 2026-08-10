@@ -1,0 +1,36 @@
+{
+  "module_id": "LAB-118",
+  "title": "Inflammatory Marker Interpretation",
+  "subtitle": "What inflammatory marker interpretation measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Inflammation and Immunity",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "inflammatory markers",
+    "C-reactive protein",
+    "erythrocyte sedimentation rate",
+    "interleukins",
+    "immune response",
+    "biomarkers",
+    "inflammation",
+    "laboratory tests"
+  ],
+  "related_modules": [
+    "LAB-062: Acute Phase Reactants and Clinical Significance",
+    "LAB-105: Cytokines in Immune Response",
+    "LAB-034: Autoimmune Biomarkers Interpretation"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging aspects regarding advanced biomarkers",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
