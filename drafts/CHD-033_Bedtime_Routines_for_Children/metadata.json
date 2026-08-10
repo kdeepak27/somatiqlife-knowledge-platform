@@ -1,0 +1,36 @@
+{
+  "module_id": "CHD-033",
+  "title": "Bedtime Routines for Children",
+  "subtitle": "Evidence, common problems, practical routines, and safety related to bedtime routines for children.",
+  "domain": "Children and Adolescents",
+  "category": "Sleep",
+  "som_stages": [
+    "Prevention",
+    "Promoting Healthy Sleep"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Pediatricians",
+    "Sleep Specialists"
+  ],
+  "reading_level": "Middle school",
+  "keywords": [
+    "bedtime routines",
+    "children",
+    "sleep hygiene",
+    "sleep problems",
+    "circadian rhythms",
+    "sleep onset",
+    "sleep environment",
+    "sleep safety"
+  ],
+  "related_modules": [
+    "CHD-021",
+    "PEDS-045",
+    "SLP-010"
+  ],
+  "evidence_strength": "Moderate evidence supports benefits of bedtime routines on improving sleep duration and quality in children; emerging evidence suggests optimal components and cultural adaptations; safety guidelines are well-established by pediatric authorities.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
