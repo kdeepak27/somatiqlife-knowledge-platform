@@ -1,0 +1,37 @@
+{
+  "module_id": "SUP-101",
+  "title": "Fish Oil Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for fish oil supplements.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Adjunct Therapy",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "fish oil",
+    "omega-3 fatty acids",
+    "EPA",
+    "DHA",
+    "cardiovascular health",
+    "supplements",
+    "safety",
+    "dosing",
+    "drug interactions"
+  ],
+  "related_modules": [
+    "SUP-045",
+    "SUP-072",
+    "NUT-034"
+  ],
+  "evidence_strength": "Established evidence for triglyceride reduction and cardiovascular risk factor modulation; moderate to emerging evidence for broader cardioprotective effects and safety profile.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

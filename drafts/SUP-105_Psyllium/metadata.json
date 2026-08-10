@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-105",
+  "title": "Psyllium",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for psyllium.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Psyllium",
+    "Fiber supplement",
+    "Cardiometabolic health",
+    "Cholesterol",
+    "Blood sugar",
+    "Digestive health",
+    "Laxative",
+    "Soluble fiber"
+  ],
+  "related_modules": [
+    "SUP-102-DietaryFiber",
+    "SUP-110-Omega3",
+    "SUP-115-Probiotics"
+  ],
+  "evidence_strength": "Established evidence for cholesterol lowering and constipation relief; Moderate evidence for blood glucose improvements; Limited evidence for weight management; Safety profile supported by clinical use and studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

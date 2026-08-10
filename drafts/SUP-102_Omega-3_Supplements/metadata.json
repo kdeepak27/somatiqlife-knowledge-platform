@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-102",
+  "title": "Omega-3 Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for omega-3 supplements.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "omega-3 fatty acids",
+    "EPA",
+    "DHA",
+    "fish oil",
+    "cardiovascular disease",
+    "inflammation",
+    "supplementation",
+    "dosage",
+    "safety",
+    "drug interactions"
+  ],
+  "related_modules": [
+    "SUP-101-FishOil",
+    "CARD-203-CardiometabolicRisk",
+    "SUP-110-VitaminD",
+    "PHARM-305-DrugSupplementInteractions"
+  ],
+  "evidence_strength": "Established evidence for triglyceride lowering and secondary cardiovascular prevention; moderate evidence for other outcomes; ongoing research on optimal dosing and populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
