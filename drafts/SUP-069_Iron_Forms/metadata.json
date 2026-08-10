@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-069",
+  "title": "Iron Forms",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for iron forms.",
+  "domain": "Supplements",
+  "category": "Minerals",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Treatment"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "iron",
+    "iron supplements",
+    "iron deficiency",
+    "ferrous sulfate",
+    "ferric iron",
+    "heme iron",
+    "non-heme iron",
+    "iron absorption",
+    "iron dosing",
+    "iron safety"
+  ],
+  "related_modules": [
+    "SUP-012",
+    "SUP-033",
+    "SUP-087"
+  ],
+  "evidence_strength": "Established evidence supplemented by emerging clinical studies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
