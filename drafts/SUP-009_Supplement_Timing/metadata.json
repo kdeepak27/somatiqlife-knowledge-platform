@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-009",
+  "title": "Supplement Timing",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for supplement timing.",
+  "domain": "Supplements",
+  "category": "Supplement Foundations",
+  "som_stages": [
+    "Education",
+    "Prevention",
+    "Self-Care"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Supplement timing",
+    "nutrient absorption",
+    "pharmacokinetics",
+    "dosing schedule",
+    "supplement safety",
+    "drug interactions",
+    "chrononutrition",
+    "meal timing",
+    "nutrient bioavailability",
+    "circadian rhythm"
+  ],
+  "related_modules": [
+    "SUP-005",
+    "SUP-012",
+    "SUP-021"
+  ],
+  "evidence_strength": "Established with some emerging evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
