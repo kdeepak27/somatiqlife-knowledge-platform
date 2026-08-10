@@ -1,0 +1,40 @@
+{
+  "module_id": "LAB-090",
+  "title": "SHBG",
+  "subtitle": "What shbg measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Thyroid and Hormones",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring",
+    "Prognosis"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Sex Hormone-Binding Globulin",
+    "SHBG",
+    "Hormone Transport",
+    "Testosterone",
+    "Estrogen",
+    "Biomarker",
+    "Endocrinology",
+    "Thyroid Function",
+    "Metabolism",
+    "Hormone Levels"
+  ],
+  "related_modules": [
+    "LAB-045-TESTOSTERONE",
+    "LAB-046-ESTRADIOL",
+    "LAB-080-THYROID-FUNCTION",
+    "LAB-100-PROLACTIN"
+  ],
+  "evidence_strength": "Established evidence for biological roles and clinical applications; some emerging evidence regarding metabolic and pharmacological influences; limitations noted in assay variability and interpretation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

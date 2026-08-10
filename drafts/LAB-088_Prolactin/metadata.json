@@ -1,0 +1,39 @@
+{
+  "module_id": "LAB-088",
+  "title": "Prolactin",
+  "subtitle": "What prolactin measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Thyroid and Hormones",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Primary Care Providers",
+    "Endocrinologists",
+    "Laboratory Technologists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Prolactin",
+    "PRL",
+    "Hormones",
+    "Pituitary gland",
+    "Hyperprolactinemia",
+    "Hypoprolactinemia",
+    "Prolactinoma",
+    "Galactorrhea",
+    "Amenorrhea",
+    "Infertility"
+  ],
+  "related_modules": [
+    "LAB-045-Thyroid-Stimulating-Hormone-TSH",
+    "LAB-077-Growth-Hormone-GH",
+    "LAB-052-Hormone-Replacement-Therapy-HRT"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines, endocrinology textbooks, and laboratory standards.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
