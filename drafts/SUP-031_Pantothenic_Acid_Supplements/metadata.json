@@ -1,0 +1,37 @@
+{
+  "module_id": "SUP-031",
+  "title": "Pantothenic Acid Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for pantothenic acid supplements.",
+  "domain": "Supplements",
+  "category": "Vitamins",
+  "som_stages": [
+    "Prevention",
+    "Wellness",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "pantothenic acid",
+    "vitamin B5",
+    "supplements",
+    "dosing",
+    "safety",
+    "nutrient interactions",
+    "coenzyme A",
+    "fatty acid metabolism"
+  ],
+  "related_modules": [
+    "SUP-017",
+    "SUP-045",
+    "NUT-012"
+  ],
+  "evidence_strength": "Established evidence for dietary role and deficiency prevention; moderate to emerging evidence for therapeutic claims such as wound healing; limited evidence for cosmetic uses.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
