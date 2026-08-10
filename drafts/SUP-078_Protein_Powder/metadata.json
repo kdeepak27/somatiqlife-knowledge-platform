@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-078",
+  "title": "Protein Powder",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for protein powder.",
+  "domain": "Supplements",
+  "category": "Performance Supplements",
+  "som_stages": [
+    "Prevention",
+    "Optimization",
+    "Recovery"
+  ],
+  "audience": [
+    "Consumers",
+    "Athletes",
+    "Fitness Enthusiasts",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "protein powder",
+    "supplement",
+    "muscle growth",
+    "whey protein",
+    "plant protein",
+    "dosage",
+    "safety",
+    "interactions",
+    "nutrition"
+  ],
+  "related_modules": [
+    "SUP-015",
+    "SUP-045",
+    "NUT-032"
+  ],
+  "evidence_strength": "Established evidence for efficacy in muscle growth with combined exercise; moderate evidence for long-term safety; emerging evidence for special populations; uncertain for long-term effects beyond existing data.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
