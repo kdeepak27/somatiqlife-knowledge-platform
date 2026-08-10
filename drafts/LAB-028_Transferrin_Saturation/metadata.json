@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-028",
+  "title": "Transferrin Saturation",
+  "subtitle": "What transferrin saturation measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Blood Count and Iron",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Transferrin Saturation",
+    "Iron Studies",
+    "Iron Overload",
+    "Iron Deficiency",
+    "Serum Iron",
+    "Total Iron Binding Capacity",
+    "TIBC",
+    "Iron Metabolism",
+    "Hemochromatosis",
+    "Anemia"
+  ],
+  "related_modules": [
+    "LAB-027",
+    "LAB-029",
+    "LAB-031"
+  ],
+  "evidence_strength": "Moderate evidence supports transferrin saturation as a reliable biomarker for assessing iron status when used in conjunction with other iron studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

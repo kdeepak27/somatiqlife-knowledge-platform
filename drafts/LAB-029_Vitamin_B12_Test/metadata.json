@@ -1,0 +1,36 @@
+{
+  "module_id": "LAB-029",
+  "title": "Vitamin B12 Test",
+  "subtitle": "What vitamin b12 test measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Blood Count and Iron",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Professionals",
+    "Medical Students"
+  ],
+  "reading_level": "Medium (equivalent to 10th grade)",
+  "keywords": [
+    "Vitamin B12",
+    "Cobalamin",
+    "Vitamin B12 test",
+    "Blood test",
+    "Methylmalonic acid",
+    "Homocysteine",
+    "Pernicious anemia",
+    "Vitamin deficiency"
+  ],
+  "related_modules": [
+    "LAB-027",
+    "LAB-031",
+    "LAB-011"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence for supplementary biomarker use",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

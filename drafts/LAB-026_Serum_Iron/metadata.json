@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-026",
+  "title": "Serum Iron",
+  "subtitle": "What serum iron measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Blood Count and Iron",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Clinicians",
+    "Students"
+  ],
+  "reading_level": "Moderate (Grade 10-12)",
+  "keywords": [
+    "serum iron",
+    "iron levels",
+    "blood test",
+    "iron deficiency",
+    "iron overload",
+    "ferritin",
+    "transferrin",
+    "anemia",
+    "iron metabolism",
+    "iron status"
+  ],
+  "related_modules": [
+    "LAB-027",
+    "LAB-028",
+    "LAB-015"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence regarding diagnostic strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
