@@ -1,0 +1,39 @@
+{
+  "module_id": "SUP-132",
+  "title": "Partially Hydrolyzed Guar Gum",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for partially hydrolyzed guar gum.",
+  "domain": "Supplements",
+  "category": "Digestive and Gut Supplements",
+  "som_stages": [
+    "Precontemplation",
+    "Contemplation",
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "partially hydrolyzed guar gum",
+    "PHGG",
+    "dietary fiber",
+    "prebiotic",
+    "digestive health",
+    "gut microbiota",
+    "constipation",
+    "fiber supplements"
+  ],
+  "related_modules": [
+    "SUP-101-Digestive-Fiber-Benefits",
+    "SUP-115-Probiotics-Overview",
+    "SUP-124-Constipation-Management"
+  ],
+  "evidence_strength": "Established evidence for constipation relief; moderate emerging evidence for IBS and metabolic benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

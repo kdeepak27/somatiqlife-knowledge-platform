@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-135",
+  "title": "Digestive Enzymes",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for digestive enzymes.",
+  "domain": "Supplements",
+  "category": "Digestive and Gut Supplements",
+  "som_stages": [
+    "Supplement Awareness",
+    "Supplement Selection",
+    "Supplement Use"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Digestive enzymes",
+    "Enzyme supplements",
+    "Pancreatic enzymes",
+    "Protease",
+    "Lipase",
+    "Amylase",
+    "Digestive health",
+    "Supplement dosing",
+    "Enzyme safety",
+    "Digestive disorders"
+  ],
+  "related_modules": [
+    "SUP-102",
+    "SUP-110",
+    "SUP-125"
+  ],
+  "evidence_strength": "Mixed: Established evidence in enzyme deficiency; emerging evidence in functional disorders; limited evidence in general use.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

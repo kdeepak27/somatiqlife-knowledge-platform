@@ -1,0 +1,41 @@
+{
+  "module_id": "SUP-134",
+  "title": "Wheat Dextrin",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for wheat dextrin.",
+  "domain": "Supplements",
+  "category": "Digestive and Gut Supplements",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers",
+    "Dietitians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "wheat dextrin",
+    "fiber supplement",
+    "digestive health",
+    "gut microbiome",
+    "prebiotic",
+    "daily fiber intake",
+    "soluble fiber",
+    "constipation",
+    "blood sugar control",
+    "cholesterol"
+  ],
+  "related_modules": [
+    "SUP-102-FiberBasics",
+    "SUP-145-Psyllium",
+    "SUP-167-Inulin",
+    "SUP-158-Prebiotics",
+    "SUP-174-DigestiveHealthAgents"
+  ],
+  "evidence_strength": "Moderate evidence from clinical trials supports benefits on bowel function and metabolic parameters, with more research needed for long-term safety and broader applications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
