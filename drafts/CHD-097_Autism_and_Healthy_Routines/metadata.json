@@ -1,0 +1,36 @@
+{
+  "module_id": "CHD-097",
+  "title": "Autism and Healthy Routines",
+  "subtitle": "Evidence, safety, lifestyle considerations, and when professional care matters for autism and healthy routines.",
+  "domain": "Children and Adolescents",
+  "category": "Special Topics",
+  "som_stages": [
+    "Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Educators",
+    "Healthcare Providers"
+  ],
+  "reading_level": "General Public - Grade 8",
+  "keywords": [
+    "Autism Spectrum Disorder",
+    "Healthy Routines",
+    "Sleep Hygiene",
+    "Diet",
+    "Behavioral Therapy",
+    "Sensory Processing",
+    "Family Support",
+    "Telehealth"
+  ],
+  "related_modules": [
+    "CHD-045_AppliedBehaviorAnalysisInAutism",
+    "CHD-063_SleepDisordersInPediatrics",
+    "CHD-078_SensoryProcessingDisorders"
+  ],
+  "evidence_strength": "Established evidence for routines improving behavioral and sleep outcomes; moderate evidence for dietary interventions; emerging evidence on sensory adaptations and flexibility; safety practices largely based on expert consensus.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
