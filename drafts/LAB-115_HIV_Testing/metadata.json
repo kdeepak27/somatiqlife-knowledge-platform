@@ -1,0 +1,39 @@
+{
+  "module_id": "LAB-115",
+  "title": "HIV Testing",
+  "subtitle": "What HIV testing measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Inflammation and Immunity",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "HIV",
+    "HIV testing",
+    "HIV antibodies",
+    "HIV antigens",
+    "HIV RNA",
+    "Viral load",
+    "CD4 count",
+    "Serology",
+    "Immunoassay",
+    "Western blot",
+    "PCR",
+    "HIV diagnosis"
+  ],
+  "related_modules": [
+    "LAB-112",
+    "LAB-118",
+    "LAB-120"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and large-scale epidemiological studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

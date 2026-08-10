@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-114",
+  "title": "Allergy IgE Testing",
+  "subtitle": "What allergy ige testing measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Inflammation and Immunity",
+  "som_stages": [
+    "Assessment",
+    "Diagnosis"
+  ],
+  "audience": [
+    "Consumer",
+    "Patient",
+    "Healthcare Provider",
+    "Medical Student"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "IgE",
+    "Allergy Testing",
+    "Immunoglobulin E",
+    "Atopy",
+    "Hypersensitivity",
+    "Allergens",
+    "Skin Prick Test",
+    "Serum IgE",
+    "Specific IgE",
+    "Allergic Reaction"
+  ],
+  "related_modules": [
+    "LAB-112",
+    "LAB-120",
+    "IMM-101"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and expert consensus.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
