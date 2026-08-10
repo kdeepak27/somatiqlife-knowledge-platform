@@ -1,0 +1,35 @@
+{
+  "module_id": "SUP-123",
+  "title": "Supplements for Blood Sugar",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for supplements for blood sugar.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention",
+    "Chronic Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "blood sugar",
+    "glucose regulation",
+    "supplements",
+    "herbal products",
+    "diabetes prevention",
+    "insulin sensitivity",
+    "nutraceuticals"
+  ],
+  "related_modules": [
+    "SUP-101",
+    "DM-202",
+    "NUT-330"
+  ],
+  "evidence_strength": "Moderate evidence with some well-conducted clinical trials and many preliminary studies; larger and longer-term studies needed.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

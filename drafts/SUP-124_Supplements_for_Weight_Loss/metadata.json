@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-124",
+  "title": "Supplements for Weight Loss",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for supplements for weight loss.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "weight loss",
+    "supplements",
+    "natural products",
+    "thermogenesis",
+    "appetite suppression",
+    "metabolism",
+    "safety",
+    "dosing",
+    "interactions"
+  ],
+  "related_modules": [
+    "SUP-101",
+    "SUP-203",
+    "NUT-55"
+  ],
+  "evidence_strength": "Moderate; evidence for weight loss supplements shows modest benefits with variable quality and quantity of clinical trials, safety concerns remain and long-term data is insufficient.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

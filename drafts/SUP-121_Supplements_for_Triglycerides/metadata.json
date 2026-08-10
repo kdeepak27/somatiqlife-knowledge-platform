@@ -1,0 +1,37 @@
+{
+  "module_id": "SUP-121",
+  "title": "Supplements for Triglycerides",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for supplements for triglycerides.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Optimization"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "triglycerides",
+    "supplements",
+    "omega-3 fatty acids",
+    "niacin",
+    "fibrates",
+    "fish oil",
+    "cholesterol",
+    "lipids",
+    "cardiometabolic health"
+  ],
+  "related_modules": [
+    "SUP-098-Cholesterol-Supplements",
+    "SUP-134-Omega3-Evidence",
+    "SUP-089-Cardiometabolic-Nutrition"
+  ],
+  "evidence_strength": "Established evidence for omega-3 fatty acids; moderate evidence for niacin; emerging/uncertain evidence for other supplements and fibrates as non-prescription agents.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
