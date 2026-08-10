@@ -1,0 +1,35 @@
+{
+  "module_id": "LAB-021",
+  "title": "White Blood Cell Count",
+  "subtitle": "What white blood cell count measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Blood Count and Iron",
+  "som_stages": [
+    "Screening",
+    "Diagnostic",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "White blood cell count",
+    "WBC",
+    "Leukocytes",
+    "Immunity",
+    "Blood test",
+    "Infection",
+    "Inflammation",
+    "Hematology"
+  ],
+  "related_modules": [
+    "LAB-010: Complete Blood Count",
+    "LAB-022: Differential White Blood Cell Count",
+    "LAB-030: Inflammatory Markers"
+  ],
+  "evidence_strength": "Established evidence with some moderate and emerging evidence on advanced applications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
