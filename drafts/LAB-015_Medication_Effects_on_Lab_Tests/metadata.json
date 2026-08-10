@@ -1,0 +1,42 @@
+{
+  "module_id": "LAB-015",
+  "title": "Medication Effects on Lab Tests",
+  "subtitle": "What medication effects on lab tests measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Lab Testing Foundations",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "Primary Care Providers",
+    "Laboratory Professionals",
+    "Pharmacists",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "medications",
+    "lab tests",
+    "laboratory interference",
+    "drug-induced changes",
+    "biomarkers",
+    "test interpretation",
+    "pharmacology",
+    "clinical chemistry",
+    "hematology",
+    "laboratory artifacts"
+  ],
+  "related_modules": [
+    "LAB-010_LabTestAccuracy",
+    "PHARM-005_DrugInteractions",
+    "LAB-022_SampleCollectionPrinciples",
+    "BIOM-011_BiomarkersInDisease"
+  ],
+  "evidence_strength": "Established evidence with emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

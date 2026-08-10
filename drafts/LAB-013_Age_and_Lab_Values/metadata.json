@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-013",
+  "title": "Age and Lab Values",
+  "subtitle": "What age and lab values measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Lab Testing Foundations",
+  "som_stages": [
+    "Pre-Diagnostic",
+    "Diagnostic",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Researchers",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "age",
+    "lab values",
+    "biomarkers",
+    "reference ranges",
+    "age-related changes",
+    "clinical interpretation",
+    "geriatric lab values",
+    "pediatric lab values"
+  ],
+  "related_modules": [
+    "LAB-001-BasicLabPrinciples",
+    "LAB-007-ReferenceRanges",
+    "LAB-021-PediatricLabTesting",
+    "LAB-029-GeriatricBiomarkers"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and peer-reviewed literature, supplemented by emerging research on personalized and precision medicine approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
