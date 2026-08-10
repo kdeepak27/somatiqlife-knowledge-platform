@@ -1,0 +1,35 @@
+{
+  "module_id": "LAB-045",
+  "title": "Serum Osmolality",
+  "subtitle": "What serum osmolality measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Glucose and Metabolism",
+  "som_stages": [
+    "All stages"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Serum osmolality",
+    "Osmolarity",
+    "Electrolytes",
+    "Dehydration",
+    "Hyponatremia",
+    "Hypernatremia",
+    "Glucose metabolism",
+    "Renal function",
+    "Body fluids"
+  ],
+  "related_modules": [
+    "LAB-012",
+    "LAB-021",
+    "LAB-033"
+  ],
+  "evidence_strength": "Established evidence based on clinical guidelines and widely accepted physiology",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
