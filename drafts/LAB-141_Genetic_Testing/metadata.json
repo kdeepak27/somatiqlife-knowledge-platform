@@ -1,0 +1,39 @@
+{
+  "module_id": "LAB-141",
+  "title": "Genetic Testing",
+  "subtitle": "What genetic testing measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Advanced and Consumer Testing",
+  "som_stages": [
+    "Pre-diagnostic",
+    "Diagnostic",
+    "Risk Assessment",
+    "Prognostic"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Genetic Counselors"
+  ],
+  "reading_level": "Medium - Consumer health literate",
+  "keywords": [
+    "genetic testing",
+    "DNA",
+    "genome sequencing",
+    "genetic variants",
+    "inherited diseases",
+    "genetic risk",
+    "pharmacogenomics",
+    "clinical genetics",
+    "direct-to-consumer testing",
+    "genotyping"
+  ],
+  "related_modules": [
+    "LAB-112",
+    "LAB-138",
+    "LAB-145"
+  ],
+  "evidence_strength": "Established evidence based on consensus guidelines, clinical trials, and systematic reviews.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

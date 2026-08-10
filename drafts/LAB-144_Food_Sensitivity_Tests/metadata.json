@@ -1,0 +1,35 @@
+{
+  "module_id": "LAB-144",
+  "title": "Food Sensitivity Tests",
+  "subtitle": "What food sensitivity tests measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Advanced and Consumer Testing",
+  "som_stages": [
+    "Investigation",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "food sensitivity",
+    "food intolerance",
+    "IgG testing",
+    "allergy testing",
+    "immune response",
+    "biomarkers",
+    "laboratory testing",
+    "clinical relevance"
+  ],
+  "related_modules": [
+    "LAB-023",
+    "ALL-101",
+    "NUT-202"
+  ],
+  "evidence_strength": "Moderate evidence for lack of diagnostic value of IgG testing; emerging consensus against routine clinical use.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
