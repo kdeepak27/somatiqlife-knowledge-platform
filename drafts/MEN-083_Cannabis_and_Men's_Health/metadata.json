@@ -1,0 +1,40 @@
+{
+  "module_id": "MEN-083",
+  "title": "Cannabis and Men's Health",
+  "subtitle": "Evidence, prevention, risk reduction, and practical strategies related to cannabis and men's health.",
+  "domain": "Men's Health",
+  "category": "Lifestyle and Safety",
+  "som_stages": [
+    "Prevention",
+    "Risk Reduction",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "Men",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate (Grades 9-12)",
+  "keywords": [
+    "Cannabis",
+    "Marijuana",
+    "Men's Health",
+    "THC",
+    "CBD",
+    "Endocannabinoid System",
+    "Reproductive Health",
+    "Mental Health",
+    "Cardiovascular Effects",
+    "Substance Use"
+  ],
+  "related_modules": [
+    "MEN-045-Male-Reproductive-Health",
+    "MEN-067-Substance-Use-in-Men",
+    "MEN-072-Mental-Health-and-Wellbeing-in-Men",
+    "GEN-031-Endocannabinoid-Science",
+    "WOM-080-Cannabis-and-Womens-Health"
+  ],
+  "evidence_strength": "Moderate evidence with emerging research; many findings require further validation in male-specific studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

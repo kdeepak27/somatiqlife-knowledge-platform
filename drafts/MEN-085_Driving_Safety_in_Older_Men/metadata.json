@@ -1,0 +1,39 @@
+{
+  "module_id": "MEN-085",
+  "title": "Driving Safety in Older Men",
+  "subtitle": "Evidence, prevention, risk reduction, and practical strategies related to driving safety in older men.",
+  "domain": "Men's Health",
+  "category": "Lifestyle and Safety",
+  "som_stages": [
+    "Maintenance",
+    "Risk Reduction",
+    "Prevention"
+  ],
+  "audience": [
+    "Older Men",
+    "Family Members",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate Adult",
+  "keywords": [
+    "driving safety",
+    "older men",
+    "aging",
+    "cognitive function",
+    "vision",
+    "fall risk",
+    "accident prevention",
+    "reaction time",
+    "medications",
+    "gerontology"
+  ],
+  "related_modules": [
+    "GER-012 Cognitive Aging and Safety",
+    "EYE-034 Vision Health in Seniors",
+    "PHA-101 Medication Safety in Older Adults"
+  ],
+  "evidence_strength": "Established Evidence with Moderate Limitations",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
