@@ -1,0 +1,40 @@
+{
+  "module_id": "CHD-028",
+  "title": "Sedentary Behavior in Children",
+  "subtitle": "Benefits, safety, evidence, and practical guidance related to sedentary behavior in children.",
+  "domain": "Children and Adolescents",
+  "category": "Physical Activity",
+  "som_stages": [
+    "Early Childhood",
+    "Middle Childhood",
+    "Adolescence"
+  ],
+  "audience": [
+    "Parents",
+    "Pediatricians",
+    "Childcare Providers",
+    "Educators",
+    "Public Health Professionals"
+  ],
+  "reading_level": "General Public",
+  "keywords": [
+    "sedentary behavior",
+    "children",
+    "physical activity",
+    "screen time",
+    "health risks",
+    "movement guidelines",
+    "child development",
+    "sedentarism",
+    "exercise",
+    "daily activity"
+  ],
+  "related_modules": [
+    "CHD-010_PhysicalActivityGuidelinesChildren",
+    "CHD-035_ChildhoodObesityPrevention",
+    "CHD-022_ScreenTimeAndChildHealth"
+  ],
+  "evidence_strength": "Established evidence from observational studies and systematic reviews; emerging evidence on effects of sedentary breaks; measurement challenges limit some conclusions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
