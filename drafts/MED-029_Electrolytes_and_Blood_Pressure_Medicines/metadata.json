@@ -1,0 +1,41 @@
+{
+  "module_id": "MED-029",
+  "title": "Electrolytes and Blood Pressure Medicines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to electrolytes and blood pressure medicines.",
+  "domain": "Medications",
+  "category": "Blood Pressure Medicines",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals",
+    "Pharmacists"
+  ],
+  "reading_level": "Accessible to laypersons with foundational scientific terms explained",
+  "keywords": [
+    "Electrolytes",
+    "Blood Pressure",
+    "Hypertension",
+    "Antihypertensive Medications",
+    "Diuretics",
+    "Potassium",
+    "Sodium",
+    "Calcium",
+    "Magnesium",
+    "Drug Interactions",
+    "Monitoring",
+    "Side Effects"
+  ],
+  "related_modules": [
+    "MED-014",
+    "MED-032",
+    "MED-045"
+  ],
+  "evidence_strength": "Established scientific consensus with input from clinical guidelines and pharmacological research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

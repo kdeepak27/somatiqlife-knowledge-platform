@@ -1,0 +1,39 @@
+{
+  "module_id": "MED-028",
+  "title": "Monitoring Blood Pressure Medicines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to monitoring blood pressure medicines.",
+  "domain": "Medications",
+  "category": "Blood Pressure Medicines",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers",
+    "Pharmacists",
+    "Nurses"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "blood pressure",
+    "hypertension",
+    "antihypertensive drugs",
+    "medication monitoring",
+    "side effects",
+    "drug interactions",
+    "physiology",
+    "home blood pressure monitoring",
+    "clinical guidelines"
+  ],
+  "related_modules": [
+    "MED-012",
+    "MED-034",
+    "MED-045"
+  ],
+  "evidence_strength": "Established evidence based on clinical guidelines and pharmacological research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
