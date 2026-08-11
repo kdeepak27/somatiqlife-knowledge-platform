@@ -1,0 +1,35 @@
+{
+  "module_id": "COND-161",
+  "title": "Rotator Cuff Disease",
+  "subtitle": "What rotator cuff disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Musculoskeletal and Pain",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "Rotator cuff",
+    "Shoulder pain",
+    "Tendinopathy",
+    "Tear",
+    "Physiotherapy",
+    "Shoulder anatomy",
+    "Shoulder injury"
+  ],
+  "related_modules": [
+    "COND-042-Shoulder-Dislocations",
+    "COND-075-Bursitis",
+    "COND-089-Tendinitis"
+  ],
+  "evidence_strength": "Established evidence based on multiple clinical studies and systematic reviews with some areas of emerging evidence related to surgical indications and long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

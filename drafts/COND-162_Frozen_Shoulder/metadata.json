@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-162",
+  "title": "Frozen Shoulder",
+  "subtitle": "What frozen shoulder is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Musculoskeletal and Pain",
+  "som_stages": [
+    "Assessment",
+    "Management",
+    "Education"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Primary Care Providers",
+    "Physical Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Frozen shoulder",
+    "Adhesive capsulitis",
+    "Shoulder stiffness",
+    "Shoulder pain",
+    "Range of motion",
+    "Physical therapy",
+    "Corticosteroids",
+    "Shoulder rehabilitation"
+  ],
+  "related_modules": [
+    "COND-083",
+    "COND-117",
+    "COND-145"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and conservative management; moderate and emerging evidence concerning optimal interventions; ongoing research on new therapies and surgical techniques.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
