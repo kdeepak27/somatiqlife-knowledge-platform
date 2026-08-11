@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-143",
+  "title": "Hypokalemia",
+  "subtitle": "What hypokalemia is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Management",
+    "Patient Education"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Students"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "Hypokalemia",
+    "Potassium deficiency",
+    "Electrolyte imbalance",
+    "Kidney function",
+    "Muscle weakness",
+    "Cardiac arrhythmia",
+    "Potassium homeostasis",
+    "Renal potassium loss"
+  ],
+  "related_modules": [
+    "COND-120-Chronic-Kidney-Disease",
+    "COND-130-Heart-Arrhythmias",
+    "COND-210-Electrolyte-Imbalances"
+  ],
+  "evidence_strength": "Established evidence from clinical practice guidelines and consensus documents with moderate emerging research on genetic factors and optimal management protocols.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

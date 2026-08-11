@@ -1,0 +1,35 @@
+{
+  "module_id": "COND-145",
+  "title": "Metabolic Acidosis",
+  "subtitle": "What metabolic acidosis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "Assessment",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate to Advanced",
+  "keywords": [
+    "Metabolic acidosis",
+    "Acid-base imbalance",
+    "Kidney function",
+    "Bicarbonate",
+    "Anion gap",
+    "Lactic acidosis"
+  ],
+  "related_modules": [
+    "COND-123",
+    "COND-134",
+    "COND-201"
+  ],
+  "evidence_strength": "Established: Supported by clinical guidelines and consensus statements, with emerging research refining specific treatment approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
