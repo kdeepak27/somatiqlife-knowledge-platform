@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-137",
+  "title": "Prostatitis",
+  "subtitle": "What prostatitis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Patient Education"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Medium (8th-10th grade)",
+  "keywords": [
+    "prostatitis",
+    "prostate inflammation",
+    "urinary symptoms",
+    "prostate infection",
+    "chronic pelvic pain syndrome",
+    "antibiotics",
+    "urinary tract infection",
+    "prostate gland"
+  ],
+  "related_modules": [
+    "COND-140 (Urinary Tract Infection)",
+    "COND-145 (Benign Prostatic Hyperplasia)",
+    "COND-150 (Chronic Pelvic Pain)"
+  ],
+  "evidence_strength": "Established and Moderate; evidence strong for bacterial prostatitis treatment and diagnosis, moderate for CP/CPPS mechanisms and interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
