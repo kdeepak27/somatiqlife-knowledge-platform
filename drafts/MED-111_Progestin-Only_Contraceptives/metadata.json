@@ -1,0 +1,38 @@
+{
+  "module_id": "MED-111",
+  "title": "Progestin-Only Contraceptives",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to progestin-only contraceptives.",
+  "domain": "Medications",
+  "category": "Hormone and Bone Medicines",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Pharmacists"
+  ],
+  "reading_level": "General audience, with some technical terms explained",
+  "keywords": [
+    "Progestin-only contraceptives",
+    "POCs",
+    "Hormonal contraception",
+    "Birth control",
+    "Progesterone",
+    "Progestins",
+    "Contraception mechanisms",
+    "Side effects contraception",
+    "Drug interactions contraception",
+    "Contraceptive safety"
+  ],
+  "related_modules": [
+    "MED-102-CombinedHormonalContraceptives",
+    "MED-205-FamilyPlanningMethods",
+    "MED-310-HormonalTherapies"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and large cohort studies supports the effectiveness and safety profile of progestin-only contraceptives in diverse populations. Emerging evidence continues to clarify nuanced side effect profiles and long-term outcomes. Some data on mood and weight effects remain moderate or inconsistent across studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
