@@ -1,0 +1,38 @@
+{
+  "module_id": "MED-062",
+  "title": "NSAIDs",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to NSAIDs.",
+  "domain": "Medications",
+  "category": "Pain and Inflammation Medicines",
+  "som_stages": [
+    "Assessment",
+    "Treatment",
+    "Monitoring"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "NSAIDs",
+    "Non-Steroidal Anti-Inflammatory Drugs",
+    "Pain Relief",
+    "Inflammation",
+    "COX Inhibitors",
+    "Side Effects",
+    "Drug Interactions",
+    "Monitoring",
+    "Safety"
+  ],
+  "related_modules": [
+    "MED-058-PainManagement",
+    "MED-034-RenalSafety",
+    "MED-071-CardiovascularRisks",
+    "MED-043-DrugInteractions"
+  ],
+  "evidence_strength": "Established evidence with some emerging research on selective COX-2 inhibitors and cardiovascular risk.",
+  "version": "2024-06-19",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
