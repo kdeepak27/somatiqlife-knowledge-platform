@@ -1,0 +1,35 @@
+{
+  "module_id": "COND-177",
+  "title": "Scoliosis",
+  "subtitle": "What scoliosis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Musculoskeletal and Pain",
+  "som_stages": [
+    "Detection",
+    "Diagnosis",
+    "Management",
+    "Long-Term Care"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Scoliosis",
+    "Spinal curvature",
+    "Back pain",
+    "Adolescent idiopathic scoliosis",
+    "Spinal deformity"
+  ],
+  "related_modules": [
+    "COND-45",
+    "COND-89",
+    "COND-112"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging insights regarding genetic and biomechanical factors",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-178",
+  "title": "Spinal Stenosis",
+  "subtitle": "What spinal stenosis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Musculoskeletal and Pain",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Patient Education"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Moderate (grade 10+ with medical terms explained)",
+  "keywords": [
+    "Spinal Stenosis",
+    "Spinal Canal Narrowing",
+    "Back Pain",
+    "Nerve Compression",
+    "Lumbar Stenosis",
+    "Cervical Stenosis",
+    "Neurogenic Claudication",
+    "Radiculopathy"
+  ],
+  "related_modules": [
+    "COND-125",
+    "COND-170",
+    "COND-182"
+  ],
+  "evidence_strength": "Established evidence for pathophysiology and conservative treatment; moderate evidence supports surgical outcomes; emerging evidence for novel therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
