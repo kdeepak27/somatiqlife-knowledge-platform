@@ -1,0 +1,35 @@
+{
+  "module_id": "MED-039",
+  "title": "Antiplatelet Medicines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antiplatelet medicines.",
+  "domain": "Medications",
+  "category": "Cholesterol and Heart Medicines",
+  "som_stages": [
+    "Prevention",
+    "Treatment"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "antiplatelet drugs",
+    "platelet aggregation",
+    "thrombosis",
+    "cardiovascular prevention",
+    "aspirin",
+    "clopidogrel",
+    "bleeding risk",
+    "drug interactions"
+  ],
+  "related_modules": [
+    "MED-045",
+    "MED-022",
+    "MED-053"
+  ],
+  "evidence_strength": "Established evidence based on multiple large clinical trials and guideline consensus.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

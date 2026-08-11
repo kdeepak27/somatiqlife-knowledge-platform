@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-038",
+  "title": "Aspirin for Cardiovascular Prevention",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to aspirin for cardiovascular prevention.",
+  "domain": "Medications",
+  "category": "Cholesterol and Heart Medicines",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "aspirin",
+    "cardiovascular prevention",
+    "heart attack prevention",
+    "stroke prevention",
+    "antiplatelet therapy",
+    "NSAID",
+    "bleeding risk",
+    "secondary prevention"
+  ],
+  "related_modules": [
+    "MED-042",
+    "MED-049",
+    "MED-051"
+  ],
+  "evidence_strength": "Established evidence for secondary prevention; moderate to emerging evidence for primary prevention; bleeding risks well documented.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
