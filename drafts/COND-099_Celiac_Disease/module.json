@@ -1,0 +1,254 @@
+{
+  "module_id": "COND-099",
+  "title": "Celiac Disease",
+  "subtitle": "What celiac disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Recognition",
+    "Evaluation",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Celiac disease",
+    "gluten intolerance",
+    "autoimmune disorder",
+    "digestive health",
+    "gluten-free diet",
+    "celiac symptoms",
+    "celiac diagnosis"
+  ],
+  "customer_questions": [
+    "What is celiac disease?",
+    "What causes celiac disease?",
+    "Who is at risk for celiac disease?",
+    "What are the common symptoms of celiac disease?",
+    "How is celiac disease diagnosed?",
+    "What tests are used to diagnose celiac disease?",
+    "Can celiac disease be cured?",
+    "How is celiac disease managed?",
+    "Is a gluten-free diet necessary for celiac disease?",
+    "Are there complications associated with untreated celiac disease?",
+    "Can children develop celiac disease?",
+    "What lifestyle changes are recommended for people with celiac disease?"
+  ],
+  "retrieval_summary": "Celiac disease is a chronic autoimmune disorder triggered by ingestion of gluten, a protein found in wheat, barley, and rye, in genetically predisposed individuals. The immune reaction damages the small intestine's lining, leading to malabsorption of nutrients and diverse symptoms. It is also known as celiac sprue or gluten-sensitive enteropathy. The pathophysiology involves an inappropriate immune response to gluten peptides, particularly in people with HLA-DQ2 or HLA-DQ8 gene variants, causing villous atrophy in the small intestine. Celiac disease affects approximately 1% of the global population but remains underdiagnosed due to variable clinical presentations ranging from classical digestive symptoms—such as diarrhea and abdominal pain—to non-gastrointestinal manifestations like anemia and fatigue. Diagnosis relies on serologic tests detecting anti-tissue transglutaminase (tTG) antibodies and endoscopic biopsy confirming intestinal damage. The cornerstone of management is a strict lifelong gluten-free diet, which helps heal intestinal damage and alleviate symptoms. Emerging treatments like enzyme therapies and immunomodulators are under investigation but not yet standard care. Untreated celiac disease can lead to complications such as osteoporosis, infertility, neurological disorders, and increased lymphoma risk. Safety considerations include avoiding gluten contamination and monitoring for nutritional deficiencies. Limitations exist in diagnosis due to variability in antibody levels and biopsy interpretation. Misconceptions include confusing celiac disease with non-celiac gluten sensitivity or wheat allergy. This module aims to provide clear, evidence-based information about celiac disease mechanisms, evaluation, management, and practical lifestyle guidance, helping patients and caregivers make informed decisions about care and nutrition.",
+  "learning_objectives": [
+    "Define celiac disease and understand its autoimmune nature.",
+    "Identify the causative role of gluten and genetic factors in celiac disease.",
+    "Recognize common and atypical symptoms of celiac disease.",
+    "Describe diagnostic approaches including laboratory and biopsy tests.",
+    "Explain the importance of a strict gluten-free diet in management.",
+    "Understand potential complications of untreated celiac disease.",
+    "Discuss lifestyle modifications to support health and nutrition.",
+    "Clarify common misconceptions about celiac disease and gluten-related disorders."
+  ],
+  "definition": "Celiac disease is a chronic autoimmune disorder in which ingestion of gluten—proteins found in wheat, barley, and rye—triggers an immune response damaging the small intestine lining, leading to malabsorption and various systemic symptoms.",
+  "why_this_matters": "Understanding celiac disease is crucial because it affects a significant portion of the population, often goes undiagnosed, and can cause serious health complications if untreated. A strict gluten-free diet is the only effective treatment, making accurate diagnosis and management essential for quality of life and long-term health.",
+  "sections": [
+    {
+      "heading": "Definition and Overview of Celiac Disease",
+      "content": "Celiac disease is an autoimmune disorder characterized by an immune response to gluten, a protein present in wheat, barley, and rye. This response damages the small intestinal mucosa, specifically causing villous atrophy, which impairs nutrient absorption. It is also called gluten-sensitive enteropathy or celiac sprue. This condition affects about 1% of the population worldwide and can present with diverse symptoms or be asymptomatic. Early recognition is important to prevent complications and improve quality of life."
+    },
+    {
+      "heading": "Pathophysiology: Immune Mechanisms and Genetics",
+      "content": "Celiac disease develops due to a complex interaction of genetic and environmental factors. The primary genetic predisposition involves the presence of HLA-DQ2 or HLA-DQ8 alleles, which present gluten-derived peptides to immune cells, triggering an inappropriate T-cell mediated immune response. This leads to inflammation and destruction of the intestinal villi, resulting in malabsorption. The immune reaction is characterized by production of specific autoantibodies, such as anti-tissue transglutaminase (tTG) and anti-endomysial antibodies."
+    },
+    {
+      "heading": "Risk Factors and Epidemiology",
+      "content": "Risk factors for developing celiac disease include genetic susceptibility (HLA-DQ2/DQ8), family history of celiac disease, other autoimmune diseases (e.g., type 1 diabetes, autoimmune thyroiditis), and certain environmental exposures such as early or delayed introduction of gluten in infancy. The disease affects all age groups but is often diagnosed in childhood or early adulthood. Global prevalence is approximately 1%, but many cases remain undiagnosed or misdiagnosed due to variable symptoms."
+    },
+    {
+      "heading": "Clinical Presentation and Symptoms",
+      "content": "Symptoms of celiac disease vary widely and may include classical gastrointestinal manifestations such as chronic diarrhea, abdominal pain, bloating, weight loss, and malnutrition. Non-classical symptoms include anemia, fatigue, dermatitis herpetiformis (a skin rash), osteoporosis, neurological symptoms, and growth delays in children. Some individuals are asymptomatic or have silent disease detected only by screening."
+    },
+    {
+      "heading": "Diagnostic Evaluation and Testing",
+      "content": "Diagnosis of celiac disease requires a combination of serologic testing and confirmatory small intestinal biopsy. Key serologic tests include the measurement of IgA anti-tissue transglutaminase (tTG) antibodies and total serum IgA level to exclude IgA deficiency. Positive serology is followed by an upper endoscopy with duodenal biopsy to assess villous atrophy and mucosal damage. HLA typing may be used in uncertain cases but is not diagnostic alone. It is essential that patients continue consuming gluten during testing for accurate results."
+    },
+    {
+      "heading": "Management: The Gluten-Free Diet",
+      "content": "The primary management strategy for celiac disease is lifelong adherence to a strict gluten-free diet, eliminating all dietary sources of wheat, barley, and rye. This dietary change allows intestinal healing, symptom resolution, and reduces risk of complications. Nutritional counseling with a dietitian is recommended to identify hidden gluten sources, ensure balanced nutrition, and prevent deficiencies. Regular follow-up monitoring is important to assess dietary adherence and recovery."
+    },
+    {
+      "heading": "Complications of Untreated or Inadequately Treated Celiac Disease",
+      "content": "If untreated, celiac disease can result in severe complications including nutritional deficiencies (iron, calcium, vitamin D), osteoporosis, infertility, neurological disorders (e.g., peripheral neuropathy, ataxia), small bowel lymphoma, and other malignancies. Ongoing intestinal damage increases risk for malabsorption-related issues and reduces quality of life. Adherence to a gluten-free diet significantly decreases these risks."
+    },
+    {
+      "heading": "Lifestyle Considerations and Nutritional Guidance",
+      "content": "People with celiac disease must carefully avoid gluten-containing foods and cross-contamination. Reading food labels, choosing gluten-free grains (e.g., rice, corn, quinoa), and dining out safely require awareness and planning. Nutritional guidance includes monitoring for deficiencies, supplementing vitamins and minerals as needed, and maintaining a balanced diet. Support groups and educational resources can enhance coping and adherence."
+    },
+    {
+      "heading": "Misconceptions and Differentiating from Other Gluten-Related Disorders",
+      "content": "Common misconceptions include confusing celiac disease with non-celiac gluten sensitivity or wheat allergy. Unlike celiac disease, non-celiac gluten sensitivity lacks autoimmune intestinal damage and specific antibodies, and wheat allergy involves an allergic immune reaction. Only celiac disease requires strict lifelong gluten avoidance to prevent intestinal injury. Understanding these differences is important for appropriate diagnosis and management."
+    },
+    {
+      "heading": "Emerging Therapies and Research Directions",
+      "content": "Research is ongoing into alternative therapies for celiac disease, including enzymatic treatments that degrade gluten peptides, immunotherapy to induce tolerance, and vaccines to modulate immune response. These approaches are still experimental and not yet standard care. Continued research aims to improve quality of life and reduce dietary restrictions. Current evidence supports gluten-free diet as the cornerstone of therapy."
+    },
+    {
+      "heading": "Safety Notes and Monitoring in Celiac Disease",
+      "content": "Safety considerations include avoiding gluten exposure, which can cause symptom relapse and intestinal injury. Patients require regular follow-up to monitor symptom resolution, adherence to diet, and screen for nutritional deficiencies or associated autoimmune conditions. Wearing a medical alert bracelet and communicating diagnosis to healthcare providers supports emergency care. Patients should also be aware of potential social and psychological impacts and seek appropriate support."
+    }
+  ],
+  "practical_guidance": [
+    "Strictly avoid all gluten-containing grains: wheat, barley, rye, and their derivatives.",
+    "Consult a registered dietitian experienced with celiac disease for personalized diet planning.",
+    "Maintain adherence to a gluten-containing diet before testing to ensure accurate diagnosis.",
+    "Be vigilant about cross-contamination risks at home and when eating out.",
+    "Monitor for symptoms and nutritional deficiencies regularly, especially iron, calcium, and vitamin D.",
+    "Join support groups for education and emotional support.",
+    "Report new or persistent symptoms to healthcare providers promptly.",
+    "Understand the difference between celiac disease and other gluten-related disorders to avoid misinformation."
+  ],
+  "safety_notes": [
+    "Avoid gluten exposure to prevent intestinal damage and symptom recurrence.",
+    "Ensure nutritional deficiencies are addressed with supplements if necessary.",
+    "Inform all healthcare providers about celiac disease diagnosis.",
+    "Be cautious with non-food products that may contain gluten (e.g., medications, cosmetics).",
+    "Report symptoms like neurological changes or severe fatigue for timely evaluation."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Celiac disease is the same as wheat allergy.",
+      "reality": "Celiac disease is an autoimmune disorder causing intestinal damage, whereas wheat allergy is an allergic reaction involving different immune mechanisms."
+    },
+    {
+      "misconception": "Non-celiac gluten sensitivity is the same as celiac disease.",
+      "reality": "Non-celiac gluten sensitivity does not cause autoimmune damage or produce celiac-specific antibodies, and its underlying mechanisms differ from celiac disease."
+    },
+    {
+      "misconception": "People with celiac disease can occasionally eat gluten without problems.",
+      "reality": "Even small amounts of gluten can trigger immune damage in celiac disease, so strict lifelong avoidance is necessary."
+    }
+  ],
+  "clinical_pearls": [
+    "Serologic testing for anti-tTG antibodies is highly sensitive and specific when the patient is consuming gluten.",
+    "Small intestinal biopsy remains the diagnostic gold standard to confirm villous atrophy.",
+    "HLA typing is useful to exclude celiac disease if HLA-DQ2 and DQ8 alleles are absent.",
+    "A gluten-free diet can lead to intestinal mucosal healing and symptom resolution in most patients.",
+    "Nutritional deficiencies are common at diagnosis and should be assessed and treated appropriately.",
+    "Dermatitis herpetiformis is an itchy skin manifestation of celiac disease responsive to gluten-free diet.",
+    "Patients need long-term follow-up to monitor adherence, symptoms, and complications.",
+    "Emerging treatments are promising but gluten-free diet remains the cornerstone of therapy."
+  ],
+  "key_takeaways": [
+    "Celiac disease is an autoimmune disorder triggered by gluten ingestion causing small intestinal damage.",
+    "Genetic predisposition (HLA-DQ2/DQ8) is necessary but not sufficient for disease development.",
+    "Symptoms range from classic gastrointestinal problems to non-specific or no symptoms.",
+    "Serologic antibody tests and duodenal biopsy confirm diagnosis.",
+    "Strict lifelong gluten-free diet is the only proven treatment to promote healing and prevent complications.",
+    "Untreated celiac disease can lead to serious complications including malnutrition and lymphoma.",
+    "Lifestyle adjustments and careful diet management are essential for disease control.",
+    "Research into alternative therapies is ongoing but gluten avoidance remains central to care."
+  ],
+  "glossary": [
+    {
+      "term": "Celiac disease",
+      "definition": "A chronic autoimmune disorder triggered by gluten ingestion causing damage to the small intestine lining."
+    },
+    {
+      "term": "Gluten",
+      "definition": "A group of proteins found in wheat, barley, and rye that can trigger an immune response in susceptible individuals."
+    },
+    {
+      "term": "Villous atrophy",
+      "definition": "Flattening or damage of the fingerlike projections (villi) in the small intestine that absorb nutrients."
+    },
+    {
+      "term": "Anti-tissue transglutaminase (tTG) antibodies",
+      "definition": "Autoantibodies produced in celiac disease, used as a key marker in blood tests for diagnosis."
+    },
+    {
+      "term": "HLA-DQ2 and HLA-DQ8",
+      "definition": "Genetic markers (human leukocyte antigens) strongly associated with celiac disease susceptibility."
+    },
+    {
+      "term": "Malabsorption",
+      "definition": "Poor absorption of nutrients from the digestive tract due to intestinal damage."
+    },
+    {
+      "term": "Dermatitis herpetiformis",
+      "definition": "An itchy, blistering skin rash associated with celiac disease."
+    },
+    {
+      "term": "Non-celiac gluten sensitivity",
+      "definition": "A condition causing symptoms related to gluten ingestion without celiac disease or wheat allergy."
+    }
+  ],
+  "related_modules": [
+    "COND-045",
+    "COND-165",
+    "COND-210"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-CELIAC-001",
+      "title": "Intestinal Villous Atrophy in Celiac Disease",
+      "illustration_type": "Diagram",
+      "description": "Diagram showing the normal small intestinal villi compared with villous atrophy seen in celiac disease affecting nutrient absorption.",
+      "alt_text": "Comparison of normal intestinal villi and villous atrophy in celiac disease."
+    },
+    {
+      "illustration_id": "ILL-CELIAC-002",
+      "title": "Immune Response Mechanism in Celiac Disease",
+      "illustration_type": "Flowchart",
+      "description": "Flowchart illustrating how gluten peptides trigger an immune response in genetically predisposed individuals leading to intestinal damage.",
+      "alt_text": "Flowchart of immune mechanisms causing celiac disease."
+    },
+    {
+      "illustration_id": "ILL-CELIAC-003",
+      "title": "Gluten-Containing vs Gluten-Free Grains",
+      "illustration_type": "Informational graphic",
+      "description": "A side-by-side infographic listing common gluten-containing grains and safe gluten-free alternatives for dietary guidance.",
+      "alt_text": "Comparison list of grains with and without gluten."
+    },
+    {
+      "illustration_id": "ILL-CELIAC-004",
+      "title": "Clinical Presentation Spectrum of Celiac Disease",
+      "illustration_type": "Chart",
+      "description": "Chart depicting the wide range of symptoms in celiac disease, from classical gastrointestinal symptoms to non-gastrointestinal and silent forms.",
+      "alt_text": "Chart showing diverse symptoms of celiac disease."
+    }
+  ],
+  "references": [
+    {
+      "title": "Celiac Disease: Guidelines from the British Society of Gastroenterology",
+      "organization_or_authors": "British Society of Gastroenterology",
+      "year": "2014",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Diagnosis and Management of Celiac Disease",
+      "organization_or_authors": "American College of Gastroenterology Clinical Guideline",
+      "year": "2013",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "European Society for the Study of Coeliac Disease (ESsCD) Guidelines",
+      "organization_or_authors": "ESsCD",
+      "year": "2020",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Non-Celiac Gluten Sensitivity: Clinical Relevance and Perspectives",
+      "organization_or_authors": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "year": "2022",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence based on clinical guidelines and peer-reviewed research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

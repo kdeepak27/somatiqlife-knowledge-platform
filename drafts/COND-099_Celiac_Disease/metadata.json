@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-099",
+  "title": "Celiac Disease",
+  "subtitle": "What celiac disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Recognition",
+    "Evaluation",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Celiac disease",
+    "gluten intolerance",
+    "autoimmune disorder",
+    "digestive health",
+    "gluten-free diet",
+    "celiac symptoms",
+    "celiac diagnosis"
+  ],
+  "related_modules": [
+    "COND-045",
+    "COND-165",
+    "COND-210"
+  ],
+  "evidence_strength": "Established evidence based on clinical guidelines and peer-reviewed research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
