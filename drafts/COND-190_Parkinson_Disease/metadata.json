@@ -1,0 +1,42 @@
+{
+  "module_id": "COND-190",
+  "title": "Parkinson Disease",
+  "subtitle": "What parkinson disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Neurologic and Cognitive",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Patient Education"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Parkinson disease",
+    "Parkinson's disease",
+    "PD",
+    "neurodegeneration",
+    "movement disorder",
+    "dopamine",
+    "basal ganglia",
+    "Lewy bodies",
+    "motor symptoms",
+    "non-motor symptoms",
+    "therapy",
+    "medication",
+    "deep brain stimulation"
+  ],
+  "related_modules": [
+    "COND-135-Neurodegenerative-Disorders",
+    "COND-120-Movement-Disorders",
+    "COND-220-Dementia-Cognitive-Decline"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and systematic reviews supports current understanding of Parkinson disease. Emerging research on genetics and novel therapies is ongoing. Some environmental risk associations have moderate evidence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
