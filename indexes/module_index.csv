@@ -54,156 +54,56 @@ COND-052,Gout,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-
 COND-053,Hyperuricemia,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-053_Hyperuricemia/module.json
 COND-054,Hemochromatosis,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-054_Hemochromatosis/module.json
 COND-055,Metabolic Dysfunction-Associated Steatotic Liver Disease,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-055_Metabolic_Dysfunction-Associated_Steatotic_Liver_Disease/module.json
-LAB-001,Understanding Laboratory Tests,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-001_Understanding_Laboratory_Tests/module.json
-LAB-002,Reference Ranges,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-002_Reference_Ranges/module.json
-LAB-003,Normal vs Optimal Lab Values,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-003_Normal_vs_Optimal_Lab_Values/module.json
-LAB-004,Fasting Before Blood Tests,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-004_Fasting_Before_Blood_Tests/module.json
-LAB-005,Preparing for Blood Tests,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-005_Preparing_for_Blood_Tests/module.json
-LAB-006,Biological Variation in Lab Results,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-006_Biological_Variation_in_Lab_Results/module.json
-LAB-007,Lab Measurement Error,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-007_Lab_Measurement_Error/module.json
-LAB-008,False Positive Lab Results,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-008_False_Positive_Lab_Results/module.json
-LAB-009,False Negative Lab Results,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-009_False_Negative_Lab_Results/module.json
-LAB-010,Repeat Testing,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-010_Repeat_Testing/module.json
-LAB-011,Trending Lab Results Over Time,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-011_Trending_Lab_Results_Over_Time/module.json
-LAB-012,Units in Laboratory Testing,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-012_Units_in_Laboratory_Testing/module.json
-LAB-013,Age and Lab Values,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-013_Age_and_Lab_Values/module.json
-LAB-014,Sex and Lab Values,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-014_Sex_and_Lab_Values/module.json
-LAB-015,Medication Effects on Lab Tests,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-015_Medication_Effects_on_Lab_Tests/module.json
-LAB-016,Complete Blood Count,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-016_Complete_Blood_Count/module.json
-LAB-017,Hemoglobin,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-017_Hemoglobin/module.json
-LAB-018,Hematocrit,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-018_Hematocrit/module.json
-LAB-019,Red Blood Cell Count,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-019_Red_Blood_Cell_Count/module.json
-LAB-020,Mean Corpuscular Volume,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-020_Mean_Corpuscular_Volume/module.json
-LAB-021,White Blood Cell Count,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-021_White_Blood_Cell_Count/module.json
-LAB-022,Neutrophils,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-022_Neutrophils/module.json
-LAB-023,Lymphocytes,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-023_Lymphocytes/module.json
-LAB-024,Platelet Count,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-024_Platelet_Count/module.json
-LAB-025,Ferritin,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-025_Ferritin/module.json
-LAB-026,Serum Iron,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-026_Serum_Iron/module.json
-LAB-027,Total Iron-Binding Capacity,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-027_Total_Iron-Binding_Capacity/module.json
-LAB-028,Transferrin Saturation,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-028_Transferrin_Saturation/module.json
-LAB-029,Vitamin B12 Test,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-029_Vitamin_B12_Test/module.json
-LAB-030,Folate Test,Laboratory Tests and Biomarkers,Blood Count and Iron,1.0,drafts,drafts/LAB-030_Folate_Test/module.json
-LAB-031,Fasting Glucose,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-031_Fasting_Glucose/module.json
-LAB-032,HbA1c,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-032_HbA1c/module.json
-LAB-033,Oral Glucose Tolerance Test,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-033_Oral_Glucose_Tolerance_Test/module.json
-LAB-034,Random Glucose,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-034_Random_Glucose/module.json
-LAB-035,Fasting Insulin,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-035_Fasting_Insulin/module.json
-LAB-036,C-Peptide,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-036_C-Peptide/module.json
-LAB-037,HOMA-IR,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-037_HOMA-IR/module.json
-LAB-038,Fructosamine,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-038_Fructosamine/module.json
-LAB-039,Ketones,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-039_Ketones/module.json
-LAB-040,Lactate,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-040_Lactate/module.json
-LAB-041,Uric Acid,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-041_Uric_Acid/module.json
-LAB-042,Metabolic Panel,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-042_Metabolic_Panel/module.json
-LAB-043,Anion Gap,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-043_Anion_Gap/module.json
-LAB-044,Bicarbonate,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-044_Bicarbonate/module.json
-LAB-045,Serum Osmolality,Laboratory Tests and Biomarkers,Glucose and Metabolism,1.0,drafts,drafts/LAB-045_Serum_Osmolality/module.json
-LAB-046,Total Cholesterol,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-046_Total_Cholesterol/module.json
-LAB-047,LDL Cholesterol,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-047_LDL_Cholesterol/module.json
-LAB-048,HDL Cholesterol,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-048_HDL_Cholesterol/module.json
-LAB-049,Triglycerides,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-049_Triglycerides/module.json
-LAB-050,Non-HDL Cholesterol,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-050_Non-HDL_Cholesterol/module.json
-LAB-051,Apolipoprotein B,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-051_Apolipoprotein_B/module.json
-LAB-052,Lipoprotein(a),Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-052_Lipoprotein(a)/module.json
-LAB-053,LDL Particle Number,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-053_LDL_Particle_Number/module.json
-LAB-054,Small Dense LDL,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-054_Small_Dense_LDL/module.json
-LAB-055,High-Sensitivity C-Reactive Protein,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-055_High-Sensitivity_C-Reactive_Protein/module.json
-LAB-056,Troponin,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-056_Troponin/module.json
-LAB-057,BNP and NT-proBNP,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-057_BNP_and_NT-proBNP/module.json
-LAB-058,Homocysteine,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-058_Homocysteine/module.json
-LAB-059,Coronary Artery Calcium Score,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-059_Coronary_Artery_Calcium_Score/module.json
-LAB-060,Cardiovascular Risk Calculators,Laboratory Tests and Biomarkers,Lipids and Cardiovascular,1.0,drafts,drafts/LAB-060_Cardiovascular_Risk_Calculators/module.json
-LAB-061,ALT,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-061_ALT/module.json
-LAB-062,AST,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-062_AST/module.json
-LAB-063,Alkaline Phosphatase,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-063_Alkaline_Phosphatase/module.json
-LAB-064,GGT,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-064_GGT/module.json
-LAB-065,Bilirubin,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-065_Bilirubin/module.json
-LAB-066,Albumin,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-066_Albumin/module.json
-LAB-067,Total Protein,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-067_Total_Protein/module.json
-LAB-068,Creatinine,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-068_Creatinine/module.json
-LAB-069,Estimated GFR,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-069_Estimated_GFR/module.json
-LAB-070,Blood Urea Nitrogen,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-070_Blood_Urea_Nitrogen/module.json
-LAB-071,Urine Albumin-to-Creatinine Ratio,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-071_Urine_Albumin-to-Creatinine_Ratio/module.json
-LAB-072,Urinalysis,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-072_Urinalysis/module.json
-LAB-073,Urine Protein,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-073_Urine_Protein/module.json
-LAB-074,Cystatin C,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-074_Cystatin_C/module.json
-LAB-075,Kidney Function Trends,Laboratory Tests and Biomarkers,Liver and Kidney,1.0,drafts,drafts/LAB-075_Kidney_Function_Trends/module.json
-LAB-076,TSH,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-076_TSH/module.json
-LAB-077,Free T4,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-077_Free_T4/module.json
-LAB-078,Free T3,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-078_Free_T3/module.json
-LAB-079,Thyroid Peroxidase Antibodies,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-079_Thyroid_Peroxidase_Antibodies/module.json
-LAB-080,Thyroglobulin Antibodies,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-080_Thyroglobulin_Antibodies/module.json
-LAB-081,Cortisol Test,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-081_Cortisol_Test/module.json
-LAB-082,Testosterone Test,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-082_Testosterone_Test/module.json
-LAB-083,Free Testosterone,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-083_Free_Testosterone/module.json
-LAB-084,Estradiol,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-084_Estradiol/module.json
-LAB-085,Progesterone,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-085_Progesterone/module.json
-LAB-086,FSH,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-086_FSH/module.json
-LAB-087,LH,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-087_LH/module.json
-LAB-088,Prolactin,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-088_Prolactin/module.json
-LAB-089,DHEA-S,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-089_DHEA-S/module.json
-LAB-090,SHBG,Laboratory Tests and Biomarkers,Thyroid and Hormones,1.0,drafts,drafts/LAB-090_SHBG/module.json
-LAB-091,25-Hydroxy Vitamin D,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-091_25-Hydroxy_Vitamin_D/module.json
-LAB-092,Serum Calcium,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-092_Serum_Calcium/module.json
-LAB-093,Ionized Calcium,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-093_Ionized_Calcium/module.json
-LAB-094,Parathyroid Hormone,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-094_Parathyroid_Hormone/module.json
-LAB-095,Magnesium Test,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-095_Magnesium_Test/module.json
-LAB-096,Phosphate Test,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-096_Phosphate_Test/module.json
-LAB-097,Zinc Test,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-097_Zinc_Test/module.json
-LAB-098,Copper Test,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-098_Copper_Test/module.json
-LAB-099,Selenium Test,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-099_Selenium_Test/module.json
-LAB-100,Iodine Testing,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-100_Iodine_Testing/module.json
-LAB-101,Bone Density Scan,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-101_Bone_Density_Scan/module.json
-LAB-102,T-Score,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-102_T-Score/module.json
-LAB-103,Z-Score,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-103_Z-Score/module.json
-LAB-104,Vitamin A Test,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-104_Vitamin_A_Test/module.json
-LAB-105,Vitamin E Test,Laboratory Tests and Biomarkers,Vitamins Minerals and Bone,1.0,drafts,drafts/LAB-105_Vitamin_E_Test/module.json
-LAB-106,C-Reactive Protein,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-106_C-Reactive_Protein/module.json
-LAB-107,Erythrocyte Sedimentation Rate,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-107_Erythrocyte_Sedimentation_Rate/module.json
-LAB-108,ANA Test,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-108_ANA_Test/module.json
-LAB-109,Rheumatoid Factor,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-109_Rheumatoid_Factor/module.json
-LAB-110,Anti-CCP Antibodies,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-110_Anti-CCP_Antibodies/module.json
-LAB-111,Immunoglobulin Levels,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-111_Immunoglobulin_Levels/module.json
-LAB-112,Complement Levels,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-112_Complement_Levels/module.json
-LAB-113,Celiac Antibody Testing,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-113_Celiac_Antibody_Testing/module.json
-LAB-114,Allergy IgE Testing,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-114_Allergy_IgE_Testing/module.json
-LAB-115,HIV Testing,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-115_HIV_Testing/module.json
-LAB-116,Hepatitis B Testing,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-116_Hepatitis_B_Testing/module.json
-LAB-117,Hepatitis C Testing,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-117_Hepatitis_C_Testing/module.json
-LAB-118,Inflammatory Marker Interpretation,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-118_Inflammatory_Marker_Interpretation/module.json
-LAB-119,Autoimmune Test False Positives,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-119_Autoimmune_Test_False_Positives/module.json
-LAB-120,When Inflammation Tests Are Useful,Laboratory Tests and Biomarkers,Inflammation and Immunity,1.0,drafts,drafts/LAB-120_When_Inflammation_Tests_Are_Useful/module.json
-LAB-121,PSA Test,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-121_PSA_Test/module.json
-LAB-122,CA-125,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-122_CA-125/module.json
-LAB-123,CEA,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-123_CEA/module.json
-LAB-124,AFP,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-124_AFP/module.json
-LAB-125,CA 19-9,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-125_CA_19-9/module.json
-LAB-126,Cancer Biomarkers Overview,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-126_Cancer_Biomarkers_Overview/module.json
-LAB-127,Tumor Markers and Screening,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-127_Tumor_Markers_and_Screening/module.json
-LAB-128,HPV Testing,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-128_HPV_Testing/module.json
-LAB-129,Fecal Immunochemical Test,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-129_Fecal_Immunochemical_Test/module.json
-LAB-130,Cologuard,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-130_Cologuard/module.json
-LAB-131,Pap Test,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-131_Pap_Test/module.json
-LAB-132,Mammography,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-132_Mammography/module.json
-LAB-133,Low-Dose CT Screening,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-133_Low-Dose_CT_Screening/module.json
-LAB-134,Genetic Cancer Testing,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-134_Genetic_Cancer_Testing/module.json
-LAB-135,Liquid Biopsy Basics,Laboratory Tests and Biomarkers,Cancer and Screening Biomarkers,1.0,drafts,drafts/LAB-135_Liquid_Biopsy_Basics/module.json
-LAB-136,Continuous Glucose Monitoring,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-136_Continuous_Glucose_Monitoring/module.json
-LAB-137,Home Blood Pressure Monitoring,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-137_Home_Blood_Pressure_Monitoring/module.json
-LAB-138,Home Cholesterol Tests,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-138_Home_Cholesterol_Tests/module.json
-LAB-139,Home HbA1c Tests,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-139_Home_HbA1c_Tests/module.json
-LAB-140,Home Sleep Tests,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-140_Home_Sleep_Tests/module.json
-LAB-141,Genetic Testing,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-141_Genetic_Testing/module.json
-LAB-142,Direct-to-Consumer Genetic Tests,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-142_Direct-to-Consumer_Genetic_Tests/module.json
-LAB-143,Microbiome Tests,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-143_Microbiome_Tests/module.json
-LAB-144,Food Sensitivity Tests,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-144_Food_Sensitivity_Tests/module.json
-LAB-145,Biological Age Tests,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-145_Biological_Age_Tests/module.json
-LAB-146,Telomere Tests,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-146_Telomere_Tests/module.json
-LAB-147,Hormone Panels,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-147_Hormone_Panels/module.json
-LAB-148,Wellness Lab Panels,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-148_Wellness_Lab_Panels/module.json
-LAB-149,When More Testing Is Not Better,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-149_When_More_Testing_Is_Not_Better/module.json
-LAB-150,Building a Personal Lab Monitoring Plan,Laboratory Tests and Biomarkers,Advanced and Consumer Testing,1.0,drafts,drafts/LAB-150_Building_a_Personal_Lab_Monitoring_Plan/module.json
+COND-056,Lipodystrophy,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-056_Lipodystrophy/module.json
+COND-057,Hyperparathyroidism,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-057_Hyperparathyroidism/module.json
+COND-058,Hypoparathyroidism,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-058_Hypoparathyroidism/module.json
+COND-059,Vitamin D Deficiency,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-059_Vitamin_D_Deficiency/module.json
+COND-060,Iron Deficiency,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-060_Iron_Deficiency/module.json
+COND-061,Asthma,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-061_Asthma/module.json
+COND-062,Chronic Obstructive Pulmonary Disease,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-062_Chronic_Obstructive_Pulmonary_Disease/module.json
+COND-063,Chronic Bronchitis,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-063_Chronic_Bronchitis/module.json
+COND-064,Emphysema,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-064_Emphysema/module.json
+COND-065,Pneumonia,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-065_Pneumonia/module.json
+COND-066,Bronchitis,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-066_Bronchitis/module.json
+COND-067,COVID-19,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-067_COVID-19/module.json
+COND-068,Long COVID,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-068_Long_COVID/module.json
+COND-069,Influenza,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-069_Influenza/module.json
+COND-070,Tuberculosis,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-070_Tuberculosis/module.json
+COND-071,Obstructive Sleep Apnea,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-071_Obstructive_Sleep_Apnea/module.json
+COND-072,Central Sleep Apnea,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-072_Central_Sleep_Apnea/module.json
+COND-073,Insomnia,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-073_Insomnia/module.json
+COND-074,Restless Legs Syndrome,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-074_Restless_Legs_Syndrome/module.json
+COND-075,Narcolepsy,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-075_Narcolepsy/module.json
+COND-076,Chronic Cough,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-076_Chronic_Cough/module.json
+COND-077,Allergic Rhinitis,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-077_Allergic_Rhinitis/module.json
+COND-078,Sinusitis,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-078_Sinusitis/module.json
+COND-079,Pulmonary Fibrosis,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-079_Pulmonary_Fibrosis/module.json
+COND-080,Bronchiectasis,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-080_Bronchiectasis/module.json
+COND-081,Pleural Effusion,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-081_Pleural_Effusion/module.json
+COND-082,Pneumothorax,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-082_Pneumothorax/module.json
+COND-083,Lung Cancer,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-083_Lung_Cancer/module.json
+COND-084,Occupational Lung Disease,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-084_Occupational_Lung_Disease/module.json
+COND-085,Exercise-Induced Bronchoconstriction,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-085_Exercise-Induced_Bronchoconstriction/module.json
+COND-086,Hypoxemia,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-086_Hypoxemia/module.json
+COND-087,Hyperventilation Syndrome,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-087_Hyperventilation_Syndrome/module.json
+COND-088,Snoring,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-088_Snoring/module.json
+COND-089,Shift Work Sleep Disorder,Medical Conditions,Respiratory and Sleep,1.0,drafts,drafts/COND-089_Shift_Work_Sleep_Disorder/module.json
+COND-090,Circadian Rhythm Sleep-Wake Disorders,Medical Conditions,Respiratory and Sleep,1.0.0,drafts,drafts/COND-090_Circadian_Rhythm_Sleep-Wake_Disorders/module.json
+COND-091,Gastroesophageal Reflux Disease,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-091_Gastroesophageal_Reflux_Disease/module.json
+COND-092,Peptic Ulcer Disease,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-092_Peptic_Ulcer_Disease/module.json
+COND-093,H. pylori Infection,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-093_H._pylori_Infection/module.json
+COND-094,Gastritis,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-094_Gastritis/module.json
+COND-095,Irritable Bowel Syndrome,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-095_Irritable_Bowel_Syndrome/module.json
+COND-096,Inflammatory Bowel Disease,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-096_Inflammatory_Bowel_Disease/module.json
+COND-097,Crohn Disease,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-097_Crohn_Disease/module.json
+COND-098,Ulcerative Colitis,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-098_Ulcerative_Colitis/module.json
+COND-099,Celiac Disease,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-099_Celiac_Disease/module.json
+COND-100,Lactose Intolerance,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-100_Lactose_Intolerance/module.json
+COND-101,Constipation,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-101_Constipation/module.json
+COND-102,Chronic Diarrhea,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-102_Chronic_Diarrhea/module.json
+COND-103,Diverticulosis,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-103_Diverticulosis/module.json
+COND-104,Diverticulitis,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-104_Diverticulitis/module.json
+COND-105,Hemorrhoids,Medical Conditions,Digestive and Liver,1.0,drafts,drafts/COND-105_Hemorrhoids/module.json
 MED-001,How Medicines Work,Medications,Medication Foundations,1.0,drafts,drafts/MED-001_How_Medicines_Work/module.json
 MED-002,Prescription vs Over-the-Counter Medicines,Medications,Medication Foundations,1.0,drafts,drafts/MED-002_Prescription_vs_Over-the-Counter_Medicines/module.json
 MED-003,Generic vs Brand-Name Medicines,Medications,Medication Foundations,1.0,drafts,drafts/MED-003_Generic_vs_Brand-Name_Medicines/module.json
