@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-009",
+  "title": "Medication Side Effects",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication side effects.",
+  "domain": "Medications",
+  "category": "Medication Foundations",
+  "som_stages": [
+    "Medication Initiation",
+    "Medication Maintenance",
+    "Patient Education"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Side effects",
+    "Adverse effects",
+    "Drug interactions",
+    "Medication safety",
+    "Pharmacology",
+    "Monitoring",
+    "Adverse drug reaction",
+    "Mechanisms of side effects"
+  ],
+  "related_modules": [
+    "MED-005: Drug Mechanisms of Action",
+    "MED-012: Drug Interactions",
+    "MED-027: Pharmacovigilance and Medication Safety"
+  ],
+  "evidence_strength": "Established evidence for definitions, mechanisms, and common side effects; moderate evidence for risk factors and monitoring strategies; emerging evidence for pharmacogenetics and patient education impact.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
