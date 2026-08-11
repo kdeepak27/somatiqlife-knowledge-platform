@@ -1,0 +1,35 @@
+{
+  "module_id": "MED-072",
+  "title": "Topical Pain Medicines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to topical pain medicines.",
+  "domain": "Medications",
+  "category": "Pain and Inflammation Medicines",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "topical analgesics",
+    "pain relief",
+    "local anesthetics",
+    "anti-inflammatory creams",
+    "capsaicin",
+    "NSAIDs",
+    "lidocaine",
+    "menthol",
+    "counterirritants",
+    "transdermal"
+  ],
+  "related_modules": [
+    "MED-045",
+    "MED-050"
+  ],
+  "evidence_strength": "Established and moderate evidence supporting use with some areas of variability depending on agent and condition.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

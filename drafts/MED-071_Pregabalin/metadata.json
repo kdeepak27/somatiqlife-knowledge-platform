@@ -1,0 +1,38 @@
+{
+  "module_id": "MED-071",
+  "title": "Pregabalin",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to pregabalin.",
+  "domain": "Medications",
+  "category": "Pain and Inflammation Medicines",
+  "som_stages": [
+    "Assessment",
+    "Treatment Planning",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Pregabalin",
+    "Neuropathic Pain",
+    "Fibromyalgia",
+    "Seizures",
+    "Gabapentinoids",
+    "Side Effects",
+    "Drug Interactions",
+    "Pregabalin Monitoring",
+    "Pain Management"
+  ],
+  "related_modules": [
+    "MED-023",
+    "MED-054",
+    "MED-102"
+  ],
+  "evidence_strength": "Established evidence supported by randomized controlled trials and clinical guidelines for approved uses; moderate to emerging evidence for some off-label uses; safety profile well-characterized but requires ongoing pharmacovigilance.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
