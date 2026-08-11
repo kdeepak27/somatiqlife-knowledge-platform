@@ -1,0 +1,39 @@
+{
+  "module_id": "MED-146",
+  "title": "Medicines in Older Adults",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medicines in older adults.",
+  "domain": "Medications",
+  "category": "Medication Management in Real Life",
+  "som_stages": [
+    "Assessment",
+    "Management",
+    "Monitoring"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers",
+    "Pharmacists"
+  ],
+  "reading_level": "High School to Adult",
+  "keywords": [
+    "polypharmacy",
+    "pharmacokinetics",
+    "pharmacodynamics",
+    "drug interactions",
+    "adverse drug reactions",
+    "medication safety",
+    "geriatric pharmacology",
+    "deprescribing",
+    "medication adherence",
+    "older adults"
+  ],
+  "related_modules": [
+    "MED-102",
+    "MED-119",
+    "MED-142"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines, supplemented by emerging research in geriatric pharmacology.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
