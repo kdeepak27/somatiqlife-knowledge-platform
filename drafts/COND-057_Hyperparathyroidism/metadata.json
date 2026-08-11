@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-057",
+  "title": "Hyperparathyroidism",
+  "subtitle": "What hyperparathyroidism is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Metabolic and Endocrine",
+  "som_stages": [
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Medium (General public and healthcare professionals)",
+  "keywords": [
+    "hyperparathyroidism",
+    "parathyroid hormone",
+    "calcium metabolism",
+    "primary hyperparathyroidism",
+    "secondary hyperparathyroidism",
+    "tertiary hyperparathyroidism",
+    "parathyroid glands",
+    "bone health",
+    "kidney function"
+  ],
+  "related_modules": [
+    "COND-102",
+    "COND-110",
+    "COND-085"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and peer-reviewed literature",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
