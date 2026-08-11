@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-061",
+  "title": "Asthma",
+  "subtitle": "What asthma is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Moderate (Grades 8-10)",
+  "keywords": [
+    "Asthma",
+    "Respiratory disease",
+    "Airway inflammation",
+    "Wheezing",
+    "Shortness of breath",
+    "Inhaler",
+    "Bronchodilator",
+    "Allergens",
+    "Triggers"
+  ],
+  "related_modules": [
+    "COND-042-Allergic-Rhinitis",
+    "COND-074-Chronic-Obstructive-Pulmonary-Disease",
+    "COND-123-Respiratory-Infections"
+  ],
+  "evidence_strength": "Established evidence for most management strategies; some emerging evidence for biologics and personalized therapies; ongoing research into asthma phenotypes and triggers.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

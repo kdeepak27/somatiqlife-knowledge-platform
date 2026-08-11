@@ -1,0 +1,252 @@
+{
+  "module_id": "COND-065",
+  "title": "Pneumonia",
+  "subtitle": "What pneumonia is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Pneumonia",
+    "Lung infection",
+    "Respiratory infection",
+    "Bacterial pneumonia",
+    "Viral pneumonia",
+    "Symptoms",
+    "Diagnosis",
+    "Treatment",
+    "Risk factors",
+    "Prevention"
+  ],
+  "customer_questions": [
+    "What is pneumonia and how does it affect the lungs?",
+    "What are the common causes of pneumonia?",
+    "Who is at higher risk of developing pneumonia?",
+    "What symptoms indicate pneumonia?",
+    "How is pneumonia diagnosed by healthcare providers?",
+    "What treatments are available for pneumonia?",
+    "Can pneumonia be prevented and how?",
+    "What lifestyle changes help recovery from pneumonia?",
+    "When should I seek emergency care for pneumonia?",
+    "Are antibiotics always needed for pneumonia?",
+    "What complications can arise from pneumonia?",
+    "How is pneumonia different from bronchitis or the flu?"
+  ],
+  "retrieval_summary": "Pneumonia is an acute respiratory infection that inflames the air sacs (alveoli) in one or both lungs. These sacs may fill with fluid or pus, causing cough, fever, chills, and difficulty breathing. Pneumonia results from various infectious agents, including bacteria, viruses, fungi, and rarely parasites. The infection disrupts normal lung function by interfering with gas exchange, which can reduce oxygen levels in the blood and lead to systemic illness. Pneumonia is a significant cause of morbidity and mortality worldwide, especially among young children, older adults, and people with weakened immune systems. Common pathogens include Streptococcus pneumoniae (the leading bacterial cause) and respiratory viruses such as influenza and SARS-CoV-2. Diagnosis is supported by clinical examination, chest imaging (X-ray), and sometimes laboratory tests. Management depends on the cause; bacterial pneumonia usually requires antibiotics, while viral cases focus on supportive care. Preventative measures include vaccinations (pneumococcal and influenza vaccines), hand hygiene, smoking cessation, and addressing other risk factors like chronic diseases. Awareness of symptoms and early treatment improves outcomes and reduces complications such as sepsis or lung abscess. Limitations exist in diagnostic specificity without advanced testing, and antibiotic resistance can complicate treatment. Safety considerations include monitoring for respiratory distress and adverse effects of medications. Major synonyms include bacterial pneumonia, viral pneumonia, lobar pneumonia, and community-acquired pneumonia. This module provides comprehensive education to support understanding, prevention, and management of pneumonia.",
+  "learning_objectives": [
+    "Define pneumonia and understand its impact on lung physiology.",
+    "Identify common infectious causes of pneumonia.",
+    "Recognize risk factors that predispose individuals to pneumonia.",
+    "Describe typical symptoms and signs of pneumonia.",
+    "Explain diagnostic approaches for pneumonia assessment.",
+    "Discuss treatment options and their rationale.",
+    "Understand lifestyle modifications to aid recovery and prevention.",
+    "Recognize complications and when to seek urgent care.",
+    "Differentiate pneumonia from other respiratory illnesses.",
+    "Review safety precautions in managing pneumonia."
+  ],
+  "definition": "Pneumonia is an infection that causes inflammation in the alveoli—the small air sacs in the lungs—leading to fluid or pus buildup that impairs breathing and oxygen exchange.",
+  "why_this_matters": "Pneumonia is a leading cause of illness and death globally, especially among vulnerable populations. Understanding its causes, symptoms, and management helps in early recognition, treatment, and prevention of serious complications, improving health outcomes and reducing healthcare burden.",
+  "sections": [
+    {
+      "heading": "Overview and Definition of Pneumonia",
+      "content": "Pneumonia is an acute infection of the lung parenchyma characterized by inflammation of the alveoli. This inflammation leads to alveolar filling with inflammatory cells, fluid, and sometimes microbes, impairing gas exchange. Pneumonia can affect one lobe (lobar pneumonia), several lobes, or be patchy (bronchopneumonia). It differs from bronchitis, which involves larger airways but not alveoli. Common synonyms include pulmonary infection and lung infection. Understanding pneumonia’s definition clarifies its impact on respiratory health."
+    },
+    {
+      "heading": "Causes and Pathogens of Pneumonia",
+      "content": "Pneumonia is caused by various infectious agents: bacteria (e.g., Streptococcus pneumoniae, Haemophilus influenzae), viruses (influenza virus, respiratory syncytial virus, SARS-CoV-2), fungi (e.g., Pneumocystis jirovecii in immunocompromised hosts), and rarely parasites. Bacterial pneumonia is more likely to cause severe illness needing antibiotics. Viral pneumonia may be self-limiting or require supportive care. Identifying the causative agent guides treatment decisions. Mixed infections can occur, complicating diagnosis and therapy."
+    },
+    {
+      "heading": "Risk Factors for Developing Pneumonia",
+      "content": "Certain populations have increased risk of pneumonia. These include older adults (>65 years), infants and young children, people with chronic medical conditions (e.g., chronic obstructive pulmonary disease, diabetes, heart disease), smokers, immunocompromised individuals (HIV/AIDS, chemotherapy), those with swallowing difficulties (risk of aspiration), and patients hospitalized or mechanically ventilated. Recognizing these risk factors aids in prevention strategies and clinical suspicion during diagnosis."
+    },
+    {
+      "heading": "Symptoms and Clinical Presentation",
+      "content": "Classic symptoms of pneumonia include cough (productive or dry), fever, chills, shortness of breath, chest pain (often pleuritic), fatigue, and rapid breathing. Physical examination may reveal crackles (rales), decreased breath sounds, or bronchial breath sounds over affected lung areas. In elderly patients, presentation can be atypical with confusion or absence of fever. Early recognition of symptoms ensures timely medical evaluation."
+    },
+    {
+      "heading": "Diagnostic Evaluation of Pneumonia",
+      "content": "Diagnosis is based on patient history, physical examination, and diagnostic tests. Chest X-rays are commonly used to visualize infiltrates indicative of pneumonia. Laboratory tests may include complete blood count, sputum gram stain and culture, blood cultures, and specific antigen or PCR tests for certain pathogens. Pulse oximetry assesses oxygenation. Accurate diagnosis is essential to tailor appropriate treatment. Limitations include difficulty identifying causative pathogen in many cases."
+    },
+    {
+      "heading": "Treatment and Management Strategies",
+      "content": "Treatment depends on pneumonia type and severity. Community-acquired bacterial pneumonia is treated with empiric antibiotics targeting common pathogens. Viral pneumonia management focuses on supportive care such as oxygen therapy and hydration; antiviral agents may be used for influenza or COVID-19. Hospitalization may be necessary for severe cases or those with complications. Adjunctive measures include fever control and respiratory support. Antibiotic resistance and appropriateness are important considerations."
+    },
+    {
+      "heading": "Prevention and Vaccination",
+      "content": "Preventative measures reduce pneumonia incidence and severity. Vaccines against Streptococcus pneumoniae (pneumococcal vaccine) and influenza virus are effective in reducing pneumonia risk. Good hand hygiene, respiratory etiquette, smoking cessation, and managing chronic diseases also lower risk. Patients and caregivers should learn about vaccination schedules and lifestyle habits to support lung health and infection prevention."
+    },
+    {
+      "heading": "Lifestyle Considerations and Recovery",
+      "content": "Lifestyle modifications such as adequate rest, nutrition, smoking cessation, and avoiding air pollutants support recovery from pneumonia. Pulmonary rehabilitation may be recommended in some cases. Maintaining hydration and following medical advice optimize healing. Awareness of signs of worsening condition ensures prompt care. Patients should understand that recovery times vary and some may experience lingering fatigue or cough."
+    },
+    {
+      "heading": "Complications and When to Seek Emergency Care",
+      "content": "Potential complications include respiratory failure, sepsis, lung abscess, pleural effusion, and chronic lung damage. Signs warranting urgent evaluation include difficulty breathing, chest pain, confusion, persistent high fever, or cyanosis. Early medical attention can prevent progression to life-threatening conditions. Patient education about these warning signs is critical for safety."
+    },
+    {
+      "heading": "Common Misconceptions about Pneumonia",
+      "content": "Misconceptions include beliefs that pneumonia is only caused by bacteria, that antibiotics are needed for all pneumonia cases, or that pneumonia is just a severe cold. In reality, viral pneumonia is common and sometimes self-limited. Not all pneumonia cases require antibiotics, especially viral ones. Understanding these facts helps patients avoid unnecessary antibiotic use and improve treatment outcomes."
+    },
+    {
+      "heading": "Differentiating Pneumonia from Other Respiratory Illnesses",
+      "content": "Pneumonia can be confused with bronchitis, the flu, or COVID-19 due to overlapping symptoms. Bronchitis typically affects airways without alveolar involvement, causing cough but less severe oxygen impairment. Viral respiratory illnesses may cause systemic symptoms but not always infiltrates on chest imaging. Confirmatory diagnosis with imaging and labs assists in accurate differentiation and management."
+    }
+  ],
+  "practical_guidance": [
+    "Seek medical evaluation if pneumonia symptoms appear, especially in high-risk individuals.",
+    "Follow prescribed antibiotic or antiviral regimens completely to ensure effective treatment.",
+    "Get recommended vaccinations for pneumococcal disease and influenza to reduce pneumonia risk.",
+    "Practice good hand hygiene and avoid smoking to protect lung health.",
+    "Monitor oxygen levels if diagnosed with pneumonia and seek emergency care if breathing worsens.",
+    "Maintain hydration, rest, and nutrition to support recovery from pneumonia."
+  ],
+  "safety_notes": [
+    "Do not self-medicate with antibiotics as inappropriate use can promote resistance.",
+    "Seek urgent care if experiencing severe shortness of breath, chest pain, or confusion.",
+    "Inform healthcare providers about allergies and previous antibiotic use to guide safe treatment.",
+    "Avoid exposure to tobacco smoke and environmental pollutants during and after illness for lung recovery."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Pneumonia is caused only by bacteria.",
+      "reality": "Pneumonia can be caused by bacteria, viruses, fungi, and other agents."
+    },
+    {
+      "misconception": "All pneumonia cases require antibiotics.",
+      "reality": "Only bacterial pneumonia requires antibiotics; viral pneumonias are managed differently."
+    },
+    {
+      "misconception": "Pneumonia is just a severe cold and not serious.",
+      "reality": "Pneumonia can be life-threatening, especially in young children and older adults, and requires medical care."
+    }
+  ],
+  "clinical_pearls": [
+    "Early administration of appropriate antibiotics reduces pneumonia mortality.",
+    "Pulse oximetry is a critical non-invasive tool to monitor oxygenation in pneumonia patients.",
+    "Vaccination significantly decreases the incidence and severity of pneumonia.",
+    "Consider patient risk factors when deciding on inpatient vs. outpatient management.",
+    "Chest X-ray remains a standard and accessible diagnostic method but cannot always identify causative pathogens."
+  ],
+  "key_takeaways": [
+    "Pneumonia is a lung infection that inflames alveoli leading to breathing difficulties.",
+    "It can be caused by bacteria, viruses, fungi, or other organisms.",
+    "Risk factors include age, smoking, immunosuppression, and chronic diseases.",
+    "Symptoms often include cough, fever, and shortness of breath.",
+    "Diagnosis involves clinical assessment and chest imaging.",
+    "Treatment varies by cause: antibiotics for bacterial, supportive care for viral.",
+    "Vaccines and healthy lifestyle reduce pneumonia risk.",
+    "Seek prompt medical care for severe symptoms to avoid complications."
+  ],
+  "glossary": [
+    {
+      "term": "Alveoli",
+      "definition": "Tiny air sacs in the lungs where oxygen and carbon dioxide are exchanged."
+    },
+    {
+      "term": "Bacterial pneumonia",
+      "definition": "Pneumonia caused by bacteria, often requiring treatment with antibiotics."
+    },
+    {
+      "term": "Chest X-ray",
+      "definition": "An imaging test used to visualize the lungs and detect pneumonia or other lung conditions."
+    },
+    {
+      "term": "Immunocompromised",
+      "definition": "Having a weakened immune system that makes infections more likely."
+    },
+    {
+      "term": "Oxygen saturation (SpO2)",
+      "definition": "The percentage of oxygen-saturated hemoglobin in the blood, indicating oxygen levels."
+    },
+    {
+      "term": "Pneumococcal vaccine",
+      "definition": "A vaccine that protects against Streptococcus pneumoniae, a common cause of bacterial pneumonia."
+    },
+    {
+      "term": "Pulse oximetry",
+      "definition": "A non-invasive method to measure blood oxygen saturation using a sensor placed on a thin part of the body."
+    },
+    {
+      "term": "Respiratory distress",
+      "definition": "Difficulty in breathing that may require urgent medical attention."
+    }
+  ],
+  "related_modules": [
+    "COND-021",
+    "COND-033",
+    "COND-051"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Anatomy of the Lungs and Alveoli",
+      "illustration_type": "Diagram",
+      "description": "Detailed diagram showing the lungs structures focusing on alveoli where pneumonia inflammation occurs.",
+      "alt_text": "Diagram of lungs highlighting alveoli and airways."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Chest X-ray Showing Pneumonia",
+      "illustration_type": "Medical Imaging",
+      "description": "Chest radiograph image highlighting typical lung infiltrates consistent with pneumonia.",
+      "alt_text": "X-ray of chest with areas of lung opacity indicating pneumonia."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Pathogens Causing Pneumonia",
+      "illustration_type": "Infographic",
+      "description": "Infographic listing common bacterial, viral, and fungal agents responsible for pneumonia.",
+      "alt_text": "Illustration showing microbes causing pneumonia with labels."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Symptoms and Signs of Pneumonia",
+      "illustration_type": "Illustration",
+      "description": "Visual summary of common symptoms patients may experience during pneumonia.",
+      "alt_text": "Image showing person with cough, fever, chest pain, and shortness of breath."
+    }
+  ],
+  "references": [
+    {
+      "title": "Pneumonia - Clinical Overview",
+      "organization_or_authors": "American Lung Association",
+      "year": "2023",
+      "identifier": "https://www.lung.org/lung-health-diseases/lung-disease-lookup/pneumonia/learn-about-pneumonia",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Pneumonia",
+      "organization_or_authors": "Centers for Disease Control and Prevention (CDC)",
+      "year": "2023",
+      "identifier": "https://www.cdc.gov/pneumonia/index.html",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Community-acquired Pneumonia in Adults",
+      "organization_or_authors": "UpToDate",
+      "year": "2024",
+      "identifier": "https://www.uptodate.com/contents/community-acquired-pneumonia-in-adults",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Pneumonia",
+      "organization_or_authors": "World Health Organization (WHO)",
+      "year": "2022",
+      "identifier": "https://www.who.int/news-room/fact-sheets/detail/pneumonia",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and authoritative public health organizations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

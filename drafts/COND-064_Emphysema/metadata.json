@@ -1,0 +1,35 @@
+{
+  "module_id": "COND-064",
+  "title": "Emphysema",
+  "subtitle": "What emphysema is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Assessment",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Emphysema",
+    "Chronic obstructive pulmonary disease",
+    "COPD",
+    "Lung damage",
+    "Smoking",
+    "Breathing difficulty"
+  ],
+  "related_modules": [
+    "COND-062",
+    "COND-070",
+    "COND-068"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights into genetic contributions and rehabilitation benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
