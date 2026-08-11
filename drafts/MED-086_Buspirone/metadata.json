@@ -1,0 +1,35 @@
+{
+  "module_id": "MED-086",
+  "title": "Buspirone",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to buspirone.",
+  "domain": "Medications",
+  "category": "Sleep and Mental Health Medicines",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Buspirone",
+    "Anxiolytic",
+    "GAD",
+    "5-HT1A receptor",
+    "Serotonin receptor agonist",
+    "Mental Health Medication",
+    "Anxiety Treatment",
+    "Side Effects of Buspirone",
+    "Drug Interactions",
+    "Medication Monitoring"
+  ],
+  "related_modules": [
+    "MED-045",
+    "MED-073"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
