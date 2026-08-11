@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-059",
+  "title": "Tirzepatide",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to tirzepatide.",
+  "domain": "Medications",
+  "category": "Diabetes and Weight Medicines",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "tirzepatide",
+    "GLP-1 receptor agonist",
+    "GIP receptor agonist",
+    "type 2 diabetes",
+    "weight loss",
+    "side effects",
+    "drug interactions",
+    "monitoring",
+    "safety"
+  ],
+  "related_modules": [
+    "MED-022",
+    "MED-031",
+    "MED-045"
+  ],
+  "evidence_strength": "Established Evidence from Phase 3 Clinical Trials and Regulatory Approvals",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

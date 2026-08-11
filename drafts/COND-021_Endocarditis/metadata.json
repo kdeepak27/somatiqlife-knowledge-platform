@@ -1,0 +1,41 @@
+{
+  "module_id": "COND-021",
+  "title": "Endocarditis",
+  "subtitle": "What endocarditis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate - Suitable for educated consumers with some medical background",
+  "keywords": [
+    "endocarditis",
+    "infective endocarditis",
+    "cardiac infection",
+    "valvular infection",
+    "heart inflammation",
+    "bacterial endocarditis",
+    "risk factors",
+    "symptoms",
+    "diagnosis",
+    "treatment",
+    "prevention",
+    "complications"
+  ],
+  "related_modules": [
+    "COND-010",
+    "COND-025",
+    "COND-030"
+  ],
+  "evidence_strength": "Established evidence for clinical features, diagnostics, and standard treatment; emerging evidence for rapid diagnostics and novel therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

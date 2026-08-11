@@ -1,0 +1,39 @@
+{
+  "module_id": "MED-124",
+  "title": "Macrolides",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to macrolides.",
+  "domain": "Medications",
+  "category": "Anti-Infective Medicines",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Macrolides",
+    "Antibiotics",
+    "Anti-infective",
+    "Bacterial infections",
+    "Erythromycin",
+    "Clarithromycin",
+    "Azithromycin",
+    "Drug interactions",
+    "Side effects",
+    "Antibiotic resistance"
+  ],
+  "related_modules": [
+    "MED-053-AntiBioticsGeneral",
+    "MED-127-AntibioticResistance",
+    "MED-116-DrugInteractions"
+  ],
+  "evidence_strength": "Established evidence with some emerging data on resistance patterns and safety in special populations",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

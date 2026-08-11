@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-130",
+  "title": "Antibiotic Resistance",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antibiotic resistance.",
+  "domain": "Medications",
+  "category": "Anti-Infective Medicines",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare professionals",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "antibiotic resistance",
+    "antimicrobials",
+    "bacteria",
+    "drug resistance",
+    "infection",
+    "side effects",
+    "monitoring",
+    "antibiotic stewardship"
+  ],
+  "related_modules": [
+    "MED-045",
+    "MED-077",
+    "MED-092"
+  ],
+  "evidence_strength": "Established evidence supports core concepts of antibiotic resistance mechanisms and clinical implications, with ongoing research addressing emerging treatments and diagnostics.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

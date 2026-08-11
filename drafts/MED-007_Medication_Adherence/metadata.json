@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-007",
+  "title": "Medication Adherence",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication adherence.",
+  "domain": "Medications",
+  "category": "Medication Foundations",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Treatment"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "medication adherence",
+    "compliance",
+    "drug therapy",
+    "patient behavior",
+    "side effects",
+    "monitoring",
+    "drug interactions",
+    "patient education",
+    "medication regimen"
+  ],
+  "related_modules": [
+    "MED-005",
+    "MED-009",
+    "MED-012"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

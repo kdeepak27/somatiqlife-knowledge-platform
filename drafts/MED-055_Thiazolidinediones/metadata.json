@@ -1,0 +1,38 @@
+{
+  "module_id": "MED-055",
+  "title": "Thiazolidinediones",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to thiazolidinediones.",
+  "domain": "Medications",
+  "category": "Diabetes and Weight Medicines",
+  "som_stages": [
+    "Type 2 Diabetes Management",
+    "Pharmacologic Therapy"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Thiazolidinediones",
+    "TZDs",
+    "pioglitazone",
+    "rosiglitazone",
+    "type 2 diabetes",
+    "insulin sensitizers",
+    "PPAR-gamma agonists",
+    "side effects",
+    "drug interactions",
+    "blood glucose control"
+  ],
+  "related_modules": [
+    "MED-008",
+    "MED-025",
+    "MED-047",
+    "MED-072"
+  ],
+  "evidence_strength": "Established evidence supports the effectiveness of TZDs in insulin sensitization and glucose lowering, with moderate evidence regarding cardiovascular safety profiles and side effect risks. Emerging data continues to clarify long-term safety and combination therapy roles.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

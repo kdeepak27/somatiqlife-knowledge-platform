@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-080",
+  "title": "Melatonin Receptor Agonists",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to melatonin receptor agonists.",
+  "domain": "Medications",
+  "category": "Sleep and Mental Health Medicines",
+  "som_stages": [
+    "Assessment",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate (Grade 10)",
+  "keywords": [
+    "melatonin receptor agonists",
+    "circadian rhythm",
+    "sleep disorders",
+    "Ramelteon",
+    "Tasimelteon",
+    "safety",
+    "side effects",
+    "drug interactions",
+    "sleep medicine"
+  ],
+  "related_modules": [
+    "MED-081",
+    "MED-200",
+    "MED-145"
+  ],
+  "evidence_strength": "Established evidence for approved uses; moderate emerging evidence for off-label indications; safety profile supported by clinical trials and post-marketing surveillance.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

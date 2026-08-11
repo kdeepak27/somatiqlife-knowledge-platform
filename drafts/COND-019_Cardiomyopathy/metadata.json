@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-019",
+  "title": "Cardiomyopathy",
+  "subtitle": "What cardiomyopathy is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Recognition",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "High School",
+  "keywords": [
+    "cardiomyopathy",
+    "heart muscle disease",
+    "cardiac dysfunction",
+    "heart failure",
+    "cardiac evaluation",
+    "heart symptoms",
+    "cardiac risk factors",
+    "heart management"
+  ],
+  "related_modules": [
+    "COND-025 (Heart Failure)",
+    "COND-030 (Arrhythmias)",
+    "COND-040 (Hypertension)"
+  ],
+  "evidence_strength": "Established evidence for common cardiomyopathy types, causes, and management; emerging evidence in genetic testing and novel therapies; uncertain evidence in long-term outcomes for some treatments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,40 @@
+{
+  "module_id": "COND-009",
+  "title": "Atrial Fibrillation",
+  "subtitle": "What atrial fibrillation is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General public",
+    "Patients",
+    "Caregivers",
+    "Healthcare professionals"
+  ],
+  "reading_level": "Intermediate (health literate)",
+  "keywords": [
+    "atrial fibrillation",
+    "AFib",
+    "arrhythmia",
+    "heart rhythm disorder",
+    "stroke risk",
+    "anticoagulation",
+    "rate control",
+    "rhythm control",
+    "cardioversion",
+    "catheter ablation"
+  ],
+  "related_modules": [
+    "COND-002_Hypertension",
+    "COND-012_Heart_Failure",
+    "COND-017_Stroke_Prevention",
+    "COND-020_Valvular_Heart_Disease"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and large meta-analyses supports major management strategies; emerging research continues to refine procedural and novel anticoagulant therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

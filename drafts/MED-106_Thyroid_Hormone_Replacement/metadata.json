@@ -1,0 +1,38 @@
+{
+  "module_id": "MED-106",
+  "title": "Thyroid Hormone Replacement",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to thyroid hormone replacement.",
+  "domain": "Medications",
+  "category": "Hormone and Bone Medicines",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "thyroid hormone",
+    "levothyroxine",
+    "hypothyroidism",
+    "thyroid replacement therapy",
+    "T4",
+    "T3",
+    "thyroid function",
+    "side effects",
+    "drug interactions",
+    "monitoring"
+  ],
+  "related_modules": [
+    "MED-102_ThyroidFunctionTests",
+    "MED-114_AutoimmuneThyroidDisease",
+    "MED-120_HormonalTherapiesInEndocrinology"
+  ],
+  "evidence_strength": "Established evidence for levothyroxine efficacy and safety in hypothyroidism; moderate evidence on combination therapy with T3; emerging evidence on individualized approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

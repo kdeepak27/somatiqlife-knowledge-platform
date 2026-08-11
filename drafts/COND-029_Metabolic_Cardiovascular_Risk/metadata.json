@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-029",
+  "title": "Metabolic Cardiovascular Risk",
+  "subtitle": "What metabolic cardiovascular risk is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Assessment",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Metabolic cardiovascular risk",
+    "cardiovascular disease",
+    "metabolic syndrome",
+    "risk factors",
+    "lipids",
+    "hypertension",
+    "blood sugar",
+    "obesity",
+    "inflammation",
+    "atherosclerosis"
+  ],
+  "related_modules": [
+    "COND-015",
+    "COND-040",
+    "COND-053"
+  ],
+  "evidence_strength": "Established evidence for association of metabolic abnormalities with increased cardiovascular risk; moderate evidence for certain biomarkers and personalized risk assessments; emerging evidence for novel interventions and precision medicine approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

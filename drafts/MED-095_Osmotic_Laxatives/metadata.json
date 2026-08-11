@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-095",
+  "title": "Osmotic Laxatives",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to osmotic laxatives.",
+  "domain": "Medications",
+  "category": "Digestive and Respiratory Medicines",
+  "som_stages": [
+    "Management",
+    "Supportive Care"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "Osmotic laxatives",
+    "Constipation",
+    "Polyethylene glycol",
+    "Lactulose",
+    "Magnesium citrate",
+    "Bowel movement",
+    "Electrolyte imbalance",
+    "Laxative safety",
+    "Gastrointestinal motility",
+    "Laxative side effects"
+  ],
+  "related_modules": [
+    "MED-089_LaxativeAgents",
+    "MED-075_ChronicConstipation",
+    "MED-110_OpioidInducedConstipation"
+  ],
+  "evidence_strength": "Moderate - based on clinical guidelines, pharmacology texts, and randomized controlled trials where available, with some limitations in specific populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

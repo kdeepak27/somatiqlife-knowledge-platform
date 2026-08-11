@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-122",
+  "title": "Penicillins",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to penicillins.",
+  "domain": "Medications",
+  "category": "Anti-Infective Medicines",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Treatment",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "penicillins",
+    "antibiotics",
+    "beta-lactams",
+    "bacterial infections",
+    "side effects",
+    "drug interactions",
+    "antibiotic resistance"
+  ],
+  "related_modules": [
+    "MED-124",
+    "MED-121",
+    "MED-130"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and authoritative pharmacological sources.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

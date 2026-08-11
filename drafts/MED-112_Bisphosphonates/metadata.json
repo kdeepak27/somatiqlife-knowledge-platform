@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-112",
+  "title": "Bisphosphonates",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to bisphosphonates.",
+  "domain": "Medications",
+  "category": "Hormone and Bone Medicines",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Bisphosphonates",
+    "Bone Density",
+    "Osteoporosis",
+    "Bone Resorption",
+    "Alendronate",
+    "Risedronate",
+    "Zoledronic Acid",
+    "Bone Health",
+    "Medication Safety"
+  ],
+  "related_modules": [
+    "MED-115_Osteoporosis",
+    "MED-118_Calcium_and_Vitamin_D_Supplements",
+    "MED-120_Paget_disease_of_bone"
+  ],
+  "evidence_strength": "Established evidence for efficacy in osteoporosis and bone metastasis; rare adverse events supported by case series and consensus guidelines; long-term safety data emerging with ongoing research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,40 @@
+{
+  "module_id": "MED-116",
+  "title": "Vitamin D as Medicine",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to vitamin d as medicine.",
+  "domain": "Medications",
+  "category": "Hormone and Bone Medicines",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Vitamin D",
+    "Cholecalciferol",
+    "Ergocalciferol",
+    "Calcitriol",
+    "Bone Health",
+    "Calcium Metabolism",
+    "Vitamin D Toxicity",
+    "Supplementation",
+    "Rickets",
+    "Osteoporosis"
+  ],
+  "related_modules": [
+    "MED-010",
+    "MED-047",
+    "MED-089"
+  ],
+  "evidence_strength": "Established evidence for bone health and deficiency treatment; moderate emerging evidence for non-skeletal benefits; uncertain evidence regarding broad disease prevention.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

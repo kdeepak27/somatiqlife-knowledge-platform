@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-013",
+  "title": "Aortic Aneurysm",
+  "subtitle": "What aortic aneurysm is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public",
+    "Healthcare Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "aortic aneurysm",
+    "aneurysm",
+    "aorta",
+    "cardiovascular disease",
+    "risk factors",
+    "management",
+    "symptoms",
+    "evaluation"
+  ],
+  "related_modules": [
+    "COND-007",
+    "COND-015"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and systematic reviews supports most content; moderate emerging evidence informs risk factors relating to inflammation and genetics; some aspects about lifestyle impact have lower certainty.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

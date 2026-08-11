@@ -1,0 +1,39 @@
+{
+  "module_id": "MED-118",
+  "title": "Glucocorticoid Risks to Bone",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to glucocorticoid risks to bone.",
+  "domain": "Medications",
+  "category": "Hormone and Bone Medicines",
+  "som_stages": [
+    "Assessment",
+    "Treatment",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate to Advanced",
+  "keywords": [
+    "Glucocorticoids",
+    "Bone Loss",
+    "Osteoporosis",
+    "Fracture Risk",
+    "Hormones",
+    "Bone Health",
+    "Steroids",
+    "Bone Density",
+    "Calcium",
+    "Vitamin D"
+  ],
+  "related_modules": [
+    "MED-075",
+    "MED-102",
+    "MED-130"
+  ],
+  "evidence_strength": "Established evidence for mechanisms and clinical risk; moderate evidence supporting optimal prevention strategies; emerging evidence on new therapies and individual susceptibility.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,249 @@
+{
+  "module_id": "MED-063",
+  "title": "Ibuprofen",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to ibuprofen.",
+  "domain": "Medications",
+  "category": "Pain and Inflammation Medicines",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Ibuprofen",
+    "NSAIDs",
+    "Pain Relief",
+    "Anti-inflammatory",
+    "Side Effects",
+    "Drug Interactions",
+    "Monitoring",
+    "Safety"
+  ],
+  "customer_questions": [
+    "What is ibuprofen used for?",
+    "How does ibuprofen work in the body?",
+    "What are the common side effects of ibuprofen?",
+    "Can ibuprofen be taken with other medications?",
+    "Who should avoid taking ibuprofen?",
+    "What is the recommended dosage for ibuprofen?",
+    "Is ibuprofen safe during pregnancy?",
+    "How long can I safely take ibuprofen?",
+    "What are the signs of ibuprofen overdose?",
+    "What are the differences between ibuprofen and other NSAIDs?",
+    "Does ibuprofen affect the kidneys or liver?",
+    "Can children take ibuprofen and in what doses?"
+  ],
+  "retrieval_summary": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) widely used for reducing pain, inflammation, and fever. It works by inhibiting the cyclooxygenase (COX) enzymes, particularly COX-1 and COX-2, which reduces the production of prostaglandins—chemical mediators that promote inflammation, pain, and fever. As an over-the-counter medication and prescription drug, ibuprofen plays a vital role in managing conditions such as headaches, muscular pain, arthritis, menstrual cramps, and post-surgical pain. It is chemically classified as a propionic acid derivative and is known under common brand names like Advil and Motrin. While effective, ibuprofen's use comes with important considerations; gastrointestinal irritation, increased risk of bleeding, potential kidney impairment, and interactions with other drugs are well-documented concerns. It is important to follow recommended dosages and duration of therapy as prolonged or excessive use increases risk of adverse effects. Certain populations, including individuals with cardiovascular disease, kidney disease, or gastrointestinal ulcers, should consult healthcare professionals before use. Pediatric dosing requires special attention to weight and age. Ongoing monitoring may be advised for long-term use, especially in vulnerable groups. Although well-studied and generally safe when used appropriately, emerging data continues to refine understanding of its cardiovascular risk profile and drug interaction scopes. This module provides a detailed overview of ibuprofen’s pharmacology, clinical applications, contraindications, safety profiles, and practical guidance to optimize therapeutic benefits while minimizing risks.",
+  "learning_objectives": [
+    "Understand the pharmacological definition and classification of ibuprofen.",
+    "Explain the mechanism of action of ibuprofen in pain and inflammation control.",
+    "Identify common and serious side effects associated with ibuprofen.",
+    "Recognize important drug interactions with ibuprofen.",
+    "Know the recommended dosage guidelines for different age groups and conditions.",
+    "Understand the contraindications and populations who should avoid ibuprofen.",
+    "Discuss monitoring parameters for long-term ibuprofen use.",
+    "Identify misconceptions and clarify safety concerns about ibuprofen use."
+  ],
+  "definition": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, reduce inflammation, and lower fever by inhibiting cyclooxygenase enzymes and decreasing prostaglandin synthesis.",
+  "why_this_matters": "Ibuprofen is a commonly used medication worldwide for managing various types of pain and inflammation. Understanding its uses, mechanisms, benefits, and potential risks enables consumers and healthcare providers to use it safely and effectively, reducing the risk of adverse effects and drug interactions.",
+  "sections": [
+    {
+      "heading": "Pharmacological Definition and Classification of Ibuprofen",
+      "content": "Ibuprofen is classified as a nonsteroidal anti-inflammatory drug (NSAID) and chemically belongs to the propionic acid derivatives group. It is available over the counter and by prescription. It is used primarily to treat mild to moderate pain, inflammation, and fever. Common brand names include Advil, Motrin, and Nurofen. Ibuprofen was first introduced in the 1960s and is on the World Health Organization's List of Essential Medicines."
+    },
+    {
+      "heading": "Mechanism of Action: How Ibuprofen Works",
+      "content": "Ibuprofen works by reversibly inhibiting cyclooxygenase enzymes COX-1 and COX-2, which convert arachidonic acid into prostaglandins. Prostaglandins are lipid compounds that mediate inflammation, pain, and fever. By reducing prostaglandin formation, ibuprofen decreases inflammation and pain signals, and lowers fever. COX-2 inhibition provides therapeutic anti-inflammatory effects, while COX-1 inhibition can lead to gastrointestinal side effects."
+    },
+    {
+      "heading": "Common Therapeutic Uses",
+      "content": "Ibuprofen is used to manage a variety of conditions including headaches, dental pain, musculoskeletal injuries, arthritis (such as osteoarthritis and rheumatoid arthritis), menstrual cramps (dysmenorrhea), and fever. It is also used for post-surgical pain and inflammatory conditions. Its analgesic and antipyretic properties make it versatile for symptomatic relief."
+    },
+    {
+      "heading": "Dosing Guidelines and Administration",
+      "content": "Ibuprofen dosing varies by age, weight, and indication. Adults typically take 200-400 mg every 4 to 6 hours as needed, with a maximum daily dose of 1200 mg for over-the-counter use or up to 3200 mg under medical supervision. Pediatric dosing is weight-based, usually 5-10 mg/kg per dose every 6-8 hours, not exceeding 40 mg/kg per day. It should be taken with food to minimize gastrointestinal discomfort."
+    },
+    {
+      "heading": "Potential Side Effects and Adverse Reactions",
+      "content": "Common side effects include gastrointestinal symptoms such as nausea, vomiting, indigestion, and abdominal pain. More serious adverse effects may include gastrointestinal bleeding, ulceration, kidney impairment, allergic reactions, and increased cardiovascular risk. Prolonged use or high doses increase these risks. Attention to signs of bleeding or allergic response is important."
+    },
+    {
+      "heading": "Drug Interactions with Ibuprofen",
+      "content": "Ibuprofen can interact with several medications. Concomitant use with anticoagulants (e.g., warfarin) increases bleeding risk. It may reduce the effectiveness of antihypertensive drugs like ACE inhibitors and diuretics. Combining with other NSAIDs or corticosteroids increases gastrointestinal risk. Caution is needed when used with lithium or methotrexate, as it can increase their toxicity."
+    },
+    {
+      "heading": "Special Populations and Contraindications",
+      "content": "Ibuprofen is contraindicated in individuals with known hypersensitivity to NSAIDs, active gastrointestinal bleeding, or history of aspirin-exacerbated respiratory disease. Pregnant women, especially in the third trimester, and patients with severe heart, kidney, or liver disease should avoid or use under strict medical supervision. Children and elderly require careful dosing and monitoring."
+    },
+    {
+      "heading": "Monitoring and Safety Considerations",
+      "content": "Long-term or high-dose ibuprofen therapy may necessitate monitoring of kidney function, liver function, and blood pressure. Patients should observe for symptoms of gastrointestinal bleeding (black stools, abdominal pain), allergic reactions (rash, swelling), or signs of fluid retention. Using the lowest effective dose for the shortest duration reduces risks."
+    },
+    {
+      "heading": "Misconceptions about Ibuprofen",
+      "content": "A common misconception is that ibuprofen can be taken freely without limits; however, overdosing can cause serious organ damage. Some believe ibuprofen is safer than acetaminophen for the liver, but both have risks at high doses. There is also confusion that ibuprofen is safe in all pregnancies, while its use is generally contraindicated in late pregnancy."
+    },
+    {
+      "heading": "Comparisons with Other NSAIDs and Pain Relievers",
+      "content": "Ibuprofen is one among several NSAIDs, including naproxen, aspirin, and diclofenac. It generally has a favorable safety profile with lower cardiovascular risk than some others, but individual responses vary. Unlike acetaminophen (paracetamol), ibuprofen has significant anti-inflammatory effects. Choice of analgesic depends on the condition treated and patient risk factors."
+    },
+    {
+      "heading": "Emerging Evidence and Research Directions",
+      "content": "Recent studies continue to evaluate the cardiovascular safety profile of ibuprofen, optimal dosing strategies, and its role in multimodal pain management. Research in pharmacogenomics is exploring genetic factors influencing ibuprofen metabolism and response. Emerging formulations aim to improve efficacy and reduce gastrointestinal side effects."
+    }
+  ],
+  "practical_guidance": [
+    "Always follow the dosing instructions on the label or prescribed by a healthcare provider.",
+    "Take ibuprofen with food or milk to reduce stomach upset.",
+    "Avoid combining ibuprofen with other NSAIDs unless advised by a healthcare professional.",
+    "Consult a healthcare provider before use if you have pre-existing kidney, liver, or heart conditions.",
+    "Avoid ibuprofen in late pregnancy unless specifically directed by a physician.",
+    "Do not exceed recommended doses to prevent toxicity.",
+    "Monitor for signs of gastrointestinal bleeding, such as black stools or severe abdominal pain.",
+    "Inform your healthcare provider about all medications and supplements you are taking to avoid interactions."
+  ],
+  "safety_notes": [
+    "Avoid ibuprofen if you have a known allergy to NSAIDs.",
+    "Use caution in people with a history of gastrointestinal ulcers or bleeding.",
+    "Not recommended for use in children under 6 months without medical advice.",
+    "Avoid prolonged use without medical supervision to reduce the risk of adverse effects.",
+    "If you experience allergic reactions like rash, difficulty breathing, or swelling, seek immediate medical help."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Ibuprofen can be taken indefinitely without any risks.",
+      "reality": "Long-term or excessive use of ibuprofen increases the risk of serious side effects including gastrointestinal bleeding, kidney damage, and cardiovascular problems."
+    },
+    {
+      "misconception": "Ibuprofen is safe to use during all stages of pregnancy.",
+      "reality": "Ibuprofen is generally not recommended during the third trimester of pregnancy due to potential risks to the fetus and complications during delivery."
+    },
+    {
+      "misconception": "Ibuprofen and acetaminophen are the same and interchangeable in all cases.",
+      "reality": "Ibuprofen is an NSAID with anti-inflammatory properties, whereas acetaminophen primarily reduces pain and fever without significant anti-inflammatory effects; they have different safety profiles and uses."
+    }
+  ],
+  "clinical_pearls": [
+    "Use the lowest effective dose for the shortest duration to minimize adverse effects.",
+    "Always screen patients for risk factors such as history of ulcers or cardiovascular disease before recommending ibuprofen.",
+    "Consider alternative pain relief options in patients with kidney impairment or those taking anticoagulants.",
+    "Educate patients about the importance of not combining multiple NSAIDs together.",
+    "Advise patients to take ibuprofen with food to decrease gastrointestinal irritation."
+  ],
+  "key_takeaways": [
+    "Ibuprofen is a widely used NSAID effective for pain, inflammation, and fever reduction.",
+    "It works by inhibiting COX-1 and COX-2 enzymes, reducing prostaglandin synthesis.",
+    "Common uses include headache, arthritis pain, menstrual cramps, and fever control.",
+    "Side effects range from mild gastrointestinal upset to serious bleeding and kidney damage.",
+    "Drug interactions with anticoagulants, antihypertensives, and lithium require caution.",
+    "Special populations require tailored dosing and monitoring, especially pregnant women and those with chronic diseases.",
+    "Long-term use needs medical supervision and monitoring for adverse effects.",
+    "Misconceptions about safety and usage underline the need for proper education and healthcare guidance."
+  ],
+  "glossary": [
+    {
+      "term": "Ibuprofen",
+      "definition": "A nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain, inflammation, and fever."
+    },
+    {
+      "term": "NSAID",
+      "definition": "Nonsteroidal anti-inflammatory drug; a class of medications that reduce inflammation and pain without steroids."
+    },
+    {
+      "term": "Cyclooxygenase (COX) enzymes",
+      "definition": "Enzymes (COX-1 and COX-2) that produce prostaglandins involved in inflammation, pain, and fever."
+    },
+    {
+      "term": "Prostaglandins",
+      "definition": "Lipid compounds that mediate inflammation, pain, and fever in the body."
+    },
+    {
+      "term": "Analgesic",
+      "definition": "A medication that relieves pain."
+    },
+    {
+      "term": "Antipyretic",
+      "definition": "A medication that reduces fever."
+    },
+    {
+      "term": "Gastrointestinal bleeding",
+      "definition": "Bleeding in the stomach or intestines, which can be a serious side effect of NSAIDs."
+    },
+    {
+      "term": "Overdose",
+      "definition": "Taking a medicine in quantities greater than recommended, leading to toxicity or death."
+    }
+  ],
+  "related_modules": [
+    "MED-042-NSAIDs-General",
+    "MED-078-Acetaminophen",
+    "MED-077-Drug-Interactions-Common-Analgesics"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "IBU-001",
+      "title": "Ibuprofen Mechanism of Action",
+      "illustration_type": "Diagram",
+      "description": "A detailed diagram illustrating how ibuprofen inhibits COX enzymes and reduces prostaglandin production leading to decreased pain and inflammation.",
+      "alt_text": "Diagram showing ibuprofen blocking COX-1 and COX-2 enzymes, reducing prostaglandin synthesis."
+    },
+    {
+      "illustration_id": "IBU-002",
+      "title": "Common Side Effects of Ibuprofen",
+      "illustration_type": "Infographic",
+      "description": "Infographic summarizing common and serious side effects associated with ibuprofen use, including gastrointestinal and renal effects.",
+      "alt_text": "Infographic showing side effects such as stomach upset, bleeding, and kidney issues linked to ibuprofen."
+    },
+    {
+      "illustration_id": "IBU-003",
+      "title": "Dosing Guidelines by Age and Weight",
+      "illustration_type": "Table",
+      "description": "Table providing typical dosing recommendations for ibuprofen in adults and children based on age and weight.",
+      "alt_text": "Table showing ibuprofen doses for adults and children depending on age and weight."
+    },
+    {
+      "illustration_id": "IBU-004",
+      "title": "Ibuprofen Drug Interactions",
+      "illustration_type": "Flowchart",
+      "description": "Flowchart outlining major drug interactions to consider when taking ibuprofen, including anticoagulants and antihypertensives.",
+      "alt_text": "Flowchart mapping drugs that interact with ibuprofen and possible risks."
+    }
+  ],
+  "references": [
+    {
+      "title": "Ibuprofen: MedlinePlus Drug Information",
+      "organization_or_authors": "U.S. National Library of Medicine",
+      "year": "2023",
+      "identifier": "https://medlineplus.gov/druginfo/meds/a682159.html",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Ibuprofen: Mechanisms of Action and Clinical Uses",
+      "organization_or_authors": "Clinical Pharmacology Textbooks",
+      "year": "2022",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "NSAIDs and Gastrointestinal Risk",
+      "organization_or_authors": "American College of Gastroenterology",
+      "year": "2021",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Guidelines on the Use of NSAIDs in Clinical Practice",
+      "organization_or_authors": "American Academy of Family Physicians",
+      "year": "2020",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and pharmacological research; emerging evidence on cardiovascular risks and pharmacogenomics.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

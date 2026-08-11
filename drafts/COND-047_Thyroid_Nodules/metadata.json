@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-047",
+  "title": "Thyroid Nodules",
+  "subtitle": "What thyroid nodules is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Metabolic and Endocrine",
+  "som_stages": [
+    "Detection",
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "Primary Care Providers",
+    "Endocrinologists",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Thyroid Nodules",
+    "Thyroid Gland",
+    "Nodule",
+    "Thyroid Cancer",
+    "Ultrasound",
+    "Fine Needle Aspiration",
+    "Hypothyroidism",
+    "Hyperthyroidism",
+    "Thyroid Function Tests"
+  ],
+  "related_modules": [
+    "COND-031_Thyroid_Function_Disorders",
+    "COND-049_Thyroid_Cancer",
+    "COND-046_Goiter_and_Thyroid_Enlargement"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and common management; moderate evidence for lifestyle effects and long-term outcomes in selected populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

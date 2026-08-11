@@ -1,0 +1,39 @@
+{
+  "module_id": "MED-082",
+  "title": "SSRIs",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to SSRIs.",
+  "domain": "Medications",
+  "category": "Sleep and Mental Health Medicines",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Grade 10-12)",
+  "keywords": [
+    "SSRIs",
+    "Selective Serotonin Reuptake Inhibitors",
+    "Antidepressants",
+    "Mental Health",
+    "Depression",
+    "Anxiety",
+    "Side Effects",
+    "Drug Interactions",
+    "Monitoring",
+    "Safety"
+  ],
+  "related_modules": [
+    "MED-045",
+    "MED-093",
+    "MED-076"
+  ],
+  "evidence_strength": "Established for depression and anxiety; moderate evidence in other indications; ongoing research for long-term safety and optimal use.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

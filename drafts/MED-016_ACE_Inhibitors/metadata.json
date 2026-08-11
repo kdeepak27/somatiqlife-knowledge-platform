@@ -1,0 +1,38 @@
+{
+  "module_id": "MED-016",
+  "title": "ACE Inhibitors",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to ACE inhibitors.",
+  "domain": "Medications",
+  "category": "Blood Pressure Medicines",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Treatment",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "ACE inhibitors",
+    "Angiotensin-converting enzyme inhibitors",
+    "Hypertension",
+    "Blood pressure",
+    "Renin-angiotensin system",
+    "Side effects",
+    "Kidney function",
+    "Drug interactions",
+    "Monitoring"
+  ],
+  "related_modules": [
+    "MED-012",
+    "MED-045",
+    "MED-089"
+  ],
+  "evidence_strength": "Established evidence from clinical trials and guidelines supports the use of ACE inhibitors for hypertension, heart failure, and kidney protection. Emerging evidence explores new therapeutic uses and long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

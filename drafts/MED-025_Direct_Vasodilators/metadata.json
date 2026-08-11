@@ -1,0 +1,38 @@
+{
+  "module_id": "MED-025",
+  "title": "Direct Vasodilators",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to direct vasodilators.",
+  "domain": "Medications",
+  "category": "Blood Pressure Medicines",
+  "som_stages": [
+    "Treatment",
+    "Management",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Direct vasodilators",
+    "Blood pressure",
+    "Hypertension",
+    "Vasodilation",
+    "Hydralazine",
+    "Minoxidil",
+    "Side effects",
+    "Drug interactions",
+    "Monitoring",
+    "Safety"
+  ],
+  "related_modules": [
+    "MED-010_Beta_Blockers",
+    "MED-015_Diuretics",
+    "MED-030_Antihypertensives_General"
+  ],
+  "evidence_strength": "Established evidence for mechanisms and clinical use; moderate evidence for long-term safety and optimal combinations; emerging evidence for novel direct vasodilators and side effect mitigation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

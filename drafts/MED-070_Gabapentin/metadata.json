@@ -1,0 +1,35 @@
+{
+  "module_id": "MED-070",
+  "title": "Gabapentin",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to gabapentin.",
+  "domain": "Medications",
+  "category": "Pain and Inflammation Medicines",
+  "som_stages": [
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Grade 9-10)",
+  "keywords": [
+    "Gabapentin",
+    "Neuropathic pain",
+    "Seizures",
+    "Anticonvulsant",
+    "Side effects",
+    "Drug interactions",
+    "Dosing",
+    "Safety monitoring"
+  ],
+  "related_modules": [
+    "MED-041-Neuropathic Pain",
+    "MED-065-Antiepileptic Drugs",
+    "MED-049-Drug Interactions"
+  ],
+  "evidence_strength": "Established for seizures and neuropathic pain; moderate to emerging for other uses.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

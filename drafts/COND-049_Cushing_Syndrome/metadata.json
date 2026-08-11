@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-049",
+  "title": "Cushing Syndrome",
+  "subtitle": "What cushing syndrome is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Metabolic and Endocrine",
+  "som_stages": [
+    "recognition",
+    "diagnosis",
+    "treatment",
+    "management"
+  ],
+  "audience": [
+    "patients",
+    "caregivers",
+    "general public",
+    "medical students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Cushing syndrome",
+    "hypercortisolism",
+    "Cushing's disease",
+    "adrenal tumors",
+    "pituitary adenoma",
+    "cortisol excess",
+    "endocrine disorder",
+    "metabolic syndrome"
+  ],
+  "related_modules": [
+    "COND-010",
+    "COND-072",
+    "COND-034"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and large cohort studies supports current understanding, though some diagnostic distinctions and individualized treatment responses have emerging and moderate evidence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

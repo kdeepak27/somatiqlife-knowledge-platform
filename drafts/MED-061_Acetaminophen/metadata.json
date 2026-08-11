@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-061",
+  "title": "Acetaminophen",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to acetaminophen.",
+  "domain": "Medications",
+  "category": "Pain and Inflammation Medicines",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Symptom Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Acetaminophen",
+    "Paracetamol",
+    "Analgesic",
+    "Antipyretic",
+    "Pain Relief",
+    "Liver Toxicity",
+    "Drug Interactions",
+    "Medication Safety"
+  ],
+  "related_modules": [
+    "MED-057-NSAIDs",
+    "MED-089-Pain-Management",
+    "MED-110-Drug-Induced-Hepatotoxicity"
+  ],
+  "evidence_strength": "Established evidence from clinical pharmacology, guidelines, and toxicology literature supports acetaminophen's efficacy and safety profile when used appropriately. Emerging research continues to clarify mechanisms of action and risks of chronic use. Overdose risks and hepatotoxicity are well documented with consensus on antidotal treatment.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

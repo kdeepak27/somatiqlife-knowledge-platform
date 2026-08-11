@@ -1,0 +1,40 @@
+{
+  "module_id": "MED-101",
+  "title": "Asthma Controller Medicines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to asthma controller medicines.",
+  "domain": "Medications",
+  "category": "Digestive and Respiratory Medicines",
+  "som_stages": [
+    "Management",
+    "Pharmacotherapy",
+    "Chronic Care"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "asthma",
+    "controller medicines",
+    "inhaled corticosteroids",
+    "bronchodilators",
+    "long-acting beta-agonists",
+    "leukotriene modifiers",
+    "asthma management",
+    "side effects",
+    "drug interactions",
+    "monitoring",
+    "safety"
+  ],
+  "related_modules": [
+    "MED-102",
+    "RESP-210",
+    "PHARM-88"
+  ],
+  "evidence_strength": "Established evidence for ICS and LABAs; moderate and emerging evidence for biologics and leukotriene modifiers.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

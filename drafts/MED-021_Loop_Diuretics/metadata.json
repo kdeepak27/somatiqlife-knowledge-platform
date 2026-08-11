@@ -1,0 +1,39 @@
+{
+  "module_id": "MED-021",
+  "title": "Loop Diuretics",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to loop diuretics.",
+  "domain": "Medications",
+  "category": "Blood Pressure Medicines",
+  "som_stages": [
+    "Treatment",
+    "Chronic Management",
+    "Medication Education"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Loop diuretics",
+    "Diuretics",
+    "Edema",
+    "Hypertension",
+    "Furosemide",
+    "Bumetanide",
+    "Torsemide",
+    "Electrolyte imbalance",
+    "Kidney function",
+    "Fluid retention"
+  ],
+  "related_modules": [
+    "MED-010-Blood-Pressure-Medications",
+    "MED-025-Diuretics-Overview",
+    "MED-041-Heart-Failure-Management"
+  ],
+  "evidence_strength": "Established evidence from multiple clinical guidelines and pharmacology texts",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

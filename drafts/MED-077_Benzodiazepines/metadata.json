@@ -1,0 +1,40 @@
+{
+  "module_id": "MED-077",
+  "title": "Benzodiazepines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to benzodiazepines.",
+  "domain": "Medications",
+  "category": "Sleep and Mental Health Medicines",
+  "som_stages": [
+    "Prevention",
+    "Symptom Management",
+    "Treatment",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Benzodiazepines",
+    "Anxiolytics",
+    "Sedatives",
+    "Hypnotics",
+    "GABA Receptor",
+    "Dependence",
+    "Withdrawal",
+    "Drug Interactions",
+    "Safety Monitoring",
+    "Mental Health"
+  ],
+  "related_modules": [
+    "MED-081",
+    "MED-090",
+    "PSY-015"
+  ],
+  "evidence_strength": "Established evidence for short-term benzodiazepine efficacy and risks; emerging evidence regarding long-term cognitive effects and safer alternatives; uncertain evidence for novel benzodiazepine receptor modulators.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

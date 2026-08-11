@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-054",
+  "title": "Mealtime Insulin",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to mealtime insulin.",
+  "domain": "Medications",
+  "category": "Diabetes and Weight Medicines",
+  "som_stages": [
+    "Management",
+    "Pharmacotherapy"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Mealtime insulin",
+    "Prandial insulin",
+    "Rapid-acting insulin",
+    "Diabetes mellitus",
+    "Blood glucose control",
+    "Insulin therapy",
+    "Hypoglycemia",
+    "Hyperglycemia",
+    "Insulin pharmacodynamics",
+    "Insulin pharmacokinetics"
+  ],
+  "related_modules": [
+    "MED-020",
+    "MED-021",
+    "MED-070"
+  ],
+  "evidence_strength": "Established evidence for pharmacology, clinical efficacy, and safety; moderate evidence for optimal dosing strategies and patient education impact; emerging evidence on new insulin formulations and technologies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

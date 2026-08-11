@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-147",
+  "title": "Kidney Function and Medication Dosing",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to kidney function and medication dosing.",
+  "domain": "Medications",
+  "category": "Medication Management in Real Life",
+  "som_stages": [
+    "All stages"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "kidney function",
+    "renal function",
+    "medication dosing",
+    "pharmacokinetics",
+    "drug clearance",
+    "renal impairment",
+    "dosage adjustment",
+    "creatinine clearance",
+    "glomerular filtration rate",
+    "nephrotoxicity"
+  ],
+  "related_modules": [
+    "MED-103",
+    "MED-210",
+    "REN-001"
+  ],
+  "evidence_strength": "Established evidence with some emerging topics",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,35 @@
+{
+  "module_id": "MED-012",
+  "title": "Medication-Supplement Interactions",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication-supplement interactions.",
+  "domain": "Medications",
+  "category": "Medication Foundations",
+  "som_stages": [
+    "all"
+  ],
+  "audience": [
+    "general public",
+    "patients",
+    "healthcare professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "medication interactions",
+    "supplements",
+    "drug-supplement interactions",
+    "adverse effects",
+    "pharmacokinetics",
+    "pharmacodynamics",
+    "herb-drug interactions",
+    "nutritional supplements",
+    "safety monitoring"
+  ],
+  "related_modules": [
+    "MED-010",
+    "MED-015",
+    "NUT-003"
+  ],
+  "evidence_strength": "Established evidence with some moderate and emerging areas requiring further study",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

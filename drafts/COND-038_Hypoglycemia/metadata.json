@@ -1,0 +1,40 @@
+{
+  "module_id": "COND-038",
+  "title": "Hypoglycemia",
+  "subtitle": "What hypoglycemia is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Metabolic and Endocrine",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public",
+    "Health Professionals"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "hypoglycemia",
+    "low blood sugar",
+    "glucose",
+    "insulin",
+    "diabetes",
+    "neuroglycopenia",
+    "symptoms",
+    "management",
+    "risk factors",
+    "causes"
+  ],
+  "related_modules": [
+    "COND-032-Diabetes-Mellitus",
+    "COND-045-Adrenal-Insufficiency",
+    "COND-059-Insulinomas"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

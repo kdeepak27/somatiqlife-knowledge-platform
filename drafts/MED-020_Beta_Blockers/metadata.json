@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-020",
+  "title": "Beta Blockers",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to beta blockers.",
+  "domain": "Medications",
+  "category": "Blood Pressure Medicines",
+  "som_stages": [
+    "All stages"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare professionals",
+    "Medical students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Beta blockers",
+    "Beta-adrenergic blockers",
+    "Hypertension",
+    "Heart failure",
+    "Arrhythmia",
+    "Pharmacology",
+    "Side effects",
+    "Drug interactions",
+    "Monitoring",
+    "Safety"
+  ],
+  "related_modules": [
+    "MED-010",
+    "MED-035",
+    "CARD-005"
+  ],
+  "evidence_strength": "Established evidence for cardiovascular benefits; moderate evidence for off-label uses; safety profiles well characterized.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

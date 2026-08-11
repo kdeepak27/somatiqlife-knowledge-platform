@@ -1,0 +1,39 @@
+{
+  "module_id": "MED-150",
+  "title": "Building a Safe Medication Routine",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to building a safe medication routine.",
+  "domain": "Medications",
+  "category": "Medication Management in Real Life",
+  "som_stages": [
+    "Medication Initiation",
+    "Medication Maintenance",
+    "Medication Adherence",
+    "Medication Safety"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "medication routine",
+    "drug adherence",
+    "side effects",
+    "drug interactions",
+    "medication safety",
+    "medication monitoring",
+    "pharmacokinetics",
+    "polypharmacy",
+    "pill organizer"
+  ],
+  "related_modules": [
+    "MED-120-Pharmacology-Basics",
+    "MED-135-Polypharmacy-Management",
+    "MED-162-Adherence-Strategies"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights on adherence tools and monitoring strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

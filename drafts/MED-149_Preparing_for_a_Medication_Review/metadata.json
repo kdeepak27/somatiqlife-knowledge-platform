@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-149",
+  "title": "Preparing for a Medication Review",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to preparing for a medication review.",
+  "domain": "Medications",
+  "category": "Medication Management in Real Life",
+  "som_stages": [
+    "Management",
+    "Monitoring",
+    "Prevention"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "General Public",
+  "keywords": [
+    "Medication review",
+    "Drug interactions",
+    "Medication adherence",
+    "Side effects",
+    "Monitoring",
+    "Safety",
+    "Medication management",
+    "Pharmacology"
+  ],
+  "related_modules": [
+    "MED-023",
+    "MED-078",
+    "MED-112"
+  ],
+  "evidence_strength": "Established evidence with ongoing studies addressing best practices and optimization.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

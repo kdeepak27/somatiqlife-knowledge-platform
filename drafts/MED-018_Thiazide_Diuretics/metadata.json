@@ -1,0 +1,39 @@
+{
+  "module_id": "MED-018",
+  "title": "Thiazide Diuretics",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to thiazide diuretics.",
+  "domain": "Medications",
+  "category": "Blood Pressure Medicines",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Clinical Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Health Professionals",
+    "Pharmacy Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "thiazide diuretics",
+    "hypertension",
+    "blood pressure",
+    "diuretics",
+    "electrolyte imbalance",
+    "hydrochlorothiazide",
+    "chlorthalidone",
+    "hypokalemia",
+    "renal function",
+    "drug interactions"
+  ],
+  "related_modules": [
+    "MED-012",
+    "MED-025",
+    "MED-030"
+  ],
+  "evidence_strength": "Established Evidence for Mechanism and Clinical Uses; Moderate Evidence for Comparative Outcomes Among Agents; Emerging Evidence for Long-Term Metabolic Effects",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

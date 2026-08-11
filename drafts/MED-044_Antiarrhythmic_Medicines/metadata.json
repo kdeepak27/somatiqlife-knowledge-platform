@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-044",
+  "title": "Antiarrhythmic Medicines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antiarrhythmic medicines.",
+  "domain": "Medications",
+  "category": "Cholesterol and Heart Medicines",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate (Health literate non-specialist)",
+  "keywords": [
+    "antiarrhythmic drugs",
+    "arrhythmia",
+    "heart rhythm",
+    "cardiac electrophysiology",
+    "side effects",
+    "drug interactions",
+    "monitoring",
+    "safety"
+  ],
+  "related_modules": [
+    "MED-030-Cardiology-Arrhythmias",
+    "MED-035-Cardiology-Electrocardiogram",
+    "MED-060-Cardiology-Heart Failure"
+  ],
+  "evidence_strength": "Established evidence with some moderate-level clinical practice guidelines and emerging data on newer agents.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

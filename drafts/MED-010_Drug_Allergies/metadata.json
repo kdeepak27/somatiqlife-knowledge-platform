@@ -1,0 +1,41 @@
+{
+  "module_id": "MED-010",
+  "title": "Drug Allergies",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to drug allergies.",
+  "domain": "Medications",
+  "category": "Medication Foundations",
+  "som_stages": [
+    "Recognition",
+    "Diagnosis",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "drug allergy",
+    "hypersensitivity",
+    "immune response",
+    "allergic reaction",
+    "anaphylaxis",
+    "drug intolerance",
+    "cross-reactivity",
+    "antibiotic allergy",
+    "allergy testing",
+    "desensitization"
+  ],
+  "related_modules": [
+    "MED-005-Medication-Adherence",
+    "MED-015-Anaphylaxis-Management",
+    "IMM-003-Immune-Responses",
+    "PHR-007-Patient-Education-on-Allergies"
+  ],
+  "evidence_strength": "Established evidence based on clinical immunology and pharmacology studies with some emerging research in desensitization methods and genetic predictors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

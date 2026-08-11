@@ -1,0 +1,173 @@
+# MED-136 - Medication Review
+## Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication review.
+
+**Domain:** Medications
+**Category:** Medication Management in Real Life
+**SOM stages:** Medication Initiation, Medication Monitoring, Medication Adjustment, Medication Discontinuation
+**Audience:** Patients, Caregivers, Pharmacists, Physicians, Nurses
+**Reading level:** Intermediate (health literate consumers and healthcare trainees)
+**Keywords:** medication review, drug interactions, adverse drug reactions, polypharmacy, medication adherence, pharmacovigilance, medication safety, clinical pharmacy
+
+## AI Retrieval Summary
+A medication review is a structured evaluation of a patient's complete medication regimen, including prescription drugs, over-the-counter medicines, supplements, and herbal products. It aims to optimize treatment outcomes by assessing the appropriateness, effectiveness, safety, and adherence of medications. Medication reviews can be conducted by pharmacists, physicians, or other trained healthcare professionals. They involve verifying indications for each drug, checking for potential drug-drug and drug-disease interactions, identifying adverse drug reactions, and evaluating patient adherence and lifestyle factors that can affect medication efficacy. Synonyms for medication review include 'medication reconciliation,' 'medication therapy review,' and 'clinical medication review,' although subtle differences exist between these terms in certain contexts. Effective medication reviews help detect polypharmacy—defined as the use of multiple medications simultaneously—especially common among older adults, which increases the risk for adverse effects and interactions. Evidence supports that regular medication reviews can reduce adverse drug events, hospitalizations, and healthcare costs. However, limitations include variability in methodology, patient cooperation, incomplete medication information, and resource constraints. Safety considerations emphasize the importance of patient communication, confidentiality, and follow-up after medication changes. Overall, medication review is a critical component of medication management and patient safety in everyday clinical practice.
+
+## Customer Questions Answered
+- What is a medication review and why is it important?
+- How often should I have my medications reviewed?
+- Who can perform a medication review?
+- What should I bring to a medication review appointment?
+- Can medication reviews help prevent side effects?
+- What is polypharmacy and how does it relate to medication review?
+- How are drug interactions identified during a medication review?
+- What are common signs that my medications might need adjustment?
+- Is a medication review necessary if I am feeling fine?
+- How does medication review help with medication adherence?
+- Can medication reviews reduce hospital admissions?
+- Are medication reviews covered by insurance or healthcare systems?
+
+## Learning Objectives
+- Define what a medication review entails and its clinical objectives.
+- Understand the mechanisms through which medication reviews improve patient outcomes.
+- Identify key components included in a thorough medication review.
+- Recognize the role of medication reviews in managing polypharmacy and preventing adverse drug events.
+- Be aware of common misconceptions regarding medication reviews.
+- Describe the process to prepare for and engage in a medication review.
+- Understand limitations and challenges of medication reviews in clinical practice.
+- Explore the evidence base supporting medication review benefits on health outcomes.
+
+## Definition
+A medication review is a systematic evaluation of a patient's medications aimed at optimizing the benefits, minimizing risks, and improving medication adherence through comprehensive assessment of all drugs taken, including prescription, over-the-counter, and complementary therapies.
+
+## Why This Matters
+Medication reviews help prevent medication errors, reduce adverse drug events, and enhance overall treatment effectiveness. They are especially critical in populations at higher risk of medication-related problems, such as older adults, people with multiple chronic conditions, and those on complex drug regimens. Effective medication reviews can improve patient quality of life and reduce healthcare costs by preventing unnecessary hospitalizations and medical complications.
+
+## Definition and Purpose of Medication Review
+A medication review is a structured process in which a healthcare professional evaluates all the medications a patient is using. This review aims to ensure that medications are appropriate for the patient’s health conditions, effective in achieving treatment goals, safe with minimal adverse effects, and taken correctly by the patient. The goal is to improve outcomes, prevent harmful drug interactions, and enhance medication adherence. Medication reviews apply to all patients but are particularly important for those on multiple medications or with chronic illnesses.
+
+## Types and Synonyms of Medication Review
+Medication reviews have various types depending on healthcare setting and depth of evaluation. Common synonyms include medication reconciliation, which specifically focuses on verifying all current medications during care transitions; clinical medication review, which includes clinical assessment and possible adjustments; and medication therapy management (MTM), often applied in pharmacy practice focusing on optimizing therapeutic outcomes. While related, these terms vary in scope and methodology.
+
+## Mechanisms of Medication Review
+Medication review functions by systematically collecting and analyzing medication information to identify issues such as inappropriate prescribing, untreated indications, drug interactions, and adherence problems. Through detailed history-taking and review of clinical records, potential errors or gaps in medication regimens are detected. Recommendations may then be made to stop unnecessary drugs, adjust dosages, replace harmful medications, or initiate required therapies. Collaboration with patients ensures understanding and acceptance of changes.
+
+## Physiology and Pharmacology Considerations in Review
+Understanding pharmacokinetics (absorption, distribution, metabolism, excretion) and pharmacodynamics (drug effects and mechanisms) is crucial during review to anticipate how medications interact or affect organ systems. For example, age-related changes in metabolism may increase drug toxicity risks in elderly patients. Assessing renal and hepatic function helps tailor dosages to minimize adverse effects. Recognizing genetic factors or disease states that alter drug responses informs safer prescribing.
+
+## Evidence Supporting Medication Review
+Multiple systematic reviews and clinical studies demonstrate that regular medication reviews reduce adverse drug events, improve medication adherence, decrease hospital admissions related to medication problems, and enhance clinical outcomes. Evidence is especially strong in older adults and patients with polypharmacy. However, heterogeneity exists in study designs and outcomes measured. Emerging evidence explores the integration of technology and interprofessional collaboration in improving review effectiveness.
+
+## Practical Application: Preparing for a Medication Review
+Patients should bring an accurate and complete list of all medications, including prescriptions, over-the-counter drugs, supplements, and herbal products, to the review appointment. Information about allergies, side effects experienced, and medication-taking habits is helpful. Healthcare providers may review medical records and laboratory tests before or during the appointment. Clear communication and patient engagement are key factors to successful medication reviews.
+
+## Common Limitations and Challenges
+Medication reviews can be limited by incomplete medication histories, patient recall bias, fragmented healthcare records across providers, time constraints during appointments, and variability in healthcare provider training. Some patients may be reluctant to disclose use of non-prescribed substances. Differing definitions and methodologies across settings also challenge standardization. Resource limitations impact availability and frequency of reviews, especially in under-resourced communities.
+
+## Medication Review in Polypharmacy Management
+Polypharmacy, defined typically as the use of five or more medications, increases risk for adverse reactions and interactions. Medication reviews are essential tools to identify unnecessary or potentially harmful medications and simplify regimens where possible. Deprescribing—the planned and supervised process of dose reduction or stopping medications—is often initiated based on review findings. This approach improves safety and maintains or improves quality of life.
+
+## Addressing Misconceptions About Medication Reviews
+Some patients believe medication reviews are only needed when starting new drugs or when problems arise; however, reviews are beneficial regularly to reassess therapy appropriateness. Another misconception is that medication reviews are only done by doctors — pharmacists and other qualified healthcare providers also perform them effectively. Some think stopping medications is always negative, but deprescribing can be beneficial when medically indicated.
+
+## Safety and Confidentiality in Medication Review
+Medication reviews involve sensitive medical information, requiring strict adherence to confidentiality and privacy standards. Any changes to medication regimens should be communicated clearly to all healthcare providers involved in a patient’s care to avoid errors. Monitoring after medication changes is important to ensure safety and detect side effects early. Patient education about potential risks and what to watch for is a critical component of safety.
+
+## Future Directions and Emerging Trends
+Emerging technological tools such as electronic health records (EHRs), clinical decision support systems (CDSS), and telemedicine are enhancing the accessibility and accuracy of medication reviews. Interprofessional collaboration models are increasingly emphasized to optimize medication management. Research continues on personalized medicine approaches, including pharmacogenomics, to further tailor medication regimens during review. Enhanced patient engagement tools also support adherence and safety.
+
+## Practical Guidance
+- Keep an updated and accurate list of all medications, including non-prescription and supplements.
+- Regularly schedule medication reviews, especially when starting new medications or having multiple health conditions.
+- Be honest and detailed about side effects, medication-taking habits, and use of herbal or alternative therapies during reviews.
+- Ask questions about the purpose of each medication and possible interactions.
+- Inform all healthcare providers about any medication changes recommended during reviews.
+- Monitor for side effects or changes in health after adjustment of medications, and report concerns promptly.
+- Use medication reviews as an opportunity to discuss medication adherence barriers and solutions.
+- Engage pharmacists and other healthcare professionals trained in medication management for additional support.
+
+## Safety Notes
+- Never stop or change medications without consulting a healthcare professional.
+- Inform healthcare providers about allergies and previous adverse drug reactions.
+- Report any unexpected side effects or symptoms as soon as they occur.
+- Keep medications stored securely and dispose of expired or unused medications properly.
+- Regular monitoring and follow-up are essential after medication adjustments to ensure safety.
+
+## Common Misconceptions
+### Medication reviews are only necessary when starting a new medication.
+**Reality:** Regular reviews are important to reassess ongoing appropriateness and safety of all medications, regardless of changes.
+
+### Only doctors can perform effective medication reviews.
+**Reality:** Pharmacists and other trained healthcare professionals are qualified and often perform thorough medication reviews.
+
+### Stopping medications during review is always harmful.
+**Reality:** Deprescribing can improve safety and quality of life when medically appropriate.
+
+## Clinical Pearls
+- Medication review is a key strategy to detect and prevent adverse drug events.
+- Effective patient communication is critical to uncovering all medication use, including non-prescription products.
+- Polypharmacy increases complexity and risk—regular reviews help mitigate these dangers.
+- Collaboration among healthcare providers enhances medication safety and effectiveness.
+- Documentation and communication of review findings prevent medication errors across care transitions.
+
+## Key Takeaways
+- A medication review evaluates all medications to optimize therapy and minimize harm.
+- Regular medication reviews reduce adverse drug reactions and hospitalizations.
+- Medication reconciliation, clinical medication review, and medication therapy management are related but distinct concepts.
+- Polypharmacy requires special attention during medication reviews to avoid harmful interactions.
+- Pharmacists play an important role in conducting medication reviews alongside physicians.
+- Patient participation and accurate medication histories improve review effectiveness.
+- Medication reviews require attention to pharmacokinetics and pharmacodynamics for safe dosing.
+- Emerging technologies and collaborative care models are enhancing medication review practices.
+
+## Glossary
+- **Medication Review:** A systematic assessment of all medications a patient uses to ensure safe and effective treatment.
+- **Polypharmacy:** The simultaneous use of multiple medications by a patient, often defined as five or more drugs.
+- **Medication Reconciliation:** The process of confirming and documenting a complete and accurate list of medications at healthcare transitions.
+- **Adverse Drug Reaction (ADR):** An unwanted or harmful reaction experienced after the administration of a medication.
+- **Deprescribing:** The planned process of reducing or stopping medications that may no longer be beneficial or may be causing harm.
+- **Pharmacokinetics:** The study of how drugs are absorbed, distributed, metabolized, and excreted by the body.
+- **Pharmacodynamics:** The study of the biochemical and physiological effects of drugs and their mechanisms of action.
+- **Medication Therapy Management (MTM):** A service provided typically by pharmacists aimed at optimizing drug therapy and improving therapeutic outcomes.
+
+## Related Modules
+- MED-102: Polypharmacy and Deprescribing
+- MED-115: Drug Interactions and Safety
+- MED-120: Patient Medication Adherence Strategies
+
+## Illustration Specifications
+### ILL-136-01 - Medication Review Process Flowchart
+**Type:** Flowchart
+
+A stepwise diagram illustrating the major steps of medication review including medication list collection, assessment, identification of problems, recommendations, and follow-up.
+
+**Alt text:** Flowchart showing stages in medication review process
+
+### ILL-136-02 - Polypharmacy Risks and Outcomes
+**Type:** Infographic
+
+An infographic highlighting risks such as drug interactions and adverse events associated with polypharmacy and the benefits of medication review in mitigating these risks.
+
+**Alt text:** Infographic depicting polypharmacy risks and medication review benefits
+
+### ILL-136-03 - Pharmacokinetics and Pharmacodynamics Overview
+**Type:** Diagram
+
+A combined diagram showing how drug absorption, metabolism, and effect mechanisms influence medication safety and efficacy relevant to medication review.
+
+**Alt text:** Diagram of pharmacokinetic and pharmacodynamic processes
+
+### ILL-136-04 - Common Medication Review Terminology
+**Type:** Table
+
+A table that defines and distinguishes terms such as medication review, medication reconciliation, and medication therapy management.
+
+**Alt text:** Table of medication review related terminology with definitions.
+
+## References
+- Effects of Medication Review in Older Adults: Systematic Review and Meta-Analysis | Pirmohamed et al. | 2020 | DOI:10.1136/bmj.m925 | Unverified
+- Medication Reviews and Their Role in Improving Patient Care | World Health Organization (WHO) | 2019 | https://www.who.int/medication-safety/reviews | Unverified
+- Best Practices for Medication Reconciliation | Institute for Healthcare Improvement (IHI) | 2018 | IHI White Paper | Unverified
+- Polypharmacy: Balancing Risks and Benefits | American Geriatrics Society | 2015 | AGS Clinical Guideline | Unverified
+
+**Evidence strength:** Strong evidence in older adults and chronic illness populations; moderate evidence in general practice settings; emerging research on technology integration.
+**Version:** 1.0
+**Review status:** AI draft - scientific, clinical, and editorial review required

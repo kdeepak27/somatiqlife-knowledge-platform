@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-042",
+  "title": "Diabetic Kidney Disease",
+  "subtitle": "What diabetic kidney disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Metabolic and Endocrine",
+  "som_stages": [
+    "Detection",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers",
+    "Endocrinologists",
+    "Nephrologists"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "Diabetic nephropathy",
+    "Chronic kidney disease",
+    "Diabetes complications",
+    "Hyperglycemia",
+    "Proteinuria",
+    "Glomerular filtration rate",
+    "Renal impairment"
+  ],
+  "related_modules": [
+    "COND-021 Diabetes Mellitus Overview",
+    "COND-043 Chronic Kidney Disease",
+    "COND-018 Hypertension Management"
+  ],
+  "evidence_strength": "Established evidence based on clinical guidelines and systematic reviews.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

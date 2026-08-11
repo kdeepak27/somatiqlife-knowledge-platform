@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-026",
+  "title": "Combination Blood Pressure Medicines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to combination blood pressure medicines.",
+  "domain": "Medications",
+  "category": "Blood Pressure Medicines",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Blood pressure",
+    "Hypertension",
+    "Combination therapy",
+    "Antihypertensives",
+    "Pharmacology",
+    "Side effects",
+    "Drug interactions",
+    "Monitoring"
+  ],
+  "related_modules": [
+    "MED-010",
+    "MED-015",
+    "MED-045"
+  ],
+  "evidence_strength": "Established evidence with moderate areas of ongoing research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

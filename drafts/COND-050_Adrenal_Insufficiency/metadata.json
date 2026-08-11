@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-050",
+  "title": "Adrenal Insufficiency",
+  "subtitle": "What adrenal insufficiency is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Metabolic and Endocrine",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Education"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Healthcare consumer with some medical background)",
+  "keywords": [
+    "Adrenal Insufficiency",
+    "Addison's Disease",
+    "Cortisol Deficiency",
+    "Glucocorticoid",
+    "Mineralocorticoid",
+    "Adrenal Cortex",
+    "Hypocortisolism",
+    "Secondary Adrenal Insufficiency",
+    "Tertiary Adrenal Insufficiency"
+  ],
+  "related_modules": [
+    "COND-032:Hypopituitarism",
+    "COND-034:CushingSyndrome",
+    "COND-052:CongenitalAdrenalHyperplasia",
+    "COND-100:DiabetesMellitus"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-075",
+  "title": "Pain Medicine Safety",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to pain medicine safety.",
+  "domain": "Medications",
+  "category": "Pain and Inflammation Medicines",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Symptom Management"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "pain medicine",
+    "analgesics",
+    "opioids",
+    "NSAIDs",
+    "acetaminophen",
+    "side effects",
+    "drug interactions",
+    "pain management",
+    "safety monitoring"
+  ],
+  "related_modules": [
+    "MED-023",
+    "MED-082",
+    "MED-094"
+  ],
+  "evidence_strength": "Established evidence with emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

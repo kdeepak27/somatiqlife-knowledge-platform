@@ -4,148 +4,148 @@ MED-002,Prescription vs Over-the-Counter Medicines,"Uses, mechanisms, benefits, 
 MED-003,Generic vs Brand-Name Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to generic vs brand-name medicines.",Medications,Medication Foundations,draft-generated
 MED-004,Medication Dosing,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication dosing.",Medications,Medication Foundations,draft-generated
 MED-005,Medication Timing,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication timing.",Medications,Medication Foundations,draft-generated
-MED-006,Taking Medicines With Food,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to taking medicines with food.",Medications,Medication Foundations,pending
-MED-007,Medication Adherence,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication adherence.",Medications,Medication Foundations,pending
-MED-008,Missed Doses,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to missed doses.",Medications,Medication Foundations,pending
-MED-009,Medication Side Effects,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication side effects.",Medications,Medication Foundations,pending
-MED-010,Drug Allergies,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to drug allergies.",Medications,Medication Foundations,pending
-MED-011,Drug Interactions,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to drug interactions.",Medications,Medication Foundations,pending
-MED-012,Medication-Supplement Interactions,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication-supplement interactions.",Medications,Medication Foundations,pending
-MED-013,Medication and Alcohol Interactions,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication and alcohol interactions.",Medications,Medication Foundations,pending
-MED-014,Medication Storage,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication storage.",Medications,Medication Foundations,pending
-MED-015,Medication Disposal,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication disposal.",Medications,Medication Foundations,pending
-MED-016,ACE Inhibitors,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to ace inhibitors.",Medications,Blood Pressure Medicines,pending
-MED-017,ARBs,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to arbs.",Medications,Blood Pressure Medicines,pending
-MED-018,Thiazide Diuretics,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to thiazide diuretics.",Medications,Blood Pressure Medicines,pending
-MED-019,Calcium Channel Blockers,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to calcium channel blockers.",Medications,Blood Pressure Medicines,pending
-MED-020,Beta Blockers,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to beta blockers.",Medications,Blood Pressure Medicines,pending
-MED-021,Loop Diuretics,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to loop diuretics.",Medications,Blood Pressure Medicines,pending
-MED-022,Potassium-Sparing Diuretics,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to potassium-sparing diuretics.",Medications,Blood Pressure Medicines,pending
-MED-023,Alpha Blockers,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to alpha blockers.",Medications,Blood Pressure Medicines,pending
-MED-024,Central Alpha Agonists,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to central alpha agonists.",Medications,Blood Pressure Medicines,pending
-MED-025,Direct Vasodilators,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to direct vasodilators.",Medications,Blood Pressure Medicines,pending
-MED-026,Combination Blood Pressure Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to combination blood pressure medicines.",Medications,Blood Pressure Medicines,pending
-MED-027,Blood Pressure Medicine Side Effects,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to blood pressure medicine side effects.",Medications,Blood Pressure Medicines,pending
-MED-028,Monitoring Blood Pressure Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to monitoring blood pressure medicines.",Medications,Blood Pressure Medicines,pending
-MED-029,Electrolytes and Blood Pressure Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to electrolytes and blood pressure medicines.",Medications,Blood Pressure Medicines,pending
-MED-030,Stopping Blood Pressure Medicines Safely,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to stopping blood pressure medicines safely.",Medications,Blood Pressure Medicines,pending
-MED-031,Statins,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to statins.",Medications,Cholesterol and Heart Medicines,pending
-MED-032,Ezetimibe,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to ezetimibe.",Medications,Cholesterol and Heart Medicines,pending
-MED-033,PCSK9 Inhibitors,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to pcsk9 inhibitors.",Medications,Cholesterol and Heart Medicines,pending
-MED-034,Bempedoic Acid,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to bempedoic acid.",Medications,Cholesterol and Heart Medicines,pending
-MED-035,Fibrates,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to fibrates.",Medications,Cholesterol and Heart Medicines,pending
-MED-036,Prescription Omega-3 Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to prescription omega-3 medicines.",Medications,Cholesterol and Heart Medicines,pending
-MED-037,Niacin as Medicine,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to niacin as medicine.",Medications,Cholesterol and Heart Medicines,pending
-MED-038,Aspirin for Cardiovascular Prevention,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to aspirin for cardiovascular prevention.",Medications,Cholesterol and Heart Medicines,pending
-MED-039,Antiplatelet Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antiplatelet medicines.",Medications,Cholesterol and Heart Medicines,pending
-MED-040,Anticoagulants,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to anticoagulants.",Medications,Cholesterol and Heart Medicines,pending
-MED-041,Warfarin,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to warfarin.",Medications,Cholesterol and Heart Medicines,pending
-MED-042,Direct Oral Anticoagulants,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to direct oral anticoagulants.",Medications,Cholesterol and Heart Medicines,pending
-MED-043,Nitrates,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to nitrates.",Medications,Cholesterol and Heart Medicines,pending
-MED-044,Antiarrhythmic Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antiarrhythmic medicines.",Medications,Cholesterol and Heart Medicines,pending
-MED-045,Heart Failure Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to heart failure medicines.",Medications,Cholesterol and Heart Medicines,pending
-MED-046,Metformin,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to metformin.",Medications,Diabetes and Weight Medicines,pending
-MED-047,Sulfonylureas,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to sulfonylureas.",Medications,Diabetes and Weight Medicines,pending
-MED-048,DPP-4 Inhibitors,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to dpp-4 inhibitors.",Medications,Diabetes and Weight Medicines,pending
-MED-049,SGLT2 Inhibitors,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to sglt2 inhibitors.",Medications,Diabetes and Weight Medicines,pending
-MED-050,GLP-1 Receptor Agonists,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to glp-1 receptor agonists.",Medications,Diabetes and Weight Medicines,pending
-MED-051,Dual GIP GLP-1 Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to dual gip glp-1 medicines.",Medications,Diabetes and Weight Medicines,pending
-MED-052,Insulin,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to insulin.",Medications,Diabetes and Weight Medicines,pending
-MED-053,Basal Insulin,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to basal insulin.",Medications,Diabetes and Weight Medicines,pending
-MED-054,Mealtime Insulin,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to mealtime insulin.",Medications,Diabetes and Weight Medicines,pending
-MED-055,Thiazolidinediones,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to thiazolidinediones.",Medications,Diabetes and Weight Medicines,pending
-MED-056,Alpha-Glucosidase Inhibitors,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to alpha-glucosidase inhibitors.",Medications,Diabetes and Weight Medicines,pending
-MED-057,Weight-Loss Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to weight-loss medicines.",Medications,Diabetes and Weight Medicines,pending
-MED-058,Semaglutide,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to semaglutide.",Medications,Diabetes and Weight Medicines,pending
-MED-059,Tirzepatide,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to tirzepatide.",Medications,Diabetes and Weight Medicines,pending
-MED-060,Diabetes Medicine Safety,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to diabetes medicine safety.",Medications,Diabetes and Weight Medicines,pending
-MED-061,Acetaminophen,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to acetaminophen.",Medications,Pain and Inflammation Medicines,pending
-MED-062,NSAIDs,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to nsaids.",Medications,Pain and Inflammation Medicines,pending
-MED-063,Ibuprofen,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to ibuprofen.",Medications,Pain and Inflammation Medicines,pending
-MED-064,Naproxen,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to naproxen.",Medications,Pain and Inflammation Medicines,pending
-MED-065,Topical NSAIDs,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to topical nsaids.",Medications,Pain and Inflammation Medicines,pending
-MED-066,Aspirin for Pain,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to aspirin for pain.",Medications,Pain and Inflammation Medicines,pending
-MED-067,Opioid Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to opioid medicines.",Medications,Pain and Inflammation Medicines,pending
-MED-068,Tramadol,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to tramadol.",Medications,Pain and Inflammation Medicines,pending
-MED-069,Muscle Relaxants,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to muscle relaxants.",Medications,Pain and Inflammation Medicines,pending
-MED-070,Gabapentin,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to gabapentin.",Medications,Pain and Inflammation Medicines,pending
-MED-071,Pregabalin,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to pregabalin.",Medications,Pain and Inflammation Medicines,pending
-MED-072,Topical Pain Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to topical pain medicines.",Medications,Pain and Inflammation Medicines,pending
-MED-073,Corticosteroids,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to corticosteroids.",Medications,Pain and Inflammation Medicines,pending
-MED-074,Steroid Injections,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to steroid injections.",Medications,Pain and Inflammation Medicines,pending
-MED-075,Pain Medicine Safety,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to pain medicine safety.",Medications,Pain and Inflammation Medicines,pending
-MED-076,Sleep Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to sleep medicines.",Medications,Sleep and Mental Health Medicines,pending
-MED-077,Benzodiazepines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to benzodiazepines.",Medications,Sleep and Mental Health Medicines,pending
-MED-078,Z-Drugs,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to z-drugs.",Medications,Sleep and Mental Health Medicines,pending
-MED-079,Sedating Antidepressants,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to sedating antidepressants.",Medications,Sleep and Mental Health Medicines,pending
-MED-080,Melatonin Receptor Agonists,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to melatonin receptor agonists.",Medications,Sleep and Mental Health Medicines,pending
-MED-081,Orexin Antagonists,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to orexin antagonists.",Medications,Sleep and Mental Health Medicines,pending
-MED-082,SSRIs,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to ssris.",Medications,Sleep and Mental Health Medicines,pending
-MED-083,SNRIs,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to snris.",Medications,Sleep and Mental Health Medicines,pending
-MED-084,Tricyclic Antidepressants,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to tricyclic antidepressants.",Medications,Sleep and Mental Health Medicines,pending
-MED-085,Bupropion,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to bupropion.",Medications,Sleep and Mental Health Medicines,pending
-MED-086,Buspirone,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to buspirone.",Medications,Sleep and Mental Health Medicines,pending
-MED-087,Antipsychotic Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antipsychotic medicines.",Medications,Sleep and Mental Health Medicines,pending
-MED-088,Mood Stabilizers,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to mood stabilizers.",Medications,Sleep and Mental Health Medicines,pending
-MED-089,ADHD Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to adhd medicines.",Medications,Sleep and Mental Health Medicines,pending
-MED-090,Mental Health Medicine Safety,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to mental health medicine safety.",Medications,Sleep and Mental Health Medicines,pending
-MED-091,Proton Pump Inhibitors,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to proton pump inhibitors.",Medications,Digestive and Respiratory Medicines,pending
-MED-092,H2 Blockers,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to h2 blockers.",Medications,Digestive and Respiratory Medicines,pending
-MED-093,Antacids,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antacids.",Medications,Digestive and Respiratory Medicines,pending
-MED-094,Laxatives,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to laxatives.",Medications,Digestive and Respiratory Medicines,pending
-MED-095,Osmotic Laxatives,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to osmotic laxatives.",Medications,Digestive and Respiratory Medicines,pending
-MED-096,Stimulant Laxatives,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to stimulant laxatives.",Medications,Digestive and Respiratory Medicines,pending
-MED-097,Antidiarrheal Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antidiarrheal medicines.",Medications,Digestive and Respiratory Medicines,pending
-MED-098,Antihistamines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antihistamines.",Medications,Digestive and Respiratory Medicines,pending
-MED-099,Inhaled Bronchodilators,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to inhaled bronchodilators.",Medications,Digestive and Respiratory Medicines,pending
-MED-100,Inhaled Corticosteroids,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to inhaled corticosteroids.",Medications,Digestive and Respiratory Medicines,pending
-MED-101,Asthma Controller Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to asthma controller medicines.",Medications,Digestive and Respiratory Medicines,pending
-MED-102,Nasal Steroid Sprays,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to nasal steroid sprays.",Medications,Digestive and Respiratory Medicines,pending
-MED-103,Decongestants,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to decongestants.",Medications,Digestive and Respiratory Medicines,pending
-MED-104,Cough Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to cough medicines.",Medications,Digestive and Respiratory Medicines,pending
-MED-105,Digestive and Respiratory Medicine Safety,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to digestive and respiratory medicine safety.",Medications,Digestive and Respiratory Medicines,pending
-MED-106,Thyroid Hormone Replacement,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to thyroid hormone replacement.",Medications,Hormone and Bone Medicines,pending
-MED-107,Antithyroid Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antithyroid medicines.",Medications,Hormone and Bone Medicines,pending
-MED-108,Menopause Hormone Therapy,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to menopause hormone therapy.",Medications,Hormone and Bone Medicines,pending
-MED-109,Testosterone Replacement Therapy,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to testosterone replacement therapy.",Medications,Hormone and Bone Medicines,pending
-MED-110,Oral Contraceptives,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to oral contraceptives.",Medications,Hormone and Bone Medicines,pending
-MED-111,Progestin-Only Contraceptives,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to progestin-only contraceptives.",Medications,Hormone and Bone Medicines,pending
-MED-112,Bisphosphonates,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to bisphosphonates.",Medications,Hormone and Bone Medicines,pending
-MED-113,Denosumab,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to denosumab.",Medications,Hormone and Bone Medicines,pending
-MED-114,SERMs,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to serms.",Medications,Hormone and Bone Medicines,pending
-MED-115,Parathyroid Hormone Analogues,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to parathyroid hormone analogues.",Medications,Hormone and Bone Medicines,pending
-MED-116,Vitamin D as Medicine,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to vitamin d as medicine.",Medications,Hormone and Bone Medicines,pending
-MED-117,Calcium Therapy,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to calcium therapy.",Medications,Hormone and Bone Medicines,pending
-MED-118,Glucocorticoid Risks to Bone,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to glucocorticoid risks to bone.",Medications,Hormone and Bone Medicines,pending
-MED-119,Hormone Medicine Monitoring,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to hormone medicine monitoring.",Medications,Hormone and Bone Medicines,pending
-MED-120,Bone Medicine Safety,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to bone medicine safety.",Medications,Hormone and Bone Medicines,pending
-MED-121,Antibiotics,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antibiotics.",Medications,Anti-Infective Medicines,pending
-MED-122,Penicillins,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to penicillins.",Medications,Anti-Infective Medicines,pending
-MED-123,Cephalosporins,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to cephalosporins.",Medications,Anti-Infective Medicines,pending
-MED-124,Macrolides,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to macrolides.",Medications,Anti-Infective Medicines,pending
-MED-125,Fluoroquinolones,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to fluoroquinolones.",Medications,Anti-Infective Medicines,pending
-MED-126,Tetracyclines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to tetracyclines.",Medications,Anti-Infective Medicines,pending
-MED-127,Antiviral Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antiviral medicines.",Medications,Anti-Infective Medicines,pending
-MED-128,Antifungal Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antifungal medicines.",Medications,Anti-Infective Medicines,pending
-MED-129,Antiparasitic Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antiparasitic medicines.",Medications,Anti-Infective Medicines,pending
-MED-130,Antibiotic Resistance,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antibiotic resistance.",Medications,Anti-Infective Medicines,pending
-MED-131,Finishing an Antibiotic Course,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to finishing an antibiotic course.",Medications,Anti-Infective Medicines,pending
-MED-132,Probiotics With Antibiotics,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to probiotics with antibiotics.",Medications,Anti-Infective Medicines,pending
-MED-133,Antibiotic Side Effects,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antibiotic side effects.",Medications,Anti-Infective Medicines,pending
-MED-134,Drug Allergies and Antibiotics,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to drug allergies and antibiotics.",Medications,Anti-Infective Medicines,pending
-MED-135,Anti-Infective Medicine Safety,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to anti-infective medicine safety.",Medications,Anti-Infective Medicines,pending
-MED-136,Medication Review,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication review.",Medications,Medication Management in Real Life,pending
-MED-137,Polypharmacy,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to polypharmacy.",Medications,Medication Management in Real Life,pending
-MED-138,Deprescribing,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to deprescribing.",Medications,Medication Management in Real Life,pending
-MED-139,Medication Lists,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication lists.",Medications,Medication Management in Real Life,pending
-MED-140,Pill Organizers,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to pill organizers.",Medications,Medication Management in Real Life,pending
-MED-141,Traveling With Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to traveling with medicines.",Medications,Medication Management in Real Life,pending
-MED-142,Medicines and Driving,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medicines and driving.",Medications,Medication Management in Real Life,pending
-MED-143,Medicines and Exercise,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medicines and exercise.",Medications,Medication Management in Real Life,pending
-MED-144,Medicines and Heat,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medicines and heat.",Medications,Medication Management in Real Life,pending
-MED-145,Medicines and Dehydration,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medicines and dehydration.",Medications,Medication Management in Real Life,pending
-MED-146,Medicines in Older Adults,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medicines in older adults.",Medications,Medication Management in Real Life,pending
-MED-147,Kidney Function and Medication Dosing,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to kidney function and medication dosing.",Medications,Medication Management in Real Life,pending
-MED-148,Liver Function and Medication Dosing,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to liver function and medication dosing.",Medications,Medication Management in Real Life,pending
-MED-149,Preparing for a Medication Review,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to preparing for a medication review.",Medications,Medication Management in Real Life,pending
-MED-150,Building a Safe Medication Routine,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to building a safe medication routine.",Medications,Medication Management in Real Life,pending
+MED-006,Taking Medicines With Food,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to taking medicines with food.",Medications,Medication Foundations,draft-generated
+MED-007,Medication Adherence,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication adherence.",Medications,Medication Foundations,draft-generated
+MED-008,Missed Doses,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to missed doses.",Medications,Medication Foundations,draft-generated
+MED-009,Medication Side Effects,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication side effects.",Medications,Medication Foundations,draft-generated
+MED-010,Drug Allergies,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to drug allergies.",Medications,Medication Foundations,draft-generated
+MED-011,Drug Interactions,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to drug interactions.",Medications,Medication Foundations,draft-generated
+MED-012,Medication-Supplement Interactions,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication-supplement interactions.",Medications,Medication Foundations,draft-generated
+MED-013,Medication and Alcohol Interactions,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication and alcohol interactions.",Medications,Medication Foundations,draft-generated
+MED-014,Medication Storage,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication storage.",Medications,Medication Foundations,draft-generated
+MED-015,Medication Disposal,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication disposal.",Medications,Medication Foundations,draft-generated
+MED-016,ACE Inhibitors,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to ace inhibitors.",Medications,Blood Pressure Medicines,draft-generated
+MED-017,ARBs,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to arbs.",Medications,Blood Pressure Medicines,draft-generated
+MED-018,Thiazide Diuretics,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to thiazide diuretics.",Medications,Blood Pressure Medicines,draft-generated
+MED-019,Calcium Channel Blockers,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to calcium channel blockers.",Medications,Blood Pressure Medicines,draft-generated
+MED-020,Beta Blockers,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to beta blockers.",Medications,Blood Pressure Medicines,draft-generated
+MED-021,Loop Diuretics,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to loop diuretics.",Medications,Blood Pressure Medicines,draft-generated
+MED-022,Potassium-Sparing Diuretics,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to potassium-sparing diuretics.",Medications,Blood Pressure Medicines,draft-generated
+MED-023,Alpha Blockers,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to alpha blockers.",Medications,Blood Pressure Medicines,draft-generated
+MED-024,Central Alpha Agonists,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to central alpha agonists.",Medications,Blood Pressure Medicines,draft-generated
+MED-025,Direct Vasodilators,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to direct vasodilators.",Medications,Blood Pressure Medicines,draft-generated
+MED-026,Combination Blood Pressure Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to combination blood pressure medicines.",Medications,Blood Pressure Medicines,draft-generated
+MED-027,Blood Pressure Medicine Side Effects,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to blood pressure medicine side effects.",Medications,Blood Pressure Medicines,draft-generated
+MED-028,Monitoring Blood Pressure Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to monitoring blood pressure medicines.",Medications,Blood Pressure Medicines,draft-generated
+MED-029,Electrolytes and Blood Pressure Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to electrolytes and blood pressure medicines.",Medications,Blood Pressure Medicines,draft-generated
+MED-030,Stopping Blood Pressure Medicines Safely,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to stopping blood pressure medicines safely.",Medications,Blood Pressure Medicines,draft-generated
+MED-031,Statins,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to statins.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-032,Ezetimibe,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to ezetimibe.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-033,PCSK9 Inhibitors,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to pcsk9 inhibitors.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-034,Bempedoic Acid,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to bempedoic acid.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-035,Fibrates,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to fibrates.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-036,Prescription Omega-3 Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to prescription omega-3 medicines.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-037,Niacin as Medicine,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to niacin as medicine.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-038,Aspirin for Cardiovascular Prevention,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to aspirin for cardiovascular prevention.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-039,Antiplatelet Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antiplatelet medicines.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-040,Anticoagulants,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to anticoagulants.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-041,Warfarin,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to warfarin.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-042,Direct Oral Anticoagulants,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to direct oral anticoagulants.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-043,Nitrates,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to nitrates.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-044,Antiarrhythmic Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antiarrhythmic medicines.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-045,Heart Failure Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to heart failure medicines.",Medications,Cholesterol and Heart Medicines,draft-generated
+MED-046,Metformin,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to metformin.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-047,Sulfonylureas,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to sulfonylureas.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-048,DPP-4 Inhibitors,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to dpp-4 inhibitors.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-049,SGLT2 Inhibitors,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to sglt2 inhibitors.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-050,GLP-1 Receptor Agonists,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to glp-1 receptor agonists.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-051,Dual GIP GLP-1 Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to dual gip glp-1 medicines.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-052,Insulin,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to insulin.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-053,Basal Insulin,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to basal insulin.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-054,Mealtime Insulin,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to mealtime insulin.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-055,Thiazolidinediones,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to thiazolidinediones.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-056,Alpha-Glucosidase Inhibitors,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to alpha-glucosidase inhibitors.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-057,Weight-Loss Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to weight-loss medicines.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-058,Semaglutide,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to semaglutide.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-059,Tirzepatide,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to tirzepatide.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-060,Diabetes Medicine Safety,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to diabetes medicine safety.",Medications,Diabetes and Weight Medicines,draft-generated
+MED-061,Acetaminophen,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to acetaminophen.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-062,NSAIDs,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to nsaids.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-063,Ibuprofen,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to ibuprofen.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-064,Naproxen,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to naproxen.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-065,Topical NSAIDs,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to topical nsaids.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-066,Aspirin for Pain,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to aspirin for pain.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-067,Opioid Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to opioid medicines.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-068,Tramadol,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to tramadol.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-069,Muscle Relaxants,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to muscle relaxants.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-070,Gabapentin,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to gabapentin.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-071,Pregabalin,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to pregabalin.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-072,Topical Pain Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to topical pain medicines.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-073,Corticosteroids,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to corticosteroids.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-074,Steroid Injections,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to steroid injections.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-075,Pain Medicine Safety,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to pain medicine safety.",Medications,Pain and Inflammation Medicines,draft-generated
+MED-076,Sleep Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to sleep medicines.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-077,Benzodiazepines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to benzodiazepines.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-078,Z-Drugs,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to z-drugs.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-079,Sedating Antidepressants,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to sedating antidepressants.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-080,Melatonin Receptor Agonists,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to melatonin receptor agonists.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-081,Orexin Antagonists,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to orexin antagonists.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-082,SSRIs,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to ssris.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-083,SNRIs,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to snris.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-084,Tricyclic Antidepressants,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to tricyclic antidepressants.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-085,Bupropion,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to bupropion.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-086,Buspirone,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to buspirone.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-087,Antipsychotic Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antipsychotic medicines.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-088,Mood Stabilizers,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to mood stabilizers.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-089,ADHD Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to adhd medicines.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-090,Mental Health Medicine Safety,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to mental health medicine safety.",Medications,Sleep and Mental Health Medicines,draft-generated
+MED-091,Proton Pump Inhibitors,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to proton pump inhibitors.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-092,H2 Blockers,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to h2 blockers.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-093,Antacids,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antacids.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-094,Laxatives,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to laxatives.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-095,Osmotic Laxatives,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to osmotic laxatives.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-096,Stimulant Laxatives,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to stimulant laxatives.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-097,Antidiarrheal Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antidiarrheal medicines.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-098,Antihistamines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antihistamines.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-099,Inhaled Bronchodilators,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to inhaled bronchodilators.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-100,Inhaled Corticosteroids,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to inhaled corticosteroids.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-101,Asthma Controller Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to asthma controller medicines.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-102,Nasal Steroid Sprays,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to nasal steroid sprays.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-103,Decongestants,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to decongestants.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-104,Cough Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to cough medicines.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-105,Digestive and Respiratory Medicine Safety,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to digestive and respiratory medicine safety.",Medications,Digestive and Respiratory Medicines,draft-generated
+MED-106,Thyroid Hormone Replacement,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to thyroid hormone replacement.",Medications,Hormone and Bone Medicines,draft-generated
+MED-107,Antithyroid Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antithyroid medicines.",Medications,Hormone and Bone Medicines,draft-generated
+MED-108,Menopause Hormone Therapy,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to menopause hormone therapy.",Medications,Hormone and Bone Medicines,draft-generated
+MED-109,Testosterone Replacement Therapy,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to testosterone replacement therapy.",Medications,Hormone and Bone Medicines,draft-generated
+MED-110,Oral Contraceptives,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to oral contraceptives.",Medications,Hormone and Bone Medicines,draft-generated
+MED-111,Progestin-Only Contraceptives,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to progestin-only contraceptives.",Medications,Hormone and Bone Medicines,draft-generated
+MED-112,Bisphosphonates,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to bisphosphonates.",Medications,Hormone and Bone Medicines,draft-generated
+MED-113,Denosumab,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to denosumab.",Medications,Hormone and Bone Medicines,draft-generated
+MED-114,SERMs,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to serms.",Medications,Hormone and Bone Medicines,draft-generated
+MED-115,Parathyroid Hormone Analogues,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to parathyroid hormone analogues.",Medications,Hormone and Bone Medicines,draft-generated
+MED-116,Vitamin D as Medicine,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to vitamin d as medicine.",Medications,Hormone and Bone Medicines,draft-generated
+MED-117,Calcium Therapy,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to calcium therapy.",Medications,Hormone and Bone Medicines,draft-generated
+MED-118,Glucocorticoid Risks to Bone,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to glucocorticoid risks to bone.",Medications,Hormone and Bone Medicines,draft-generated
+MED-119,Hormone Medicine Monitoring,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to hormone medicine monitoring.",Medications,Hormone and Bone Medicines,draft-generated
+MED-120,Bone Medicine Safety,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to bone medicine safety.",Medications,Hormone and Bone Medicines,draft-generated
+MED-121,Antibiotics,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antibiotics.",Medications,Anti-Infective Medicines,draft-generated
+MED-122,Penicillins,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to penicillins.",Medications,Anti-Infective Medicines,draft-generated
+MED-123,Cephalosporins,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to cephalosporins.",Medications,Anti-Infective Medicines,draft-generated
+MED-124,Macrolides,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to macrolides.",Medications,Anti-Infective Medicines,draft-generated
+MED-125,Fluoroquinolones,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to fluoroquinolones.",Medications,Anti-Infective Medicines,draft-generated
+MED-126,Tetracyclines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to tetracyclines.",Medications,Anti-Infective Medicines,draft-generated
+MED-127,Antiviral Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antiviral medicines.",Medications,Anti-Infective Medicines,draft-generated
+MED-128,Antifungal Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antifungal medicines.",Medications,Anti-Infective Medicines,draft-generated
+MED-129,Antiparasitic Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antiparasitic medicines.",Medications,Anti-Infective Medicines,draft-generated
+MED-130,Antibiotic Resistance,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antibiotic resistance.",Medications,Anti-Infective Medicines,draft-generated
+MED-131,Finishing an Antibiotic Course,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to finishing an antibiotic course.",Medications,Anti-Infective Medicines,draft-generated
+MED-132,Probiotics With Antibiotics,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to probiotics with antibiotics.",Medications,Anti-Infective Medicines,draft-generated
+MED-133,Antibiotic Side Effects,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antibiotic side effects.",Medications,Anti-Infective Medicines,draft-generated
+MED-134,Drug Allergies and Antibiotics,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to drug allergies and antibiotics.",Medications,Anti-Infective Medicines,draft-generated
+MED-135,Anti-Infective Medicine Safety,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to anti-infective medicine safety.",Medications,Anti-Infective Medicines,draft-generated
+MED-136,Medication Review,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication review.",Medications,Medication Management in Real Life,draft-generated
+MED-137,Polypharmacy,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to polypharmacy.",Medications,Medication Management in Real Life,draft-generated
+MED-138,Deprescribing,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to deprescribing.",Medications,Medication Management in Real Life,draft-generated
+MED-139,Medication Lists,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication lists.",Medications,Medication Management in Real Life,draft-generated
+MED-140,Pill Organizers,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to pill organizers.",Medications,Medication Management in Real Life,draft-generated
+MED-141,Traveling With Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to traveling with medicines.",Medications,Medication Management in Real Life,draft-generated
+MED-142,Medicines and Driving,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medicines and driving.",Medications,Medication Management in Real Life,draft-generated
+MED-143,Medicines and Exercise,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medicines and exercise.",Medications,Medication Management in Real Life,draft-generated
+MED-144,Medicines and Heat,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medicines and heat.",Medications,Medication Management in Real Life,draft-generated
+MED-145,Medicines and Dehydration,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medicines and dehydration.",Medications,Medication Management in Real Life,draft-generated
+MED-146,Medicines in Older Adults,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medicines in older adults.",Medications,Medication Management in Real Life,draft-generated
+MED-147,Kidney Function and Medication Dosing,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to kidney function and medication dosing.",Medications,Medication Management in Real Life,draft-generated
+MED-148,Liver Function and Medication Dosing,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to liver function and medication dosing.",Medications,Medication Management in Real Life,draft-generated
+MED-149,Preparing for a Medication Review,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to preparing for a medication review.",Medications,Medication Management in Real Life,draft-generated
+MED-150,Building a Safe Medication Routine,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to building a safe medication routine.",Medications,Medication Management in Real Life,draft-generated

@@ -1,0 +1,41 @@
+{
+  "module_id": "COND-024",
+  "title": "Carotid Artery Disease",
+  "subtitle": "What carotid artery disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Detection",
+    "Diagnosis",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Students",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Carotid Artery Disease",
+    "Carotid Stenosis",
+    "Stroke Prevention",
+    "Atherosclerosis",
+    "Carotid Ultrasound",
+    "Carotid Endarterectomy",
+    "Carotid Angioplasty",
+    "Blood Flow",
+    "Risk Factors",
+    "Symptoms"
+  ],
+  "related_modules": [
+    "COND-005",
+    "COND-028",
+    "COND-030"
+  ],
+  "evidence_strength": "Established evidence with some emerging evidence on advanced imaging and intervention techniques",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

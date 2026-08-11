@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-035",
+  "title": "Metabolic Syndrome",
+  "subtitle": "What metabolic syndrome is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Metabolic and Endocrine",
+  "som_stages": [
+    "Prevention",
+    "Detection",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "General Public",
+    "Patients"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "Metabolic syndrome",
+    "Insulin resistance",
+    "Obesity",
+    "Cardiovascular risk",
+    "Hypertension",
+    "Dyslipidemia",
+    "Blood glucose",
+    "Lifestyle",
+    "Diabetes risk"
+  ],
+  "related_modules": [
+    "COND-022-Diabetes-Mellitus",
+    "COND-047-Hypertension",
+    "COND-059-Dyslipidemia"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas for ongoing research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-093",
+  "title": "Antacids",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antacids.",
+  "domain": "Medications",
+  "category": "Digestive and Respiratory Medicines",
+  "som_stages": [
+    "Prevention",
+    "Treatment"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Middle School",
+  "keywords": [
+    "Antacids",
+    "Acid reducer",
+    "Gastroesophageal reflux",
+    "Heartburn",
+    "Indigestion",
+    "Magnesium hydroxide",
+    "Aluminum hydroxide",
+    "Calcium carbonate",
+    "Acid neutralization",
+    "Stomach acid"
+  ],
+  "related_modules": [
+    "MED-041",
+    "MED-067",
+    "MED-094"
+  ],
+  "evidence_strength": "Established evidence for antacids' acid neutralization mechanism and symptom relief; moderate evidence on long-term safety; emerging research on interactions; uncertain evidence regarding impact on chronic GERD.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

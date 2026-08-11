@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-025",
+  "title": "Raynaud Phenomenon",
+  "subtitle": "What raynaud phenomenon is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Recognition",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Students"
+  ],
+  "reading_level": "Intermediate (Grades 8-10)",
+  "keywords": [
+    "Raynaud Phenomenon",
+    "Raynaud's",
+    "Raynaud Syndrome",
+    "Vasospasm",
+    "Peripheral Circulation",
+    "Cold Sensitivity",
+    "Vascular Disorders",
+    "Autoimmune",
+    "Treatment",
+    "Prevention"
+  ],
+  "related_modules": [
+    "COND-013",
+    "COND-087"
+  ],
+  "evidence_strength": "Established evidence for clinical features and primary management; moderate evidence for secondary form treatment advances; emerging evidence on novel therapies and biomarkers.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

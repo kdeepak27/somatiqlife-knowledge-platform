@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-005",
+  "title": "Coronary Artery Disease",
+  "subtitle": "What coronary artery disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Coronary artery disease",
+    "CAD",
+    "Atherosclerosis",
+    "Heart disease",
+    "Cholesterol",
+    "Angina",
+    "Myocardial infarction",
+    "Cardiovascular risk factors",
+    "Lifestyle",
+    "Medication"
+  ],
+  "related_modules": [
+    "COND-003",
+    "COND-010",
+    "COND-007"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

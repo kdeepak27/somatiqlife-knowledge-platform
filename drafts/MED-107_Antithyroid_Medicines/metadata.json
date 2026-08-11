@@ -1,0 +1,38 @@
+{
+  "module_id": "MED-107",
+  "title": "Antithyroid Medicines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antithyroid medicines.",
+  "domain": "Medications",
+  "category": "Hormone and Bone Medicines",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Antithyroid drugs",
+    "Thyroid hormones",
+    "Hyperthyroidism",
+    "Graves' disease",
+    "Thionamides",
+    "Methimazole",
+    "Propylthiouracil",
+    "Thyroid storm",
+    "Side effects",
+    "Drug interactions"
+  ],
+  "related_modules": [
+    "MED-102-Thyroid-Disorders",
+    "MED-108-Thyroid-Surgery",
+    "MED-109-Radioactive-Iodine-Therapy"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence for optimal dosing strategies and limited evidence for long-term remission predictors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

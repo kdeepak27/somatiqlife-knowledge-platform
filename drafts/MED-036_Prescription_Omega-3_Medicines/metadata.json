@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-036",
+  "title": "Prescription Omega-3 Medicines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to prescription omega-3 medicines.",
+  "domain": "Medications",
+  "category": "Cholesterol and Heart Medicines",
+  "som_stages": [
+    "treatment",
+    "maintenance"
+  ],
+  "audience": [
+    "patients",
+    "caregivers",
+    "healthcare professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "prescription omega-3",
+    "omega-3 fatty acids",
+    "icosapent ethyl",
+    "EPA",
+    "DHA",
+    "hypertriglyceridemia",
+    "cardiovascular disease",
+    "lipid-lowering agents",
+    "drug interactions",
+    "side effects"
+  ],
+  "related_modules": [
+    "MED-012",
+    "MED-021",
+    "MED-045"
+  ],
+  "evidence_strength": "Established evidence with emerging research on expanded cardiovascular benefits",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

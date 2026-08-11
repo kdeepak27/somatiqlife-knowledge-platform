@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-018",
+  "title": "Postural Hypotension",
+  "subtitle": "What postural hypotension is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Management",
+    "Patient Education"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Grade 9-12)",
+  "keywords": [
+    "postural hypotension",
+    "orthostatic hypotension",
+    "blood pressure",
+    "dizziness",
+    "fainting",
+    "syncope",
+    "autonomic dysfunction"
+  ],
+  "related_modules": [
+    "COND-005:Hypertension",
+    "COND-022:Syncope and Fainting",
+    "COND-033:Autonomic Neuropathies"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and observational studies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

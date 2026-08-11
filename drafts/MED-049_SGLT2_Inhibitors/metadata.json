@@ -1,0 +1,38 @@
+{
+  "module_id": "MED-049",
+  "title": "SGLT2 Inhibitors",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to SGLT2 inhibitors.",
+  "domain": "Medications",
+  "category": "Diabetes and Weight Medicines",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "SGLT2 inhibitors",
+    "Sodium-glucose cotransporter 2",
+    "Type 2 diabetes",
+    "Blood sugar control",
+    "Weight loss",
+    "Heart failure",
+    "Kidney disease",
+    "Side effects",
+    "Drug interactions",
+    "Medication monitoring"
+  ],
+  "related_modules": [
+    "MED-052",
+    "MED-067",
+    "MED-045"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials and meta-analyses supports glucose lowering and cardiovascular/renal benefits of SGLT2 inhibitors, with safety data well characterized but ongoing research addressing rarer adverse events and emerging indications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

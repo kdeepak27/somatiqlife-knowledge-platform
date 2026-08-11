@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-026",
+  "title": "Venous Insufficiency",
+  "subtitle": "What venous insufficiency is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate (Grade 9-12)",
+  "keywords": [
+    "Venous Insufficiency",
+    "Chronic Venous Disease",
+    "Varicose Veins",
+    "Venous Ulcers",
+    "Venous Hypertension",
+    "Veins",
+    "Leg Swelling",
+    "Venous Reflux",
+    "Venous Valve Failure",
+    "Compression Therapy"
+  ],
+  "related_modules": [
+    "COND-023:Deep Vein Thrombosis",
+    "COND-024:Varicose Veins",
+    "COND-025:Peripheral Artery Disease"
+  ],
+  "evidence_strength": "Established evidence with some emerging clinical management insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
