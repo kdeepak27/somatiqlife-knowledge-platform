@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-030",
+  "title": "Cardiovascular Disease in South Asians",
+  "subtitle": "What cardiovascular disease in South Asians is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management",
+    "Prognosis"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Cardiovascular disease",
+    "South Asians",
+    "Heart disease",
+    "Risk factors",
+    "Coronary artery disease",
+    "Lifestyle",
+    "Symptoms",
+    "Management",
+    "Evaluation"
+  ],
+  "related_modules": [
+    "COND-012",
+    "COND-017",
+    "COND-025"
+  ],
+  "evidence_strength": "Established evidence for elevated CVD risk in South Asians is supported by multiple large cohort studies; emerging evidence informs tailored management strategies; moderate evidence for some metabolic and genetic contributors; ongoing research addresses gaps particularly in interventional outcomes within this population.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
