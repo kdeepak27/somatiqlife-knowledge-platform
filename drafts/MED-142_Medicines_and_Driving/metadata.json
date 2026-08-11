@@ -1,0 +1,38 @@
+{
+  "module_id": "MED-142",
+  "title": "Medicines and Driving",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medicines and driving.",
+  "domain": "Medications",
+  "category": "Medication Management in Real Life",
+  "som_stages": [
+    "Assessment",
+    "Monitoring",
+    "Education"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "medications",
+    "driving safety",
+    "side effects",
+    "drug interactions",
+    "psychomotor impairment",
+    "sedation",
+    "cognition",
+    "pharmacodynamics",
+    "driving ability"
+  ],
+  "related_modules": [
+    "MED-127",
+    "MED-089",
+    "MED-134"
+  ],
+  "evidence_strength": "Moderate - moderate quality evidence from epidemiological studies and controlled trials supports medicine-related impairment impact on driving, though individual variability and study limitations exist.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

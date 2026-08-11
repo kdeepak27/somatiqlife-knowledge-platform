@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-144",
+  "title": "Medicines and Heat",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medicines and heat.",
+  "domain": "Medications",
+  "category": "Medication Management in Real Life",
+  "som_stages": [
+    "Use",
+    "Management",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "medications",
+    "heat",
+    "hyperthermia",
+    "drug interactions",
+    "temperature regulation",
+    "side effects",
+    "pharmacology",
+    "safety"
+  ],
+  "related_modules": [
+    "MED-121",
+    "MED-113",
+    "MED-150"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence and emerging data supporting clinical guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

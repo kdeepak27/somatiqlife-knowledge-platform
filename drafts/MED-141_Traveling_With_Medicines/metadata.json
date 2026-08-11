@@ -1,0 +1,40 @@
+{
+  "module_id": "MED-141",
+  "title": "Traveling With Medicines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to traveling with medicines.",
+  "domain": "Medications",
+  "category": "Medication Management in Real Life",
+  "som_stages": [
+    "Planning",
+    "Preparation",
+    "Travel",
+    "Post-travel"
+  ],
+  "audience": [
+    "General public",
+    "Travelers",
+    "Caregivers",
+    "Pharmacists",
+    "Healthcare providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "travel medicine",
+    "medication management",
+    "drug interactions",
+    "side effects",
+    "medication safety",
+    "travel health",
+    "pharmacology",
+    "monitoring"
+  ],
+  "related_modules": [
+    "MED-032: Medication Adherence Strategies",
+    "MED-054: Drug Interactions and Safety",
+    "MED-100: Vaccines and Immunizations",
+    "MED-113: Managing Chronic Conditions in Daily Life"
+  ],
+  "evidence_strength": "Established evidence where guidelines exist; moderate evidence in emerging drug interaction data; some uncertainty in individual variability with travel-related pharmacokinetics.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
