@@ -1,0 +1,35 @@
+{
+  "module_id": "COND-004",
+  "title": "Atherosclerosis",
+  "subtitle": "What atherosclerosis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Prevention"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "atherosclerosis",
+    "artery disease",
+    "plaque",
+    "cholesterol",
+    "cardiovascular risk",
+    "atheroma"
+  ],
+  "related_modules": [
+    "COND-001",
+    "COND-002",
+    "COND-005"
+  ],
+  "evidence_strength": "Established evidence supported by large clinical trials and basic science research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

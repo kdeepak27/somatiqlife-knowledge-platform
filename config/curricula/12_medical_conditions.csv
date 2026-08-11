@@ -1,9 +1,9 @@
 module_id,title,subtitle,domain,category,status
-COND-001,Hypertension,"What hypertension is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",Medical Conditions,Cardiovascular Conditions,pending
-COND-002,High LDL Cholesterol,"What high ldl cholesterol is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",Medical Conditions,Cardiovascular Conditions,pending
-COND-003,High Triglycerides,"What high triglycerides is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",Medical Conditions,Cardiovascular Conditions,pending
-COND-004,Atherosclerosis,"What atherosclerosis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",Medical Conditions,Cardiovascular Conditions,pending
-COND-005,Coronary Artery Disease,"What coronary artery disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",Medical Conditions,Cardiovascular Conditions,pending
+COND-001,Hypertension,"What hypertension is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",Medical Conditions,Cardiovascular Conditions,draft-generated
+COND-002,High LDL Cholesterol,"What high ldl cholesterol is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",Medical Conditions,Cardiovascular Conditions,draft-generated
+COND-003,High Triglycerides,"What high triglycerides is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",Medical Conditions,Cardiovascular Conditions,draft-generated
+COND-004,Atherosclerosis,"What atherosclerosis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",Medical Conditions,Cardiovascular Conditions,draft-generated
+COND-005,Coronary Artery Disease,"What coronary artery disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",Medical Conditions,Cardiovascular Conditions,draft-generated
 COND-006,Angina,"What angina is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",Medical Conditions,Cardiovascular Conditions,pending
 COND-007,Heart Attack,"What heart attack is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",Medical Conditions,Cardiovascular Conditions,pending
 COND-008,Heart Failure,"What heart failure is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",Medical Conditions,Cardiovascular Conditions,pending
