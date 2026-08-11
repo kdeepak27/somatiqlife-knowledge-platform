@@ -1,0 +1,38 @@
+{
+  "module_id": "MED-108",
+  "title": "Menopause Hormone Therapy",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to menopause hormone therapy.",
+  "domain": "Medications",
+  "category": "Hormone and Bone Medicines",
+  "som_stages": [
+    "Perimenopause",
+    "Menopause",
+    "Postmenopause"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate adult",
+  "keywords": [
+    "menopause",
+    "hormone therapy",
+    "estrogen",
+    "progesterone",
+    "HRT",
+    "vasomotor symptoms",
+    "bone density",
+    "cardiovascular risk",
+    "breast cancer",
+    "osteoporosis"
+  ],
+  "related_modules": [
+    "MED-097-Bone-Health",
+    "MED-112-Hormone-Therapy-Risks",
+    "MED-123-Nonhormonal-Managment-Menopause"
+  ],
+  "evidence_strength": "Established evidence for symptomatic relief and bone protection; moderate evidence regarding cardiovascular effects and cancer risks; emerging evidence on personalized risk stratification and transdermal route benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
