@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-058",
+  "title": "Semaglutide",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to semaglutide.",
+  "domain": "Medications",
+  "category": "Diabetes and Weight Medicines",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Semaglutide",
+    "GLP-1 receptor agonist",
+    "Type 2 diabetes",
+    "Obesity",
+    "Weight loss",
+    "Blood sugar control",
+    "Side effects",
+    "Drug interactions",
+    "Safety monitoring"
+  ],
+  "related_modules": [
+    "MED-035",
+    "MED-062",
+    "MED-089"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials and meta-analyses supports semaglutide's efficacy and safety profile in approved indications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

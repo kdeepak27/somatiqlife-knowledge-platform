@@ -1,0 +1,38 @@
+{
+  "module_id": "MED-060",
+  "title": "Diabetes Medicine Safety",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to diabetes medicine safety.",
+  "domain": "Medications",
+  "category": "Diabetes and Weight Medicines",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers",
+    "Endocrinologists",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "Diabetes Mellitus",
+    "Antidiabetic Drugs",
+    "Hypoglycemia",
+    "Medication Safety",
+    "Drug Interactions",
+    "Blood Sugar Monitoring",
+    "Side Effects",
+    "Diabetes Management"
+  ],
+  "related_modules": [
+    "MED-058",
+    "MED-062",
+    "MED-045"
+  ],
+  "evidence_strength": "Established Evidence Based on Clinical Guidelines and Comprehensive Reviews",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
