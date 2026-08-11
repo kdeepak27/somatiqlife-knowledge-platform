@@ -1,4 +1,9 @@
 module_id,title,domain,category,version,stage,path
+COND-001,Hypertension,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-001_Hypertension/module.json
+COND-002,High LDL Cholesterol,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-002_High_LDL_Cholesterol/module.json
+COND-003,High Triglycerides,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-003_High_Triglycerides/module.json
+COND-004,Atherosclerosis,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-004_Atherosclerosis/module.json
+COND-005,Coronary Artery Disease,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-005_Coronary_Artery_Disease/module.json
 LAB-001,Understanding Laboratory Tests,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-001_Understanding_Laboratory_Tests/module.json
 LAB-002,Reference Ranges,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-002_Reference_Ranges/module.json
 LAB-003,Normal vs Optimal Lab Values,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-003_Normal_vs_Optimal_Lab_Values/module.json
@@ -254,6 +259,51 @@ MED-102,Nasal Steroid Sprays,Medications,Digestive and Respiratory Medicines,1.0
 MED-103,Decongestants,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-103_Decongestants/module.json
 MED-104,Cough Medicines,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-104_Cough_Medicines/module.json
 MED-105,Digestive and Respiratory Medicine Safety,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-105_Digestive_and_Respiratory_Medicine_Safety/module.json
+MED-106,Thyroid Hormone Replacement,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-106_Thyroid_Hormone_Replacement/module.json
+MED-107,Antithyroid Medicines,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-107_Antithyroid_Medicines/module.json
+MED-108,Menopause Hormone Therapy,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-108_Menopause_Hormone_Therapy/module.json
+MED-109,Testosterone Replacement Therapy,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-109_Testosterone_Replacement_Therapy/module.json
+MED-110,Oral Contraceptives,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-110_Oral_Contraceptives/module.json
+MED-111,Progestin-Only Contraceptives,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-111_Progestin-Only_Contraceptives/module.json
+MED-112,Bisphosphonates,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-112_Bisphosphonates/module.json
+MED-113,Denosumab,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-113_Denosumab/module.json
+MED-114,SERMs,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-114_SERMs/module.json
+MED-115,Parathyroid Hormone Analogues,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-115_Parathyroid_Hormone_Analogues/module.json
+MED-116,Vitamin D as Medicine,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-116_Vitamin_D_as_Medicine/module.json
+MED-117,Calcium Therapy,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-117_Calcium_Therapy/module.json
+MED-118,Glucocorticoid Risks to Bone,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-118_Glucocorticoid_Risks_to_Bone/module.json
+MED-119,Hormone Medicine Monitoring,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-119_Hormone_Medicine_Monitoring/module.json
+MED-120,Bone Medicine Safety,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-120_Bone_Medicine_Safety/module.json
+MED-121,Antibiotics,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-121_Antibiotics/module.json
+MED-122,Penicillins,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-122_Penicillins/module.json
+MED-123,Cephalosporins,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-123_Cephalosporins/module.json
+MED-124,Macrolides,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-124_Macrolides/module.json
+MED-125,Fluoroquinolones,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-125_Fluoroquinolones/module.json
+MED-126,Tetracyclines,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-126_Tetracyclines/module.json
+MED-127,Antiviral Medicines,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-127_Antiviral_Medicines/module.json
+MED-128,Antifungal Medicines,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-128_Antifungal_Medicines/module.json
+MED-129,Antiparasitic Medicines,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-129_Antiparasitic_Medicines/module.json
+MED-130,Antibiotic Resistance,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-130_Antibiotic_Resistance/module.json
+MED-131,Finishing an Antibiotic Course,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-131_Finishing_an_Antibiotic_Course/module.json
+MED-132,Probiotics With Antibiotics,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-132_Probiotics_With_Antibiotics/module.json
+MED-133,Antibiotic Side Effects,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-133_Antibiotic_Side_Effects/module.json
+MED-134,Drug Allergies and Antibiotics,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-134_Drug_Allergies_and_Antibiotics/module.json
+MED-135,Anti-Infective Medicine Safety,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-135_Anti-Infective_Medicine_Safety/module.json
+MED-136,Medication Review,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-136_Medication_Review/module.json
+MED-137,Polypharmacy,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-137_Polypharmacy/module.json
+MED-138,Deprescribing,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-138_Deprescribing/module.json
+MED-139,Medication Lists,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-139_Medication_Lists/module.json
+MED-140,Pill Organizers,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-140_Pill_Organizers/module.json
+MED-141,Traveling With Medicines,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-141_Traveling_With_Medicines/module.json
+MED-142,Medicines and Driving,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-142_Medicines_and_Driving/module.json
+MED-143,Medicines and Exercise,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-143_Medicines_and_Exercise/module.json
+MED-144,Medicines and Heat,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-144_Medicines_and_Heat/module.json
+MED-145,Medicines and Dehydration,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-145_Medicines_and_Dehydration/module.json
+MED-146,Medicines in Older Adults,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-146_Medicines_in_Older_Adults/module.json
+MED-147,Kidney Function and Medication Dosing,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-147_Kidney_Function_and_Medication_Dosing/module.json
+MED-148,Liver Function and Medication Dosing,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-148_Liver_Function_and_Medication_Dosing/module.json
+MED-149,Preparing for a Medication Review,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-149_Preparing_for_a_Medication_Review/module.json
+MED-150,Building a Safe Medication Routine,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-150_Building_a_Safe_Medication_Routine/module.json
 SUP-001,Dietary Supplements Overview,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-001_Dietary_Supplements_Overview/module.json
 SUP-002,How Supplements Are Regulated,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-002_How_Supplements_Are_Regulated/module.json
 SUP-003,How to Read a Supplement Label,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-003_How_to_Read_a_Supplement_Label/module.json
