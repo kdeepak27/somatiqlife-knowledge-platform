@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-091",
+  "title": "Gastroesophageal Reflux Disease",
+  "subtitle": "What gastroesophageal reflux disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Evaluation",
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "GERD",
+    "GERD symptoms",
+    "Acid reflux",
+    "Heartburn",
+    "Esophagus",
+    "Lower esophageal sphincter",
+    "Digestive health",
+    "GERD treatment",
+    "Lifestyle modifications"
+  ],
+  "related_modules": [
+    "COND-023",
+    "COND-108",
+    "COND-134"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and systematic reviews.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
