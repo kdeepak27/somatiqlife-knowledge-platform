@@ -1,0 +1,40 @@
+{
+  "module_id": "COND-172",
+  "title": "Stress Fracture",
+  "subtitle": "What stress fracture is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Musculoskeletal and Pain",
+  "som_stages": [
+    "Prevention",
+    "Recognition",
+    "Treatment",
+    "Recovery"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public",
+    "Healthcare Students"
+  ],
+  "reading_level": "Grade 10",
+  "keywords": [
+    "stress fracture",
+    "bone injury",
+    "overuse injury",
+    "microfracture",
+    "risk factors",
+    "symptoms",
+    "diagnosis",
+    "treatment",
+    "recovery",
+    "prevention"
+  ],
+  "related_modules": [
+    "COND-155",
+    "COND-180",
+    "COND-90"
+  ],
+  "evidence_strength": "Established evidence based on clinical studies and expert consensus; some emerging research on prevention and pharmacologic intervention.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
