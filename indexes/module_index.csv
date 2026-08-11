@@ -1,104 +1,4 @@
 module_id,title,domain,category,version,stage,path
-CHD-001,Healthy Growth in Children,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-001_Healthy_Growth_in_Children/module.json
-CHD-002,Child Development Milestones,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-002_Child_Development_Milestones/module.json
-CHD-003,Adolescent Development,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-003_Adolescent_Development/module.json
-CHD-004,Puberty,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-004_Puberty/module.json
-CHD-005,Growth Spurts,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-005_Growth_Spurts/module.json
-CHD-006,Healthy Weight in Children,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-006_Healthy_Weight_in_Children/module.json
-CHD-007,Body Image in Children,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-007_Body_Image_in_Children/module.json
-CHD-008,Body Image in Adolescents,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-008_Body_Image_in_Adolescents/module.json
-CHD-009,Pediatric Preventive Care,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-009_Pediatric_Preventive_Care/module.json
-CHD-010,School Health,Children and Adolescents,Growth and Development,1.0,drafts,drafts/CHD-010_School_Health/module.json
-CHD-011,Nutrition for Young Children,Children and Adolescents,Nutrition,1.0,drafts,drafts/CHD-011_Nutrition_for_Young_Children/module.json
-CHD-012,Nutrition for School-Age Children,Children and Adolescents,Nutrition,1.0,drafts,drafts/CHD-012_Nutrition_for_School-Age_Children/module.json
-CHD-013,Nutrition for Adolescents,Children and Adolescents,Nutrition,1.0,drafts,drafts/CHD-013_Nutrition_for_Adolescents/module.json
-CHD-014,Protein for Children,Children and Adolescents,Nutrition,1.0,drafts,drafts/CHD-014_Protein_for_Children/module.json
-CHD-015,Fiber for Children,Children and Adolescents,Nutrition,1.0,drafts,drafts/CHD-015_Fiber_for_Children/module.json
-CHD-016,Calcium for Children,Children and Adolescents,Nutrition,1.0,drafts,drafts/CHD-016_Calcium_for_Children/module.json
-CHD-017,Iron for Children,Children and Adolescents,Nutrition,1.0,drafts,drafts/CHD-017_Iron_for_Children/module.json
-CHD-018,Vitamin D for Children,Children and Adolescents,Nutrition,1.0,drafts,drafts/CHD-018_Vitamin_D_for_Children/module.json
-CHD-019,Healthy Snacks for Children,Children and Adolescents,Nutrition,1.0,drafts,drafts/CHD-019_Healthy_Snacks_for_Children/module.json
-CHD-020,Family Meals,Children and Adolescents,Nutrition,1.0,drafts,drafts/CHD-020_Family_Meals/module.json
-CHD-021,Physical Activity for Children,Children and Adolescents,Physical Activity,1.0,drafts,drafts/CHD-021_Physical_Activity_for_Children/module.json
-CHD-022,Exercise for Adolescents,Children and Adolescents,Physical Activity,1.0,drafts,drafts/CHD-022_Exercise_for_Adolescents/module.json
-CHD-023,Strength Training for Youth,Children and Adolescents,Physical Activity,1.0,drafts,drafts/CHD-023_Strength_Training_for_Youth/module.json
-CHD-024,Sports Participation,Children and Adolescents,Physical Activity,1.0,drafts,drafts/CHD-024_Sports_Participation/module.json
-CHD-025,Motor Skill Development,Children and Adolescents,Physical Activity,1.0,drafts,drafts/CHD-025_Motor_Skill_Development/module.json
-CHD-026,Outdoor Play,Children and Adolescents,Physical Activity,1.0,drafts,drafts/CHD-026_Outdoor_Play/module.json
-CHD-027,Screen Time and Activity,Children and Adolescents,Physical Activity,1.0,drafts,drafts/CHD-027_Screen_Time_and_Activity/module.json
-CHD-028,Sedentary Behavior in Children,Children and Adolescents,Physical Activity,1.0,drafts,drafts/CHD-028_Sedentary_Behavior_in_Children/module.json
-CHD-029,Exercise Safety for Youth,Children and Adolescents,Physical Activity,1.0,drafts,drafts/CHD-029_Exercise_Safety_for_Youth/module.json
-CHD-030,Building Active Family Habits,Children and Adolescents,Physical Activity,1.0,drafts,drafts/CHD-030_Building_Active_Family_Habits/module.json
-CHD-031,Sleep Needs in Children,Children and Adolescents,Sleep,1.0,drafts,drafts/CHD-031_Sleep_Needs_in_Children/module.json
-CHD-032,Sleep Needs in Teenagers,Children and Adolescents,Sleep,1.0,drafts,drafts/CHD-032_Sleep_Needs_in_Teenagers/module.json
-CHD-033,Bedtime Routines for Children,Children and Adolescents,Sleep,1.0,drafts,drafts/CHD-033_Bedtime_Routines_for_Children/module.json
-CHD-034,Teen Circadian Rhythm,Children and Adolescents,Sleep,1.0,drafts,drafts/CHD-034_Teen_Circadian_Rhythm/module.json
-CHD-035,Screen Time and Sleep in Children,Children and Adolescents,Sleep,1.0,drafts,drafts/CHD-035_Screen_Time_and_Sleep_in_Children/module.json
-CHD-036,Insomnia in Children,Children and Adolescents,Sleep,1.0,drafts,drafts/CHD-036_Insomnia_in_Children/module.json
-CHD-037,Snoring in Children,Children and Adolescents,Sleep,1.0,drafts,drafts/CHD-037_Snoring_in_Children/module.json
-CHD-038,Sleep Apnea in Children,Children and Adolescents,Sleep,1.0,drafts,drafts/CHD-038_Sleep_Apnea_in_Children/module.json
-CHD-039,Napping in Children,Children and Adolescents,Sleep,1.0,drafts,drafts/CHD-039_Napping_in_Children/module.json
-CHD-040,Healthy Sleep Habits for Families,Children and Adolescents,Sleep,1.0,drafts,drafts/CHD-040_Healthy_Sleep_Habits_for_Families/module.json
-CHD-041,Stress in Children,Children and Adolescents,Mental and Emotional Health,1.0,drafts,drafts/CHD-041_Stress_in_Children/module.json
-CHD-042,Stress in Teenagers,Children and Adolescents,Mental and Emotional Health,1.0,drafts,drafts/CHD-042_Stress_in_Teenagers/module.json
-CHD-043,Anxiety in Children,Children and Adolescents,Mental and Emotional Health,1.0,drafts,drafts/CHD-043_Anxiety_in_Children/module.json
-CHD-044,Anxiety in Teenagers,Children and Adolescents,Mental and Emotional Health,1.0,drafts,drafts/CHD-044_Anxiety_in_Teenagers/module.json
-CHD-045,Depression in Teenagers,Children and Adolescents,Mental and Emotional Health,1.0,drafts,drafts/CHD-045_Depression_in_Teenagers/module.json
-CHD-046,School Stress,Children and Adolescents,Mental and Emotional Health,1.0,drafts,drafts/CHD-046_School_Stress/module.json
-CHD-047,Bullying,Children and Adolescents,Mental and Emotional Health,1.0,drafts,drafts/CHD-047_Bullying/module.json
-CHD-048,Cyberbullying,Children and Adolescents,Mental and Emotional Health,1.0,drafts,drafts/CHD-048_Cyberbullying/module.json
-CHD-049,Resilience in Children,Children and Adolescents,Mental and Emotional Health,1.0,drafts,drafts/CHD-049_Resilience_in_Children/module.json
-CHD-050,When a Child Needs Mental Health Support,Children and Adolescents,Mental and Emotional Health,1.0,drafts,drafts/CHD-050_When_a_Child_Needs_Mental_Health_Support/module.json
-CHD-051,Childhood Fever,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-051_Childhood_Fever/module.json
-CHD-052,Common Colds in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-052_Common_Colds_in_Children/module.json
-CHD-053,Cough in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-053_Cough_in_Children/module.json
-CHD-054,Sore Throat in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-054_Sore_Throat_in_Children/module.json
-CHD-055,Stomach Pain in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-055_Stomach_Pain_in_Children/module.json
-CHD-056,Constipation in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-056_Constipation_in_Children/module.json
-CHD-057,Diarrhea in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-057_Diarrhea_in_Children/module.json
-CHD-058,Headaches in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-058_Headaches_in_Children/module.json
-CHD-059,Growing Pains,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-059_Growing_Pains/module.json
-CHD-060,Allergies in Children,Children and Adolescents,Common Health Issues,1.0,drafts,drafts/CHD-060_Allergies_in_Children/module.json
-CHD-061,Childhood Vaccinations,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-061_Childhood_Vaccinations/module.json
-CHD-062,Adolescent Vaccinations,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-062_Adolescent_Vaccinations/module.json
-CHD-063,Hand Hygiene for Children,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-063_Hand_Hygiene_for_Children/module.json
-CHD-064,Food Safety for Children,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-064_Food_Safety_for_Children/module.json
-CHD-065,Sun Safety for Children,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-065_Sun_Safety_for_Children/module.json
-CHD-066,Water Safety,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-066_Water_Safety/module.json
-CHD-067,Bike Safety,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-067_Bike_Safety/module.json
-CHD-068,Car Seat Safety,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-068_Car_Seat_Safety/module.json
-CHD-069,Sports Injury Prevention,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-069_Sports_Injury_Prevention/module.json
-CHD-070,Concussion Prevention,Children and Adolescents,Prevention and Safety,1.0,drafts,drafts/CHD-070_Concussion_Prevention/module.json
-CHD-071,Teen Nutrition,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-071_Teen_Nutrition/module.json
-CHD-072,Teen Exercise,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-072_Teen_Exercise/module.json
-CHD-073,Teen Sleep,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-073_Teen_Sleep/module.json
-CHD-074,Teen Stress,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-074_Teen_Stress/module.json
-CHD-075,Teen Sexual Health,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-075_Teen_Sexual_Health/module.json
-CHD-076,Sexually Transmitted Infection Prevention for Teens,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-076_Sexually_Transmitted_Infection_Prevention_for_Teens/module.json
-CHD-077,Substance Use Prevention,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-077_Substance_Use_Prevention/module.json
-CHD-078,Vaping Prevention in Teens,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-078_Vaping_Prevention_in_Teens/module.json
-CHD-079,Alcohol Prevention in Teens,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-079_Alcohol_Prevention_in_Teens/module.json
-CHD-080,Healthy Relationships for Teens,Children and Adolescents,Adolescent Health,1.0,drafts,drafts/CHD-080_Healthy_Relationships_for_Teens/module.json
-CHD-081,Healthy Family Routines,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-081_Healthy_Family_Routines/module.json
-CHD-082,Parents as Health Role Models,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-082_Parents_as_Health_Role_Models/module.json
-CHD-083,Talking to Children About Health,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-083_Talking_to_Children_About_Health/module.json
-CHD-084,Talking to Teens About Health,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-084_Talking_to_Teens_About_Health/module.json
-CHD-085,Healthy Food Environment at Home,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-085_Healthy_Food_Environment_at_Home/module.json
-CHD-086,Active Family Weekends,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-086_Active_Family_Weekends/module.json
-CHD-087,Family Screen Rules,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-087_Family_Screen_Rules/module.json
-CHD-088,Family Sleep Routines,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-088_Family_Sleep_Routines/module.json
-CHD-089,Managing Health During School Holidays,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-089_Managing_Health_During_School_Holidays/module.json
-CHD-090,Building Sustainable Family Habits,Children and Adolescents,Family Health,1.0,drafts,drafts/CHD-090_Building_Sustainable_Family_Habits/module.json
-CHD-091,Childhood Obesity Prevention,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-091_Childhood_Obesity_Prevention/module.json
-CHD-092,Prediabetes in Adolescents,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-092_Prediabetes_in_Adolescents/module.json
-CHD-093,High Blood Pressure in Youth,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-093_High_Blood_Pressure_in_Youth/module.json
-CHD-094,Asthma and Exercise,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-094_Asthma_and_Exercise/module.json
-CHD-095,Food Allergies in Children,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-095_Food_Allergies_in_Children/module.json
-CHD-096,ADHD and Lifestyle,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-096_ADHD_and_Lifestyle/module.json
-CHD-097,Autism and Healthy Routines,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-097_Autism_and_Healthy_Routines/module.json
-CHD-098,Eating Disorders in Adolescents,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-098_Eating_Disorders_in_Adolescents/module.json
-CHD-099,Menstrual Health for Teen Girls,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-099_Menstrual_Health_for_Teen_Girls/module.json
-CHD-100,Healthy Transition to College,Children and Adolescents,Special Topics,1.0,drafts,drafts/CHD-100_Healthy_Transition_to_College/module.json
 LAB-001,Understanding Laboratory Tests,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-001_Understanding_Laboratory_Tests/module.json
 LAB-002,Reference Ranges,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-002_Reference_Ranges/module.json
 LAB-003,Normal vs Optimal Lab Values,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-003_Normal_vs_Optimal_Lab_Values/module.json
@@ -254,106 +154,56 @@ MED-002,Prescription vs Over-the-Counter Medicines,Medications,Medication Founda
 MED-003,Generic vs Brand-Name Medicines,Medications,Medication Foundations,1.0,drafts,drafts/MED-003_Generic_vs_Brand-Name_Medicines/module.json
 MED-004,Medication Dosing,Medications,Medication Foundations,1.0,drafts,drafts/MED-004_Medication_Dosing/module.json
 MED-005,Medication Timing,Medications,Medication Foundations,1.0,drafts,drafts/MED-005_Medication_Timing/module.json
-MEN-001,Men's Health Across Adulthood,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-001_Men's_Health_Across_Adulthood/module.json
-MEN-002,Male Reproductive Anatomy,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-002_Male_Reproductive_Anatomy/module.json
-MEN-003,Male Reproductive Hormones,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-003_Male_Reproductive_Hormones/module.json
-MEN-004,Testosterone,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-004_Testosterone/module.json
-MEN-005,Men's Preventive Care,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-005_Men's_Preventive_Care/module.json
-MEN-006,Men's Health Screening,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-006_Men's_Health_Screening/module.json
-MEN-007,Nutrition for Men,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-007_Nutrition_for_Men/module.json
-MEN-008,Exercise for Men,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-008_Exercise_for_Men/module.json
-MEN-009,Sleep in Men,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-009_Sleep_in_Men/module.json
-MEN-010,Stress in Men,Men's Health,Men's Health Foundations,1.0,drafts,drafts/MEN-010_Stress_in_Men/module.json
-MEN-011,Heart Disease Risk in Men,Men's Health,Cardiometabolic Health,1.0,drafts,drafts/MEN-011_Heart_Disease_Risk_in_Men/module.json
-MEN-012,High Blood Pressure in Men,Men's Health,Cardiometabolic Health,1.0,drafts,drafts/MEN-012_High_Blood_Pressure_in_Men/module.json
-MEN-013,High Cholesterol in Men,Men's Health,Cardiometabolic Health,1.0,drafts,drafts/MEN-013_High_Cholesterol_in_Men/module.json
-MEN-014,Diabetes Risk in Men,Men's Health,Cardiometabolic Health,1.0,drafts,drafts/MEN-014_Diabetes_Risk_in_Men/module.json
-MEN-015,Metabolic Syndrome in Men,Men's Health,Cardiometabolic Health,1.0,drafts,drafts/MEN-015_Metabolic_Syndrome_in_Men/module.json
-MEN-016,Abdominal Fat in Men,Men's Health,Cardiometabolic Health,1.0,drafts,drafts/MEN-016_Abdominal_Fat_in_Men/module.json
-MEN-017,Fatty Liver Disease in Men,Men's Health,Cardiometabolic Health,1.0,drafts,drafts/MEN-017_Fatty_Liver_Disease_in_Men/module.json
-MEN-018,Weight Management for Men,Men's Health,Cardiometabolic Health,1.0,drafts,drafts/MEN-018_Weight_Management_for_Men/module.json
-MEN-019,Exercise for Cardiovascular Health in Men,Men's Health,Cardiometabolic Health,1.0,drafts,drafts/MEN-019_Exercise_for_Cardiovascular_Health_in_Men/module.json
-MEN-020,Building Metabolic Health After 40,Men's Health,Cardiometabolic Health,1.0,drafts,drafts/MEN-020_Building_Metabolic_Health_After_40/module.json
-MEN-021,Muscle Loss in Men,Men's Health,Muscle and Fitness,1.0,drafts,drafts/MEN-021_Muscle_Loss_in_Men/module.json
-MEN-022,Strength Training for Men,Men's Health,Muscle and Fitness,1.0,drafts,drafts/MEN-022_Strength_Training_for_Men/module.json
-MEN-023,Strength Training After 40,Men's Health,Muscle and Fitness,1.0,drafts,drafts/MEN-023_Strength_Training_After_40/module.json
-MEN-024,Strength Training After 60,Men's Health,Muscle and Fitness,1.0,drafts,drafts/MEN-024_Strength_Training_After_60/module.json
-MEN-025,Muscle Hypertrophy in Men,Men's Health,Muscle and Fitness,1.0,drafts,drafts/MEN-025_Muscle_Hypertrophy_in_Men/module.json
-MEN-026,Protein Needs in Men,Men's Health,Muscle and Fitness,1.0,drafts,drafts/MEN-026_Protein_Needs_in_Men/module.json
-MEN-027,Power Training for Men,Men's Health,Muscle and Fitness,1.0,drafts,drafts/MEN-027_Power_Training_for_Men/module.json
-MEN-028,Cardiorespiratory Fitness in Men,Men's Health,Muscle and Fitness,1.0,drafts,drafts/MEN-028_Cardiorespiratory_Fitness_in_Men/module.json
-MEN-029,Mobility for Men,Men's Health,Muscle and Fitness,1.0,drafts,drafts/MEN-029_Mobility_for_Men/module.json
-MEN-030,Recovery for Men,Men's Health,Muscle and Fitness,1.0,drafts,drafts/MEN-030_Recovery_for_Men/module.json
-MEN-031,Male Fertility,Men's Health,Sexual and Reproductive Health,1.0,drafts,drafts/MEN-031_Male_Fertility/module.json
-MEN-032,Age and Male Fertility,Men's Health,Sexual and Reproductive Health,1.0,drafts,drafts/MEN-032_Age_and_Male_Fertility/module.json
-MEN-033,Sperm Health,Men's Health,Sexual and Reproductive Health,1.0,drafts,drafts/MEN-033_Sperm_Health/module.json
-MEN-034,Erectile Dysfunction,Men's Health,Sexual and Reproductive Health,1.0,drafts,drafts/MEN-034_Erectile_Dysfunction/module.json
-MEN-035,Sexual Desire in Men,Men's Health,Sexual and Reproductive Health,1.0,drafts,drafts/MEN-035_Sexual_Desire_in_Men/module.json
-MEN-036,Testosterone Deficiency,Men's Health,Sexual and Reproductive Health,1.0,drafts,drafts/MEN-036_Testosterone_Deficiency/module.json
-MEN-037,Testosterone Testing,Men's Health,Sexual and Reproductive Health,1.0,drafts,drafts/MEN-037_Testosterone_Testing/module.json
-MEN-038,Testosterone Replacement Therapy,Men's Health,Sexual and Reproductive Health,1.0,drafts,drafts/MEN-038_Testosterone_Replacement_Therapy/module.json
-MEN-039,Peyronie Disease,Men's Health,Sexual and Reproductive Health,1.0,drafts,drafts/MEN-039_Peyronie_Disease/module.json
-MEN-040,Sexually Transmitted Infection Prevention for Men,Men's Health,Sexual and Reproductive Health,1.0,drafts,drafts/MEN-040_Sexually_Transmitted_Infection_Prevention_for_Men/module.json
-MEN-041,Prostate Health,Men's Health,Prostate and Urinary Health,1.0,drafts,drafts/MEN-041_Prostate_Health/module.json
-MEN-042,Benign Prostatic Hyperplasia,Men's Health,Prostate and Urinary Health,1.0,drafts,drafts/MEN-042_Benign_Prostatic_Hyperplasia/module.json
-MEN-043,Lower Urinary Tract Symptoms,Men's Health,Prostate and Urinary Health,1.0,drafts,drafts/MEN-043_Lower_Urinary_Tract_Symptoms/module.json
-MEN-044,Prostate Cancer Risk,Men's Health,Prostate and Urinary Health,1.0,drafts,drafts/MEN-044_Prostate_Cancer_Risk/module.json
-MEN-045,Prostate Cancer Screening,Men's Health,Prostate and Urinary Health,1.0,drafts,drafts/MEN-045_Prostate_Cancer_Screening/module.json
-MEN-046,PSA Testing,Men's Health,Prostate and Urinary Health,1.0,drafts,drafts/MEN-046_PSA_Testing/module.json
-MEN-047,Prostatitis,Men's Health,Prostate and Urinary Health,1.0,drafts,drafts/MEN-047_Prostatitis/module.json
-MEN-048,Urinary Incontinence in Men,Men's Health,Prostate and Urinary Health,1.0,drafts,drafts/MEN-048_Urinary_Incontinence_in_Men/module.json
-MEN-049,Nocturia in Men,Men's Health,Prostate and Urinary Health,1.0,drafts,drafts/MEN-049_Nocturia_in_Men/module.json
-MEN-050,Preparing for a Prostate Health Visit,Men's Health,Prostate and Urinary Health,1.0,drafts,drafts/MEN-050_Preparing_for_a_Prostate_Health_Visit/module.json
-MEN-051,Depression in Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-051_Depression_in_Men/module.json
-MEN-052,Anxiety in Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-052_Anxiety_in_Men/module.json
-MEN-053,Burnout in Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-053_Burnout_in_Men/module.json
-MEN-054,Loneliness in Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-054_Loneliness_in_Men/module.json
-MEN-055,Suicide Risk in Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-055_Suicide_Risk_in_Men/module.json
-MEN-056,Healthy Coping for Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-056_Healthy_Coping_for_Men/module.json
-MEN-057,Social Connection for Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-057_Social_Connection_for_Men/module.json
-MEN-058,Work Stress in Men,Men's Health,Mental Health,1.0,drafts,drafts/MEN-058_Work_Stress_in_Men/module.json
-MEN-059,When Men Should Seek Mental Health Care,Men's Health,Mental Health,1.0,drafts,drafts/MEN-059_When_Men_Should_Seek_Mental_Health_Care/module.json
-MEN-060,Prostate Cancer Prevention,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-060_Prostate_Cancer_Prevention/module.json
-MEN-061,Colorectal Cancer Prevention in Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-061_Colorectal_Cancer_Prevention_in_Men/module.json
-MEN-062,Lung Cancer Prevention in Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-062_Lung_Cancer_Prevention_in_Men/module.json
-MEN-063,Skin Cancer Prevention in Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-063_Skin_Cancer_Prevention_in_Men/module.json
-MEN-064,Testicular Cancer Awareness,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-064_Testicular_Cancer_Awareness/module.json
-MEN-065,Oral Cancer Risk in Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-065_Oral_Cancer_Risk_in_Men/module.json
-MEN-066,Alcohol and Cancer Risk in Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-066_Alcohol_and_Cancer_Risk_in_Men/module.json
-MEN-067,Smoking and Cancer Risk in Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-067_Smoking_and_Cancer_Risk_in_Men/module.json
-MEN-068,Cancer Screening for Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-068_Cancer_Screening_for_Men/module.json
-MEN-069,Family Cancer History in Men,Men's Health,Cancer and Prevention,1.0,drafts,drafts/MEN-069_Family_Cancer_History_in_Men/module.json
-MEN-070,Healthy Aging for Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-070_Healthy_Aging_for_Men/module.json
-MEN-071,Sarcopenia in Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-071_Sarcopenia_in_Men/module.json
-MEN-072,Bone Health in Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-072_Bone_Health_in_Men/module.json
-MEN-073,Osteoporosis in Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-073_Osteoporosis_in_Men/module.json
-MEN-074,Falls in Older Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-074_Falls_in_Older_Men/module.json
-MEN-075,Brain Health in Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-075_Brain_Health_in_Men/module.json
-MEN-076,Sleep in Older Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-076_Sleep_in_Older_Men/module.json
-MEN-077,Hearing Loss in Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-077_Hearing_Loss_in_Men/module.json
-MEN-078,Retirement and Men's Health,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-078_Retirement_and_Men's_Health/module.json
-MEN-079,Longevity for Men,Men's Health,Healthy Aging,1.0,drafts,drafts/MEN-079_Longevity_for_Men/module.json
-MEN-080,Alcohol and Men's Health,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-080_Alcohol_and_Men's_Health/module.json
-MEN-081,Smoking and Men's Health,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-081_Smoking_and_Men's_Health/module.json
-MEN-082,Vaping and Men's Health,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-082_Vaping_and_Men's_Health/module.json
-MEN-083,Cannabis and Men's Health,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-083_Cannabis_and_Men's_Health/module.json
-MEN-084,Sleep Apnea in Men,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-084_Sleep_Apnea_in_Men/module.json
-MEN-085,Driving Safety in Older Men,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-085_Driving_Safety_in_Older_Men/module.json
-MEN-086,Workplace Injury Prevention,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-086_Workplace_Injury_Prevention/module.json
-MEN-087,Sun Protection for Men,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-087_Sun_Protection_for_Men/module.json
-MEN-088,Healthy Weight Without Extreme Dieting,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-088_Healthy_Weight_Without_Extreme_Dieting/module.json
-MEN-089,Building a Personal Men's Health Plan,Men's Health,Lifestyle and Safety,1.0,drafts,drafts/MEN-089_Building_a_Personal_Men's_Health_Plan/module.json
-MEN-090,Hair Loss in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-090_Hair_Loss_in_Men/module.json
-MEN-091,Male Pattern Baldness,Men's Health,Common Questions,1.0,drafts,drafts/MEN-091_Male_Pattern_Baldness/module.json
-MEN-092,Gynecomastia,Men's Health,Common Questions,1.0,drafts,drafts/MEN-092_Gynecomastia/module.json
-MEN-093,Snoring in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-093_Snoring_in_Men/module.json
-MEN-094,Gout in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-094_Gout_in_Men/module.json
-MEN-095,Kidney Stones in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-095_Kidney_Stones_in_Men/module.json
-MEN-096,Back Pain in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-096_Back_Pain_in_Men/module.json
-MEN-097,Joint Pain in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-097_Joint_Pain_in_Men/module.json
-MEN-098,Fatigue in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-098_Fatigue_in_Men/module.json
-MEN-099,Low Energy in Men,Men's Health,Common Questions,1.0,drafts,drafts/MEN-099_Low_Energy_in_Men/module.json
-MEN-100,Integrating Men's Health: Practical Synthesis,Men's Health,Integrated Practice,1.0,drafts,drafts/MEN-100_Integrating_Men's_Health_Practical_Synthesis/module.json
+MED-006,Taking Medicines With Food,Medications,Medication Foundations,1.0,drafts,drafts/MED-006_Taking_Medicines_With_Food/module.json
+MED-007,Medication Adherence,Medications,Medication Foundations,1.0,drafts,drafts/MED-007_Medication_Adherence/module.json
+MED-008,Missed Doses,Medications,Medication Foundations,1.0,drafts,drafts/MED-008_Missed_Doses/module.json
+MED-009,Medication Side Effects,Medications,Medication Foundations,1.0,drafts,drafts/MED-009_Medication_Side_Effects/module.json
+MED-010,Drug Allergies,Medications,Medication Foundations,1.0,drafts,drafts/MED-010_Drug_Allergies/module.json
+MED-011,Drug Interactions,Medications,Medication Foundations,1.0,drafts,drafts/MED-011_Drug_Interactions/module.json
+MED-012,Medication-Supplement Interactions,Medications,Medication Foundations,1.0,drafts,drafts/MED-012_Medication-Supplement_Interactions/module.json
+MED-013,Medication and Alcohol Interactions,Medications,Medication Foundations,1.0,drafts,drafts/MED-013_Medication_and_Alcohol_Interactions/module.json
+MED-014,Medication Storage,Medications,Medication Foundations,1.0,drafts,drafts/MED-014_Medication_Storage/module.json
+MED-015,Medication Disposal,Medications,Medication Foundations,1.0,drafts,drafts/MED-015_Medication_Disposal/module.json
+MED-016,ACE Inhibitors,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-016_ACE_Inhibitors/module.json
+MED-017,ARBs,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-017_ARBs/module.json
+MED-018,Thiazide Diuretics,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-018_Thiazide_Diuretics/module.json
+MED-019,Calcium Channel Blockers,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-019_Calcium_Channel_Blockers/module.json
+MED-020,Beta Blockers,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-020_Beta_Blockers/module.json
+MED-021,Loop Diuretics,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-021_Loop_Diuretics/module.json
+MED-022,Potassium-Sparing Diuretics,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-022_Potassium-Sparing_Diuretics/module.json
+MED-023,Alpha Blockers,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-023_Alpha_Blockers/module.json
+MED-024,Central Alpha Agonists,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-024_Central_Alpha_Agonists/module.json
+MED-025,Direct Vasodilators,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-025_Direct_Vasodilators/module.json
+MED-026,Combination Blood Pressure Medicines,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-026_Combination_Blood_Pressure_Medicines/module.json
+MED-027,Blood Pressure Medicine Side Effects,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-027_Blood_Pressure_Medicine_Side_Effects/module.json
+MED-028,Monitoring Blood Pressure Medicines,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-028_Monitoring_Blood_Pressure_Medicines/module.json
+MED-029,Electrolytes and Blood Pressure Medicines,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-029_Electrolytes_and_Blood_Pressure_Medicines/module.json
+MED-030,Stopping Blood Pressure Medicines Safely,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-030_Stopping_Blood_Pressure_Medicines_Safely/module.json
+MED-031,Statins,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-031_Statins/module.json
+MED-032,Ezetimibe,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-032_Ezetimibe/module.json
+MED-033,PCSK9 Inhibitors,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-033_PCSK9_Inhibitors/module.json
+MED-034,Bempedoic Acid,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-034_Bempedoic_Acid/module.json
+MED-035,Fibrates,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-035_Fibrates/module.json
+MED-036,Prescription Omega-3 Medicines,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-036_Prescription_Omega-3_Medicines/module.json
+MED-037,Niacin as Medicine,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-037_Niacin_as_Medicine/module.json
+MED-038,Aspirin for Cardiovascular Prevention,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-038_Aspirin_for_Cardiovascular_Prevention/module.json
+MED-039,Antiplatelet Medicines,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-039_Antiplatelet_Medicines/module.json
+MED-040,Anticoagulants,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-040_Anticoagulants/module.json
+MED-041,Warfarin,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-041_Warfarin/module.json
+MED-042,Direct Oral Anticoagulants,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-042_Direct_Oral_Anticoagulants/module.json
+MED-043,Nitrates,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-043_Nitrates/module.json
+MED-044,Antiarrhythmic Medicines,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-044_Antiarrhythmic_Medicines/module.json
+MED-045,Heart Failure Medicines,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-045_Heart_Failure_Medicines/module.json
+MED-046,Metformin,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-046_Metformin/module.json
+MED-047,Sulfonylureas,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-047_Sulfonylureas/module.json
+MED-048,DPP-4 Inhibitors,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-048_DPP-4_Inhibitors/module.json
+MED-049,SGLT2 Inhibitors,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-049_SGLT2_Inhibitors/module.json
+MED-050,GLP-1 Receptor Agonists,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-050_GLP-1_Receptor_Agonists/module.json
+MED-051,Dual GIP GLP-1 Medicines,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-051_Dual_GIP_GLP-1_Medicines/module.json
+MED-052,Insulin,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-052_Insulin/module.json
+MED-053,Basal Insulin,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-053_Basal_Insulin/module.json
+MED-054,Mealtime Insulin,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-054_Mealtime_Insulin/module.json
+MED-055,Thiazolidinediones,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-055_Thiazolidinediones/module.json
 SUP-001,Dietary Supplements Overview,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-001_Dietary_Supplements_Overview/module.json
 SUP-002,How Supplements Are Regulated,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-002_How_Supplements_Are_Regulated/module.json
 SUP-003,How to Read a Supplement Label,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-003_How_to_Read_a_Supplement_Label/module.json
