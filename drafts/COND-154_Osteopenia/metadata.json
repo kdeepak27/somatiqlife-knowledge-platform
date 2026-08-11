@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-154",
+  "title": "Osteopenia",
+  "subtitle": "What osteopenia is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Musculoskeletal and Pain",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "osteopenia",
+    "bone density",
+    "bone health",
+    "osteoporosis",
+    "risk factors",
+    "bone loss",
+    "bone fractures",
+    "DXA scan",
+    "calcium",
+    "vitamin D",
+    "bone remodeling"
+  ],
+  "related_modules": [
+    "COND-155",
+    "COND-156",
+    "MUSC-101"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and population studies; moderate evidence for some pharmacological interventions in osteopenia; emerging research on individualized risk prediction.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

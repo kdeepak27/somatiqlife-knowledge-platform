@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-152",
+  "title": "Rheumatoid Arthritis",
+  "subtitle": "What rheumatoid arthritis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Musculoskeletal and Pain",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Patient Education"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Readable for general public with some medical terms explained",
+  "keywords": [
+    "Rheumatoid Arthritis",
+    "RA",
+    "autoimmune",
+    "joint inflammation",
+    "chronic arthritis",
+    "immune system",
+    "pain",
+    "swelling",
+    "fatigue",
+    "disease-modifying drugs"
+  ],
+  "related_modules": [
+    "COND-153",
+    "COND-154",
+    "COND-155"
+  ],
+  "evidence_strength": "Established evidence for RA definition, diagnosis, and treatment; moderate evidence for newer biologic agents and lifestyle interventions; emerging evidence in disease pathogenesis mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
