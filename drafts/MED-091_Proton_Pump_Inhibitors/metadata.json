@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-091",
+  "title": "Proton Pump Inhibitors",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to proton pump inhibitors.",
+  "domain": "Medications",
+  "category": "Digestive and Respiratory Medicines",
+  "som_stages": [
+    "all"
+  ],
+  "audience": [
+    "consumers",
+    "patients",
+    "caregivers",
+    "health educators"
+  ],
+  "reading_level": "Middle School to Adult",
+  "keywords": [
+    "proton pump inhibitors",
+    "PPIs",
+    "gastric acid suppression",
+    "GERD",
+    "peptic ulcer disease",
+    "drug interactions",
+    "PPI side effects",
+    "omeprazole",
+    "esomeprazole",
+    "pantoprazole"
+  ],
+  "related_modules": [
+    "MED-037-AcidRegulation",
+    "MED-104-GastroesophagealRefluxDisease",
+    "MED-047-DrugInteractions"
+  ],
+  "evidence_strength": "Established evidence supported by randomized controlled trials and observational studies for PPIs' efficacy and common risks; some long-term safety data primarily from observational studies with moderate evidence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
