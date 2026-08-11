@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-023",
+  "title": "Transient Ischemic Attack",
+  "subtitle": "What transient ischemic attack is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Recognition",
+    "Diagnosis",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "Transient ischemic attack",
+    "TIA",
+    "mini-stroke",
+    "stroke warning",
+    "brain ischemia",
+    "neurological symptoms",
+    "stroke risk factors",
+    "stroke prevention"
+  ],
+  "related_modules": [
+    "COND-017",
+    "COND-041",
+    "COND-035"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
