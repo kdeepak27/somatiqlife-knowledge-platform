@@ -1,0 +1,265 @@
+{
+  "module_id": "COND-007",
+  "title": "Heart Attack",
+  "subtitle": "What heart attack is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Diagnosis",
+    "Treatment",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Medium (Health Literate)",
+  "keywords": [
+    "Heart Attack",
+    "Myocardial Infarction",
+    "Chest Pain",
+    "Cardiovascular Risk Factors",
+    "Heart Disease",
+    "Coronary Artery Disease",
+    "Cardiac Arrest",
+    "Lifestyle Changes",
+    "Emergency Response",
+    "Heart Health"
+  ],
+  "customer_questions": [
+    "What is a heart attack (myocardial infarction)?",
+    "What causes a heart attack?",
+    "What are the risk factors for heart attack?",
+    "How do I recognize the symptoms of a heart attack?",
+    "What should I do if I think someone is having a heart attack?",
+    "How is a heart attack diagnosed by doctors?",
+    "What treatments are available for heart attacks?",
+    "Can heart attacks be prevented?",
+    "What lifestyle changes help reduce heart attack risk?",
+    "What complications can arise after a heart attack?",
+    "Is chest pain the only symptom of a heart attack?",
+    "How fast should a heart attack be treated?"
+  ],
+  "retrieval_summary": "A heart attack, medically known as myocardial infarction (MI), is a serious cardiovascular event where the blood supply to a part of the heart muscle is suddenly blocked, usually due to a blood clot in a coronary artery narrowed by atherosclerosis. This interruption causes heart muscle tissue damage or death, which can lead to severe health consequences or death if not promptly treated. Heart attacks are a major cause of morbidity and mortality worldwide and are often preceded by risk factors such as smoking, high blood pressure (hypertension), high cholesterol, diabetes, obesity, sedentary lifestyle, and family history of heart disease. Symptoms typically include chest pain or discomfort, shortness of breath, nausea, and fatigue, although presentations can vary especially in women and older adults. Timely evaluation with electrocardiograms (ECGs), blood tests for cardiac enzymes (like troponins), and coronary imaging help confirm diagnosis. Management includes emergency treatments such as aspirin administration, thrombolytics, percutaneous coronary intervention (angioplasty), and long-term medications (beta-blockers, statins, ACE inhibitors) alongside lifestyle modifications. Though treatments have advanced, prevention through risk factor control remains vital. Limitations include variability in symptom recognition and treatment access disparities. Emergency response and patient education greatly impact outcomes. Related terms include myocardial infarction, coronary thrombosis, and acute coronary syndrome. This module emphasizes evidence-based approaches with practical guidance and safety notes for early recognition and response.",
+  "learning_objectives": [
+    "Understand the definition and mechanisms of heart attack (myocardial infarction).",
+    "Identify common causes and major risk factors for heart attack.",
+    "Recognize typical and atypical symptoms associated with heart attacks.",
+    "Learn the steps involved in the medical evaluation and diagnosis of heart attacks.",
+    "Review current medical and emergency management strategies for heart attack treatment.",
+    "Understand lifestyle changes that can prevent or reduce heart attack risk.",
+    "Clarify common misconceptions about heart attacks and chest pain.",
+    "Know safety considerations and emergency actions for suspected heart attacks."
+  ],
+  "definition": "A heart attack, or myocardial infarction, occurs when blood flow to a part of the heart muscle is blocked, causing tissue damage or death due to oxygen deprivation. This blockage is most commonly caused by a blood clot forming on a ruptured plaque within a coronary artery.",
+  "why_this_matters": "Heart attacks are a leading cause of death worldwide and can result in permanent heart damage or death if not treated promptly. Understanding heart attacks helps individuals recognize symptoms early, seek timely medical help, adopt preventive measures, and improve survival and quality of life.",
+  "sections": [
+    {
+      "heading": "Definition and Overview of Heart Attack",
+      "content": "A heart attack, also called myocardial infarction (MI), is a critical cardiovascular condition characterized by the interruption of blood supply to the heart muscle. This interruption results in ischemia (lack of oxygen) that can injure or kill heart muscle cells. The term 'infarction' refers to tissue death caused by lack of blood. The most common cause is blockage in the coronary arteries due to atherosclerosis, which predisposes to blood clot formation. Immediate recognition and treatment are crucial to minimize heart damage and improve survival."
+    },
+    {
+      "heading": "Causes and Mechanisms of Heart Attack",
+      "content": "The primary cause of heart attacks is coronary artery disease (CAD), where deposits of cholesterol and fatty substances (atherosclerotic plaques) narrow arteries supplying the heart. When a plaque ruptures, it triggers clot formation (thrombosis), which obstructs blood flow. Less common causes include coronary artery spasm, embolism, or trauma. The lack of oxygenated blood leads to myocardial ischemia and if prolonged, myocardial necrosis (tissue death). This cellular damage impairs heart function."
+    },
+    {
+      "heading": "Risk Factors for Heart Attack",
+      "content": "Major risk factors for heart attack include modifiable and non-modifiable elements. Modifiable factors include tobacco smoking, uncontrolled high blood pressure (hypertension), high LDL cholesterol, diabetes mellitus, obesity, sedentary lifestyle, unhealthy diet, and excessive alcohol use. Non-modifiable risks include age (older adults at higher risk), male sex, and family history of premature heart disease. Understanding these helps target prevention and screening efforts."
+    },
+    {
+      "heading": "Symptoms and Warning Signs of Heart Attack",
+      "content": "Common symptoms of heart attack include prolonged chest pain or discomfort often described as pressure, squeezing, fullness, or heaviness usually in the center or left chest. Pain may radiate to the arms, neck, jaw, or back. Other symptoms include shortness of breath, sweating, nausea, dizziness, fatigue, and anxiety. Atypical presentations, especially in women, the elderly, and diabetics, may include absence of chest pain or predominantly gastrointestinal symptoms. Early recognition of symptoms is critical for prompt emergency response."
+    },
+    {
+      "heading": "Evaluation and Diagnostic Tests for Heart Attack",
+      "content": "Diagnosis begins with clinical history and physical examination. Electrocardiogram (ECG or EKG) is key to detect characteristic changes indicating myocardial damage. Blood tests measuring cardiac biomarkers such as troponin I or T reveal cardiac muscle injury. Additional imaging like echocardiography, coronary angiography, or CT coronary angiogram may assess extent and cause. Timing and accuracy of these tests are vital to guiding treatment decisions."
+    },
+    {
+      "heading": "Medical Management and Emergency Treatment",
+      "content": "Emergency treatment involves restoring blood flow to the heart muscle. Initial measures include administration of aspirin, oxygen if hypoxic, nitroglycerin for chest pain, and pain relief. Reperfusion strategies involve thrombolytic (clot-busting) drugs or percutaneous coronary intervention (angioplasty with stent placement) to open occluded arteries. Long-term management includes medications such as beta-blockers, ACE inhibitors, statins, and antiplatelet agents to reduce recurrence and improve prognosis."
+    },
+    {
+      "heading": "Lifestyle Considerations for Prevention and Recovery",
+      "content": "Lifestyle modifications are essential to prevent first or recurrent heart attacks. Key strategies include quitting smoking, adopting a heart-healthy diet (low saturated fat, high fruits, vegetables, whole grains), regular aerobic exercise, weight management, blood pressure and glucose control, and limiting alcohol. Cardiac rehabilitation programs support recovery through supervised exercise, education, and emotional support. Sustaining these habits reduces risk and improves quality of life."
+    },
+    {
+      "heading": "Complications and Long-Term Outcomes",
+      "content": "Heart attacks can lead to serious complications including heart failure (due to weakened heart muscle), arrhythmias (irregular heartbeats), cardiogenic shock, and increased risk of sudden cardiac death. Some patients develop permanent damage that leads to chronic symptoms like fatigue and shortness of breath. Timely treatment reduces these risks. Regular medical follow-up and adherence to treatment plans help monitor and improve outcomes."
+    },
+    {
+      "heading": "Common Misconceptions About Heart Attack",
+      "content": "A common misconception is that heart attack always causes severe chest pain, but many experience mild or atypical symptoms. Some believe only older adults or men get heart attacks; however, women and younger people can also be affected. Another myth is that heart attacks cannot be prevented—while risk factors increase chances, lifestyle changes and medications significantly reduce risk. Understanding these realities improves awareness and response."
+    },
+    {
+      "heading": "Safety Notes and Emergency Response",
+      "content": "If a heart attack is suspected, call emergency services immediately as every minute counts to prevent damage. Do not drive yourself to hospital. Chewing aspirin after confirming no allergy can help thin blood while awaiting help. Avoid delays due to fear or denial. Public knowledge of cardiopulmonary resuscitation (CPR) and use of automated external defibrillators (AEDs) can save lives in cardiac arrest, a potentially fatal complication. Safety measures also include adherence to prescribed therapies and lifestyle guidance to prevent recurrence."
+    },
+    {
+      "heading": "Glossary of Key Terms",
+      "content": "This section defines scientific and lay terms important for understanding heart attack concepts, enabling clear communication and comprehension:"
+    }
+  ],
+  "practical_guidance": [
+    "Recognize common and atypical symptoms of heart attack and seek emergency help promptly.",
+    "Avoid delays in calling emergency medical services even if symptoms are uncertain.",
+    "Adhere strictly to prescribed medications and attend follow-up appointments after heart attack.",
+    "Adopt healthy lifestyle changes such as quitting smoking, balanced diet, regular exercise, and weight control to reduce risk.",
+    "Participate in cardiac rehabilitation programs if recommended.",
+    "Know how to administer aspirin safely and understand basic CPR and AED use.",
+    "Avoid self-diagnosing or delaying professional care for chest discomfort or related symptoms.",
+    "Consult healthcare providers for risk assessment and personalized prevention plans."
+  ],
+  "safety_notes": [
+    "Do not ignore chest pain or other warning symptoms of heart attack; immediate medical evaluation is critical.",
+    "Do not attempt to drive yourself if experiencing heart attack symptoms; call emergency services.",
+    "Only take aspirin for suspected heart attack if not allergic and advised by a healthcare professional.",
+    "Avoid excessive physical exertion or stress if at risk of heart disease without medical clearance.",
+    "Follow medication instructions carefully to prevent complications such as bleeding or hypotension."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Only men have heart attacks.",
+      "reality": "Women can and do have heart attacks, sometimes with different symptoms than men."
+    },
+    {
+      "misconception": "Heart attack always causes severe chest pain.",
+      "reality": "Symptoms can vary; some have mild or no chest pain, especially women, elderly, and diabetics."
+    },
+    {
+      "misconception": "Heart attacks cannot be prevented.",
+      "reality": "Many heart attacks can be prevented by addressing risk factors and adopting healthy lifestyle changes."
+    }
+  ],
+  "clinical_pearls": [
+    "Early administration of aspirin during suspected heart attack reduces mortality.",
+    "Delay in reperfusion therapy increases heart muscle damage and worsens prognosis.",
+    "Women and diabetic patients often present with atypical symptoms; maintain high suspicion.",
+    "Smoking cessation is one of the most impactful interventions to reduce heart attack risk.",
+    "Cardiac rehabilitation improves survival, functional capacity, and quality of life after a heart attack."
+  ],
+  "key_takeaways": [
+    "Heart attack occurs due to blockage of blood flow leading to heart muscle damage or death.",
+    "Common causes include atherosclerosis and thrombosis in coronary arteries.",
+    "Major risk factors include smoking, hypertension, diabetes, high cholesterol, obesity, and family history.",
+    "Symptoms vary: chest pain is classic, but some present atypically.",
+    "Emergency evaluation involves ECG and cardiac enzyme tests for diagnosis.",
+    "Timely medical treatment with reperfusion saves heart tissue and improves outcomes.",
+    "Lifestyle changes and medication adherence are critical for prevention and recovery.",
+    "Prompt recognition and emergency response save lives and reduce disabilities."
+  ],
+  "glossary": [
+    {
+      "term": "Myocardial infarction (MI)",
+      "definition": "Medical term for heart attack; death of heart muscle tissue due to lack of blood supply."
+    },
+    {
+      "term": "Atherosclerosis",
+      "definition": "Hardening and narrowing of arteries caused by buildup of fatty plaques."
+    },
+    {
+      "term": "Coronary artery",
+      "definition": "Blood vessels that supply oxygen-rich blood to the heart muscle."
+    },
+    {
+      "term": "Ischemia",
+      "definition": "Insufficient blood flow to tissues causing oxygen deprivation."
+    },
+    {
+      "term": "Thrombosis",
+      "definition": "Formation of a blood clot within a blood vessel obstructing blood flow."
+    },
+    {
+      "term": "Electrocardiogram (ECG or EKG)",
+      "definition": "Test that records the electrical activity of the heart to detect abnormalities."
+    },
+    {
+      "term": "Troponin",
+      "definition": "Protein released into the blood when heart muscle is damaged, used as a biomarker for heart attack."
+    },
+    {
+      "term": "Percutaneous coronary intervention (PCI)",
+      "definition": "A procedure to open blocked coronary arteries using a balloon and stent."
+    },
+    {
+      "term": "Angina",
+      "definition": "Chest pain or discomfort due to reduced blood flow to the heart muscle, often a warning sign."
+    },
+    {
+      "term": "Cardiac arrest",
+      "definition": "Sudden loss of heart function, often caused by arrhythmia, leading to loss of consciousness and death if untreated."
+    }
+  ],
+  "related_modules": [
+    "COND-003:Hypertension",
+    "COND-004:Cholesterol Disorders",
+    "EMER-002:Cardiac Arrest",
+    "COND-010:Heart Failure"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Diagram of Coronary Artery Blockage",
+      "illustration_type": "Anatomical Diagram",
+      "description": "Illustrates the coronary arteries showing atherosclerotic plaque and resultant blood clot causing obstruction leading to a heart attack.",
+      "alt_text": "Coronary artery cross-section showing plaque buildup and blood clot blocking blood flow."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Electrocardiogram Changes in Heart Attack",
+      "illustration_type": "Medical Imaging",
+      "description": "Depicts typical ECG changes such as ST elevation during acute myocardial infarction.",
+      "alt_text": "ECG tracing showing ST elevation characteristic of heart attack."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Symptoms of Heart Attack in Men vs Women",
+      "illustration_type": "Infographic",
+      "description": "Comparison chart showing typical and atypical symptoms of heart attack in men and women.",
+      "alt_text": "Side-by-side infographic of heart attack symptoms differentiating men and women."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Emergency Response Steps for Suspected Heart Attack",
+      "illustration_type": "Instructional Diagram",
+      "description": "Stepwise guide for immediate actions to take when someone shows heart attack symptoms including calling emergency services and administering aspirin.",
+      "alt_text": "Flowchart of emergency steps for heart attack awareness and response."
+    }
+  ],
+  "references": [
+    {
+      "title": "2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation",
+      "organization_or_authors": "European Society of Cardiology (ESC)",
+      "year": "2018",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Heart Disease and Stroke Statistics—2020 Update: A Report From the American Heart Association",
+      "organization_or_authors": "American Heart Association",
+      "year": "2020",
+      "identifier": "Circulation. 2020;141:e139–e596",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "2013 ACCF/AHA guideline for the management of ST-elevation myocardial infarction: executive summary",
+      "organization_or_authors": "American College of Cardiology Foundation/American Heart Association Task Force",
+      "year": "2013",
+      "identifier": "J Am Coll Cardiol. 2013;61(4):485-510",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Early aspirin use in acute myocardial infarction: a systematic review and meta-analysis",
+      "organization_or_authors": "Antman EM et al.",
+      "year": "2000",
+      "identifier": "Ann Intern Med. 2000;132(10):757-777",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence for disease mechanisms, diagnosis, and main treatments; some emerging evidence on prevention and atypical presentations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

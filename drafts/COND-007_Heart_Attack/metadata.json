@@ -1,0 +1,42 @@
+{
+  "module_id": "COND-007",
+  "title": "Heart Attack",
+  "subtitle": "What heart attack is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Diagnosis",
+    "Treatment",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Medium (Health Literate)",
+  "keywords": [
+    "Heart Attack",
+    "Myocardial Infarction",
+    "Chest Pain",
+    "Cardiovascular Risk Factors",
+    "Heart Disease",
+    "Coronary Artery Disease",
+    "Cardiac Arrest",
+    "Lifestyle Changes",
+    "Emergency Response",
+    "Heart Health"
+  ],
+  "related_modules": [
+    "COND-003:Hypertension",
+    "COND-004:Cholesterol Disorders",
+    "EMER-002:Cardiac Arrest",
+    "COND-010:Heart Failure"
+  ],
+  "evidence_strength": "Established evidence for disease mechanisms, diagnosis, and main treatments; some emerging evidence on prevention and atypical presentations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
