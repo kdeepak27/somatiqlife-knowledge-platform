@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-129",
+  "title": "Nocturia",
+  "subtitle": "What nocturia is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "prevention",
+    "diagnosis",
+    "management"
+  ],
+  "audience": [
+    "general public",
+    "patients",
+    "healthcare professionals"
+  ],
+  "reading_level": "Intermediate - suitable for educated lay audience and health professionals",
+  "keywords": [
+    "nocturia",
+    "nighttime urination",
+    "frequent urination",
+    "urinary symptoms",
+    "lower urinary tract symptoms",
+    "bladder function",
+    "sleep disruption",
+    "kidney disease",
+    "benign prostatic hyperplasia",
+    "lifestyle management"
+  ],
+  "related_modules": [
+    "COND-130",
+    "COND-145",
+    "SYMPT-022"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and epidemiologic studies, supplemented with moderate evidence from clinical trials for treatment efficacy.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

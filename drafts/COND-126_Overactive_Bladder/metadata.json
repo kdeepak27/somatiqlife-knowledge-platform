@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-126",
+  "title": "Overactive Bladder",
+  "subtitle": "What overactive bladder is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "Evaluation",
+    "Management",
+    "Education"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "Overactive Bladder",
+    "Urinary urgency",
+    "Urinary incontinence",
+    "Detrusor overactivity",
+    "Bladder function",
+    "Pelvic floor",
+    "Urge incontinence",
+    "Lower urinary tract symptoms",
+    "OAB",
+    "Bladder control"
+  ],
+  "related_modules": [
+    "COND-127",
+    "COND-128",
+    "COND-055"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and first-line treatments; moderate evidence supporting advanced treatments; emerging evidence for novel therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-128",
+  "title": "Benign Prostatic Hyperplasia",
+  "subtitle": "What benign prostatic hyperplasia is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Healthcare Students"
+  ],
+  "reading_level": "Intermediate (Grade 10-12)",
+  "keywords": [
+    "Benign prostatic hyperplasia",
+    "BPH",
+    "Prostate enlargement",
+    "Urinary symptoms",
+    "Lower urinary tract symptoms",
+    "Alpha blockers",
+    "5-alpha-reductase inhibitors",
+    "Prostate gland",
+    "Nocturia",
+    "Urinary retention"
+  ],
+  "related_modules": [
+    "COND-130",
+    "COND-025"
+  ],
+  "evidence_strength": "Established evidence for epidemiology, symptoms, and most treatments; moderate evidence supports lifestyle interventions; emerging research ongoing for novel therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
