@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-168",
+  "title": "Plantar Fasciitis",
+  "subtitle": "What plantar fasciitis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Musculoskeletal and Pain",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Patients with Foot Pain"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Plantar Fasciitis",
+    "Heel Pain",
+    "Plantar Fascia",
+    "Foot Injury",
+    "Foot Pain",
+    "Heel Spur",
+    "Orthotics",
+    "Physical Therapy",
+    "Foot Biomechanics",
+    "Inflammation"
+  ],
+  "related_modules": [
+    "COND-102",
+    "COND-174",
+    "COND-190"
+  ],
+  "evidence_strength": "Established",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
