@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-032",
+  "title": "Ezetimibe",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to ezetimibe.",
+  "domain": "Medications",
+  "category": "Cholesterol and Heart Medicines",
+  "som_stages": [
+    "Prevention",
+    "Chronic Disease Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Grade 9-12",
+  "keywords": [
+    "ezetimibe",
+    "cholesterol",
+    "LDL cholesterol",
+    "hyperlipidemia",
+    "statins",
+    "cardiovascular disease",
+    "lipid-lowering agents",
+    "intestinal cholesterol absorption"
+  ],
+  "related_modules": [
+    "MED-009",
+    "MED-018",
+    "MED-021"
+  ],
+  "evidence_strength": "Established evidence from multiple randomized controlled trials and guidelines supports ezetimibe’s use in lipid management and cardiovascular risk reduction.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
