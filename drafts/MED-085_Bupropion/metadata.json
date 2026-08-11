@@ -1,0 +1,39 @@
+{
+  "module_id": "MED-085",
+  "title": "Bupropion",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to bupropion.",
+  "domain": "Medications",
+  "category": "Sleep and Mental Health Medicines",
+  "som_stages": [
+    "Treatment",
+    "Maintenance",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Bupropion",
+    "Wellbutrin",
+    "Zyban",
+    "Antidepressant",
+    "Smoking cessation",
+    "Norepinephrine",
+    "Dopamine",
+    "Side effects",
+    "Drug interactions",
+    "Mental health"
+  ],
+  "related_modules": [
+    "MED-032",
+    "MED-071",
+    "MED-094"
+  ],
+  "evidence_strength": "Established evidence from clinical trials and practice guidelines supports bupropion use for depression and smoking cessation; some safety data, particularly for pregnancy, remain limited.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

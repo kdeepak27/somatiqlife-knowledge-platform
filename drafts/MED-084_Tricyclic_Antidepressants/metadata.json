@@ -1,0 +1,38 @@
+{
+  "module_id": "MED-084",
+  "title": "Tricyclic Antidepressants",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to tricyclic antidepressants.",
+  "domain": "Medications",
+  "category": "Sleep and Mental Health Medicines",
+  "som_stages": [
+    "assessment",
+    "treatment",
+    "monitoring"
+  ],
+  "audience": [
+    "consumers",
+    "patients",
+    "caregivers",
+    "general public"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "tricyclic antidepressants",
+    "TCA",
+    "depression treatment",
+    "sleep aid",
+    "mechanism of action",
+    "side effects",
+    "drug interactions",
+    "monitoring",
+    "safety"
+  ],
+  "related_modules": [
+    "MED-023",
+    "MED-056",
+    "MED-112"
+  ],
+  "evidence_strength": "Established evidence for use in depression and chronic pain; moderate evidence for off-label uses; well-documented pharmacology and safety profile.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
