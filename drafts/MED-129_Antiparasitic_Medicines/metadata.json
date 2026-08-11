@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-129",
+  "title": "Antiparasitic Medicines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antiparasitic medicines.",
+  "domain": "Medications",
+  "category": "Anti-Infective Medicines",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate (Health literate audience)",
+  "keywords": [
+    "Antiparasitic",
+    "Parasite",
+    "Medication",
+    "Treatment",
+    "Side Effects",
+    "Drug Interactions",
+    "Monitoring",
+    "Safety"
+  ],
+  "related_modules": [
+    "MED-127-Protozoal_Infections",
+    "MED-130-Antihelminthic_Therapies",
+    "MED-131-Drug_Interactions_in_Anti-Infectives"
+  ],
+  "evidence_strength": "Established evidence for common antiparasitic drugs and indications; moderate evidence for emerging therapies; variable evidence for complementary/herbal treatments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
