@@ -1,0 +1,40 @@
+{
+  "module_id": "COND-185",
+  "title": "Vertigo",
+  "subtitle": "What vertigo is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Neurologic and Cognitive",
+  "som_stages": [
+    "Assessment",
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Vertigo",
+    "Dizziness",
+    "Balance Disorders",
+    "Inner Ear",
+    "Vestibular System",
+    "Neurology",
+    "Symptoms",
+    "Risk Factors",
+    "Management",
+    "Evaluation"
+  ],
+  "related_modules": [
+    "COND-187",
+    "COND-190",
+    "COND-175"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

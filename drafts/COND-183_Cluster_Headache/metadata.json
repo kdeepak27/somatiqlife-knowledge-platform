@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-183",
+  "title": "Cluster Headache",
+  "subtitle": "What cluster headache is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Neurologic and Cognitive",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public",
+    "Healthcare Providers"
+  ],
+  "reading_level": "BSL 8 (Basic Science Literacy)",
+  "keywords": [
+    "Cluster headache",
+    "Trigeminal autonomic cephalalgia",
+    "Headache disorders",
+    "Pain management",
+    "Neurology",
+    "Preventive therapy",
+    "Acute therapy"
+  ],
+  "related_modules": [
+    "COND-172",
+    "COND-195",
+    "COND-101"
+  ],
+  "evidence_strength": "Established evidence for clinical features and acute/preventive treatments; emerging evidence for novel therapies and pathophysiology.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-184",
+  "title": "Dizziness",
+  "subtitle": "What dizziness is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Neurologic and Cognitive",
+  "som_stages": [
+    "Assessment",
+    "Diagnosis",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Dizziness",
+    "Vertigo",
+    "Lightheadedness",
+    "Balance Disorders",
+    "Vestibular System",
+    "Neurologic Symptoms",
+    "Cardiovascular Causes",
+    "Evaluation",
+    "Management"
+  ],
+  "related_modules": [
+    "COND-132",
+    "COND-197",
+    "COND-252"
+  ],
+  "evidence_strength": "Established evidence with some areas of emerging research, particularly in vestibular rehabilitation and clinical diagnostic criteria.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
