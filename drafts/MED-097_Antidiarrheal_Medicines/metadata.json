@@ -1,0 +1,35 @@
+{
+  "module_id": "MED-097",
+  "title": "Antidiarrheal Medicines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antidiarrheal medicines.",
+  "domain": "Medications",
+  "category": "Digestive and Respiratory Medicines",
+  "som_stages": [
+    "Prevention",
+    "Symptom Management",
+    "Treatment"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "antidiarrheal",
+    "diarrhea",
+    "loperamide",
+    "bismuth subsalicylate",
+    "motility",
+    "intestinal inflammation"
+  ],
+  "related_modules": [
+    "MED-045: Gastrointestinal Infections",
+    "MED-068: Probiotics and Gut Health",
+    "MED-102: Pediatric Medication Safety",
+    "MED-110: Fluid and Electrolyte Management"
+  ],
+  "evidence_strength": "Established evidence with moderate variability for probiotics; emerging evidence for antisecretory drugs and use in special populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-098",
+  "title": "Antihistamines",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antihistamines.",
+  "domain": "Medications",
+  "category": "Digestive and Respiratory Medicines",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Monitoring"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "antihistamines",
+    "histamine receptor antagonists",
+    "allergy medication",
+    "H1 blockers",
+    "H2 blockers",
+    "side effects",
+    "drug interactions",
+    "dosage",
+    "safety"
+  ],
+  "related_modules": [
+    "MED-034",
+    "MED-105",
+    "MED-075"
+  ],
+  "evidence_strength": "Established evidence for uses and mechanisms; moderate evidence for novel applications and safety nuances; emerging evidence for new antihistamine derivatives and personalized medicine approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
