@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-102",
+  "title": "Nasal Steroid Sprays",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to nasal steroid sprays.",
+  "domain": "Medications",
+  "category": "Digestive and Respiratory Medicines",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "nasal steroids",
+    "corticosteroid nasal spray",
+    "allergic rhinitis",
+    "nasal spray side effects",
+    "intranasal corticosteroids",
+    "nasal inflammation",
+    "sinusitis treatment",
+    "nasal congestion"
+  ],
+  "related_modules": [
+    "MED-201-Allergic-Rhinitis",
+    "MED-305-Oral-Corticosteroids",
+    "MED-210-Sinusitis-Treatment"
+  ],
+  "evidence_strength": "Established evidence for efficacy and safety in allergic rhinitis and sinus conditions; moderate evidence in pregnant populations; ongoing research addresses long-term safety and use in combination therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
