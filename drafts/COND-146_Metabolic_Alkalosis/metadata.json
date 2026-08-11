@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-146",
+  "title": "Metabolic Alkalosis",
+  "subtitle": "What metabolic alkalosis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Metabolic alkalosis",
+    "Acid-base balance",
+    "Electrolyte imbalance",
+    "Kidney function",
+    "Vomiting",
+    "Diuretics",
+    "Hypokalemia",
+    "Alkalemia"
+  ],
+  "related_modules": [
+    "COND-103",
+    "COND-121",
+    "COND-138"
+  ],
+  "evidence_strength": "Established evidence based on clinical guidelines and physiological principles with some emerging research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

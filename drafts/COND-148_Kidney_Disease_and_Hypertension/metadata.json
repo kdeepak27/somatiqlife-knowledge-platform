@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-148",
+  "title": "Kidney Disease and Hypertension",
+  "subtitle": "What kidney disease and hypertension is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "kidney disease",
+    "chronic kidney disease",
+    "hypertension",
+    "high blood pressure",
+    "renal function",
+    "glomerular filtration rate",
+    "proteinuria",
+    "blood pressure control",
+    "lifestyle modifications",
+    "medications"
+  ],
+  "related_modules": [
+    "COND-101",
+    "COND-157",
+    "COND-162"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and systematic reviews",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
