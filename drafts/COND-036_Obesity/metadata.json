@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-036",
+  "title": "Obesity",
+  "subtitle": "What obesity is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Metabolic and Endocrine",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "obesity",
+    "body mass index",
+    "overweight",
+    "metabolic syndrome",
+    "weight loss",
+    "diet",
+    "exercise",
+    "comorbidities"
+  ],
+  "related_modules": [
+    "COND-017-Diabetes-Mellitus",
+    "COND-045-Cardiovascular-Disease",
+    "COND-053-Metabolic-Syndrome"
+  ],
+  "evidence_strength": "Established evidence for definitions, risks, and lifestyle management; moderate evidence for pharmacologic options; emerging evidence on long-term effectiveness and psychological interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
