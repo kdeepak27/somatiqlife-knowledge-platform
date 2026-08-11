@@ -1,0 +1,39 @@
+{
+  "module_id": "MED-017",
+  "title": "ARBs",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to ARBs.",
+  "domain": "Medications",
+  "category": "Blood Pressure Medicines",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Pharmacists"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "Angiotensin Receptor Blockers",
+    "ARBs",
+    "Blood Pressure",
+    "Hypertension",
+    "Renin-Angiotensin-Aldosterone System",
+    "Heart Failure",
+    "Kidney Disease",
+    "Side Effects",
+    "Drug Interactions",
+    "Monitoring"
+  ],
+  "related_modules": [
+    "MED-005",
+    "MED-012",
+    "MED-025"
+  ],
+  "evidence_strength": "Established evidence for ARB clinical use and pharmacology with emerging evidence for additional organ-protective benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
