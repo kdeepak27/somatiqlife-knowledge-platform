@@ -1,0 +1,37 @@
+{
+  "module_id": "LAB-010",
+  "title": "Repeat Testing",
+  "subtitle": "What repeat testing measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Lab Testing Foundations",
+  "som_stages": [
+    "screening",
+    "diagnosis",
+    "monitoring",
+    "follow-up"
+  ],
+  "audience": [
+    "patients",
+    "caregivers",
+    "healthcare professionals"
+  ],
+  "reading_level": "Intermediate - suitable for educated non-specialists",
+  "keywords": [
+    "repeat testing",
+    "lab test",
+    "test variability",
+    "clinical interpretation",
+    "test accuracy",
+    "quality control",
+    "biomarkers",
+    "diagnostic tests"
+  ],
+  "related_modules": [
+    "LAB-005",
+    "LAB-012",
+    "LAB-020"
+  ],
+  "evidence_strength": "Established evidence for concepts of repeat testing, biological and analytic variability; moderate evidence for optimal repeat testing strategies; emerging evidence for personalized interpretation methods.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

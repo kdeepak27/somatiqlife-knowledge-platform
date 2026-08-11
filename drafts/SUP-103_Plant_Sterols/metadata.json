@@ -1,0 +1,32 @@
+{
+  "module_id": "SUP-103",
+  "title": "Plant Sterols",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for plant sterols.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Risk Reduction"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Plant sterols",
+    "Phytosterols",
+    "Cholesterol lowering",
+    "Cardiovascular health",
+    "Dietary supplements",
+    "Lipid metabolism"
+  ],
+  "related_modules": [
+    "SUP-101",
+    "SUP-104",
+    "CARD-202"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials and meta-analyses supports the LDL cholesterol lowering efficacy and general safety of plant sterols when consumed at recommended doses. Evidence on clinical cardiovascular outcome improvements is emerging but currently limited.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,173 @@
+# SUP-091 - Carbohydrate Gels
+## Evidence, dosing, safety, interactions, and practical considerations for carbohydrate gels.
+
+**Domain:** Supplements
+**Category:** Performance Supplements
+**SOM stages:** Training, Competition, Recovery
+**Audience:** Athletes, Coaches, Sports Nutritionists, General Public
+**Reading level:** Intermediate
+**Keywords:** Carbohydrate gels, Sports nutrition, Endurance performance, Energy gels, Carbohydrate loading, Athletic performance
+
+## AI Retrieval Summary
+Carbohydrate gels are concentrated sources of carbohydrates designed to provide rapid energy during prolonged or intense exercise, especially endurance sports. Typically composed of glucose polymers, maltodextrin, fructose, or combinations, they are formulated to be easily digestible and absorbed to quickly replenish blood glucose levels. Mechanistically, the multiple carbohydrate sources exploit different intestinal transporters (e.g., SGLT1 for glucose and GLUT5 for fructose) to maximize carbohydrate absorption and oxidation rates, thereby sustaining energy supply to working muscles and delaying fatigue. Synonyms such as "energy gels," "fuel gels," and "sports gels" are commonly used in the athletic community. Their practical relevance lies in their portability, ease of consumption during activity, and ability to provide higher carbohydrate concentration per volume compared to traditional sports drinks. Evidence demonstrates that strategic ingestion of carbohydrate gels during endurance exercise can improve performance and endurance capacity. However, limitations include individual tolerance variability, potential gastrointestinal distress, and the need for concurrent fluid intake to optimize digestion and absorption. Safety considerations emphasize appropriate dosing, awareness of sugar content, and avoidance in individuals with specific metabolic conditions. While well-supported by moderate to strong evidence in endurance athletes, more research is emerging regarding use in high-intensity or intermittent sports. Overall, carbohydrate gels serve as a convenient and effective supplement for energy provision during prolonged physical activity when used correctly.
+
+## Customer Questions Answered
+- What are carbohydrate gels and how do they work?
+- When should I use carbohydrate gels during exercise?
+- How much carbohydrate gel should I consume during endurance events?
+- Are carbohydrate gels safe for all athletes?
+- Can carbohydrate gels cause gastrointestinal issues?
+- What is the difference between carbohydrate gels and sports drinks?
+- Do carbohydrate gels improve athletic performance?
+- Can carbohydrate gels be used during high-intensity workouts?
+- How quickly do carbohydrate gels provide energy?
+- Are all carbohydrate gels the same nutritionally?
+- Can I make my own carbohydrate gels at home?
+- Do carbohydrate gels interact with other supplements or medications?
+
+## Learning Objectives
+- Define carbohydrate gels and their role in sports nutrition.
+- Explain the physiological mechanisms underlying carbohydrate gel absorption and metabolism.
+- Describe dosing strategies for carbohydrate gels during exercise.
+- Summarize evidence supporting the performance benefits of carbohydrate gels.
+- Discuss safety considerations and potential side effects of carbohydrate gel use.
+- Differentiate carbohydrate gels from other carbohydrate sources like sports drinks.
+- Identify misconceptions about carbohydrate gel use.
+- Provide practical guidelines for athletes regarding carbohydrate gel consumption.
+
+## Definition
+Carbohydrate gels are concentrated, gel-formulated supplements containing one or more types of carbohydrates designed to be consumed during physical activity to rapidly provide energy and sustain athletic performance.
+
+## Why This Matters
+During prolonged or high-intensity exercise, muscle glycogen stores decrease and blood glucose levels can decline, impairing performance and increasing fatigue. Carbohydrate gels offer a practical, efficient method to replenish available carbohydrates quickly, helping to maintain energy supply, delay fatigue, and improve endurance and competitive outcomes for athletes and active individuals.
+
+## What Are Carbohydrate Gels?
+Carbohydrate gels are thick, viscous supplements formulated primarily with carbohydrates such as maltodextrin, glucose, and fructose. They are designed for oral consumption during physical activities to rapidly provide energy. These gels typically come in small, portable sachets and have a semi-solid consistency that is easy to swallow even during exercise. Also referred to as "energy gels" or "sports gels," they differ from solid food by their rapid digestibility and compared to sports drinks by delivering concentrated carbohydrates with minimal volume.
+
+## Physiological Mechanisms of Carbohydrate Gel Absorption
+Carbohydrate gels provide monosaccharides and glucose polymers that are absorbed in the small intestine mainly via specific transporters—SGLT1 (Sodium-glucose linked transporter 1) for glucose and maltodextrin-derived glucose units, and GLUT5 for fructose. By combining multiple carbohydrate types, gels maximize intestinal absorption rates, often exceeding 60 grams per hour. The absorbed glucose enters the bloodstream, replenishing blood glucose levels and providing immediate fuel to muscle cells via glycolysis and oxidative phosphorylation, thus sustaining exercise performance.
+
+## Dosing Strategies for Carbohydrate Gels During Exercise
+Optimal dosing depends on exercise duration and intensity. Generally, 30 to 60 grams of carbohydrate per hour is recommended during endurance activities lasting more than 60 minutes. This corresponds to approximately one to two gel sachets per hour, depending on the carbohydrate content per gel. Combining gels with water aids digestion and absorption. Dosing should be individualized based on tolerance and gastrointestinal comfort, with practice during training sessions before competition.
+
+## Evidence on Performance Benefits of Carbohydrate Gels
+Multiple controlled studies demonstrate that carbohydrate gels taken during prolonged endurance exercise improve time to exhaustion, time trial performance, and reduce perception of fatigue. Meta-analyses support performance enhancement primarily through maintenance of blood glucose and sparing of muscle glycogen. Evidence is robust for endurance athletes such as runners, cyclists, and triathletes. Emerging research explores benefits during high-intensity intermittent sports but is less conclusive.
+
+## Safety and Potential Side Effects
+Carbohydrate gels are generally safe when consumed as recommended. However, excessive intake or lack of adequate fluid can lead to gastrointestinal distress such as bloating, cramping, nausea, or diarrhea. Individuals with fructose intolerance or diabetes should be cautious. Allergies are uncommon but possible depending on added ingredients. Users should monitor tolerance and avoid using new products on race days. Proper storage is needed to maintain gel integrity.
+
+## Comparing Carbohydrate Gels to Sports Drinks and Other Carbohydrate Sources
+Unlike sports drinks which contain diluted carbohydrate solutions, carbohydrate gels offer a higher concentration of carbohydrates in a smaller volume, minimizing fluid load. This is advantageous for athletes who require rapid carbohydrate delivery without excessive fluid intake. However, gels necessitate water consumption to aid digestion. Solid carbohydrate sources (bars, chews) may provide slower energy release. Choice depends on personal preference, gastrointestinal tolerance, and exercise conditions.
+
+## Practical Considerations for Using Carbohydrate Gels
+Athletes should trial carbohydrate gels during training to determine individual tolerance and optimal timing. Consuming gels every 30 to 45 minutes during prolonged exercise is common. Always ingest with water rather than alone to prevent gastrointestinal discomfort. Awareness of carbohydrate content per gel and total daily carbohydrate requirements is critical. Avoid overreliance on gels and maintain balanced nutrition outside exercise periods for overall health.
+
+## Common Misconceptions About Carbohydrate Gels
+One misconception is that carbohydrate gels cause insulin spikes leading to energy crashes; however, gradual absorption during exercise mitigates this. Another is that gels cause stomach upset for all users, but proper dosing and hydration minimize this risk. Some believe gels replace the need for a balanced diet, which is false; they are supplements to, not replacements for, adequate nutrition.
+
+## Limitations and Individual Variability in Response
+While carbohydrate gels are effective for many, individual digestive tolerance varies. Some athletes report gastrointestinal disturbances, limiting use. Effectiveness may be attenuated in short-duration or low-intensity exercise where endogenous carbohydrate stores suffice. Economic cost and accessibility may restrict use. Additionally, in certain sports or contexts (e.g., weight-class sports), carbohydrate intake must be carefully balanced with overall energy goals.
+
+## Interactions and Contraindications
+Carbohydrate gels generally have minimal interaction with medications but caution is advised for individuals with diabetes due to the rapid carbohydrate load affecting blood sugar. Combining gels with other supplements (e.g., caffeine) may be synergistic but requires personalized assessment. Allergic reactions are rare but possible with additives or flavorings. Consultation with a healthcare professional is recommended when using gels in special populations.
+
+## Storage, Packaging, and Environmental Considerations
+Carbohydrate gels are packaged in single-use sachets made of plastic or foil-lined materials, providing portability and ease of use. Proper storage in cool, dry conditions preserves gel quality and taste. Users should be aware of environmental impact related to packaging waste and consider recycling programs where available. Some brands innovate with biodegradable or reusable packaging to reduce ecological footprint.
+
+## Practical Guidance
+- Start using carbohydrate gels during training sessions to assess personal tolerance before race/competition day.
+- Consume one gel (providing ~30-40 grams carbohydrate) every 30 to 45 minutes during endurance exercise lasting over an hour.
+- Always ingest carbohydrate gels with water (around 150-250 ml) to facilitate absorption and reduce gastrointestinal discomfort.
+- Avoid using gels as a substitute for a balanced diet; they are intended to supplement energy during prolonged or intense exercise.
+- Monitor your body's response and adjust timing and amount accordingly to minimize side effects.
+- If new to carbohydrate gels, try different brands or formulations to find one best tolerated.
+- For diabetic individuals or those with metabolic conditions, consult a healthcare provider prior to use.
+- Do not exceed manufacturer’s recommended dose to avoid gastrointestinal upset or excessive sugar intake.
+
+## Safety Notes
+- Do not consume carbohydrate gels without sufficient water to prevent stomach distress.
+- Individuals with known fructose intolerance or metabolic disorders should avoid certain gel formulations after consulting healthcare advice.
+- Do not rely solely on carbohydrate gels for nutrition; maintain adequate nutrient intake overall.
+- Avoid trying new carbohydrate gel products for the first time on competition day to prevent unexpected side effects.
+- Store gels according to manufacturer instructions to maintain safety and quality.
+
+## Common Misconceptions
+### Carbohydrate gels cause a rapid insulin spike that leads to energy crashes during exercise.
+**Reality:** Because carbohydrate gels are consumed gradually during exercise, blood sugar levels rise steadily, providing sustained energy without typical insulin spike and crash effects seen in resting conditions.
+
+### All carbohydrate gels cause gastrointestinal distress.
+**Reality:** While some individuals experience digestive issues, proper hydration, dosing, and trialing different formulations can minimize or prevent gastrointestinal side effects.
+
+### Carbohydrate gels can replace food and a balanced diet.
+**Reality:** Carbohydrate gels are supplements designed to provide quick energy during exercise, not complete nutrition, and should be used alongside a well-rounded diet.
+
+## Clinical Pearls
+- Combining multiple carbohydrate types (e.g., glucose and fructose) in gels enhances absorption rates beyond 60 g/hour, improving energy delivery.
+- For optimal performance, consume carbohydrate gels at regular intervals during endurance events lasting over 60 minutes.
+- Hydration enhances carbohydrate gel absorption and reduces gastrointestinal side effects.
+- Practice gel consumption during training to identify individual tolerance and optimal dosing strategies.
+- Beware of total carbohydrate intake from all sources to avoid excessive caloric load and gastrointestinal distress.
+
+## Key Takeaways
+- Carbohydrate gels are concentrated carbohydrate supplements designed for rapid energy delivery during exercise.
+- They improve endurance performance by maintaining blood glucose and sparing muscle glycogen.
+- Consuming gels every 30-45 minutes with water is recommended for prolonged activities.
+- Combining multiple carbohydrate types enhances absorption and effectiveness.
+- Individual tolerance varies; trial during training is essential to minimize side effects.
+- Gels are generally safe but should be used according to recommended doses.
+- They complement, not replace, a balanced diet and proper hydration.
+- Proper storage and disposal of packaging are important for safety and environmental reasons.
+
+## Glossary
+- **Carbohydrate gels:** Semi-solid, concentrated carbohydrate supplements consumed during exercise to provide quick energy.
+- **Maltodextrin:** A glucose polymer commonly used in carbohydrate gels for rapid energy supply.
+- **Fructose:** A sugar absorbed via a different intestinal transporter than glucose, used in gels to increase carbohydrate absorption.
+- **SGLT1:** Sodium-glucose linked transporter 1, an intestinal transporter responsible for glucose absorption.
+- **GLUT5:** Glucose transporter type 5, an intestinal transporter primarily responsible for fructose absorption.
+- **Glycogen:** Stored form of glucose in muscles and liver used for energy during exercise.
+- **Endurance exercise:** Physical activity sustained for extended periods, such as running, cycling, or triathlon.
+- **Gastrointestinal distress:** Discomfort or symptoms such as nausea, cramping, or diarrhea affecting the digestive system.
+
+## Related Modules
+- SUP-085 - Sports Drinks and Electrolytes
+- SUP-087 - Caffeine and Athletic Performance
+- SUP-090 - Protein Supplements for Recovery
+
+## Illustration Specifications
+### ILL-001 - Intestinal Absorption of Carbohydrates
+**Type:** Diagram
+
+Diagram illustrating glucose and fructose absorption in the small intestine via SGLT1 and GLUT5 transporters.
+
+**Alt text:** Diagram showing glucose and fructose molecules transported through intestinal epithelial cells.
+
+### ILL-002 - Timing and Dosing of Carbohydrate Gels During Exercise
+**Type:** Timeline
+
+Visual timeline demonstrating recommended intervals and amounts of carbohydrate gel consumption during endurance events.
+
+**Alt text:** Timeline with markers showing carbohydrate gel intake every 30-45 minutes during exercise.
+
+### ILL-003 - Energy Pathways Fueled by Carbohydrate Gels
+**Type:** Flowchart
+
+Flowchart depicting how absorbed carbohydrates from gels are used by muscles for ATP production.
+
+**Alt text:** Flowchart from gel consumption to glucose absorption to muscle energy production.
+
+### ILL-004 - Common Packaging Types for Carbohydrate Gels
+**Type:** Photograph
+
+Images of commercially available carbohydrate gel sachets showcasing packaging diversity.
+
+**Alt text:** Various packets of carbohydrate gels lined up showing different brands and packaging.
+
+## References
+- Carbohydrate supplementation during exercise: effects on performance and metabolism | Jeukendrup AE | 2014 | Unverified: Article in Sports Medicine | Unverified
+- Gastrointestinal distress in endurance athletes: causes and solutions | Gaskell SK, Costa RJ | 2021 | Unverified: Review in International Journal of Sport Nutrition | Unverified
+- Exogenous carbohydrate oxidation during exercise: carbohydrate type and performance effects | Cermak NM, van Loon LJ | 2013 | Unverified: Journal of Applied Physiology | Unverified
+- Position of the Academy of Nutrition and Dietetics: nutrition and athletic performance | Academy of Nutrition and Dietetics, Dietitians of Canada, ACSM | 2016 | Unverified: Journal of the Academy of Nutrition and Dietetics | Unverified
+
+**Evidence strength:** Moderate to strong evidence for endurance performance enhancement; emerging evidence for intermittent sports; safety profile well established with minor gastrointestinal concerns.
+**Version:** 1.0
+**Review status:** AI draft - scientific, clinical, and editorial review required

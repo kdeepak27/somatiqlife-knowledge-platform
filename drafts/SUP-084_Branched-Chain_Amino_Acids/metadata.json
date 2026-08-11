@@ -1,0 +1,39 @@
+{
+  "module_id": "SUP-084",
+  "title": "Branched-Chain Amino Acids",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for branched-chain amino acids.",
+  "domain": "Supplements",
+  "category": "Performance Supplements",
+  "som_stages": [
+    "Supplement Introduction",
+    "Evidence Evaluation",
+    "Application Guidance"
+  ],
+  "audience": [
+    "Consumers",
+    "Athletes",
+    "Healthcare Professionals",
+    "Fitness Enthusiasts"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Branched-Chain Amino Acids",
+    "BCAAs",
+    "Leucine",
+    "Isoleucine",
+    "Valine",
+    "Amino Acids",
+    "Muscle Recovery",
+    "Protein Synthesis",
+    "Supplement Safety",
+    "Athletic Performance"
+  ],
+  "related_modules": [
+    "SUP-012",
+    "SUP-025",
+    "SUP-076"
+  ],
+  "evidence_strength": "Established evidence with some emerging and inconclusive areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

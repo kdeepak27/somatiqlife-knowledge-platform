@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-142",
+  "title": "Zinc Carnosine",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for zinc carnosine.",
+  "domain": "Supplements",
+  "category": "Digestive and Gut Supplements",
+  "som_stages": [
+    "Evidence Assessment",
+    "Clinical Application",
+    "Patient Education"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Zinc Carnosine",
+    "Gut Health",
+    "Digestive Supplement",
+    "Gastrointestinal Protection",
+    "Zinc Supplement",
+    "Peptic Ulcers",
+    "Gastric Mucosa",
+    "Intestinal Barrier"
+  ],
+  "related_modules": [
+    "SUP-101",
+    "SUP-143",
+    "SUP-145"
+  ],
+  "evidence_strength": "Moderate evidence from randomized controlled trials and systematic reviews with emerging research for additional indications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,35 @@
+{
+  "module_id": "SUP-111",
+  "title": "Fenugreek Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for fenugreek supplements.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Use",
+    "Consideration",
+    "Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Fenugreek",
+    "Trigonella foenum-graecum",
+    "Supplements",
+    "Blood sugar",
+    "Cholesterol",
+    "Cardiometabolic health",
+    "Herbal supplements"
+  ],
+  "related_modules": [
+    "SUP-058-PlantSterols",
+    "SUP-071-AlphaLipoicAcid",
+    "SUP-095-CinnamonExtracts"
+  ],
+  "evidence_strength": "Moderate evidence supports fenugreek’s benefits in blood sugar and lipid management in cardiometabolic health; long-term safety and standardization remain limited.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,33 @@
+{
+  "module_id": "LAB-005",
+  "title": "Preparing for Blood Tests",
+  "subtitle": "What preparing for blood tests measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Lab Testing Foundations",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "blood test preparation",
+    "fasting blood test",
+    "lab test accuracy",
+    "blood test interpretation",
+    "blood sample collection"
+  ],
+  "related_modules": [
+    "LAB-001",
+    "LAB-007",
+    "LAB-010"
+  ],
+  "evidence_strength": "Established evidence based on clinical guidelines and large studies with emerging areas under ongoing research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

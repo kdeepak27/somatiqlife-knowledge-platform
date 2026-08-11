@@ -1,0 +1,36 @@
+{
+  "module_id": "LAB-046",
+  "title": "Total Cholesterol",
+  "subtitle": "What total cholesterol measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Lipids and Cardiovascular",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "total cholesterol",
+    "lipids",
+    "cardiovascular risk",
+    "blood test",
+    "cholesterol levels",
+    "HDL",
+    "LDL",
+    "triglycerides"
+  ],
+  "related_modules": [
+    "LAB-045",
+    "LAB-047",
+    "CLIN-012"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and epidemiological studies supports the use of total cholesterol in cardiovascular risk assessment but emphasizes interpretation with full lipid profiles and risk factors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

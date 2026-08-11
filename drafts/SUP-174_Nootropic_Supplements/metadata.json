@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-174",
+  "title": "Nootropic Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for nootropic supplements.",
+  "domain": "Supplements",
+  "category": "Sleep Stress and Cognition",
+  "som_stages": [
+    "Maintenance",
+    "Optimization",
+    "Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "nootropics",
+    "cognitive enhancement",
+    "natural supplements",
+    "brain health",
+    "memory",
+    "focus",
+    "safety",
+    "drug interactions"
+  ],
+  "related_modules": [
+    "SUP-085",
+    "SUP-102",
+    "SUP-210"
+  ],
+  "evidence_strength": "Moderate evidence with some emerging and uncertain aspects",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

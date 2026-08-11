@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-098",
+  "title": "Taurine",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for taurine.",
+  "domain": "Supplements",
+  "category": "Performance Supplements",
+  "som_stages": [
+    "Preclinical Research",
+    "Clinical Research",
+    "Consumer Education"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Taurine",
+    "Amino acid",
+    "Supplementation",
+    "Performance",
+    "Dosage",
+    "Safety",
+    "Interactions",
+    "Cardiovascular Health",
+    "Neurology",
+    "Exercise Recovery"
+  ],
+  "related_modules": [
+    "SUP-045",
+    "SUP-063",
+    "SUP-078"
+  ],
+  "evidence_strength": "Moderate evidence from preclinical and clinical studies with some variability and limited long-term data.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "LAB-122",
+  "title": "CA-125",
+  "subtitle": "What ca-125 measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Cancer and Screening Biomarkers",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate (Grade 10-12)",
+  "keywords": [
+    "CA-125",
+    "Cancer Antigen 125",
+    "Tumor Marker",
+    "Ovarian Cancer",
+    "Biomarker",
+    "Serum Marker",
+    "Screening Test",
+    "Diagnostic Test",
+    "Limitations of CA-125"
+  ],
+  "related_modules": [
+    "LAB-130-HE4",
+    "LAB-140-OvarianCancerImaging",
+    "LAB-150-TumorMarkersOverview"
+  ],
+  "evidence_strength": "Established evidence with some limitations and emerging research in combined biomarker strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

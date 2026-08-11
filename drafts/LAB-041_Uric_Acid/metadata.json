@@ -1,0 +1,35 @@
+{
+  "module_id": "LAB-041",
+  "title": "Uric Acid",
+  "subtitle": "What uric acid measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Glucose and Metabolism",
+  "som_stages": [
+    "Assessment",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "uric acid",
+    "hyperuricemia",
+    "gout",
+    "renal function",
+    "metabolism",
+    "biomarkers",
+    "laboratory test"
+  ],
+  "related_modules": [
+    "LAB-015 Kidney Function Tests",
+    "LAB-032 Metabolic Panel",
+    "LAB-050 Gout and Crystal Arthropathies"
+  ],
+  "evidence_strength": "Established evidence for uric acid metabolism and clinical associations; moderate evidence for emerging cardiovascular implications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

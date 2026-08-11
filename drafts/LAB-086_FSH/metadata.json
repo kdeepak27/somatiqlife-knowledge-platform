@@ -1,0 +1,36 @@
+{
+  "module_id": "LAB-086",
+  "title": "FSH",
+  "subtitle": "What FSH measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Thyroid and Hormones",
+  "som_stages": [
+    "Investigation",
+    "Diagnosis"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Enthusiasts",
+    "Medical Students",
+    "Clinicians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "FSH",
+    "Follicle Stimulating Hormone",
+    "Hormone Testing",
+    "Reproductive Hormones",
+    "Pituitary Gland",
+    "Ovarian Function",
+    "Testicular Function",
+    "Hormonal Imbalance",
+    "Endocrinology"
+  ],
+  "related_modules": [
+    "LAB-087",
+    "LAB-088"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

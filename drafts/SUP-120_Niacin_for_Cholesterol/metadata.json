@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-120",
+  "title": "Niacin for Cholesterol",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for niacin for cholesterol.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Niacin",
+    "Cholesterol",
+    "Dyslipidemia",
+    "Lipid management",
+    "Cardiovascular risk",
+    "Nicotinic acid",
+    "HDL",
+    "LDL",
+    "Triglycerides",
+    "Supplements"
+  ],
+  "related_modules": [
+    "SUP-105",
+    "SUP-110",
+    "CARD-210"
+  ],
+  "evidence_strength": "Established evidence for lipid-modifying effects; moderate to emerging evidence regarding effects on cardiovascular outcomes in current clinical practice; safety profiles well characterized",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

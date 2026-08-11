@@ -1,9 +1,9 @@
 module_id,title,subtitle,domain,category,status
-MED-001,How Medicines Work,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to how medicines work.",Medications,Medication Foundations,pending
-MED-002,Prescription vs Over-the-Counter Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to prescription vs over-the-counter medicines.",Medications,Medication Foundations,pending
-MED-003,Generic vs Brand-Name Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to generic vs brand-name medicines.",Medications,Medication Foundations,pending
-MED-004,Medication Dosing,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication dosing.",Medications,Medication Foundations,pending
-MED-005,Medication Timing,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication timing.",Medications,Medication Foundations,pending
+MED-001,How Medicines Work,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to how medicines work.",Medications,Medication Foundations,draft-generated
+MED-002,Prescription vs Over-the-Counter Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to prescription vs over-the-counter medicines.",Medications,Medication Foundations,draft-generated
+MED-003,Generic vs Brand-Name Medicines,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to generic vs brand-name medicines.",Medications,Medication Foundations,draft-generated
+MED-004,Medication Dosing,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication dosing.",Medications,Medication Foundations,draft-generated
+MED-005,Medication Timing,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication timing.",Medications,Medication Foundations,draft-generated
 MED-006,Taking Medicines With Food,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to taking medicines with food.",Medications,Medication Foundations,pending
 MED-007,Medication Adherence,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication adherence.",Medications,Medication Foundations,pending
 MED-008,Missed Doses,"Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to missed doses.",Medications,Medication Foundations,pending

@@ -1,0 +1,33 @@
+{
+  "module_id": "LAB-078",
+  "title": "Free T3",
+  "subtitle": "What free t3 measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Thyroid and Hormones",
+  "som_stages": [
+    "Assessment",
+    "Diagnosis"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare professionals"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "Free T3",
+    "Triiodothyronine",
+    "Thyroid hormone",
+    "Thyroid function test",
+    "Hormone metabolism",
+    "Endocrinology"
+  ],
+  "related_modules": [
+    "LAB-075",
+    "LAB-076",
+    "LAB-077"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and expert consensus",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

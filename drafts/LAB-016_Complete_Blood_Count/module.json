@@ -1,0 +1,264 @@
+{
+  "module_id": "LAB-016",
+  "title": "Complete Blood Count",
+  "subtitle": "What complete blood count measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Blood Count and Iron",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring",
+    "Follow-up"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Complete Blood Count",
+    "CBC",
+    "Blood Test",
+    "Red Blood Cells",
+    "White Blood Cells",
+    "Hemoglobin",
+    "Hematocrit",
+    "Platelets",
+    "Anemia",
+    "Infection",
+    "Blood Disorders"
+  ],
+  "customer_questions": [
+    "What is a complete blood count (CBC) test?",
+    "What components are measured in a CBC?",
+    "Why do doctors order a CBC?",
+    "How do I prepare for a CBC test?",
+    "What do high or low red blood cell counts mean?",
+    "What does hemoglobin measure and why is it important?",
+    "How is white blood cell count used to detect infection?",
+    "What does platelet count tell me about my blood?",
+    "Can a CBC detect anemia or other blood disorders?",
+    "Are there limitations to what CBC can diagnose?",
+    "How often should a CBC be performed?",
+    "Are there any risks associated with a CBC blood draw?"
+  ],
+  "retrieval_summary": "A Complete Blood Count (CBC) is a common blood test that evaluates the cells circulating in the blood, including red blood cells (RBCs), white blood cells (WBCs), hemoglobin concentration, hematocrit, and platelets. The CBC helps assess overall health, detect disorders such as anemia, infection, inflammation, bleeding disorders, and monitor medical conditions or treatments. The test involves a simple blood draw, where automated analyzers count and measure characteristics of blood cells. CBC components include RBC count, hemoglobin (the oxygen-carrying protein), hematocrit (proportion of blood volume occupied by RBCs), WBC count (immune cells defending against infection), and platelet count (cells important for clotting). While widely used and informative, CBC results must be interpreted in the clinical context as many factors — hydration status, recent illness, medications — can affect results. CBC has synonyms like full blood count (FBC), hemogram, and blood panel. Limitations include inability to directly diagnose specific diseases without further testing, variability between labs, and the influence of physiological changes unrelated to disease. The blood draw procedure is generally safe with minimal risks such as bruising or infection at the puncture site. Understanding CBC components, normal ranges, and when results warrant further investigation is critical for patients and providers in diagnosing, monitoring, and managing health conditions.",
+  "learning_objectives": [
+    "Define what a Complete Blood Count (CBC) is and the components measured.",
+    "Describe the physiological roles of RBCs, WBCs, hemoglobin, hematocrit, and platelets.",
+    "Explain clinical uses of CBC in detecting anemia, infections, and blood disorders.",
+    "Understand how CBC results are interpreted and the importance of normal reference ranges.",
+    "Identify limitations and factors that can affect CBC results.",
+    "Recognize common misconceptions about CBC testing.",
+    "Explain safety considerations related to blood sample collection for CBC.",
+    "Provide guidance on when and how often CBC testing is clinically useful."
+  ],
+  "definition": "A Complete Blood Count (CBC), also called a full blood count (FBC) or hemogram, is a laboratory blood test that quantitatively measures the major cellular components of blood: red blood cells, white blood cells, hemoglobin, hematocrit, and platelets. It is commonly used to evaluate overall health and detect a variety of disorders including anemia, infection, inflammation, and bleeding problems.",
+  "why_this_matters": "The CBC is one of the most frequently ordered blood tests in clinical medicine because it provides essential information about the blood’s cellular makeup. Many health conditions affect the numbers or characteristics of blood cells, so knowing these values helps doctors diagnose illnesses, monitor disease progression, and adjust treatments. For patients, understanding CBC results can improve awareness of their health status and encourage timely medical follow-up when abnormalities appear.",
+  "sections": [
+    {
+      "heading": "What is a Complete Blood Count (CBC)?",
+      "content": "A CBC is a blood test that measures the number and types of cells in the blood. It includes counts and evaluations of red blood cells (RBCs), white blood cells (WBCs), hemoglobin levels, hematocrit, and platelets. The test helps assess overall health and screen for various conditions. It is routine in health exams and when symptoms suggest a blood disorder or infection."
+    },
+    {
+      "heading": "Components Measured in a CBC",
+      "content": "CBC results include: - Red Blood Cell Count (RBC): measures the number of red cells responsible for carrying oxygen. - Hemoglobin (Hb or Hgb): measures the oxygen-carrying protein inside RBCs. - Hematocrit (Hct): proportion of blood volume made up by RBCs. - White Blood Cell Count (WBC): measures immune cells that fight infection. - Platelet Count: indicates the number of platelets involved in blood clotting. Automated machines calculate and analyze these values."
+    },
+    {
+      "heading": "Physiological Roles of CBC Components",
+      "content": "Each CBC component has a vital role: Red Blood Cells transport oxygen from lungs to body tissues using hemoglobin. White Blood Cells defend against pathogens and are key to the immune response. Platelets are small cell fragments that initiate blood clot formation to stop bleeding. Hematocrit reflects the proportion of red cells relative to total blood volume, indicating oxygen-carrying capacity."
+    },
+    {
+      "heading": "Clinical Uses of CBC",
+      "content": "Doctors use CBC to: screen for anemia (low RBC or hemoglobin), detect infections (elevated WBC), monitor immune and blood disorders such as leukemia or clotting problems, and evaluate general health before surgeries or treatments. Changes in CBC components can also guide diagnosis of inflammatory diseases or bleeding issues."
+    },
+    {
+      "heading": "Understanding CBC Reference Ranges and Interpretation",
+      "content": "CBC results are compared to laboratory reference ranges that vary by age, sex, and testing method. Values outside these ranges may indicate health issues. For example, low hemoglobin suggests anemia, while high WBC can signal infection or inflammation. Interpretation must consider the patient's symptoms, medical history, and other lab results."
+    },
+    {
+      "heading": "Factors Affecting CBC Results and Limitations",
+      "content": "CBC results can be influenced by dehydration, pregnancy, smoking, medications, or recent strenuous exercise. Normal variation exists between individuals and lab methods, so results alone cannot definitively diagnose diseases. CBC is a screening and monitoring tool; abnormal results often require further testing."
+    },
+    {
+      "heading": "Misconceptions About CBC Testing",
+      "content": "Some believe a CBC can diagnose all diseases, but it mainly provides indications that prompt further investigation. Others think CBC is only for sick patients; however, it is routinely used in preventive health. Many expect immediate results meaning diagnosis; results must be reviewed carefully by health professionals."
+    },
+    {
+      "heading": "Safety and Procedure of Blood Collection for CBC",
+      "content": "A CBC requires a blood sample typically drawn from a vein using a needle. The procedure is quick and generally safe. Possible minor risks include bruising, bleeding, or local infection at the puncture site. No special fasting or preparation is usually needed, making CBC convenient for repeated testing."
+    },
+    {
+      "heading": "When Should a CBC Be Performed?",
+      "content": "CBC is ordered when symptoms like fatigue, unexplained bleeding, infection signs, or during routine health exams. It is used to monitor ongoing conditions like anemia or leukemia, or to assess response to treatments such as chemotherapy. The frequency depends on the clinical context."
+    },
+    {
+      "heading": "Emerging Uses and Research Related to CBC",
+      "content": "New research explores advanced CBC parameters and their role in assessing inflammation, cardiovascular risk, and predicting outcomes in chronic diseases. While promising, these uses require further validation and are not part of routine clinical CBC interpretation currently."
+    },
+    {
+      "heading": "Practical Application and Next Steps After Abnormal CBC",
+      "content": "If CBC results are abnormal, doctors may order additional tests like iron studies, vitamin levels, bone marrow biopsy, or infection screens depending on suspected causes. Patients are encouraged to follow-up promptly and share symptoms to guide diagnosis and treatment planning."
+    }
+  ],
+  "practical_guidance": [
+    "If your doctor orders a CBC, understand it measures your blood cell counts and can suggest possible health issues needing further assessment.",
+    "No special fasting is usually needed before a CBC, but follow your healthcare provider’s instructions.",
+    "Abnormal CBC results do not confirm a diagnosis alone; they prompt additional medical evaluation.",
+    "Discuss your CBC results with your healthcare provider for accurate interpretation considering your health history.",
+    "Report any symptoms such as fatigue, bruises, infections, or bleeding to your doctor, especially if CBC indicates abnormalities.",
+    "Routine CBCs are typically part of health checkups, but frequency depends on medical conditions and risk factors.",
+    "Stay hydrated before the test to avoid false elevation of blood components due to dehydration.",
+    "Inform your healthcare provider about any medications or supplements you take, as some can affect CBC results."
+  ],
+  "safety_notes": [
+    "Blood draw for CBC is generally safe with minimal risks.",
+    "Bruising or mild discomfort may occur at the puncture site.",
+    "Rarely, infection or excessive bleeding can develop; notify your healthcare provider if unusual symptoms occur.",
+    "No significant dietary or medication restrictions are usually required before CBC.",
+    "Blood sample handling and processing follow strict laboratory safety standards."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "A CBC test can diagnose any disease I have.",
+      "reality": "A CBC provides information on blood cell counts but cannot diagnose all diseases; it helps guide further testing."
+    },
+    {
+      "misconception": "Only sick people need a CBC test.",
+      "reality": "CBC tests are also done routinely in healthy individuals to screen for hidden blood disorders or monitor health."
+    },
+    {
+      "misconception": "All abnormal CBC results mean serious illness.",
+      "reality": "Some variations are normal or caused by temporary conditions; results must be interpreted in context."
+    }
+  ],
+  "clinical_pearls": [
+    "Always correlate CBC results with clinical symptoms and other lab tests for accurate diagnosis.",
+    "Repeat testing may be needed to confirm persistent abnormalities in CBC values.",
+    "Be aware of physiological and external factors like hydration and smoking influencing CBC results.",
+    "CBC is a valuable screening tool but has limitations requiring cautious interpretation.",
+    "Educate patients on the meaning and limitations of CBC to avoid unnecessary anxiety."
+  ],
+  "key_takeaways": [
+    "Complete Blood Count (CBC) measures the number and quality of key blood cells: RBCs, WBCs, hemoglobin, hematocrit, and platelets.",
+    "CBC helps detect anemia, infections, blood clotting disorders, and monitor health conditions.",
+    "CBC results must be interpreted with clinical context; abnormal results prompt additional evaluation, not immediate diagnosis.",
+    "CBC is a safe, routine blood test requiring a simple vein puncture for blood sample collection.",
+    "Numerous factors including hydration, medications, and lifestyle can affect CBC results.",
+    "CBC is widely used in preventive care and monitoring chronic diseases.",
+    "Understanding CBC components aids in recognizing health implications and when to seek medical advice.",
+    "CBC testing has emerging research roles but current clinical use focuses on established blood parameters."
+  ],
+  "glossary": [
+    {
+      "term": "Complete Blood Count (CBC)",
+      "definition": "A common blood test that measures the numbers and types of cells in the blood, including red blood cells, white blood cells, hemoglobin, hematocrit, and platelets."
+    },
+    {
+      "term": "Red Blood Cells (RBC)",
+      "definition": "Cells in the blood that carry oxygen from the lungs to the body's tissues using hemoglobin."
+    },
+    {
+      "term": "White Blood Cells (WBC)",
+      "definition": "Immune system cells in the blood that help fight infections and foreign substances."
+    },
+    {
+      "term": "Hemoglobin",
+      "definition": "The protein inside red blood cells that binds and carries oxygen."
+    },
+    {
+      "term": "Hematocrit",
+      "definition": "The percentage of blood volume occupied by red blood cells."
+    },
+    {
+      "term": "Platelets",
+      "definition": "Small blood cell fragments involved in blood clotting to stop bleeding."
+    },
+    {
+      "term": "Anemia",
+      "definition": "A condition where there is a lower than normal number of red blood cells or hemoglobin, leading to reduced oxygen delivery."
+    },
+    {
+      "term": "Full Blood Count (FBC)",
+      "definition": "Another term for Complete Blood Count (CBC)."
+    },
+    {
+      "term": "Hemogram",
+      "definition": "Synonym for the CBC test, referring to a complete blood cell count."
+    },
+    {
+      "term": "Blood Panel",
+      "definition": "A group of blood tests, often including CBC, used to assess general health or diagnose diseases."
+    }
+  ],
+  "related_modules": [
+    "LAB-001",
+    "LAB-014",
+    "LAB-020"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Diagram of Blood Components Measured in CBC",
+      "illustration_type": "Diagram",
+      "description": "Visual representation of blood showing red blood cells, white blood cells, and platelets highlighting components measured in CBC.",
+      "alt_text": "Diagram showing red blood cells, white blood cells, and platelets in blood."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Normal vs Abnormal CBC Results Chart",
+      "illustration_type": "Chart",
+      "description": "Chart illustrating reference ranges for CBC components and examples of abnormal values indicating conditions like anemia or infection.",
+      "alt_text": "Reference chart of normal and abnormal CBC ranges with examples."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Blood Draw Procedure for CBC Test",
+      "illustration_type": "Photograph",
+      "description": "Stepwise visual guide of how blood is drawn from the vein for CBC testing.",
+      "alt_text": "Photographs showing blood being drawn from arm vein using a needle."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Interpreting Elevated White Blood Cell Count",
+      "illustration_type": "Infographic",
+      "description": "Infographic explaining common causes and clinical implications of high white blood cell counts on CBC.",
+      "alt_text": "Infographic about causes and meaning of elevated white blood cells."
+    }
+  ],
+  "references": [
+    {
+      "title": "Complete Blood Count - An Overview",
+      "organization_or_authors": "Mayo Clinic",
+      "year": "2023",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Hematology and Clinical Chemistry Laboratory Manual",
+      "organization_or_authors": "American Society for Clinical Pathology",
+      "year": "2022",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Clinical Use of the Complete Blood Count",
+      "organization_or_authors": "National Institutes of Health (NIH)",
+      "year": "2021",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Interpretation of the Complete Blood Count",
+      "organization_or_authors": "Lab Tests Online",
+      "year": "2023",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and standard laboratory practice",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

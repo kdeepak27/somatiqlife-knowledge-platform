@@ -1,0 +1,35 @@
+{
+  "module_id": "SUP-112",
+  "title": "Chromium for Blood Sugar",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for chromium for blood sugar.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Chromium",
+    "Blood sugar",
+    "Glucose metabolism",
+    "Insulin sensitivity",
+    "Diabetes",
+    "Supplements",
+    "Chromium picolinate",
+    "Chromium chloride",
+    "Cardiometabolic health"
+  ],
+  "related_modules": [
+    "SUP-108_Supplements_for_Diabetes",
+    "SUP-115_Magnesium_and_Cardiometabolic_Health",
+    "SUP-120_Cinnamon_and_Glucose_Metabolism"
+  ],
+  "evidence_strength": "Moderate evidence with some conflicting clinical trial data; chromium shows modest efficacy in improving glycemic control mainly in type 2 diabetes with variable outcomes depending on dosage, form, and patient characteristics.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

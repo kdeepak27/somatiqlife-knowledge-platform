@@ -1,0 +1,36 @@
+{
+  "module_id": "LAB-076",
+  "title": "TSH",
+  "subtitle": "What tsh measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Thyroid and Hormones",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Primary Care Providers",
+    "Endocrinologists",
+    "Laboratory Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "TSH",
+    "Thyroid Stimulating Hormone",
+    "Thyroid function test",
+    "Hypothyroidism",
+    "Hyperthyroidism",
+    "Thyroid disease",
+    "Thyrotropin",
+    "Thyroid gland"
+  ],
+  "related_modules": [
+    "LAB-077",
+    "LAB-078"
+  ],
+  "evidence_strength": "Established, evidence-based with some moderate evidence on emerging areas such as TSH targets in special populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

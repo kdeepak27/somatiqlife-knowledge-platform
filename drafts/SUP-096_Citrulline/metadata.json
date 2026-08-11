@@ -1,0 +1,33 @@
+{
+  "module_id": "SUP-096",
+  "title": "Citrulline",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for citrulline.",
+  "domain": "Supplements",
+  "category": "Performance Supplements",
+  "som_stages": [
+    "Supplement Initiation",
+    "Supplement Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Athletes"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Citrulline",
+    "L-Citrulline",
+    "Nitric Oxide",
+    "Performance Supplement",
+    "Vasodilation",
+    "Endurance",
+    "Supplement Safety"
+  ],
+  "related_modules": [
+    "SUP-101",
+    "SUP-072"
+  ],
+  "evidence_strength": "Moderate - supported by emerging clinical studies with some variability and need for further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

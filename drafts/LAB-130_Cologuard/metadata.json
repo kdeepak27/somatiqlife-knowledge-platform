@@ -1,0 +1,36 @@
+{
+  "module_id": "LAB-130",
+  "title": "Cologuard",
+  "subtitle": "What cologuard measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Cancer and Screening Biomarkers",
+  "som_stages": [
+    "Screening",
+    "Diagnosis"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Basic to Intermediate health literacy",
+  "keywords": [
+    "Cologuard",
+    "Stool DNA test",
+    "Colorectal cancer screening",
+    "Biomarker",
+    "Non-invasive test",
+    "Fecal immunochemical test",
+    "FIT",
+    "DNA methylation",
+    "Cancer screening"
+  ],
+  "related_modules": [
+    "LAB-50",
+    "LAB-40",
+    "LAB-120"
+  ],
+  "evidence_strength": "Established evidence from multiple large-scale clinical studies and guideline endorsements supports Cologuard's use as a screening test for average-risk adults.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

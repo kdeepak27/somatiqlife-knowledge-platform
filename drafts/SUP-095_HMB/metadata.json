@@ -1,0 +1,37 @@
+{
+  "module_id": "SUP-095",
+  "title": "HMB",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for hmb.",
+  "domain": "Supplements",
+  "category": "Performance Supplements",
+  "som_stages": [
+    "Awareness",
+    "Consideration",
+    "Decision"
+  ],
+  "audience": [
+    "Consumers",
+    "Athletes",
+    "Fitness Enthusiasts",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "HMB",
+    "beta-hydroxy beta-methylbutyrate",
+    "muscle growth",
+    "muscle recovery",
+    "performance supplements",
+    "dosing",
+    "safety",
+    "interactions"
+  ],
+  "related_modules": [
+    "SUP-035-Protein",
+    "SUP-078-Leucine",
+    "SUP-110-Creatine"
+  ],
+  "evidence_strength": "Moderate evidence supports HMB’s efficacy and safety in specific populations, with emerging data on formulations and long-term use.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

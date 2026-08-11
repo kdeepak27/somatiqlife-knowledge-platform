@@ -1,0 +1,32 @@
+{
+  "module_id": "SUP-104",
+  "title": "Soluble Fiber Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for soluble fiber supplements.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "soluble fiber",
+    "dietary fiber",
+    "cardiometabolic health",
+    "fiber supplements",
+    "cholesterol",
+    "blood sugar",
+    "gut health"
+  ],
+  "related_modules": [
+    "SUP-101",
+    "SUP-102"
+  ],
+  "evidence_strength": "Established evidence exists for soluble fiber supplements lowering LDL cholesterol and improving glycemic control; emerging evidence for weight management and blood pressure effects; safety profile is well characterized with common manageable gastrointestinal side effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

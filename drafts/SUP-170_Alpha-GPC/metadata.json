@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-170",
+  "title": "Alpha-GPC",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for alpha-gpc.",
+  "domain": "Supplements",
+  "category": "Sleep Stress and Cognition",
+  "som_stages": [
+    "Prevention",
+    "Self-care",
+    "Optimization"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare professionals",
+    "Researchers"
+  ],
+  "reading_level": "General audience with some scientific background",
+  "keywords": [
+    "Alpha-GPC",
+    "Cognition",
+    "Choline Supplement",
+    "Nootropic",
+    "Cognitive Enhancement",
+    "Acetylcholine",
+    "Neurotransmitter",
+    "Memory",
+    "Brain Health",
+    "Choline Alfoscerate"
+  ],
+  "related_modules": [
+    "SUP-045-Choline-Supplements",
+    "SUP-120-Bacopa-Monnieri",
+    "SUP-154-Omega-3-Fatty-Acids"
+  ],
+  "evidence_strength": "Moderate. While Alpha-GPC shows promising effects on cognition particularly in clinical populations with cognitive impairment, evidence in healthy subjects remains insufficient. More high-quality, large-scale randomized controlled trials are necessary to confirm benefits and long-term safety.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-172",
+  "title": "Bacopa",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for bacopa.",
+  "domain": "Supplements",
+  "category": "Sleep Stress and Cognition",
+  "som_stages": [
+    "Prevention",
+    "Wellness Optimization",
+    "Symptom Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Bacopa",
+    "Bacopa monnieri",
+    "Cognition",
+    "Memory enhancement",
+    "Adaptogen",
+    "Stress relief",
+    "Neuroprotection",
+    "Herbal supplement"
+  ],
+  "related_modules": [
+    "SUP-058",
+    "SUP-110",
+    "SUP-145"
+  ],
+  "evidence_strength": "Moderate evidence supports bacopa’s role in cognitive enhancement and anxiety reduction, though heterogeneity and methodological limitations introduce uncertainty.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

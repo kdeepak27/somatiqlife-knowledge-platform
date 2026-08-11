@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-083",
+  "title": "Free Testosterone",
+  "subtitle": "What free testosterone measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Thyroid and Hormones",
+  "som_stages": [
+    "Detection",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Free Testosterone",
+    "Hormone Test",
+    "Androgens",
+    "Testosterone Binding",
+    "Sex Hormone-Binding Globulin",
+    "SHBG",
+    "Albumin",
+    "Hypogonadism",
+    "Testosterone Deficiency",
+    "Endocrine Testing"
+  ],
+  "related_modules": [
+    "LAB-045",
+    "LAB-092",
+    "LAB-101"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging data to refine clinical application and assay standardization.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

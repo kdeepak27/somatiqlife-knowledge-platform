@@ -1,0 +1,248 @@
+{
+  "module_id": "LAB-130",
+  "title": "Cologuard",
+  "subtitle": "What cologuard measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Cancer and Screening Biomarkers",
+  "som_stages": [
+    "Screening",
+    "Diagnosis"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Basic to Intermediate health literacy",
+  "keywords": [
+    "Cologuard",
+    "Stool DNA test",
+    "Colorectal cancer screening",
+    "Biomarker",
+    "Non-invasive test",
+    "Fecal immunochemical test",
+    "FIT",
+    "DNA methylation",
+    "Cancer screening"
+  ],
+  "customer_questions": [
+    "What is Cologuard and what is it used for?",
+    "How does Cologuard detect colorectal cancer?",
+    "What does a positive Cologuard test mean?",
+    "How accurate is Cologuard compared to colonoscopy?",
+    "Can Cologuard detect precancerous polyps?",
+    "Who should consider using Cologuard for screening?",
+    "How often should the Cologuard test be done?",
+    "Are there any risks or side effects of using Cologuard?",
+    "What are the limitations of the Cologuard test?",
+    "How is the Cologuard test sample collected and processed?",
+    "Can medications or diet affect the Cologuard results?",
+    "What happens after a positive Cologuard result?"
+  ],
+  "retrieval_summary": "Cologuard is a non-invasive stool DNA test designed for colorectal cancer (CRC) screening in average-risk adults. It detects abnormal DNA and blood markers shed into stool by cancerous or precancerous polyps in the colon and rectum. Mechanistically, Cologuard analyzes stool for specific DNA biomarkers including methylated NDRG4 and BMP3 genes combined with a fecal immunochemical test (FIT) that detects hidden blood, indicating potential neoplasia. It is intended to be an alternative screening method for individuals who decline or cannot undergo colonoscopy. The test's convenience and non-invasiveness are key practical benefits, allowing home collection without bowel prep. Major synonyms include multi-target stool DNA test and mt-sDNA. Despite FDA approval and established clinical utility, Cologuard has limitations such as lower specificity than colonoscopy, leading to false positives and resulting in follow-up colonoscopy. Sensitivity for detecting colorectal cancer is high (~92%) but lower (~42%) for advanced adenomas. It should not replace colonoscopy in high-risk populations or diagnostic evaluation of symptoms. Safety concerns are minimal because it is non-invasive and does not involve radiation or sedation. However, abnormal results necessitate diagnostic colonoscopy to confirm findings. Appropriate patient selection and understanding the test’s limitations are critical for optimal use. Cologuard is clinically useful as part of a broader colorectal cancer screening strategy to increase screening adherence and early detection.",
+  "learning_objectives": [
+    "Define what Cologuard is and the biomarkers it measures.",
+    "Explain how Cologuard detects colorectal cancer and precancerous lesions.",
+    "Interpret the meaning of positive and negative Cologuard test results.",
+    "Understand the clinical accuracy and limitations of Cologuard compared to other screening methods.",
+    "Identify appropriate candidates for Cologuard screening and recommended screening intervals.",
+    "Outline the procedure for Cologuard sample collection and processing.",
+    "Recognize the safety profile and risks associated with Cologuard use.",
+    "Describe the steps following a positive Cologuard test result, including follow-up diagnostic procedures."
+  ],
+  "definition": "Cologuard is a multi-target stool DNA (mt-sDNA) test that detects specific DNA markers and occult blood in fecal samples to screen for colorectal cancer and advanced adenomas. It combines molecular assays for DNA mutations and methylation markers with a fecal immunochemical test.",
+  "why_this_matters": "Colorectal cancer is a leading cause of cancer-related deaths worldwide. Early detection through effective screening can significantly reduce mortality. Cologuard offers a non-invasive screening option that may increase participation rates, especially among individuals hesitant to undergo colonoscopy, facilitating earlier diagnosis and treatment.",
+  "sections": [
+    {
+      "heading": "What is Cologuard?",
+      "content": "Cologuard is a commercially available, FDA-cleared multi-target stool DNA test specifically designed to detect biomarkers associated with colorectal cancer and advanced precancerous polyps. It is a non-invasive screening tool used in adults considered at average risk for colorectal cancer, typically intended for ages 45 and older. Unlike invasive procedures, Cologuard is performed at home by collecting a stool sample, which is then sent to a laboratory for molecular analysis."
+    },
+    {
+      "heading": "How does Cologuard work?",
+      "content": "Cologuard analyzes stool samples for multiple biomarkers: DNA mutations, DNA methylation patterns in genes such as NDRG4 and BMP3, and the presence of occult blood detected by a fecal immunochemical test (FIT). Cancerous and precancerous cells in the colon shed DNA and blood into the stool. The combined detection of these targets increases sensitivity for identifying colorectal cancer and advanced adenomas. Results reflect the likelihood of neoplasia but require follow-up for confirmation."
+    },
+    {
+      "heading": "Understanding Cologuard test results",
+      "content": "A positive Cologuard result indicates the presence of abnormal DNA markers and/or blood detected in stool, suggesting a possible colorectal cancer or advanced adenoma. However, it is not diagnostic and false positives can occur due to non-cancerous bleeding or other sources. A negative result suggests a low probability of colorectal neoplasia at the time of testing. Patients with positive results are recommended to undergo diagnostic colonoscopy for definitive evaluation."
+    },
+    {
+      "heading": "Clinical accuracy and performance",
+      "content": "Studies have demonstrated that Cologuard has approximately 92% sensitivity for detecting colorectal cancer and about 42% sensitivity for advanced adenomas, which are precancerous polyps considered high risk for progression to cancer. Specificity is around 87%, meaning false positives occur in about 13% of tested individuals. Compared to colonoscopy, which is the gold standard, Cologuard has lower specificity and sensitivity but offers a non-invasive alternative."
+    },
+    {
+      "heading": "When is Cologuard clinically useful?",
+      "content": "Cologuard is appropriate for average-risk adults aged 45 and older who are eligible for colorectal cancer screening but are unwilling or unable to undergo colonoscopy or other invasive procedures. It serves as an initial screening method to detect early cancer or advanced polyps. It is not recommended for individuals at high risk due to family history, genetic syndromes, or prior colorectal cancer. Positive results always require colonoscopic confirmation."
+    },
+    {
+      "heading": "Limitations of Cologuard",
+      "content": "While non-invasive and convenient, Cologuard has limitations including false positive results, which can lead to unnecessary invasive procedures. Its sensitivity for detecting advanced adenomas is lower compared to colonoscopy, potentially missing some precancerous lesions. It is not suitable for diagnostic use in symptomatic patients and should not replace colonoscopy in high-risk individuals. Additionally, sample collection errors or improper shipping may affect test accuracy."
+    },
+    {
+      "heading": "Sample collection and processing",
+      "content": "Patients collect a stool sample at home using a kit provided by the manufacturer. The kit includes instructions for collecting stool and stabilizing DNA during transit. Samples are shipped to a certified laboratory where molecular assays analyze specific DNA methylation markers, mutations, and conduct the fecal immunochemical test. Proper sample handling is critical to maintain test accuracy."
+    },
+    {
+      "heading": "Safety considerations",
+      "content": "Cologuard is a safe screening option because it is non-invasive and does not involve radiation or sedation. It poses minimal risk to patients. The main consideration is ensuring timely follow-up colonoscopy for abnormal results to avoid delays in diagnosis. False positive or negative results can impact subsequent clinical management and patient anxiety."
+    },
+    {
+      "heading": "Misconceptions about Cologuard",
+      "content": "A common misconception is that a negative Cologuard test means a person is completely free of colorectal cancer or polyps; however, no screening test is perfect. Another misconception is that Cologuard replaces colonoscopy; it is a screening tool and positive results require colonoscopic confirmation. Some believe it detects all cancer types, but it is specific to colorectal cancer."
+    },
+    {
+      "heading": "Comparisons with other colorectal cancer screening methods",
+      "content": "Compared to FIT-only tests, Cologuard has higher sensitivity for colorectal cancer and advanced adenomas but lower specificity. Colonoscopy remains the gold standard with superior sensitivity and ability to remove polyps during the procedure. Other methods include sigmoidoscopy and virtual colonoscopy. Patient preference, risk factors, and test availability influence the choice of screening modality."
+    },
+    {
+      "heading": "Interpretation and follow-up care",
+      "content": "A positive Cologuard result warrants referral for colonoscopy to visually inspect the colon, biopsy suspicious lesions, and remove polyps. Negative results suggest routine screening intervals, generally every 3 years, but do not eliminate the need for subsequent screening. Clinical decisions should consider patient history, risk factors, and preferences."
+    },
+    {
+      "heading": "Future developments and research",
+      "content": "Emerging research is focused on improving stool DNA tests' sensitivity and specificity, identifying additional biomarkers, and integrating advanced molecular technologies. Studies continue to assess long-term outcomes and cost-effectiveness of Cologuard compared to other screening methods. Personalized screening strategies based on genetic and lifestyle factors are also under investigation."
+    }
+  ],
+  "practical_guidance": [
+    "Discuss colorectal cancer screening options with healthcare providers including Cologuard.",
+    "Follow instructions carefully for stool sample collection to ensure accurate results.",
+    "Understand that a positive Cologuard test is not a diagnosis but requires colonoscopy for confirmation.",
+    "Screening with Cologuard should be repeated every 3 years if results are negative and per medical advice.",
+    "Individuals with symptoms or high-risk factors should consult their healthcare provider for appropriate evaluation rather than using Cologuard alone."
+  ],
+  "safety_notes": [
+    "Cologuard testing is non-invasive and carries minimal direct risk to patients.",
+    "Delaying follow-up colonoscopy after a positive Cologuard test can delay diagnosis and treatment.",
+    "Improper sample collection or handling can affect accuracy and lead to false results.",
+    "Cologuard is not recommended as a diagnostic tool for symptomatic individuals or those at increased risk for colorectal cancer.",
+    "Patients should inform healthcare providers of all medications and recent gastrointestinal bleeding as these may influence results."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "A negative Cologuard test means no colorectal cancer or polyps.",
+      "reality": "No screening test is 100% accurate. Cologuard reduces risk but some cancers or polyps may be missed."
+    },
+    {
+      "misconception": "Cologuard replaces the need for colonoscopy.",
+      "reality": "Positive Cologuard tests require colonoscopy; it is a screening, not diagnostic, test."
+    },
+    {
+      "misconception": "Cologuard detects all types of cancer in the body.",
+      "reality": "Cologuard specifically targets colorectal cancer and advanced precancerous polyps."
+    }
+  ],
+  "clinical_pearls": [
+    "Cologuard combines DNA methylation markers, mutations, and fecal immunochemical testing to improve colorectal cancer detection.",
+    "High sensitivity for colorectal cancer but moderate sensitivity for advanced adenomas means it may miss some precancerous lesions.",
+    "Non-invasive home-based testing can increase screening participation in hesitant populations.",
+    "Positive results must always be followed by diagnostic colonoscopy to confirm findings.",
+    "Use Cologuard primarily for average-risk individuals aged 45 and older who decline colonoscopy.",
+    "Regular screening intervals (every 3 years) are important for ongoing colorectal cancer prevention.",
+    "Educate patients on proper sample collection to reduce test errors.",
+    "Do not use Cologuard for symptomatic patients or those with family history of colorectal cancer without specialist guidance."
+  ],
+  "key_takeaways": [
+    "Cologuard is a non-invasive stool DNA test for colorectal cancer screening.",
+    "It detects specific DNA biomarkers and hidden blood in stool to identify cancer and advanced polyps.",
+    "The test has high sensitivity for colorectal cancer but lower sensitivity for precancerous lesions.",
+    "Positive results require follow-up colonoscopy for definitive diagnosis.",
+    "It is intended for average-risk adults aged 45 and older unwilling or unable to undergo colonoscopy.",
+    "False positives can occur, leading to additional testing and patient anxiety.",
+    "The test is safe with minimal risks since it is non-invasive and radiation-free.",
+    "Cologuard should not be used as a diagnostic tool in symptomatic or high-risk individuals."
+  ],
+  "glossary": [
+    {
+      "term": "Cologuard",
+      "definition": "A multi-target stool DNA test that detects DNA markers and occult blood in stool to screen for colorectal cancer."
+    },
+    {
+      "term": "Colorectal cancer (CRC)",
+      "definition": "Cancer that starts in the colon or rectum, parts of the large intestine."
+    },
+    {
+      "term": "Multi-target stool DNA test (mt-sDNA)",
+      "definition": "A stool test analyzing multiple DNA markers associated with colorectal cancer and precancerous polyps."
+    },
+    {
+      "term": "Fecal immunochemical test (FIT)",
+      "definition": "A test detecting hidden (occult) blood in stool, used in colorectal cancer screening."
+    },
+    {
+      "term": "DNA methylation",
+      "definition": "A chemical modification of DNA that can regulate gene expression and serve as a biomarker for cancer."
+    },
+    {
+      "term": "Advanced adenomas",
+      "definition": "Precancerous polyps in the colon that have features associated with higher risk of becoming cancerous."
+    },
+    {
+      "term": "Sensitivity",
+      "definition": "The ability of a test to correctly identify individuals who have a disease."
+    },
+    {
+      "term": "Specificity",
+      "definition": "The ability of a test to correctly identify individuals who do not have a disease."
+    }
+  ],
+  "related_modules": [
+    "LAB-50",
+    "LAB-40",
+    "LAB-120"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "cologuard-test-kits",
+      "title": "Cologuard Stool Collection Kit",
+      "illustration_type": "Photograph",
+      "description": "Image showing the components of a Cologuard home stool collection kit including collection container and instructions.",
+      "alt_text": "Cologuard stool collection kit with sample container and instruction booklet."
+    },
+    {
+      "illustration_id": "cologuard-mechanism",
+      "title": "Mechanism of Cologuard Detection",
+      "illustration_type": "Diagram",
+      "description": "Diagram illustrating how colorectal cancer cells shed DNA and blood into stool, which are detected by Cologuard biomarkers and FIT.",
+      "alt_text": "Diagram of colorectal cancer cell shedding DNA and blood detected in stool by Cologuard test."
+    },
+    {
+      "illustration_id": "colorectal-cancer-screening-options",
+      "title": "Colorectal Cancer Screening Methods",
+      "illustration_type": "Infographic",
+      "description": "Infographic comparing different colorectal cancer screening tests including Cologuard, FIT, and colonoscopy.",
+      "alt_text": "Comparison chart of colorectal cancer screening options: Cologuard, FIT, colonoscopy."
+    },
+    {
+      "illustration_id": "colonoscopy-follow-up",
+      "title": "Colonoscopy Follow-up after Positive Cologuard",
+      "illustration_type": "Illustration",
+      "description": "Illustration showing colonoscopy procedure performed after a positive Cologuard test to confirm diagnosis and perform polyp removal.",
+      "alt_text": "Doctor performing colonoscopy following positive Cologuard test result."
+    }
+  ],
+  "references": [
+    {
+      "title": "Evaluation of a multi-target stool DNA test for colorectal-cancer screening",
+      "organization_or_authors": "Imperiale TF, Ransohoff DF, Itzkowitz SH, et al.",
+      "year": "2014",
+      "identifier": "PMID: 24836568",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Multi-target stool DNA testing for colorectal-cancer screening",
+      "organization_or_authors": "US Food and Drug Administration (FDA) Approval Summary",
+      "year": "2014",
+      "identifier": "FDA.gov",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Colorectal cancer screening: clinical practice guideline",
+      "organization_or_authors": "US Preventive Services Task Force (USPSTF)",
+      "year": "2021",
+      "identifier": "JAMA. 2021 Feb 23;325(8):1965-1977",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence from multiple large-scale clinical studies and guideline endorsements supports Cologuard's use as a screening test for average-risk adults.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

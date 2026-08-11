@@ -1,0 +1,39 @@
+{
+  "module_id": "SUP-189",
+  "title": "NAD Precursors",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for NAD precursors.",
+  "domain": "Supplements",
+  "category": "Healthy Aging and Specialty Supplements",
+  "som_stages": [
+    "Prevention",
+    "Wellness",
+    "Healthy Aging"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "NAD",
+    "Nicotinamide Adenine Dinucleotide",
+    "NAD+",
+    "NAD Precursors",
+    "NMN",
+    "NR",
+    "Nicotinamide Riboside",
+    "Nicotinamide Mononucleotide",
+    "Aging",
+    "Mitochondria",
+    "Cellular Energy"
+  ],
+  "related_modules": [
+    "SUP-121",
+    "SUP-150",
+    "MET-098"
+  ],
+  "evidence_strength": "Moderate - strong preclinical data with emerging human clinical evidence; more long-term and large-scale clinical studies needed.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

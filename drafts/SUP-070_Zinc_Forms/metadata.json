@@ -1,0 +1,39 @@
+{
+  "module_id": "SUP-070",
+  "title": "Zinc Forms",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for zinc forms.",
+  "domain": "Supplements",
+  "category": "Minerals",
+  "som_stages": [
+    "Consumption",
+    "Absorption",
+    "Metabolism",
+    "Excretion"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "zinc",
+    "zinc supplements",
+    "zinc forms",
+    "zinc sulfate",
+    "zinc gluconate",
+    "zinc picolinate",
+    "zinc safety",
+    "mineral supplementation",
+    "trace elements"
+  ],
+  "related_modules": [
+    "SUP-045 - Copper and Trace Minerals",
+    "SUP-102 - Immune Support Nutrients",
+    "SUP-090 - Mineral Supplement Interactions"
+  ],
+  "evidence_strength": "Established with moderate and emerging evidence elements",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

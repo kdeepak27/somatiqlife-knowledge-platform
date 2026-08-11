@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-166",
+  "title": "Vitamin D and Mood",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for vitamin d and mood.",
+  "domain": "Supplements",
+  "category": "Sleep Stress and Cognition",
+  "som_stages": [
+    "Prevention",
+    "Symptom Management",
+    "Optimization"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Vitamin D",
+    "Mood",
+    "Depression",
+    "Anxiety",
+    "Supplementation",
+    "Dosing",
+    "Safety",
+    "Vitamin D Deficiency",
+    "Neurotransmitters",
+    "Mental Health"
+  ],
+  "related_modules": [
+    "SUP-052",
+    "SUP-081",
+    "NUT-114"
+  ],
+  "evidence_strength": "Moderate evidence supports vitamin D supplementation benefits for mood in deficient individuals; evidence is mixed for general populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

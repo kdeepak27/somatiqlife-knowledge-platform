@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-175",
+  "title": "Sleep and Stress Supplement Safety",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for sleep and stress supplement safety.",
+  "domain": "Supplements",
+  "category": "Sleep Stress and Cognition",
+  "som_stages": [
+    "General Information",
+    "Supplement Safety",
+    "Patient Education"
+  ],
+  "audience": [
+    "Adults",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep supplements",
+    "stress supplements",
+    "supplement safety",
+    "natural remedies",
+    "melatonin",
+    "valerian root",
+    "ashwagandha",
+    "GABA",
+    "supplement interactions",
+    "dosage guidelines"
+  ],
+  "related_modules": [
+    "SUP-180",
+    "SUP-190",
+    "SUP-210"
+  ],
+  "evidence_strength": "Variable by supplement: strong for melatonin; moderate for adaptogens like ashwagandha; limited or emerging for others.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

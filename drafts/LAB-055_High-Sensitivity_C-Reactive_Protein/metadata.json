@@ -1,0 +1,35 @@
+{
+  "module_id": "LAB-055",
+  "title": "High-Sensitivity C-Reactive Protein",
+  "subtitle": "What high-sensitivity c-reactive protein measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Lipids and Cardiovascular",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Risk Assessment"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate (Grade 10-12)",
+  "keywords": [
+    "high-sensitivity C-reactive protein",
+    "hs-CRP",
+    "inflammation biomarker",
+    "cardiovascular risk",
+    "atherosclerosis",
+    "immune response",
+    "inflammatory marker"
+  ],
+  "related_modules": [
+    "LAB-012 LIPID-PANEL",
+    "LAB-030 CARDIAC-TROPNIN",
+    "LAB-078 LUPUS-ANTICOAGULANT"
+  ],
+  "evidence_strength": "Established evidence with recognized limitations and ongoing research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-076",
+  "title": "Creatine",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for creatine.",
+  "domain": "Supplements",
+  "category": "Performance Supplements",
+  "som_stages": [
+    "Maintenance",
+    "Optimization",
+    "Health Promotion"
+  ],
+  "audience": [
+    "Consumers",
+    "Athletes",
+    "Fitness Enthusiasts",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Creatine",
+    "Supplementation",
+    "ATP",
+    "Performance",
+    "Muscle",
+    "Dosing",
+    "Safety",
+    "Interactions",
+    "Creatine Monohydrate"
+  ],
+  "related_modules": [
+    "SUP-042",
+    "SUP-058",
+    "PERF-021"
+  ],
+  "evidence_strength": "Established evidence relating to efficacy and safety for performance; moderate evidence for neurological benefits; ongoing research for some mechanisms and long-term effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "LAB-087",
+  "title": "LH",
+  "subtitle": "What lh measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Thyroid and Hormones",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "LH",
+    "Luteinizing hormone",
+    "Pituitary hormones",
+    "Reproductive hormones",
+    "Hormone testing",
+    "Hormonal disorders",
+    "Infertility",
+    "Menstrual cycle",
+    "Endocrinology"
+  ],
+  "related_modules": [
+    "LAB-085-FSH",
+    "LAB-089-Estrogen",
+    "LAB-091-Testosterone"
+  ],
+  "evidence_strength": "Established evidence from clinical endocrinology guidelines and peer-reviewed literature supports the physiological role and clinical utility of LH measurement. Some practical applications and assay standardization issues remain areas of emerging research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

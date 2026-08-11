@@ -1,0 +1,39 @@
+{
+  "module_id": "LAB-099",
+  "title": "Selenium Test",
+  "subtitle": "What selenium test measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Vitamins Minerals and Bone",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring",
+    "Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Selenium",
+    "Selenium test",
+    "Trace element",
+    "Antioxidant",
+    "Selenoproteins",
+    "Micronutrient status",
+    "Blood selenium",
+    "Selenium deficiency",
+    "Selenium toxicity",
+    "Biomarker"
+  ],
+  "related_modules": [
+    "LAB-072",
+    "LAB-105",
+    "NUT-011"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas under research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

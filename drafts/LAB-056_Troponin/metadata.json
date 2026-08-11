@@ -1,0 +1,36 @@
+{
+  "module_id": "LAB-056",
+  "title": "Troponin",
+  "subtitle": "What troponin measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Lipids and Cardiovascular",
+  "som_stages": [
+    "diagnosis",
+    "monitoring",
+    "screening"
+  ],
+  "audience": [
+    "patients",
+    "healthcare providers",
+    "students"
+  ],
+  "reading_level": "Intermediate - informed layperson and clinical learners",
+  "keywords": [
+    "troponin",
+    "cardiac biomarkers",
+    "myocardial infarction",
+    "heart attack",
+    "cardiac enzymes",
+    "biomarkers",
+    "cardiology",
+    "cardiac injury"
+  ],
+  "related_modules": [
+    "LAB-042",
+    "LAB-078",
+    "CV-023"
+  ],
+  "evidence_strength": "Established evidence for clinical utility of troponin in myocardial infarction diagnosis; moderate evidence and emerging data regarding high-sensitivity assays and non-infarction elevations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

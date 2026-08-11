@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-068",
+  "title": "Creatinine",
+  "subtitle": "What creatinine measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Liver and Kidney",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring",
+    "Prognosis"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Health Care Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Creatinine",
+    "Kidney Function",
+    "Glomerular Filtration Rate",
+    "Renal Biomarker",
+    "Blood Test",
+    "Creatinine Clearance",
+    "Muscle Metabolism",
+    "Laboratory Test Interpretation"
+  ],
+  "related_modules": [
+    "LAB-023",
+    "LAB-045",
+    "LAB-079"
+  ],
+  "evidence_strength": "Established evidence for creatinine use as kidney function marker; moderate emerging evidence for complementary biomarkers.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

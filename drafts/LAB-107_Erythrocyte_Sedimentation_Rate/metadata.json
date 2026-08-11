@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-107",
+  "title": "Erythrocyte Sedimentation Rate",
+  "subtitle": "What erythrocyte sedimentation rate measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Inflammation and Immunity",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "Erythrocyte Sedimentation Rate",
+    "ESR",
+    "Inflammation",
+    "Biomarker",
+    "Laboratory Test",
+    "Sedimentation Rate",
+    "Acute Phase Reaction",
+    "Immunology",
+    "Rheumatology",
+    "Anemia"
+  ],
+  "related_modules": [
+    "LAB-125",
+    "LAB-203",
+    "LAB-78"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

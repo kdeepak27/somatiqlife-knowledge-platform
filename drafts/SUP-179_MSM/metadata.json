@@ -1,0 +1,37 @@
+{
+  "module_id": "SUP-179",
+  "title": "MSM",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for msm.",
+  "domain": "Supplements",
+  "category": "Healthy Aging and Specialty Supplements",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Healthy Aging"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate - suitable for informed consumers and healthcare professionals",
+  "keywords": [
+    "MSM",
+    "Methylsulfonylmethane",
+    "Sulfur Supplement",
+    "Joint Health",
+    "Anti-inflammatory",
+    "Dietary Supplement",
+    "Safety",
+    "Dosage",
+    "Interactions"
+  ],
+  "related_modules": [
+    "SUP-145",
+    "SUP-202",
+    "SUP-186"
+  ],
+  "evidence_strength": "Moderate: Supported by multiple small-to-medium size randomized controlled trials and meta-analyses, but requiring further large-scale research for stronger confirmation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

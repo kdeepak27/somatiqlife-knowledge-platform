@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-181",
+  "title": "Boswellia",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for boswellia.",
+  "domain": "Supplements",
+  "category": "Healthy Aging and Specialty Supplements",
+  "som_stages": [
+    "Awareness",
+    "Consideration",
+    "Decision"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Boswellia",
+    "Frankincense",
+    "Anti-inflammatory",
+    "Herbal supplement",
+    "Oleo-gum resin",
+    "Acetyl-keto-beta-boswellic acid",
+    "AKBA",
+    "Arthritis",
+    "Safety",
+    "Dosing"
+  ],
+  "related_modules": [
+    "SUP-102",
+    "SUP-127",
+    "SUP-200"
+  ],
+  "evidence_strength": "Established evidence with some moderate to emerging evidence requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

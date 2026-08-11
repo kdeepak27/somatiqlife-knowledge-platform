@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-154",
+  "title": "L-Theanine",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for l-theanine.",
+  "domain": "Supplements",
+  "category": "Sleep Stress and Cognition",
+  "som_stages": [
+    "Awareness",
+    "Consideration",
+    "Decision"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "L-Theanine",
+    "Theanine",
+    "Amino acid",
+    "Sleep aid",
+    "Stress relief",
+    "Cognitive function",
+    "Supplement",
+    "Green tea component"
+  ],
+  "related_modules": [
+    "SUP-102-Green-Tea-Extract",
+    "SUP-176-Caffeine",
+    "SUP-198-Stress-Management-Supplements"
+  ],
+  "evidence_strength": "Moderate",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

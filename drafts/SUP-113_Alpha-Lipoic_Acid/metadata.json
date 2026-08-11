@@ -1,0 +1,33 @@
+{
+  "module_id": "SUP-113",
+  "title": "Alpha-Lipoic Acid",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for alpha-lipoic acid.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Alpha-Lipoic Acid",
+    "ALA",
+    "antioxidants",
+    "Cardiometabolic health",
+    "Supplements",
+    "Oxidative stress",
+    "Metabolic syndrome"
+  ],
+  "related_modules": [
+    "SUP-101",
+    "SUP-108",
+    "SUP-115"
+  ],
+  "evidence_strength": "Moderate evidence exists for efficacy in diabetic neuropathy symptom relief; other uses are supported by emerging but less conclusive evidence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

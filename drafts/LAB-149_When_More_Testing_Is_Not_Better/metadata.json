@@ -1,0 +1,35 @@
+{
+  "module_id": "LAB-149",
+  "title": "When More Testing Is Not Better",
+  "subtitle": "What when more testing is not better measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Advanced and Consumer Testing",
+  "som_stages": [
+    "Advanced Testing Interpretation",
+    "Consumer Health Literacy"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Laboratory Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "overtesting",
+    "laboratory tests",
+    "diagnostic accuracy",
+    "false positives",
+    "clinical utility",
+    "test limitation",
+    "evidence-based testing",
+    "consumer testing"
+  ],
+  "related_modules": [
+    "LAB-101-Understanding-Test-Results",
+    "LAB-134-Screening-Tests-Benefits-and-Harms",
+    "LAB-155-Consumer-Health-Testing-Accuracy"
+  ],
+  "evidence_strength": "Established evidence with some emerging data on consumer testing accuracy and psychological impacts of overtesting.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

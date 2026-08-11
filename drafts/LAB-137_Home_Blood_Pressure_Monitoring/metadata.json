@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-137",
+  "title": "Home Blood Pressure Monitoring",
+  "subtitle": "What home blood pressure monitoring measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Advanced and Consumer Testing",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Primary Care Providers",
+    "Nurses",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate to Advanced",
+  "keywords": [
+    "home blood pressure monitoring",
+    "hypertension",
+    "blood pressure",
+    "self-measurement",
+    "ambulatory blood pressure",
+    "white coat hypertension",
+    "masked hypertension",
+    "blood pressure variability"
+  ],
+  "related_modules": [
+    "LAB-089",
+    "LAB-139",
+    "CARD-045"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

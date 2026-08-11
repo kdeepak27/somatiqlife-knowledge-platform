@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-082",
+  "title": "Testosterone Test",
+  "subtitle": "What testosterone test measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Thyroid and Hormones",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Testosterone",
+    "Hormone Testing",
+    "Total Testosterone",
+    "Free Testosterone",
+    "Bioavailable Testosterone",
+    "Hypogonadism",
+    "Androgens",
+    "Hormone Levels",
+    "Endocrine Function",
+    "Sexual Health"
+  ],
+  "related_modules": [
+    "LAB-045-Testosterone Replacement Therapy",
+    "LAB-073-Endocrine Panel",
+    "LAB-055-Hormonal Causes of Infertility"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

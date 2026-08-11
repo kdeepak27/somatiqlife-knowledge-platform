@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-185",
+  "title": "Protein Supplements for Older Adults",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for protein supplements for older adults.",
+  "domain": "Supplements",
+  "category": "Healthy Aging and Specialty Supplements",
+  "som_stages": [
+    "Prevention",
+    "Aging"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Professionals"
+  ],
+  "reading_level": "8th-10th Grade",
+  "keywords": [
+    "protein supplements",
+    "older adults",
+    "aging",
+    "muscle mass",
+    "sarcopenia",
+    "nutrition",
+    "amino acids",
+    "dose",
+    "safety",
+    "interactions"
+  ],
+  "related_modules": [
+    "SUP-102-Nutrition-and-Aging",
+    "SUP-210-Resistance-Exercise-in-Elders",
+    "SUP-152-Bone-Health-and-Supplements"
+  ],
+  "evidence_strength": "Moderate evidence from clinical trials and systematic reviews supports the use of protein supplements combined with exercise to improve muscle mass and function in older adults. Some uncertainty remains regarding optimal dosing, long-term outcomes, and specific effects in subpopulations such as those with chronic illness or impaired kidney function.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

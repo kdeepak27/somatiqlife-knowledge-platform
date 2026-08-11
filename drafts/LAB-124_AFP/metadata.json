@@ -1,0 +1,37 @@
+{
+  "module_id": "LAB-124",
+  "title": "AFP",
+  "subtitle": "What afp measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Cancer and Screening Biomarkers",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Alpha-Fetoprotein",
+    "AFP",
+    "Tumor Marker",
+    "Liver Cancer",
+    "Hepatocellular Carcinoma",
+    "Biomarker",
+    "Cancer Screening",
+    "Serum AFP",
+    "AFP Test"
+  ],
+  "related_modules": [
+    "LAB-101",
+    "LAB-132",
+    "LAB-157"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging data in newer AFP isoforms and combined biomarker panels.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

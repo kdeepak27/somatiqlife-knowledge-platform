@@ -1,0 +1,37 @@
+{
+  "module_id": "SUP-109",
+  "title": "Garlic Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for garlic supplements.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Garlic",
+    "Allium sativum",
+    "Cardiometabolic health",
+    "Cholesterol",
+    "Blood pressure",
+    "Allicin",
+    "Supplement dosing",
+    "Drug interactions",
+    "Antioxidants",
+    "Cardiovascular risk"
+  ],
+  "related_modules": [
+    "SUP-102 Cardiac Health Supplements",
+    "SUP-115 Omega-3 Fatty Acids",
+    "SUP-123 Coenzyme Q10",
+    "SUP-130 Plant Sterols and Stanols"
+  ],
+  "evidence_strength": "Moderate evidence supports modest benefits of garlic supplements on blood pressure and LDL cholesterol; safety data are favorable but require caution with anticoagulants.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

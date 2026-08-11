@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-136",
+  "title": "Lactase Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for lactase supplements.",
+  "domain": "Supplements",
+  "category": "Digestive and Gut Supplements",
+  "som_stages": [
+    "Symptom management",
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare providers",
+    "Nutritionists",
+    "Pharmacists"
+  ],
+  "reading_level": "Moderate (8th-10th grade)",
+  "keywords": [
+    "Lactase",
+    "Lactose intolerance",
+    "Digestive enzymes",
+    "Lactose digestion",
+    "Supplement",
+    "Gut health",
+    "Enzyme replacement",
+    "Dairy intolerance",
+    "Lactose malabsorption"
+  ],
+  "related_modules": [
+    "SUP-101",
+    "SUP-109",
+    "SUP-123"
+  ],
+  "evidence_strength": "Moderate to strong evidence from clinical trials supports the effectiveness of lactase supplements for symptom relief in lactose intolerance. Safety data are robust with widespread use. Some variability exists depending on individual factors and dosing.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

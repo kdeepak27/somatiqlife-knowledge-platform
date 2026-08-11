@@ -1,0 +1,39 @@
+{
+  "module_id": "LAB-136",
+  "title": "Continuous Glucose Monitoring",
+  "subtitle": "What continuous glucose monitoring measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Advanced and Consumer Testing",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Management",
+    "Monitoring"
+  ],
+  "audience": [
+    "General Public",
+    "Patients with Diabetes",
+    "Healthcare Providers",
+    "Clinical Researchers"
+  ],
+  "reading_level": "Moderate technical, accessible to informed consumers",
+  "keywords": [
+    "Continuous Glucose Monitoring",
+    "CGM",
+    "Blood Glucose",
+    "Diabetes Management",
+    "Glucose Sensors",
+    "Glycemic Variability",
+    "Hypoglycemia",
+    "Hyperglycemia"
+  ],
+  "related_modules": [
+    "LAB-101-BloodGlucoseTest",
+    "LAB-140-InsulinMeasurement",
+    "LAB-142-GlycatedHemoglobinHbA1c",
+    "LAB-150-DiabetesScreening"
+  ],
+  "evidence_strength": "Established evidence for clinical benefits in type 1 diabetes and insulin-treated type 2 diabetes; moderate emerging evidence for broader clinical and research applications; safety profile generally good with some minor risks.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

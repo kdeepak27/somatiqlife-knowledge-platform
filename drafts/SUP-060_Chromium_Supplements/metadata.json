@@ -1,0 +1,35 @@
+{
+  "module_id": "SUP-060",
+  "title": "Chromium Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for chromium supplements.",
+  "domain": "Supplements",
+  "category": "Minerals",
+  "som_stages": [
+    "Prevention",
+    "Wellness",
+    "Chronic Condition Support"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate - general audience with some scientific interest",
+  "keywords": [
+    "Chromium",
+    "Chromium Supplements",
+    "Minerals",
+    "Glucose Metabolism",
+    "Insulin Sensitivity",
+    "Nutritional Supplements",
+    "Trace Elements"
+  ],
+  "related_modules": [
+    "SUP-021 - Magnesium Supplements",
+    "SUP-045 - Zinc Supplements",
+    "SUP-074 - Minerals and Metabolism"
+  ],
+  "evidence_strength": "Moderate evidence supports chromium's role in improving insulin sensitivity in specific populations; evidence for weight management benefits is weak and inconsistent.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

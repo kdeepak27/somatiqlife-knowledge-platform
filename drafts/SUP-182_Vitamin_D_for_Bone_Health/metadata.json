@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-182",
+  "title": "Vitamin D for Bone Health",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for vitamin D for bone health.",
+  "domain": "Supplements",
+  "category": "Healthy Aging and Specialty Supplements",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Healthy Aging"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "vitamin D",
+    "bone health",
+    "calcium absorption",
+    "osteoporosis",
+    "supplements",
+    "dosing",
+    "safety",
+    "interactions"
+  ],
+  "related_modules": [
+    "SUP-110",
+    "SUP-154",
+    "SUP-201"
+  ],
+  "evidence_strength": "Established evidence with ongoing emerging research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

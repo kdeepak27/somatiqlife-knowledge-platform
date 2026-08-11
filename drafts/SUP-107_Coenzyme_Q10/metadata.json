@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-107",
+  "title": "Coenzyme Q10",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for coenzyme q10.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Recovery"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Coenzyme Q10",
+    "CoQ10",
+    "Ubiquinone",
+    "Heart health",
+    "Mitochondria",
+    "Antioxidants",
+    "Statin interaction",
+    "Supplement dosing",
+    "Cardiometabolic health",
+    "Oxidative stress"
+  ],
+  "related_modules": [
+    "SUP-102_Statins",
+    "SUP-115_Antioxidant_Supplements",
+    "SUP-120_Cardiovascular_Health_Supplements"
+  ],
+  "evidence_strength": "Established and moderate evidence supporting CoQ10’s roles in energy metabolism and cardiovascular health with emerging data in additional areas.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

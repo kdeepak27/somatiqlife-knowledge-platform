@@ -1,0 +1,36 @@
+{
+  "module_id": "LAB-089",
+  "title": "DHEA-S",
+  "subtitle": "What dhea-s measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Thyroid and Hormones",
+  "som_stages": [
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "DHEA-S",
+    "Dehydroepiandrosterone sulfate",
+    "Adrenal hormone",
+    "Hormone testing",
+    "Endocrinology",
+    "Hormone levels",
+    "Steroid hormones",
+    "Biomarkers"
+  ],
+  "related_modules": [
+    "LAB-017",
+    "LAB-045",
+    "LAB-072",
+    "ENDO-034"
+  ],
+  "evidence_strength": "Established evidence from endocrine and laboratory medicine literature",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

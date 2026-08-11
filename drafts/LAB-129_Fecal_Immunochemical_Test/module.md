@@ -1,0 +1,175 @@
+# LAB-129 - Fecal Immunochemical Test
+## What fecal immunochemical test measures, how to interpret it, limitations, and when it is clinically useful.
+
+**Domain:** Laboratory Tests and Biomarkers
+**Category:** Cancer and Screening Biomarkers
+**SOM stages:** Screening, Prevention
+**Audience:** General Public, Patients, Primary Care Providers, Oncology Specialists, Gastroenterologists
+**Reading level:** Intermediate
+**Keywords:** Fecal Immunochemical Test, FIT, Colorectal Cancer Screening, Hemoglobin, Stool Test, Non-invasive cancer screening, Cancer biomarker, Colorectal neoplasia, Screening test limitations
+
+## AI Retrieval Summary
+The Fecal Immunochemical Test (FIT) is a non-invasive laboratory test used primarily for colorectal cancer screening by detecting human hemoglobin in stool samples. Unlike older guaiac-based fecal occult blood tests (gFOBT), FIT utilizes antibodies specific to human globin, providing improved specificity and sensitivity for detecting lower gastrointestinal bleeding, often caused by colorectal polyps or cancers. The test is simple, does not require dietary restrictions before collection, and is widely used as a screening tool to identify individuals at higher risk who need further diagnostic colonoscopy. FIT works by binding antibodies to the globin portion of hemoglobin in feces, marking hidden (occult) blood that may not be visible to the naked eye. Positive FIT results suggest the presence of bleeding lesions in the colon or rectum, prompting additional evaluation, while negative results generally indicate low likelihood of significant colorectal pathology though do not rule it out entirely. Key limitations include variability in test sensitivity related to bleeding intermittency, inability to detect non-bleeding lesions, and limited detection of upper gastrointestinal bleeding. FIT should be repeated at regular intervals, typically annually or biennially, to maintain effective screening benefits. Safety is high given its non-invasive nature; however, false positives and negatives can occur, necessitating clinical correlation. The test has become a cornerstone in colorectal cancer prevention programs worldwide but must be integrated responsibly with other clinical data and screening strategies.
+
+## Customer Questions Answered
+- What is a fecal immunochemical test (FIT)?
+- How does the fecal immunochemical test detect blood?
+- When should I get a fecal immunochemical test?
+- How accurate is the FIT for colorectal cancer screening?
+- What are the advantages of FIT over other stool tests?
+- Can FIT detect bleeding from other parts of the digestive tract?
+- What do positive and negative FIT results mean?
+- Are there any risks or side effects associated with the FIT?
+- How often should FIT be performed for effective screening?
+- What limitations exist for the fecal immunochemical test?
+- How is the FIT different from the traditional guaiac-based fecal occult blood test?
+- Can medications or diet interfere with FIT results?
+
+## Learning Objectives
+- Define the fecal immunochemical test and its biological target.
+- Explain the mechanism by which FIT detects occult blood in stool.
+- Describe the clinical relevance and timing of FIT in colorectal cancer screening.
+- Differentiate FIT from other stool-based tests such as gFOBT.
+- Identify the strengths and limitations of FIT in clinical practice.
+- Interpret common FIT results and their implications for patient management.
+- Discuss practical considerations including sample collection, frequency, and patient preparation.
+- Recognize misconceptions and safety information pertinent to FIT.
+- Understand the evidence base supporting FIT's use in cancer screening.
+- Summarize clinical best practices for integrating FIT into preventive healthcare.
+
+## Definition
+The Fecal Immunochemical Test (FIT) is a stool-based laboratory assay that detects human hemoglobin protein, specifically the globin component, in fecal samples to identify occult (hidden) blood, often as a marker of colorectal cancer or precancerous lesions.
+
+## Why This Matters
+Colorectal cancer is a leading cause of cancer-related deaths worldwide, but early detection substantially improves outcomes. FIT offers a convenient, non-invasive, and cost-effective screening method that can detect early signs of disease before symptoms develop, enabling timely intervention and reduced mortality.
+
+## What is the Fecal Immunochemical Test (FIT)?
+The Fecal Immunochemical Test (FIT) is a laboratory diagnostic tool designed to detect tiny amounts of human blood in the stool, which are not visible to the naked eye. FIT specifically targets human hemoglobin, a protein found in red blood cells. It is widely used as a screening test for colorectal cancer and precancerous polyps by identifying blood shed into the lower gastrointestinal tract. The test uses antibodies that bind selectively to the globin portion of hemoglobin, allowing for sensitive and specific detection. FIT is a non-invasive stool test usually performed at home by patients collecting a small stool sample, which is then analyzed in a laboratory.
+
+## Biological Mechanism of FIT Detection
+FIT operates on the principle of immunoassay, employing antibodies that bind specifically to human hemoglobin, particularly the globin protein subunit. When blood from bleeding lesions in the colon or rectum is present in stool, the hemoglobin it contains interacts with these antibodies, producing a measurable signal. Unlike guaiac-based tests, FIT does not detect animal hemoglobin or plant peroxidases, which improves specificity for human blood. Because globin is degraded by digestive enzymes, FIT is more sensitive to bleeding from the lower gastrointestinal tract rather than the upper gastrointestinal tract.
+
+## Physiology of Hemoglobin in Stool and Relevance to Screening
+Hemoglobin in stool typically indicates bleeding within the gastrointestinal tract. In colorectal cancer or adenomatous polyps, fragile and abnormal blood vessels may cause microscopic bleeding. FIT detects this occult bleeding that is often an early sign of disease. The digestive process breaks down hemoglobin protein, so blood originating in the upper gastrointestinal tract may be undetectable by FIT due to degradation before stool passes out of the body. This selective detection makes FIT specifically useful for colorectal (lower gut) pathology screening.
+
+## Clinical Applications and When to Use FIT
+FIT is primarily used as a colorectal cancer screening tool in average-risk adults beginning at age 45 or 50, depending on guidelines, and continuing until approximately age 75. It is recommended for those without symptoms and no personal or strong family history of colorectal cancer or related syndromes. A positive FIT result warrants follow-up evaluation, typically colonoscopy, to identify the source of bleeding. FIT can also be useful for surveillance in individuals with a history of colorectal polyps. The test should be repeated regularly, usually annually or every two years, to detect new or intermittent bleeding.
+
+## Interpretation of FIT Results
+A positive FIT indicates the presence of detectable human hemoglobin in stool and suggests gastrointestinal bleeding, most commonly from colorectal lesions. However, positive results do not confirm cancer and require further diagnostic procedures such as colonoscopy for definitive diagnosis. Negative results suggest no detectable bleeding at the time of testing but do not completely rule out colorectal pathology, especially if bleeding is intermittent or absent. FIT results should always be considered alongside clinical context, age, symptoms, and risk factors.
+
+## Comparison with Guaiac-based Fecal Occult Blood Test (gFOBT)
+The guaiac-based fecal occult blood test (gFOBT) detects peroxidase activity from heme in hemoglobin, which is less specific because it reacts with some foods and animal hemoglobin. gFOBT requires dietary restrictions before testing to avoid false positives. In contrast, FIT uses specific antibodies against human globin, producing higher sensitivity and specificity for lower GI bleeding without dietary restrictions. FIT is generally preferred over gFOBT in modern colorectal screening guidelines due to improved accuracy and patient convenience.
+
+## Limitations and False Results in FIT
+While FIT is effective in detecting occult blood, it has limitations. False negatives can arise if bleeding is intermittent or absent at the time of sample collection, or if lesions are non-bleeding. False positives may occur from bleeding due to hemorrhoids, inflammatory bowel disease, or infections. FIT does not detect upper gastrointestinal bleeding reliably because globin is degraded before reaching stool. Additionally, FIT cannot detect non-bleeding lesions such as flat polyps or tumors that do not cause hemorrhage. Repeat testing increases sensitivity over time.
+
+## Practical Aspects of Sample Collection and Testing
+FIT requires patients to collect a small stool sample at home, typically from a single bowel movement. The collection device includes a probe to pick up stool, which is then sealed and sent to the laboratory. No dietary or medication restrictions are needed, improving patient compliance. Proper sample handling and timely transport to the lab are essential to maintain test accuracy. Results are usually reported within days and indicate presence or quantitative level of hemoglobin detected.
+
+## Safety and Risks Associated with FIT Screening
+FIT is a safe, non-invasive screening tool with no direct physical risks since it involves only stool sample collection. There are no associated side effects or complications. However, risks indirectly relate to follow-up procedures prompted by positive results, such as colonoscopy, which carries procedural risks. False positives can cause anxiety and unnecessary testing, while false negatives may delay diagnosis. Patients should understand the test’s screening nature and limitations and follow recommended screening intervals.
+
+## Misconceptions about FIT
+Common misconceptions include the belief that a negative FIT result definitively rules out colorectal cancer, which is inaccurate as some cancers or polyps do not bleed consistently. Another misconception is that FIT can detect all gastrointestinal bleeding, whereas it primarily detects bleeding from the lower gut. Some individuals incorrectly believe dietary or medication intake can invalidate FIT, but unlike gFOBT, FIT does not require dietary restrictions. Awareness of these misunderstandings is important for appropriate utilization and patient counseling.
+
+## Evidence Supporting FIT in Colorectal Cancer Screening
+Numerous large-scale studies and systematic reviews demonstrate that FIT-based colorectal cancer screening reduces cancer mortality by detecting early-stage cancers and precancerous lesions. FIT has higher sensitivity and specificity for colorectal neoplasia compared to gFOBT and fecal DNA tests. Guidelines from major organizations including the U.S. Preventive Services Task Force (USPSTF), American Cancer Society, and European screening programs recommend FIT as a first-line screening test for average-risk adults. Ongoing research continues to optimize cutoff values and screening intervals.
+
+## Practical Guidance
+- Collect stool samples using the provided FIT kit according to instructions for optimal accuracy.
+- No dietary or medication restrictions are necessary before performing the test.
+- Begin routine FIT screening at age 45-50 for average-risk individuals and continue at recommended intervals (usually annually or biennially).
+- Any positive FIT result requires prompt follow-up with colonoscopy to identify bleeding sources.
+- Inform healthcare providers of any known gastrointestinal conditions or bleeding disorders before testing.
+- Repeat FIT screening consistently, even after negative results, to detect intermittent bleeding.
+- Interpret results in the context of personal and family medical history and symptoms.
+- Use FIT results as part of a comprehensive colorectal cancer screening program incorporating risk factors and diagnostic procedures.
+
+## Safety Notes
+- FIT involves no physical discomfort or procedural risks as it requires only stool sample collection.
+- There are no known side effects or complications from the FIT itself.
+- Positive FIT results necessitate follow-up colonoscopy, which carries its own procedural risks, including bleeding and perforation.
+- False-positive FIT results can lead to unnecessary anxiety and invasive procedures.
+- False-negative results may delay diagnosis; therefore, regular screening is essential even if prior tests are negative.
+
+## Common Misconceptions
+### A negative FIT test means I definitely do not have colorectal cancer.
+**Reality:** A negative FIT indicates no detectable blood in the stool at the time of testing but does not completely rule out cancer or polyps that may not bleed.
+
+### FIT can detect bleeding from the entire digestive tract.
+**Reality:** FIT primarily detects human hemoglobin from bleeding in the lower gastrointestinal tract; it is not effective for upper GI bleeding due to protein degradation.
+
+### I must avoid certain foods or medications before taking the FIT.
+**Reality:** Unlike older guaiac-based tests, FIT does not require dietary restrictions, making it more convenient.
+
+## Clinical Pearls
+- FIT uses antibodies specific for human hemoglobin globin, enhancing test specificity for colorectal bleeding.
+- Annual or biennial FIT screening reduces colorectal cancer mortality by facilitating early detection.
+- False positives can be caused by benign conditions such as hemorrhoids; clinical correlation is essential.
+- Negative FIT results do not exclude colorectal neoplasia—repeat testing over time increases detection sensitivity.
+- Proper sample collection and timely laboratory processing are critical to reliable FIT results.
+
+## Key Takeaways
+- FIT detects human hemoglobin in stool, serving as a non-invasive colorectal cancer screening tool.
+- It is more specific and sensitive than older guaiac-based fecal occult blood tests (gFOBT).
+- FIT is primarily effective for detecting bleeding from the lower gastrointestinal tract.
+- A positive FIT result requires diagnostic follow-up, usually colonoscopy.
+- Negative FIT results reduce but do not eliminate the possibility of colorectal pathology.
+- Regular screening, typically annually or biennially, improves detection accuracy due to intermittent bleeding.
+- FIT has minimal risks and does not require dietary restrictions, increasing patient compliance.
+- Understanding FIT limitations and proper interpretation ensures optimal clinical use.
+
+## Glossary
+- **Fecal Immunochemical Test (FIT):** A laboratory test detecting human hemoglobin protein in stool to identify occult lower gastrointestinal bleeding, used mainly for colorectal cancer screening.
+- **Hemoglobin:** An iron-containing protein in red blood cells responsible for oxygen transport; target molecule detected by FIT in stool samples.
+- **Globin:** The protein component of hemoglobin to which FIT antibodies specifically bind for detection.
+- **Occult Blood:** Blood present in stool that is not visible to the naked eye but can be detected by chemical or immunological tests.
+- **Colorectal Cancer:** Cancer arising in the colon or rectum; early detection significantly improves prognosis.
+- **Guaiac-based Fecal Occult Blood Test (gFOBT):** An older stool test that detects blood via peroxidase activity but has lower specificity and requires dietary restrictions.
+- **Colonoscopy:** An endoscopic procedure that visually examines the colon and rectum to identify sources of bleeding and other abnormalities.
+- **Screening Test:** A test performed on asymptomatic individuals to detect disease early and reduce mortality.
+
+## Related Modules
+- LAB-47
+- LAB-85
+- ONC-103
+
+## Illustration Specifications
+### ILLU-001 - FIT Sample Collection Kit Components
+**Type:** Photograph
+
+Photograph showing the components of a typical FIT home collection kit including stool collection device and transport tube.
+
+**Alt text:** FIT sample collection kit including stool probe and tube.
+
+### ILLU-002 - Mechanism of FIT Detection
+**Type:** Diagram
+
+Diagram illustrating how antibodies in the FIT bind specifically to human hemoglobin in stool samples.
+
+**Alt text:** Diagram of FIT antibodies binding to human hemoglobin molecules in stool.
+
+### ILLU-003 - FIT Use in Colorectal Cancer Screening
+**Type:** Infographic
+
+Infographic summarizing colorectal cancer screening pathways including FIT usage, follow-up colonoscopy, and outcomes.
+
+**Alt text:** Flowchart showing colorectal cancer screening steps starting with FIT and leading to colonoscopy.
+
+### ILLU-004 - Comparison of FIT and gFOBT
+**Type:** Table
+
+Table comparing fecal immunochemical test and guaiac-based fecal occult blood test in sensitivity, specificity, and preparation requirements.
+
+**Alt text:** Comparison table of FIT versus gFOBT stool tests.
+
+## References
+- Colorectal cancer screening: Updated evidence report and systematic review for the US Preventive Services Task Force | Lin JS, Piper MA, Perdue LA, et al. | 2016 |  | Unverified
+- Immunochemical fecal occult blood test: An improved method for colorectal cancer screening | Lee JK, Liles EG, Bent S, et al. | 2014 |  | Unverified
+- Screening for colorectal cancer: US Preventive Services Task Force recommendation statement | USPSTF | 2021 |  | Unverified
+- A systematic review of the accuracy of fecal immunochemical tests for colorectal cancer screening: Implications for clinical practice | Daly JM, Vale DL | 2019 |  | Unverified
+
+**Evidence strength:** Established evidence from multiple large clinical studies and systematic reviews supports the clinical utility of FIT for colorectal cancer screening with well-recognized limitations and risks.
+**Version:** 1.0
+**Review status:** AI draft - scientific, clinical, and editorial review required

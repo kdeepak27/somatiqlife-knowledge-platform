@@ -1,0 +1,35 @@
+{
+  "module_id": "SUP-125",
+  "title": "Cardiometabolic Supplement Safety",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for cardiometabolic supplement safety.",
+  "domain": "Supplements",
+  "category": "Cardiometabolic Supplements",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Pharmacists",
+    "Dietitians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Cardiometabolic",
+    "Supplements",
+    "Safety",
+    "Dosing",
+    "Interactions",
+    "Evidence",
+    "Adverse Effects"
+  ],
+  "related_modules": [
+    "SUP-101",
+    "SUP-110",
+    "SUP-120"
+  ],
+  "evidence_strength": "Mixed evidence with some well-supported supplements and others with emerging or limited data.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

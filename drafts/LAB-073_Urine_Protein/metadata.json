@@ -1,0 +1,35 @@
+{
+  "module_id": "LAB-073",
+  "title": "Urine Protein",
+  "subtitle": "What urine protein measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Liver and Kidney",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "urine protein",
+    "proteinuria",
+    "kidney function test",
+    "albuminuria",
+    "glomerular disease",
+    "urinalysis",
+    "protein-creatinine ratio"
+  ],
+  "related_modules": [
+    "LAB-045-Kidney-Function-Tests",
+    "LAB-102-Albumin-and-Globulin",
+    "LAB-078-Urinalysis"
+  ],
+  "evidence_strength": "Established evidence and consensus guidelines with some areas of moderate evidence regarding optimal testing protocols.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,35 @@
+{
+  "module_id": "LAB-109",
+  "title": "Rheumatoid Factor",
+  "subtitle": "What rheumatoid factor measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Inflammation and Immunity",
+  "som_stages": [
+    "diagnosis",
+    "monitoring",
+    "screening"
+  ],
+  "audience": [
+    "patients",
+    "healthcare professionals",
+    "students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "rheumatoid factor",
+    "RF",
+    "autoantibody",
+    "rheumatoid arthritis",
+    "inflammation",
+    "autoimmune disease",
+    "diagnostic test"
+  ],
+  "related_modules": [
+    "LAB-110",
+    "LAB-208",
+    "LAB-311"
+  ],
+  "evidence_strength": "Established evidence with emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

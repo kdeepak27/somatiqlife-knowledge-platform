@@ -1,0 +1,36 @@
+{
+  "module_id": "LAB-064",
+  "title": "GGT",
+  "subtitle": "What ggt measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Liver and Kidney",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Consumers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "GGT",
+    "Gamma-glutamyl transferase",
+    "Liver function test",
+    "Biomarker",
+    "Cholestasis",
+    "Alcohol intake",
+    "Liver disease"
+  ],
+  "related_modules": [
+    "LAB-061-ALT",
+    "LAB-063-ALP",
+    "LAB-010-LiverFunctionTests",
+    "LAB-071-Bilirubin"
+  ],
+  "evidence_strength": "Established evidence based on clinical guidelines and consensus with supporting research; evolving evidence for non-hepatic applications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,40 @@
+{
+  "module_id": "SUP-092",
+  "title": "Sports Drinks",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for sports drinks.",
+  "domain": "Supplements",
+  "category": "Performance Supplements",
+  "som_stages": [
+    "Consumption",
+    "Performance Enhancement",
+    "Recovery"
+  ],
+  "audience": [
+    "Consumers",
+    "Athletes",
+    "Coaches",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "sports drinks",
+    "electrolytes",
+    "carbohydrates",
+    "hydration",
+    "performance",
+    "recovery",
+    "sodium",
+    "potassium",
+    "dehydration",
+    "endurance"
+  ],
+  "related_modules": [
+    "SUP-085 - Hydration Strategies",
+    "SUP-101 - Electrolyte Supplements",
+    "SUP-067 - Carbohydrate Loading",
+    "SUP-110 - Recovery Nutrition"
+  ],
+  "evidence_strength": "Established Evidence with Moderate Emerging Areas",
+  "version": "2024-06-07",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

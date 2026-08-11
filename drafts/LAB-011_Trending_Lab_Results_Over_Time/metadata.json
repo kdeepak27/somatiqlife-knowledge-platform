@@ -1,0 +1,41 @@
+{
+  "module_id": "LAB-011",
+  "title": "Trending Lab Results Over Time",
+  "subtitle": "What trending lab results over time measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Lab Testing Foundations",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Medical Students",
+    "Laboratory Technicians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "lab results",
+    "trending lab values",
+    "biomarkers",
+    "serial testing",
+    "test interpretation",
+    "baseline variation",
+    "clinical monitoring",
+    "laboratory trends",
+    "diagnostic accuracy",
+    "test limitations"
+  ],
+  "related_modules": [
+    "LAB-005",
+    "LAB-021",
+    "LAB-034"
+  ],
+  "evidence_strength": "Established evidence for common clinical uses; emerging with novel kinetic models and more comprehensive reference standards.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

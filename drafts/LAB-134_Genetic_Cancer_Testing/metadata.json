@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-134",
+  "title": "Genetic Cancer Testing",
+  "subtitle": "What genetic cancer testing measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Cancer and Screening Biomarkers",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Prognosis",
+    "Treatment Planning"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Genetic Counselors",
+    "Oncology Specialists"
+  ],
+  "reading_level": "Intermediate (health literate)",
+  "keywords": [
+    "genetic cancer testing",
+    "cancer genetics",
+    "genetic mutations",
+    "hereditary cancer",
+    "molecular diagnostics",
+    "BRCA",
+    "tumor profiling",
+    "cancer screening"
+  ],
+  "related_modules": [
+    "LAB-101",
+    "LAB-98",
+    "LAB-142"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging research on novel applications and interpretation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

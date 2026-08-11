@@ -1,0 +1,39 @@
+{
+  "module_id": "LAB-113",
+  "title": "Celiac Antibody Testing",
+  "subtitle": "What celiac antibody testing measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Inflammation and Immunity",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Primary Care Providers",
+    "Gastroenterologists",
+    "Allied Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Celiac Disease",
+    "Antibody Testing",
+    "Serology",
+    "Tissue Transglutaminase",
+    "Endomysial Antibody",
+    "IgA Deficiency",
+    "Gluten Sensitivity",
+    "Autoimmune Disease",
+    "Immunity",
+    "Inflammation"
+  ],
+  "related_modules": [
+    "LAB-102-HLA-Genetic-Testing",
+    "LAB-118-Intestinal-Biopsy-Pathology",
+    "LAB-127-Non-Celiac-Gluten-Sensitivity"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

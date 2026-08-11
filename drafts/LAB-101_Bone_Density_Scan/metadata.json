@@ -1,0 +1,34 @@
+{
+  "module_id": "LAB-101",
+  "title": "Bone Density Scan",
+  "subtitle": "What bone density scan measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Vitamins Minerals and Bone",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Bone Density Scan",
+    "DXA",
+    "Osteoporosis",
+    "Bone Mineral Density",
+    "BMD",
+    "Fracture Risk"
+  ],
+  "related_modules": [
+    "LAB-102",
+    "LAB-203",
+    "MUS-304"
+  ],
+  "evidence_strength": "Established scientific evidence supporting the use of DXA bone density scanning for osteoporosis diagnosis and fracture risk assessment.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

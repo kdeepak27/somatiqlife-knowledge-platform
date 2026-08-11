@@ -1,0 +1,38 @@
+{
+  "module_id": "SUP-062",
+  "title": "Molybdenum Supplements",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for molybdenum supplements.",
+  "domain": "Supplements",
+  "category": "Minerals",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "molybdenum",
+    "molybdenum supplements",
+    "trace minerals",
+    "mineral cofactors",
+    "dietary supplements",
+    "mineral deficiency",
+    "enzyme cofactor",
+    "molybdenum deficiency",
+    "supplement safety",
+    "mineral interactions"
+  ],
+  "related_modules": [
+    "SUP-041-Mineral-Supplements-Basics",
+    "SUP-089-Copper-Supplements",
+    "SUP-015-Parenteral-Nutrition",
+    "SUP-074-Gout-Supplementation"
+  ],
+  "evidence_strength": "Established Evidence for basic nutrition and safety; Moderate Evidence for therapeutic uses beyond deficiency; Emerging Evidence for new research areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "LAB-014",
+  "title": "Sex and Lab Values",
+  "subtitle": "What sex and lab values measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Lab Testing Foundations",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sex differences",
+    "laboratory values",
+    "biomarkers",
+    "reference ranges",
+    "sex-specific norms",
+    "biological sex",
+    "clinical interpretation",
+    "laboratory testing",
+    "gender and lab tests",
+    "physiology"
+  ],
+  "related_modules": [
+    "LAB-005",
+    "LAB-020",
+    "ENDO-007"
+  ],
+  "evidence_strength": "Established evidence for sex-related differences in many lab values; moderate and emerging evidence relating to transgender patient interpretations and standardization of reference intervals.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

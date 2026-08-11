@@ -1,0 +1,37 @@
+{
+  "module_id": "LAB-117",
+  "title": "Hepatitis C Testing",
+  "subtitle": "What hepatitis c testing measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Inflammation and Immunity",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "Hepatitis C",
+    "HCV test",
+    "Antibody test",
+    "RNA test",
+    "Viral load",
+    "Liver function",
+    "Liver disease",
+    "Serology",
+    "Chronic infection",
+    "HCV genotyping"
+  ],
+  "related_modules": [
+    "LAB-098: Liver Function Tests",
+    "LAB-132: Viral Hepatitis B Testing",
+    "LAB-204: HIV Screening and Monitoring"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

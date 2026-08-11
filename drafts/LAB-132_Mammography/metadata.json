@@ -1,0 +1,36 @@
+{
+  "module_id": "LAB-132",
+  "title": "Mammography",
+  "subtitle": "What mammography measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Cancer and Screening Biomarkers",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Diagnosis"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Healthcare Professionals",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate (General Audience with Some Medical Knowledge)",
+  "keywords": [
+    "mammography",
+    "breast cancer screening",
+    "breast imaging",
+    "mammogram interpretation",
+    "breast density",
+    "radiology",
+    "breast cancer detection"
+  ],
+  "related_modules": [
+    "LAB-110",
+    "IMG-21",
+    "CAN-45"
+  ],
+  "evidence_strength": "Established evidence from multiple large studies and guidelines supports mammography as an effective screening tool for breast cancer with recognized limitations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

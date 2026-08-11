@@ -1,0 +1,37 @@
+{
+  "module_id": "LAB-138",
+  "title": "Home Cholesterol Tests",
+  "subtitle": "What home cholesterol tests measures, how to interpret it, limitations, and when it is clinically useful.",
+  "domain": "Laboratory Tests and Biomarkers",
+  "category": "Advanced and Consumer Testing",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Primary Care Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "cholesterol",
+    "lipid panel",
+    "home testing",
+    "LDL",
+    "HDL",
+    "triglycerides",
+    "cardiovascular risk",
+    "atherosclerosis",
+    "lipoproteins"
+  ],
+  "related_modules": [
+    "LAB-120",
+    "LAB-125",
+    "LAB-131"
+  ],
+  "evidence_strength": "Established and emerging evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

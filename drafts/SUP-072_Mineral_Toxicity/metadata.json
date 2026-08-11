@@ -1,0 +1,36 @@
+{
+  "module_id": "SUP-072",
+  "title": "Mineral Toxicity",
+  "subtitle": "Evidence, dosing, safety, interactions, and practical considerations for mineral toxicity.",
+  "domain": "Supplements",
+  "category": "Minerals",
+  "som_stages": [
+    "Interest",
+    "Consideration",
+    "Decision"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Practitioners"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Mineral Toxicity",
+    "Toxicity",
+    "Minerals",
+    "Supplements",
+    "Overdose",
+    "Safety",
+    "Interactions",
+    "Dosing",
+    "Heavy Metals"
+  ],
+  "related_modules": [
+    "SUP-015-IronSupplementation",
+    "SUP-028-CopperMetabolism",
+    "ENV-003-HeavyMetalExposure"
+  ],
+  "evidence_strength": "Established evidence supplemented with moderate evidence from observational and clinical studies regarding dosing thresholds and toxicity symptoms, with emerging evidence for mineral interactions and population-specific risks.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
