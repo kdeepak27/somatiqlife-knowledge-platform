@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-088",
+  "title": "Snoring",
+  "subtitle": "What snoring is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Recognition",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "General Public"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "snoring",
+    "sleep apnea",
+    "upper airway",
+    "sleep disorders",
+    "risk factors",
+    "management",
+    "lifestyle",
+    "symptoms",
+    "evaluation",
+    "safety"
+  ],
+  "related_modules": [
+    "COND-097",
+    "COND-102",
+    "COND-110"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and expert consensus",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
