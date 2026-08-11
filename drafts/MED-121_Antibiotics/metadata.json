@@ -1,0 +1,35 @@
+{
+  "module_id": "MED-121",
+  "title": "Antibiotics",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to antibiotics.",
+  "domain": "Medications",
+  "category": "Anti-Infective Medicines",
+  "som_stages": [
+    "All Stages"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Antibiotics",
+    "Antibacterial Agents",
+    "Infections",
+    "Side Effects",
+    "Drug Interactions",
+    "Antimicrobial Resistance",
+    "Monitoring",
+    "Safety"
+  ],
+  "related_modules": [
+    "MED-205",
+    "MED-310",
+    "MED-512"
+  ],
+  "evidence_strength": "Established scientific consensus with emerging data on resistance and stewardship practices.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
