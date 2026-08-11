@@ -1,0 +1,42 @@
+{
+  "module_id": "COND-051",
+  "title": "Polycystic Ovary Syndrome",
+  "subtitle": "What polycystic ovary syndrome is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Metabolic and Endocrine",
+  "som_stages": [
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Primary Care Providers",
+    "Endocrinologists",
+    "Gynecologists",
+    "Nurses",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate (Grade 10+)",
+  "keywords": [
+    "Polycystic Ovary Syndrome",
+    "PCOS",
+    "Androgens",
+    "Insulin Resistance",
+    "Menstrual Irregularities",
+    "Hirsutism",
+    "Obesity",
+    "Infertility",
+    "Metabolic Syndrome",
+    "Lifestyle Management"
+  ],
+  "related_modules": [
+    "COND-030-Diabetes-Mellitus",
+    "COND-041-Infertility",
+    "COND-059-Obesity",
+    "COND-065-Endocrine-Disorders"
+  ],
+  "evidence_strength": "Established evidence with moderate evidence for emerging therapies and lifestyle strategies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

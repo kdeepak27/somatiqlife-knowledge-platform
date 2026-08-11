@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-052",
+  "title": "Gout",
+  "subtitle": "What gout is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Metabolic and Endocrine",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "gout",
+    "hyperuricemia",
+    "uric acid",
+    "arthritis",
+    "monosodium urate crystals",
+    "inflammation",
+    "risk factors",
+    "management",
+    "lifestyle"
+  ],
+  "related_modules": [
+    "COND-007_Kidney_Health",
+    "COND-034_Hypertension",
+    "COND-047_Metabolic_Syndrome"
+  ],
+  "evidence_strength": "Established evidence for pathophysiology, clinical presentation, and pharmacological management; moderate evidence supports lifestyle impact; emerging evidence on novel therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
