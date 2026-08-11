@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-074",
+  "title": "Restless Legs Syndrome",
+  "subtitle": "What restless legs syndrome is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "10th Grade",
+  "keywords": [
+    "Restless Legs Syndrome",
+    "RLS",
+    "Willis-Ekbom Disease",
+    "Sleep disorder",
+    "Neurological disorder",
+    "Dopamine",
+    "Iron deficiency"
+  ],
+  "related_modules": [
+    "COND-193",
+    "COND-080",
+    "COND-145"
+  ],
+  "evidence_strength": "Strong for dopamine agonists and iron supplementation in iron-deficient patients; moderate for alpha-2-delta ligands and emerging evidence for non-pharmacological therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
