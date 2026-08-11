@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-159",
+  "title": "Sciatica",
+  "subtitle": "What sciatica is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Musculoskeletal and Pain",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "General Public",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate — suitable for educated consumers and patient educators",
+  "keywords": [
+    "Sciatica",
+    "Lower back pain",
+    "Radiculopathy",
+    "Sciatic nerve",
+    "Leg pain",
+    "Herniated disc",
+    "Spinal stenosis",
+    "Nerve compression",
+    "Physical therapy",
+    "Pain management"
+  ],
+  "related_modules": [
+    "COND-045",
+    "COND-112",
+    "COND-201"
+  ],
+  "evidence_strength": "Established evidence for typical causes, symptoms, and conservative management; moderate evidence supporting interventional treatments; emerging evidence regarding optimal exercise protocols.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
