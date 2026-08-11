@@ -1,0 +1,35 @@
+{
+  "module_id": "MED-024",
+  "title": "Central Alpha Agonists",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to central alpha agonists.",
+  "domain": "Medications",
+  "category": "Blood Pressure Medicines",
+  "som_stages": [
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Central alpha agonists",
+    "Clonidine",
+    "Methyldopa",
+    "Hypertension",
+    "Blood pressure",
+    "Adrenergic receptors",
+    "Side effects",
+    "Drug interactions"
+  ],
+  "related_modules": [
+    "MED-010",
+    "MED-035",
+    "MED-047"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and pharmacological literature; moderate evidence for off-label uses; emerging evidence for novel safety concerns.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
