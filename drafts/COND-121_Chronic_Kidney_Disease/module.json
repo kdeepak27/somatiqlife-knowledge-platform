@@ -1,0 +1,256 @@
+{
+  "module_id": "COND-121",
+  "title": "Chronic Kidney Disease",
+  "subtitle": "What chronic kidney disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "Detection",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public",
+    "Healthcare Students"
+  ],
+  "reading_level": "Intermediate (Grade 10-12)",
+  "keywords": [
+    "Chronic kidney disease",
+    "CKD",
+    "Kidney failure",
+    "Renal impairment",
+    "Glomerular filtration rate",
+    "Dialysis",
+    "Kidney health",
+    "Nephrology"
+  ],
+  "customer_questions": [
+    "What is chronic kidney disease (CKD)?",
+    "What causes chronic kidney disease?",
+    "Who is at risk for developing CKD?",
+    "What are the symptoms of CKD?",
+    "How is CKD diagnosed?",
+    "Can CKD be reversed or cured?",
+    "What treatments are available for CKD?",
+    "How can lifestyle changes help manage CKD?",
+    "What foods should be avoided with CKD?",
+    "Is dialysis the only option for kidney failure?",
+    "What complications can CKD lead to?",
+    "How often should kidney function be tested if I have CKD?"
+  ],
+  "retrieval_summary": "Chronic kidney disease (CKD) is a long-term condition characterized by the gradual loss of kidney function over months or years. Kidneys play a vital role in filtering waste and excess fluids from the blood to form urine, regulate electrolyte balance, and control blood pressure. CKD develops when the kidneys are damaged due to various causes such as diabetes, high blood pressure, infections, or inherited disorders, resulting in decreased glomerular filtration rate (GFR). The reduced kidney function can progress to end-stage renal disease (ESRD), requiring dialysis or kidney transplantation. CKD is also known as chronic renal disease, chronic renal failure, or chronic kidney failure, though these terms differ slightly by severity. Early stages often have few symptoms, emphasizing the importance of screening in high-risk groups. Practical management focuses on controlling underlying causes, slowing progression with medications like ACE inhibitors, and lifestyle habits including diet and exercise. Limitations in treatment include the irreversible nature of kidney damage once established and potential complications such as cardiovascular disease. Safety considerations involve medication dosing adjustments and avoidance of nephrotoxic substances. Understanding CKD's mechanisms and management helps reduce complications and improve quality of life. This module aims to educate patients and healthcare learners on CKD's definition, diagnosis, causes, symptoms, and up-to-date management strategies while clarifying common misconceptions and emphasizing safety in care.",
+  "learning_objectives": [
+    "Define chronic kidney disease and understand its progression stages.",
+    "Identify common causes and risk factors of CKD.",
+    "Recognize symptoms and clinical signs of CKD.",
+    "Understand methods for evaluating and diagnosing CKD.",
+    "Learn about medical and lifestyle management strategies for CKD.",
+    "Comprehend potential complications and their prevention.",
+    "Appreciate the role of diet and exercise in CKD care.",
+    "Understand safety considerations in medication and treatment for CKD."
+  ],
+  "definition": "Chronic kidney disease (CKD) is a progressive loss of kidney function over at least three months, characterized by abnormalities of kidney structure or function that have implications for health. It is defined by a decreased glomerular filtration rate (GFR) less than 60 mL/min/1.73m² or markers of kidney damage such as albuminuria.",
+  "why_this_matters": "CKD affects approximately 10-15% of adults worldwide and is a major risk factor for cardiovascular disease and kidney failure. Early identification and management can slow disease progression, prevent complications, and reduce healthcare burden. Public education empowers patients to participate actively in their care and adopt safer lifestyles.",
+  "sections": [
+    {
+      "heading": "What Is Chronic Kidney Disease?",
+      "content": "Chronic kidney disease (CKD) is a medical condition where kidney function declines over months or years. Kidneys remove waste and excess fluid from the body, maintain electrolyte balance, and regulate blood pressure. In CKD, damaged kidneys cannot perform these tasks effectively, leading to waste buildup and other health issues. CKD is usually categorized in stages 1 through 5 based on the glomerular filtration rate (GFR), a test estimating how much blood passes through the kidneys each minute. Early stages may be without symptoms, while late stages manifest serious complications. CKD can ultimately progress to end-stage renal disease (ESRD) where dialysis or transplantation becomes necessary."
+    },
+    {
+      "heading": "Causes of Chronic Kidney Disease",
+      "content": "CKD arises from conditions that damage the kidneys over time. The two most common causes worldwide are diabetes mellitus (especially type 2) and hypertension (high blood pressure). Other causes include glomerulonephritis (inflammation of filtering units), polycystic kidney disease (genetic cyst formation), prolonged obstruction of urinary tract, infections, autoimmune diseases such as lupus nephritis, and use of nephrotoxic drugs (e.g., certain antibiotics, NSAIDs). Understanding the underlying cause helps tailor management and potentially slow progression."
+    },
+    {
+      "heading": "Risk Factors for CKD",
+      "content": "Several factors increase the likelihood of developing CKD. These include diabetes, hypertension, a family history of kidney disease, older age, obesity, smoking, cardiovascular disease, certain ethnicities (e.g., African American, Hispanic, Indigenous peoples), and frequent use of nephrotoxic medications. Early identification of individuals at high risk through blood pressure and blood sugar control plus periodic kidney function tests is essential for prevention or early intervention."
+    },
+    {
+      "heading": "Symptoms and Clinical Signs of CKD",
+      "content": "Early CKD is often asymptomatic, making screening among at-risk populations vital. As kidney function worsens, symptoms may include fatigue, swelling (edema) especially in legs and around the eyes, increased urination especially at night (nocturia), foamy urine indicating proteinuria, loss of appetite, nausea, dry itchy skin, muscle cramps, and confusion. Physical signs such as hypertension, anemia, or fluid overload may also be detected during medical examination."
+    },
+    {
+      "heading": "How Is Chronic Kidney Disease Diagnosed?",
+      "content": "CKD diagnosis is based on laboratory tests and imaging. Key diagnostic tools include estimation of glomerular filtration rate (eGFR) from serum creatinine blood test, and urine tests to detect proteinuria or albuminuria. Kidney ultrasound can assess size and detect structural abnormalities. Other blood tests like BUN (blood urea nitrogen), electrolytes, and hemoglobin help assess severity. Repeated abnormalities over at least three months confirm chronicity. Kidney biopsy may be performed in some cases to determine specific causes."
+    },
+    {
+      "heading": "Pathophysiology and Kidney Function in CKD",
+      "content": "The kidneys filter about 120-150 liters of blood daily through nephrons using glomeruli and tubules. In CKD, initial injury to nephrons causes compensatory hyperfiltration in remaining nephrons, which over time leads to scarring (fibrosis) and nephron loss. This progressive damage reduces overall filtration capacity, leading to accumulation of toxins, electrolyte imbalances (e.g., hyperkalemia), fluid retention, acid-base disturbances, anemia due to reduced erythropoietin production, and secondary hyperparathyroidism impacting bone health."
+    },
+    {
+      "heading": "Treatment and Management of Chronic Kidney Disease",
+      "content": "Management of CKD focuses on slowing progression and preventing complications. Controlling underlying causes like blood sugar in diabetes and blood pressure with ACE inhibitors or ARBs is critical. Dietary modifications include protein restriction in some stages, limiting sodium, potassium, and phosphorus intake. Lifestyle changes such as weight management, smoking cessation, and regular exercise are recommended. Treating anemia, managing bone disease, and vaccination against infections like influenza and pneumococcal pneumonia are also important. In advanced CKD, renal replacement therapies like dialysis or transplantation may be necessary."
+    },
+    {
+      "heading": "Lifestyle and Dietary Considerations in CKD",
+      "content": "A kidney-friendly lifestyle supports disease management. Recommendations include limiting dietary sodium to reduce blood pressure and edema, moderating protein intake to decrease kidney workload, controlling blood sugar levels, maintaining healthy body weight, avoiding smoking and excess alcohol, and regular physical activity to improve cardiovascular health. Close monitoring of electrolyte intake is needed. Guidance from dietitians familiar with CKD is beneficial for personalized nutrition plans."
+    },
+    {
+      "heading": "Complications and Safety Concerns in CKD",
+      "content": "CKD can lead to serious complications including cardiovascular disease, anemia, bone disorders (renal osteodystrophy), electrolyte abnormalities, fluid overload, and increased risk of infections. Safety concerns in CKD include cautious use of medications cleared by the kidneys to avoid toxicity, managing hydration status carefully, and monitoring for signs of worsening kidney function. Avoidance of nephrotoxic agents like NSAIDs and certain antibiotics is important. Patient education on symptom recognition and adherence to follow-up care enhances safety."
+    },
+    {
+      "heading": "Common Misconceptions About Chronic Kidney Disease",
+      "content": "A widespread misconception is that CKD symptoms always appear early—many patients are asymptomatic until late stages. Another myth is that dialysis cures kidney disease; it supports life but does not replace all kidney functions. Some believe CKD only affects older adults; however, it can affect younger individuals, especially with genetic causes. Diet myths include that high protein always worsens CKD, but protein needs vary by disease stage and individual factors. Education addressing these myths improves patient outcomes."
+    },
+    {
+      "heading": "When to Seek Medical Care and Monitoring in CKD",
+      "content": "Regular medical follow-up is crucial in CKD to monitor kidney function, manage complications, and adjust treatments. Patients should seek care if they notice new symptoms such as swelling, decreased urine output, persistent fatigue, or symptoms of fluid overload. Routine laboratory testing including eGFR, urine albumin, electrolytes, hemoglobin, and blood pressure measurements guide clinical decisions. Early referral to nephrology specialists is indicated for advanced CKD or rapidly worsening kidney function."
+    }
+  ],
+  "practical_guidance": [
+    "Regularly monitor blood pressure and blood sugar to reduce CKD progression risk.",
+    "Get screened for kidney function if you have risk factors such as diabetes or hypertension.",
+    "Adopt a kidney-friendly diet with guidance from healthcare professionals.",
+    "Avoid taking over-the-counter medications that may harm kidneys without consulting your provider.",
+    "Stay physically active and maintain a healthy weight to support overall kidney health.",
+    "Report any new symptoms such as swelling or changes in urination to your healthcare provider promptly.",
+    "Follow medication regimens as prescribed, especially for controlling blood pressure and blood sugar.",
+    "Maintain regular follow-up visits with your healthcare team for ongoing evaluation and management."
+  ],
+  "safety_notes": [
+    "Avoid nonsteroidal anti-inflammatory drugs (NSAIDs) unless recommended by a physician, as they can worsen kidney function.",
+    "Inform your healthcare provider about all medications and supplements you are taking to avoid nephrotoxic interactions.",
+    "Report symptoms suggestive of electrolyte imbalances such as muscle weakness or irregular heartbeat promptly.",
+    "Consult a dietitian before making significant dietary changes to ensure balanced nutrition.",
+    "Do not abruptly stop prescribed medications without medical advice, as this may worsen kidney disease or related conditions."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Chronic kidney disease always causes noticeable symptoms early on.",
+      "reality": "CKD often has no symptoms in early stages, making screening important for detection."
+    },
+    {
+      "misconception": "Dialysis cures chronic kidney disease.",
+      "reality": "Dialysis supports kidney function but does not cure CKD or replace all kidney functions."
+    },
+    {
+      "misconception": "Only elderly people get chronic kidney disease.",
+      "reality": "CKD can affect people of all ages, including younger individuals, especially with genetic causes."
+    },
+    {
+      "misconception": "High protein diet is always harmful in CKD.",
+      "reality": "Protein needs vary by stage and individual factors; some patients may require protein moderation, not elimination."
+    }
+  ],
+  "clinical_pearls": [
+    "Monitoring albuminuria (protein in urine) is vital to assess kidney damage and guide treatment.",
+    "Early blood pressure control with ACE inhibitors or ARBs slows CKD progression.",
+    "Not all patients with CKD will require dialysis; many manage well with conservative treatment.",
+    "Patient education on medication safety can prevent nephrotoxic injury.",
+    "Multidisciplinary care involving dietitians, nephrologists, and primary care improves outcomes."
+  ],
+  "key_takeaways": [
+    "Chronic kidney disease is progressive kidney damage with reduced filtering capacity defined by decreased GFR or proteinuria over at least 3 months.",
+    "Diabetes and hypertension are the leading causes of CKD worldwide.",
+    "Early CKD is often asymptomatic; screening in at-risk populations is essential for early detection.",
+    "Management targets underlying causes, blood pressure control, and lifestyle modification to slow progression.",
+    "Dietary changes tailored to disease stage can reduce kidney workload and complications.",
+    "Medication safety is critical to avoid further kidney damage.",
+    "CKD increases risk for cardiovascular disease and requires multidisciplinary management.",
+    "Advanced CKD may require dialysis or transplantation but early management can delay this need."
+  ],
+  "glossary": [
+    {
+      "term": "Chronic Kidney Disease (CKD)",
+      "definition": "A long-term condition where the kidneys gradually lose function over time, leading to reduced ability to filter blood."
+    },
+    {
+      "term": "Glomerular Filtration Rate (GFR)",
+      "definition": "A measure of how much blood the kidneys filter each minute; used to assess kidney function."
+    },
+    {
+      "term": "Proteinuria",
+      "definition": "Presence of excess protein in urine, indicating kidney damage."
+    },
+    {
+      "term": "End-Stage Renal Disease (ESRD)",
+      "definition": "The final stage of kidney failure where dialysis or transplantation is required."
+    },
+    {
+      "term": "Nephrotoxic",
+      "definition": "Substances or medications that can harm the kidneys."
+    },
+    {
+      "term": "Albuminuria",
+      "definition": "Presence of albumin, a type of protein, in the urine; a marker of kidney damage."
+    },
+    {
+      "term": "ACE inhibitors (Angiotensin-Converting Enzyme inhibitors)",
+      "definition": "Medications used to treat high blood pressure and protect kidney function in CKD."
+    },
+    {
+      "term": "Dialysis",
+      "definition": "A treatment that artificially removes waste products and excess fluid from the blood when kidneys fail."
+    }
+  ],
+  "related_modules": [
+    "COND-045-Diabetes",
+    "COND-089-Hypertension",
+    "COND-134-Polycystic-Kidney-Disease"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-CKD-001",
+      "title": "Kidney Anatomy and Function",
+      "illustration_type": "Diagram",
+      "description": "Diagram showing the location and structure of kidneys highlighting nephrons where filtration occurs.",
+      "alt_text": "Anatomical diagram of kidneys with nephrons labeled."
+    },
+    {
+      "illustration_id": "ILL-CKD-002",
+      "title": "Stages of Chronic Kidney Disease",
+      "illustration_type": "Chart",
+      "description": "Chart illustrating CKD stages 1 to 5 based on glomerular filtration rate (GFR) and typical symptoms.",
+      "alt_text": "Bar chart showing CKD stages and corresponding GFR ranges."
+    },
+    {
+      "illustration_id": "ILL-CKD-003",
+      "title": "Common Causes of CKD",
+      "illustration_type": "Infographic",
+      "description": "Infographic listing main causes of CKD such as diabetes, hypertension, infections, and genetic diseases.",
+      "alt_text": "Visual infographic depicting causes of chronic kidney disease."
+    },
+    {
+      "illustration_id": "ILL-CKD-004",
+      "title": "Kidney-Friendly Dietary Recommendations",
+      "illustration_type": "Infographic",
+      "description": "Visual guide depicting foods to limit and foods recommended for CKD patients.",
+      "alt_text": "Diet infographic showing do's and don'ts for kidney-friendly eating."
+    }
+  ],
+  "references": [
+    {
+      "title": "Chronic Kidney Disease: Global Dimension and Perspectives",
+      "organization_or_authors": "Levin A, Coresh J",
+      "year": "2017",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "KDIGO 2012 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease",
+      "organization_or_authors": "Kidney Disease: Improving Global Outcomes (KDIGO)",
+      "year": "2013",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "National Kidney Foundation: KDOQI Clinical Practice Guidelines for Chronic Kidney Disease: Evaluation, Classification, and Stratification",
+      "organization_or_authors": "National Kidney Foundation",
+      "year": "2002",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Dietary Approaches to Manage Chronic Kidney Disease Progression",
+      "organization_or_authors": "Cupisti A, Kovesdy CP",
+      "year": "2019",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and observational studies; ongoing research on novel therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

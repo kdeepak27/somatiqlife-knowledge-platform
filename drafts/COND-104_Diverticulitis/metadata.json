@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-104",
+  "title": "Diverticulitis",
+  "subtitle": "What diverticulitis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Awareness",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public"
+  ],
+  "reading_level": "8th grade",
+  "keywords": [
+    "diverticulitis",
+    "diverticulosis",
+    "colon",
+    "bowel infection",
+    "digestive health",
+    "abdominal pain",
+    "bowel disease",
+    "gastroenterology"
+  ],
+  "related_modules": [
+    "COND-101-Diverticulosis",
+    "COND-110-Irritable-Bowel-Syndrome",
+    "COND-115-Colorectal-Cancer",
+    "COND-123-Inflammatory-Bowel-Disease"
+  ],
+  "evidence_strength": "Established and Moderate Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

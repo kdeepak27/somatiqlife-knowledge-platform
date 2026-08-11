@@ -1,0 +1,161 @@
+# COND-137 - Prostatitis
+## What prostatitis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.
+
+**Domain:** Medical Conditions
+**Category:** Kidney and Urinary
+**SOM stages:** Diagnosis, Management, Patient Education
+**Audience:** Consumers, Patients, Caregivers
+**Reading level:** Medium (8th-10th grade)
+**Keywords:** prostatitis, prostate inflammation, urinary symptoms, prostate infection, chronic pelvic pain syndrome, antibiotics, urinary tract infection, prostate gland
+
+## AI Retrieval Summary
+Prostatitis is a medical condition characterized by inflammation of the prostate gland, a small walnut-sized organ situated below the bladder in men. It commonly results in urinary symptoms such as pain, burning during urination, frequent urination, and pelvic discomfort. Prostatitis has several subtypes, including acute bacterial prostatitis, chronic bacterial prostatitis, chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS), and asymptomatic inflammatory prostatitis. The mechanisms vary but often include bacterial infection, immune response, or unknown causes leading to inflammation. Synonyms include 'prostate inflammation' and 'chronic pelvic pain syndrome' for some types. Prostatitis affects men of all ages but is most common in younger and middle-aged adults. Diagnosis is typically clinical, supported by urinalysis, prostate massage fluid analysis, and sometimes imaging. Treatment depends on cause and type: bacterial infections require antibiotics, while nonbacterial prostatitis may respond to anti-inflammatory medications, alpha-blockers, or lifestyle modifications. Lifestyle considerations like avoiding irritants, managing stress, and dietary changes can improve symptoms. Understanding the limitations is important; for example, some forms of prostatitis have unclear etiology, making treatment challenging. Safety considerations include correct use of antibiotics to prevent resistance and monitoring for complications such as urinary retention. This knowledge module aims to provide comprehensive, evidence-informed education to empower consumers and aid discussions with healthcare providers.
+
+## Customer Questions Answered
+- What is prostatitis and how does it affect men?
+- What causes prostatitis?
+- What are the risk factors for developing prostatitis?
+- What symptoms indicate I might have prostatitis?
+- How is prostatitis diagnosed by doctors?
+- What treatment options are available for prostatitis?
+- Can prostatitis become a chronic condition?
+- Are there lifestyle changes that help manage prostatitis?
+- Is prostatitis contagious or related to sexually transmitted infections?
+- How long does it take to recover from prostatitis?
+- What complications can prostatitis cause if untreated?
+- Are antibiotics always needed for prostatitis?
+
+## Learning Objectives
+- Define prostatitis and describe the prostate gland's role.
+- Identify the causes and risk factors for prostatitis.
+- Recognize the common symptoms and how they impact daily life.
+- Explain the diagnostic methods used for prostatitis.
+- Understand treatment strategies for different prostatitis types.
+- Discuss lifestyle modifications that can alleviate symptoms.
+- Clarify common misconceptions about prostatitis and its transmission.
+- Highlight safety considerations in treatment and management.
+
+## Definition
+Prostatitis refers to inflammation of the prostate gland, which may cause urinary symptoms, pelvic pain, or be asymptomatic. It encompasses several clinical syndromes including bacterial infections and chronic pelvic pain conditions.
+
+## Why This Matters
+Prostatitis is a common condition that affects many men and can significantly impact quality of life. Understanding its causes, symptoms, diagnosis, and management empowers men to seek timely care, avoid complications, and improve overall health.
+
+## Definition and Types of Prostatitis
+Prostatitis is inflammation of the prostate gland. The main types include: Acute bacterial prostatitis (sudden bacterial infection), Chronic bacterial prostatitis (recurrent bacterial infection), Chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS; nonbacterial inflammation or pain), and Asymptomatic inflammatory prostatitis (inflammation without symptoms). Each type varies in cause, symptoms, and treatment.
+
+## Anatomy and Physiology of the Prostate Gland
+The prostate is a walnut-sized gland located below the bladder and in front of the rectum, surrounding the urethra. It produces seminal fluid important for sperm transport. Healthy prostate function is crucial for urinary control and reproductive health. Inflammation affects prostate tissue and can disrupt urinary and pelvic functions.
+
+## Causes and Mechanisms of Prostatitis
+Causes vary by type. Acute and chronic bacterial prostatitis are caused by bacterial infection, often from urinary tract pathogens like E. coli. CP/CPPS may result from immune dysregulation, nerve inflammation, or pelvic muscle dysfunction, though exact causes are unclear. Inflammation triggers pain and urinary symptoms due to swelling and irritation of prostate tissue and surrounding nerves.
+
+## Risk Factors for Developing Prostatitis
+Risk factors include urinary tract infections, recent catheterization or prostate biopsy, unprotected sexual activity, pelvic trauma, stress, and immune system disorders. Certain lifestyle factors like prolonged sitting or cycling may aggravate symptoms. Age-related prostate changes can also influence susceptibility.
+
+## Common Symptoms and Signs of Prostatitis
+Symptoms vary but often include pelvic or perineal pain, burning or painful urination (dysuria), frequent urination, urgency, difficulty urinating, painful ejaculation, and sometimes fever. Symptoms depend on type; acute bacterial prostatitis typically has fever and chills, while CP/CPPS causes chronic pelvic pain without infection signs.
+
+## Evaluating and Diagnosing Prostatitis
+Diagnosis involves clinical history, physical examination including digital rectal exam, urine tests, and sometimes prostate fluid analysis obtained by massage. Imaging or blood tests may be used to exclude other conditions. Diagnosis differentiates between bacterial and nonbacterial types to guide treatment.
+
+## Treatment Approaches for Prostatitis
+Acute bacterial prostatitis requires prompt antibiotic therapy tailored to the bacteria identified. Chronic bacterial prostatitis also needs prolonged antibiotics. CP/CPPS treatment targets symptom relief via anti-inflammatory drugs, alpha-blockers, physical therapy, and sometimes psychological support. Treatment is individualized based on severity and subtype.
+
+## Lifestyle and Home Management Strategies
+Lifestyle modifications that may improve prostatitis symptoms include regular exercise, avoiding bladder irritants like caffeine and spicy foods, managing stress, warm baths, and pelvic floor exercises. Hydration and timed voiding can help reduce urinary symptoms. These strategies complement medical treatments.
+
+## Potential Complications and When to Seek Help
+Untreated acute bacterial prostatitis can lead to abscess formation or systemic infection. Chronic forms can cause persistent pain and urinary dysfunction. Men with severe symptoms like fever, inability to urinate, or blood in urine should seek medical care promptly to avoid complications.
+
+## Common Misconceptions about Prostatitis
+Prostatitis is sometimes mistakenly believed to be always caused by sexually transmitted infections or to be contagious; however, most nonbacterial prostatitis is not infectious. Also, prostatitis is distinct from prostate cancer though some symptoms overlap. Understanding these prevents stigma and delays in care.
+
+## Safety Considerations in Treatment
+Proper use of antibiotics is essential to prevent resistance. Patients should complete prescribed courses and report side effects. Some treatments like prostate massage are not recommended during acute infection. Awareness of drug interactions and allergy history is important. Consultation with healthcare providers ensures safe management.
+
+## Practical Guidance
+- Seek medical evaluation for pelvic, urinary, or sexual symptoms persisting more than a few days.
+- Follow prescribed antibiotic regimens fully if bacterial prostatitis is diagnosed.
+- Incorporate lifestyle changes such as avoiding irritant foods and managing stress to complement treatment.
+- Use warm baths and pelvic exercises to relieve discomfort in chronic prostatitis.
+- Avoid self-medicating or using unproven therapies without consulting a healthcare professional.
+
+## Safety Notes
+- Do not attempt prostate massage during acute infection as it may worsen symptoms.
+- Complete antibiotics as prescribed; do not stop early even if symptoms improve.
+- Report any allergic reactions or side effects to medications promptly.
+- Avoid using non-prescribed medications or supplements that claim to cure prostatitis without evidence.
+
+## Common Misconceptions
+### Prostatitis is always caused by a sexually transmitted infection.
+**Reality:** Most prostatitis cases, especially chronic nonbacterial types, are not caused by sexually transmitted infections.
+
+### Prostatitis is contagious and can be passed to sexual partners.
+**Reality:** Prostatitis itself is not contagious; bacterial infections causing prostatitis are typically urinary tract infections, not sexually transmitted.
+
+### Prostatitis and prostate cancer are the same.
+**Reality:** Prostatitis is inflammation of the prostate, while prostate cancer is uncontrolled growth of malignant cells; they are different conditions.
+
+## Clinical Pearls
+- Acute bacterial prostatitis presents with systemic symptoms like fever, requiring urgent antibiotics.
+- CP/CPPS is more common and may persist for months with fluctuating symptoms.
+- Digital rectal exam can reveal a tender and swollen prostate in acute prostatitis.
+- Urine culture helps identify bacteria for targeted antibiotic therapy.
+- Nonbacterial prostatitis requires a multidisciplinary approach including physical therapy and pain management.
+
+## Key Takeaways
+- Prostatitis is inflammation of the prostate gland with multiple subtypes.
+- Bacterial prostatitis requires antibiotic treatment; chronic pelvic pain syndrome requires symptom management.
+- Symptoms include pelvic pain, urinary difficulties, and sexual dysfunction.
+- Diagnosis involves clinical assessment, urine tests, and prostate fluid analysis.
+- Lifestyle modifications can reduce symptoms and improve quality of life.
+- Misconceptions about contagion and causes can delay appropriate care.
+- Safety in treatment is essential to avoid antibiotic resistance and complications.
+- Early evaluation and tailored therapy improve outcomes and prevent chronic issues.
+
+## Glossary
+- **Prostate gland:** A male reproductive organ that produces seminal fluid to nourish and transport sperm.
+- **Prostatitis:** Inflammation of the prostate gland which may cause urinary and pelvic symptoms.
+- **Chronic pelvic pain syndrome (CP/CPPS):** A form of prostatitis characterized by chronic pelvic pain without evidence of bacterial infection.
+- **Dysuria:** Painful or difficult urination, a common symptom of prostatitis.
+- **Alpha-blockers:** Medications that relax muscle fibers in the prostate and bladder neck to improve urinary symptoms.
+- **Digital rectal exam (DRE):** Physical exam where a healthcare provider inserts a finger into the rectum to assess the prostate.
+- **Antibiotics:** Drugs used to treat bacterial infections including bacterial prostatitis.
+- **Urinalysis:** Laboratory analysis of urine used to detect infection or other abnormalities.
+
+## Related Modules
+- COND-140 (Urinary Tract Infection)
+- COND-145 (Benign Prostatic Hyperplasia)
+- COND-150 (Chronic Pelvic Pain)
+
+## Illustration Specifications
+### ILL-001 - Anatomy of the Male Prostate Gland
+**Type:** Diagram
+
+A labeled diagram showing the location of the prostate gland relative to the bladder, urethra, and rectum in the male pelvis.
+
+**Alt text:** Diagram illustrating the prostate gland position under the bladder surrounding the urethra.
+
+### ILL-002 - Types of Prostatitis
+**Type:** Flowchart
+
+A flowchart categorizing the four main types of prostatitis with brief descriptions and associated symptoms.
+
+**Alt text:** Flowchart depicting acute bacterial, chronic bacterial, CP/CPPS, and asymptomatic prostatitis types.
+
+### ILL-003 - Common Symptoms of Prostatitis
+**Type:** Infographic
+
+Visual infographic summarizing key symptoms such as pelvic pain, urinary frequency, and painful ejaculation.
+
+**Alt text:** Infographic highlighting prostatitis symptoms with icons representing urinary and pelvic discomfort.
+
+## References
+- Clinical Practice Guideline for the Management of Prostatitis | American Urological Association | 2019 | AUA Guideline 2019 | Unverified
+- Overview of Prostatitis | MedlinePlus, U.S. National Library of Medicine | 2023 | NLM MedlinePlus 2023 | Unverified
+- Chronic Prostatitis: Diagnosis and Treatment | Mayo Clinic Proceedings | 2020 | Mayo Clin Proc 2020 | Unverified
+
+**Evidence strength:** Established and Moderate; evidence strong for bacterial prostatitis treatment and diagnosis, moderate for CP/CPPS mechanisms and interventions.
+**Version:** 1.0
+**Review status:** AI draft - scientific, clinical, and editorial review required

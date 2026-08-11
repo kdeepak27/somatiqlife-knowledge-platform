@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-111",
+  "title": "Viral Hepatitis",
+  "subtitle": "What viral hepatitis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Susceptibility",
+    "Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "viral hepatitis",
+    "hepatitis A",
+    "hepatitis B",
+    "hepatitis C",
+    "liver inflammation",
+    "jaundice",
+    "liver disease",
+    "antiviral therapy",
+    "liver function tests"
+  ],
+  "related_modules": [
+    "COND-110",
+    "COND-112"
+  ],
+  "evidence_strength": "Established evidence based on systematic reviews, clinical guidelines, and epidemiological data.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-192",
+  "title": "Mild Cognitive Impairment",
+  "subtitle": "What mild cognitive impairment is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Neurologic and Cognitive",
+  "som_stages": [
+    "Assessment",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "General Audience",
+  "keywords": [
+    "Mild Cognitive Impairment",
+    "MCI",
+    "Cognitive Decline",
+    "Memory Loss",
+    "Neurology",
+    "Alzheimer's Disease",
+    "Dementia Risk",
+    "Cognitive Evaluation",
+    "Lifestyle",
+    "Brain Health"
+  ],
+  "related_modules": [
+    "COND-201",
+    "COND-220",
+    "COND-175"
+  ],
+  "evidence_strength": "Established evidence for definition and clinical features; moderate evidence for lifestyle impact; emerging evidence for biomarkers and disease-modifying treatments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

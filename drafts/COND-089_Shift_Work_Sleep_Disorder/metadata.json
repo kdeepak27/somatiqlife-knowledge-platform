@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-089",
+  "title": "Shift Work Sleep Disorder",
+  "subtitle": "What shift work sleep disorder is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Recognition",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "Shift Work Sleep Disorder",
+    "Circadian Rhythm",
+    "Sleep Disorders",
+    "Sleep Deprivation",
+    "Sleep Hygiene",
+    "Shift Work",
+    "Sleep-Wake Cycle"
+  ],
+  "related_modules": [
+    "COND-034: Insomnia",
+    "COND-046: Circadian Rhythm Sleep-Wake Disorders",
+    "COND-023: Obstructive Sleep Apnea"
+  ],
+  "evidence_strength": "Established evidence for circadian misalignment as cause; moderate evidence for pharmacologic interventions; emerging evidence for chronotherapy; limitations due to population variability and research heterogeneity.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

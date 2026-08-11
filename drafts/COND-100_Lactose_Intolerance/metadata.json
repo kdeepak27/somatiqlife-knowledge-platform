@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-100",
+  "title": "Lactose Intolerance",
+  "subtitle": "What lactose intolerance is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Pre-Diagnosis",
+    "Diagnosis",
+    "Management",
+    "Follow-Up"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers",
+    "Nutritionists"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "Lactose intolerance",
+    "Lactase deficiency",
+    "Digestive enzyme",
+    "Milk sugar",
+    "Symptoms",
+    "Diagnosis",
+    "Management",
+    "Dietary adjustments"
+  ],
+  "related_modules": [
+    "COND-101",
+    "COND-102"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and epidemiological studies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-114",
+  "title": "Colon Polyps",
+  "subtitle": "What colon polyps is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Treatment",
+    "Follow-up"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Primary Care Providers",
+    "Gastroenterologists"
+  ],
+  "reading_level": "Intermediate (Grade 9-12)",
+  "keywords": [
+    "colon polyps",
+    "colorectal polyps",
+    "precancerous lesions",
+    "colonoscopy",
+    "polypectomy",
+    "colorectal cancer risk"
+  ],
+  "related_modules": [
+    "COND-098",
+    "COND-102",
+    "COND-109"
+  ],
+  "evidence_strength": "Established evidence with some areas of moderate and emerging evidence under investigation",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

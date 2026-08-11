@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-127",
+  "title": "Urinary Incontinence",
+  "subtitle": "What urinary incontinence is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "Awareness",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "High School",
+  "keywords": [
+    "urinary incontinence",
+    "bladder control",
+    "overactive bladder",
+    "stress incontinence",
+    "urge incontinence",
+    "pelvic floor",
+    "urination",
+    "continence"
+  ],
+  "related_modules": [
+    "COND-105",
+    "COND-112",
+    "COND-134"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

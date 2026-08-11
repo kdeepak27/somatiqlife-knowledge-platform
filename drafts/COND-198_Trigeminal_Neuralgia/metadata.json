@@ -1,0 +1,40 @@
+{
+  "module_id": "COND-198",
+  "title": "Trigeminal Neuralgia",
+  "subtitle": "What trigeminal neuralgia is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Neurologic and Cognitive",
+  "som_stages": [
+    "Evaluation",
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Clinicians",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate (Health Professional and Lay Combined)",
+  "keywords": [
+    "Trigeminal Neuralgia",
+    "TN",
+    "Facial Pain",
+    "Neuropathic Pain",
+    "Trigeminal Nerve",
+    "Neuralgia",
+    "Management",
+    "Diagnosis",
+    "Risk Factors",
+    "Treatment"
+  ],
+  "related_modules": [
+    "COND-102",
+    "COND-353",
+    "COND-497"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and medical management; moderate and emerging evidence for novel and surgical interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

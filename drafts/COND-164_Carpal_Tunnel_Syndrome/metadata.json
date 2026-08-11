@@ -1,0 +1,35 @@
+{
+  "module_id": "COND-164",
+  "title": "Carpal Tunnel Syndrome",
+  "subtitle": "What carpal tunnel syndrome is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Musculoskeletal and Pain",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Carpal Tunnel Syndrome",
+    "CTS",
+    "Median Nerve",
+    "Wrist",
+    "Nerve Compression",
+    "Pain",
+    "Tingling",
+    "Diagnosis",
+    "Treatment",
+    "Ergonomics"
+  ],
+  "related_modules": [
+    "COND-150",
+    "COND-155"
+  ],
+  "evidence_strength": "Established Evidence: Diagnosis, risk factors, and conservative management of CTS are strongly supported by clinical guidelines and systematic reviews. Surgical treatment efficacy is well established but individualized. Emerging Evidence: Ergonomic interventions show promise but require further high-quality studies. Uncertain Evidence: Long-term outcomes of some treatments vary based on patient factors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

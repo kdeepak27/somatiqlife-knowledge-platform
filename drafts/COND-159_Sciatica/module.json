@@ -1,0 +1,250 @@
+{
+  "module_id": "COND-159",
+  "title": "Sciatica",
+  "subtitle": "What sciatica is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Musculoskeletal and Pain",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "General Public",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate — suitable for educated consumers and patient educators",
+  "keywords": [
+    "Sciatica",
+    "Lower back pain",
+    "Radiculopathy",
+    "Sciatic nerve",
+    "Leg pain",
+    "Herniated disc",
+    "Spinal stenosis",
+    "Nerve compression",
+    "Physical therapy",
+    "Pain management"
+  ],
+  "customer_questions": [
+    "What is sciatica and how does it develop?",
+    "What are the most common causes of sciatica?",
+    "Which symptoms indicate I might have sciatica?",
+    "How is sciatica diagnosed by doctors?",
+    "What treatment options are available for sciatica?",
+    "Can lifestyle changes help manage or prevent sciatica?",
+    "What are the risk factors that increase the chance of sciatica?",
+    "Is surgery always needed for sciatica?",
+    "How long does sciatica usually last?",
+    "Are there any exercises that help relieve sciatica pain?",
+    "Can sciatica cause permanent nerve damage?",
+    "What should I avoid doing if I have sciatica?"
+  ],
+  "retrieval_summary": "Sciatica is a medical condition characterized by pain that radiates along the sciatic nerve, which extends from the lower back through the hips and down each leg. This pain often results from irritation or compression of the nerve roots forming the sciatic nerve, commonly due to herniated discs, spinal stenosis, or degenerative spine conditions. Symptoms typically include sharp, burning leg pain, numbness, tingling, or weakness, often affecting one side of the body. Understanding the underlying mechanisms highlights that sciatica is a form of radiculopathy caused by nerve root inflammation or mechanical pressure. Practical relevance includes its high prevalence as a cause of lower back and leg pain, impacting mobility and quality of life. Synonyms include lumbar radiculopathy and sciatic nerve pain, though 'sciatica' specifically refers to the symptom complex rather than a specific diagnosis. Limitations in diagnosis exist because similar symptoms may arise from peripheral neuropathies or vascular issues, so clinical evaluation is essential. Safety considerations emphasize that while sciatica often improves with conservative measures, severe cases with progressive weakness or bladder/bowel dysfunction require immediate medical attention. This knowledge module provides comprehensive information on causes, symptoms, evaluation, management, lifestyle modifications, and safety, empowering informed decisions and communication with healthcare providers.",
+  "learning_objectives": [
+    "Define sciatica and understand its clinical presentation.",
+    "Identify common causes and risk factors for sciatica.",
+    "Describe the typical symptoms and signs of sciatica.",
+    "Understand diagnostic methods used to evaluate sciatica.",
+    "Explore management strategies including pharmacologic and non-pharmacologic treatments.",
+    "Recognize lifestyle factors that influence sciatica prognosis.",
+    "Discuss common misconceptions related to sciatica.",
+    "Understand safety considerations and when to seek urgent care."
+  ],
+  "definition": "Sciatica is a symptom characterized by pain that radiates along the path of the sciatic nerve, typically affecting the lower back, buttock, and one leg. It is caused by irritation or compression of one or more of the lumbar or sacral nerve roots that form the sciatic nerve.",
+  "why_this_matters": "Sciatica is a common cause of lower back and leg pain that can significantly impair daily activities, mobility, and quality of life. Understanding its causes, symptoms, and appropriate management helps individuals take informed steps towards relief and prevents unnecessary fear or misuse of treatments. Recognizing when sciatica signals a medical emergency is crucial for safety.",
+  "sections": [
+    {
+      "heading": "Definition and Overview of Sciatica",
+      "content": "Sciatica refers to pain that originates from irritation or compression of the sciatic nerve or its roots in the lower spine. The sciatic nerve is the largest nerve in the human body, formed by nerve roots from L4, L5, S1, S2, and S3 spinal segments. Pain usually radiates from the lower back or buttock down the back of the thigh and leg to the foot. Sciatica is a symptom, not a diagnosis, often indicating underlying spine or nerve root problems such as herniated lumbar discs or spinal stenosis. Alternate terms include lumbar radiculopathy and sciatic nerve pain."
+    },
+    {
+      "heading": "Anatomy and Physiology of the Sciatic Nerve",
+      "content": "The sciatic nerve is formed by the union of nerve roots emanating from the lower lumbar and sacral spine (L4-S3). It passes through the pelvis and travels down the posterior aspect of the thigh before branching into the tibial and common peroneal nerves near the knee. This nerve supplies motor and sensory fibers to most of the lower leg. Irritation or compression of its nerve roots leads to symptoms including pain, numbness, tingling (paresthesia), and muscle weakness in the regions served by the nerve."
+    },
+    {
+      "heading": "Common Causes of Sciatica",
+      "content": "Most cases of sciatica arise from mechanical compression or inflammation of lumbar or sacral nerve roots. Common causes include herniated or bulging intervertebral discs pressing on nerve roots, lumbar spinal stenosis (narrowing of spinal canal), spondylolisthesis (vertebra slipping forward), piriformis muscle syndrome (compression by pelvic muscle), or degenerative disc disease. Less common causes include tumors, infections, or trauma affecting the nerve."
+    },
+    {
+      "heading": "Risk Factors for Developing Sciatica",
+      "content": "Certain factors increase the likelihood of developing sciatica. These include advancing age (due to degenerative spinal changes), occupations involving heavy lifting or prolonged sitting, obesity (which increases mechanical stress on the spine), sedentary lifestyle, smoking (which impairs disc health), diabetes, and poor posture. Understanding risk factors helps guide prevention strategies."
+    },
+    {
+      "heading": "Symptoms and Clinical Presentation",
+      "content": "Typical symptoms of sciatica include sharp, shooting, or burning pain radiating along the path of the sciatic nerve, usually in one leg. Patients often report numbness, tingling, or muscle weakness in the leg or foot. Symptoms can worsen with sitting, coughing, sneezing, or bending forward. Signs include positive straight leg raise test and decreased reflexes or strength in affected nerve root areas. Pain intensity and distribution can vary widely."
+    },
+    {
+      "heading": "Diagnostic Evaluation and Testing",
+      "content": "Diagnosis of sciatica relies primarily on clinical history and physical examination, focusing on neurological function and pain characteristics. Imaging studies like magnetic resonance imaging (MRI) or computed tomography (CT) scans can identify herniated discs, spinal stenosis, or other anatomical causes. Electromyography (EMG) and nerve conduction studies may be used in complex cases to assess nerve function. It is important to rule out other causes such as vascular claudication or peripheral neuropathy."
+    },
+    {
+      "heading": "Conservative Management of Sciatica",
+      "content": "Most sciatica cases improve with conservative treatment. This includes pain relief using nonsteroidal anti-inflammatory drugs (NSAIDs), physical therapy focusing on core strengthening and flexibility, activity modification, and sometimes short courses of oral corticosteroids. Heat or cold therapy and transcutaneous electrical nerve stimulation (TENS) may provide symptom relief. Patient education on posture and ergonomics is essential. Evidence supports that many patients recover within weeks to months without surgery."
+    },
+    {
+      "heading": "Interventional and Surgical Treatments",
+      "content": "When conservative measures fail or symptoms worsen (e.g., progressive weakness, loss of bladder or bowel control), interventional approaches may be considered. These include epidural steroid injections to reduce nerve root inflammation or surgical options such as discectomy or laminectomy to relieve nerve compression. Surgery is typically reserved for severe or persistent symptoms and is generally effective in selected patients. Risks and benefits should be carefully discussed with healthcare providers."
+    },
+    {
+      "heading": "Lifestyle and Self-care Considerations",
+      "content": "Maintaining a healthy lifestyle helps manage and prevent sciatica recurrence. Regular low-impact exercise such as walking, swimming, or yoga improves spine flexibility and muscle strength. Avoiding prolonged sitting or heavy lifting, practicing good posture, and maintaining a healthy weight reduce strain on the lower back. Smoking cessation is recommended as it negatively affects spinal disc health. Educating patients about ergonomics at work and home is beneficial."
+    },
+    {
+      "heading": "Safety Considerations and When to Seek Emergency Care",
+      "content": "While sciatica is often benign, certain symptoms require urgent evaluation: sudden onset of severe weakness, numbness in the groin or genital area (saddle anesthesia), loss of bladder or bowel control, or worsening pain unrelieved by rest. These may indicate cauda equina syndrome, a medical emergency requiring immediate intervention to prevent permanent neurological damage. Patients should be aware of these red flags and seek prompt medical care if they arise."
+    },
+    {
+      "heading": "Common Misconceptions about Sciatica",
+      "content": "A frequent misconception is that sciatica always requires surgery; however, most cases resolve with conservative care. Another myth is that bed rest is the best treatment, while evidence supports staying active within pain limits. Some believe sciatica pain always correlates with visible changes on imaging, but asymptomatic individuals may have similar findings. Understanding these helps reduce anxiety and promotes evidence-based care."
+    }
+  ],
+  "practical_guidance": [
+    "If you experience symptoms consistent with sciatica, consult a healthcare provider for accurate diagnosis and management guidance.",
+    "Engage in regular, low-impact exercise and avoid prolonged inactivity to support spine health.",
+    "Use over-the-counter pain relievers as directed to manage mild symptoms, but discuss persistent or worsening pain with your doctor.",
+    "Be mindful of posture and ergonomics during daily activities and work to reduce pressure on your lower back.",
+    "Seek urgent medical attention if you experience severe leg weakness, numbness in the groin area, or changes in bladder or bowel control."
+  ],
+  "safety_notes": [
+    "Avoid heavy lifting and twisting movements when experiencing active sciatica symptoms to prevent exacerbation.",
+    "Do not rely solely on imaging findings for self-diagnosis, as not all abnormalities cause symptoms.",
+    "Use medications as directed and be aware of possible side effects.",
+    "If you have diabetes or other chronic conditions, inform your healthcare provider as they may influence management.",
+    "Recognize red flag symptoms that necessitate immediate medical evaluation."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Sciatica always requires surgery to heal.",
+      "reality": "Most sciatica cases improve with conservative treatments such as physical therapy and medications without the need for surgery."
+    },
+    {
+      "misconception": "Bed rest is the best treatment for sciatica pain.",
+      "reality": "Prolonged bed rest can worsen symptoms; maintaining appropriate activity helps recovery."
+    },
+    {
+      "misconception": "All lower back pain radiating to the leg is sciatica.",
+      "reality": "Similar symptoms can be caused by other conditions such as peripheral neuropathy or vascular diseases."
+    }
+  ],
+  "clinical_pearls": [
+    "Evaluate neurological symptoms thoroughly to differentiate sciatica from other causes of leg pain.",
+    "Early conservative treatment often leads to symptom improvement within weeks.",
+    "Educate patients on posture and workplace ergonomics to help prevent recurrence.",
+    "Stay alert for red flag symptoms indicating serious nerve impairment requiring urgent care."
+  ],
+  "key_takeaways": [
+    "Sciatica is a symptom involving pain along the sciatic nerve pathway caused by nerve root irritation or compression.",
+    "Common causes include herniated discs and spinal stenosis affecting lumbar spinal nerves.",
+    "Symptoms typically include leg pain, numbness, tingling, and sometimes weakness.",
+    "Diagnosis primarily relies on clinical evaluation supported by imaging when needed.",
+    "Most cases improve with conservative management such as physical therapy and NSAIDs.",
+    "Surgery is reserved for severe or progressive cases not responding to conservative care.",
+    "Lifestyle modifications, including exercise and ergonomic adjustments, can help manage and prevent sciatica.",
+    "Urgent medical attention is necessary for signs of cauda equina syndrome or severe neurological deficits."
+  ],
+  "glossary": [
+    {
+      "term": "Sciatica",
+      "definition": "Pain along the sciatic nerve pathway caused by nerve root compression or irritation, often producing leg pain and neurological symptoms."
+    },
+    {
+      "term": "Sciatic nerve",
+      "definition": "The largest nerve in the body, originating from the lower spine and running down the back of the leg; controls muscles and sensation."
+    },
+    {
+      "term": "Radiculopathy",
+      "definition": "A condition involving nerve root irritation or compression, causing pain, weakness, or numbness along a nerve's distribution."
+    },
+    {
+      "term": "Herniated disc",
+      "definition": "A condition where the soft central part of an intervertebral disc protrudes through its outer layer, potentially compressing nerves."
+    },
+    {
+      "term": "Spinal stenosis",
+      "definition": "Narrowing of the spinal canal that can compress the spinal cord or nerve roots."
+    },
+    {
+      "term": "Piriformis syndrome",
+      "definition": "Compression or irritation of the sciatic nerve by the piriformis muscle in the buttock, causing sciatica-like pain."
+    },
+    {
+      "term": "Paresthesia",
+      "definition": "Abnormal sensations such as tingling, numbness, or pins and needles."
+    },
+    {
+      "term": "Epidural steroid injection",
+      "definition": "An injection of corticosteroids into the epidural space surrounding spinal nerves to reduce inflammation and pain."
+    }
+  ],
+  "related_modules": [
+    "COND-045",
+    "COND-112",
+    "COND-201"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILLUS-159-1",
+      "title": "Anatomy of the Sciatic Nerve",
+      "illustration_type": "Diagram",
+      "description": "A detailed anatomical diagram showing the sciatic nerve's origin from the lumbar and sacral spinal nerve roots, its course through the pelvis and down the leg, and areas of innervation.",
+      "alt_text": "Diagram of the lower spine and leg highlighting the sciatic nerve pathway."
+    },
+    {
+      "illustration_id": "ILLUS-159-2",
+      "title": "Common Causes of Sciatica",
+      "illustration_type": "Flowchart",
+      "description": "A flowchart showing the typical causes of sciatica including herniated disc, spinal stenosis, spondylolisthesis, and piriformis syndrome.",
+      "alt_text": "Flowchart illustrating causes of sciatic nerve compression."
+    },
+    {
+      "illustration_id": "ILLUS-159-3",
+      "title": "Symptoms Distribution in Sciatica",
+      "illustration_type": "Map",
+      "description": "An infographic showing typical areas of pain, numbness, and weakness along the leg corresponding to affected lumbar nerve roots.",
+      "alt_text": "Infographic mapping sciatica symptoms on the lower limb."
+    },
+    {
+      "illustration_id": "ILLUS-159-4",
+      "title": "Conservative Treatment Approaches",
+      "illustration_type": "Infographic",
+      "description": "Visual guide representing conservative management strategies such as physical therapy, medications, exercises, and ergonomic advice.",
+      "alt_text": "Illustration showing methods to manage sciatica without surgery."
+    }
+  ],
+  "references": [
+    {
+      "title": "Sciatica: Diagnostic and Treatment Strategies",
+      "organization_or_authors": "American Academy of Orthopaedic Surgeons",
+      "year": "2022",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Low Back Pain and Sciatica: A Review",
+      "organization_or_authors": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "year": "2021",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Management of Sciatica: Evidence-Based Guidelines",
+      "organization_or_authors": "Cochrane Collaboration",
+      "year": "2023",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Physical Therapy for Sciatica",
+      "organization_or_authors": "American Physical Therapy Association",
+      "year": "2020",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence for typical causes, symptoms, and conservative management; moderate evidence supporting interventional treatments; emerging evidence regarding optimal exercise protocols.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-067",
+  "title": "COVID-19",
+  "subtitle": "What covid-19 is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Assessment",
+    "Diagnosis",
+    "Treatment",
+    "Prevention"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Healthcare Students",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "8th Grade",
+  "keywords": [
+    "COVID-19",
+    "SARS-CoV-2",
+    "Coronavirus",
+    "Pandemic",
+    "Respiratory Infection",
+    "Symptoms",
+    "Vaccination",
+    "Long COVID"
+  ],
+  "related_modules": [
+    "COND-068",
+    "COND-070"
+  ],
+  "evidence_strength": "Established evidence with ongoing updates as new data emerge",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

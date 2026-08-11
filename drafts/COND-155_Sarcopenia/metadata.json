@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-155",
+  "title": "Sarcopenia",
+  "subtitle": "What sarcopenia is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Musculoskeletal and Pain",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "High School to Adult",
+  "keywords": [
+    "sarcopenia",
+    "muscle loss",
+    "aging",
+    "muscle weakness",
+    "fall risk",
+    "muscle mass",
+    "exercise",
+    "nutrition",
+    "physical therapy"
+  ],
+  "related_modules": [
+    "COND-110",
+    "COND-143",
+    "COND-162"
+  ],
+  "evidence_strength": "Established evidence for exercise and nutrition; moderate evidence for pharmacologic treatment; emerging evidence for novel therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

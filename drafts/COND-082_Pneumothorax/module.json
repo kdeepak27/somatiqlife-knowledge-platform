@@ -1,0 +1,256 @@
+{
+  "module_id": "COND-082",
+  "title": "Pneumothorax",
+  "subtitle": "What pneumothorax is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Recognition",
+    "Diagnosis",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Students",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Pneumothorax",
+    "Air in pleural space",
+    "Collapsed lung",
+    "Chest pain",
+    "Respiratory distress",
+    "Thoracostomy",
+    "Pleural cavity",
+    "Spontaneous pneumothorax",
+    "Traumatic pneumothorax",
+    "Tension pneumothorax"
+  ],
+  "customer_questions": [
+    "What is a pneumothorax?",
+    "What causes a pneumothorax?",
+    "What are the symptoms of a pneumothorax?",
+    "How is pneumothorax diagnosed?",
+    "What treatments are available for pneumothorax?",
+    "Is pneumothorax life-threatening?",
+    "Can pneumothorax happen spontaneously?",
+    "What are the risk factors for pneumothorax?",
+    "How can pneumothorax be prevented?",
+    "What lifestyle changes are recommended after pneumothorax?",
+    "What is tension pneumothorax?",
+    "When should I seek emergency care for pneumothorax?"
+  ],
+  "retrieval_summary": "Pneumothorax is the presence of air in the pleural space, the area between the lung and chest wall, causing partial or complete collapse of the lung. This disrupts normal lung expansion leading to impaired breathing and oxygenation. Pneumothorax can occur spontaneously without trauma or result from chest injury, medical procedures, or underlying lung disease. Common synonyms include \"collapsed lung\" and \"air leak in pleural cavity.\" The pathophysiology involves air entry through breaches in the lung surface or chest wall, leading to increased intrapleural pressure and lung collapse. Clinically, patients may experience sudden sharp chest pain and shortness of breath. Diagnosis relies on physical examination and imaging such as chest X-rays or CT scans. Pneumothorax is categorized mainly as spontaneous (primary or secondary), traumatic, or tension types; tension pneumothorax is a medical emergency due to compromised cardiac function from pressure buildup. Treatment varies with severity, from observation and oxygen therapy to chest tube insertion or surgery for persistent cases. Lifestyle considerations post-pneumothorax include avoiding smoking, high-altitude exposure, and strenuous activities to reduce recurrence risk. Limitations include potential under-recognition in mild cases and variable access to timely care. Safety is paramount: tension pneumothorax requires urgent intervention to prevent fatal complications. This module includes evidence-based guidance and practical advice for patients and clinicians, clarifying common misconceptions around spontaneous occurrence and management strategies.",
+  "learning_objectives": [
+    "Understand the definition and types of pneumothorax.",
+    "Identify common causes and risk factors for pneumothorax.",
+    "Recognize symptoms and clinical signs of pneumothorax.",
+    "Describe diagnostic methods for pneumothorax.",
+    "Outline treatment options based on pneumothorax severity.",
+    "Discuss potential complications and emergencies related to pneumothorax.",
+    "Explain lifestyle recommendations to reduce recurrence risk.",
+    "Recognize common misconceptions about pneumothorax."
+  ],
+  "definition": "Pneumothorax is a medical condition characterized by the presence of air in the pleural space, the thin fluid-filled area between the lung and the chest wall, which can cause partial or complete collapse of the lung, impairing normal respiratory function.",
+  "why_this_matters": "Understanding pneumothorax is critical because it can impair breathing, cause serious complications such as respiratory failure or cardiac compromise, and in some types like tension pneumothorax, become immediately life-threatening. Timely recognition, diagnosis, and treatment can prevent severe outcomes and improve patient recovery and quality of life.",
+  "sections": [
+    {
+      "heading": "What is Pneumothorax?",
+      "content": "Pneumothorax, often described as a \"collapsed lung,\" occurs when air escapes from the lung or chest wall into the pleural space, the area between the lung and chest wall lining. This air accumulation disrupts the normally negative pressure required for lung expansion, causing the lung to partially or completely collapse. The condition can affect one or both lungs and can vary from small and asymptomatic to large and life-threatening. Scientifically, it involves the disruption of the pleural membrane integrity, leading to abnormal communication between the alveoli or exterior chest and the pleural cavity."
+    },
+    {
+      "heading": "Causes of Pneumothorax",
+      "content": "The causes of pneumothorax are broadly divided into spontaneous and traumatic types. Spontaneous pneumothorax occurs without apparent injury and is further categorized into primary, occurring in otherwise healthy individuals usually due to rupture of small subpleural blebs, and secondary, which happens in people with underlying lung diseases such as chronic obstructive pulmonary disease (COPD), cystic fibrosis, or tuberculosis. Traumatic pneumothorax results from chest trauma, including blunt injury, penetrating wounds, or medical procedures like central line placement or lung biopsy. Other causes include mechanical ventilation-induced barotrauma and iatrogenic injuries during thoracic surgeries."
+    },
+    {
+      "heading": "Risk Factors for Pneumothorax",
+      "content": "Several factors increase the risk of developing pneumothorax. Primary spontaneous pneumothorax is more common in tall, thin, young males between ages 10 and 30, smokers, and those with a family history of pneumothorax. Secondary spontaneous pneumothorax risk factors include existing lung diseases such as COPD, asthma, cystic fibrosis, interstitial lung diseases, and infections like pneumonia or tuberculosis. Trauma-related risk factors include motor vehicle accidents, chest surgeries, or invasive procedures. Certain activities like scuba diving and high-altitude flying without proper acclimatization may also increase risk."
+    },
+    {
+      "heading": "Symptoms and Clinical Presentation",
+      "content": "Common symptoms of pneumothorax include sudden onset of sharp, one-sided chest pain often described as stabbing or pleuritic and shortness of breath ranging from mild to severe. Other signs include rapid breathing (tachypnea), rapid heart rate (tachycardia), cyanosis (bluish skin), and decreased breath sounds on the affected side during stethoscope examination. In tension pneumothorax, life-threatening signs can include hypotension, distended neck veins, tracheal deviation away from the affected side, and respiratory distress requiring emergency intervention."
+    },
+    {
+      "heading": "Diagnosis and Evaluation",
+      "content": "Diagnosis begins with a thorough clinical history and physical examination. Imaging is crucial: chest X-ray is the first-line diagnostic tool, showing air in the pleural space and lung collapse. In some cases, computed tomography (CT) scans provide detailed images, particularly for small or complex pneumothoraces. Ultrasound is increasingly used in emergency settings for rapid bedside assessment. Additional tests may include arterial blood gases to evaluate oxygenation and chest auscultation to detect reduced or absent breath sounds on the affected side."
+    },
+    {
+      "heading": "Types of Pneumothorax",
+      "content": "Pneumothorax is categorized into primary spontaneous pneumothorax (PSP), which occurs without underlying lung disease; secondary spontaneous pneumothorax (SSP) in the context of pre-existing pulmonary disorders; traumatic pneumothorax caused by direct injury; and tension pneumothorax, a critical variant where intrapleural pressure rises sufficiently to impair cardiac function and cause hemodynamic instability. Recognition of the pneumothorax type guides urgency and specific treatment approaches."
+    },
+    {
+      "heading": "Management and Treatment Options",
+      "content": "Treatment depends on the size, cause, symptoms, and patient stability. Small pneumothoraces might be managed conservatively with observation and supplemental oxygen, which helps air resorption. Larger or symptomatic pneumothorax typically requires intervention, most commonly insertion of a chest tube (thoracostomy) to evacuate air and re-expand the lung. Tension pneumothorax demands immediate needle decompression followed by chest tube placement. Surgical options, such as video-assisted thoracoscopic surgery (VATS), may be needed for recurrent or persistent cases to prevent recurrence by pleurodesis or bleb resection."
+    },
+    {
+      "heading": "Complications and Potential Risks",
+      "content": "Potential complications include recurrence, persistent air leak, infection leading to empyema, lung damage, and in severe cases respiratory failure or death. Tension pneumothorax is a medical emergency that can cause cardiovascular collapse due to compromised venous return to the heart. Delay in treatment increases the risk of serious outcomes. Awareness of these risks underscores the importance of prompt diagnosis and appropriate management."
+    },
+    {
+      "heading": "Lifestyle Considerations and Prevention",
+      "content": "After a pneumothorax, patients should avoid smoking, which significantly increases recurrence risk. Activities involving rapid pressure changes such as scuba diving, flying in unpressurized aircraft, or high-altitude hiking are discouraged unless cleared by a healthcare provider. Regular follow-up to monitor lung health is recommended. Patients with underlying lung diseases should maintain optimal disease control. Preventive measures may also include surgical interventions for patients with repeated episodes to reduce further risks."
+    },
+    {
+      "heading": "Common Misconceptions about Pneumothorax",
+      "content": "A common misconception is that pneumothorax only occurs after major trauma; however, many cases are spontaneous. Some believe small pneumothorax always requires surgery, but many resolve with conservative management. Another mistaken belief is that pneumothorax is always immediately fatal; while tension pneumothorax is an emergency, many cases are mild and effectively treated. Understanding these facts helps patients and caregivers make informed decisions and reduces unnecessary anxiety."
+    },
+    {
+      "heading": "Safety Notes in Pneumothorax Management",
+      "content": "Safety considerations include prompt recognition of tension pneumothorax, which requires immediate needle decompression to prevent death. Careful technique is essential during chest tube insertion to avoid injury to organs or vessels. Monitoring for infection, bleeding, or re-expansion pulmonary edema is important during hospitalization. Patients should be educated about symptoms warranting urgent medical evaluation to ensure timely intervention. Avoiding activities that exacerbate risk helps maintain lung integrity post-treatment."
+    }
+  ],
+  "practical_guidance": [
+    "Seek immediate medical care if you experience sudden chest pain and difficulty breathing.",
+    "Avoid smoking to lower the risk of pneumothorax and recurrence.",
+    "Follow your healthcare provider's advice regarding physical activity and travel after pneumothorax.",
+    "If you have lung disease, maintain your treatment plan to reduce risk of secondary pneumothorax.",
+    "Understand that small pneumothoraces may be managed without surgery but require monitoring.",
+    "Recognize that tension pneumothorax is a medical emergency needing urgent treatment.",
+    "Attend all follow-up appointments and report any new or worsening symptoms promptly.",
+    "Discuss with your doctor any concerns about procedures or activities that may increase risk of pneumothorax."
+  ],
+  "safety_notes": [
+    "Do not ignore severe or worsening chest pain and shortness of breath as these may indicate tension pneumothorax.",
+    "Needle decompression for tension pneumothorax should only be performed by trained personnel in emergency scenarios.",
+    "Chest tube insertion requires sterile technique to reduce infection risk.",
+    "Patients should avoid high-risk activities until cleared by their healthcare provider.",
+    "Prompt treatment reduces complications and improves recovery outcomes."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Pneumothorax only happens after chest trauma.",
+      "reality": "Many pneumothoraces occur spontaneously without any trauma, especially in healthy individuals."
+    },
+    {
+      "misconception": "A small pneumothorax always needs surgery.",
+      "reality": "Small pneumothoraces are often managed conservatively with observation and oxygen therapy."
+    },
+    {
+      "misconception": "Pneumothorax is always immediately life-threatening.",
+      "reality": "While tension pneumothorax is a medical emergency, many pneumothoraces are mild and effectively treated."
+    }
+  ],
+  "clinical_pearls": [
+    "Spontaneous pneumothorax most commonly affects tall, thin, young males who are smokers.",
+    "Tension pneumothorax presents with tracheal deviation, hypotension, and distended neck veins – indicative of medical emergency.",
+    "Oxygen therapy can accelerate reabsorption of the pleural air in small pneumothoraces.",
+    "Chest ultrasound is a rapid and accessible diagnostic tool especially useful in emergency or bedside settings.",
+    "Recurrence rates for pneumothorax are higher in patients who continue to smoke after an initial episode."
+  ],
+  "key_takeaways": [
+    "Pneumothorax is air in the pleural space causing lung collapse and impaired breathing.",
+    "Types include spontaneous (primary and secondary), traumatic, and tension pneumothorax.",
+    "Chest pain and shortness of breath are the main presenting symptoms.",
+    "Chest X-ray is the primary diagnostic tool, with ultrasound and CT as supplementary.",
+    "Treatment ranges from observation to chest tube insertion and surgery based on severity.",
+    "Tension pneumothorax is life-threatening and requires immediate emergency intervention.",
+    "Avoidance of smoking and certain activities reduces recurrence risk.",
+    "Patient education and follow-up are vital to successful pneumothorax management."
+  ],
+  "glossary": [
+    {
+      "term": "Pneumothorax",
+      "definition": "The presence of air in the pleural space between the lung and chest wall causing lung collapse."
+    },
+    {
+      "term": "Pleural space",
+      "definition": "The thin fluid-filled space between the lungs and the chest wall."
+    },
+    {
+      "term": "Tension pneumothorax",
+      "definition": "A severe form where accumulating air causes pressure that compresses the lung and organs like the heart, compromising function."
+    },
+    {
+      "term": "Spontaneous pneumothorax",
+      "definition": "Pneumothorax occurring without trauma, can be primary (no lung disease) or secondary (with underlying lung disease)."
+    },
+    {
+      "term": "Chest tube (thoracostomy)",
+      "definition": "A tube inserted into the pleural space to remove air, fluid, or pus to allow lung re-expansion."
+    },
+    {
+      "term": "Subpleural blebs",
+      "definition": "Small air-filled sacs on the surface of the lung that can rupture and cause pneumothorax."
+    },
+    {
+      "term": "Hypoxia",
+      "definition": "Low oxygen levels in the tissues due to impaired lung function."
+    },
+    {
+      "term": "Barotrauma",
+      "definition": "Injury caused by changes in pressure, such as from mechanical ventilation leading to pneumothorax."
+    }
+  ],
+  "related_modules": [
+    "COND-010 - Chronic Obstructive Pulmonary Disease (COPD)",
+    "COND-030 - Asthma",
+    "COND-047 - Chest Trauma",
+    "COND-051 - Respiratory Failure"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Anatomy of the Pleural Space",
+      "illustration_type": "Diagram",
+      "description": "A detailed anatomical diagram showing the lungs, pleural membranes, and the pleural cavity where pneumothorax occurs.",
+      "alt_text": "Diagram of lungs and pleural space showing where pneumothorax occurs."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Types of Pneumothorax",
+      "illustration_type": "Infographic",
+      "description": "Visual representation differentiating primary spontaneous, secondary spontaneous, traumatic, and tension pneumothorax.",
+      "alt_text": "Infographic illustrating different types of pneumothorax with explanations."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Chest X-ray Showing Pneumothorax",
+      "illustration_type": "Radiology Image",
+      "description": "Chest radiograph indicating air in pleural space and collapsed lung characteristic of pneumothorax.",
+      "alt_text": "Chest X-ray with visible pneumothorax and lung collapse."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Chest Tube Insertion Procedure",
+      "illustration_type": "Stepwise Illustration",
+      "description": "Step-by-step illustrations showing how a chest tube is inserted to treat pneumothorax.",
+      "alt_text": "Stepwise illustration of chest tube insertion."
+    }
+  ],
+  "references": [
+    {
+      "title": "Management of Spontaneous Pneumothorax: British Thoracic Society Pleural Disease Guideline 2010",
+      "organization_or_authors": "British Thoracic Society",
+      "year": "2010",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Pneumothorax: Clinical Presentation and Diagnosis",
+      "organization_or_authors": "Medscape",
+      "year": "2022",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Tension Pneumothorax: A Review",
+      "organization_or_authors": "American Thoracic Society",
+      "year": "2019",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Treatment of Pneumothorax: Current Concepts",
+      "organization_or_authors": "UpToDate",
+      "year": "2023",
+      "identifier": "",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence based on clinical guidelines and studies for diagnosis and treatment; some recommendations supported by moderate evidence or expert consensus, especially for less common variations and lifestyle advice.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

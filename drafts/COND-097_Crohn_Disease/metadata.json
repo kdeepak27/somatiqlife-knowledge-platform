@@ -1,0 +1,40 @@
+{
+  "module_id": "COND-097",
+  "title": "Crohn Disease",
+  "subtitle": "What crohn disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Students"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "Crohn disease",
+    "Inflammatory bowel disease",
+    "IBD",
+    "Gastrointestinal inflammation",
+    "Chronic bowel disease",
+    "Autoimmune",
+    "Symptoms",
+    "Diagnosis",
+    "Treatment",
+    "Lifestyle",
+    "Complications"
+  ],
+  "related_modules": [
+    "COND-098",
+    "COND-099",
+    "COND-101"
+  ],
+  "evidence_strength": "Established for diagnosis and treatment; Emerging in pathophysiology and novel therapies; Moderate in lifestyle impact",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

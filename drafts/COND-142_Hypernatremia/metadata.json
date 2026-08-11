@@ -1,0 +1,35 @@
+{
+  "module_id": "COND-142",
+  "title": "Hypernatremia",
+  "subtitle": "What hypernatremia is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "Recognition",
+    "Investigation",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Hypernatremia",
+    "Sodium imbalance",
+    "Electrolyte disorder",
+    "Dehydration",
+    "Kidney function",
+    "Sodium toxicity"
+  ],
+  "related_modules": [
+    "COND-075",
+    "COND-191",
+    "COND-109"
+  ],
+  "evidence_strength": "Established",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

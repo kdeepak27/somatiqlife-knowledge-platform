@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-122",
+  "title": "Acute Kidney Injury",
+  "subtitle": "What acute kidney injury is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "Acute kidney injury",
+    "AKI",
+    "Kidney failure",
+    "Renal impairment",
+    "Causes of AKI",
+    "AKI symptoms",
+    "Kidney function",
+    "Risk factors for AKI",
+    "Kidney evaluation",
+    "AKI management",
+    "Lifestyle kidney health"
+  ],
+  "related_modules": [
+    "COND-101",
+    "COND-115",
+    "COND-130"
+  ],
+  "evidence_strength": "Established evidence and clinical guidelines form the basis of this module with ongoing research improving understanding of early detection methods.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-070",
+  "title": "Tuberculosis",
+  "subtitle": "What tuberculosis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "Tuberculosis",
+    "TB",
+    "Mycobacterium tuberculosis",
+    "Respiratory infection",
+    "Latent tuberculosis",
+    "Active tuberculosis",
+    "Chest X-ray",
+    "Antibiotic therapy",
+    "Isolation precautions"
+  ],
+  "related_modules": [
+    "COND-036_HIV-Infection",
+    "COND-045_Lung-Cancer",
+    "COND-080_Pneumonia",
+    "COND-118_Multidrug-Resistant-Infections"
+  ],
+  "evidence_strength": "Established evidence supported by international public health guidelines and clinical studies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

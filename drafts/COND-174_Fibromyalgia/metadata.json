@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-174",
+  "title": "Fibromyalgia",
+  "subtitle": "What fibromyalgia is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Musculoskeletal and Pain",
+  "som_stages": [
+    "Recognition",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Standard Adult",
+  "keywords": [
+    "fibromyalgia",
+    "chronic pain",
+    "musculoskeletal pain",
+    "fatigue",
+    "central sensitization",
+    "treatment",
+    "management",
+    "risk factors",
+    "symptoms",
+    "evaluation"
+  ],
+  "related_modules": [
+    "COND-175",
+    "COND-176",
+    "COND-177"
+  ],
+  "evidence_strength": "Established evidence-based with emerging research areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

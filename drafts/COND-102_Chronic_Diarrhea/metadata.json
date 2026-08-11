@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-102",
+  "title": "Chronic Diarrhea",
+  "subtitle": "What chronic diarrhea is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Recognition",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "chronic diarrhea",
+    "persistent diarrhea",
+    "digestive health",
+    "intestinal conditions",
+    "inflammatory bowel disease",
+    "infection",
+    "malabsorption",
+    "colon health"
+  ],
+  "related_modules": [
+    "COND-101-AcuteDiarrhea",
+    "COND-110-IBD",
+    "COND-120-CeliacDisease",
+    "COND-130-MalabsorptionSyndromes"
+  ],
+  "evidence_strength": "Established evidence with some areas of emerging data",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

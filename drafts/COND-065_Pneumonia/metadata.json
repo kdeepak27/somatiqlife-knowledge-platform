@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-065",
+  "title": "Pneumonia",
+  "subtitle": "What pneumonia is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Pneumonia",
+    "Lung infection",
+    "Respiratory infection",
+    "Bacterial pneumonia",
+    "Viral pneumonia",
+    "Symptoms",
+    "Diagnosis",
+    "Treatment",
+    "Risk factors",
+    "Prevention"
+  ],
+  "related_modules": [
+    "COND-021",
+    "COND-033",
+    "COND-051"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and authoritative public health organizations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

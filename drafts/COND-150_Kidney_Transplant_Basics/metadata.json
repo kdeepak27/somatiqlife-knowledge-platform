@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-150",
+  "title": "Kidney Transplant Basics",
+  "subtitle": "What kidney transplant basics is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "kidney transplant",
+    "renal transplant",
+    "organ transplant",
+    "end-stage renal disease",
+    "immunosuppression",
+    "transplant rejection",
+    "dialysis",
+    "kidney failure",
+    "graft survival",
+    "transplant evaluation"
+  ],
+  "related_modules": [
+    "COND-101-Chronic-Kidney-Disease",
+    "COND-152-Kidney-Failure",
+    "COND-200-Organ-Transplant-Basics"
+  ],
+  "evidence_strength": "Established evidence with some emerging concepts",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

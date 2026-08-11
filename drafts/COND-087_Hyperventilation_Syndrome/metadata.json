@@ -1,0 +1,40 @@
+{
+  "module_id": "COND-087",
+  "title": "Hyperventilation Syndrome",
+  "subtitle": "What hyperventilation syndrome is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Recognition",
+    "Diagnosis",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Hyperventilation",
+    "Syndrome",
+    "Respiratory alkalosis",
+    "Breathing disorder",
+    "Anxiety",
+    "Panic attacks",
+    "Dyspnea",
+    "Hypocapnia",
+    "Respiratory physiology",
+    "Breathing retraining"
+  ],
+  "related_modules": [
+    "COND-021",
+    "COND-105",
+    "COND-114"
+  ],
+  "evidence_strength": "Established evidence from clinical studies and expert consensus supports the definition, diagnosis, and management strategies for hyperventilation syndrome, although randomized controlled trial data are limited. Emerging evidence highlights the importance of psychological interventions and targeted breathing retraining. Safety concerns and misconceptions remain areas for ongoing study.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

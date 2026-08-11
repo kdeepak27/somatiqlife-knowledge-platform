@@ -1,0 +1,34 @@
+{
+  "module_id": "COND-130",
+  "title": "Proteinuria",
+  "subtitle": "What proteinuria is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Proteinuria",
+    "Kidney",
+    "Protein in urine",
+    "Albuminuria",
+    "Nephropathy",
+    "Renal function",
+    "Urinalysis"
+  ],
+  "related_modules": [
+    "COND-131",
+    "COND-128",
+    "COND-140"
+  ],
+  "evidence_strength": "Established evidence with some evolving practice elements",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

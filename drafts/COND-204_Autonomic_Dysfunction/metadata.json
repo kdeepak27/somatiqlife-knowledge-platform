@@ -1,0 +1,42 @@
+{
+  "module_id": "COND-204",
+  "title": "Autonomic Dysfunction",
+  "subtitle": "What autonomic dysfunction is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Neurologic and Cognitive",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Patient Education"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers",
+    "Neurologists",
+    "Cardiologists",
+    "Nurses"
+  ],
+  "reading_level": "Intermediate (Health Literate Adults)",
+  "keywords": [
+    "Autonomic dysfunction",
+    "Dysautonomia",
+    "Autonomic nervous system",
+    "Orthostatic hypotension",
+    "Syncope",
+    "Neuropathy",
+    "Autonomic failure",
+    "Management",
+    "Symptoms",
+    "Diagnosis"
+  ],
+  "related_modules": [
+    "COND-102 (Diabetic Neuropathy)",
+    "COND-301 (Parkinson's Disease)",
+    "COND-310 (Multiple System Atrophy)",
+    "COND-215 (Peripheral Neuropathy)"
+  ],
+  "evidence_strength": "Established evidence from clinical studies and expert consensus on autonomic nervous system disorders supports the content, with moderate evidence regarding emerging therapies and diagnostic techniques.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

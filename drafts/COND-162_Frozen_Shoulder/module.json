@@ -1,0 +1,267 @@
+{
+  "module_id": "COND-162",
+  "title": "Frozen Shoulder",
+  "subtitle": "What frozen shoulder is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Musculoskeletal and Pain",
+  "som_stages": [
+    "Assessment",
+    "Management",
+    "Education"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Primary Care Providers",
+    "Physical Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Frozen shoulder",
+    "Adhesive capsulitis",
+    "Shoulder stiffness",
+    "Shoulder pain",
+    "Range of motion",
+    "Physical therapy",
+    "Corticosteroids",
+    "Shoulder rehabilitation"
+  ],
+  "customer_questions": [
+    "What is frozen shoulder?",
+    "What causes frozen shoulder?",
+    "Who is at risk for frozen shoulder?",
+    "What are the symptoms of frozen shoulder?",
+    "How is frozen shoulder diagnosed?",
+    "What treatments are available for frozen shoulder?",
+    "Can frozen shoulder resolve on its own?",
+    "What are the stages of frozen shoulder?",
+    "How long does frozen shoulder last?",
+    "Is surgery necessary for frozen shoulder?",
+    "What lifestyle changes can help manage frozen shoulder?",
+    "Are there any risks to treatments for frozen shoulder?"
+  ],
+  "retrieval_summary": "Frozen shoulder, medically known as adhesive capsulitis, is a condition characterized by stiffness and pain in the shoulder joint that progressively limits the range of motion. It occurs when the capsule surrounding the shoulder joint thickens and tightens, leading to decreased joint mobility. The exact cause of frozen shoulder often remains unclear, but it can develop after shoulder injury, surgery, or prolonged immobilization. Risk factors include diabetes mellitus, thyroid disorders, and middle age, particularly in women. Frozen shoulder typically progresses through three clinical stages: freezing (painful stage), frozen (stiffness predominates), and thawing (gradual recovery of motion). Diagnosis is based on patient history, physical examination focusing on restricted passive and active shoulder movement, and imaging to exclude other shoulder pathologies. Management involves pain relief through medications like NSAIDs, corticosteroid injections, and physical therapy exercises tailored to improve shoulder mobility. In some cases, more invasive interventions such as manipulation under anesthesia or arthroscopic capsular release may be considered if conservative measures fail. While frozen shoulder is often self-limiting with most patients improving within 1 to 3 years, the process of recovery can be slow and impactful on daily activities. Safety considerations in management emphasize appropriate pain control and avoidance of further injury. Understanding the condition's mechanisms and treatment options empowers patients and healthcare providers to optimize outcomes. Major synonyms include adhesive capsulitis and periarthritis of the shoulder. The module clarifies misconceptions that frozen shoulder always requires surgery or that it cannot improve without intervention. Limitations in current evidence exist regarding optimal timing and comparative effectiveness of treatments, although physical therapy and corticosteroid injections have demonstrated benefits in symptom improvement.",
+  "learning_objectives": [
+    "Define frozen shoulder and understand its synonyms and types.",
+    "Describe the pathophysiology and typical clinical progression of frozen shoulder.",
+    "Identify major risk factors and populations at higher risk for frozen shoulder.",
+    "Recognize common signs and symptoms to facilitate early diagnosis.",
+    "Understand diagnostic approaches including clinical evaluation and imaging.",
+    "Review evidence-supported treatment options including non-pharmacologic and pharmacologic measures.",
+    "Discuss lifestyle modifications and self-care strategies for frozen shoulder management.",
+    "Appreciate safety issues and possible complications related to frozen shoulder and its treatments."
+  ],
+  "definition": "Frozen shoulder, also called adhesive capsulitis, is a condition involving progressive stiffness, pain, and restricted movement of the shoulder joint due to inflammation and thickening of the joint capsule.",
+  "why_this_matters": "Frozen shoulder can significantly impair arm mobility and quality of life, making routine activities difficult. Early recognition and appropriate management can reduce discomfort, speed recovery, and prevent long-term disability.",
+  "sections": [
+    {
+      "heading": "What is Frozen Shoulder?",
+      "content": "Frozen shoulder, medically known as adhesive capsulitis, is a musculoskeletal disorder characterized by pain, stiffness, and restricted range of motion in the glenohumeral (shoulder) joint. It occurs when the connective tissue capsule surrounding the shoulder joint becomes inflamed, thickened, and tight, limiting movement. Although the exact cause is often unknown, this condition results in functional impairment of the shoulder and discomfort during daily activities. Synonyms include adhesive capsulitis, periarthritis of the shoulder, and stiff shoulder."
+    },
+    {
+      "heading": "Causes and Risk Factors",
+      "content": "The precise cause of frozen shoulder is often idiopathic, meaning no specific event triggers it. However, it may develop following shoulder injury, surgery, or prolonged immobilization that restricts arm movement. Additional risk factors include systemic diseases such as diabetes mellitus (occurring up to 20% of diabetic patients), thyroid disorders (hypothyroidism and hyperthyroidism), cardiovascular disease, Parkinson’s disease, and middle age, particularly in women. The condition tends to occur more frequently in people between 40 and 60 years old."
+    },
+    {
+      "heading": "Pathophysiology and Mechanisms",
+      "content": "Frozen shoulder involves an inflammatory process where the synovium (lining of the joint capsule) thickens and fibrosis develops in the capsule, especially the coracohumeral ligament and rotator interval. This leads to capsular contracture and adhesion formation, restricting glenohumeral joint movement. Limited external rotation is often the earliest movement to be affected. The inflammation may be autoimmune or triggered by local tissue injury, but exact mechanisms remain under investigation."
+    },
+    {
+      "heading": "Clinical Presentation and Symptoms",
+      "content": "Patients usually present with gradual onset of shoulder pain and progressive stiffness over weeks to months. Symptoms typically begin with increasing pain, especially at night and with movement. Over time, active and passive shoulder movements become restricted, particularly external rotation and abduction. Chronic stiffness may last months to years, impairing daily activities such as dressing, reaching overhead, or behind the back."
+    },
+    {
+      "heading": "Stages of Frozen Shoulder",
+      "content": "Frozen shoulder progresses through three clinical stages: (1) Freezing stage: painful phase lasting about 2-9 months with gradual loss of motion; (2) Frozen stage: stiffness predominates, pain may improve, duration of 4-12 months; (3) Thawing stage: gradual return of range of motion occurring over 5-26 months. Understanding these stages helps guide treatment and patient expectations."
+    },
+    {
+      "heading": "Diagnosis and Evaluation",
+      "content": "Diagnosis primarily relies on clinical history and physical exam demonstrating limited active and passive shoulder range of motion in all directions, especially external rotation. Imaging with X-rays excludes other causes like arthritis or fractures; MRI or ultrasound may assess soft tissues or confirm capsular thickening. Blood tests may evaluate for associated systemic conditions. There is no single definitive test; diagnosis is clinical."
+    },
+    {
+      "heading": "Management Approaches",
+      "content": "Treatment aims to relieve pain and restore shoulder motion. Initial management includes oral nonsteroidal anti-inflammatory drugs (NSAIDs) for pain control, physical therapy focusing on stretching and strengthening exercises, and corticosteroid injections to reduce inflammation. In recalcitrant cases, interventions like manipulation under anesthesia or arthroscopic capsular release may be considered to improve mobility. Treatment choice depends on stage, symptom severity, and patient preference."
+    },
+    {
+      "heading": "Role of Physical Therapy and Exercise",
+      "content": "Physical therapy is a mainstay of frozen shoulder management. Therapies include supervised stretching and range-of-motion exercises to improve flexibility and decrease stiffness. Joint mobilization techniques may be applied to restore capsular mobility. Exercise intensity and frequency should be tailored; over-aggressive stretching may worsen pain or inflammation. Adherence to therapy is essential for recovery."
+    },
+    {
+      "heading": "Pharmacologic Treatments",
+      "content": "NSAIDs help reduce pain and inflammation but do not alter disease progression. Corticosteroid injections administered into the glenohumeral joint have moderate evidence supporting short-term symptom relief in the early stages of frozen shoulder. Oral corticosteroids may be used in some cases but have more systemic side effects. Emerging therapies such as hyaluronic acid injections are under study but lack conclusive evidence."
+    },
+    {
+      "heading": "Surgical and Interventional Options",
+      "content": "Surgery is reserved for patients with persistent symptoms despite exhaustive conservative management lasting several months. Manipulation under anesthesia forcibly stretches the joint capsule. Arthroscopic capsular release involves minimally invasive removal of the contracted capsule and adhesions. Both procedures improve range of motion but carry risks including fractures, nerve injury, and infection. Patient selection and counseling are critical."
+    },
+    {
+      "heading": "Lifestyle Considerations and Home Care",
+      "content": "Patients are advised to maintain gentle shoulder movement within pain limits to prevent worsening stiffness. Heat application may relieve pain before exercise, and cold packs can reduce inflammation after activity. Avoidance of immobilization and early mobilization following shoulder injury or surgery reduce risk. Proper ergonomics and activity modifications support rehabilitation. Psychological support may benefit those with chronic pain."
+    },
+    {
+      "heading": "Safety and Precautions",
+      "content": "Management of frozen shoulder must balance adequate therapy and risk of exacerbating inflammation or pain. Corticosteroid use should consider systemic effects like blood sugar elevation, especially in diabetic patients. Aggressive physical therapy causing trauma may prolong symptoms. Surgical risks should be discussed thoroughly. Overall, close communication with healthcare providers ensures safe treatment delivery."
+    }
+  ],
+  "practical_guidance": [
+    "Start physical therapy early with gentle stretching exercises to maintain and gradually improve shoulder mobility.",
+    "Use NSAIDs and corticosteroid injections judiciously to control pain especially in the painful freezing stage.",
+    "Avoid immobilizing the shoulder to prevent worsening stiffness; maintain regular movement within tolerance.",
+    "Monitor blood sugar when steroids are used in diabetic patients and inform healthcare providers of any adverse effects.",
+    "Educate patients about the typical course and stages of frozen shoulder to set realistic expectations for recovery.",
+    "Consult orthopedic specialists if symptoms persist beyond 6-12 months despite conservative treatment.",
+    "Incorporate heat and cold therapy at home to manage pain and inflammation related to frozen shoulder.",
+    "Adopt ergonomic modifications in daily activities to minimize shoulder strain during recovery."
+  ],
+  "safety_notes": [
+    "Corticosteroid injections may temporarily raise blood sugar levels; caution is necessary in diabetes.",
+    "Avoid aggressive or forced stretching which can increase inflammation and pain.",
+    "Surgical interventions carry risks such as infection, nerve damage, and should be considered only after conservative treatment failure.",
+    "NSAIDs should be used following recommended dosages to reduce gastrointestinal and cardiovascular risks.",
+    "Patients should promptly report worsening symptoms or complications during treatment."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Frozen shoulder always requires surgery to improve.",
+      "reality": "Most cases of frozen shoulder improve with conservative measures like physical therapy and medications; surgery is reserved for refractory cases."
+    },
+    {
+      "misconception": "If shoulder pain improves, the frozen shoulder is resolved.",
+      "reality": "Pain may improve early but stiffness often persists and requires ongoing therapy to regain motion."
+    },
+    {
+      "misconception": "Only older adults can develop frozen shoulder.",
+      "reality": "While more common in middle age, frozen shoulder can affect adults of various ages, especially those with risk factors."
+    },
+    {
+      "misconception": "Complete immobilization helps frozen shoulder heal.",
+      "reality": "Prolonged shoulder immobilization often worsens stiffness and increases frozen shoulder risk."
+    },
+    {
+      "misconception": "Physical therapy worsens frozen shoulder pain and should be avoided.",
+      "reality": "Appropriate physical therapy reduces stiffness and pain; over-aggressive therapy, however, can cause flare-ups."
+    }
+  ],
+  "clinical_pearls": [
+    "Early diagnosis and treatment of frozen shoulder improve outcomes and reduce duration of disability.",
+    "Control of pain facilitates participation in physical therapy, improving shoulder mobility.",
+    "Diabetes is a significant risk factor and may lengthen recovery time; monitor diabetic status closely during treatment.",
+    "Understanding the natural progression through stages helps tailor interventions appropriately.",
+    "Imaging mainly rules out other causes and is not diagnostic; clinical findings drive diagnosis.",
+    "Physical therapy protocols should be individualized and progressed carefully.",
+    "Corticosteroid injections offer short-term relief but do not cure frozen shoulder.",
+    "Surgical options should be considered only after months of persistent symptoms and failed conservative therapy."
+  ],
+  "key_takeaways": [
+    "Frozen shoulder (adhesive capsulitis) involves painful, progressive shoulder stiffness due to capsular inflammation and fibrosis.",
+    "Risk factors include diabetes, thyroid disorders, middle age, and periods of shoulder immobilization.",
+    "Symptoms develop gradually and progress through freezing, frozen, and thawing stages over months to years.",
+    "Diagnosis is clinical, based on limited active and passive range of motion and typical pain patterns.",
+    "Initial treatment includes NSAIDs, corticosteroid injections, and tailored physical therapy to improve mobility.",
+    "Home care involves gentle exercises, use of heat and cold, and activity modifications to support recovery.",
+    "Surgical intervention is reserved for refractory cases and carries inherent risks.",
+    "Understanding the condition’s natural history aids in patient education and sets realistic expectations."
+  ],
+  "glossary": [
+    {
+      "term": "Frozen Shoulder",
+      "definition": "A condition characterized by stiffness and pain in the shoulder joint due to inflammation and tightening of the joint capsule; also known as adhesive capsulitis."
+    },
+    {
+      "term": "Adhesive Capsulitis",
+      "definition": "Medical term synonymous with frozen shoulder referring to the fibrosis and contraction of the shoulder joint capsule causing limited motion."
+    },
+    {
+      "term": "Glenohumeral Joint",
+      "definition": "The ball-and-socket joint between the head of the humerus (upper arm bone) and the glenoid fossa of the scapula (shoulder blade)."
+    },
+    {
+      "term": "Capsule",
+      "definition": "A fibrous sac that surrounds the shoulder joint, providing stability and containing synovial fluid for lubrication."
+    },
+    {
+      "term": "Range of Motion (ROM)",
+      "definition": "The degree through which a joint can move, including movements such as flexion, extension, abduction, and rotation."
+    },
+    {
+      "term": "Corticosteroid Injection",
+      "definition": "A medication injection containing steroid hormones that reduce inflammation in joints or soft tissues."
+    },
+    {
+      "term": "Nonsteroidal Anti-inflammatory Drugs (NSAIDs)",
+      "definition": "Medications such as ibuprofen that reduce inflammation, pain, and fever."
+    },
+    {
+      "term": "Manipulation Under Anesthesia",
+      "definition": "A procedure where the patient is anesthetized and the shoulder joint is passively moved to break up adhesions and improve motion."
+    }
+  ],
+  "related_modules": [
+    "COND-083",
+    "COND-117",
+    "COND-145"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Anatomy of the Shoulder Joint",
+      "illustration_type": "Diagram",
+      "description": "A colored diagram showing the bones (humerus, scapula), joint capsule, ligaments, and muscles of the shoulder relevant in frozen shoulder.",
+      "alt_text": "Diagram of shoulder bones and soft tissues."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Stages of Frozen Shoulder Progression",
+      "illustration_type": "Flowchart",
+      "description": "A flowchart illustrating the three stages of frozen shoulder: freezing, frozen, and thawing, with typical duration and symptoms for each stage.",
+      "alt_text": "Flowchart of frozen shoulder clinical stages."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Range of Motion Limitations in Frozen Shoulder",
+      "illustration_type": "Illustration",
+      "description": "An illustration demonstrating reduced external rotation and abduction in a shoulder affected by frozen shoulder compared to a normal shoulder.",
+      "alt_text": "Comparison of shoulder motion with and without frozen shoulder."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Physical Therapy Exercises for Frozen Shoulder",
+      "illustration_type": "Instructional",
+      "description": "Series of images showing common stretching and strengthening exercises used in physical therapy to improve shoulder mobility.",
+      "alt_text": "Step-by-step shoulder exercises for frozen shoulder."
+    }
+  ],
+  "references": [
+    {
+      "title": "Frozen Shoulder (Adhesive Capsulitis): Current Concepts and Treatment",
+      "organization_or_authors": "American Academy of Orthopaedic Surgeons (AAOS)",
+      "year": "2016",
+      "identifier": "https://orthoinfo.aaos.org/en/diseases--conditions/frozen-shoulder-adhesive-capsulitis/",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Adhesive capsulitis: pathophysiology and clinical management",
+      "organization_or_authors": "Handoll HH, Al-Mudhaffer M",
+      "year": "2012",
+      "identifier": "DOI:10.1002/14651858.CD007020.pub2",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Management of frozen shoulder: a systematic review and meta-analysis",
+      "organization_or_authors": "Zhang Q et al., Journal of Orthopaedic Surgery and Research",
+      "year": "2018",
+      "identifier": "DOI:10.1186/s13018-018-0912-0",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Frozen shoulder pathophysiology and treatment options: a review",
+      "organization_or_authors": "Brue S, Piette E",
+      "year": "2015",
+      "identifier": "DOI:10.1080/17453674.2015.1029581",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence for diagnosis and conservative management; moderate and emerging evidence concerning optimal interventions; ongoing research on new therapies and surgical techniques.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,40 @@
+{
+  "module_id": "COND-115",
+  "title": "Colorectal Cancer",
+  "subtitle": "What colorectal cancer is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Treatment",
+    "Survivorship"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "colorectal cancer",
+    "colon cancer",
+    "rectal cancer",
+    "colorectal carcinoma",
+    "colorectal neoplasm",
+    "colonoscopy",
+    "screening",
+    "risk factors",
+    "symptoms",
+    "treatment"
+  ],
+  "related_modules": [
+    "COND-001",
+    "COND-120",
+    "COND-130"
+  ],
+  "evidence_strength": "Established evidence for epidemiology, pathophysiology, screening and treatment; emerging evidence in microbiome and molecular targeted therapies; uncertain evidence in novel biomarkers and immunotherapy across all populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

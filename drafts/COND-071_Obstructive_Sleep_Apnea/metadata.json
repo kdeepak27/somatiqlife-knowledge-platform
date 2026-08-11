@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-071",
+  "title": "Obstructive Sleep Apnea",
+  "subtitle": "What obstructive sleep apnea is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Awareness",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Obstructive sleep apnea",
+    "OSA",
+    "Sleep-disordered breathing",
+    "Apnea",
+    "Hypopnea",
+    "CPAP",
+    "Risk factors",
+    "Symptoms",
+    "Diagnosis",
+    "Treatment"
+  ],
+  "related_modules": [
+    "COND-035_Sleep_Disorders_General",
+    "COND-052_Obesity",
+    "COND-080_Hypertension"
+  ],
+  "evidence_strength": "Established evidence for CPAP efficacy; moderate emerging evidence for hypoglossal nerve stimulation; limitations exist in long-term adherence data.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

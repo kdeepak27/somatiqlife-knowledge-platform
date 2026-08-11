@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-106",
+  "title": "Gallstones",
+  "subtitle": "What gallstones is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Recognition",
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Gallstones",
+    "Cholelithiasis",
+    "Biliary disease",
+    "Gallbladder",
+    "Digestive system",
+    "Symptoms",
+    "Treatment",
+    "Prevention"
+  ],
+  "related_modules": [
+    "COND-031_DigestiveSystemOverview",
+    "COND-102_Cholecystitis",
+    "COND-107_Pancreatitis"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

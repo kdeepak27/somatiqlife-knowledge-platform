@@ -1,0 +1,248 @@
+{
+  "module_id": "COND-079",
+  "title": "Pulmonary Fibrosis",
+  "subtitle": "What pulmonary fibrosis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Education"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Pulmonary fibrosis",
+    "lung scarring",
+    "interstitial lung disease",
+    "IPF",
+    "pulmonary symptoms",
+    "respiratory disease"
+  ],
+  "customer_questions": [
+    "What is pulmonary fibrosis?",
+    "What causes pulmonary fibrosis?",
+    "What are the common symptoms of pulmonary fibrosis?",
+    "How is pulmonary fibrosis diagnosed?",
+    "Can pulmonary fibrosis be treated?",
+    "What are the risk factors for developing pulmonary fibrosis?",
+    "Is pulmonary fibrosis the same as interstitial lung disease?",
+    "What lifestyle changes can help manage pulmonary fibrosis?",
+    "How does pulmonary fibrosis affect lung function?",
+    "What are the complications of pulmonary fibrosis?",
+    "Can pulmonary fibrosis be prevented?",
+    "What medications are used to treat pulmonary fibrosis?"
+  ],
+  "retrieval_summary": "Pulmonary fibrosis (PF) is a chronic respiratory condition characterized by progressive scarring (fibrosis) of the lung tissue, leading to stiffness and impaired gas exchange. This condition falls under the umbrella of interstitial lung diseases (ILDs), a group of disorders affecting the interstitium—the supportive tissue around the lung's air sacs (alveoli). The scarring disrupts normal lung architecture and impairs oxygen transfer, causing symptoms such as chronic dry cough, shortness of breath, and fatigue. The most common form is idiopathic pulmonary fibrosis (IPF), meaning the cause is unknown, though other causes include environmental exposures, autoimmune diseases, and certain medications. Pulmonary fibrosis is diagnosed through a combination of clinical evaluation, imaging studies (such as high-resolution CT scans), pulmonary function tests, and sometimes lung biopsy. Management aims to slow disease progression, alleviate symptoms, and improve quality of life, using antifibrotic medications, oxygen therapy, pulmonary rehabilitation, and in severe cases, lung transplantation. Lifestyle modifications like avoiding smoking and environmental pollutants are important. Pulmonary fibrosis is a progressive disease with no definitive cure, emphasizing the importance of early diagnosis and supportive care. Awareness of common misconceptions—such as equating PF with treatable infections—is critical for patients and providers. Safety considerations include monitoring treatment side effects and the risk of acute exacerbations. Overall, pulmonary fibrosis represents a complex interplay of pathological scarring, impaired lung function, and significant clinical challenges requiring a multidisciplinary approach.",
+  "learning_objectives": [
+    "Define pulmonary fibrosis and describe its pathophysiology.",
+    "Identify common causes and risk factors for pulmonary fibrosis.",
+    "Recognize the clinical symptoms associated with pulmonary fibrosis.",
+    "Explain the diagnostic approach used in pulmonary fibrosis evaluation.",
+    "Understand current management strategies and treatment options for pulmonary fibrosis.",
+    "Discuss lifestyle considerations and safety precautions for individuals with pulmonary fibrosis.",
+    "Analyze the differences and relationships between pulmonary fibrosis and other interstitial lung diseases.",
+    "Identify common misconceptions surrounding pulmonary fibrosis and clarify realities."
+  ],
+  "definition": "Pulmonary fibrosis is a lung disease characterized by progressive scarring of lung tissue that leads to thickening and stiffening of the lungs, which impairs their ability to transfer oxygen into the bloodstream.",
+  "why_this_matters": "Pulmonary fibrosis progressively reduces lung function, significantly affecting quality of life and survival. Early recognition and management can help slow disease progression, improve symptoms, and increase life expectancy. Understanding this condition empowers patients and caregivers to make informed health decisions and seek appropriate medical care.",
+  "sections": [
+    {
+      "heading": "What is Pulmonary Fibrosis?",
+      "content": "Pulmonary fibrosis (PF) refers to a group of lung diseases that cause progressive scarring (fibrosis) of the lung interstitium—the tissues surrounding the alveoli (air sacs). This scarring leads to lung stiffness, impairs oxygen exchange, and causes respiratory symptoms such as cough and breathlessness. The term \"fibrosis\" describes the thickening and stiffening of tissue due to excessive collagen deposition. PF is a subtype of interstitial lung diseases (ILDs). The most common and well-studied form is idiopathic pulmonary fibrosis (IPF), where no identifiable cause is found. PF can also arise secondary to environmental exposures, autoimmune disorders, infections, or medications."
+    },
+    {
+      "heading": "Causes and Risk Factors of Pulmonary Fibrosis",
+      "content": "Pulmonary fibrosis can have multiple causes. Idiopathic pulmonary fibrosis (IPF) is diagnosed when no specific cause is identified. Other causes include exposure to environmental agents such as asbestos, silica dust, and certain gases; connective tissue diseases like rheumatoid arthritis or scleroderma; certain medications such as amiodarone or chemotherapy drugs; chronic infections; and radiation therapy. Risk factors include older age (typically over 50), male sex, smoking history, genetic predispositions, and family history of PF. Chronic lung injury and aberrant wound healing responses are thought to drive fibrosis."
+    },
+    {
+      "heading": "Symptoms and Clinical Presentation",
+      "content": "Pulmonary fibrosis commonly presents with exertional shortness of breath (dyspnea), chronic dry cough, fatigue, and sometimes chest discomfort. Symptoms develop gradually and worsen over months to years. Patients may also experience digital clubbing—enlargement of the fingertips—and crackling sounds (velcro-like rales) heard with a stethoscope during lung exam. Because symptoms overlap with other lung diseases, PF diagnosis requires careful evaluation."
+    },
+    {
+      "heading": "Physiology and Pathophysiology",
+      "content": "In pulmonary fibrosis, normal lung architecture is progressively replaced by fibrotic tissue composed of excess collagen and extracellular matrix proteins. This thickens the alveolar walls, reduces lung compliance (elasticity), and impairs gas diffusion. Oxygen transfer from alveoli to the bloodstream diminishes, resulting in hypoxemia (low blood oxygen). Repeated injury to the alveolar epithelium and abnormal repair mechanisms—characterized by fibroblast proliferation and extracellular matrix deposition—drive the disease process."
+    },
+    {
+      "heading": "Diagnosis and Evaluation",
+      "content": "Evaluation includes detailed history, physical examination, pulmonary function tests (PFTs) measuring lung volumes and gas exchange, and imaging with high-resolution chest computed tomography (HRCT). HRCT often shows a characteristic pattern called usual interstitial pneumonia (UIP) in IPF cases. Other tests can include blood work for autoimmune markers, oxygen saturation assessments, and sometimes lung biopsy to clarify uncertain diagnoses. Multidisciplinary discussion with pulmonologists, radiologists, and pathologists often aids diagnosis."
+    },
+    {
+      "heading": "Management and Treatment Options",
+      "content": "Currently, pulmonary fibrosis has no cure, but treatments aim to slow progression, relieve symptoms, and improve quality of life. Antifibrotic medications such as pirfenidone and nintedanib reduce fibrotic activity in IPF. Supplemental oxygen therapy helps maintain adequate oxygen levels, especially during activity or sleep. Pulmonary rehabilitation programs improve exercise tolerance and breathing techniques. In advanced cases, lung transplantation may be considered. Management also involves treating comorbidities and preventing infections."
+    },
+    {
+      "heading": "Lifestyle and Supportive Care",
+      "content": "Avoiding smoking and exposure to lung irritants is crucial. Patients should maintain a healthy diet, stay physically active within tolerance, and receive vaccinations against influenza and pneumococcus to reduce infection risk. Psychological support and education about disease progression can help patients cope. Advance care planning is recommended since PF is progressive. Support groups may aid social and emotional well-being."
+    },
+    {
+      "heading": "Complications and Prognosis",
+      "content": "Pulmonary fibrosis can lead to respiratory failure due to worsening gas exchange. Acute exacerbations—sudden worsening of symptoms—can be life-threatening. Pulmonary hypertension (high blood pressure in lung arteries) may develop, adding strain on the heart. Overall, PF has a poor prognosis; median survival after IPF diagnosis is approximately 3-5 years. Early detection and treatment can improve outcomes but do not reverse existing fibrosis."
+    },
+    {
+      "heading": "Common Misconceptions about Pulmonary Fibrosis",
+      "content": "A frequent misconception is that pulmonary fibrosis is an infection or reversible lung inflammation; however, it is a chronic scarring disease with irreversible damage. Some believe only elderly smokers develop PF, but it can affect younger individuals and nonsmokers. Misunderstanding treatment goals can lead to unrealistic expectations that fibrosis will resolve fully with medications, while current therapies mainly slow progression. Awareness of these realities helps patients engage better with care plans."
+    },
+    {
+      "heading": "Safety Considerations and Monitoring",
+      "content": "Patients on antifibrotic therapies require regular monitoring for side effects, including liver function tests and gastrointestinal symptoms. Oxygen therapy should be prescribed and titrated based on oxygen saturation measures. Smoking cessation is vital for safety and treatment efficacy. Acute exacerbations or infections warrant prompt medical attention. Vaccinations and avoiding environmental toxins reduce risk. Psychological distress should be addressed safely through counseling or support services."
+    },
+    {
+      "heading": "Glossary of Key Terms",
+      "content": "This section defines important terms related to pulmonary fibrosis, aiding understanding of medical language and lay synonyms."
+    }
+  ],
+  "practical_guidance": [
+    "Seek medical evaluation for persistent unexplained breathlessness or cough.",
+    "Adhere to prescribed antifibrotic medications and oxygen therapy as advised.",
+    "Avoid smoking and environmental lung irritants.",
+    "Engage in pulmonary rehabilitation when recommended to improve respiratory function.",
+    "Stay current with vaccinations to prevent respiratory infections.",
+    "Communicate clearly with healthcare providers about symptom changes and side effects.",
+    "Plan for advance care including discussions about lung transplantation eligibility if appropriate.",
+    "Join patient support groups for education and emotional support."
+  ],
+  "safety_notes": [
+    "Medications such as pirfenidone and nintedanib can cause liver toxicity and gastrointestinal symptoms; regular monitoring is needed.",
+    "Oxygen therapy must be used carefully to avoid fire hazards; smoking while on oxygen is dangerous.",
+    "Acute exacerbations are medical emergencies requiring prompt evaluation and treatment.",
+    "Psychological distress and depression are common; seek professional help if needed.",
+    "Avoid environmental exposures including dust, mold, and pollutants to prevent progression."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Pulmonary fibrosis is a lung infection that can be cured with antibiotics.",
+      "reality": "Pulmonary fibrosis is a chronic scarring disease of the lungs that does not respond to antibiotics and is not caused by infection."
+    },
+    {
+      "misconception": "Only smokers develop pulmonary fibrosis.",
+      "reality": "While smoking is a risk factor, pulmonary fibrosis can occur in nonsmokers and younger individuals."
+    },
+    {
+      "misconception": "Medications can completely reverse the damage caused by pulmonary fibrosis.",
+      "reality": "Current treatments aim to slow the disease progression but cannot reverse existing fibrosis."
+    }
+  ],
+  "clinical_pearls": [
+    "High-resolution CT scan is critical in differentiating pulmonary fibrosis patterns and guiding diagnosis.",
+    "Early referral to pulmonary rehabilitation improves quality of life irrespective of disease stage.",
+    "Pirfenidone and nintedanib are FDA-approved antifibrotic agents shown to slow lung function decline in IPF.",
+    "Monitoring liver function tests during antifibrotic therapy is essential for safety.",
+    "Acute exacerbations carry a high mortality risk and should prompt urgent evaluation."
+  ],
+  "key_takeaways": [
+    "Pulmonary fibrosis is a progressive scarring of lung tissue leading to impaired oxygen exchange.",
+    "Idiopathic pulmonary fibrosis is the most common form with unknown cause.",
+    "Common symptoms include shortness of breath, dry cough, and fatigue.",
+    "Diagnosis requires clinical assessment, imaging, and lung function testing.",
+    "No cure exists, but antifibrotic drugs can slow progression.",
+    "Oxygen therapy and pulmonary rehabilitation improve symptoms and quality of life.",
+    "Avoidance of smoking and lung irritants is important in management.",
+    "Early recognition and multidisciplinary care improve outcomes."
+  ],
+  "glossary": [
+    {
+      "term": "Pulmonary Fibrosis",
+      "definition": "A chronic lung disease characterized by scarring and stiffening of lung tissue that impairs respiratory function."
+    },
+    {
+      "term": "Interstitial Lung Disease (ILD)",
+      "definition": "A group of disorders causing inflammation and scarring of the lung interstitium."
+    },
+    {
+      "term": "Idiopathic pulmonary fibrosis (IPF)",
+      "definition": "A form of pulmonary fibrosis with unknown cause, typically affecting older adults."
+    },
+    {
+      "term": "Fibrosis",
+      "definition": "Formation of excess fibrous connective tissue as part of a reparative or reactive process."
+    },
+    {
+      "term": "Alveoli",
+      "definition": "Tiny air sacs in the lungs where oxygen and carbon dioxide are exchanged."
+    },
+    {
+      "term": "Dyspnea",
+      "definition": "Medical term for shortness of breath or difficulty breathing."
+    },
+    {
+      "term": "High-Resolution Computed Tomography (HRCT)",
+      "definition": "An imaging technique that produces detailed pictures of the lungs, essential for diagnosing ILD."
+    },
+    {
+      "term": "Antifibrotic medications",
+      "definition": "Drugs that reduce or slow the formation of fibrosis in lung tissue, e.g., pirfenidone and nintedanib."
+    }
+  ],
+  "related_modules": [
+    "COND-045",
+    "COND-055"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Normal Lung vs Fibrotic Lung Tissue",
+      "illustration_type": "Diagram",
+      "description": "Comparison of healthy lung alveoli and lung tissue affected by fibrosis showing scarring and thickening of alveolar walls.",
+      "alt_text": "Diagram showing normal lung alveoli next to fibrotic lung tissue with thickening and scarring."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "High-Resolution CT Scan Showing Usual Interstitial Pneumonia Pattern",
+      "illustration_type": "Radiologic Image",
+      "description": "HRCT scan demonstrating honeycombing and reticular markings typical of UIP pattern in idiopathic pulmonary fibrosis.",
+      "alt_text": "CT scan image showing characteristic honeycomb pattern in lungs indicative of pulmonary fibrosis."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Pulmonary Function Test Graphs in Pulmonary Fibrosis",
+      "illustration_type": "Graph",
+      "description": "Graphs depicting reduced lung volumes and diffusing capacity for carbon monoxide (DLCO) in pulmonary fibrosis patients compared to normal.",
+      "alt_text": "Graphs comparing normal and reduced lung function parameters in pulmonary fibrosis."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Clinical Progression and Management Overview",
+      "illustration_type": "Flowchart",
+      "description": "Flowchart outlining disease progression stages, diagnostic steps, treatment options, and supportive care strategies for pulmonary fibrosis.",
+      "alt_text": "Flowchart illustrating pulmonary fibrosis clinical stages, diagnostics, and management."
+    }
+  ],
+  "references": [
+    {
+      "title": "Idiopathic Pulmonary Fibrosis: Diagnosis and Treatment",
+      "organization_or_authors": "American Thoracic Society / European Respiratory Society",
+      "year": "2011",
+      "identifier": "ATS/ERS Guidelines",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Idiopathic Pulmonary Fibrosis: An Update",
+      "organization_or_authors": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "year": "2020",
+      "identifier": "NHLBI Document",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Antifibrotic Therapy for Idiopathic Pulmonary Fibrosis",
+      "organization_or_authors": "U.S. Food and Drug Administration (FDA)",
+      "year": "2023",
+      "identifier": "FDA Drug Info",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Pulmonary Fibrosis Fact Sheet",
+      "organization_or_authors": "Pulmonary Fibrosis Foundation",
+      "year": "2023",
+      "identifier": "PFF Educational Material",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence for diagnosis and management, with emerging evidence for novel therapies and lifestyle impact.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

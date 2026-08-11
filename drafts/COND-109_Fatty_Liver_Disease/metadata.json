@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-109",
+  "title": "Fatty Liver Disease",
+  "subtitle": "What fatty liver disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate, health literate layperson",
+  "keywords": [
+    "fatty liver",
+    "hepatic steatosis",
+    "nonalcoholic fatty liver disease",
+    "NAFLD",
+    "nonalcoholic steatohepatitis",
+    "NASH",
+    "liver disease",
+    "liver fat",
+    "alcoholic liver disease",
+    "lifestyle"
+  ],
+  "related_modules": [
+    "COND-101-LiverFunction",
+    "COND-110-MetabolicSyndrome",
+    "COND-115-DiabetesMellitus"
+  ],
+  "evidence_strength": "Established evidence for lifestyle-based management; moderate emerging evidence for pharmacotherapy; limitations in diagnostic precision and disease progression predictability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

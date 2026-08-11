@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-187",
+  "title": "Peripheral Neuropathy",
+  "subtitle": "What peripheral neuropathy is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Neurologic and Cognitive",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Peripheral neuropathy",
+    "Nerve damage",
+    "Neurologic symptoms",
+    "Diabetes",
+    "Nerve function",
+    "Polyneuropathy",
+    "Mononeuropathy",
+    "Sensory loss"
+  ],
+  "related_modules": [
+    "COND-115-Diabetes-Mellitus",
+    "COND-220-Autoimmune-Disorders",
+    "COND-365-Neuropathic-Pain"
+  ],
+  "evidence_strength": "Established evidence with moderate evidence for emerging treatments and lifestyle interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

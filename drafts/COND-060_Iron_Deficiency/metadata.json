@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-060",
+  "title": "Iron Deficiency",
+  "subtitle": "What iron deficiency is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Metabolic and Endocrine",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Monitoring",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "iron deficiency",
+    "anemia",
+    "iron deficiency anemia",
+    "ferritin",
+    "iron metabolism",
+    "iron supplements",
+    "dietary iron",
+    "iron absorption"
+  ],
+  "related_modules": [
+    "COND-061",
+    "COND-062"
+  ],
+  "evidence_strength": "Established evidence with some emerging research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

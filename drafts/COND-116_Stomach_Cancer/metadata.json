@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-116",
+  "title": "Stomach Cancer",
+  "subtitle": "What stomach cancer is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Survivorship"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stomach cancer",
+    "gastric cancer",
+    "risk factors",
+    "symptoms",
+    "diagnosis",
+    "treatment",
+    "prevention",
+    "diet",
+    "screening"
+  ],
+  "related_modules": [
+    "COND-118",
+    "COND-120",
+    "COND-101"
+  ],
+  "evidence_strength": "Established evidence for major causes and treatments; moderate emerging evidence for targeted therapies and screening impact; ongoing research in molecular mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

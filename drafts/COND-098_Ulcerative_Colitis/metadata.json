@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-098",
+  "title": "Ulcerative Colitis",
+  "subtitle": "What ulcerative colitis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Management",
+    "Patient Education"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Accessible to general adult audience with some medical terms explained",
+  "keywords": [
+    "Ulcerative colitis",
+    "Inflammatory bowel disease",
+    "IBD",
+    "Colon inflammation",
+    "Rectal bleeding",
+    "Diarrhea",
+    "Autoimmune",
+    "Corticosteroids",
+    "Aminosalicylates",
+    "Immunomodulators"
+  ],
+  "related_modules": [
+    "COND-099",
+    "COND-100",
+    "COND-101"
+  ],
+  "evidence_strength": "Established evidence for clinical features, diagnosis, and standard therapies; emerging evidence in pathogenesis and novel treatments; moderate confidence in lifestyle effects",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

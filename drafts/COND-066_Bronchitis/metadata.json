@@ -1,0 +1,41 @@
+{
+  "module_id": "COND-066",
+  "title": "Bronchitis",
+  "subtitle": "What bronchitis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Symptom/Sign Recognition",
+    "Differential Diagnosis",
+    "Initial Management",
+    "Follow-up Care"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "bronchitis",
+    "respiratory infection",
+    "chest cold",
+    "cough",
+    "bronchial tubes",
+    "acute bronchitis",
+    "chronic bronchitis",
+    "smoking",
+    "inflammation",
+    "airway obstruction"
+  ],
+  "related_modules": [
+    "COND-034-Chronic-Obstructive-Pulmonary-Disease",
+    "COND-042-Pneumonia",
+    "COND-077-Asthma",
+    "HEAL-012-Smoking-Cessation"
+  ],
+  "evidence_strength": "Established evidence for definitions, causes, symptoms, and management protocols with moderate evidence regarding optimal antibiotic use and emerging evidence on novel therapies for chronic bronchitis.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

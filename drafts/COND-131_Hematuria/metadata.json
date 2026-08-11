@@ -1,0 +1,35 @@
+{
+  "module_id": "COND-131",
+  "title": "Hematuria",
+  "subtitle": "What hematuria is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Hematuria",
+    "Blood in urine",
+    "Urinary tract",
+    "Kidney disease",
+    "Urinary symptoms",
+    "Microscopic hematuria",
+    "Macroscopic hematuria"
+  ],
+  "related_modules": [
+    "COND-150",
+    "COND-156",
+    "COND-162"
+  ],
+  "evidence_strength": "Established evidence from clinical practice guidelines and observational studies; some areas with moderate evidence regarding management approaches; limited evidence for lifestyle interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

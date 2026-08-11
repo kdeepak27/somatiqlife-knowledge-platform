@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-188",
+  "title": "Carpal Tunnel Neuropathy",
+  "subtitle": "What carpal tunnel neuropathy is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Neurologic and Cognitive",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "carpal tunnel syndrome",
+    "median nerve",
+    "neuropathy",
+    "wrist compression",
+    "nerve entrapment",
+    "CTS",
+    "symptoms",
+    "treatment",
+    "risk factors",
+    "diagnosis"
+  ],
+  "related_modules": [
+    "COND-115",
+    "COND-122",
+    "COND-140"
+  ],
+  "evidence_strength": "Established evidence supports clinical diagnosis and conservative management; moderate evidence for corticosteroid injections; well-studied surgical outcomes with high success rates; ongoing research on novel therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

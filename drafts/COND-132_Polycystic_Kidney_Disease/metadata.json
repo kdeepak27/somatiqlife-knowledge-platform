@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-132",
+  "title": "Polycystic Kidney Disease",
+  "subtitle": "What polycystic kidney disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Kidney and Urinary",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Long-term Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Grade 10-12)",
+  "keywords": [
+    "polycystic kidney disease",
+    "PKD",
+    "kidney cysts",
+    "autosomal dominant polycystic kidney disease",
+    "ADPKD",
+    "autosomal recessive polycystic kidney disease",
+    "ARPKD",
+    "kidney failure",
+    "hypertension",
+    "kidney function"
+  ],
+  "related_modules": [
+    "COND-101",
+    "COND-158",
+    "COND-135"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and peer-reviewed research with emerging therapies still under investigation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

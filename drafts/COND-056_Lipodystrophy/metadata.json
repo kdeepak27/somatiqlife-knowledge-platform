@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-056",
+  "title": "Lipodystrophy",
+  "subtitle": "What lipodystrophy is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Metabolic and Endocrine",
+  "som_stages": [
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "lipodystrophy",
+    "adipose tissue",
+    "fat distribution",
+    "metabolic syndrome",
+    "insulin resistance",
+    "treatment",
+    "management",
+    "diagnosis",
+    "causes",
+    "symptoms"
+  ],
+  "related_modules": [
+    "COND-034-Metabolic-Syndrome",
+    "COND-047-Diabetes-Mellitus",
+    "COND-052-HIV-Associated-Conditions"
+  ],
+  "evidence_strength": "Established evidence with some emerging research areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

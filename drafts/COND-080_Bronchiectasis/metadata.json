@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-080",
+  "title": "Bronchiectasis",
+  "subtitle": "What bronchiectasis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Evaluation",
+    "Management",
+    "Long-term Care"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Moderate (Grade 10+ level)",
+  "keywords": [
+    "Bronchiectasis",
+    "Chronic lung disease",
+    "Airway dilation",
+    "Pulmonary infection",
+    "Respiratory symptoms",
+    "Lung function",
+    "Airway clearance",
+    "Infections"
+  ],
+  "related_modules": [
+    "COND-045",
+    "COND-027",
+    "COND-079"
+  ],
+  "evidence_strength": "Established evidence supported primarily by observational studies and clinical guidelines; emerging evidence on novel treatments such as long-term macrolide therapy; limitations exist due to heterogeneous patient populations and variable treatment responses.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

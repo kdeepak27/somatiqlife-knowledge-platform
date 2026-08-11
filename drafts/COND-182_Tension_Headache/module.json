@@ -1,0 +1,266 @@
+{
+  "module_id": "COND-182",
+  "title": "Tension Headache",
+  "subtitle": "What tension headache is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Neurologic and Cognitive",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Tension headache",
+    "Headache",
+    "Muscle tension",
+    "Stress headache",
+    "Pain management",
+    "Neurology"
+  ],
+  "customer_questions": [
+    "What is a tension headache?",
+    "What causes tension headaches?",
+    "How can I tell if my headache is a tension headache?",
+    "What are the symptoms of a tension headache?",
+    "How are tension headaches diagnosed?",
+    "What treatments are available for tension headaches?",
+    "Can tension headaches be prevented?",
+    "Are tension headaches dangerous?",
+    "What lifestyle changes can help reduce tension headaches?",
+    "When should I see a doctor for a tension headache?",
+    "What is the difference between tension headaches and migraines?",
+    "Are there any medication side effects for tension headache treatments?"
+  ],
+  "retrieval_summary": "Tension headache, also known as tension-type headache or stress headache, is the most common form of primary headache disorder characterized by a dull, pressing, or tightening pain typically bilateral on the head. It is thought to arise primarily from muscle tension and central nervous system sensitization, although the exact mechanisms remain under investigation. The pain is usually mild to moderate and not aggravated by routine physical activity, distinguishing it clinically from migraine headaches. Understanding tension headaches is important as they can significantly impair quality of life despite being non-life-threatening. Synonyms include 'stress headache' and 'muscle contraction headache'. Diagnostic criteria are based on clinical history and symptom description as there are no definitive diagnostic tests. Treatment focuses on both pharmacologic approaches, such as analgesics, and non-pharmacologic strategies including stress management and lifestyle modifications. Limitations in current knowledge include incomplete understanding of pathophysiology and variability in individual response to treatments. Safety considerations emphasize avoiding medication overuse, which can paradoxically exacerbate headache symptoms and lead to medication-overuse headache. This module provides a comprehensive overview aimed at facilitating recognition, effective management, and patient education to improve outcomes and minimize unnecessary treatments or complications.",
+  "learning_objectives": [
+    "Define tension headache and understand its clinical characteristics.",
+    "Identify common causes and risk factors associated with tension headaches.",
+    "Recognize the typical signs and symptoms of tension headaches.",
+    "Understand how tension headaches are evaluated and diagnosed clinically.",
+    "Explore management strategies including both medications and lifestyle interventions.",
+    "Comprehend prevention methods and practical self-care tips.",
+    "Distinguish tension headaches from other headache types such as migraines.",
+    "Recognize safety issues related to medications and treatment approaches."
+  ],
+  "definition": "Tension headache is a primary headache disorder characterized by bilateral, pressing or tightening pain of mild to moderate intensity, without associated nausea, and typically not worsened by physical activity. It is the most common type of headache and is often linked to muscle tension and stress.",
+  "why_this_matters": "Tension headaches affect a large proportion of the population worldwide and can cause significant discomfort and impact on daily activities. Recognizing and managing tension headaches effectively helps improve quality of life, prevents progression to chronic headache, and reduces unnecessary use of healthcare resources.",
+  "sections": [
+    {
+      "heading": "Definition and Clinical Features of Tension Headache",
+      "content": "Tension headache, also called tension-type headache (TTH), is characterized by bilateral, non-pulsating headache pain described as pressure or tightness around the head. The pain intensity is usually mild to moderate and does not worsen with routine physical activity. Unlike migraines, tension headaches typically lack features such as nausea, vomiting, or sensitivity to light and sound. Symptoms can last from 30 minutes to several days. TTH is classified by the International Headache Society into episodic (infrequent or frequent) and chronic types based on frequency and duration of episodes."
+    },
+    {
+      "heading": "Causes and Pathophysiology",
+      "content": "The exact cause of tension headaches remains incompletely understood. They are believed to result from a combination of peripheral mechanisms such as sustained muscle contraction and central mechanisms including sensitization of nociceptive pathways within the central nervous system. Factors like emotional stress, anxiety, poor posture, and sleep disturbances are commonly implicated triggers. The role of muscle tension in the scalp, neck, and shoulders has been supported by electromyographic studies, though this is not a universal finding. Emerging evidence suggests neurotransmitter imbalances may contribute to the disorder."
+    },
+    {
+      "heading": "Risk Factors for Developing Tension Headaches",
+      "content": "Predisposing factors for tension headaches include psychological stress, anxiety disorders, depression, poor sleep quality, and sustained periods of poor posture (e.g., prolonged computer use). Women are affected more frequently than men, and there is evidence for a genetic component as well. Chronic pain conditions such as temporomandibular disorders can also increase risk. Environmental factors like excessive noise or bright lighting may exacerbate symptoms."
+    },
+    {
+      "heading": "Symptoms and Symptom Variability",
+      "content": "Symptoms mainly consist of bilateral, pressing or tightening head pain that is mild to moderate in intensity. The pain is typically described as a band-like sensation around the head. Unlike migraines, tension headaches usually lack associated nausea, vomiting, or severe sensitivity to light and sound, although some patients report mild photophobia or phonophobia. Duration varies from 30 minutes to several days. Some individuals experience neck or shoulder muscle tightness concurrently."
+    },
+    {
+      "heading": "Clinical Evaluation and Diagnosis",
+      "content": "Diagnosis of tension headache is clinical and based on the patient’s history and symptom profile, as no specific diagnostic tests exist. The International Classification of Headache Disorders (ICHD) criteria require bilateral pressing or tightening pain of mild to moderate intensity without associated migraine symptoms. A careful neurological examination is essential to exclude secondary causes of headache. Additional investigations such as imaging or laboratory testing are generally not needed unless red flag symptoms (like sudden onset, neurological deficits, or systemic signs) are present."
+    },
+    {
+      "heading": "Management and Treatment Strategies",
+      "content": "Management includes both pharmacologic treatments and non-pharmacologic approaches. First-line medications often include over-the-counter analgesics such as acetaminophen or nonsteroidal anti-inflammatory drugs (NSAIDs). For frequent or chronic tension headaches, tricyclic antidepressants (e.g., amitriptyline) may be prescribed. Non-pharmacologic treatments focus on stress management, physical therapy, muscle relaxation techniques, and biofeedback. Identifying and addressing trigger factors is crucial to effective treatment."
+    },
+    {
+      "heading": "Lifestyle and Self-Care Considerations",
+      "content": "Lifestyle interventions can reduce the frequency and severity of tension headaches. Recommendations include maintaining regular sleep patterns, engaging in regular physical activity, practicing relaxation techniques (such as mindfulness or progressive muscle relaxation), and managing stress. Ergonomic adjustments to improve posture, especially during work or screen time, are beneficial. Avoiding excessive caffeine and alcohol may also help in some individuals."
+    },
+    {
+      "heading": "Prevention of Tension Headaches",
+      "content": "Preventive strategies aim to reduce headache frequency and impact through lifestyle modifications and, if indicated, pharmacotherapy. Regular stress management and adequate sleep are key preventive measures. For patients with frequent or chronic tension headaches, prophylactic medications such as low-dose amitriptyline may be considered. It is important to avoid medication overuse, which can lead to worsening headache patterns (medication-overuse headache). Behavioral therapies and physical therapy may also be used preventively."
+    },
+    {
+      "heading": "Differences Between Tension Headaches and Migraines",
+      "content": "Tension headaches differ from migraines in clinical features, associated symptoms, and treatment approaches. Tension headaches typically present with bilateral, mild to moderate, pressing or tightening pain without nausea or significant sensitivity to light or sound. Migraine headaches are often unilateral, moderate to severe, pulsating, and associated with nausea, vomiting, and photophobia or phonophobia. Migraines may also be worsened by physical activity, features generally absent in tension headaches. Understanding these differences helps guide appropriate management."
+    },
+    {
+      "heading": "Limitations and Uncertainties in Current Knowledge",
+      "content": "Despite being common, the underlying mechanisms of tension headaches are not fully elucidated. The relative contributions of muscle tension versus central nervous system sensitization vary between individuals and remain subjects of research. Additionally, diagnostic criteria rely on symptom description without biomarker or imaging confirmation. Treatment responses vary and no universally effective therapy exists. Future studies are needed to understand neurobiological pathways, identify predictive markers, and develop targeted therapies."
+    },
+    {
+      "heading": "Safety and Potential Complications",
+      "content": "Tension headaches are generally benign without serious complications. However, frequent use of analgesics risks developing medication-overuse headache, which can worsen symptoms and complicate management. Patients should use medications as directed and under medical supervision if headaches become frequent. Psychological distress from chronic headaches may impact quality of life and warrants attention. It is important to seek medical evaluation for red flag symptoms including sudden onset headache, neurological changes, or headaches associated with systemic illness."
+    }
+  ],
+  "practical_guidance": [
+    "Use over-the-counter pain relievers like acetaminophen or NSAIDs for occasional tension headaches.",
+    "Practice regular stress reduction techniques such as mindfulness or yoga to decrease headache frequency.",
+    "Maintain good posture especially during prolonged computer use or reading to avoid muscle strain.",
+    "Monitor headache frequency and intensity to identify potential triggers.",
+    "Avoid overuse of pain medications to prevent medication-overuse headache.",
+    "Consult a healthcare provider if headaches become frequent, severe, or are accompanied by concerning symptoms.",
+    "Consider physical therapy or biofeedback for chronic muscle tension and headache management.",
+    "Implement regular exercise and healthy sleep routines as part of preventive care."
+  ],
+  "safety_notes": [
+    "Avoid excessive or frequent use of analgesic medications to prevent medication-overuse headache.",
+    "Seek prompt medical evaluation if headaches worsen suddenly or come with neurological symptoms.",
+    "Inform healthcare providers about all medications being taken to avoid potential interactions.",
+    "Use relaxation and physical therapies safely and under guidance when possible.",
+    "Be cautious with use of tricyclic antidepressants and other prescription medications due to potential side effects and contraindications."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Tension headaches are caused solely by muscle tightness.",
+      "reality": "While muscle tension contributes, central nervous system sensitization and other factors also play significant roles in tension headaches."
+    },
+    {
+      "misconception": "All headaches that feel like pressure are tension headaches.",
+      "reality": "Other headache types, including migraines and secondary headaches, can present with pressure-like pain; proper evaluation is necessary."
+    },
+    {
+      "misconception": "Tension headaches are dangerous and indicate serious illness.",
+      "reality": "Tension headaches are common and usually benign, but new or worsening headaches should be assessed to rule out serious causes."
+    },
+    {
+      "misconception": "Taking more pain medication will always relieve tension headaches faster.",
+      "reality": "Overuse of pain medication can worsen headaches and lead to medication-overuse headache."
+    }
+  ],
+  "clinical_pearls": [
+    "Tension headaches rarely cause nausea or vomiting, distinguishing them from migraines.",
+    "A detailed headache history is key to diagnosis as no specific tests confirm tension headache.",
+    "Stress management and lifestyle changes are foundational to preventing tension headaches.",
+    "Medication overuse is a common cause of chronic headache worsening and should be avoided.",
+    "Tricyclic antidepressants can be effective for chronic or frequent tension headaches but require monitoring.",
+    "Physical therapy can relieve contributing muscle tension in the neck and shoulders.",
+    "Education about headache types improves patient adherence and outcomes.",
+    "Regular exercise and sleep hygiene significantly reduce headache frequency."
+  ],
+  "key_takeaways": [
+    "Tension headache is the most common primary headache characterized by pressing, bilateral head pain.",
+    "Symptoms typically lack migraine features like nausea and sensitivity to light or sound.",
+    "Muscle tension and central nervous system sensitization are implicated causes, although mechanisms vary.",
+    "Diagnosis relies on clinical criteria; no confirmatory tests exist.",
+    "Treatment includes analgesics and non-pharmacologic methods like relaxation and physical therapy.",
+    "Preventive measures focus on stress management, sleep, and posture correction.",
+    "Avoid medication overuse to prevent worsening headaches.",
+    "Tension headaches generally have a benign prognosis but can impact quality of life. Maintain medical follow-up if symptoms change.",
+    "Distinguishing tension headache from migraine is critical for appropriate management.",
+    "Emerging research aims to better understand biological mechanisms and develop targeted treatments."
+  ],
+  "glossary": [
+    {
+      "term": "Tension Headache",
+      "definition": "A common type of headache characterized by bilateral, pressing or tightening pain of mild to moderate intensity without associated migraine symptoms."
+    },
+    {
+      "term": "Tension-Type Headache (TTH)",
+      "definition": "Synonym for tension headache."
+    },
+    {
+      "term": "Muscle Tension",
+      "definition": "Sustained contraction of muscles, often around the scalp, neck, or shoulders, thought to contribute to tension headaches."
+    },
+    {
+      "term": "Medication-Overuse Headache (MOH)",
+      "definition": "A headache disorder caused by frequent overuse of pain relief medication, leading to worsening headache symptoms."
+    },
+    {
+      "term": "Analgesics",
+      "definition": "Medications used to relieve pain such as acetaminophen and NSAIDs."
+    },
+    {
+      "term": "Nonsteroidal Anti-inflammatory Drugs (NSAIDs)",
+      "definition": "A class of pain-relieving medications that reduce inflammation, e.g., ibuprofen and naproxen."
+    },
+    {
+      "term": "Photophobia",
+      "definition": "Sensitivity to light, often associated with migraine headaches."
+    },
+    {
+      "term": "Phonophobia",
+      "definition": "Sensitivity to sound, commonly seen in migraines."
+    },
+    {
+      "term": "Tricyclic Antidepressants",
+      "definition": "A class of medications sometimes used in low doses to prevent chronic tension headaches."
+    },
+    {
+      "term": "Central Sensitization",
+      "definition": "An increased responsiveness of neurons in the central nervous system to stimulation, contributing to chronic pain states including headaches."
+    }
+  ],
+  "related_modules": [
+    "COND-175",
+    "COND-180",
+    "COND-185"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILLU-001",
+      "title": "Headache Pain Localization",
+      "illustration_type": "Diagram",
+      "description": "Illustration showing the typical bilateral distribution of tension headache pain around the head and neck region.",
+      "alt_text": "Diagram of head highlighting areas affected by tension headache."
+    },
+    {
+      "illustration_id": "ILLU-002",
+      "title": "Muscle Tension Contribution",
+      "illustration_type": "Anatomical Illustration",
+      "description": "Illustration of neck and shoulder muscles demonstrating areas of muscle tension linked to tension headaches.",
+      "alt_text": "Anatomical drawing of neck and shoulder muscles with tension points."
+    },
+    {
+      "illustration_id": "ILLU-003",
+      "title": "Comparison of Headache Types",
+      "illustration_type": "Chart",
+      "description": "Table comparing clinical features of tension headaches, migraines, and cluster headaches.",
+      "alt_text": "Chart comparing symptoms and characteristics of common headache types."
+    },
+    {
+      "illustration_id": "ILLU-004",
+      "title": "Treatment Modalities for Tension Headache",
+      "illustration_type": "Flowchart",
+      "description": "Flowchart depicting an overview of pharmacologic and non-pharmacologic treatment options for tension headaches.",
+      "alt_text": "Flowchart showing treatment approaches for tension headache."
+    }
+  ],
+  "references": [
+    {
+      "title": "The International Classification of Headache Disorders, 3rd edition",
+      "organization_or_authors": "International Headache Society",
+      "year": "2018",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Tension-Type Headache: Epidemiology, Diagnosis, and Management",
+      "organization_or_authors": "M. Bendtsen, R. Jensen",
+      "year": "2018",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Pharmacologic Treatment of Tension-Type Headache",
+      "organization_or_authors": "American Academy of Neurology",
+      "year": "2021",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Non-pharmacologic Therapies for Tension-Type Headache",
+      "organization_or_authors": "Cochrane Review",
+      "year": "2020",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence for clinical features and management; emerging evidence for pathophysiology and prevention.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

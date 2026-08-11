@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-077",
+  "title": "Allergic Rhinitis",
+  "subtitle": "What allergic rhinitis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Susceptibility",
+    "Diagnosis",
+    "Management",
+    "Long-term Care"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8 - Grade 10",
+  "keywords": [
+    "Allergic Rhinitis",
+    "Hay Fever",
+    "Nasal Allergy",
+    "Allergy Symptoms",
+    "Antihistamines",
+    "Immunotherapy",
+    "Sinus Congestion",
+    "Seasonal Allergy",
+    "Perennial Allergy",
+    "Nasal Spray"
+  ],
+  "related_modules": [
+    "COND-081-Asthma",
+    "COND-079-Sinusitis",
+    "COND-082-AllergicConjunctivitis"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and systematic reviews.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
