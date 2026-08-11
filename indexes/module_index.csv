@@ -204,6 +204,56 @@ MED-052,Insulin,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-
 MED-053,Basal Insulin,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-053_Basal_Insulin/module.json
 MED-054,Mealtime Insulin,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-054_Mealtime_Insulin/module.json
 MED-055,Thiazolidinediones,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-055_Thiazolidinediones/module.json
+MED-056,Alpha-Glucosidase Inhibitors,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-056_Alpha-Glucosidase_Inhibitors/module.json
+MED-057,Weight-Loss Medicines,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-057_Weight-Loss_Medicines/module.json
+MED-058,Semaglutide,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-058_Semaglutide/module.json
+MED-059,Tirzepatide,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-059_Tirzepatide/module.json
+MED-060,Diabetes Medicine Safety,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-060_Diabetes_Medicine_Safety/module.json
+MED-061,Acetaminophen,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-061_Acetaminophen/module.json
+MED-062,NSAIDs,Medications,Pain and Inflammation Medicines,2024-06-19,drafts,drafts/MED-062_NSAIDs/module.json
+MED-063,Ibuprofen,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-063_Ibuprofen/module.json
+MED-064,Naproxen,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-064_Naproxen/module.json
+MED-065,Topical NSAIDs,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-065_Topical_NSAIDs/module.json
+MED-066,Aspirin for Pain,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-066_Aspirin_for_Pain/module.json
+MED-067,Opioid Medicines,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-067_Opioid_Medicines/module.json
+MED-068,Tramadol,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-068_Tramadol/module.json
+MED-069,Muscle Relaxants,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-069_Muscle_Relaxants/module.json
+MED-070,Gabapentin,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-070_Gabapentin/module.json
+MED-071,Pregabalin,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-071_Pregabalin/module.json
+MED-072,Topical Pain Medicines,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-072_Topical_Pain_Medicines/module.json
+MED-073,Corticosteroids,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-073_Corticosteroids/module.json
+MED-074,Steroid Injections,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-074_Steroid_Injections/module.json
+MED-075,Pain Medicine Safety,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-075_Pain_Medicine_Safety/module.json
+MED-076,Sleep Medicines,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-076_Sleep_Medicines/module.json
+MED-077,Benzodiazepines,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-077_Benzodiazepines/module.json
+MED-078,Z-Drugs,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-078_Z-Drugs/module.json
+MED-079,Sedating Antidepressants,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-079_Sedating_Antidepressants/module.json
+MED-080,Melatonin Receptor Agonists,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-080_Melatonin_Receptor_Agonists/module.json
+MED-081,Orexin Antagonists,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-081_Orexin_Antagonists/module.json
+MED-082,SSRIs,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-082_SSRIs/module.json
+MED-083,SNRIs,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-083_SNRIs/module.json
+MED-084,Tricyclic Antidepressants,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-084_Tricyclic_Antidepressants/module.json
+MED-085,Bupropion,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-085_Bupropion/module.json
+MED-086,Buspirone,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-086_Buspirone/module.json
+MED-087,Antipsychotic Medicines,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-087_Antipsychotic_Medicines/module.json
+MED-088,Mood Stabilizers,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-088_Mood_Stabilizers/module.json
+MED-089,ADHD Medicines,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-089_ADHD_Medicines/module.json
+MED-090,Mental Health Medicine Safety,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-090_Mental_Health_Medicine_Safety/module.json
+MED-091,Proton Pump Inhibitors,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-091_Proton_Pump_Inhibitors/module.json
+MED-092,H2 Blockers,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-092_H2_Blockers/module.json
+MED-093,Antacids,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-093_Antacids/module.json
+MED-094,Laxatives,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-094_Laxatives/module.json
+MED-095,Osmotic Laxatives,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-095_Osmotic_Laxatives/module.json
+MED-096,Stimulant Laxatives,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-096_Stimulant_Laxatives/module.json
+MED-097,Antidiarrheal Medicines,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-097_Antidiarrheal_Medicines/module.json
+MED-098,Antihistamines,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-098_Antihistamines/module.json
+MED-099,Inhaled Bronchodilators,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-099_Inhaled_Bronchodilators/module.json
+MED-100,Inhaled Corticosteroids,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-100_Inhaled_Corticosteroids/module.json
+MED-101,Asthma Controller Medicines,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-101_Asthma_Controller_Medicines/module.json
+MED-102,Nasal Steroid Sprays,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-102_Nasal_Steroid_Sprays/module.json
+MED-103,Decongestants,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-103_Decongestants/module.json
+MED-104,Cough Medicines,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-104_Cough_Medicines/module.json
+MED-105,Digestive and Respiratory Medicine Safety,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-105_Digestive_and_Respiratory_Medicine_Safety/module.json
 SUP-001,Dietary Supplements Overview,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-001_Dietary_Supplements_Overview/module.json
 SUP-002,How Supplements Are Regulated,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-002_How_Supplements_Are_Regulated/module.json
 SUP-003,How to Read a Supplement Label,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-003_How_to_Read_a_Supplement_Label/module.json
