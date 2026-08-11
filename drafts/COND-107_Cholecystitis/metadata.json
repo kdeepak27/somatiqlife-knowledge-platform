@@ -1,0 +1,33 @@
+{
+  "module_id": "COND-107",
+  "title": "Cholecystitis",
+  "subtitle": "What cholecystitis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "General Public",
+    "Patients"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "cholecystitis",
+    "gallbladder inflammation",
+    "gallstones",
+    "digestive health",
+    "right upper quadrant pain",
+    "biliary colic",
+    "gallbladder disease"
+  ],
+  "related_modules": [
+    "COND-108",
+    "COND-109"
+  ],
+  "evidence_strength": "Established evidence with some emerging research in diagnostics and minimally invasive treatments",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
