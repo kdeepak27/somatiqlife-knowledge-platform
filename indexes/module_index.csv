@@ -4,6 +4,56 @@ COND-002,High LDL Cholesterol,Medical Conditions,Cardiovascular Conditions,1.0,d
 COND-003,High Triglycerides,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-003_High_Triglycerides/module.json
 COND-004,Atherosclerosis,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-004_Atherosclerosis/module.json
 COND-005,Coronary Artery Disease,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-005_Coronary_Artery_Disease/module.json
+COND-006,Angina,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-006_Angina/module.json
+COND-007,Heart Attack,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-007_Heart_Attack/module.json
+COND-008,Heart Failure,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-008_Heart_Failure/module.json
+COND-009,Atrial Fibrillation,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-009_Atrial_Fibrillation/module.json
+COND-010,Supraventricular Tachycardia,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-010_Supraventricular_Tachycardia/module.json
+COND-011,Bradycardia,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-011_Bradycardia/module.json
+COND-012,Heart Valve Disease,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-012_Heart_Valve_Disease/module.json
+COND-013,Aortic Aneurysm,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-013_Aortic_Aneurysm/module.json
+COND-014,Peripheral Artery Disease,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-014_Peripheral_Artery_Disease/module.json
+COND-015,Deep Vein Thrombosis,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-015_Deep_Vein_Thrombosis/module.json
+COND-016,Pulmonary Embolism,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-016_Pulmonary_Embolism/module.json
+COND-017,Varicose Veins,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-017_Varicose_Veins/module.json
+COND-018,Postural Hypotension,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-018_Postural_Hypotension/module.json
+COND-019,Cardiomyopathy,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-019_Cardiomyopathy/module.json
+COND-020,Pericarditis,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-020_Pericarditis/module.json
+COND-021,Endocarditis,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-021_Endocarditis/module.json
+COND-022,Stroke,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-022_Stroke/module.json
+COND-023,Transient Ischemic Attack,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-023_Transient_Ischemic_Attack/module.json
+COND-024,Carotid Artery Disease,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-024_Carotid_Artery_Disease/module.json
+COND-025,Raynaud Phenomenon,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-025_Raynaud_Phenomenon/module.json
+COND-026,Venous Insufficiency,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-026_Venous_Insufficiency/module.json
+COND-027,Pulmonary Hypertension,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-027_Pulmonary_Hypertension/module.json
+COND-028,Congenital Heart Disease in Adults,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-028_Congenital_Heart_Disease_in_Adults/module.json
+COND-029,Metabolic Cardiovascular Risk,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-029_Metabolic_Cardiovascular_Risk/module.json
+COND-030,Cardiovascular Disease in South Asians,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-030_Cardiovascular_Disease_in_South_Asians/module.json
+COND-031,Prediabetes,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-031_Prediabetes/module.json
+COND-032,Type 2 Diabetes,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-032_Type_2_Diabetes/module.json
+COND-033,Type 1 Diabetes,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-033_Type_1_Diabetes/module.json
+COND-034,Insulin Resistance,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-034_Insulin_Resistance/module.json
+COND-035,Metabolic Syndrome,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-035_Metabolic_Syndrome/module.json
+COND-036,Obesity,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-036_Obesity/module.json
+COND-037,Overweight,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-037_Overweight/module.json
+COND-038,Hypoglycemia,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-038_Hypoglycemia/module.json
+COND-039,Hyperglycemia,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-039_Hyperglycemia/module.json
+COND-040,Diabetic Neuropathy,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-040_Diabetic_Neuropathy/module.json
+COND-041,Diabetic Retinopathy,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-041_Diabetic_Retinopathy/module.json
+COND-042,Diabetic Kidney Disease,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-042_Diabetic_Kidney_Disease/module.json
+COND-043,Hypothyroidism,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-043_Hypothyroidism/module.json
+COND-044,Hyperthyroidism,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-044_Hyperthyroidism/module.json
+COND-045,Hashimoto Thyroiditis,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-045_Hashimoto_Thyroiditis/module.json
+COND-046,Graves Disease,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-046_Graves_Disease/module.json
+COND-047,Thyroid Nodules,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-047_Thyroid_Nodules/module.json
+COND-048,Goiter,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-048_Goiter/module.json
+COND-049,Cushing Syndrome,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-049_Cushing_Syndrome/module.json
+COND-050,Adrenal Insufficiency,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-050_Adrenal_Insufficiency/module.json
+COND-051,Polycystic Ovary Syndrome,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-051_Polycystic_Ovary_Syndrome/module.json
+COND-052,Gout,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-052_Gout/module.json
+COND-053,Hyperuricemia,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-053_Hyperuricemia/module.json
+COND-054,Hemochromatosis,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-054_Hemochromatosis/module.json
+COND-055,Metabolic Dysfunction-Associated Steatotic Liver Disease,Medical Conditions,Metabolic and Endocrine,1.0,drafts,drafts/COND-055_Metabolic_Dysfunction-Associated_Steatotic_Liver_Disease/module.json
 LAB-001,Understanding Laboratory Tests,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-001_Understanding_Laboratory_Tests/module.json
 LAB-002,Reference Ranges,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-002_Reference_Ranges/module.json
 LAB-003,Normal vs Optimal Lab Values,Laboratory Tests and Biomarkers,Lab Testing Foundations,1.0,drafts,drafts/LAB-003_Normal_vs_Optimal_Lab_Values/module.json
