@@ -1,0 +1,37 @@
+{
+  "module_id": "MED-046",
+  "title": "Metformin",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to metformin.",
+  "domain": "Medications",
+  "category": "Diabetes and Weight Medicines",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment Initiation",
+    "Long-term Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Metformin",
+    "Type 2 Diabetes",
+    "Blood Sugar Control",
+    "Weight Loss",
+    "Medication Safety",
+    "Side Effects",
+    "Pharmacology",
+    "Drug Interactions"
+  ],
+  "related_modules": [
+    "MED-030-Diabetes-Overview",
+    "MED-102-Insulin-Therapy",
+    "MED-077-Weight-Management-Medications"
+  ],
+  "evidence_strength": "Established evidence from multiple clinical trials supports metformin’s use in type 2 diabetes management. Emerging research suggests additional benefits in weight management and metabolic health. Some safety concerns are well documented, while rare adverse effects require careful clinical judgment. Ongoing studies explore novel uses and mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

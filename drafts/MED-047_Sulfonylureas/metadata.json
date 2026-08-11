@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-047",
+  "title": "Sulfonylureas",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to sulfonylureas.",
+  "domain": "Medications",
+  "category": "Diabetes and Weight Medicines",
+  "som_stages": [
+    "Evaluation",
+    "Treatment optimization",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare professionals"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "sulfonylureas",
+    "type 2 diabetes",
+    "antidiabetic medications",
+    "hypoglycemia",
+    "blood sugar control",
+    "glipizide",
+    "glyburide",
+    "glimepiride"
+  ],
+  "related_modules": [
+    "MED-015",
+    "MED-112",
+    "MED-098"
+  ],
+  "evidence_strength": "Established evidence with some emerging comparative data on alternatives",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

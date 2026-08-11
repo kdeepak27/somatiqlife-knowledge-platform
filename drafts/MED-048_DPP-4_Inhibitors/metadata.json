@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-048",
+  "title": "DPP-4 Inhibitors",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to dpp-4 inhibitors.",
+  "domain": "Medications",
+  "category": "Diabetes and Weight Medicines",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "DPP-4 inhibitors",
+    "diabetes",
+    "GLP-1",
+    "blood sugar",
+    "type 2 diabetes",
+    "side effects",
+    "drug interactions",
+    "monitoring"
+  ],
+  "related_modules": [
+    "MED-030",
+    "MED-052",
+    "MED-055"
+  ],
+  "evidence_strength": "Established evidence supporting efficacy in glycemic control with moderate evidence regarding long-term safety outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
