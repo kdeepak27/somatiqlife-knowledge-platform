@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-011",
+  "title": "Bradycardia",
+  "subtitle": "What bradycardia is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate (Grade 9-10)",
+  "keywords": [
+    "Bradycardia",
+    "Heart rate",
+    "Cardiac conduction",
+    "Symptoms",
+    "Causes",
+    "Management",
+    "Risk factors",
+    "Electrocardiogram",
+    "Pacemaker"
+  ],
+  "related_modules": [
+    "COND-007:Arrhythmias",
+    "COND-009:Heart Failure",
+    "COND-014:Heart Block"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and well-supported physiological studies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

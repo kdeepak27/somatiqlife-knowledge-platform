@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-015",
+  "title": "Deep Vein Thrombosis",
+  "subtitle": "What deep vein thrombosis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Cardiovascular Conditions",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Deep Vein Thrombosis",
+    "DVT",
+    "Venous Thrombosis",
+    "Blood Clots",
+    "Venous Thromboembolism",
+    "Risk Factors",
+    "Symptoms",
+    "Diagnosis",
+    "Treatment",
+    "Prevention"
+  ],
+  "related_modules": [
+    "COND-016",
+    "COND-017",
+    "COND-006"
+  ],
+  "evidence_strength": "Established evidence from guideline-based consensus and clinical trials with some areas of emerging research such as individualized risk prediction.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
