@@ -1,0 +1,38 @@
+{
+  "module_id": "MED-117",
+  "title": "Calcium Therapy",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to calcium therapy.",
+  "domain": "Medications",
+  "category": "Hormone and Bone Medicines",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "General Public",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Flesch-Kincaid Grade 8",
+  "keywords": [
+    "Calcium therapy",
+    "Calcium supplements",
+    "Bone health",
+    "Hypocalcemia",
+    "Calcium metabolism",
+    "Hypercalcemia",
+    "Calcium interactions",
+    "Calcium side effects",
+    "Calcium monitoring",
+    "Vitamin D"
+  ],
+  "related_modules": [
+    "MED-102 (Vitamin D and Bone Health)",
+    "MED-108 (Osteoporosis Management)",
+    "MED-115 (Electrolyte Imbalances)"
+  ],
+  "evidence_strength": "Established evidence for bone health benefits with calcium and vitamin D co-supplementation; moderate evidence for some risk associations; emerging evidence on optimal dosing and patient selection.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
