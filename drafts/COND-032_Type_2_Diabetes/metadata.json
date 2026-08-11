@@ -1,0 +1,40 @@
+{
+  "module_id": "COND-032",
+  "title": "Type 2 Diabetes",
+  "subtitle": "What type 2 diabetes is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Metabolic and Endocrine",
+  "som_stages": [
+    "prevention",
+    "diagnosis",
+    "management",
+    "complications"
+  ],
+  "audience": [
+    "general public",
+    "patients",
+    "caregivers",
+    "health educators"
+  ],
+  "reading_level": "Grade 8 to 10",
+  "keywords": [
+    "type 2 diabetes",
+    "T2D",
+    "blood sugar",
+    "insulin resistance",
+    "hyperglycemia",
+    "metabolic disorder",
+    "glucose metabolism",
+    "diabetes symptoms",
+    "diabetes management",
+    "lifestyle modification"
+  ],
+  "related_modules": [
+    "COND-033",
+    "COND-034",
+    "COND-041"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials and clinical guidelines",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,40 @@
+{
+  "module_id": "COND-033",
+  "title": "Type 1 Diabetes",
+  "subtitle": "What type 1 diabetes is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Metabolic and Endocrine",
+  "som_stages": [
+    "Awareness",
+    "Screening",
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "General Public"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "Type 1 diabetes",
+    "T1D",
+    "autoimmune diabetes",
+    "insulin deficiency",
+    "blood glucose",
+    "hyperglycemia",
+    "ketoacidosis",
+    "autoantibodies",
+    "pancreatic beta cells",
+    "insulin therapy"
+  ],
+  "related_modules": [
+    "COND-034",
+    "COND-035"
+  ],
+  "evidence_strength": "Established evidence for etiology, diagnosis, and insulin therapy; emerging evidence for immunomodulatory treatments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
