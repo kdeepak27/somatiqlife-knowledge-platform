@@ -1,0 +1,257 @@
+{
+  "module_id": "COND-202",
+  "title": "Stroke Recovery",
+  "subtitle": "What stroke recovery is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Neurologic and Cognitive",
+  "som_stages": [
+    "Acute",
+    "Subacute",
+    "Chronic"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stroke recovery",
+    "neurologic rehabilitation",
+    "brain injury",
+    "stroke symptoms",
+    "stroke management",
+    "risk factors",
+    "stroke evaluation",
+    "post-stroke care",
+    "physical therapy",
+    "cognitive rehabilitation"
+  ],
+  "customer_questions": [
+    "What is stroke recovery and how does it work?",
+    "What are the common causes of stroke?",
+    "Which risk factors increase the likelihood of stroke?",
+    "What symptoms should I look for to suspect a stroke?",
+    "How is stroke evaluated and diagnosed?",
+    "What are the main approaches to managing stroke recovery?",
+    "What role does physical therapy play in stroke rehabilitation?",
+    "How do lifestyle changes influence stroke recovery outcomes?",
+    "What are the common complications after a stroke?",
+    "How long does stroke recovery usually take?",
+    "Are there any medications that improve stroke recovery?",
+    "What safety considerations should be taken during stroke recovery?"
+  ],
+  "retrieval_summary": "Stroke recovery refers to the processes and interventions focused on regaining function and minimizing disability following a stroke, a medical emergency caused by interrupted blood flow to the brain leading to brain cell injury or death. Recovery mechanisms involve neuroplasticity, where the brain reorganizes and forms new neural connections to compensate for damaged areas. The recovery journey varies based on stroke type (ischemic or hemorrhagic), location, severity, patient health, and time since the event. Synonyms or related terms include post-stroke rehabilitation, stroke convalescence, and neurologic recovery. Practical relevance lies in restoring motor skills, cognition, speech, and daily living abilities to improve quality of life. Standard management includes medical stabilization, physical, occupational and speech therapies, medications, and lifestyle modifications—each targeted to individual needs. Limitations in recovery arise due to extent of brain damage, comorbidities, and time delays in initiating rehabilitation. Safety is paramount to prevent secondary complications such as falls, aspiration pneumonia, or recurrent strokes. Evidence supporting various rehabilitation techniques ranges from strong (physical therapy) to emerging (neuromodulation). Understanding these factors enables personalized recovery plans offering the best possible functional outcomes while highlighting realistic expectations and safety priorities.",
+  "learning_objectives": [
+    "Define stroke recovery and understand its underlying mechanisms.",
+    "Identify common causes and risk factors for stroke.",
+    "Recognize stroke symptoms and understand evaluation methods.",
+    "Describe management strategies including rehabilitation approaches.",
+    "Understand lifestyle modifications that support recovery.",
+    "Recognize safety considerations during recovery.",
+    "Debunk common misconceptions about stroke recovery.",
+    "Summarize key evidence-based practices in stroke rehabilitation."
+  ],
+  "definition": "Stroke recovery is the process of regaining lost neurological function and adapting to changes following a stroke, a condition where blood flow to parts of the brain is interrupted causing tissue damage. This involves both natural brain repair mechanisms and therapeutic rehabilitation interventions aimed at restoring motor skills, speech, cognition, and independence.",
+  "why_this_matters": "Stroke is a leading cause of long-term disability worldwide. Effective recovery strategies can significantly improve functional outcomes and quality of life for stroke survivors, reduce caregiver burden, and decrease healthcare costs. Understanding stroke recovery empowers patients and caregivers to participate actively in rehabilitation and safety practices.",
+  "sections": [
+    {
+      "heading": "Definition and Overview of Stroke Recovery",
+      "content": "Stroke recovery encompasses biological and therapeutic processes aimed at repairing brain function and compensating for deficits following an ischemic or hemorrhagic stroke. It includes spontaneous recovery via neuroplasticity—the brain's ability to reorganize after injury—and structured rehabilitation such as physical and cognitive therapies. Recovery goals focus on improving mobility, self-care, communication, and cognitive abilities while preventing complications."
+    },
+    {
+      "heading": "Causes and Pathophysiology of Stroke",
+      "content": "Strokes primarily occur due to ischemia (blockage of cerebral blood vessels) or hemorrhage (rupture of blood vessels). Ischemic strokes result from thrombosis or embolism causing oxygen deprivation and neuronal death. Hemorrhagic strokes involve bleeding into brain tissue, increasing pressure and causing cellular injury. These pathological events initiate inflammatory cascades and disrupt neural networks, necessitating targeted recovery interventions."
+    },
+    {
+      "heading": "Risk Factors for Stroke",
+      "content": "Recognized risk factors include hypertension, diabetes mellitus, atrial fibrillation, smoking, hyperlipidemia, obesity, sedentary lifestyle, age, and family history. Understanding and managing these factors before and after a stroke reduces recurrence risk and supports recovery. Some risk factors are modifiable through lifestyle changes and medications, others are nonmodifiable."
+    },
+    {
+      "heading": "Symptoms Indicative of Stroke and Recovery Impairments",
+      "content": "Common acute stroke symptoms are face drooping, arm weakness, speech difficulties, sudden numbness, vision problems, dizziness, and severe headache. Post-stroke impairments vary but often involve hemiparesis, aphasia (language deficits), cognitive decline, and emotional disturbances. Early identification of symptoms facilitates prompt treatment and rehabilitation initiation."
+    },
+    {
+      "heading": "Evaluation and Diagnostic Approaches in Stroke Recovery",
+      "content": "Stroke diagnosis involves clinical examination and neuroimaging such as CT and MRI to characterize stroke type and extent. Evaluation during recovery includes assessments of motor function (e.g., Fugl-Meyer Assessment), speech/language tests, cognitive screening tools, and functional independence measures. Regular monitoring guides rehabilitation planning and tracks progress."
+    },
+    {
+      "heading": "Management Strategies for Stroke Recovery",
+      "content": "Stroke recovery management includes acute medical treatment, prevention of complications, and multidisciplinary rehabilitation. Therapies cover physical therapy focusing on strength and mobility, occupational therapy for daily activities, speech and language therapy to address communication and swallowing difficulties, and psychological support for mood disorders. Pharmacologic interventions may target spasticity, secondary stroke prevention, or neuroprotection."
+    },
+    {
+      "heading": "Physical Therapy and Neurorehabilitation",
+      "content": "Physical therapy is a cornerstone of stroke recovery involving exercises to improve muscle strength, coordination, balance, and gait training. Neurorehabilitation techniques leverage task-specific training, robotics, and neuromodulation to enhance neuroplasticity. Timely and intensive rehabilitation correlates with better functional outcomes as supported by substantial clinical evidence."
+    },
+    {
+      "heading": "Lifestyle Considerations in Promoting Stroke Recovery",
+      "content": "Healthy lifestyle modifications including regular physical activity, balanced diet, smoking cessation, blood pressure control, weight management, and stress reduction support recovery and reduce recurrent stroke risk. Patient education and social support optimize adherence. Emerging evidence highlights benefits of cognitive stimulation and social engagement in neurocognitive recovery."
+    },
+    {
+      "heading": "Common Complications During Stroke Recovery",
+      "content": "Post-stroke complications include infections like pneumonia, deep vein thrombosis, pressure ulcers, depression, spasticity, and recurrent strokes. Awareness and prevention measures such as early mobilization, skin care, prophylactic anticoagulation, and mental health support are critical components of care to avoid setbacks and improve outcomes."
+    },
+    {
+      "heading": "Safety Considerations Throughout Stroke Recovery",
+      "content": "Safety is essential during recovery to prevent falls, aspiration during swallowing exercises, medication errors, and secondary events. Proper home modifications, caregiver training, use of assistive devices, and close medical follow-up mitigate risks. Patient-specific precautions depend on individual impairment severity and comorbidities."
+    },
+    {
+      "heading": "Misconceptions About Stroke Recovery",
+      "content": "A common misconception is that recovery stops after a fixed period (e.g., three or six months); however, evidence shows neuroplasticity and improvement can continue for years with ongoing rehabilitation. Another misconception is that recovery is complete reversal; some deficits may persist, underscoring the importance of realistic goal setting and adaptation strategies."
+    },
+    {
+      "heading": "Emerging Therapies and Future Directions in Stroke Recovery",
+      "content": "Research is investigating novel interventions such as stem cell therapy, brain-computer interfaces, transcranial magnetic stimulation (TMS), and pharmacologic agents aimed at enhancing neuroplasticity. While promising, these remain experimental and require further evidence before routine clinical application. Advances in personalized rehab and telemedicine also offer potential to improve access and effectiveness."
+    }
+  ],
+  "practical_guidance": [
+    "Start rehabilitation as soon as medically feasible to optimize brain plasticity.",
+    "Engage in multidisciplinary therapies tailored to individual deficits.",
+    "Maintain control of vascular risk factors to reduce further stroke risk.",
+    "Incorporate physical activity and a healthy diet into daily routines.",
+    "Use adaptive equipment and home safety modifications to prevent falls.",
+    "Monitor mood and cognitive changes, seeking professional help when needed.",
+    "Educate caregivers on supportive techniques and safety precautions.",
+    "Respect patient pace and set realistic, measurable goals for progress."
+  ],
+  "safety_notes": [
+    "Supervised therapy sessions reduce risk of falls and injuries during rehabilitation exercises.",
+    "Avoid overexertion; balance activity with adequate rest to prevent fatigue.",
+    "Ensure proper swallowing techniques to minimize aspiration risk.",
+    "Adhere to prescribed medications to prevent recurrent strokes.",
+    "Modify living environments to reduce tripping hazards and enhance accessibility."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Stroke recovery only occurs within the first 3-6 months after stroke.",
+      "reality": "Stroke recovery can continue for years with ongoing rehabilitation and support."
+    },
+    {
+      "misconception": "Stroke recovery means a full return to pre-stroke function in all cases.",
+      "reality": "Some impairments may persist; recovery often involves adaptation and compensation."
+    }
+  ],
+  "clinical_pearls": [
+    "Early initiation of rehabilitation improves functional outcomes.",
+    "Multidisciplinary approaches are more effective than isolated therapies.",
+    "Controlling vascular risk factors is vital to prevent stroke recurrence.",
+    "Patient motivation and social support significantly impact recovery success.",
+    "Assessment tools help individualize rehabilitation plans and track progress.",
+    "Physical therapy should be task-specific and progressively challenging.",
+    "Psychological health affects rehabilitation engagement and outcomes.",
+    "Safety planning reduces secondary complications and enhances independence."
+  ],
+  "key_takeaways": [
+    "Stroke recovery involves complex biological and therapeutic processes aimed at restoring function.",
+    "Neuroplasticity is a key mechanism enabling brain repair after stroke.",
+    "Risk factor management is essential both pre- and post-stroke to optimize recovery.",
+    "Early and intensive rehabilitation correlates with better outcomes.",
+    "Physical, occupational, and speech therapies constitute the foundation of stroke rehabilitation.",
+    "Lifestyle modifications support long-term functional gain and reduce recurrence.",
+    "Safety considerations are critical to prevent complications during recovery.",
+    "Emerging therapies offer promise but require further evidence before routine use."
+  ],
+  "glossary": [
+    {
+      "term": "Stroke",
+      "definition": "A sudden interruption of blood flow to the brain causing neurologic deficits due to ischemia or hemorrhage."
+    },
+    {
+      "term": "Neuroplasticity",
+      "definition": "The brain's ability to reorganize neural pathways and form new connections to adapt following injury."
+    },
+    {
+      "term": "Ischemic Stroke",
+      "definition": "A type of stroke caused by a blockage of blood vessels, limiting oxygen supply to brain tissue."
+    },
+    {
+      "term": "Hemorrhagic Stroke",
+      "definition": "Stroke caused by rupture and bleeding of a blood vessel in the brain."
+    },
+    {
+      "term": "Aphasia",
+      "definition": "A language disorder resulting from brain damage, affecting speaking, understanding, reading, or writing."
+    },
+    {
+      "term": "Hemiparesis",
+      "definition": "Weakness affecting one side of the body, commonly occurring after stroke."
+    },
+    {
+      "term": "Rehabilitation",
+      "definition": "Therapeutic processes including physical, occupational, and speech therapies to restore function."
+    },
+    {
+      "term": "Functional Independence Measure (FIM)",
+      "definition": "An assessment tool measuring a person's ability to perform daily activities independently."
+    }
+  ],
+  "related_modules": [
+    "COND-198",
+    "COND-203",
+    "COND-210"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Brain Blood Supply and Stroke Types",
+      "illustration_type": "Anatomical Diagram",
+      "description": "Diagram displaying cerebral blood vessels, highlighting areas affected by ischemic and hemorrhagic strokes.",
+      "alt_text": "Illustration showing brain blood vessels with ischemic and hemorrhagic stroke regions."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Stages of Stroke Recovery and Neuroplasticity",
+      "illustration_type": "Conceptual Graphic",
+      "description": "Visual representation of brain plasticity and stages from acute to chronic recovery after stroke.",
+      "alt_text": "Graphic depicting neuroplasticity and recovery phases post-stroke."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Common Post-Stroke Physical Deficits",
+      "illustration_type": "Clinical Illustration",
+      "description": "Images illustrating hemiparesis, facial droop, and balance impairments commonly seen after stroke.",
+      "alt_text": "Illustrations of physical impairments such as hemiparesis and facial droop post-stroke."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Home Safety Modifications for Stroke Survivors",
+      "illustration_type": "Environmental Safety Diagram",
+      "description": "Examples of assistive devices and modifications to prevent falls and injuries during recovery at home.",
+      "alt_text": "Diagram showing home safety aids and adaptations for stroke survivors."
+    }
+  ],
+  "references": [
+    {
+      "title": "Stroke Rehabilitation Guidelines",
+      "organization_or_authors": "American Heart Association/American Stroke Association",
+      "year": "2016",
+      "identifier": "Guidelines",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Neuroplasticity and Stroke Recovery",
+      "organization_or_authors": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "year": "2020",
+      "identifier": "NINDS Fact Sheet",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Physical Therapy in Stroke Recovery: Evidence and Recommendations",
+      "organization_or_authors": "Cochrane Collaboration",
+      "year": "2017",
+      "identifier": "Systematic Review",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Early Rehabilitation After Stroke: Timing and Impact",
+      "organization_or_authors": "World Stroke Organization",
+      "year": "2018",
+      "identifier": "Consensus Statement",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established with emerging components",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
