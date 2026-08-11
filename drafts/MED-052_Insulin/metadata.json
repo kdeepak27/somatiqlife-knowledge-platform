@@ -1,0 +1,39 @@
+{
+  "module_id": "MED-052",
+  "title": "Insulin",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to insulin.",
+  "domain": "Medications",
+  "category": "Diabetes and Weight Medicines",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "insulin",
+    "diabetes",
+    "glucose regulation",
+    "hypoglycemia",
+    "insulin therapy",
+    "side effects",
+    "drug interactions",
+    "blood sugar monitoring",
+    "weight management"
+  ],
+  "related_modules": [
+    "MED-048 - Diabetes Management Overview",
+    "MED-053 - Hypoglycemia Recognition and Treatment",
+    "MED-055 - Oral Antidiabetic Medications",
+    "MED-101 - Continuous Glucose Monitoring Systems"
+  ],
+  "evidence_strength": "Established evidence primarily based on clinical guidelines and large-scale diabetes research, with emerging evidence supporting new insulin analogs and delivery technologies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
