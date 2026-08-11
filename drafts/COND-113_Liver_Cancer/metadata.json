@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-113",
+  "title": "Liver Cancer",
+  "subtitle": "What liver cancer is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Digestive and Liver",
+  "som_stages": [
+    "screening",
+    "diagnosis",
+    "treatment",
+    "post-treatment"
+  ],
+  "audience": [
+    "patients",
+    "caregivers",
+    "general public",
+    "healthcare professionals"
+  ],
+  "reading_level": "Easy to Moderate Medical",
+  "keywords": [
+    "liver cancer",
+    "hepatic cancer",
+    "hepatocellular carcinoma",
+    "cholangiocarcinoma",
+    "risk factors",
+    "symptoms",
+    "diagnosis",
+    "lifestyle",
+    "management"
+  ],
+  "related_modules": [
+    "COND-112-Hepatitis-B",
+    "COND-114-Cirrhosis",
+    "COND-120-Liver-Function-Tests"
+  ],
+  "evidence_strength": "Established, moderate to strong evidence for causes, diagnosis, and treatment; emerging evidence for some targeted therapies and lifestyle interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
