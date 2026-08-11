@@ -1,0 +1,35 @@
+{
+  "module_id": "MED-013",
+  "title": "Medication and Alcohol Interactions",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication and alcohol interactions.",
+  "domain": "Medications",
+  "category": "Medication Foundations",
+  "som_stages": [
+    "Patient Education",
+    "Clinical Decision Support",
+    "Pharmacovigilance"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Pharmacists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Alcohol",
+    "Medication",
+    "Drug interactions",
+    "Pharmacokinetics",
+    "Pharmacodynamics",
+    "Liver metabolism",
+    "Adverse effects"
+  ],
+  "related_modules": [
+    "MED-007",
+    "MED-021",
+    "PHARM-009"
+  ],
+  "evidence_strength": "Established evidence supplemented by moderate emerging studies with some limitations due to variability in individual characteristics and drinking behaviors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

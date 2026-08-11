@@ -1,0 +1,36 @@
+{
+  "module_id": "MED-015",
+  "title": "Medication Disposal",
+  "subtitle": "Uses, mechanisms, benefits, side effects, interactions, monitoring, and safety related to medication disposal.",
+  "domain": "Medications",
+  "category": "Medication Foundations",
+  "som_stages": [
+    "Prevention",
+    "Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Pharmacists"
+  ],
+  "reading_level": "8th to 10th grade",
+  "keywords": [
+    "medication disposal",
+    "drug safety",
+    "pharmaceutical waste",
+    "environmental impact",
+    "drug take-back",
+    "expired medications",
+    "drug interactions",
+    "medication misuse"
+  ],
+  "related_modules": [
+    "MED-007",
+    "ENV-003",
+    "PHARM-009"
+  ],
+  "evidence_strength": "Established evidence supports take-back programs and FDA flushing guidelines; moderate evidence supports efficacy of deactivation products; emerging evidence addresses environmental benefits and optimal disposal systems.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
