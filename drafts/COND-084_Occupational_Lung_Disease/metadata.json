@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-084",
+  "title": "Occupational Lung Disease",
+  "subtitle": "What occupational lung disease is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Respiratory and Sleep",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers",
+    "Occupational Health Specialists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Occupational lung disease",
+    "Work-related lung disease",
+    "Pneumoconiosis",
+    "Hypersensitivity pneumonitis",
+    "Occupational asthma",
+    "Lung fibrosis",
+    "Inhalation injury",
+    "Industrial dust exposure"
+  ],
+  "related_modules": [
+    "COND-021",
+    "COND-056",
+    "COND-063"
+  ],
+  "evidence_strength": "Established evidence supports workplace exposures as primary causes of occupational lung diseases; treatment and prevention strategies are based on clinical guidelines and epidemiologic studies. Emerging evidence focuses on genetic susceptibility and novel biomarkers, but requires further validation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
