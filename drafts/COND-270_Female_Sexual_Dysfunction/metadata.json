@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-270",
+  "title": "Female Sexual Dysfunction",
+  "subtitle": "What female sexual dysfunction is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Prevention",
+    "Identification",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "female sexual dysfunction",
+    "FSD",
+    "sexual health",
+    "arousal disorder",
+    "orgasmic disorder",
+    "sexual pain disorder",
+    "female libido",
+    "sexual evaluation",
+    "sexual therapy",
+    "lifestyle and sexual health"
+  ],
+  "related_modules": [
+    "COND-104",
+    "COND-269",
+    "COND-351"
+  ],
+  "evidence_strength": "Established evidence with emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
