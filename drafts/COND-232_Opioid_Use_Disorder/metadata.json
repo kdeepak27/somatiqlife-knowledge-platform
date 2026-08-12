@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-232",
+  "title": "Opioid Use Disorder",
+  "subtitle": "What opioid use disorder is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Mental Health",
+  "som_stages": [
+    "Recognition",
+    "Evaluation",
+    "Management",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "opioid use disorder",
+    "opioids",
+    "addiction",
+    "dependence",
+    "overdose",
+    "treatment",
+    "withdrawal",
+    "naloxone"
+  ],
+  "related_modules": [
+    "COND-198",
+    "COND-220",
+    "ID-034"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and systematic reviews.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

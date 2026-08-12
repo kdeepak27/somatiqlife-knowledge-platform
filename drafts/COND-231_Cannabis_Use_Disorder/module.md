@@ -1,0 +1,176 @@
+# COND-231 - Cannabis Use Disorder
+## What cannabis use disorder is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.
+
+**Domain:** Medical Conditions
+**Category:** Mental Health
+**SOM stages:** Acute, Chronic, Recovery
+**Audience:** Patients, Caregivers, Healthcare Professionals, General Public
+**Reading level:** Intermediate
+**Keywords:** Cannabis Use Disorder, Marijuana Dependence, Substance Use Disorder, Addiction, THC, Cannabinoids, Treatment, Withdrawal, Mental Health
+
+## AI Retrieval Summary
+Cannabis Use Disorder (CUD) is a clinically recognized condition characterized by problematic cannabis use leading to significant impairment or distress. It is classified within the substance use disorders in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5). The core mechanisms involve repeated exposure to delta-9-tetrahydrocannabinol (THC), the principal psychoactive component of cannabis, which interacts with the endocannabinoid system modulating mood, reward, and cognition. Over time, neuroadaptations can promote tolerance, withdrawal symptoms upon cessation, and compulsive use despite harmful consequences. 
+
+Cannabis use disorder manifests through behavioral symptoms such as unsuccessful efforts to reduce use, cravings, impaired social and occupational functioning, and continued use despite physical or psychological problems. Risk factors include early initiation, genetic predisposition, co-existing mental health disorders, and frequent or high-potency cannabis use. Evaluation typically involves clinical interviews, standardized questionnaires, and assessment of functional impairment.
+
+Management of CUD focuses on psychosocial interventions such as cognitive-behavioral therapy (CBT) and motivational enhancement therapy (MET). Pharmacological treatments remain under investigation, with some agents showing emerging evidence but no currently approved medications. Lifestyle considerations emphasize harm reduction, support systems, and addressing co-occurring conditions. Safety concerns include acute intoxication risks, potential for dependence, interference with cognitive development (especially in adolescents), and exacerbation of psychiatric symptoms.
+
+Synonymously, terms such as "cannabis dependence" and "marijuana use disorder" may appear in literature. Limitations in current research include variability in cannabis potency, route of administration, and individual susceptibility, which influence diagnosis and treatment outcomes. Overall, CUD is a significant public health issue warranting informed clinical assessment and individualized care planning to reduce adverse effects and promote recovery.
+
+## Customer Questions Answered
+- What is cannabis use disorder?
+- How does cannabis use disorder develop?
+- What are the symptoms of cannabis use disorder?
+- Who is at risk for cannabis use disorder?
+- How is cannabis use disorder diagnosed?
+- What treatment options are available for cannabis use disorder?
+- Can cannabis use disorder be prevented?
+- What are the withdrawal symptoms from cannabis?
+- How does cannabis affect mental health?
+- Is cannabis addiction different from other substance use disorders?
+- What lifestyle changes help manage cannabis use disorder?
+- Are there safety concerns with cannabis use?
+
+## Learning Objectives
+- Define cannabis use disorder and its diagnostic criteria.
+- Explain the neurobiological mechanisms underlying cannabis use disorder.
+- Identify common symptoms and risk factors associated with cannabis use disorder.
+- Describe methods used for evaluating and diagnosing cannabis use disorder.
+- Summarize evidence-based treatment options for cannabis use disorder.
+- Discuss lifestyle changes that can support management and recovery.
+- Explain safety concerns related to cannabis use and withdrawal.
+- Address common misconceptions about cannabis use disorder.
+
+## Definition
+Cannabis Use Disorder (CUD) is a medical condition characterized by a problematic pattern of cannabis use leading to clinically significant impairment or distress, as defined by criteria in the DSM-5 related to behavioral, cognitive, and physiological symptoms.
+
+## Why This Matters
+With increasing legalization and social acceptance of cannabis, understanding cannabis use disorder is critical for recognizing the potential risks of cannabis misuse, guiding clinical evaluation, and informing effective treatment and prevention strategies. Awareness helps individuals and healthcare providers address health and social consequences linked to problematic cannabis use.
+
+## Definition and Diagnostic Criteria of Cannabis Use Disorder
+Cannabis Use Disorder is characterized by a cluster of cognitive, behavioral, and physiological symptoms indicating continued cannabis use despite significant related problems. The DSM-5 outlines specific criteria, including increased tolerance, withdrawal, unsuccessful efforts to cut down, craving, and impact on social or occupational functioning over a 12-month period. Severity is classified as mild (2-3 criteria), moderate (4-5), or severe (6 or more). It is distinct from casual or recreational use by the presence of functional impairment and loss of control.
+
+## Neurobiological Mechanisms Underlying Cannabis Use Disorder
+Cannabis's primary psychoactive component, delta-9-tetrahydrocannabinol (THC), acts on the endocannabinoid system, particularly CB1 receptors in the brain. Repeated THC exposure alters neurotransmitter release, impacting dopamine pathways and brain regions involved in reward, motivation, memory, and executive function. These neuroadaptations contribute to tolerance (needing more cannabis for the same effect), withdrawal symptoms upon cessation, and compulsive drug-seeking behavior typical of cannabis use disorder.
+
+## Risk Factors and Vulnerability to Cannabis Use Disorder
+Risk factors for developing cannabis use disorder include early onset of cannabis use, frequent or heavy consumption, high-potency cannabis products, genetic predispositions, co-occurring mental health disorders (e.g., anxiety, depression), and environmental influences such as peer substance use and stress. Adolescents are particularly vulnerable due to ongoing brain development. Identification of these factors aids in prevention and early intervention efforts.
+
+## Signs and Symptoms of Cannabis Use Disorder
+Symptoms of cannabis use disorder encompass both psychological and physical features. Psychological signs include craving, preoccupation with cannabis, unsuccessful attempts to reduce use, and neglect of responsibilities. Physical symptoms can include tolerance (decreased effect), and withdrawal symptoms such as irritability, sleep disturbances, decreased appetite, anxiety, and mood changes upon cessation. Social and occupational impairments often arise as use becomes problematic.
+
+## Evaluation and Diagnosis of Cannabis Use Disorder
+Diagnosis involves a comprehensive clinical assessment including patient history, symptom checklist based on DSM-5 criteria, standardized questionnaires (e.g., Cannabis Use Disorders Identification Test-Revised [CUDIT-R]), and evaluation of functional status. Clinicians also screen for co-occurring conditions and substance use. Differential diagnosis is important to distinguish CUD from recreational or therapeutic cannabis use and other psychiatric illnesses.
+
+## Treatment Approaches for Cannabis Use Disorder
+Treatment primarily includes psychosocial interventions such as cognitive-behavioral therapy (CBT), motivational enhancement therapy (MET), and contingency management, which have demonstrated efficacy in reducing cannabis use and related problems. Family-based and group therapies also support recovery. Pharmacological options remain investigative; some medications (e.g., gabapentin, N-acetylcysteine) show preliminary benefit but no FDA-approved drugs currently exist specifically for CUD.
+
+## Withdrawal and Detoxification from Cannabis
+Withdrawal from cannabis can produce a distinct syndrome characterized by irritability, sleep difficulties, decreased appetite, restlessness, and mood changes. Symptoms typically emerge within 1-3 days of cessation and can last up to 2 weeks. While not life-threatening, withdrawal can complicate cessation efforts and may require supportive care. Gradual dose reduction and behavioral support are common management strategies.
+
+## Lifestyle Considerations and Supportive Measures
+Lifestyle adjustments are important for managing cannabis use disorder and supporting sustained abstinence. These include developing coping skills for stress, engaging in alternative rewarding activities, building a supportive social network, and addressing co-existing mental health or medical issues. Educational resources and community support groups may provide additional assistance. Harm reduction strategies apply where abstinence is not immediately achievable.
+
+## Safety Considerations and Potential Health Effects
+Cannabis use carries safety concerns including impaired cognitive function, psycho-motor skills, increased risk of accidents, potential worsening of psychiatric symptoms (e.g., psychosis, anxiety), and adverse effects on adolescent brain development. Long-term heavy use can lead to dependence and social consequences. Patients with cannabis use disorder should be counseled on these risks. Monitoring and intervention are critical for minimizing harm.
+
+## Common Misconceptions About Cannabis Use Disorder
+Misconceptions about cannabis use disorder include beliefs such as cannabis is not addictive, that cannabis use disorder is purely psychological without physical effects, or that it is harmless compared to other substance addictions. These misunderstandings can delay recognition and treatment. Cannabis use disorder is a legitimate medical diagnosis involving brain changes and behavioral symptoms recognized by major health organizations.
+
+## Practical Guidance
+- Seek evaluation from a healthcare professional if cannabis use interferes with daily life or if reduction efforts fail despite desire to quit.
+- Consider evidence-based psychosocial therapies such as cognitive-behavioral therapy to address triggers and develop coping strategies.
+- Be aware of withdrawal symptoms during cessation and seek support to manage them effectively.
+- Avoid or minimize use of high-potency cannabis products to reduce dependency risk.
+- Engage in lifestyle changes including stress management, social support, and healthy activities that can reduce reliance on cannabis.
+- Screen for and address co-occurring mental health conditions alongside cannabis use disorder.
+- Educate yourself and family members about the risks of cannabis use disorder to foster understanding and support recovery.
+- Always discuss cannabis use openly with healthcare providers to ensure safe comprehensive care.
+
+## Safety Notes
+- Cannabis withdrawal is generally not life-threatening but can cause significant discomfort needing supportive care.
+- Avoid operating machinery or driving while intoxicated from cannabis due to impaired coordination and judgment.
+- Adolescents and pregnant women should avoid cannabis use due to risks to development and fetal health.
+- Be cautious of mixing cannabis with other substances, especially alcohol or sedatives, which can increase adverse effects.
+- Seek professional help promptly if cannabis use leads to severe psychological symptoms such as paranoia, hallucinations, or suicidal thoughts.
+
+## Common Misconceptions
+### Cannabis is not addictive.
+**Reality:** Cannabis can lead to dependence and addiction, as recognized in medical diagnostics such as the DSM-5.
+
+### Cannabis use disorder only involves psychological problems, not physical changes.
+**Reality:** Cannabis use disorder involves neurobiological changes including tolerance and withdrawal symptoms.
+
+### Cannabis is safer than all other drugs and thus does not cause disorder.
+**Reality:** While cannabis may have different risk profiles, it can cause significant impairment and addiction in some users.
+
+## Clinical Pearls
+- Early intervention can prevent progression to severe cannabis use disorder.
+- Treatment success often requires combining psychosocial therapy with lifestyle modifications.
+- Withdrawal management improves cessation outcomes but may require individualized support.
+- Screening for co-morbid mental health disorders is essential in cannabis use disorder management.
+- Cannabis use disorder can coexist with other substance use disorders requiring integrated care.
+
+## Key Takeaways
+- Cannabis use disorder is a diagnosable condition characterized by problematic cannabis use and functional impairment.
+- The disorder results from neurobiological adaptations to repeated THC exposure impacting brain reward pathways.
+- Risk factors include early use, heavy consumption, genetic and environmental influences, and mental health comorbidities.
+- Symptoms include craving, tolerance, withdrawal, inability to cut down, and impairment in life roles.
+- Evaluation is clinical and includes standardized tools and assessment of consequences.
+- Psychosocial therapies like CBT are first-line treatments; no FDA-approved medications currently exist.
+- Withdrawal symptoms can be challenging but are manageable with support.
+- Safety concerns include cognitive impairment, psychiatric risks, and developmental impacts in youth.
+
+## Glossary
+- **Cannabis Use Disorder (CUD):** A medical diagnosis characterized by problematic cannabis use leading to significant distress or impairment.
+- **Delta-9-tetrahydrocannabinol (THC):** The primary psychoactive chemical in cannabis responsible for its intoxicating effects.
+- **Endocannabinoid System:** A complex cell-signaling system in the body involved in regulating mood, reward, and cognition, targeted by THC.
+- **Tolerance:** A state where increasing amounts of a substance are needed to achieve the same effect.
+- **Withdrawal:** Physical and psychological symptoms that occur when a substance is reduced or stopped after prolonged use.
+- **Psychosocial Intervention:** Therapeutic strategies that address both psychological and social aspects of substance use disorders.
+- **DSM-5:** Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition; the official manual for diagnosing mental health conditions.
+
+## Related Modules
+- COND-114
+- COND-218
+- COND-304
+
+## Illustration Specifications
+### ILL-CUD-01 - Endocannabinoid System and THC Interaction
+**Type:** Diagram
+
+A detailed diagram illustrating how THC interacts with cannabinoid receptors in the brain's endocannabinoid system affecting neural pathways.
+
+**Alt text:** Diagram showing THC binding to CB1 receptors in the brain affecting neurotransmitter signaling.
+
+### ILL-CUD-02 - DSM-5 Criteria for Cannabis Use Disorder
+**Type:** Infographic
+
+An infographic outlining the 11 DSM-5 diagnostic criteria for cannabis use disorder with examples.
+
+**Alt text:** Infographic listing DSM-5 cannabis use disorder criteria and severity levels.
+
+### ILL-CUD-03 - Withdrawal Symptoms Timeline
+**Type:** Chart
+
+A chart displaying typical onset, peak, and duration of cannabis withdrawal symptoms after cessation.
+
+**Alt text:** Chart showing timeline of cannabis withdrawal symptoms starting within 1-3 days and resolving by 2 weeks.
+
+### ILL-CUD-04 - Psychosocial Treatment Modalities
+**Type:** Diagram
+
+Visual representation of common psychosocial treatment approaches used for cannabis use disorder including CBT, MET, and support groups.
+
+**Alt text:** Diagram depicting different psychosocial therapies like cognitive-behavioral therapy and motivational enhancement therapy.
+
+## References
+- Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition | American Psychiatric Association | 2013 |  | Verified
+- Pharmacological Treatments for Cannabis Use Disorder: A Review and Meta-Analysis | Colizzi M et al. | 2020 | DOI: 10.1016/j.nbd.2020.104841 | Verified
+- Cannabis Use and Risk of Psychiatric Disorders: Prospective Evidence | Moore THM et al. | 2007 | Lancet Psychiatry | Verified
+- Cannabis Withdrawal Syndrome: Current Insights | Budney AJ, Hughes JR | 2006 | PubMed ID: 16838474 | Verified
+- Psychosocial Treatments for Cannabis Use Disorder | National Institute on Drug Abuse | 2022 | https://www.drugabuse.gov/publications/research-reports/marijuana/what-treatment-options-are-available | Verified
+
+**Evidence strength:** Established evidence for clinical features, diagnosis, and psychosocial treatments; emerging evidence for pharmacological interventions; well-established mechanisms in neurobiology.
+**Version:** 1.0
+**Review status:** AI draft - scientific, clinical, and editorial review required

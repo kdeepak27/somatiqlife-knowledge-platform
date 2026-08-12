@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-234",
+  "title": "Loneliness and Mental Health",
+  "subtitle": "What loneliness and mental health is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Mental Health",
+  "som_stages": [
+    "Identification",
+    "Evaluation",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "8th grade",
+  "keywords": [
+    "loneliness",
+    "mental health",
+    "social isolation",
+    "depression",
+    "anxiety",
+    "psychological wellbeing",
+    "risk factors",
+    "management",
+    "evaluation"
+  ],
+  "related_modules": [
+    "COND-101",
+    "COND-175",
+    "COND-221"
+  ],
+  "evidence_strength": "Established evidence with some emerging research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
