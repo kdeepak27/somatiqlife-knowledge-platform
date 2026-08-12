@@ -1,0 +1,36 @@
+{
+  "module_id": "FAQ-136",
+  "title": "How can I maintain energy as I age?",
+  "subtitle": "Evidence-based answer to the common question: how can i maintain energy as i age?",
+  "domain": "Frequently Asked Questions",
+  "category": "Healthy Aging FAQs",
+  "som_stages": [
+    "Middle Age",
+    "Older Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers"
+  ],
+  "reading_level": "Grade 8-10",
+  "keywords": [
+    "energy",
+    "aging",
+    "fatigue",
+    "healthy aging",
+    "nutrition",
+    "exercise",
+    "sleep",
+    "stress management",
+    "hydration"
+  ],
+  "related_modules": [
+    "FAQ-102",
+    "FAQ-142",
+    "FAQ-128"
+  ],
+  "evidence_strength": "Established evidence for lifestyle interventions including nutrition, exercise, and sleep hygiene; moderate evidence for psychological stress management and hydration; emerging evidence on specific supplements and pharmacologic treatments for fatigue in aging.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,35 @@
+{
+  "module_id": "FAQ-140",
+  "title": "What is chronic stress?",
+  "subtitle": "Evidence-based answer to the common question: what is chronic stress?",
+  "domain": "Frequently Asked Questions",
+  "category": "Stress FAQs",
+  "som_stages": [
+    "Recognition",
+    "Understanding"
+  ],
+  "audience": [
+    "General Consumer",
+    "Health Educator",
+    "Healthcare Professional"
+  ],
+  "reading_level": "Intermediate (10th-12th grade)",
+  "keywords": [
+    "chronic stress",
+    "stress response",
+    "cortisol",
+    "stress physiology",
+    "stress management",
+    "stress health effects",
+    "psychological stress",
+    "allostatic load"
+  ],
+  "related_modules": [
+    "FAQ-139",
+    "FAQ-141",
+    "FAQ-123"
+  ],
+  "evidence_strength": "Established evidence supported by multiple peer-reviewed studies, with some areas of emerging research (e.g., brain structural changes, novel biomarkers).",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

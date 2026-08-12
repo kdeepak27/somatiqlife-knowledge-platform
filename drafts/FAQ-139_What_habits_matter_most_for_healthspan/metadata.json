@@ -1,0 +1,41 @@
+{
+  "module_id": "FAQ-139",
+  "title": "What habits matter most for healthspan?",
+  "subtitle": "Evidence-based answer to the common question: what habits matter most for healthspan?",
+  "domain": "Frequently Asked Questions",
+  "category": "Healthy Aging FAQs",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Healthy Aging"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Health Enthusiasts",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "healthspan",
+    "healthy aging",
+    "habits",
+    "lifestyle",
+    "longevity",
+    "physical activity",
+    "nutrition",
+    "sleep",
+    "stress management",
+    "smoking cessation",
+    "alcohol moderation"
+  ],
+  "related_modules": [
+    "FAQ-120: What is the science behind aging processes?",
+    "GUIDE-45: Nutrition strategies for healthy aging",
+    "FAQ-150: How does exercise affect brain health?",
+    "GUIDE-312: Stress reduction techniques for longevity"
+  ],
+  "evidence_strength": "Established to moderate evidence with emerging insights in mental and social factors",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "FAQ-138",
+  "title": "Do longevity supplements work?",
+  "subtitle": "Evidence-based answer to the common question: do longevity supplements work?",
+  "domain": "Frequently Asked Questions",
+  "category": "Healthy Aging FAQs",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "General Public",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "longevity",
+    "supplements",
+    "anti-aging",
+    "healthy aging",
+    "nutraceuticals",
+    "dietary supplements",
+    "caloric restriction mimetics",
+    "oxidative stress",
+    "mTOR",
+    "sirtuins"
+  ],
+  "related_modules": [
+    "AG-001",
+    "LON-025",
+    "NUT-042"
+  ],
+  "evidence_strength": "Moderate evidence from laboratory and animal studies supports biological effects of many supplements; human clinical data are limited and inconclusive.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
