@@ -1,0 +1,34 @@
+{
+  "module_id": "MEA-025",
+  "title": "Indian Lunches",
+  "subtitle": "How to build and adapt indian lunches for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Lunch Plans",
+  "som_stages": [
+    "Planning",
+    "Preparation",
+    "Consumption"
+  ],
+  "audience": [
+    "Consumers",
+    "Nutritionists",
+    "Meal Planners"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Indian lunch",
+    "balanced nutrition",
+    "meal planning",
+    "Indian cuisine",
+    "diet adaptation",
+    "nutritional balance"
+  ],
+  "related_modules": [
+    "MEA-001",
+    "MEA-018",
+    "MEA-034"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging evidence on adaptations and regional differences",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

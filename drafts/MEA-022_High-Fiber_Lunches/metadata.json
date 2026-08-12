@@ -1,0 +1,35 @@
+{
+  "module_id": "MEA-022",
+  "title": "High-Fiber Lunches",
+  "subtitle": "How to build and adapt high-fiber lunches for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Lunch Plans",
+  "som_stages": [
+    "Planning",
+    "Preparation",
+    "Consumption"
+  ],
+  "audience": [
+    "General Public",
+    "Nutritionists",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "dietary fiber",
+    "fiber-rich foods",
+    "balanced lunch",
+    "meal planning",
+    "healthy eating",
+    "digestion",
+    "nutrition"
+  ],
+  "related_modules": [
+    "MEA-015",
+    "MEA-030",
+    "MEA-028"
+  ],
+  "evidence_strength": "Established evidence for fiber benefits in digestion, glycemic control, and cardiovascular risk; moderate evidence for specific lunch meal timing effects; emerging evidence on gut microbiome modulation; safety and tolerance vary by individual.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
