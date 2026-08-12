@@ -1,0 +1,35 @@
+{
+  "module_id": "FAQ-141",
+  "title": "How does stress affect the body?",
+  "subtitle": "Evidence-based answer to the common question: how does stress affect the body?",
+  "domain": "Frequently Asked Questions",
+  "category": "Stress FAQs",
+  "som_stages": [
+    "All stages"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate to Advanced",
+  "keywords": [
+    "stress",
+    "physiology",
+    "stress response",
+    "cortisol",
+    "autonomic nervous system",
+    "immune system",
+    "psychological stress",
+    "chronic stress",
+    "acute stress"
+  ],
+  "related_modules": [
+    "FAQ-98-Understanding-anxiety",
+    "FAQ-102-Effects-of-chronic-pain",
+    "FAQ-137-Cardiovascular-health-overview"
+  ],
+  "evidence_strength": "Established evidence for general stress physiology; emerging evidence for specific mechanisms and long-term health impacts.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "FAQ-145",
+  "title": "How much exercise helps stress?",
+  "subtitle": "Evidence-based answer to the common question: how much exercise helps stress?",
+  "domain": "Frequently Asked Questions",
+  "category": "Stress FAQs",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General public",
+    "Patients",
+    "Health educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "exercise",
+    "stress reduction",
+    "physical activity",
+    "mental health",
+    "stress management",
+    "cortisol",
+    "endorphins",
+    "aerobic exercise",
+    "resistance training",
+    "mind-body health"
+  ],
+  "related_modules": [
+    "FAQ-117: Managing Anxiety with Exercise",
+    "FAQ-152: Sleep Hygiene and Stress",
+    "FAQ-109: Meditation and Stress Reduction"
+  ],
+  "evidence_strength": "Strong evidence from multiple systematic reviews and randomized controlled trials supports moderate aerobic exercise as effective for reducing stress. Moderate evidence supports resistance training and mind-body exercises. Evidence limitations include heterogeneity of study designs and individual responses.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

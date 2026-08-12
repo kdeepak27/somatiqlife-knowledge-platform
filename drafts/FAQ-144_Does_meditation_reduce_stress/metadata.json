@@ -1,0 +1,33 @@
+{
+  "module_id": "FAQ-144",
+  "title": "Does meditation reduce stress?",
+  "subtitle": "Evidence-based answer to the common question: does meditation reduce stress?",
+  "domain": "Frequently Asked Questions",
+  "category": "Stress FAQs",
+  "som_stages": [
+    "Prevention",
+    "Self-Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "General Audience",
+  "keywords": [
+    "meditation",
+    "stress reduction",
+    "mindfulness",
+    "relaxation techniques",
+    "stress management"
+  ],
+  "related_modules": [
+    "FAQ-201",
+    "FAQ-220",
+    "MOD-98",
+    "MOD-213"
+  ],
+  "evidence_strength": "Moderate evidence from multiple randomized controlled trials and meta-analyses supports meditation's benefit for reducing psychological stress and related physiological markers.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
