@@ -1,0 +1,38 @@
+{
+  "module_id": "BEH-034",
+  "title": "Exercise Tracking",
+  "subtitle": "Benefits, limitations, and practical strategies related to exercise tracking.",
+  "domain": "Behavior Change",
+  "category": "Tracking and Feedback",
+  "som_stages": [
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Healthcare Providers",
+    "Behavioral Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Exercise Tracking",
+    "Fitness Monitoring",
+    "Activity Logging",
+    "Wearables",
+    "Physical Activity Feedback",
+    "Behavior Change",
+    "Exercise Adherence",
+    "Data Accuracy",
+    "Self-Monitoring"
+  ],
+  "related_modules": [
+    "BEH-012 (Physical Activity Promotion)",
+    "TECH-021 (Wearable Health Technology)",
+    "BEH-029 (Behavioral Strategies for Exercise Adherence)"
+  ],
+  "evidence_strength": "Moderate evidence supports exercise tracking improves physical activity adherence when combined with feedback; limitations exist in data accuracy and long-term effects are still being studied.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

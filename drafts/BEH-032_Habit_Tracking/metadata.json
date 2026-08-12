@@ -1,0 +1,38 @@
+{
+  "module_id": "BEH-032",
+  "title": "Habit Tracking",
+  "subtitle": "Benefits, limitations, and practical strategies related to habit tracking.",
+  "domain": "Behavior Change",
+  "category": "Tracking and Feedback",
+  "som_stages": [
+    "Awareness",
+    "Action",
+    "Maintenance",
+    "Relapse Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Behavioral Therapists",
+    "Researchers"
+  ],
+  "reading_level": "General Audience",
+  "keywords": [
+    "habit tracking",
+    "behavior change",
+    "self-monitoring",
+    "feedback",
+    "routine",
+    "habit formation",
+    "motivational strategies",
+    "tracking tools"
+  ],
+  "related_modules": [
+    "BEH-010",
+    "BEH-025",
+    "BEH-041"
+  ],
+  "evidence_strength": "Established evidence with emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

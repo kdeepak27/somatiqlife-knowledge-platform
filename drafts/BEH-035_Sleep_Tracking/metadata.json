@@ -1,0 +1,37 @@
+{
+  "module_id": "BEH-035",
+  "title": "Sleep Tracking",
+  "subtitle": "Benefits, limitations, and practical strategies related to sleep tracking.",
+  "domain": "Behavior Change",
+  "category": "Tracking and Feedback",
+  "som_stages": [
+    "Initiation",
+    "Maintenance",
+    "Relapse Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Behavioral Health Coaches",
+    "Sleep Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep tracking",
+    "sleep monitoring",
+    "actigraphy",
+    "polysomnography",
+    "sleep stages",
+    "sleep quality",
+    "wearable devices",
+    "sleep hygiene"
+  ],
+  "related_modules": [
+    "BEH-012",
+    "BEH-041",
+    "BEH-056"
+  ],
+  "evidence_strength": "Established evidence for sleep tracking improving awareness and supporting behavioral change; moderate emerging evidence for accuracy limitations and psychological effects; uncertain evidence for diagnostic utility in sleep disorders.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
