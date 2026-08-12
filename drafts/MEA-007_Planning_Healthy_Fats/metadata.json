@@ -1,0 +1,38 @@
+{
+  "module_id": "MEA-007",
+  "title": "Planning Healthy Fats",
+  "subtitle": "Practical strategies, examples, and evidence related to planning healthy fats.",
+  "domain": "Meal Planning",
+  "category": "Meal Planning Foundations",
+  "som_stages": [
+    "Planning",
+    "Implementation"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Nutritionists",
+    "Dietitians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "healthy fats",
+    "dietary fats",
+    "meal planning",
+    "unsaturated fats",
+    "saturated fats",
+    "trans fats",
+    "omega-3 fatty acids",
+    "lipids",
+    "cholesterol",
+    "heart health"
+  ],
+  "related_modules": [
+    "MEA-003",
+    "MEA-005",
+    "MEA-009"
+  ],
+  "evidence_strength": "Strong evidence supports the health benefits of unsaturated fats and risks of trans fats, with moderate evidence emerging for cognitive effects of omega-3 fatty acids.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
