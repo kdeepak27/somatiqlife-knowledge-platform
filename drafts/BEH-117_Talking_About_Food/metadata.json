@@ -1,0 +1,38 @@
+{
+  "module_id": "BEH-117",
+  "title": "Talking About Food",
+  "subtitle": "Communication principles, evidence, and practical application of talking about food.",
+  "domain": "Behavior Change",
+  "category": "Coaching and Communication",
+  "som_stages": [
+    "Awareness",
+    "Consideration",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Nutritionists",
+    "Behavioral Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "food communication",
+    "nutrition coaching",
+    "behavior change",
+    "diet talk",
+    "healthy eating",
+    "food mindset",
+    "health communication",
+    "nutrition psychology"
+  ],
+  "related_modules": [
+    "BEH-103",
+    "NTR-204",
+    "PSY-115"
+  ],
+  "evidence_strength": "Established evidence for motivational interviewing and mindful communication strategies; Moderate evidence for specific language framing effects; Emerging evidence on cultural sensitivity impact; Safety considerations informed by clinical best practices.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

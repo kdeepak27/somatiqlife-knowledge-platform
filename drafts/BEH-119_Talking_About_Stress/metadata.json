@@ -1,0 +1,36 @@
+{
+  "module_id": "BEH-119",
+  "title": "Talking About Stress",
+  "subtitle": "Communication principles, evidence, and practical application of talking about stress.",
+  "domain": "Behavior Change",
+  "category": "Coaching and Communication",
+  "som_stages": [
+    "Awareness",
+    "Engagement",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Behavioral Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stress",
+    "stress management",
+    "communication",
+    "behavior change",
+    "psychological stress",
+    "stress physiology",
+    "coping strategies",
+    "emotional health"
+  ],
+  "related_modules": [
+    "BEH-105",
+    "BEH-107",
+    "BEH-123"
+  ],
+  "evidence_strength": "Established evidence for physiological stress mechanisms and benefits of communication; moderate evidence for specific communication techniques and outcomes; emerging evidence for cultural and technological adaptations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
