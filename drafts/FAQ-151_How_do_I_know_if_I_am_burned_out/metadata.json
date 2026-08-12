@@ -1,0 +1,35 @@
+{
+  "module_id": "FAQ-151",
+  "title": "How do I know if I am burned out?",
+  "subtitle": "Evidence-based answer to the common question: how do i know if i am burned out?",
+  "domain": "Frequently Asked Questions",
+  "category": "Stress FAQs",
+  "som_stages": [
+    "Recognition",
+    "Assessment"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Moderate (Grade 8-10)",
+  "keywords": [
+    "Burnout",
+    "Stress",
+    "Fatigue",
+    "Emotional exhaustion",
+    "Depersonalization",
+    "Work-related stress",
+    "Mental health",
+    "Well-being"
+  ],
+  "related_modules": [
+    "FAQ-042-Stress-Management",
+    "FAQ-073-Depression-Recognition",
+    "FAQ-087-Anxiety-Disorders"
+  ],
+  "evidence_strength": "Established evidence with some moderate emerging research relating to physiological mechanisms and intervention outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

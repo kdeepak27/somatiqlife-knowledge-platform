@@ -1,0 +1,33 @@
+{
+  "module_id": "FAQ-155",
+  "title": "Does social connection reduce stress?",
+  "subtitle": "Evidence-based answer to the common question: does social connection reduce stress?",
+  "domain": "Frequently Asked Questions",
+  "category": "Stress FAQs",
+  "som_stages": [
+    "public",
+    "general_education"
+  ],
+  "audience": [
+    "general public",
+    "patients",
+    "caregivers"
+  ],
+  "reading_level": "medium",
+  "keywords": [
+    "social connection",
+    "stress reduction",
+    "psychological stress",
+    "social support",
+    "stress physiology",
+    "stress management"
+  ],
+  "related_modules": [
+    "FAQ-156",
+    "STRESS-101",
+    "PSYCH-202"
+  ],
+  "evidence_strength": "Established evidence derived from multiple areas including epidemiology, psychophysiology, and experimental interventions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
