@@ -1,0 +1,35 @@
+{
+  "module_id": "FAQ-110",
+  "title": "Does exercise lower cholesterol?",
+  "subtitle": "Evidence-based answer to the common question: does exercise lower cholesterol?",
+  "domain": "Frequently Asked Questions",
+  "category": "Heart Health FAQs",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Health Enthusiasts"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "Exercise",
+    "Cholesterol",
+    "Heart Health",
+    "Lipid Profile",
+    "Physical Activity",
+    "LDL",
+    "HDL",
+    "Triglycerides"
+  ],
+  "related_modules": [
+    "FAQ-105",
+    "CARDIO-201",
+    "LIFESTYLE-330"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials and expert guidelines supports moderate aerobic exercise as beneficial for improving cholesterol levels and reducing cardiovascular risk.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
