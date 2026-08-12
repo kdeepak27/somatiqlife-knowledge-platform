@@ -1,0 +1,39 @@
+{
+  "module_id": "MEA-028",
+  "title": "Lunches for Weight Management",
+  "subtitle": "How to build and adapt lunches for weight management for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Lunch Plans",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Dietitians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "weight management",
+    "lunch planning",
+    "balanced nutrition",
+    "weight loss",
+    "portion control",
+    "macronutrients",
+    "fiber",
+    "satiety",
+    "healthy fats",
+    "meal timing"
+  ],
+  "related_modules": [
+    "MEA-015",
+    "MEA-034",
+    "NUT-021"
+  ],
+  "evidence_strength": "Established evidence supported by multiple clinical nutrition studies with some moderate emerging insights into meal timing and individual variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

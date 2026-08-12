@@ -1,0 +1,37 @@
+{
+  "module_id": "MEA-026",
+  "title": "Workday Lunches",
+  "subtitle": "How to build and adapt workday lunches for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Lunch Plans",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Adults",
+    "Working Professionals",
+    "Nutritionists",
+    "Dietitians"
+  ],
+  "reading_level": "Intermediate - Health Literate",
+  "keywords": [
+    "workday lunches",
+    "balanced nutrition",
+    "meal planning",
+    "healthy lunch",
+    "meal prep",
+    "nutritional balance",
+    "portion control",
+    "meal variety"
+  ],
+  "related_modules": [
+    "MEA-008",
+    "MEA-014",
+    "NUT-011"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas related to individualized nutrition adaptations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "MEA-029",
+  "title": "Lunches for Blood Sugar",
+  "subtitle": "How to build and adapt lunches for blood sugar for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Lunch Plans",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "7th-9th Grade",
+  "keywords": [
+    "blood sugar",
+    "glycemic control",
+    "lunch meal",
+    "nutrition",
+    "carbohydrates",
+    "fiber",
+    "protein",
+    "fat",
+    "diabetes",
+    "hypoglycemia"
+  ],
+  "related_modules": [
+    "MEA-005",
+    "MEA-010",
+    "MEA-031"
+  ],
+  "evidence_strength": "Established evidence supports the role of meal composition in modulating blood sugar responses. Moderate evidence suggests individual variability influences optimal lunch choices. Emerging research explores novel food combinations to improve postprandial glycemic control.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
