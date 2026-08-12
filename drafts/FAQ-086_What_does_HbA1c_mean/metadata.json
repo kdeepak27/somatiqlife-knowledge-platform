@@ -1,0 +1,35 @@
+{
+  "module_id": "FAQ-086",
+  "title": "What does HbA1c mean?",
+  "subtitle": "Evidence-based answer to the common question: what does hba1c mean?",
+  "domain": "Frequently Asked Questions",
+  "category": "Metabolic Health FAQs",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "HbA1c",
+    "Hemoglobin A1c",
+    "Glycated hemoglobin",
+    "Blood sugar control",
+    "Diabetes monitoring",
+    "Glycosylated hemoglobin",
+    "Glucose measurement"
+  ],
+  "related_modules": [
+    "FAQ-035-Diabetes-Basics",
+    "FAQ-047-Glucose-Monitoring",
+    "FAQ-098-Diabetes-Complications"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

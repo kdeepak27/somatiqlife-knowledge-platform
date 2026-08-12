@@ -1,0 +1,36 @@
+{
+  "module_id": "FAQ-089",
+  "title": "Does walking after meals help blood sugar?",
+  "subtitle": "Evidence-based answer to the common question: does walking after meals help blood sugar?",
+  "domain": "Frequently Asked Questions",
+  "category": "Metabolic Health FAQs",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients with Diabetes",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "postprandial glucose",
+    "walking",
+    "blood sugar",
+    "glycemic control",
+    "exercise",
+    "type 2 diabetes",
+    "insulin sensitivity",
+    "physical activity"
+  ],
+  "related_modules": [
+    "FAQ-074",
+    "FAQ-092",
+    "MH-013",
+    "EX-007"
+  ],
+  "evidence_strength": "Established evidence from multiple clinical trials and observational studies, with some moderate variability due to heterogeneous protocols and populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

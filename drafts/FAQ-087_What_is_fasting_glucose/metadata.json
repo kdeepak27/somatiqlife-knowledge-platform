@@ -1,0 +1,34 @@
+{
+  "module_id": "FAQ-087",
+  "title": "What is fasting glucose?",
+  "subtitle": "Evidence-based answer to the common question: what is fasting glucose?",
+  "domain": "Frequently Asked Questions",
+  "category": "Metabolic Health FAQs",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Accessible to general adult audience",
+  "keywords": [
+    "fasting glucose",
+    "blood sugar",
+    "glucose metabolism",
+    "diabetes",
+    "insulin resistance",
+    "metabolic health"
+  ],
+  "related_modules": [
+    "FAQ-045",
+    "FAQ-076",
+    "MET-012"
+  ],
+  "evidence_strength": "Established evidence for definition, physiology, clinical application, and testing methodology; emerging evidence for expanded metabolic implications; moderate evidence regarding variability factors and safety in special populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

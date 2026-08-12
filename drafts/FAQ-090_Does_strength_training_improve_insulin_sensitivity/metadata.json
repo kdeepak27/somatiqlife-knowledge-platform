@@ -1,0 +1,35 @@
+{
+  "module_id": "FAQ-090",
+  "title": "Does strength training improve insulin sensitivity?",
+  "subtitle": "Evidence-based answer to the common question: does strength training improve insulin sensitivity?",
+  "domain": "Frequently Asked Questions",
+  "category": "Metabolic Health FAQs",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (8th-10th grade)",
+  "keywords": [
+    "strength training",
+    "resistance exercise",
+    "insulin sensitivity",
+    "glucose metabolism",
+    "type 2 diabetes",
+    "muscle physiology",
+    "metabolic health"
+  ],
+  "related_modules": [
+    "FAQ-091",
+    "FAQ-092",
+    "MTR-015",
+    "EXR-022"
+  ],
+  "evidence_strength": "Established evidence from multiple RCTs and meta-analyses supports that regular strength training improves insulin sensitivity and metabolic health.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
