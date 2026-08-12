@@ -1,0 +1,170 @@
+# COND-288 - Anaphylaxis
+## What anaphylaxis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.
+
+**Domain:** Medical Conditions
+**Category:** Men's and Other Common Conditions
+**SOM stages:** Identification, Management, Prevention
+**Audience:** Patients, Caregivers, General Public, Healthcare Providers
+**Reading level:** Intermediate
+**Keywords:** Anaphylaxis, Allergic reaction, Epinephrine, IgE, Allergen, Anaphylactic shock, Emergency, Antihistamines, Immunology
+
+## AI Retrieval Summary
+Anaphylaxis is a severe, potentially life-threatening allergic reaction that occurs rapidly after exposure to an allergen. It involves an acute systemic hypersensitivity response, primarily mediated by immunoglobulin E (IgE) antibodies triggering mast cell and basophil activation, leading to the release of histamine and other mediators. This cascade results in symptoms such as airway obstruction, low blood pressure (anaphylactic shock), skin reactions, and gastrointestinal distress. Common triggers include foods (e.g., peanuts, shellfish), insect stings, medications, and latex. It is critical to recognize anaphylaxis promptly and provide immediate treatment with intramuscular epinephrine, which can reverse airway constriction and circulatory collapse. Supportive measures include antihistamines and corticosteroids, but these are adjuncts, not substitutes for epinephrine. Diagnosis relies on clinical presentation; laboratory and allergy testing assist in identifying triggers and risk factors. Preventive strategies involve allergen avoidance, carrying epinephrine auto-injectors, and medical identification. Limitations include variability in symptom onset and presentation, and possible biphasic reactions occurring hours after initial resolution. Safety notes emphasize the urgency of epinephrine administration without delay and awareness of contraindications or adverse effects. Understanding anaphylaxis is vital for patients, caregivers, and healthcare providers to reduce morbidity and mortality associated with this condition. Synonyms include "anaphylactic shock" though the latter term denotes severe cardiovascular compromise within anaphylaxis. This module covers mechanisms, symptomatology, management, and lifestyle considerations with evidence-based guidance and cautions.
+
+## Customer Questions Answered
+- What is anaphylaxis and how does it happen?
+- What are the common causes or triggers of anaphylaxis?
+- Who is at higher risk of experiencing anaphylaxis?
+- What are the typical symptoms of anaphylaxis?
+- How is anaphylaxis diagnosed by healthcare providers?
+- What is the immediate management for someone having anaphylaxis?
+- When and how should epinephrine be used?
+- What lifestyle changes can help prevent anaphylaxis?
+- What should I do after I have had an anaphylactic episode?
+- Are there common misconceptions about anaphylaxis I should know?
+- What are the complications if anaphylaxis is not treated promptly?
+- Can anaphylaxis be completely prevented? How?
+
+## Learning Objectives
+- Understand the definition and pathophysiology of anaphylaxis.
+- Identify common triggers and risk factors for anaphylaxis.
+- Recognize the clinical signs and symptoms associated with anaphylaxis.
+- Understand diagnostic criteria and evaluation methods.
+- Learn immediate and long-term management strategies including epinephrine use.
+- Be aware of lifestyle modifications to prevent recurrence.
+- Recognize complications and potential emergencies related to untreated anaphylaxis.
+- Dispel common misconceptions and understand safety considerations in anaphylaxis care.
+
+## Definition
+Anaphylaxis is a rapid-onset, severe systemic allergic reaction characterized by multisystem involvement, which can lead to respiratory compromise, cardiovascular collapse, and potentially death if untreated. It commonly occurs due to IgE-mediated hypersensitivity but can also arise from non-IgE mechanisms.
+
+## Why This Matters
+Anaphylaxis is a medical emergency requiring immediate recognition and intervention to prevent fatal outcomes. Awareness and preparedness can save lives by ensuring timely administration of epinephrine and appropriate follow-up care. Understanding anaphylaxis empowers patients and caregivers to act decisively during emergencies and reduces the burden of recurrent severe allergic reactions.
+
+## Definition and Pathophysiology of Anaphylaxis
+Anaphylaxis is defined as a severe, systemic hypersensitivity reaction that occurs rapidly after exposure to a trigger, involving multiple organ systems such as the skin, respiratory tract, gastrointestinal tract, and cardiovascular system. It is primarily mediated by immunoglobulin E (IgE) antibodies that sensitize mast cells and basophils. Upon re-exposure to an allergen, these immune cells degranulate, releasing histamine, tryptase, leukotrienes, and prostaglandins. These mediators cause vasodilation, increased vascular permeability, bronchoconstriction, and mucous secretion, leading to symptoms like hives, swelling, wheezing, hypotension, and gastrointestinal upset. Non-IgE mechanisms including direct mast cell activation (e.g., by medications or exercise) can also provoke anaphylaxis. This physiological cascade explains the rapid progression and multi-organ involvement typical of anaphylaxis.
+
+## Common Causes and Triggers of Anaphylaxis
+Anaphylaxis can be triggered by diverse allergens. The most common causes are food allergens such as peanuts, tree nuts, shellfish, milk, eggs, and wheat. Insect venoms from bees, wasps, and fire ants are frequent causes in susceptible individuals. Medications including penicillins, nonsteroidal anti-inflammatory drugs (NSAIDs), and monoclonal antibodies can induce anaphylaxis. Latex exposure is another known trigger, especially in healthcare workers. Less common triggers include physical factors like cold or exercise, and idiopathic anaphylaxis, where no cause is identified. Identifying specific triggers is crucial for prevention and management.
+
+## Risk Factors for Anaphylaxis
+Certain factors increase the likelihood or severity of anaphylaxis. These include a personal history of allergies or atopic diseases (such as asthma, eczema, or allergic rhinitis), previous anaphylactic episodes, and certain age groups, with young adults and adolescents at increased risk for food-related anaphylaxis. Asthma, especially if poorly controlled, is a major risk factor for severe reactions. Concurrent beta-blocker or ACE inhibitor medications can exacerbate reactions or complicate treatment. Delayed administration of epinephrine is associated with greater morbidity and mortality. Awareness of these risk factors aids in risk assessment and preventive planning.
+
+## Recognition of Symptoms and Signs
+Anaphylaxis symptoms typically develop within minutes to hours after exposure and often begin suddenly. Early signs include skin manifestations such as urticaria (hives), angioedema (swelling beneath the skin), flushing, and itching. Respiratory symptoms include throat tightness, difficulty swallowing, hoarseness, wheezing, coughing, and shortness of breath, which can progress rapidly to respiratory failure. Cardiovascular signs involve hypotension, dizziness, syncope, and tachycardia, indicative of anaphylactic shock. Gastrointestinal symptoms may involve abdominal pain, nausea, vomiting, and diarrhea. Because symptoms can vary, any rapid multisystem allergic manifestations should prompt consideration of anaphylaxis.
+
+## Evaluation and Diagnosis
+Diagnosis of anaphylaxis is clinical, based on history of allergen exposure and characteristic symptoms involving skin, respiratory, gastrointestinal, and cardiovascular systems. Diagnostic criteria established by bodies such as the World Allergy Organization include acute onset of illness with involvement of skin or mucosal tissue and either respiratory compromise or reduced blood pressure. Laboratory tests such as serum tryptase levels within 1-3 hours of onset support but do not replace clinical diagnosis. Allergy testing with skin prick or serum-specific IgE assays identifies sensitizing allergens post-recovery for prevention. Differential diagnoses such as vasovagal syncope or asthma exacerbations must be considered.
+
+## Emergency Management of Anaphylaxis
+Immediate management of anaphylaxis involves prompt intramuscular injection of epinephrine (adrenaline), ideally into the mid-outer thigh, which is the first-line and life-saving treatment. Epinephrine acts rapidly to reverse airway obstruction, vasodilation, and bronchospasm through alpha- and beta-adrenergic receptor stimulation. Adjunctive therapies include supplemental oxygen, intravenous fluids for hypotension, antihistamines to relieve hives and itching, and corticosteroids to prevent protracted or biphasic reactions, though they act more slowly. Monitoring in a healthcare setting is essential due to risk of recurrence or biphasic anaphylaxis. Delays or failure to administer epinephrine are associated with poor outcomes.
+
+## Use of Epinephrine Auto-Injectors
+Epinephrine auto-injectors are portable devices designed for rapid self-administration or caregiver administration during anaphylactic emergencies. They contain a pre-measured dose of epinephrine, commonly 0.3 mg for adults and 0.15 mg for children. Using an auto-injector promptly at symptom onset improves survival and reduces severity. Patients with known risk should carry an auto-injector at all times and receive training on its proper use. Auto-injectors must be replaced before expiration and stored properly. After use, emergency medical care should be accessed immediately. Limitations include device mechanical failure, incorrect administration technique, and limited dose adjustment.
+
+## Long-term Management and Prevention Strategies
+Preventing recurrent anaphylaxis involves allergen avoidance through patient education and environmental control, such as reading food labels diligently and avoiding known insect habitats. Patients should carry and be trained in the use of epinephrine auto-injectors and consider wearing medical alert identification. In select cases, allergen immunotherapy may be recommended, particularly for insect venom or certain food allergies. Regular follow-up with allergy specialists helps update emergency plans and reassess risks. Lifestyle adjustments include informing schools, workplaces, and caregivers about the allergy. Despite preventive measures, accidental exposures can occur, necessitating preparedness.
+
+## Complications and Prognosis of Anaphylaxis
+If not promptly treated, anaphylaxis can result in severe complications including hypoxic brain injury, cardiac arrest, and death. Biphasic anaphylaxis, characterized by recurrence of symptoms after initial resolution (usually within 8–72 hours), occurs in a subset of patients, necessitating prolonged observation. Recurrent anaphylactic reactions can impair quality of life due to anxiety and activity limitations. Early epinephrine administration greatly improves prognosis. Overall mortality from anaphylaxis remains low with appropriate treatment but is higher in patients with delayed care, comorbidities, or severe initial reactions.
+
+## Misconceptions and Safety Considerations
+A common misconception is that antihistamines or steroids alone can treat anaphylaxis; however, these are supportive and should never delay epinephrine administration. Some believe epinephrine is dangerous; though it has transient side effects (palpitations, anxiety), its benefits far outweigh risks during anaphylaxis. Another myth is that only children experience food-related anaphylaxis, but adults remain at risk. Safety considerations emphasize avoiding delay in recognizing symptoms and administering epinephrine promptly, followed by emergency care. Education reduces fear and improves outcomes. Awareness of biphasic reactions requires vigilance after initial symptom resolution.
+
+## Practical Guidance
+- Always carry an epinephrine auto-injector if at risk of anaphylaxis and know how to use it.
+- Seek emergency medical help immediately after administering epinephrine.
+- Avoid known allergens strictly through label reading, environmental awareness, and communication with caregivers or food handlers.
+- Ensure close contacts and caregivers are informed about anaphylaxis management plans.
+- Wear medical alert identification to inform others in emergencies.
+- If experiencing suspected anaphylaxis symptoms, do not wait to see if they improve—administer epinephrine promptly.
+- Keep multiple epinephrine auto-injectors accessible in frequently visited locations like home, work, or school.
+- Follow up regularly with an allergist or healthcare professional to reassess risk and management plans.
+
+## Safety Notes
+- Epinephrine is the first-line treatment and should be administered without hesitation when anaphylaxis is suspected.
+- Failure to treat promptly with epinephrine can lead to fatal outcomes.
+- Do not rely solely on antihistamines or corticosteroids to treat anaphylaxis.
+- Biphasic anaphylaxis can occur, necessitating prolonged observation after initial treatment.
+- Consult healthcare providers for guidance if unsure about allergen avoidance or auto-injector use.
+
+## Common Misconceptions
+### Antihistamines can replace epinephrine in treating anaphylaxis.
+**Reality:** Antihistamines are supportive and cannot reverse airway or cardiovascular collapse; epinephrine is essential and first-line.
+
+### Epinephrine auto-injectors are dangerous and should be avoided unless absolutely necessary.
+**Reality:** Epinephrine is life-saving in anaphylaxis, and transient side effects are minor compared to severe consequences of untreated reactions.
+
+### Only children get anaphylaxis from food allergies.
+**Reality:** Adults can also experience food-induced anaphylaxis and must be equally vigilant.
+
+## Clinical Pearls
+- Epinephrine administration should not be delayed; early use decreases morbidity and mortality.
+- Recognize that anaphylaxis can present without skin symptoms, especially in asthma patients.
+- Patients with a history of anaphylaxis should have an action plan and carry auto-injectors at all times.
+- Monitor patients for at least 4–6 hours after an anaphylactic episode to observe for biphasic reactions.
+- Educate patients and families regularly to reinforce understanding and preparedness.
+
+## Key Takeaways
+- Anaphylaxis is a rapid-onset, severe systemic allergic reaction that can be fatal without prompt treatment.
+- IgE-mediated mast cell degranulation is the primary mechanism but non-IgE pathways exist.
+- Common triggers include foods, insect stings, medications, and latex.
+- Symptoms involve skin, respiratory, cardiovascular, and gastrointestinal systems.
+- Epinephrine is the first-line, life-saving treatment and should be administered immediately.
+- Delays in epinephrine use increase risks of severe outcomes and death.
+- Avoidance of known allergens combined with readiness to treat anaphylaxis is essential.
+- Education and preparedness reduce morbidity, mortality, and psychological burden in at-risk individuals.
+
+## Glossary
+- **Anaphylaxis:** A severe, rapid allergic reaction involving multiple body systems that can lead to life-threatening symptoms.
+- **Immunoglobulin E (IgE):** A class of antibodies involved in allergic reactions by triggering immune cells like mast cells and basophils.
+- **Mast cells:** Immune cells that release chemical mediators such as histamine during allergic reactions.
+- **Histamine:** A chemical released by mast cells causing blood vessel dilation, increased permeability, and bronchoconstriction in allergies.
+- **Epinephrine (Adrenaline):** A hormone and medication used to quickly reverse severe allergic symptoms by relaxing airway muscles and constricting blood vessels.
+- **Urticaria:** Also called hives; raised, itchy skin welts occurring during allergic reactions.
+- **Angioedema:** Swelling beneath the skin often seen in the lips, eyes, or throat during allergic reactions.
+- **Biphasic Anaphylaxis:** A recurrence of anaphylactic symptoms hours after initial resolution without further allergen exposure.
+
+## Related Modules
+- COND-157-Drug-Allergy
+- COND-271-Food-Allergy
+- COND-312-Asthma
+
+## Illustration Specifications
+### ILLU-001 - Mechanism of Anaphylaxis
+**Type:** Diagram
+
+A schematic illustrating IgE antibody binding to mast cells and subsequent mediator release causing anaphylaxis symptoms.
+
+**Alt text:** Diagram showing IgE antibodies triggering mast cells to release histamine and other chemicals causing allergic symptoms.
+
+### ILLU-002 - Symptoms of Anaphylaxis
+**Type:** Infographic
+
+Visual representation of common signs and symptoms of anaphylaxis affecting different organ systems.
+
+**Alt text:** Infographic depicting skin hives, respiratory distress, low blood pressure, and gastrointestinal symptoms in anaphylaxis.
+
+### ILLU-003 - Epinephrine Auto-Injector Use
+**Type:** Stepwise Instructional
+
+Step-by-step images demonstrating correct administration of an epinephrine auto-injector for anaphylaxis emergencies.
+
+**Alt text:** Series of images showing how to remove safety cap, position auto-injector on thigh, and inject epinephrine properly.
+
+### ILLU-004 - Common Anaphylaxis Triggers
+**Type:** Chart
+
+Chart categorizing typical allergens inducing anaphylaxis such as foods, insect stings, medications, and latex.
+
+**Alt text:** Chart listing peanuts, shellfish, bee venom, penicillin, and latex as common anaphylaxis triggers.
+
+## References
+- WAO guidelines for the assessment and management of anaphylaxis | World Allergy Organization | 2020 |  | Unverified
+- Anaphylaxis: Epidemiology, pathophysiology, and management | Sampson HA et al., Journal of Allergy and Clinical Immunology | 2023 |  | Unverified
+- Epipen (epinephrine) prescribing and usage guidelines | American Academy of Allergy, Asthma & Immunology (AAAAI) | 2022 |  | Unverified
+- Anaphylaxis in children and adults: diagnosis and management | National Institute for Health and Care Excellence (NICE) | 2023 |  | Unverified
+
+**Evidence strength:** Established evidence based on clinical guidelines, consensus documents, and peer-reviewed literature.
+**Version:** 1.0
+**Review status:** AI draft - scientific, clinical, and editorial review required

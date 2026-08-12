@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-289",
+  "title": "Iron Deficiency Anemia",
+  "subtitle": "What iron deficiency anemia is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "Iron deficiency",
+    "Anemia",
+    "Iron deficiency anemia",
+    "Hemoglobin",
+    "Ferritin",
+    "Iron supplementation",
+    "Microcytic anemia",
+    "Men's health",
+    "Fatigue",
+    "Dietary iron"
+  ],
+  "related_modules": [
+    "COND-301",
+    "COND-215"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and systematic reviews",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
