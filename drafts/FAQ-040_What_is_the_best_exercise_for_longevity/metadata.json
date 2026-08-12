@@ -1,0 +1,35 @@
+{
+  "module_id": "FAQ-040",
+  "title": "What is the best exercise for longevity?",
+  "subtitle": "Evidence-based answer to the common question: what is the best exercise for longevity?",
+  "domain": "Frequently Asked Questions",
+  "category": "Exercise FAQs",
+  "som_stages": [
+    "Prevention",
+    "Health Optimization"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Fitness Professionals"
+  ],
+  "reading_level": "High School and Above",
+  "keywords": [
+    "Longevity",
+    "Exercise",
+    "Physical Activity",
+    "Aerobic Exercise",
+    "Resistance Training",
+    "Flexibility",
+    "Balance",
+    "Healthspan"
+  ],
+  "related_modules": [
+    "EXR-015",
+    "EXR-023",
+    "NUT-007"
+  ],
+  "evidence_strength": "Established evidence from epidemiological studies and randomized controlled trials supporting aerobic and resistance exercise benefits for longevity; emerging evidence for HIIT; consistent physiological rationale; safe with appropriate precautions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
