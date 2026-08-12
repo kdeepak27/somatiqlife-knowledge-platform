@@ -1,0 +1,37 @@
+{
+  "module_id": "BEH-039",
+  "title": "Journaling Progress",
+  "subtitle": "Benefits, limitations, and practical strategies related to journaling progress.",
+  "domain": "Behavior Change",
+  "category": "Tracking and Feedback",
+  "som_stages": [
+    "initiation",
+    "maintenance",
+    "assessment"
+  ],
+  "audience": [
+    "general public",
+    "health coaches",
+    "psychologists",
+    "behavioral therapists"
+  ],
+  "reading_level": "8th grade to 12th grade",
+  "keywords": [
+    "journaling",
+    "progress tracking",
+    "behavior change",
+    "self-monitoring",
+    "feedback",
+    "mental health",
+    "goal setting",
+    "self-reflection"
+  ],
+  "related_modules": [
+    "BEH-012",
+    "BEH-021",
+    "BEH-056"
+  ],
+  "evidence_strength": "Moderate evidence supports journaling progress as an effective tool for enhancing behavior change and mental health outcomes, based on systematic reviews and controlled studies with some variability in methods.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "BEH-036",
+  "title": "Weight Tracking",
+  "subtitle": "Benefits, limitations, and practical strategies related to weight tracking.",
+  "domain": "Behavior Change",
+  "category": "Tracking and Feedback",
+  "som_stages": [
+    "Motivation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Coaches",
+    "Clinicians",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "weight tracking",
+    "body weight",
+    "weight monitoring",
+    "weight management",
+    "self-monitoring",
+    "behavior change",
+    "health tracking"
+  ],
+  "related_modules": [
+    "BEH-003_SelfMonitoring",
+    "BEH-025_BehavioralFeedback",
+    "BEH-040_HealthyEatingStrategies",
+    "BEH-046_PhysicalActivityTracking"
+  ],
+  "evidence_strength": "Established with moderate evidence and emerging nuances about psychological impacts.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

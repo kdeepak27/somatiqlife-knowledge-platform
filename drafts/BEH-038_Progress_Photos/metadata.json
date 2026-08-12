@@ -1,0 +1,36 @@
+{
+  "module_id": "BEH-038",
+  "title": "Progress Photos",
+  "subtitle": "Benefits, limitations, and practical strategies related to progress photos.",
+  "domain": "Behavior Change",
+  "category": "Tracking and Feedback",
+  "som_stages": [
+    "Initiation",
+    "Maintenance",
+    "Relapse Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Behavioral Therapists",
+    "Fitness Trainers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "progress photos",
+    "behavior tracking",
+    "visual feedback",
+    "self-monitoring",
+    "motivation",
+    "habit formation",
+    "body image"
+  ],
+  "related_modules": [
+    "BEH-021-Behavioral_Self_Monitoring",
+    "FIT-015-Body_Composition_Basics",
+    "PSY-007-Motivation_in_Behavior_Change"
+  ],
+  "evidence_strength": "Moderate evidence with some mixed results; best used as part of a multimodal tracking strategy.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
