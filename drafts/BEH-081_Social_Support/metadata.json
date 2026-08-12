@@ -1,0 +1,38 @@
+{
+  "module_id": "BEH-081",
+  "title": "Social Support",
+  "subtitle": "How social support shapes behavior and practical strategies for improvement.",
+  "domain": "Behavior Change",
+  "category": "Environment and Social Support",
+  "som_stages": [
+    "Initiation",
+    "Maintenance",
+    "Relapse Prevention"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare providers",
+    "Behavioral scientists",
+    "Mental health counselors"
+  ],
+  "reading_level": "Intermediate (Grade 8+)",
+  "keywords": [
+    "social support",
+    "behavior change",
+    "social networks",
+    "emotional support",
+    "instrumental support",
+    "social isolation",
+    "peer support",
+    "health behavior",
+    "community resources"
+  ],
+  "related_modules": [
+    "BEH-053",
+    "BEH-122",
+    "BEH-097"
+  ],
+  "evidence_strength": "Established evidence for core concepts; moderate evidence for nuances and online/virtual support effectiveness; emerging evidence on physiological pathways and cultural effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

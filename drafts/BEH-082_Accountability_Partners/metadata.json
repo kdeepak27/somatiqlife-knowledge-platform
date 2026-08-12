@@ -1,0 +1,38 @@
+{
+  "module_id": "BEH-082",
+  "title": "Accountability Partners",
+  "subtitle": "How accountability partners shapes behavior and practical strategies for improvement.",
+  "domain": "Behavior Change",
+  "category": "Environment and Social Support",
+  "som_stages": [
+    "Pre-contemplation",
+    "Contemplation",
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Behavioral Scientists",
+    "Healthcare Providers",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Accountability partner",
+    "Behavior change",
+    "Social support",
+    "Motivation",
+    "Goal setting",
+    "Self-regulation",
+    "Habit formation",
+    "Peer support"
+  ],
+  "related_modules": [
+    "BEH-047",
+    "BEH-054"
+  ],
+  "evidence_strength": "Moderate - multiple studies with consistent findings; some heterogeneity remains",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

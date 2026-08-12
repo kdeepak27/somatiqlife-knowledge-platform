@@ -1,0 +1,36 @@
+{
+  "module_id": "BEH-084",
+  "title": "Partner Support",
+  "subtitle": "How partner support shapes behavior and practical strategies for improvement.",
+  "domain": "Behavior Change",
+  "category": "Environment and Social Support",
+  "som_stages": [
+    "Initiation",
+    "Maintenance",
+    "Relapse Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Health Coaches",
+    "Behavioral Therapists",
+    "Psychologists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "partner support",
+    "behavior change",
+    "social support",
+    "relationship dynamics",
+    "health behavior",
+    "emotional support",
+    "practical strategies"
+  ],
+  "related_modules": [
+    "BEH-023",
+    "BEH-057",
+    "BEH-089"
+  ],
+  "evidence_strength": "Established evidence from observational studies and meta-analyses with moderate experimental support",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
