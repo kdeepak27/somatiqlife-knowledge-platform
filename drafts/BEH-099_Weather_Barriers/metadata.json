@@ -1,0 +1,35 @@
+{
+  "module_id": "BEH-099",
+  "title": "Weather Barriers",
+  "subtitle": "How to identify, understand, and overcome weather barriers.",
+  "domain": "Behavior Change",
+  "category": "Problem Solving",
+  "som_stages": [
+    "Identification",
+    "Understanding",
+    "Overcoming"
+  ],
+  "audience": [
+    "General Public",
+    "Behavioral Health Coaches",
+    "Wellness Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "weather barriers",
+    "behavior change",
+    "environmental challenges",
+    "weather impact",
+    "barrier identification",
+    "overcoming weather",
+    "psychological impact of weather"
+  ],
+  "related_modules": [
+    "BEH-045",
+    "BEH-103",
+    "HLT-212"
+  ],
+  "evidence_strength": "Moderate - Based on observational studies, systematic reviews, and some interventional evidence with variability across populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

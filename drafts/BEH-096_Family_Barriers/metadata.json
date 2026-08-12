@@ -1,0 +1,35 @@
+{
+  "module_id": "BEH-096",
+  "title": "Family Barriers",
+  "subtitle": "How to identify, understand, and overcome family barriers.",
+  "domain": "Behavior Change",
+  "category": "Problem Solving",
+  "som_stages": [
+    "Identification",
+    "Understanding",
+    "Intervention"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Health Coaches",
+    "Behavioral Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "family barriers",
+    "behavior change",
+    "communication",
+    "family dynamics",
+    "problem solving",
+    "support systems"
+  ],
+  "related_modules": [
+    "BEH-021",
+    "BEH-034",
+    "BEH-088"
+  ],
+  "evidence_strength": "Moderate evidence with emerging studies supporting intervention techniques in diverse populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

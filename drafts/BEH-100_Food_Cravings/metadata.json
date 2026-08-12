@@ -1,0 +1,37 @@
+{
+  "module_id": "BEH-100",
+  "title": "Food Cravings",
+  "subtitle": "How to identify, understand, and overcome food cravings.",
+  "domain": "Behavior Change",
+  "category": "Problem Solving",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Action"
+  ],
+  "audience": [
+    "General Adult Population",
+    "Health Coaches",
+    "Nutritionists",
+    "Behavioral Therapists"
+  ],
+  "reading_level": "High School to Adult",
+  "keywords": [
+    "food cravings",
+    "appetite",
+    "hunger",
+    "behavior change",
+    "emotional eating",
+    "neurobiology",
+    "dieting",
+    "self-control"
+  ],
+  "related_modules": [
+    "NUT-205",
+    "BEH-150",
+    "PSY-300"
+  ],
+  "evidence_strength": "Established with some emerging evidence; behavioral interventions well-supported, pharmacological treatments investigational.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
