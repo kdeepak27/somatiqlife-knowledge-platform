@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-229",
+  "title": "Alcohol Use Disorder",
+  "subtitle": "What alcohol use disorder is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Mental Health",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Easy-to-Moderate",
+  "keywords": [
+    "Alcohol Use Disorder",
+    "AUD",
+    "Alcohol Addiction",
+    "Substance Use Disorder",
+    "Risk Factors",
+    "Symptoms",
+    "Management",
+    "Treatment",
+    "Recovery",
+    "Mental Health"
+  ],
+  "related_modules": [
+    "COND-105",
+    "COND-230",
+    "MENT-115"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
