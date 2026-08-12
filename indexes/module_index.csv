@@ -1,4 +1,49 @@
 module_id,title,domain,category,version,stage,path
+BEH-001,How Behavior Change Works,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-001_How_Behavior_Change_Works/module.json
+BEH-002,Motivation,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-002_Motivation/module.json
+BEH-003,Ability and Opportunity,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-003_Ability_and_Opportunity/module.json
+BEH-004,Habit Formation,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-004_Habit_Formation/module.json
+BEH-005,Habit Loops,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-005_Habit_Loops/module.json
+BEH-006,Automatic Behavior,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-006_Automatic_Behavior/module.json
+BEH-007,Intentions vs Actions,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-007_Intentions_vs_Actions/module.json
+BEH-008,Behavioral Triggers,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-008_Behavioral_Triggers/module.json
+BEH-009,Rewards and Reinforcement,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-009_Rewards_and_Reinforcement/module.json
+BEH-010,Identity-Based Habits,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-010_Identity-Based_Habits/module.json
+BEH-011,Self-Efficacy,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-011_Self-Efficacy/module.json
+BEH-012,Readiness to Change,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-012_Readiness_to_Change/module.json
+BEH-013,Stages of Change,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-013_Stages_of_Change/module.json
+BEH-014,Behavioral Friction,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-014_Behavioral_Friction/module.json
+BEH-015,Environmental Design,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-015_Environmental_Design/module.json
+BEH-016,Setting Health Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-016_Setting_Health_Goals/module.json
+BEH-017,SMART Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-017_SMART_Goals/module.json
+BEH-018,Process Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-018_Process_Goals/module.json
+BEH-019,Outcome Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-019_Outcome_Goals/module.json
+BEH-020,Approach Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-020_Approach_Goals/module.json
+BEH-021,Avoidance Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-021_Avoidance_Goals/module.json
+BEH-022,Short-Term Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-022_Short-Term_Goals/module.json
+BEH-023,Long-Term Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-023_Long-Term_Goals/module.json
+BEH-024,Breaking Goals Into Steps,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-024_Breaking_Goals_Into_Steps/module.json
+BEH-025,Choosing One Priority,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-025_Choosing_One_Priority/module.json
+BEH-026,Goal Difficulty,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-026_Goal_Difficulty/module.json
+BEH-027,Goal Review,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-027_Goal_Review/module.json
+BEH-028,Goal Adjustment,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-028_Goal_Adjustment/module.json
+BEH-029,Goal Conflict,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-029_Goal_Conflict/module.json
+BEH-030,Creating a Personal Health Roadmap,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-030_Creating_a_Personal_Health_Roadmap/module.json
+BEH-031,Self-Monitoring,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-031_Self-Monitoring/module.json
+BEH-032,Habit Tracking,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-032_Habit_Tracking/module.json
+BEH-033,Food Tracking,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-033_Food_Tracking/module.json
+BEH-034,Exercise Tracking,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-034_Exercise_Tracking/module.json
+BEH-035,Sleep Tracking,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-035_Sleep_Tracking/module.json
+BEH-036,Weight Tracking,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-036_Weight_Tracking/module.json
+BEH-037,Blood Pressure Tracking,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-037_Blood_Pressure_Tracking/module.json
+BEH-038,Progress Photos,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-038_Progress_Photos/module.json
+BEH-039,Journaling Progress,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-039_Journaling_Progress/module.json
+BEH-040,Weekly Reviews,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-040_Weekly_Reviews/module.json
+BEH-041,Feedback Loops,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-041_Feedback_Loops/module.json
+BEH-042,Using Wearables,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-042_Using_Wearables/module.json
+BEH-043,Avoiding Tracking Obsession,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-043_Avoiding_Tracking_Obsession/module.json
+BEH-044,Interpreting Plateaus,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-044_Interpreting_Plateaus/module.json
+BEH-045,Celebrating Progress,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-045_Celebrating_Progress/module.json
 COND-001,Hypertension,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-001_Hypertension/module.json
 COND-002,High LDL Cholesterol,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-002_High_LDL_Cholesterol/module.json
 COND-003,High Triglycerides,Medical Conditions,Cardiovascular Conditions,1.0,drafts,drafts/COND-003_High_Triglycerides/module.json
@@ -294,3 +339,8 @@ COND-292,Sickle Cell Disease,Medical Conditions,Men's and Other Common Condition
 COND-293,Thalassemia,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-293_Thalassemia/module.json
 COND-294,Chronic Fatigue Syndrome,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-294_Chronic_Fatigue_Syndrome/module.json
 COND-295,Postural Orthostatic Tachycardia Syndrome,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-295_Postural_Orthostatic_Tachycardia_Syndrome/module.json
+COND-296,Long-Term Effects of Smoking,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-296_Long-Term_Effects_of_Smoking/module.json
+COND-297,Alcohol-Related Health Problems,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-297_Alcohol-Related_Health_Problems/module.json
+COND-298,Heat Illness,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-298_Heat_Illness/module.json
+COND-299,Dehydration,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-299_Dehydration/module.json
+COND-300,Obesity-Related Health Complications,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-300_Obesity-Related_Health_Complications/module.json
