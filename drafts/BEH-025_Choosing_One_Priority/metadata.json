@@ -1,0 +1,38 @@
+{
+  "module_id": "BEH-025",
+  "title": "Choosing One Priority",
+  "subtitle": "Practical evidence-based approaches to choosing one priority.",
+  "domain": "Behavior Change",
+  "category": "Goal Setting",
+  "som_stages": [
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General public",
+    "Health coaches",
+    "Behavioral therapists"
+  ],
+  "reading_level": "Average workplace (Grade 10+ reading level)",
+  "keywords": [
+    "priority setting",
+    "goal setting",
+    "behavior change",
+    "decision making",
+    "time management",
+    "focus",
+    "motivation",
+    "self-regulation",
+    "executive function",
+    "mental bandwidth"
+  ],
+  "related_modules": [
+    "BEH-007",
+    "BEH-018",
+    "BEH-030"
+  ],
+  "evidence_strength": "Established evidence from cognitive psychology and behavioral science supporting prioritization benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

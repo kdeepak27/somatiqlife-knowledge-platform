@@ -1,0 +1,37 @@
+{
+  "module_id": "BEH-024",
+  "title": "Breaking Goals Into Steps",
+  "subtitle": "Practical evidence-based approaches to breaking goals into steps.",
+  "domain": "Behavior Change",
+  "category": "Goal Setting",
+  "som_stages": [
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Coaches",
+    "Behavioral Therapists",
+    "Self-Help Enthusiasts",
+    "Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "goal setting",
+    "behavior change",
+    "motivation",
+    "task breakdown",
+    "action planning",
+    "self-regulation",
+    "goal achievement"
+  ],
+  "related_modules": [
+    "BEH-001",
+    "BEH-015",
+    "BEH-030"
+  ],
+  "evidence_strength": "Established evidence from behavioral psychology and neurocognitive studies, with support from meta-analyses in goal setting and motivation literature.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

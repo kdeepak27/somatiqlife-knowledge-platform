@@ -1,0 +1,34 @@
+{
+  "module_id": "BEH-022",
+  "title": "Short-Term Goals",
+  "subtitle": "Practical evidence-based approaches to short-term goals.",
+  "domain": "Behavior Change",
+  "category": "Goal Setting",
+  "som_stages": [
+    "Initiation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Coaches",
+    "Therapists",
+    "Educators"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "short-term goals",
+    "goal setting",
+    "behavior change",
+    "motivation",
+    "psychology",
+    "self-regulation",
+    "goal achievement"
+  ],
+  "related_modules": [
+    "BEH-023",
+    "BEH-024"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence on physiological mechanisms and practical interventions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
