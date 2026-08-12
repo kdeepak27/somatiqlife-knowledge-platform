@@ -1,0 +1,36 @@
+{
+  "module_id": "BEH-006",
+  "title": "Automatic Behavior",
+  "subtitle": "Evidence, mechanisms, and practical application of automatic behavior.",
+  "domain": "Behavior Change",
+  "category": "Behavior Change Foundations",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Behavioral Scientists"
+  ],
+  "reading_level": "General Audience to Intermediate",
+  "keywords": [
+    "automatic behavior",
+    "habit",
+    "unconscious actions",
+    "behavioral neuroscience",
+    "psychology",
+    "behavior change",
+    "cognitive mechanisms",
+    "behavioral patterns"
+  ],
+  "related_modules": [
+    "BEH-004",
+    "BEH-010",
+    "BEH-012"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

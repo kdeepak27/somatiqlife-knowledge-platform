@@ -1,0 +1,40 @@
+{
+  "module_id": "BEH-008",
+  "title": "Behavioral Triggers",
+  "subtitle": "Evidence, mechanisms, and practical application of behavioral triggers.",
+  "domain": "Behavior Change",
+  "category": "Behavior Change Foundations",
+  "som_stages": [
+    "Pre-contemplation",
+    "Contemplation",
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Behavioral Therapists",
+    "Psychologists",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "behavioral triggers",
+    "stimulus control",
+    "habit formation",
+    "cue",
+    "motivation",
+    "behavior change",
+    "psychology",
+    "neuroscience"
+  ],
+  "related_modules": [
+    "BEH-005",
+    "BEH-012",
+    "NUT-004"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas requiring further validation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

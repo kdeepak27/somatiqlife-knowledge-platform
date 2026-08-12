@@ -1,0 +1,36 @@
+{
+  "module_id": "BEH-007",
+  "title": "Intentions vs Actions",
+  "subtitle": "Evidence, mechanisms, and practical application of intentions vs actions.",
+  "domain": "Behavior Change",
+  "category": "Behavior Change Foundations",
+  "som_stages": [
+    "Recognition",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General Public",
+    "Health Coaches",
+    "Behavioral Therapists",
+    "Clinical Psychologists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "intentions",
+    "actions",
+    "behavior change",
+    "motivation",
+    "self-control",
+    "implementation intentions",
+    "habit formation"
+  ],
+  "related_modules": [
+    "BEH-002",
+    "BEH-005",
+    "BEH-010"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
