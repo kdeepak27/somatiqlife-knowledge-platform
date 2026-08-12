@@ -1,0 +1,38 @@
+{
+  "module_id": "FAQ-080",
+  "title": "What is the most sustainable way to lose weight?",
+  "subtitle": "Evidence-based answer to the common question: what is the most sustainable way to lose weight?",
+  "domain": "Frequently Asked Questions",
+  "category": "Weight FAQs",
+  "som_stages": [
+    "Awareness",
+    "Consideration",
+    "Decision"
+  ],
+  "audience": [
+    "General Public",
+    "Adults Seeking Weight Management",
+    "Healthcare Providers"
+  ],
+  "reading_level": "High School",
+  "keywords": [
+    "weight loss",
+    "sustainable weight loss",
+    "weight management",
+    "diet",
+    "exercise",
+    "behavior change",
+    "energy balance",
+    "metabolism",
+    "nutrition",
+    "health"
+  ],
+  "related_modules": [
+    "FAQ-079",
+    "FAQ-081",
+    "NUT-015"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

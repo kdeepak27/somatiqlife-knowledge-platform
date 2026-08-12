@@ -1,0 +1,34 @@
+{
+  "module_id": "FAQ-078",
+  "title": "Is BMI useful?",
+  "subtitle": "Evidence-based answer to the common question: is bmi useful?",
+  "domain": "Frequently Asked Questions",
+  "category": "Weight FAQs",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate (Grades 9-12)",
+  "keywords": [
+    "BMI",
+    "Body Mass Index",
+    "Weight measurement",
+    "Obesity",
+    "Health risk",
+    "Anthropometry",
+    "Body composition"
+  ],
+  "related_modules": [
+    "FAQ-045",
+    "FAQ-102",
+    "BMI-001",
+    "OB-025"
+  ],
+  "evidence_strength": "Established Evidence with Recognized Limitations",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

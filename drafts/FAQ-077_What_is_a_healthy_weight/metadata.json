@@ -1,0 +1,37 @@
+{
+  "module_id": "FAQ-077",
+  "title": "What is a healthy weight?",
+  "subtitle": "Evidence-based answer to the common question: what is a healthy weight?",
+  "domain": "Frequently Asked Questions",
+  "category": "Weight FAQs",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Health Educators"
+  ],
+  "reading_level": "Grade 8 to 10",
+  "keywords": [
+    "healthy weight",
+    "body mass index",
+    "BMI",
+    "body composition",
+    "weight management",
+    "obesity",
+    "underweight",
+    "health risks",
+    "nutrition",
+    "physical activity"
+  ],
+  "related_modules": [
+    "FAQ-035-BMI",
+    "FAQ-102-Weight-Loss-Strategies",
+    "FAQ-058-Nutrition-Basics"
+  ],
+  "evidence_strength": "Established evidence with some limitations in measurement precision and individual variability.",
+  "version": "1.0.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
