@@ -1,0 +1,36 @@
+{
+  "module_id": "MEA-052",
+  "title": "DASH Meal Planning",
+  "subtitle": "How to plan dash meal planning, including nutritional strengths, limitations, and practical examples.",
+  "domain": "Meal Planning",
+  "category": "Special Diet Planning",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Nutritionists",
+    "Healthcare Providers"
+  ],
+  "reading_level": "High School",
+  "keywords": [
+    "DASH diet",
+    "Dietary Approaches to Stop Hypertension",
+    "Meal planning",
+    "Hypertension diet",
+    "Nutritional guidelines",
+    "Blood pressure management",
+    "Low sodium diet",
+    "Heart health"
+  ],
+  "related_modules": [
+    "MEA-045",
+    "MEA-053",
+    "NUT-021"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

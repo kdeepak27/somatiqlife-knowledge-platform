@@ -1,0 +1,36 @@
+{
+  "module_id": "MEA-051",
+  "title": "Mediterranean Meal Planning",
+  "subtitle": "How to plan mediterranean meal planning, including nutritional strengths, limitations, and practical examples.",
+  "domain": "Meal Planning",
+  "category": "Special Diet Planning",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Nutritionists",
+    "Dietitians",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Mediterranean diet",
+    "Meal planning",
+    "Nutrition",
+    "Healthy fats",
+    "Whole grains",
+    "Dietary fiber",
+    "Special diets"
+  ],
+  "related_modules": [
+    "MEA-012:Plant-Based Diets",
+    "MEA-023:Healthy Fats and Oils",
+    "MEA-045:Weight Management Meal Planning"
+  ],
+  "evidence_strength": "Established evidence supports Mediterranean meal planning for cardiovascular and metabolic health benefits, based on multiple randomized controlled trials, observational studies, and meta-analyses. Emerging evidence addresses adaptations for special populations and long-term adherence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

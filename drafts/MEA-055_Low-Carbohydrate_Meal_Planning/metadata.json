@@ -1,0 +1,33 @@
+{
+  "module_id": "MEA-055",
+  "title": "Low-Carbohydrate Meal Planning",
+  "subtitle": "How to plan low-carbohydrate meal planning, including nutritional strengths, limitations, and practical examples.",
+  "domain": "Meal Planning",
+  "category": "Special Diet Planning",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Low-Carbohydrate Diet",
+    "Meal Planning",
+    "Nutrition",
+    "Weight Management",
+    "Blood Sugar Control",
+    "Ketogenic Diet"
+  ],
+  "related_modules": [
+    "MEA-034-Weight-Management-Diets",
+    "CEA-012-Diabetes-Nutrition",
+    "MEA-078-Ketogenic-Diet-Overview"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging findings in specific populations",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

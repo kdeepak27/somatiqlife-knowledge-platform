@@ -1,0 +1,40 @@
+{
+  "module_id": "MEA-054",
+  "title": "Vegan Meal Planning",
+  "subtitle": "How to plan vegan meal planning, including nutritional strengths, limitations, and practical examples.",
+  "domain": "Meal Planning",
+  "category": "Special Diet Planning",
+  "som_stages": [
+    "Prevention",
+    "Nutrition Optimization"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Dietitians",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Vegan",
+    "Meal Planning",
+    "Plant-based diet",
+    "Nutrition",
+    "Protein",
+    "Vitamin B12",
+    "Iron",
+    "Calcium",
+    "Omega-3",
+    "Dietary Supplements"
+  ],
+  "related_modules": [
+    "MEA-022-Plant-Based Nutrition Basics",
+    "MEA-045-Protein Sources Comparison",
+    "MEA-061-Nutrition in Pregnancy",
+    "MEA-059-Supplementation Guidelines",
+    "MEA-038-Child Nutrition"
+  ],
+  "evidence_strength": "Established evidence for nutrient considerations and health benefits with proper planning; moderate to emerging evidence for long-term outcomes and specific supplementation strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
