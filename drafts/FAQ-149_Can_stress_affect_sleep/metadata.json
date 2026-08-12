@@ -1,0 +1,36 @@
+{
+  "module_id": "FAQ-149",
+  "title": "Can stress affect sleep?",
+  "subtitle": "Evidence-based answer to the common question: can stress affect sleep?",
+  "domain": "Frequently Asked Questions",
+  "category": "Stress FAQs",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "General Audience",
+  "keywords": [
+    "stress",
+    "sleep",
+    "sleep disturbance",
+    "insomnia",
+    "cortisol",
+    "stress response",
+    "sleep quality",
+    "psychophysiology",
+    "stress management"
+  ],
+  "related_modules": [
+    "FAQ-102",
+    "FAQ-110",
+    "STRESS-201",
+    "SLEEP-305"
+  ],
+  "evidence_strength": "Established Evidence from Systematic Reviews and Clinical Trials",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
