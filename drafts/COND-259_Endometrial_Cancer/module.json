@@ -1,0 +1,278 @@
+{
+  "module_id": "COND-259",
+  "title": "Endometrial Cancer",
+  "subtitle": "What endometrial cancer is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Screening",
+    "Diagnosis",
+    "Treatment",
+    "Follow-up"
+  ],
+  "audience": [
+    "General Public",
+    "Women at Risk",
+    "Healthcare Providers",
+    "Medical Students"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "Endometrial cancer",
+    "Uterine cancer",
+    "Endometrium",
+    "Gynecologic oncology",
+    "Abnormal uterine bleeding",
+    "Hormone therapy",
+    "Cancer staging",
+    "Obesity and cancer",
+    "Pelvic ultrasound"
+  ],
+  "customer_questions": [
+    "What is endometrial cancer?",
+    "What causes endometrial cancer?",
+    "Who is at risk of developing endometrial cancer?",
+    "What are the common symptoms of endometrial cancer?",
+    "How is endometrial cancer diagnosed?",
+    "What tests are used to evaluate endometrial cancer?",
+    "What treatment options are available for endometrial cancer?",
+    "Can lifestyle changes reduce the risk of endometrial cancer?",
+    "What is the prognosis for someone diagnosed with endometrial cancer?",
+    "Is endometrial cancer hereditary?",
+    "How does obesity affect the risk of endometrial cancer?",
+    "What are the side effects of treatments for endometrial cancer?"
+  ],
+  "retrieval_summary": "Endometrial cancer, also known as uterine cancer, is a malignancy originating from the endometrium, the inner lining of the uterus. It is among the most common gynecologic cancers, predominantly affecting postmenopausal women but occasionally found in younger individuals. The disease mechanism often involves unopposed estrogen exposure leading to hyperplasia and malignant transformation of the endometrial cells. Common synonyms include uterine corpus cancer and endometrial carcinoma. Clinically, endometrial cancer presents with abnormal uterine bleeding, especially postmenopausal spotting, and may be detected via transvaginal ultrasound or endometrial biopsy. Diagnosis typically involves histopathological confirmation and cancer staging to guide management, which may include surgery, radiation, and/or systemic therapies. Understanding the risk factors such as obesity, hormone therapy, and genetic predispositions is critical for prevention strategies. Lifestyle interventions focusing on weight management and monitoring for symptoms can be beneficial. Limitations in current evidence include variability in screening recommendations and the need for personalized treatment approaches. Safety considerations include the risks and benefits of surgical and medical treatments as well as surveillance methods. This module aims to provide comprehensive, evidence-informed education on endometrial cancer to support informed health decisions.",
+  "learning_objectives": [
+    "Define endometrial cancer and recognize its primary characteristics.",
+    "Identify the main causes and risk factors for endometrial cancer.",
+    "Describe the common signs and symptoms indicating possible endometrial cancer.",
+    "Explain diagnostic methods and staging used to evaluate endometrial cancer.",
+    "List treatment options and their indications based on disease stage.",
+    "Discuss lifestyle factors that influence risk and management outcomes.",
+    "Clarify common misconceptions about endometrial cancer.",
+    "Highlight safety considerations in diagnosis and treatment.",
+    "Understand the prognosis and factors influencing outcomes.",
+    "Provide practical guidance for patients and healthcare providers."
+  ],
+  "definition": "Endometrial cancer is a malignant tumor that originates from the endometrium, the mucosal lining of the uterus. It is characterized by uncontrolled cellular proliferation in this tissue, leading to invasive cancer that can spread locally or metastasize.",
+  "why_this_matters": "Understanding endometrial cancer is important because it is the most common gynecological malignancy in many countries and early diagnosis significantly improves survival rates. Knowledge about causes, risk factors, symptoms, and management helps patients and providers make informed decisions, facilitates timely diagnosis, and supports effective treatment and prevention strategies.",
+  "sections": [
+    {
+      "heading": "Overview and Definition of Endometrial Cancer",
+      "content": "Endometrial cancer, also known as uterine cancer or endometrial carcinoma, is a type of cancer that arises from the endometrium, the inner lining of the uterus. It typically affects postmenopausal women and is the most common cancer of the female reproductive tract in developed countries. The endometrium undergoes cyclical changes during the menstrual cycle, which under normal conditions is regulated by hormones such as estrogen and progesterone. Endometrial cancer develops when there is a disruption in the balance of these hormones — particularly, prolonged exposure to estrogen without progesterone protection leads to abnormal cell growth and malignancy."
+    },
+    {
+      "heading": "Causes and Mechanisms of Endometrial Cancer",
+      "content": "The primary mechanism underlying endometrial cancer is unopposed estrogen exposure, which stimulates endometrial proliferation without the counterbalancing effect of progesterone. This hormonal imbalance may be due to obesity, polycystic ovary syndrome (PCOS), hormone replacement therapy (HRT), or estrogen-secreting tumors. Genetic factors also contribute, such as mutations in DNA mismatch repair genes seen in Lynch syndrome, which increases risk. The carcinogenesis process often involves progression from endometrial hyperplasia to atypical hyperplasia and then invasive carcinoma. Two main histologic subtypes are recognized: Type I (endometrioid adenocarcinoma), usually hormone-dependent, and Type II (non-endometrioid, including serous carcinoma), more aggressive and less hormone sensitive."
+    },
+    {
+      "heading": "Risk Factors for Endometrial Cancer",
+      "content": "Multiple risk factors have been identified for endometrial cancer. The most significant include prolonged exposure to estrogen without progesterone, obesity (which increases peripheral conversion of androgens to estrogens), early menarche, late menopause, nulliparity, diabetes mellitus, hypertension, and use of tamoxifen therapy. Family history and hereditary cancer syndromes like Lynch syndrome further raise risk. Age is also a factor, with incidence peaking in women aged 55-65 years. Conversely, use of combined oral contraceptives reduces risk due to their progesterone component. Understanding these factors helps in risk stratification and targeted screening."
+    },
+    {
+      "heading": "Common Signs and Symptoms",
+      "content": "The hallmark symptom of endometrial cancer is abnormal uterine bleeding, especially postmenopausal bleeding or irregular heavy menstrual bleeding in premenopausal women. Other signs can include pelvic pain, vaginal discharge, and in advanced cases, symptoms related to metastasis such as weight loss or abdominal swelling. Because early-stage endometrial cancer commonly presents with bleeding abnormalities, it provides an opportunity for timely evaluation and intervention. However, symptoms can overlap with benign conditions, making diagnostic vigilance essential."
+    },
+    {
+      "heading": "Diagnosis and Evaluation",
+      "content": "Diagnosis of endometrial cancer involves histopathological confirmation by obtaining tissue from the uterine lining. Initial evaluation often includes transvaginal ultrasound to measure endometrial thickness; thickness greater than 4-5 mm in postmenopausal women or abnormal appearance warrants biopsy. Endometrial biopsy can be performed in the outpatient setting or by dilation and curettage (D&C) if needed. Additional imaging such as pelvic MRI or CT scans assesses the extent of disease spread for staging purposes. Laboratory tests like CA-125 may be used in some cases but are not diagnostic. Accurate diagnosis and staging guide treatment planning."
+    },
+    {
+      "heading": "Staging and Classification",
+      "content": "Endometrial cancer is staged using the FIGO (International Federation of Gynecology and Obstetrics) system, which reflects the extent of tumor spread. Stage I is cancer confined to the uterus; Stage II involves cervical stromal invasion; Stage III includes local and regional spread such as to pelvic or para-aortic lymph nodes; Stage IV signifies distant metastasis. Histopathological grading based on differentiation (Grade 1 to 3) and molecular classification are increasingly used for prognostic and therapeutic decisions. Correct staging is crucial to determine prognosis and appropriate management."
+    },
+    {
+      "heading": "Treatment Modalities",
+      "content": "Treatment depends on the stage and histopathologic subtype. Surgery is the primary treatment for early stages, typically total hysterectomy with removal of fallopian tubes and ovaries (bilateral salpingo-oophorectomy) and pelvic lymph node assessment. Radiation therapy may be used postoperatively to decrease recurrence risk or as primary treatment if surgery is not feasible. Advanced or recurrent disease may require systemic chemotherapy or hormonal therapy with progestins or targeted agents. Emerging treatments include immunotherapy for select molecular subtypes. Multidisciplinary care is essential to optimize outcomes while minimizing toxicity."
+    },
+    {
+      "heading": "Prognosis and Survival",
+      "content": "The prognosis for endometrial cancer is relatively favorable when detected early, with 5-year survival rates exceeding 80% for localized disease. Poor prognostic factors include high-grade tumors, deep myometrial invasion, lymphovascular space invasion, and advanced stage at diagnosis. Non-endometrioid histologies generally have worse outcomes. Regular follow-up is important to monitor for recurrence. Personalized treatment strategies based on molecular profiling are improving prognostication and management precision."
+    },
+    {
+      "heading": "Prevention and Lifestyle Considerations",
+      "content": "Prevention strategies focus on modifying risk factors such as obesity, physical inactivity, and diabetes control. Maintaining a healthy body weight, regular exercise, and balanced diet reduce unopposed estrogen exposure. Use of combined oral contraceptives is protective. Women with hereditary risk may benefit from genetic counseling and surveillance. Avoidance of prolonged unopposed estrogen therapy is recommended. Counseling on symptom awareness promotes early detection. While routine screening for average-risk women is not standard, high-risk individuals may require specialized follow-up."
+    },
+    {
+      "heading": "Common Misconceptions",
+      "content": "A common misconception is that endometrial cancer only affects older women; however, it can occur in younger women, especially with risk factors like obesity or genetic predisposition. Some believe all abnormal uterine bleeding is benign, which may delay diagnosis. Another myth is that tamoxifen always increases risk, but the benefits in breast cancer often outweigh the modest endometrial risk with proper monitoring. Hormone replacement therapy with combined estrogen-progestogen is often mistakenly thought to increase risk similarly to estrogen-alone therapy; the latter carries higher risk due to lack of progesterone. Understanding these nuances helps in informed decision-making."
+    },
+    {
+      "heading": "Safety Considerations in Diagnosis and Treatment",
+      "content": "Safety in the evaluation of endometrial cancer includes the careful selection of diagnostic procedures to avoid unnecessary invasive testing. Endometrial biopsy is generally safe but may cause discomfort or bleeding. Imaging relies on modalities with low radiation exposure when possible. Surgical treatment carries risks such as bleeding, infection, and impact on fertility. Radiation and chemotherapy have known adverse effects that require management and supportive care. Communication about risks and benefits is critical. Psychological support is recommended to address anxiety related to diagnosis and treatment."
+    }
+  ],
+  "practical_guidance": [
+    "Seek prompt evaluation for abnormal uterine bleeding, especially postmenopausal bleeding.",
+    "Maintain a healthy weight and lifestyle to reduce estrogen exposure and cancer risk.",
+    "Discuss family history of cancers with your healthcare provider to assess hereditary risk.",
+    "Understand the diagnostic procedures and ask questions about benefits and possible risks.",
+    "Adhere to follow-up schedules after treatment to monitor for recurrence.",
+    "Work with a multidisciplinary team for optimal treatment planning.",
+    "Consider genetic counseling if there is a family history suggestive of Lynch syndrome.",
+    "Be aware of potential side effects from treatment and report new symptoms early."
+  ],
+  "safety_notes": [
+    "Endometrial biopsy may cause mild discomfort or bleeding; inform your provider of any anticoagulant use.",
+    "Surgical treatments require anesthesia, and risks vary by patient health status.",
+    "Radiation therapy may cause fatigue and localized skin changes; discuss protective measures with your oncologist.",
+    "Hormonal therapies require monitoring for thromboembolism or other side effects.",
+    "Psychosocial support is important for emotional well-being throughout diagnosis and treatment."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Endometrial cancer only occurs in older women.",
+      "reality": "While it is more common in postmenopausal women, endometrial cancer can occur in younger women, especially those with certain risk factors like obesity or genetic conditions."
+    },
+    {
+      "misconception": "All abnormal uterine bleeding is harmless.",
+      "reality": "Abnormal uterine bleeding can be a sign of endometrial cancer or other serious conditions and should be evaluated promptly."
+    },
+    {
+      "misconception": "Hormone replacement therapy always increases endometrial cancer risk.",
+      "reality": "Combined estrogen-progestogen hormone therapy has a lower risk compared to estrogen-alone therapy, which increases endometrial cancer risk."
+    },
+    {
+      "misconception": "Tamoxifen therapy greatly increases endometrial cancer risk in all patients.",
+      "reality": "Tamoxifen slightly increases risk, but benefits in breast cancer treatment generally outweigh this risk; surveillance is recommended."
+    }
+  ],
+  "clinical_pearls": [
+    "Postmenopausal bleeding is a red flag symptom warranting prompt investigation for endometrial cancer.",
+    "Obesity is one of the most modifiable risk factors for endometrial cancer prevention.",
+    "Type I and Type II endometrial cancers have different biology and prognosis; treatment is tailored accordingly.",
+    "Endometrial biopsy is the gold standard for diagnosis and is minimally invasive.",
+    "Advanced molecular profiling is improving personalized treatment approaches.",
+    "Combined oral contraceptives are protective and can be considered for risk reduction.",
+    "Genetic counseling aids in identification of hereditary syndromes affecting cancer risk.",
+    "Multidisciplinary care improves outcomes and reduces treatment complications."
+  ],
+  "key_takeaways": [
+    "Endometrial cancer is a cancer of the uterine lining primarily affecting postmenopausal women.",
+    "Excess estrogen exposure without progesterone is a key causative factor.",
+    "Obesity, hormone therapy, and genetics significantly influence risk.",
+    "Abnormal uterine bleeding is the most common presenting symptom.",
+    "Diagnosis requires histological confirmation, often via endometrial biopsy.",
+    "Surgical removal of the uterus is the main treatment for early-stage disease.",
+    "Lifestyle modifications can reduce risk and support recovery.",
+    "Early detection leads to a favorable prognosis in most cases."
+  ],
+  "glossary": [
+    {
+      "term": "Endometrium",
+      "definition": "The inner lining of the uterus that thickens and sheds during the menstrual cycle."
+    },
+    {
+      "term": "Carcinoma",
+      "definition": "A type of cancer that begins in the epithelial cells lining organs or tissues."
+    },
+    {
+      "term": "Unopposed estrogen",
+      "definition": "Estrogen hormone activity without the balancing effect of progesterone, leading to increased cell proliferation."
+    },
+    {
+      "term": "Hyperplasia",
+      "definition": "An increase in the number of cells in an organ or tissue, causing it to thicken."
+    },
+    {
+      "term": "Lynch syndrome",
+      "definition": "An inherited genetic disorder that increases the risk of several cancers, including endometrial cancer, due to DNA mismatch repair gene mutations."
+    },
+    {
+      "term": "Transvaginal ultrasound",
+      "definition": "An imaging technique that uses sound waves via a probe inserted into the vagina to examine pelvic organs."
+    },
+    {
+      "term": "Histopathology",
+      "definition": "The microscopic examination of tissue to study the manifestations of disease."
+    },
+    {
+      "term": "Hysterectomy",
+      "definition": "Surgical removal of the uterus."
+    },
+    {
+      "term": "Bilateral salpingo-oophorectomy",
+      "definition": "Surgical removal of both fallopian tubes and ovaries."
+    },
+    {
+      "term": "FIGO staging",
+      "definition": "A standardized system for classifying the extent of gynecologic cancers developed by the International Federation of Gynecology and Obstetrics."
+    }
+  ],
+  "related_modules": [
+    "COND-075",
+    "COND-174",
+    "COND-221"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-01",
+      "title": "Anatomy of the Female Uterus Highlighting the Endometrium",
+      "illustration_type": "Diagram",
+      "description": "Color-coded anatomical illustration showing the uterus layers, emphasizing the endometrium where cancer originates.",
+      "alt_text": "Diagram of the female uterus with endometrium highlighted."
+    },
+    {
+      "illustration_id": "ILL-02",
+      "title": "Pathophysiology of Endometrial Cancer Development",
+      "illustration_type": "Flowchart",
+      "description": "Flowchart depicting hormonal imbalances leading to progression from normal endometrium to hyperplasia and carcinoma.",
+      "alt_text": "Flowchart showing estrogen influence on endometrial cancer development."
+    },
+    {
+      "illustration_id": "ILL-03",
+      "title": "FIGO Staging of Endometrial Cancer",
+      "illustration_type": "Infographic",
+      "description": "Visual summary of the FIGO stages I to IV with tumor spread depiction and corresponding prognosis.",
+      "alt_text": "Infographic of endometrial cancer staging with tumor invasion levels."
+    },
+    {
+      "illustration_id": "ILL-04",
+      "title": "Endometrial Biopsy Procedure",
+      "illustration_type": "Stepwise Illustration",
+      "description": "Visual guide illustrating how endometrial tissue is obtained with biopsy tools in a clinical setting.",
+      "alt_text": "Step-by-step images showing endometrial biopsy technique."
+    }
+  ],
+  "references": [
+    {
+      "title": "Practice Bulletin No. 149: Endometrial Cancer",
+      "organization_or_authors": "American College of Obstetricians and Gynecologists (ACOG)",
+      "year": "2015",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Endometrial Carcinoma: Diagnosis and Treatment",
+      "organization_or_authors": "National Comprehensive Cancer Network (NCCN) Guidelines",
+      "year": "2024",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Endometrial Cancer: Epidemiology, Pathogenesis and Diagnosis",
+      "organization_or_authors": "National Cancer Institute (NCI)",
+      "year": "2023",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Hormonal and Genetic Risk Factors of Endometrial Cancer",
+      "organization_or_authors": "World Cancer Research Fund International",
+      "year": "2022",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Screening for Endometrial Cancer: Current Recommendations",
+      "organization_or_authors": "American Cancer Society",
+      "year": "2023",
+      "identifier": "",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence for main facts; emerging evidence for molecular classifications and targeted therapies; limitations in screening consensus.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

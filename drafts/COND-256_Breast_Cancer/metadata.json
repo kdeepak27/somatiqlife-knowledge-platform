@@ -1,0 +1,41 @@
+{
+  "module_id": "COND-256",
+  "title": "Breast Cancer",
+  "subtitle": "What breast cancer is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Prevention",
+    "Detection",
+    "Treatment",
+    "Survivorship"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "breast cancer",
+    "mammogram",
+    "risk factors",
+    "symptoms",
+    "treatment",
+    "biopsy",
+    "chemotherapy",
+    "radiation therapy",
+    "hormonal therapy",
+    "lifestyle",
+    "early detection"
+  ],
+  "related_modules": [
+    "COND-190:Genetic Testing in Cancer Risk",
+    "COND-300:Radiation Therapy Principles",
+    "COND-280:Cancer Survivorship and Rehabilitation"
+  ],
+  "evidence_strength": "Established and Moderate Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
