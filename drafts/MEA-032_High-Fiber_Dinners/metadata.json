@@ -1,0 +1,38 @@
+{
+  "module_id": "MEA-032",
+  "title": "High-Fiber Dinners",
+  "subtitle": "How to build and adapt high-fiber dinners for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Dinner Plans",
+  "som_stages": [
+    "Planning",
+    "Preparation",
+    "Cooking",
+    "Nutritional Balance"
+  ],
+  "audience": [
+    "Consumers",
+    "Home Cooks",
+    "Dietitians",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "fiber",
+    "high-fiber dinner",
+    "meal planning",
+    "digestion",
+    "nutrition",
+    "vegetables",
+    "whole grains",
+    "legumes"
+  ],
+  "related_modules": [
+    "MEA-010",
+    "MEA-045",
+    "MEA-021"
+  ],
+  "evidence_strength": "Established Evidence, Moderate Evidence for dinner-specific benefits, Emerging Evidence for some microbiome interactions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

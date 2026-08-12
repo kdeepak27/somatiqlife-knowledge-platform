@@ -1,0 +1,37 @@
+{
+  "module_id": "MEA-034",
+  "title": "Vegan Dinners",
+  "subtitle": "How to build and adapt vegan dinners for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Dinner Plans",
+  "som_stages": [
+    "Planning",
+    "Preparation",
+    "Consumption"
+  ],
+  "audience": [
+    "General Public",
+    "Vegan Individuals",
+    "Dietitians",
+    "Health Educators"
+  ],
+  "reading_level": "8th-10th grade",
+  "keywords": [
+    "vegan",
+    "dinner",
+    "plant-based",
+    "nutrition",
+    "meal planning",
+    "protein sources",
+    "micronutrients"
+  ],
+  "related_modules": [
+    "MEA-022 - Plant-Based Snacks",
+    "MEA-058 - Vegan Breakfasts",
+    "MEA-041 - Vegetarian Meal Planning",
+    "MEA-099 - Nutritional Supplements for Plant-Based Diets"
+  ],
+  "evidence_strength": "Established evidence for macronutrient sufficiency with balanced planning; moderate evidence for optimal micronutrient supplementation strategies; emerging evidence for long-term impacts on chronic disease.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

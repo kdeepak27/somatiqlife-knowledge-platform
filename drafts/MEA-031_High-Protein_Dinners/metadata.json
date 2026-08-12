@@ -1,0 +1,37 @@
+{
+  "module_id": "MEA-031",
+  "title": "High-Protein Dinners",
+  "subtitle": "How to build and adapt high-protein dinners for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Dinner Plans",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Nutritionists",
+    "Dietitians",
+    "Fitness Enthusiasts"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "High-protein dinner",
+    "Protein-rich meals",
+    "Balanced nutrition",
+    "Dinner planning",
+    "Meal preparation",
+    "Healthy eating",
+    "Dietary protein",
+    "Muscle maintenance"
+  ],
+  "related_modules": [
+    "MEA-012",
+    "MEA-045",
+    "NUT-021"
+  ],
+  "evidence_strength": "Established with some areas of emerging research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
