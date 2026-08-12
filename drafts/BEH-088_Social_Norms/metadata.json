@@ -1,0 +1,39 @@
+{
+  "module_id": "BEH-088",
+  "title": "Social Norms",
+  "subtitle": "How social norms shapes behavior and practical strategies for improvement.",
+  "domain": "Behavior Change",
+  "category": "Environment and Social Support",
+  "som_stages": [
+    "Initiation",
+    "Maintenance",
+    "Relapse Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Behavioral Scientists",
+    "Healthcare Providers",
+    "Policy Makers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "social norms",
+    "behavior change",
+    "peer influence",
+    "social pressure",
+    "cultural norms",
+    "group behavior",
+    "social expectations",
+    "behavioral interventions",
+    "social environment",
+    "collective behavior"
+  ],
+  "related_modules": [
+    "BEH-027",
+    "BEH-054",
+    "BEH-076"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

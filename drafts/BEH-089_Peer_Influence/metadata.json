@@ -1,0 +1,37 @@
+{
+  "module_id": "BEH-089",
+  "title": "Peer Influence",
+  "subtitle": "How peer influence shapes behavior and practical strategies for improvement.",
+  "domain": "Behavior Change",
+  "category": "Environment and Social Support",
+  "som_stages": [
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Behavioral Scientists",
+    "Psychologists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "peer influence",
+    "social behavior",
+    "behavior change",
+    "social norms",
+    "peer pressure",
+    "environment and social support",
+    "behavioral change strategies",
+    "social psychology"
+  ],
+  "related_modules": [
+    "BEH-052",
+    "BEH-061",
+    "BEH-075"
+  ],
+  "evidence_strength": "Established for core mechanisms and effects; emerging evidence for neurobiological underpinnings and intervention efficacy; uncertain for cross-cultural generalizability and ethical impacts.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
