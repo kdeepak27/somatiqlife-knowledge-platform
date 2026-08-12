@@ -1,0 +1,264 @@
+{
+  "module_id": "COND-238",
+  "title": "Self-Harm Awareness",
+  "subtitle": "What self-harm awareness is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Mental Health",
+  "som_stages": [
+    "Awareness",
+    "Recognition",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Middle School to Adult",
+  "keywords": [
+    "self-harm",
+    "self-injury",
+    "risk factors",
+    "mental health",
+    "psychological distress",
+    "management",
+    "prevention",
+    "safety planning",
+    "coping mechanisms"
+  ],
+  "customer_questions": [
+    "What is self-harm and how is it defined?",
+    "What are common reasons people engage in self-harm?",
+    "What are the different types and methods of self-harm?",
+    "How prevalent is self-harm globally and in different age groups?",
+    "What are the risk factors that increase the chance of self-harm?",
+    "How can I recognize signs and symptoms of someone self-harming?",
+    "What is the physiological mechanism behind self-harm behaviors?",
+    "How is self-harm evaluated by healthcare professionals?",
+    "What are effective strategies for managing or reducing self-harm?",
+    "How can caregivers support someone who self-harms?",
+    "What lifestyle changes can help prevent self-harm episodes?",
+    "What safety measures should be in place to protect individuals who self-harm?"
+  ],
+  "retrieval_summary": "Self-harm, also known as non-suicidal self-injury (NSSI), refers to the intentional, direct injuring of body tissue without suicidal intent, typically as a way to cope with emotional distress. Common methods include cutting, burning, scratching, or hitting oneself. The behavior often serves as a physical outlet to regulate intense emotions, relieve psychological pain, or express feelings difficult to verbalize. Understanding self-harm is vital as it often co-occurs with mental health disorders such as depression, anxiety, borderline personality disorder, and post-traumatic stress disorder. Recognizing self-harm can involve identifying distinctive scars, wounds, or behavioral signs and requires a compassionate, nonjudgmental approach. Evaluation by healthcare providers includes a thorough risk assessment including suicidal ideation, associated psychiatric conditions, and environmental factors. Management integrates psychological therapies like cognitive behavioral therapy (CBT), dialectical behavior therapy (DBT), coping skill development, and sometimes pharmacotherapy targeting underlying conditions. Safety planning and lifestyle considerations such as stress reduction, social support, and avoidance of triggers are integral to prevention. Despite advances, uncertainties remain regarding the precise neurobiological mechanisms underlying self-harm and the most effective interventions for diverse populations. Awareness of the terminology and concepts, misconceptions, and safety issues aids in reducing stigma and improving outcomes for individuals who self-harm.",
+  "learning_objectives": [
+    "Define self-harm and describe its common synonyms.",
+    "Explain the psychological and physiological mechanisms underlying self-harm.",
+    "Identify risk factors and common triggers for self-harming behavior.",
+    "Recognize signs and symptoms of self-harm in individuals.",
+    "Describe the standard evaluation process for self-harm by healthcare professionals.",
+    "Outline evidence-based management strategies for self-harm.",
+    "Discuss lifestyle and environmental factors relevant to managing self-harm.",
+    "Highlight safety measures to reduce harm and support recovery."
+  ],
+  "definition": "Self-harm, medically recognized as non-suicidal self-injury (NSSI), is the intentional act of causing physical injury to oneself without the intent to die. It is typically a coping strategy used to manage overwhelming emotional distress, express feelings, or regain a sense of control.",
+  "why_this_matters": "Self-harm affects millions worldwide, particularly adolescents and young adults, and is a significant public health concern. Awareness and understanding can reduce stigma, promote early intervention, and save lives by improving support and treatment outcomes for affected individuals.",
+  "sections": [
+    {
+      "heading": "Definition and Terminology of Self-Harm",
+      "content": "Self-harm is defined as the deliberate, self-inflicted damage to body tissue without suicidal intent, often referred to as non-suicidal self-injury (NSSI). Common terms include self-injury, self-mutilation, and self-cutting. It is distinguished from suicidal behavior by the absence of intent to end life, though overlap and risk are possible. Awareness of language sensitivity and use of person-first terms promotes respectful communication."
+    },
+    {
+      "heading": "Mechanisms and Physiology of Self-Harm",
+      "content": "Self-harm is believed to regulate overwhelming emotions by inducing physical pain or by releasing endorphins—natural pain-relieving chemicals in the brain. Physiological studies suggest alterations in neurotransmitter systems such as serotonin and dopamine may influence impulsivity and emotional regulation in individuals who self-harm. Although exact mechanisms remain incompletely understood, self-injury can temporarily reduce psychological distress or numbness."
+    },
+    {
+      "heading": "Common Causes and Psychological Triggers",
+      "content": "People engage in self-harm to cope with intense emotions such as anxiety, depression, anger, or trauma-related distress. Triggers often include interpersonal conflicts, feelings of abandonment, rejection, or overwhelming stress. Underlying mental health disorders, history of abuse, and difficulties in emotion regulation increase vulnerability. Self-harm serves as a maladaptive coping mechanism when healthier strategies are unavailable or ineffective."
+    },
+    {
+      "heading": "Risk Factors for Self-Harm",
+      "content": "Major risk factors include a history of trauma or abuse, psychiatric conditions (like borderline personality disorder, depression, anxiety, PTSD), family history of self-harm or suicide, substance abuse, social isolation, bullying, and low self-esteem. Adolescents and young adults are at heightened risk, with females reporting higher prevalence though males are also affected. Genetics and environmental stressors interact to influence risk."
+    },
+    {
+      "heading": "Signs and Symptoms to Recognize Self-Harm",
+      "content": "Physical signs include unexplained cuts, burns, bruises—commonly on wrists, arms, thighs, or abdomen—often hidden by clothing. Behavioral signs include frequent skin damage, social withdrawal, wearing long sleeves/tights in warm weather, emotional distress, and secretive behavior. Psychological signs may include expressions of hopelessness or difficulty managing emotions. Recognizing these signs supports timely intervention."
+    },
+    {
+      "heading": "Evaluation and Assessment in Healthcare Settings",
+      "content": "Healthcare providers perform comprehensive assessments including detailed history, mental health evaluation, screening for suicidal thoughts, and risk of further harm. Evaluation covers methods, frequency, triggers, psychiatric comorbidities, and family/social context. Safety risk is assessed to guide immediate protection measures. Use of validated tools like the Self-Harm Inventory and Columbia-Suicide Severity Rating Scale can assist standardized assessments."
+    },
+    {
+      "heading": "Evidence-Based Management Strategies",
+      "content": "Management prioritizes safety and addresses underlying issues. Psychological therapies such as Cognitive Behavioral Therapy (CBT) and Dialectical Behavior Therapy (DBT) are effective in teaching coping skills and emotion regulation. Medication may target coexisting psychiatric disorders. Crisis intervention and hospitalization are reserved for severe risk. Family involvement, psychoeducation, and support groups enhance recovery. Ongoing monitoring is essential."
+    },
+    {
+      "heading": "Lifestyle Considerations and Prevention",
+      "content": "Lifestyle modifications include stress reduction techniques (e.g., mindfulness, relaxation), development of adaptive coping strategies, fostering supportive relationships, and avoiding substance abuse. Encouraging open communication and healthy outlets for emotions is beneficial. Prevention programs in schools and communities that build resilience and emotional literacy are effective in reducing incidence of self-harm among vulnerable populations."
+    },
+    {
+      "heading": "Safety Planning and Risk Reduction",
+      "content": "Safety planning involves personalized steps to reduce harm during crises, such as removing or limiting access to means of self-injury, identifying warning signs, and listing coping strategies and support contacts. Educational materials and collaborative planning with healthcare professionals improve safety. Family and caregivers are guided on how to respond appropriately, emphasizing empathy and avoiding punitive responses to promote trust and help-seeking."
+    },
+    {
+      "heading": "Common Misconceptions About Self-Harm",
+      "content": "Myths include beliefs that self-harm is attention-seeking or only occurs in teenagers; or that it always indicates suicidal intent. Reality is self-harm is a serious coping behavior across ages, often hidden due to shame. It does not necessarily imply desire to die but signals distress needing compassionate care. Understanding misconceptions reduces stigma, encourages open dialogue, and improves outcomes."
+    },
+    {
+      "heading": "Cultural and Social Considerations",
+      "content": "Cultural attitudes toward self-harm vary and may influence how individuals express distress and seek help. Social stigma can inhibit disclosure and access to treatment. Recognizing cultural context and social determinants of health is essential for effective communication and culturally sensitive support. Inclusion and diversity in care approaches improve engagement and adherence to interventions."
+    },
+    {
+      "heading": "Limitations and Emerging Research in Self-Harm Studies",
+      "content": "Research on self-harm faces challenges such as variability in definitions, underreporting, and ethical considerations in study design. Emerging studies explore neurobiological pathways, efficacy of novel therapies, digital interventions, and long-term outcomes. Evidence gaps persist regarding best approaches for specific subgroups and intersection with suicidal behaviors. Ongoing research is critical to refine prevention and treatment strategies."
+    }
+  ],
+  "practical_guidance": [
+    "If you or someone you know is self-harming, seek professional help early for assessment and support.",
+    "Use nonjudgmental language and listen empathetically to someone who self-harms.",
+    "Encourage development of healthy coping skills and emotional expression.",
+    "Avoid punitive or shaming responses to disclosure of self-harm.",
+    "Establish a safety plan including removal of means of injury and identification of supportive contacts.",
+    "Promote lifestyle changes to reduce stress and enhance resilience, such as regular exercise and sleep.",
+    "Support involvement in therapy modalities shown to reduce self-harm behaviors like DBT and CBT.",
+    "Educate caregivers and families about self-harm to reduce stigma and foster supportive environments."
+  ],
+  "safety_notes": [
+    "Self-harm can increase risk of accidental severe injury and infection; wound care and medical evaluation are important.",
+    "Do not attempt to manage self-harm alone without professional guidance, especially if suicidal thoughts are present.",
+    "In emergencies or acute suicidal risk, immediate crisis intervention or psychiatric hospitalization may be necessary.",
+    "Avoid minimizing, ignoring, or dismissing disclosures of self-harm as these can increase isolation and risk.",
+    "Ensure any safety plan is tailored and periodically reviewed with healthcare providers."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Self-harm is always a suicide attempt.",
+      "reality": "Self-harm typically is without suicidal intent and serves as a coping mechanism, though it may increase suicide risk."
+    },
+    {
+      "misconception": "People who self-harm want attention.",
+      "reality": "Self-harm is often hidden, not for attention, but to manage unbearable emotions or trauma."
+    },
+    {
+      "misconception": "Only teenagers self-harm.",
+      "reality": "Self-harm can occur at any age, including adults and older populations."
+    }
+  ],
+  "clinical_pearls": [
+    "Early identification of self-harm can prevent escalation and improve prognosis.",
+    "DBT is a first-line therapy specifically designed to address self-harm and emotional regulation.",
+    "Comprehensive risk assessment must differentiate suicidal intent from non-suicidal self-injury to guide treatment.",
+    "Building trust and validating emotional experiences can encourage disclosure and engagement in care.",
+    "Family psychoeducation can significantly improve support and reduce stigma for individuals who self-harm."
+  ],
+  "key_takeaways": [
+    "Self-harm is the intentional injury to one’s body tissue without intent to die, often to regulate intense emotions.",
+    "It is most common among adolescents and young adults but can affect all age groups and genders.",
+    "Underlying mental health conditions and past trauma are significant risk factors for self-harm.",
+    "Recognition involves identifying physical injuries and behavioral changes with sensitivity and care.",
+    "Evaluation requires comprehensive assessment including psychiatric comorbidities and suicide risk.",
+    "Treatment includes psychotherapies such as CBT and DBT, medication for coexisting conditions, and safety planning.",
+    "Prevention strategies involve lifestyle modifications, support networks, and stress management.",
+    "Reducing stigma and correcting misconceptions enhances the willingness to seek help and recover."
+  ],
+  "glossary": [
+    {
+      "term": "Self-Harm",
+      "definition": "Deliberate injury to one’s body tissue without suicidal intent, used to manage emotional distress."
+    },
+    {
+      "term": "Non-Suicidal Self-Injury (NSSI)",
+      "definition": "Medical term for self-harm behaviors performed without intent to die."
+    },
+    {
+      "term": "Cognitive Behavioral Therapy (CBT)",
+      "definition": "A type of psychotherapy that helps change unhelpful thinking patterns and behaviors."
+    },
+    {
+      "term": "Dialectical Behavior Therapy (DBT)",
+      "definition": "A specialized type of CBT designed to help people regulate emotions and reduce self-harm."
+    },
+    {
+      "term": "Suicide Risk",
+      "definition": "The likelihood that a person will attempt or die by suicide."
+    },
+    {
+      "term": "Emotional Regulation",
+      "definition": "The ability to manage and respond to emotional experiences appropriately."
+    },
+    {
+      "term": "Safety Plan",
+      "definition": "A personalized, practical plan aimed at reducing self-harm risk during crisis moments."
+    },
+    {
+      "term": "Coping Mechanism",
+      "definition": "Strategies or behaviors used to manage stress or emotional pain."
+    }
+  ],
+  "related_modules": [
+    "COND-150",
+    "COND-294",
+    "MH-121",
+    "MH-257"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Common Types of Self-Harm Injuries",
+      "illustration_type": "Diagram",
+      "description": "Visual depiction of typical self-harm injury locations on the human body, highlighting wrists, arms, thighs, and abdomen.",
+      "alt_text": "Diagram showing common areas where people injure themselves intentionally."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Mechanism of Emotional Regulation via Self-Harm",
+      "illustration_type": "Infographic",
+      "description": "An infographic explaining how self-harm may temporarily relieve emotional distress through endorphin release and brain chemistry.",
+      "alt_text": "Graphic illustrating the brain and body response during self-harm for emotional regulation."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Signs and Symptoms of Self-Harm",
+      "illustration_type": "Checklist",
+      "description": "A visual checklist for caregivers and healthcare providers to recognize potential signs of self-harming behavior.",
+      "alt_text": "Checklist infographic showing physical and behavioral signs of self-harm."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Safety Planning Steps for Self-Harm Prevention",
+      "illustration_type": "Flowchart",
+      "description": "Step-by-step flowchart guiding individuals and caregivers through creating an effective safety plan to reduce self-harm risk.",
+      "alt_text": "Flowchart outlining the safety planning process for managing self-harm behaviors."
+    }
+  ],
+  "references": [
+    {
+      "title": "Non-suicidal self-injury: Epidemiology, clinical characteristics and treatment",
+      "organization_or_authors": "Muehlenkamp JJ, Kerr PL",
+      "year": "2010",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "The neurobiology of non-suicidal self-injury: A review",
+      "organization_or_authors": "Bandelow B et al.",
+      "year": "2019",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Dialectical Behavior Therapy for borderline personality disorder",
+      "organization_or_authors": "Linehan MM",
+      "year": "1993",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Self-harm: assessment and management",
+      "organization_or_authors": "National Institute for Health and Care Excellence (NICE)",
+      "year": "2013",
+      "identifier": "NICE Guideline CG133",
+      "verification_status": "Verified"
+    },
+    {
+      "title": "A systematic review of interventions to reduce self-harm in adolescents",
+      "organization_or_authors": "Hawton K et al.",
+      "year": "2015",
+      "identifier": "",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence for assessment and management; moderate and emerging evidence for neurobiological mechanisms and novel interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,35 @@
+{
+  "module_id": "COND-237",
+  "title": "Suicidal Thoughts",
+  "subtitle": "What suicidal thoughts is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Mental Health",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Grade 10",
+  "keywords": [
+    "suicidal thoughts",
+    "suicide ideation",
+    "mental health",
+    "risk factors",
+    "prevention",
+    "management",
+    "safety planning"
+  ],
+  "related_modules": [
+    "COND-120_Depression",
+    "COND-138_Bipolar_Disorder",
+    "COND-200_Substance_Use_Disorders"
+  ],
+  "evidence_strength": "Established evidence supports the identification, assessment, and treatment of suicidal thoughts as critical components in suicide prevention. Emerging evidence continues to improve understanding of biological and psychosocial mechanisms. Limitations exist in predicting suicide attempts from ideation alone.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
