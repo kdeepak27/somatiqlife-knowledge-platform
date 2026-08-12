@@ -1,0 +1,36 @@
+{
+  "module_id": "FAQ-017",
+  "title": "Is the Mediterranean diet best?",
+  "subtitle": "Evidence-based answer to the common question: is the mediterranean diet best?",
+  "domain": "Frequently Asked Questions",
+  "category": "Nutrition FAQs",
+  "som_stages": [
+    "Prevention",
+    "Wellness",
+    "Chronic Disease Management"
+  ],
+  "audience": [
+    "Consumers",
+    "General Public",
+    "Patients"
+  ],
+  "reading_level": "Upper Intermediate",
+  "keywords": [
+    "Mediterranean diet",
+    "nutrition",
+    "heart health",
+    "dietary pattern",
+    "plant-based diet",
+    "olive oil",
+    "whole grains",
+    "cardiovascular disease"
+  ],
+  "related_modules": [
+    "FAQ-011",
+    "NUTR-022",
+    "CARD-015"
+  ],
+  "evidence_strength": "Strong evidence for cardiovascular benefits; moderate evidence for other chronic disease prevention; emerging evidence on cognitive benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

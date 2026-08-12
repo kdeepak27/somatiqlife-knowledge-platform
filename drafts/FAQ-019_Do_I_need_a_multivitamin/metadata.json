@@ -1,0 +1,37 @@
+{
+  "module_id": "FAQ-019",
+  "title": "Do I need a multivitamin?",
+  "subtitle": "Evidence-based answer to the common question: do i need a multivitamin?",
+  "domain": "Frequently Asked Questions",
+  "category": "Nutrition FAQs",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Nutrition Students"
+  ],
+  "reading_level": "Grade 9-10",
+  "keywords": [
+    "Multivitamin",
+    "Dietary Supplements",
+    "Micronutrients",
+    "Vitamins",
+    "Minerals",
+    "Nutrition",
+    "Health",
+    "Supplementation",
+    "Deficiency",
+    "Safety"
+  ],
+  "related_modules": [
+    "FAQ-020",
+    "NUTR-004",
+    "SUPP-012"
+  ],
+  "evidence_strength": "Moderate evidence for general population; stronger for specific groups with deficiencies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
