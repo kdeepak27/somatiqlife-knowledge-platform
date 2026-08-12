@@ -1,0 +1,34 @@
+{
+  "module_id": "FAQ-011",
+  "title": "Is coffee healthy?",
+  "subtitle": "Evidence-based answer to the common question: is coffee healthy?",
+  "domain": "Frequently Asked Questions",
+  "category": "Nutrition FAQs",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Nutritionists"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "coffee",
+    "caffeine",
+    "health",
+    "nutrition",
+    "antioxidants",
+    "cardiovascular health",
+    "metabolism"
+  ],
+  "related_modules": [
+    "NUTR-005",
+    "FAQ-019",
+    "NUTR-021"
+  ],
+  "evidence_strength": "Established evidence for moderate coffee consumption benefits and risks; emerging evidence for some long-term effects and individual variability; moderate-certainty observational data predominates.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

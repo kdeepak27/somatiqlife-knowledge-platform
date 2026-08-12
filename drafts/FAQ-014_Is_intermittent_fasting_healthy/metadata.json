@@ -1,0 +1,37 @@
+{
+  "module_id": "FAQ-014",
+  "title": "Is intermittent fasting healthy?",
+  "subtitle": "Evidence-based answer to the common question: is intermittent fasting healthy?",
+  "domain": "Frequently Asked Questions",
+  "category": "Nutrition FAQs",
+  "som_stages": [
+    "Prevention",
+    "Wellness"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Clinicians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Intermittent Fasting",
+    "IF",
+    "Health",
+    "Nutrition",
+    "Metabolism",
+    "Weight Loss",
+    "Timing of Eating",
+    "Fasting Regimens",
+    "Metabolic Health",
+    "Safety"
+  ],
+  "related_modules": [
+    "FAQ-011",
+    "NUTR-003",
+    "EXER-005"
+  ],
+  "evidence_strength": "Moderate to emerging evidence with ongoing research needed",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
