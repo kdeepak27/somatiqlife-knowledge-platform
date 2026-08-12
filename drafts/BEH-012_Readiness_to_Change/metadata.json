@@ -1,0 +1,42 @@
+{
+  "module_id": "BEH-012",
+  "title": "Readiness to Change",
+  "subtitle": "Evidence, mechanisms, and practical application of readiness to change.",
+  "domain": "Behavior Change",
+  "category": "Behavior Change Foundations",
+  "som_stages": [
+    "Precontemplation",
+    "Contemplation",
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Behavioral Health Specialists",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Readiness to Change",
+    "Behavior Change",
+    "Motivation",
+    "Stages of Change",
+    "Health Behavior",
+    "Transtheoretical Model",
+    "Self-efficacy",
+    "Ambivalence",
+    "Motivational Interviewing",
+    "Behavioral Interventions"
+  ],
+  "related_modules": [
+    "BEH-005",
+    "BEH-009",
+    "BEH-014",
+    "BEH-020"
+  ],
+  "evidence_strength": "Established evidence with moderate variability and some emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

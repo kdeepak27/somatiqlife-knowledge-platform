@@ -1,0 +1,249 @@
+{
+  "module_id": "BEH-015",
+  "title": "Environmental Design",
+  "subtitle": "Evidence, mechanisms, and practical application of environmental design.",
+  "domain": "Behavior Change",
+  "category": "Behavior Change Foundations",
+  "som_stages": [
+    "Awareness",
+    "Motivation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Behavioral Scientists",
+    "Policy Makers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Environmental design",
+    "Behavior change",
+    "Nudging",
+    "Habit formation",
+    "Physical environment",
+    "Social environment",
+    "Health behavior",
+    "Behavioral economics"
+  ],
+  "customer_questions": [
+    "What is environmental design and how does it influence behavior?",
+    "How can changing my physical surroundings improve my health habits?",
+    "What are common strategies used in environmental design for behavior change?",
+    "Can environmental design help reduce unhealthy behaviors like smoking or overeating?",
+    "How does environmental design compare to education or counseling in promoting behavior change?",
+    "Are there risks or limitations to relying on environmental changes for behavior modification?",
+    "What role does 'nudging' play in environmental design?",
+    "How can workplaces use environmental design to promote employee well-being?",
+    "Is there scientific evidence that supports the effectiveness of environmental design interventions?",
+    "How do social and cultural factors interact with environmental design?",
+    "Can environmental design support mental health and stress reduction?",
+    "What safety considerations should be kept in mind when implementing environmental changes?"
+  ],
+  "retrieval_summary": "Environmental design refers to the purposeful modification of physical and social surroundings to influence human behavior in predictable ways. This approach draws from fields such as behavioral economics, psychology, architecture, and public health. Common synonyms include behavioral architecture, choice architecture, and 'nudging,' which involves subtle changes in how choices are presented to encourage desirable behaviors without restricting options. Environmental design works by leveraging automatic cognitive processes, habit formation, and contextual cues to make healthier or more productive choices easier, more convenient, and more salient. For example, placing healthier foods at eye level in cafeterias can increase their selection, or designing stairways to be more inviting can encourage physical activity. Physiologically, environmental cues can trigger conditioned responses and habitual behaviors mediated by neural circuits involving the basal ganglia and prefrontal cortex. Evidence from experimental and observational studies supports the effectiveness of environmental modifications in domains such as diet, physical activity, smoking cessation, and energy consumption. However, limitations include potential ethical concerns about manipulation, variable individual responsiveness, and diminishing effects over time if environments do not sustain changes. Safety aspects involve ensuring environmental changes do not create hazards or unintended negative consequences. Overall, environmental design offers a complementary strategy to education and counseling by shaping the decision context to facilitate sustained behavior change.",
+  "learning_objectives": [
+    "Define environmental design and key related concepts such as choice architecture and nudging.",
+    "Explain the psychological and physiological mechanisms by which environmental design influences behavior.",
+    "Summarize the scientific evidence supporting environmental design as a behavior change strategy.",
+    "Identify practical applications of environmental design in health, workplace, and community settings.",
+    "Discuss limitations, safety considerations, and ethical concerns related to environmental design.",
+    "Differentiate environmental design approaches from traditional educational or counseling interventions.",
+    "Recognize common misconceptions about environmental design and its effects.",
+    "Apply principles of environmental design to create supportive environments for behavior change."
+  ],
+  "definition": "Environmental design is the intentional alteration of physical and social surroundings to influence human behavior by modifying cues, accessibility, or choice structures, often aiming to promote healthier or more sustainable behaviors.",
+  "why_this_matters": "Because behavior is strongly influenced by context and environment, making positive changes to surroundings can support healthier life choices and improve public health outcomes more effectively and equitably than relying solely on individual willpower or education.",
+  "sections": [
+    {
+      "heading": "Definitions and Terminology",
+      "content": "Environmental design encompasses strategies that alter physical and social contexts to shape behavior. It is closely linked to concepts such as choice architecture (structuring choices to guide decisions), nudging (subtle prompts to influence behavior without restricting freedom), and behavioral architecture (designing environments based on psychological principles). These terms emphasize non-coercive, context-based behavior modification techniques."
+    },
+    {
+      "heading": "Psychological Mechanisms of Environmental Design",
+      "content": "Environmental design leverages cognitive biases, heuristics, and automatic processing pathways. By changing cues and default options, it influences decision-making, reducing reliance on conscious effort. This includes leveraging salience, framing effects, and habit formation to promote desired behaviors without explicit persuasion."
+    },
+    {
+      "heading": "Physiological and Neural Bases",
+      "content": "Behavior shaped by environmental design involves neural circuits governing habits and automatic responses, particularly interactions between the basal ganglia, prefrontal cortex, and limbic system. Environmental cues can trigger conditioned responses and reinforce behavior patterns through neural plasticity, supporting sustained behavior change."
+    },
+    {
+      "heading": "Scientific Evidence for Effectiveness",
+      "content": "A growing body of experimental and observational research supports environmental design's efficacy. Studies demonstrate increased physical activity with improved stairwell design, healthier eating choices via food placement, and reduced energy consumption through default settings. Systematic reviews indicate moderate to strong evidence, though results vary by context and population."
+    },
+    {
+      "heading": "Practical Applications",
+      "content": "Applications span health promotion (e.g., healthier food environments), workplaces (e.g., ergonomic office setups), schools (e.g., active learning spaces), and public policy (e.g., urban design encouraging active transport). Environmental designs can be low-cost and scalable strategies to support sustained behavior change."
+    },
+    {
+      "heading": "Limitations and Challenges",
+      "content": "Limitations include ethical concerns about manipulation, heterogeneous individual responses, potential habituation reducing long-term effects, and challenges integrating design changes into complex social systems. Environmental modifications alone may be insufficient without complementary interventions."
+    },
+    {
+      "heading": "Common Misconceptions",
+      "content": "Some assume environmental design overrides individual choice or is manipulative; however, ethical approaches maintain freedom and transparency. Others believe changes produce immediate effects universally, but responsiveness varies and sustained impact requires maintenance."
+    },
+    {
+      "heading": "Safety Considerations",
+      "content": "Implementing environmental design requires assessing risks such as physical hazards (e.g., slippery floors from design changes), unintended behavioral consequences, or exacerbating inequalities. Safety audits and stakeholder engagement are essential for responsible application."
+    },
+    {
+      "heading": "Ethical and Social Considerations",
+      "content": "Environmental design often raises questions about autonomy, consent, and equity. Ethical frameworks emphasize non-deceptive nudges, respect for individual agency, and inclusive design that benefits diverse populations without coercion."
+    },
+    {
+      "heading": "Integration With Other Behavior Change Strategies",
+      "content": "Environmental design complements education, counseling, and policy. Synergistic approaches combining informational and structural changes yield more robust, sustained behavior change by targeting motivation, capability, and opportunity dimensions."
+    }
+  ],
+  "practical_guidance": [
+    "Assess current environmental factors influencing target behavior before planning changes.",
+    "Engage stakeholders including the target population to co-design effective interventions.",
+    "Prioritize changes that make healthier or desired choices easier, more convenient, and more attractive.",
+    "Monitor and evaluate outcomes to detect unintended consequences or diminishing effects.",
+    "Combine environmental design with education and policy for sustained impact.",
+    "Maintain transparency to uphold ethical standards and preserve autonomy.",
+    "Consider cultural and social contexts to ensure relevance and equity.",
+    "Ensure safety audits are conducted before implementing physical environment modifications."
+  ],
+  "safety_notes": [
+    "Conduct risk assessments for physical changes to prevent injury or hazards.",
+    "Avoid manipulations that could cause psychological distress or reduce autonomy.",
+    "Ensure equitable access to benefits of environmental design, minimizing disparities.",
+    "Regularly review and update environmental interventions to respond to new risks or changing conditions.",
+    "Monitor for unintended negative behaviors triggered by environmental changes."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Environmental design forces people to behave in certain ways by removing choices.",
+      "reality": "Environmental design influences behavior by restructuring choices, preserving freedom while nudging towards healthier options."
+    },
+    {
+      "misconception": "Environmental changes always lead to immediate and uniform behavior change.",
+      "reality": "Responses vary between individuals and contexts; sustained change often requires ongoing support."
+    },
+    {
+      "misconception": "Environmental design replaces the need for education or counseling.",
+      "reality": "It complements, rather than replaces, informational and motivational interventions."
+    }
+  ],
+  "clinical_pearls": [
+    "Environmental cues can bypass conscious decision-making, making desired behaviors more automatic.",
+    "Small changes in layout or defaults can produce disproportionately large behavior effects.",
+    "Sustaining behavior change often requires ongoing environmental support.",
+    "Ethical transparency enhances acceptability and effectiveness.",
+    "Combining environmental design with policy yields broader public health benefits."
+  ],
+  "key_takeaways": [
+    "Environmental design modifies surroundings to facilitate healthier behaviors without restricting freedom.",
+    "It leverages psychological biases and neural habit pathways to influence behavior.",
+    "There is moderate to strong evidence supporting effectiveness in diverse settings.",
+    "Practical applications include food environments, physical activity promotion, and energy use reduction.",
+    "Ethical, safety, and social considerations are essential when designing interventions.",
+    "Limitations include individual variability and potential for diminishing impact over time.",
+    "Environmental design should be combined with education and policy for best outcomes.",
+    "Stakeholder engagement and monitoring enhance success and appropriateness."
+  ],
+  "glossary": [
+    {
+      "term": "Environmental Design",
+      "definition": "The intentional alteration of physical or social surroundings to influence human behavior in a predictable way."
+    },
+    {
+      "term": "Choice Architecture",
+      "definition": "The organization of the context in which people make decisions, influencing the choices they make."
+    },
+    {
+      "term": "Nudging",
+      "definition": "Subtle modifications in the environment that encourage people to make certain decisions without restricting options."
+    },
+    {
+      "term": "Behavioral Architecture",
+      "definition": "Designing environments informed by behavioral science to promote specific behaviors."
+    },
+    {
+      "term": "Basal Ganglia",
+      "definition": "Brain region involved in habit formation and automatic behaviors."
+    },
+    {
+      "term": "Prefrontal Cortex",
+      "definition": "Brain region involved in planning, decision-making, and moderating social behavior."
+    },
+    {
+      "term": "Heuristics",
+      "definition": "Mental shortcuts or rules of thumb used in decision-making."
+    },
+    {
+      "term": "Salience",
+      "definition": "The quality of being particularly noticeable or important; how much a stimulus stands out."
+    }
+  ],
+  "related_modules": [
+    "BEH-010",
+    "BEH-020",
+    "PUB-005"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ENV-001",
+      "title": "Choice Architecture Example: Cafeteria Food Placement",
+      "illustration_type": "Diagram",
+      "description": "A simplified diagram showing how placing healthier food options at eye level and near the checkout can increase their selection by consumers.",
+      "alt_text": "Diagram illustrating healthier food items placed prominently in a cafeteria for increased selection."
+    },
+    {
+      "illustration_id": "ENV-002",
+      "title": "Nudging Stair Use",
+      "illustration_type": "Photograph",
+      "description": "Photograph of a building stairwell designed with bright colors and motivational signage to encourage stair use over elevators.",
+      "alt_text": "Photo showing a colorful, inviting stairwell with signage promoting physical activity."
+    },
+    {
+      "illustration_id": "ENV-003",
+      "title": "Neural Pathways in Habit Formation",
+      "illustration_type": "Illustration",
+      "description": "Schematic illustration of the brain highlighting the basal ganglia and prefrontal cortex involved in habit and behavior control.",
+      "alt_text": "Brain diagram emphasizing basal ganglia and prefrontal cortex regions."
+    },
+    {
+      "illustration_id": "ENV-004",
+      "title": "Flowchart of Environmental Design Process",
+      "illustration_type": "Flowchart",
+      "description": "Flowchart outlining steps for assessing, planning, implementing, and evaluating environmental design interventions.",
+      "alt_text": "Flowchart showing sequential steps for environmental design implementation."
+    }
+  ],
+  "references": [
+    {
+      "title": "Nudge: Improving Decisions About Health, Wealth, and Happiness",
+      "organization_or_authors": "Richard H. Thaler and Cass R. Sunstein",
+      "year": "2008",
+      "identifier": "ISBN 9780143115267",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Environmental interventions to promote stair use: systematic review and meta-analysis",
+      "organization_or_authors": "Wu et al.",
+      "year": "2021",
+      "identifier": "DOI:10.1136/bmjopen-2020-038016",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "The role of habit in behavior change",
+      "organization_or_authors": "Gardner B.",
+      "year": "2015",
+      "identifier": "Health Psychology Review",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Choice architecture interventions to change behavior in health care: a systematic review of effects",
+      "organization_or_authors": "Hughes DA et al.",
+      "year": "2020",
+      "identifier": "Health Psychol Rev",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Moderate to strong evidence from systematic reviews and empirical studies supports the effectiveness of environmental design interventions for behavior change in diverse settings.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

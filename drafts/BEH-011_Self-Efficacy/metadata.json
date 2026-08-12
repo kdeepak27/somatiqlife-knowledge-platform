@@ -1,0 +1,38 @@
+{
+  "module_id": "BEH-011",
+  "title": "Self-Efficacy",
+  "subtitle": "Evidence, mechanisms, and practical application of self-efficacy.",
+  "domain": "Behavior Change",
+  "category": "Behavior Change Foundations",
+  "som_stages": [
+    "Awareness",
+    "Engagement",
+    "Adoption"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Behavioral Scientists",
+    "Clinicians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "self-efficacy",
+    "behavior change",
+    "confidence",
+    "motivation",
+    "social cognition",
+    "Bandura",
+    "psychology",
+    "coping skills",
+    "health behavior"
+  ],
+  "related_modules": [
+    "BEH-002",
+    "BEH-015",
+    "HEA-007"
+  ],
+  "evidence_strength": "Established evidence with emerging contributions from neuroscience and behavioral interventions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

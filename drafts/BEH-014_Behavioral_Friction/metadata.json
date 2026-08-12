@@ -1,0 +1,38 @@
+{
+  "module_id": "BEH-014",
+  "title": "Behavioral Friction",
+  "subtitle": "Evidence, mechanisms, and practical application of behavioral friction.",
+  "domain": "Behavior Change",
+  "category": "Behavior Change Foundations",
+  "som_stages": [
+    "Awareness",
+    "Consideration",
+    "Adoption"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Behavioral Scientists",
+    "Clinicians",
+    "Policy Makers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Behavioral friction",
+    "Behavior change",
+    "Decision making",
+    "Nudges",
+    "Habit formation",
+    "Barriers",
+    "Motivation",
+    "Cognitive load"
+  ],
+  "related_modules": [
+    "BEH-005",
+    "BEH-009",
+    "BEH-021"
+  ],
+  "evidence_strength": "Moderate evidence from behavioral science and public health research supports the significant impact of behavioral friction on behaviors, though individual variability and complex contexts limit universal application.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
