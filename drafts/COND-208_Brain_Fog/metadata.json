@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-208",
+  "title": "Brain Fog",
+  "subtitle": "What brain fog is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Neurologic and Cognitive",
+  "som_stages": [
+    "All stages"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "brain fog",
+    "cognitive dysfunction",
+    "mental cloudiness",
+    "memory problems",
+    "attention difficulties",
+    "fatigue",
+    "neurologic symptoms",
+    "cognitive health"
+  ],
+  "related_modules": [
+    "COND-105 Sleep Disorders",
+    "COND-310 Depression",
+    "COND-215 Multiple Sclerosis",
+    "COND-421 Chronic Fatigue Syndrome",
+    "COND-112 Thyroid Disorders"
+  ],
+  "evidence_strength": "Moderate to Emerging Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

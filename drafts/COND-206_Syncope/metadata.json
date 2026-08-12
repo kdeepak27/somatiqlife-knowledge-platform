@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-206",
+  "title": "Syncope",
+  "subtitle": "What syncope is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Neurologic and Cognitive",
+  "som_stages": [
+    "Recognition",
+    "Investigation",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Grade 10",
+  "keywords": [
+    "syncope",
+    "fainting",
+    "loss of consciousness",
+    "vasovagal syncope",
+    "cardiac syncope",
+    "orthostatic hypotension",
+    "evaluation of syncope",
+    "management of syncope",
+    "risk factors",
+    "safety"
+  ],
+  "related_modules": [
+    "COND-125_Seizures",
+    "COND-210_OrthostaticHypotension",
+    "COND-301_CardiacArrhythmias"
+  ],
+  "evidence_strength": "Established evidence primarily from consensus guidelines and large observational studies; some areas have moderate evidence from clinical trials; ongoing research continues to clarify optimal management in specific populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

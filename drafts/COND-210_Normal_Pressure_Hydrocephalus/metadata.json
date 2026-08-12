@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-210",
+  "title": "Normal Pressure Hydrocephalus",
+  "subtitle": "What normal pressure hydrocephalus is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Neurologic and Cognitive",
+  "som_stages": [
+    "Evaluation",
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Moderate (Intermediate)",
+  "keywords": [
+    "Normal Pressure Hydrocephalus",
+    "NPH",
+    "Hydrocephalus",
+    "Cognitive Impairment",
+    "Gait Disturbance",
+    "Urinary Incontinence",
+    "Ventriculomegaly",
+    "Shunt",
+    "Cerebrospinal Fluid"
+  ],
+  "related_modules": [
+    "COND-105",
+    "COND-220",
+    "NEURO-330"
+  ],
+  "evidence_strength": "Established Evidence where specified, moderate to emerging evidence for diagnostic tests and long-term outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
