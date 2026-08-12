@@ -1,0 +1,38 @@
+{
+  "module_id": "FAQ-082",
+  "title": "What is prediabetes?",
+  "subtitle": "Evidence-based answer to the common question: what is prediabetes?",
+  "domain": "Frequently Asked Questions",
+  "category": "Metabolic Health FAQs",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "prediabetes",
+    "blood sugar",
+    "insulin resistance",
+    "type 2 diabetes",
+    "glucose tolerance",
+    "metabolic syndrome",
+    "HbA1c",
+    "fasting glucose",
+    "oral glucose tolerance test",
+    "diabetes risk"
+  ],
+  "related_modules": [
+    "FAQ-083",
+    "HLT-010",
+    "HLT-024"
+  ],
+  "evidence_strength": "Established evidence from clinical trials and epidemiological studies supports the definition, diagnosis, and lifestyle intervention for prediabetes. Emerging evidence informs precision medicine approaches and novel therapeutics under investigation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
