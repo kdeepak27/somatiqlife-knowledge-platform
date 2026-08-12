@@ -1,0 +1,35 @@
+{
+  "module_id": "FAQ-191",
+  "title": "How can men improve heart health?",
+  "subtitle": "Evidence-based answer to the common question: how can men improve heart health?",
+  "domain": "Frequently Asked Questions",
+  "category": "Men's Health FAQs",
+  "som_stages": [
+    "Prevention",
+    "Health Promotion"
+  ],
+  "audience": [
+    "Men",
+    "General Public",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "heart health",
+    "cardiovascular health",
+    "men's health",
+    "heart disease prevention",
+    "exercise",
+    "diet",
+    "cholesterol",
+    "blood pressure"
+  ],
+  "related_modules": [
+    "FAQ-192",
+    "FAQ-193",
+    "FAQ-194"
+  ],
+  "evidence_strength": "Established evidence from multiple systematic reviews and clinical guidelines supports key lifestyle interventions such as diet modification, regular exercise, smoking cessation, and blood pressure management as effective strategies to improve heart health in men. Emerging evidence highlights the role of stress reduction and sleep quality but requires further large-scale studies. Some supplements and novel interventions currently have moderate or limited evidence and should not replace established measures.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
