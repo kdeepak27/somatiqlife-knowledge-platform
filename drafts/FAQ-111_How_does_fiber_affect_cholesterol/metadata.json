@@ -1,0 +1,33 @@
+{
+  "module_id": "FAQ-111",
+  "title": "How does fiber affect cholesterol?",
+  "subtitle": "Evidence-based answer to the common question: how does fiber affect cholesterol?",
+  "domain": "Frequently Asked Questions",
+  "category": "Heart Health FAQs",
+  "som_stages": [
+    "Awareness",
+    "Understanding"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "fiber",
+    "cholesterol",
+    "heart health",
+    "dietary fiber",
+    "lipids",
+    "cardiovascular health"
+  ],
+  "related_modules": [
+    "HT-230",
+    "HT-105",
+    "NUTR-54"
+  ],
+  "evidence_strength": "Established evidence supports soluble dietary fiber for modest LDL cholesterol reduction and cardiovascular benefits; emerging research explores individual variability and gut microbiome influence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
