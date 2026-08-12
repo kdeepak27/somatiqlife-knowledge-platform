@@ -1,0 +1,33 @@
+{
+  "module_id": "FAQ-184",
+  "title": "What is PSA testing?",
+  "subtitle": "Evidence-based answer to the common question: what is psa testing?",
+  "domain": "Frequently Asked Questions",
+  "category": "Men's Health FAQs",
+  "som_stages": [
+    "Health Awareness",
+    "Screening and Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Men's Health Patients",
+    "Healthcare Consumers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "PSA testing",
+    "prostate-specific antigen",
+    "prostate cancer screening",
+    "men's health",
+    "blood test",
+    "PSA levels"
+  ],
+  "related_modules": [
+    "FAQ-172",
+    "FAQ-185",
+    "MenHealth-102"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

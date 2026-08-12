@@ -1,0 +1,36 @@
+{
+  "module_id": "FAQ-182",
+  "title": "What is erectile dysfunction?",
+  "subtitle": "Evidence-based answer to the common question: what is erectile dysfunction?",
+  "domain": "Frequently Asked Questions",
+  "category": "Men's Health FAQs",
+  "som_stages": [
+    "Assessment",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "erectile dysfunction",
+    "ED",
+    "impotence",
+    "male sexual health",
+    "penile erection",
+    "vascular health",
+    "psychogenic ED",
+    "pharmacotherapy",
+    "PDE5 inhibitors"
+  ],
+  "related_modules": [
+    "FAQ-183",
+    "FAQ-187",
+    "MH-45",
+    "CV-102"
+  ],
+  "evidence_strength": "Established and emerging evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

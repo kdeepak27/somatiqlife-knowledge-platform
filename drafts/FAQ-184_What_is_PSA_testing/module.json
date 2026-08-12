@@ -1,0 +1,248 @@
+{
+  "module_id": "FAQ-184",
+  "title": "What is PSA testing?",
+  "subtitle": "Evidence-based answer to the common question: what is psa testing?",
+  "domain": "Frequently Asked Questions",
+  "category": "Men's Health FAQs",
+  "som_stages": [
+    "Health Awareness",
+    "Screening and Early Detection"
+  ],
+  "audience": [
+    "General Public",
+    "Men's Health Patients",
+    "Healthcare Consumers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "PSA testing",
+    "prostate-specific antigen",
+    "prostate cancer screening",
+    "men's health",
+    "blood test",
+    "PSA levels"
+  ],
+  "customer_questions": [
+    "What does PSA stand for and what is PSA testing?",
+    "Why is PSA testing used?",
+    "How is PSA testing performed?",
+    "What do the PSA test results mean?",
+    "What are normal and abnormal PSA levels?",
+    "Can PSA testing detect prostate cancer?",
+    "Are there risks or limitations to PSA testing?",
+    "Who should get PSA testing and when?",
+    "How often should PSA testing be done?",
+    "Can medications or conditions affect PSA test results?",
+    "What are the alternatives to PSA testing?",
+    "Is PSA testing covered by insurance?"
+  ],
+  "retrieval_summary": "PSA testing, short for Prostate-Specific Antigen testing, is a blood test that measures the level of PSA—a protein produced by prostate cells—in the blood. It is primarily used as a screening tool for prostate abnormalities, including prostate cancer, benign prostatic hyperplasia (BPH), and prostatitis. PSA levels can vary based on age, prostate size, and other factors. Elevated PSA levels may suggest the presence of prostate disease but are not specific to cancer, requiring further evaluation for diagnosis. The test is minimally invasive and generally safe, involving a simple blood draw. However, limitations include false positives (elevations without cancer) and false negatives (normal PSA despite cancer), which may lead to overdiagnosis or underdiagnosis. The clinical relevance of PSA testing lies in its ability to aid early detection of prostate cancer to improve outcomes, though guidelines on testing frequency and eligibility vary internationally due to evolving evidence. Major synonyms include \"PSA blood test\" and \"prostate antigen test.\" Practical application includes initial screening consultations and monitoring after prostate cancer treatment. Safety considerations note that PSA testing is low-risk but may lead to unnecessary biopsies or anxiety if misinterpreted. Understanding PSA testing's mechanisms, implications, and limitations empowers men and clinicians in making informed health decisions.",
+  "learning_objectives": [
+    "Understand what PSA testing measures and how it is conducted.",
+    "Learn about the physiological source and role of PSA in the male body.",
+    "Recognize the clinical applications and limitations of PSA testing.",
+    "Be aware of evidence-based guidelines regarding PSA screening.",
+    "Distinguish common misconceptions about PSA testing.",
+    "Understand safety considerations and potential risks involved.",
+    "Know what factors can influence PSA levels besides cancer.",
+    "Identify when and how often PSA testing is recommended."
+  ],
+  "definition": "PSA testing is a diagnostic blood test that measures the concentration of Prostate-Specific Antigen (PSA), a glycoprotein produced by the epithelial cells of the prostate gland. Elevated levels in the bloodstream may indicate prostate disease including cancer, but can also arise from benign conditions.",
+  "why_this_matters": "Prostate cancer is one of the most common cancers among men worldwide. PSA testing serves as an important tool for early detection and management of prostate conditions, potentially improving patient outcomes through timely interventions. However, it also carries risks of overdiagnosis and overtreatment, highlighting the need for informed decision-making.",
+  "sections": [
+    {
+      "heading": "What Is PSA and Why Is It Measured?",
+      "content": "Prostate-Specific Antigen (PSA) is an enzyme produced almost exclusively by prostate gland cells. PSA helps liquefy semen to facilitate sperm mobility. Measuring PSA levels in the blood helps detect abnormalities in prostate tissue, as damaged or inflamed cells can release more PSA into circulation."
+    },
+    {
+      "heading": "How Is PSA Testing Performed?",
+      "content": "PSA testing requires a blood sample, typically drawn from a vein in the arm. The test quantitatively measures the amount of PSA protein present in nanograms per milliliter (ng/mL) of blood. The procedure is quick, minimally invasive, and usually does not require special preparation."
+    },
+    {
+      "heading": "Normal and Abnormal PSA Levels",
+      "content": "Normal PSA levels vary by age but commonly considered below 4.0 ng/mL. Higher levels may suggest prostate enlargement, inflammation, or cancer. Since PSA levels can fluctuate, a single elevated reading does not confirm disease. Trends over time and other diagnostic tests inform clinical interpretation."
+    },
+    {
+      "heading": "Clinical Applications and Significance of PSA Testing",
+      "content": "PSA testing is mainly used to screen men for prostate cancer, especially those at higher risk due to age, family history, or ethnicity. It assists in monitoring disease progression or recurrence after treatment, such as surgery or radiation therapy. PSA testing is not definitive for cancer diagnosis but guides further evaluation, including biopsies."
+    },
+    {
+      "heading": "Limitations of PSA Testing and False Results",
+      "content": "Elevated PSA levels can occur due to benign prostatic hyperplasia (BPH), prostatitis, recent ejaculation, or medical procedures, leading to false positives. Conversely, some prostate cancers do not produce significant PSA elevation (false negatives). These limitations necessitate cautious clinical judgment and occasionally complementary testing."
+    },
+    {
+      "heading": "Factors That Influence PSA Levels",
+      "content": "Several factors can affect PSA test results, including age, prostate size, urinary tract infections, recent ejaculation, certain medications like finasteride, and physical manipulation of the prostate such as during digital rectal exam or biopsy."
+    },
+    {
+      "heading": "Evidence and Current Recommendations for PSA Screening",
+      "content": "Evidence on PSA screening efficacy varies with ongoing research. Some guidelines recommend shared decision-making for men aged 55–69 considering PSA testing's benefits and harms. Others suggest personalized risk assessment. Randomized controlled trials have shown mixed results regarding mortality benefits."
+    },
+    {
+      "heading": "Common Misconceptions About PSA Testing",
+      "content": "PSA testing can detect prostate cancer early, but it cannot definitively diagnose it alone. Many believe a low PSA ensures no cancer, which is not always true. Another misconception is that all elevated PSA values require immediate biopsy; clinical context matters."
+    },
+    {
+      "heading": "Safety Considerations and Potential Risks",
+      "content": "PSA testing itself is safe with minimal physical risk. However, downstream procedures like prostate biopsies carry risks of bleeding, infection, and discomfort. Psychological impacts include anxiety from false positives. Thus, informed consent and counseling are important."
+    },
+    {
+      "heading": "Alternatives and Complementary Tests to PSA",
+      "content": "Emerging alternatives include the free-to-total PSA ratio, prostate health index (PHI), urinary biomarkers, and imaging techniques like multiparametric MRI. These can improve specificity and reduce unnecessary biopsies but are adjuncts rather than replacements for PSA testing."
+    }
+  ],
+  "practical_guidance": [
+    "Discuss PSA testing benefits and risks with your healthcare provider before testing.",
+    "Ensure any factors that may elevate PSA levels (like recent ejaculation or infections) are addressed before testing.",
+    "Understand that PSA testing is a screening tool, not a definitive diagnostic test for prostate cancer.",
+    "Follow recommended guidelines on age and frequency for PSA screening based on your risk profile.",
+    "Interpret PSA results in context with clinical findings and additional tests if necessary.",
+    "Be aware that high PSA does not always mean cancer, and low PSA does not guarantee absence of disease.",
+    "If PSA is elevated, your doctor may recommend further testing such as biopsy or imaging.",
+    "Maintain regular follow-up if you have known prostate conditions or after prostate cancer treatment."
+  ],
+  "safety_notes": [
+    "PSA testing involves a standard blood draw and is low risk.",
+    "False positives can lead to unnecessary invasive procedures with potential complications.",
+    "False negatives can provide false reassurance; clinical vigilance remains important.",
+    "Discuss potential anxiety or psychological impact with your clinician prior to testing.",
+    "Inform your healthcare provider about medications and recent activities that may affect PSA levels."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "A normal PSA level guarantees you do not have prostate cancer.",
+      "reality": "Some prostate cancers do not raise PSA levels significantly; thus, a normal PSA does not fully exclude cancer."
+    },
+    {
+      "misconception": "All elevated PSA levels mean cancer.",
+      "reality": "Elevated PSA can result from benign conditions like prostatitis or prostate enlargement, not just cancer."
+    },
+    {
+      "misconception": "PSA testing is painful or risky.",
+      "reality": "PSA testing requires only a standard blood draw and carries minimal physical risk."
+    },
+    {
+      "misconception": "One PSA test is enough to determine prostate health.",
+      "reality": "PSA levels fluctuate; multiple tests and clinical assessment are needed for accurate interpretation."
+    }
+  ],
+  "clinical_pearls": [
+    "Consider age-specific PSA reference ranges for more accurate interpretation.",
+    "A rising PSA over time (PSA velocity) can be an important indicator to investigate further.",
+    "Combining PSA testing with digital rectal exam improves prostate cancer detection.",
+    "Discuss screening decisions with patients incorporating their values and risk factors.",
+    "Be mindful of medications like finasteride that can lower PSA levels artificially."
+  ],
+  "key_takeaways": [
+    "PSA testing measures prostate-specific antigen levels in the blood to help screen for prostate disease.",
+    "Elevated PSA levels are not specific to cancer and require further evaluation.",
+    "The test is quick, minimally invasive, and generally safe.",
+    "PSA values vary with age, prostate size, infections, and other factors.",
+    "Screening guidelines for PSA testing vary, recommending shared decision-making.",
+    "False positives and negatives limit the test’s diagnostic accuracy.",
+    "Other tests may complement PSA testing to improve specificity.",
+    "Understanding both benefits and limitations supports informed health decisions."
+  ],
+  "glossary": [
+    {
+      "term": "Prostate-Specific Antigen (PSA)",
+      "definition": "An enzyme produced by prostate gland cells, measured in blood to help detect prostate disorders."
+    },
+    {
+      "term": "Benign Prostatic Hyperplasia (BPH)",
+      "definition": "Non-cancerous enlargement of the prostate gland common in older men, which can raise PSA levels."
+    },
+    {
+      "term": "Prostatitis",
+      "definition": "Inflammation or infection of the prostate gland that may elevate PSA levels."
+    },
+    {
+      "term": "PSA Velocity",
+      "definition": "The rate of change or increase in PSA levels over time, used to assess risk of prostate cancer."
+    },
+    {
+      "term": "False Positive",
+      "definition": "A test result indicating a problem (elevated PSA) when none exists, potentially leading to unnecessary procedures."
+    },
+    {
+      "term": "False Negative",
+      "definition": "A test result that misses a condition (normal PSA despite presence of cancer), causing false reassurance."
+    },
+    {
+      "term": "Digital Rectal Exam (DRE)",
+      "definition": "A physical exam where a doctor feels the prostate through the rectum to detect abnormalities."
+    },
+    {
+      "term": "Biopsy",
+      "definition": "A medical procedure where small samples of prostate tissue are taken to check for cancer under a microscope."
+    }
+  ],
+  "related_modules": [
+    "FAQ-172",
+    "FAQ-185",
+    "MenHealth-102"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "illu-psa-blood-test",
+      "title": "PSA Blood Test Procedure",
+      "illustration_type": "Diagram",
+      "description": "Illustration showing a healthcare professional drawing blood from a patient's arm for PSA testing.",
+      "alt_text": "Blood being drawn from arm into test tube labeled PSA test."
+    },
+    {
+      "illustration_id": "illu-prostate-anatomy",
+      "title": "Prostate Gland Anatomy",
+      "illustration_type": "Medical Illustration",
+      "description": "Diagram highlighting the prostate gland location in the male pelvis and showing its relation to the urethra and bladder.",
+      "alt_text": "Male pelvic anatomy with prostate gland color-highlighted."
+    },
+    {
+      "illustration_id": "illu-psa-levels-chart",
+      "title": "Interpreting PSA Levels",
+      "illustration_type": "Graph",
+      "description": "Graph displaying PSA level ranges by age groups and indicating normal and elevated thresholds.",
+      "alt_text": "Chart showing PSA ranges with green (normal) and red (elevated) zones based on age."
+    },
+    {
+      "illustration_id": "illu-psa-testing-limitations",
+      "title": "Limitations of PSA Testing",
+      "illustration_type": "Infographic",
+      "description": "Infographic listing causes of false positives and false negatives in PSA testing, including benign conditions and sampling errors.",
+      "alt_text": "Icons representing different causes of PSA test inaccuracies."
+    }
+  ],
+  "references": [
+    {
+      "title": "Prostate-Specific Antigen (PSA) Test",
+      "organization_or_authors": "National Cancer Institute",
+      "year": "2023",
+      "identifier": "https://www.cancer.gov/types/prostate/psa-fact-sheet",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Screening for Prostate Cancer: U.S. Preventive Services Task Force Recommendation Statement",
+      "organization_or_authors": "USPSTF",
+      "year": "2018",
+      "identifier": "https://jamanetwork.com/journals/jama/fullarticle/2673496",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Prostate Cancer Screening: American Cancer Society Guideline Update",
+      "organization_or_authors": "American Cancer Society",
+      "year": "2019",
+      "identifier": "https://www.cancer.org/cancer/prostate-cancer/detection-diagnosis-staging/screening-tests.html",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Prostate-Specific Antigen Testing for Prostate Cancer: Systematic Review and Meta-analysis",
+      "organization_or_authors": "Cochrane Collaboration",
+      "year": "2018",
+      "identifier": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010540.pub3/full",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
