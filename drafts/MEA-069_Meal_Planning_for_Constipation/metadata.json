@@ -1,0 +1,37 @@
+{
+  "module_id": "MEA-069",
+  "title": "Meal Planning for Constipation",
+  "subtitle": "Evidence-based meal planning considerations related to meal planning for constipation.",
+  "domain": "Meal Planning",
+  "category": "Condition-Focused Planning",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "constipation",
+    "meal planning",
+    "dietary fiber",
+    "hydration",
+    "bowel health",
+    "gut motility",
+    "psyllium",
+    "prebiotic",
+    "probiotic",
+    "bowel movement"
+  ],
+  "related_modules": [
+    "MEA-054-DietaryFiberBasics",
+    "MEA-072-HydrationAndDigestiveHealth",
+    "MEA-081-ProbioticsPrebiotics"
+  ],
+  "evidence_strength": "Established evidence with emerging support for adjunctive role of probiotics and individualized approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

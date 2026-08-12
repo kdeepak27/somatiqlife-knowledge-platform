@@ -1,0 +1,37 @@
+{
+  "module_id": "MEA-068",
+  "title": "Meal Planning for Osteoporosis",
+  "subtitle": "Evidence-based meal planning considerations related to meal planning for osteoporosis.",
+  "domain": "Meal Planning",
+  "category": "Condition-Focused Planning",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate (High School+ health literacy)",
+  "keywords": [
+    "Osteoporosis",
+    "Meal Planning",
+    "Bone Health",
+    "Calcium",
+    "Vitamin D",
+    "Nutrition",
+    "Fracture Prevention",
+    "Dietary Guidelines",
+    "Bone Density"
+  ],
+  "related_modules": [
+    "MEA-045_Nutrition_and_Bone_Health",
+    "MEA-072_Vitamin_D_Supplementation_Guidelines",
+    "MEA-059_Dietary_Management_of_Fracture_Healing"
+  ],
+  "evidence_strength": "Established evidence supports calcium and vitamin D intake for bone health and fracture reduction. Moderate evidence exists for roles of protein and other micronutrients. Emerging research continues on dietary patterns and supplemental strategies. Safety data urge cautious supplementation use.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,39 @@
+{
+  "module_id": "MEA-070",
+  "title": "Meal Planning for GERD",
+  "subtitle": "Evidence-based meal planning considerations related to meal planning for gerd.",
+  "domain": "Meal Planning",
+  "category": "Condition-Focused Planning",
+  "som_stages": [
+    "Management",
+    "Prevention",
+    "Patient Education"
+  ],
+  "audience": [
+    "Adults with GERD",
+    "Caregivers",
+    "Healthcare Providers",
+    "Dietitians",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "GERD",
+    "gastroesophageal reflux disease",
+    "meal planning",
+    "diet",
+    "acid reflux",
+    "heartburn",
+    "eating habits",
+    "food triggers",
+    "nutritional therapy"
+  ],
+  "related_modules": [
+    "MEA-005: Nutrition Basics",
+    "MEA-025: Digestive Health Strategies",
+    "MEA-045: Lifestyle Modifications for GERD"
+  ],
+  "evidence_strength": "Established evidence with some moderate variability due to individual factors",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
