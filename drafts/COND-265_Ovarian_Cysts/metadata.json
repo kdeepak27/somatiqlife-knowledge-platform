@@ -1,0 +1,41 @@
+{
+  "module_id": "COND-265",
+  "title": "Ovarian Cysts",
+  "subtitle": "What ovarian cysts is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management",
+    "Follow-Up"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "Ovarian cyst",
+    "Ovarian cysts",
+    "Women’s health",
+    "Gynecology",
+    "Reproductive health",
+    "Pelvic pain",
+    "Follicular cyst",
+    "Corpus luteum cyst",
+    "Functional cyst",
+    "Benign ovarian cyst",
+    "Ovarian cyst symptoms",
+    "Ovarian cyst treatment"
+  ],
+  "related_modules": [
+    "COND-112",
+    "COND-178",
+    "COND-239"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence on management nuances",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

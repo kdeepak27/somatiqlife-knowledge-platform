@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-262",
+  "title": "Postpartum Depression",
+  "subtitle": "What postpartum depression is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Postpartum",
+    "Perinatal"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "postpartum depression",
+    "perinatal depression",
+    "maternal mental health",
+    "postnatal depression",
+    "mood disorder",
+    "risk factors",
+    "symptoms",
+    "management",
+    "therapy",
+    "medication"
+  ],
+  "related_modules": [
+    "COND-120",
+    "COND-270",
+    "COND-311"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and systematic reviews supports definitions, screening, and standard treatment approaches for postpartum depression. Emerging evidence is noted in lifestyle interventions and digital health applications. Some uncertainties remain regarding optimal pharmacotherapy during breastfeeding and personalized treatment strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

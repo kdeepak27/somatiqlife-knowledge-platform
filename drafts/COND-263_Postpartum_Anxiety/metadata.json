@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-263",
+  "title": "Postpartum Anxiety",
+  "subtitle": "What postpartum anxiety is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Awareness",
+    "Recognition",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Pregnant and Postpartum Individuals"
+  ],
+  "reading_level": "Medium - suitable for educated public and healthcare workers",
+  "keywords": [
+    "postpartum anxiety",
+    "anxiety disorders",
+    "postpartum period",
+    "maternal mental health",
+    "perinatal anxiety",
+    "treatment",
+    "risk factors",
+    "symptoms",
+    "management",
+    "lifestyle"
+  ],
+  "related_modules": [
+    "COND-265",
+    "COND-267",
+    "COND-270"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and systematic reviews supports key aspects of postpartum anxiety identification and management; moderate evidence underlies some pharmacotherapy safety profiles; emerging evidence is ongoing for novel therapies and long-term impacts.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
