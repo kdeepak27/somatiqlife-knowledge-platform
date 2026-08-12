@@ -1,0 +1,38 @@
+{
+  "module_id": "FAQ-121",
+  "title": "Why do we lose muscle with age?",
+  "subtitle": "Evidence-based answer to the common question: why do we lose muscle with age?",
+  "domain": "Frequently Asked Questions",
+  "category": "Healthy Aging FAQs",
+  "som_stages": [
+    "Adult",
+    "Older Adult",
+    "Geriatric"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "muscle loss",
+    "aging",
+    "sarcopenia",
+    "muscle mass",
+    "muscle strength",
+    "healthy aging",
+    "muscle physiology",
+    "protein synthesis",
+    "frailty",
+    "physical function"
+  ],
+  "related_modules": [
+    "FAQ-105-PhysicalActivityInOlderAdults",
+    "FAQ-110-NutritionForHealthyAging",
+    "FAQ-130-FrailtyAndMobilityLoss"
+  ],
+  "evidence_strength": "Moderate to Strong - Based on current clinical guidelines, observational studies, and randomized controlled trials with ongoing research for pharmacological treatments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
