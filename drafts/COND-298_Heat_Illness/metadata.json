@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-298",
+  "title": "Heat Illness",
+  "subtitle": "What heat illness is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Recognition",
+    "Evaluation",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "General public",
+    "Healthcare professionals",
+    "Caretakers"
+  ],
+  "reading_level": "Intermediate (8th-10th grade)",
+  "keywords": [
+    "Heat illness",
+    "Heat exhaustion",
+    "Heat stroke",
+    "Hyperthermia",
+    "Thermoregulation",
+    "Dehydration"
+  ],
+  "related_modules": [
+    "COND-102 - Dehydration",
+    "COND-215 - Electrolyte Imbalance",
+    "COND-320 - Sunburn and Skin Injury",
+    "COND-185 - Sports Injuries"
+  ],
+  "evidence_strength": "Established evidence for physiological mechanisms and clinical management; moderate evidence for prevention strategies; emerging evidence regarding impacts of climate change on incidence.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

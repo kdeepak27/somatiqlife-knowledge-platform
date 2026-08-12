@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-300",
+  "title": "Obesity-Related Health Complications",
+  "subtitle": "What obesity-related health complications is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Risk Identification",
+    "Preventive Education",
+    "Management Guidance"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Obesity",
+    "Health Complications",
+    "Metabolic Syndrome",
+    "Cardiovascular Disease",
+    "Diabetes",
+    "Sleep Apnea",
+    "Hypertension"
+  ],
+  "related_modules": [
+    "COND-101-Obesity-Basics",
+    "COND-305-Metabolic-Syndrome",
+    "COND-402-Cardiovascular-Disease",
+    "COND-310-Diabetes-Type-2"
+  ],
+  "evidence_strength": "Established evidence for metabolic and cardiovascular complications; emerging evidence for cancer risk and mental health impacts; ongoing research on individual risk variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
