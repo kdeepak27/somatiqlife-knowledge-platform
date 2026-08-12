@@ -1,0 +1,39 @@
+{
+  "module_id": "MEA-056",
+  "title": "Plant-Forward Meal Planning",
+  "subtitle": "How to plan plant-forward meal planning, including nutritional strengths, limitations, and practical examples.",
+  "domain": "Meal Planning",
+  "category": "Special Diet Planning",
+  "som_stages": [
+    "Prevention",
+    "Health Maintenance",
+    "Behavioral Change"
+  ],
+  "audience": [
+    "Consumers",
+    "Dietitians",
+    "Health Coaches",
+    "Nutritionists"
+  ],
+  "reading_level": "High School and above",
+  "keywords": [
+    "plant-forward diet",
+    "meal planning",
+    "plant-based nutrition",
+    "dietary patterns",
+    "nutrition education",
+    "special diets",
+    "vegetables",
+    "fruits",
+    "legumes",
+    "whole grains"
+  ],
+  "related_modules": [
+    "MEA-012",
+    "MEA-034",
+    "MED-021"
+  ],
+  "evidence_strength": "Established evidence for cardiovascular and metabolic benefits; moderate evidence for other chronic conditions; emerging evidence for environmental impact benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

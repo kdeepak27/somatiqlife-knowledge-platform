@@ -1,0 +1,38 @@
+{
+  "module_id": "MEA-057",
+  "title": "High-Protein Meal Planning",
+  "subtitle": "How to plan high-protein meal planning, including nutritional strengths, limitations, and practical examples.",
+  "domain": "Meal Planning",
+  "category": "Special Diet Planning",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Nutritionists",
+    "Dietitians",
+    "Fitness Enthusiasts"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "high-protein diet",
+    "meal planning",
+    "protein intake",
+    "dietary protein",
+    "muscle synthesis",
+    "nutrition",
+    "special diets",
+    "protein sources",
+    "protein timing",
+    "dietary limitations"
+  ],
+  "related_modules": [
+    "MEA-010",
+    "MEA-045",
+    "MEA-060"
+  ],
+  "evidence_strength": "Established evidence for benefits and practical applications in healthy adults; emerging research on long-term safety and specific clinical populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
