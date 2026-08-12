@@ -1,0 +1,39 @@
+{
+  "module_id": "BEH-054",
+  "title": "Returning After Illness",
+  "subtitle": "How to use returning after illness to support sustainable behavior change.",
+  "domain": "Behavior Change",
+  "category": "Consistency and Relapse",
+  "som_stages": [
+    "Maintenance",
+    "Relapse Prevention",
+    "Recovery"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Behavioral Health Specialists",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "relapse",
+    "behavior change",
+    "illness recovery",
+    "resilience",
+    "self-efficacy",
+    "habit formation",
+    "health behavior",
+    "motivation",
+    "recovery strategies",
+    "sustainable change"
+  ],
+  "related_modules": [
+    "BEH-021",
+    "BEH-033",
+    "BEH-057"
+  ],
+  "evidence_strength": "Established evidence with emerging insights in specific populations and illness contexts",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

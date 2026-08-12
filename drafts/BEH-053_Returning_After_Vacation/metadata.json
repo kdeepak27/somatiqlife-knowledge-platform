@@ -1,0 +1,36 @@
+{
+  "module_id": "BEH-053",
+  "title": "Returning After Vacation",
+  "subtitle": "How to use returning after vacation to support sustainable behavior change.",
+  "domain": "Behavior Change",
+  "category": "Consistency and Relapse",
+  "som_stages": [
+    "Initiation",
+    "Maintenance",
+    "Relapse Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Behavioral Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "behavior change",
+    "vacation",
+    "relapse",
+    "consistency",
+    "habit formation",
+    "self-regulation",
+    "motivation",
+    "sustainable change"
+  ],
+  "related_modules": [
+    "BEH-012",
+    "BEH-034",
+    "BEH-078"
+  ],
+  "evidence_strength": "Moderate – Supported by behavioral science research and clinical observations but with variability and need for individualized approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
