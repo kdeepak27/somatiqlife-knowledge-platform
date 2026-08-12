@@ -1,0 +1,37 @@
+{
+  "module_id": "MEA-019",
+  "title": "Breakfasts for Blood Sugar",
+  "subtitle": "How to build and adapt breakfasts for blood sugar for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Breakfast Plans",
+  "som_stages": [
+    "Planning",
+    "Implementation"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "blood sugar",
+    "glycemic control",
+    "breakfast",
+    "meal planning",
+    "carbohydrates",
+    "protein",
+    "fiber",
+    "glycemic index",
+    "insulin response",
+    "balanced nutrition"
+  ],
+  "related_modules": [
+    "MEA-005",
+    "MEA-034",
+    "MEA-042"
+  ],
+  "evidence_strength": "Established evidence for macronutrient effects on blood sugar; emerging evidence on individualized responses and meal timing.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

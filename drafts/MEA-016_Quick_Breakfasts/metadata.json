@@ -1,0 +1,39 @@
+{
+  "module_id": "MEA-016",
+  "title": "Quick Breakfasts",
+  "subtitle": "How to build and adapt quick breakfasts for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Breakfast Plans",
+  "som_stages": [
+    "Planning",
+    "Preparation",
+    "Consumption"
+  ],
+  "audience": [
+    "General Public",
+    "Nutritionists",
+    "Health Coaches",
+    "Dietitians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "breakfast",
+    "quick meals",
+    "balanced nutrition",
+    "meal planning",
+    "easy recipes",
+    "healthy breakfast",
+    "nutrients",
+    "macronutrients",
+    "micronutrients",
+    "meal prep"
+  ],
+  "related_modules": [
+    "MEA-008",
+    "MEA-042",
+    "MEA-070"
+  ],
+  "evidence_strength": "Established evidence with some moderate and emerging aspects",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

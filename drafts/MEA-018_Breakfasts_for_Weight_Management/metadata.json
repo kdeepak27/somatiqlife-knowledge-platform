@@ -1,0 +1,36 @@
+{
+  "module_id": "MEA-018",
+  "title": "Breakfasts for Weight Management",
+  "subtitle": "How to build and adapt breakfasts for weight management for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Breakfast Plans",
+  "som_stages": [
+    "Prevention",
+    "Weight Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Coaches",
+    "Dietitians",
+    "Nutritionists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "breakfast",
+    "weight management",
+    "nutrition",
+    "meal planning",
+    "weight loss",
+    "healthy eating",
+    "macronutrients",
+    "satiety"
+  ],
+  "related_modules": [
+    "MEA-005:Meal Timing and Weight Control",
+    "MEA-012:Macronutrients and Appetite Regulation",
+    "MEA-020:Intermittent Fasting and Metabolic Health"
+  ],
+  "evidence_strength": "Established evidence for protein and fiber's role; moderate evidence for breakfast timing and high-fat breakfasts; emerging evidence for intermittent fasting effects on weight management.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

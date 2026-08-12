@@ -1,0 +1,37 @@
+{
+  "module_id": "MEA-020",
+  "title": "Breakfasts for Older Adults",
+  "subtitle": "How to build and adapt breakfasts for older adults for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Breakfast Plans",
+  "som_stages": [
+    "Healthy Aging",
+    "Nutrition Optimization"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Nutritionists",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "breakfast",
+    "older adults",
+    "nutrition",
+    "balanced diet",
+    "protein intake",
+    "fiber",
+    "hydration",
+    "vitamins",
+    "breakfast plans"
+  ],
+  "related_modules": [
+    "MEA-015_Nutrition_for_Sarcopenia",
+    "MEA-022_Hydration_in_Aging",
+    "MEA-018_Diet_and_Chronic_Disease_Management"
+  ],
+  "evidence_strength": "Established and Emerging Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
