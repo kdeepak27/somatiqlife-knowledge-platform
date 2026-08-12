@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-221",
+  "title": "Adjustment Disorder",
+  "subtitle": "What adjustment disorder is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Mental Health",
+  "som_stages": [
+    "Recognition",
+    "Management",
+    "Support"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8-10",
+  "keywords": [
+    "Adjustment disorder",
+    "Stress response",
+    "Mental health",
+    "Emotional symptoms",
+    "Behavioral symptoms",
+    "Stressors",
+    "Treatment",
+    "Psychotherapy",
+    "Medication"
+  ],
+  "related_modules": [
+    "COND-115-Depression",
+    "COND-132-Anxiety-Disorders",
+    "COND-205-Post-Traumatic-Stress-Disorder"
+  ],
+  "evidence_strength": "Moderate - Based on clinical guidelines and limited controlled trials; ongoing research needed.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

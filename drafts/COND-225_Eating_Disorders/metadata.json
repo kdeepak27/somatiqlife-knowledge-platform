@@ -1,0 +1,40 @@
+{
+  "module_id": "COND-225",
+  "title": "Eating Disorders",
+  "subtitle": "What eating disorders is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Mental Health",
+  "som_stages": [
+    "Recognition",
+    "Diagnosis",
+    "Treatment",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "eating disorders",
+    "anorexia nervosa",
+    "bulimia nervosa",
+    "binge eating disorder",
+    "mental health",
+    "nutrition",
+    "psychotherapy",
+    "risk factors",
+    "symptoms",
+    "treatment"
+  ],
+  "related_modules": [
+    "COND-210-MentalHealthOverview",
+    "COND-230-AnxietyDisorders",
+    "COND-240-DepressiveDisorders"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging data on long-term management strategies and diverse populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
