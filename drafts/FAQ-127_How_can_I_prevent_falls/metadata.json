@@ -1,0 +1,36 @@
+{
+  "module_id": "FAQ-127",
+  "title": "How can I prevent falls?",
+  "subtitle": "Evidence-based answer to the common question: how can i prevent falls?",
+  "domain": "Frequently Asked Questions",
+  "category": "Healthy Aging FAQs",
+  "som_stages": [
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers",
+    "General Public"
+  ],
+  "reading_level": "General Audience",
+  "keywords": [
+    "Fall prevention",
+    "Falls",
+    "Balance",
+    "Older adults",
+    "Exercise",
+    "Home safety",
+    "Vision",
+    "Medication management"
+  ],
+  "related_modules": [
+    "FAQ-130-Balance",
+    "FAQ-135-Exercise-For-Seniors",
+    "FAQ-140-Medication-Safety"
+  ],
+  "evidence_strength": "Established evidence with supportive moderate emerging research in nutrition and cognitive domains",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

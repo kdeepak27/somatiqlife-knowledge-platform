@@ -1,0 +1,36 @@
+{
+  "module_id": "FAQ-130",
+  "title": "Does exercise help brain aging?",
+  "subtitle": "Evidence-based answer to the common question: does exercise help brain aging?",
+  "domain": "Frequently Asked Questions",
+  "category": "Healthy Aging FAQs",
+  "som_stages": [
+    "Healthy Adults",
+    "Middle-aged Adults",
+    "Older Adults"
+  ],
+  "audience": [
+    "General Public",
+    "Health Enthusiasts",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "exercise",
+    "physical activity",
+    "brain aging",
+    "cognitive decline",
+    "neuroplasticity",
+    "healthy aging",
+    "dementia prevention"
+  ],
+  "related_modules": [
+    "FAQ-105-Physical-Activity-and-Healthy-Aging",
+    "FAQ-118-Nutrition-for-Brain-Health",
+    "FAQ-122-Cognitive-Training-and-Dementia-Prevention"
+  ],
+  "evidence_strength": "Moderate evidence from randomized trials and observational studies supports exercise benefits on brain aging; ongoing research continues to clarify optimal protocols.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
