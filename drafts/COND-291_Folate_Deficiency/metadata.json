@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-291",
+  "title": "Folate Deficiency",
+  "subtitle": "What folate deficiency is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Folate Deficiency",
+    "Vitamin B9 Deficiency",
+    "Megaloblastic Anemia",
+    "Homocysteine",
+    "Neural Tube Defects",
+    "Dietary Folate",
+    "Folic Acid Supplementation",
+    "Macrocytic Anemia"
+  ],
+  "related_modules": [
+    "COND-140",
+    "COND-230",
+    "NUTR-115"
+  ],
+  "evidence_strength": "Established evidence with some emerging aspects regarding cardiovascular implications and safety considerations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
