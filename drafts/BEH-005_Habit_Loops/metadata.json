@@ -1,0 +1,37 @@
+{
+  "module_id": "BEH-005",
+  "title": "Habit Loops",
+  "subtitle": "Evidence, mechanisms, and practical application of habit loops.",
+  "domain": "Behavior Change",
+  "category": "Behavior Change Foundations",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General Public",
+    "Behavioral Health Professionals",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "habit",
+    "habit loop",
+    "behavior change",
+    "cue",
+    "routine",
+    "reward",
+    "reinforcement",
+    "neuroscience",
+    "behavioral psychology"
+  ],
+  "related_modules": [
+    "BEH-003",
+    "BEH-007",
+    "PSY-004"
+  ],
+  "evidence_strength": "Established evidence with moderate areas of emerging research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

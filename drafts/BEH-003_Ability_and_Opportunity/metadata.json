@@ -1,0 +1,39 @@
+{
+  "module_id": "BEH-003",
+  "title": "Ability and Opportunity",
+  "subtitle": "Evidence, mechanisms, and practical application of ability and opportunity.",
+  "domain": "Behavior Change",
+  "category": "Behavior Change Foundations",
+  "som_stages": [
+    "Pre-contemplation",
+    "Contemplation",
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Educators",
+    "Behavioral Scientists",
+    "Clinicians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Ability",
+    "Opportunity",
+    "Behavior Change",
+    "Self-efficacy",
+    "Environmental Factors",
+    "Barriers",
+    "Facilitators",
+    "Motivation"
+  ],
+  "related_modules": [
+    "BEH-001",
+    "BEH-004",
+    "BEH-006"
+  ],
+  "evidence_strength": "Established and Moderate",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

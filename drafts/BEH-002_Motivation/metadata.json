@@ -1,0 +1,38 @@
+{
+  "module_id": "BEH-002",
+  "title": "Motivation",
+  "subtitle": "Evidence, mechanisms, and practical application of motivation.",
+  "domain": "Behavior Change",
+  "category": "Behavior Change Foundations",
+  "som_stages": [
+    "Initiation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Behavioral Scientists",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "motivation",
+    "behavior change",
+    "intrinsic motivation",
+    "extrinsic motivation",
+    "dopamine",
+    "goal setting",
+    "self-determination theory",
+    "incentives",
+    "habit formation",
+    "psychology"
+  ],
+  "related_modules": [
+    "BEH-001",
+    "BEH-003",
+    "BEH-004"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights and ongoing research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
