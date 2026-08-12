@@ -1,0 +1,38 @@
+{
+  "module_id": "MEA-014",
+  "title": "Vegan Breakfasts",
+  "subtitle": "How to build and adapt vegan breakfasts for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Breakfast Plans",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Nutritionists",
+    "Dietitians",
+    "Vegan Consumers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "vegan",
+    "breakfast",
+    "plant-based",
+    "balanced nutrition",
+    "meal planning",
+    "protein",
+    "vitamins",
+    "minerals"
+  ],
+  "related_modules": [
+    "MEA-007",
+    "MEA-023",
+    "MEA-045"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging evidence regarding supplementation and nutrient bioavailability optimization.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

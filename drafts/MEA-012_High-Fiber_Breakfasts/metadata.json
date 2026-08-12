@@ -1,0 +1,38 @@
+{
+  "module_id": "MEA-012",
+  "title": "High-Fiber Breakfasts",
+  "subtitle": "How to build and adapt high-fiber breakfasts for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Breakfast Plans",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Evaluation"
+  ],
+  "audience": [
+    "General Public",
+    "Nutritionists",
+    "Dietitians",
+    "Health Coaches"
+  ],
+  "reading_level": "8th to 10th grade",
+  "keywords": [
+    "fiber",
+    "breakfast",
+    "nutrition",
+    "dietary fiber",
+    "meal planning",
+    "gut health",
+    "bowel health",
+    "blood sugar control",
+    "weight management"
+  ],
+  "related_modules": [
+    "MEA-005 Whole Grain Nutrition",
+    "MEA-009 Healthy Snacking",
+    "MEA-015 Dietary Supplements for Digestion"
+  ],
+  "evidence_strength": "Established evidence with moderate support for metabolic benefits in breakfast context, emerging research on microbiome interaction.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
