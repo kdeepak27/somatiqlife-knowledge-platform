@@ -1,0 +1,40 @@
+{
+  "module_id": "BEH-043",
+  "title": "Avoiding Tracking Obsession",
+  "subtitle": "Benefits, limitations, and practical strategies related to avoiding tracking obsession.",
+  "domain": "Behavior Change",
+  "category": "Tracking and Feedback",
+  "som_stages": [
+    "Awareness",
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers",
+    "Behavioral Therapists"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "tracking obsession",
+    "behavioral tracking",
+    "health tracking",
+    "digital monitoring",
+    "self-monitoring",
+    "obsessive tracking",
+    "mental health",
+    "behavior change",
+    "feedback loops",
+    "digital wellness"
+  ],
+  "related_modules": [
+    "BEH-017",
+    "BEH-029",
+    "BEH-055"
+  ],
+  "evidence_strength": "Moderate – evidence from observational studies and clinical reports; randomized trials are limited.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

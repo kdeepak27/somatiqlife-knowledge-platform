@@ -1,0 +1,36 @@
+{
+  "module_id": "BEH-044",
+  "title": "Interpreting Plateaus",
+  "subtitle": "Benefits, limitations, and practical strategies related to interpreting plateaus.",
+  "domain": "Behavior Change",
+  "category": "Tracking and Feedback",
+  "som_stages": [
+    "Initiation",
+    "Maintenance",
+    "Relapse Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Clinicians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Plateau",
+    "Behavior Change",
+    "Progress Tracking",
+    "Feedback",
+    "Motivation",
+    "Adaptation",
+    "Setbacks",
+    "Goal Setting"
+  ],
+  "related_modules": [
+    "BEH-009",
+    "BEH-031",
+    "BEH-058"
+  ],
+  "evidence_strength": "Established evidence supported by clinical and behavioral research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

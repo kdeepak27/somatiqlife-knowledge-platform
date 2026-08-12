@@ -1,0 +1,39 @@
+{
+  "module_id": "BEH-042",
+  "title": "Using Wearables",
+  "subtitle": "Benefits, limitations, and practical strategies related to using wearables.",
+  "domain": "Behavior Change",
+  "category": "Tracking and Feedback",
+  "som_stages": [
+    "Pre-contemplation",
+    "Contemplation",
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate (Grade 9-12)",
+  "keywords": [
+    "wearables",
+    "fitness trackers",
+    "health monitoring",
+    "activity tracking",
+    "behavior change",
+    "biofeedback",
+    "smartwatches",
+    "health technology",
+    "self-monitoring"
+  ],
+  "related_modules": [
+    "BEH-015",
+    "BEH-040",
+    "TECH-027"
+  ],
+  "evidence_strength": "Established evidence for wearables supporting increased physical activity and behavior change; moderate evidence for long-term health outcome improvements; emerging evidence on advanced biometric sensors and AI integration; caution due to variability in device accuracy and data privacy concerns.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
