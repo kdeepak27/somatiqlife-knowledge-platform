@@ -1,0 +1,33 @@
+{
+  "module_id": "FAQ-006",
+  "title": "Is breakfast necessary?",
+  "subtitle": "Evidence-based answer to the common question: is breakfast necessary?",
+  "domain": "Frequently Asked Questions",
+  "category": "Nutrition FAQs",
+  "som_stages": [
+    "General Public",
+    "Health Education"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "breakfast",
+    "nutrition",
+    "meal timing",
+    "metabolism",
+    "weight management",
+    "health"
+  ],
+  "related_modules": [
+    "FAQ-004",
+    "NUT-012",
+    "MET-007"
+  ],
+  "evidence_strength": "Moderate evidence from observational studies and controlled trials with some conflicting results.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

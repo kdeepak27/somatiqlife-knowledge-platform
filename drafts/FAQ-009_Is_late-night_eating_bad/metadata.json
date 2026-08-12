@@ -1,0 +1,33 @@
+{
+  "module_id": "FAQ-009",
+  "title": "Is late-night eating bad?",
+  "subtitle": "Evidence-based answer to the common question: is late-night eating bad?",
+  "domain": "Frequently Asked Questions",
+  "category": "Nutrition FAQs",
+  "som_stages": [
+    "Prevention",
+    "Wellness Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "late-night eating",
+    "nighttime snacking",
+    "meal timing",
+    "circadian rhythm",
+    "metabolism",
+    "weight management",
+    "health effects"
+  ],
+  "related_modules": [
+    "NUTR-004",
+    "FAQ-015"
+  ],
+  "evidence_strength": "Established to Moderate - Evidence includes observational studies, small randomized trials and expert consensus with some emerging findings requiring additional research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
