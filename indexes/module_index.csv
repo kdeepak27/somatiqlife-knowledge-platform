@@ -204,353 +204,93 @@ COND-202,Stroke Recovery,Medical Conditions,Neurologic and Cognitive,1.0,drafts,
 COND-203,Neuropathic Pain,Medical Conditions,Neurologic and Cognitive,1.0,drafts,drafts/COND-203_Neuropathic_Pain/module.json
 COND-204,Autonomic Dysfunction,Medical Conditions,Neurologic and Cognitive,1.0,drafts,drafts/COND-204_Autonomic_Dysfunction/module.json
 COND-205,POTS,Medical Conditions,Neurologic and Cognitive,1.0,drafts,drafts/COND-205_POTS/module.json
-MED-001,How Medicines Work,Medications,Medication Foundations,1.0,drafts,drafts/MED-001_How_Medicines_Work/module.json
-MED-002,Prescription vs Over-the-Counter Medicines,Medications,Medication Foundations,1.0,drafts,drafts/MED-002_Prescription_vs_Over-the-Counter_Medicines/module.json
-MED-003,Generic vs Brand-Name Medicines,Medications,Medication Foundations,1.0,drafts,drafts/MED-003_Generic_vs_Brand-Name_Medicines/module.json
-MED-004,Medication Dosing,Medications,Medication Foundations,1.0,drafts,drafts/MED-004_Medication_Dosing/module.json
-MED-005,Medication Timing,Medications,Medication Foundations,1.0,drafts,drafts/MED-005_Medication_Timing/module.json
-MED-006,Taking Medicines With Food,Medications,Medication Foundations,1.0,drafts,drafts/MED-006_Taking_Medicines_With_Food/module.json
-MED-007,Medication Adherence,Medications,Medication Foundations,1.0,drafts,drafts/MED-007_Medication_Adherence/module.json
-MED-008,Missed Doses,Medications,Medication Foundations,1.0,drafts,drafts/MED-008_Missed_Doses/module.json
-MED-009,Medication Side Effects,Medications,Medication Foundations,1.0,drafts,drafts/MED-009_Medication_Side_Effects/module.json
-MED-010,Drug Allergies,Medications,Medication Foundations,1.0,drafts,drafts/MED-010_Drug_Allergies/module.json
-MED-011,Drug Interactions,Medications,Medication Foundations,1.0,drafts,drafts/MED-011_Drug_Interactions/module.json
-MED-012,Medication-Supplement Interactions,Medications,Medication Foundations,1.0,drafts,drafts/MED-012_Medication-Supplement_Interactions/module.json
-MED-013,Medication and Alcohol Interactions,Medications,Medication Foundations,1.0,drafts,drafts/MED-013_Medication_and_Alcohol_Interactions/module.json
-MED-014,Medication Storage,Medications,Medication Foundations,1.0,drafts,drafts/MED-014_Medication_Storage/module.json
-MED-015,Medication Disposal,Medications,Medication Foundations,1.0,drafts,drafts/MED-015_Medication_Disposal/module.json
-MED-016,ACE Inhibitors,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-016_ACE_Inhibitors/module.json
-MED-017,ARBs,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-017_ARBs/module.json
-MED-018,Thiazide Diuretics,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-018_Thiazide_Diuretics/module.json
-MED-019,Calcium Channel Blockers,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-019_Calcium_Channel_Blockers/module.json
-MED-020,Beta Blockers,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-020_Beta_Blockers/module.json
-MED-021,Loop Diuretics,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-021_Loop_Diuretics/module.json
-MED-022,Potassium-Sparing Diuretics,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-022_Potassium-Sparing_Diuretics/module.json
-MED-023,Alpha Blockers,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-023_Alpha_Blockers/module.json
-MED-024,Central Alpha Agonists,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-024_Central_Alpha_Agonists/module.json
-MED-025,Direct Vasodilators,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-025_Direct_Vasodilators/module.json
-MED-026,Combination Blood Pressure Medicines,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-026_Combination_Blood_Pressure_Medicines/module.json
-MED-027,Blood Pressure Medicine Side Effects,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-027_Blood_Pressure_Medicine_Side_Effects/module.json
-MED-028,Monitoring Blood Pressure Medicines,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-028_Monitoring_Blood_Pressure_Medicines/module.json
-MED-029,Electrolytes and Blood Pressure Medicines,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-029_Electrolytes_and_Blood_Pressure_Medicines/module.json
-MED-030,Stopping Blood Pressure Medicines Safely,Medications,Blood Pressure Medicines,1.0,drafts,drafts/MED-030_Stopping_Blood_Pressure_Medicines_Safely/module.json
-MED-031,Statins,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-031_Statins/module.json
-MED-032,Ezetimibe,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-032_Ezetimibe/module.json
-MED-033,PCSK9 Inhibitors,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-033_PCSK9_Inhibitors/module.json
-MED-034,Bempedoic Acid,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-034_Bempedoic_Acid/module.json
-MED-035,Fibrates,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-035_Fibrates/module.json
-MED-036,Prescription Omega-3 Medicines,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-036_Prescription_Omega-3_Medicines/module.json
-MED-037,Niacin as Medicine,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-037_Niacin_as_Medicine/module.json
-MED-038,Aspirin for Cardiovascular Prevention,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-038_Aspirin_for_Cardiovascular_Prevention/module.json
-MED-039,Antiplatelet Medicines,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-039_Antiplatelet_Medicines/module.json
-MED-040,Anticoagulants,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-040_Anticoagulants/module.json
-MED-041,Warfarin,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-041_Warfarin/module.json
-MED-042,Direct Oral Anticoagulants,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-042_Direct_Oral_Anticoagulants/module.json
-MED-043,Nitrates,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-043_Nitrates/module.json
-MED-044,Antiarrhythmic Medicines,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-044_Antiarrhythmic_Medicines/module.json
-MED-045,Heart Failure Medicines,Medications,Cholesterol and Heart Medicines,1.0,drafts,drafts/MED-045_Heart_Failure_Medicines/module.json
-MED-046,Metformin,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-046_Metformin/module.json
-MED-047,Sulfonylureas,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-047_Sulfonylureas/module.json
-MED-048,DPP-4 Inhibitors,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-048_DPP-4_Inhibitors/module.json
-MED-049,SGLT2 Inhibitors,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-049_SGLT2_Inhibitors/module.json
-MED-050,GLP-1 Receptor Agonists,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-050_GLP-1_Receptor_Agonists/module.json
-MED-051,Dual GIP GLP-1 Medicines,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-051_Dual_GIP_GLP-1_Medicines/module.json
-MED-052,Insulin,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-052_Insulin/module.json
-MED-053,Basal Insulin,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-053_Basal_Insulin/module.json
-MED-054,Mealtime Insulin,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-054_Mealtime_Insulin/module.json
-MED-055,Thiazolidinediones,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-055_Thiazolidinediones/module.json
-MED-056,Alpha-Glucosidase Inhibitors,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-056_Alpha-Glucosidase_Inhibitors/module.json
-MED-057,Weight-Loss Medicines,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-057_Weight-Loss_Medicines/module.json
-MED-058,Semaglutide,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-058_Semaglutide/module.json
-MED-059,Tirzepatide,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-059_Tirzepatide/module.json
-MED-060,Diabetes Medicine Safety,Medications,Diabetes and Weight Medicines,1.0,drafts,drafts/MED-060_Diabetes_Medicine_Safety/module.json
-MED-061,Acetaminophen,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-061_Acetaminophen/module.json
-MED-062,NSAIDs,Medications,Pain and Inflammation Medicines,2024-06-19,drafts,drafts/MED-062_NSAIDs/module.json
-MED-063,Ibuprofen,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-063_Ibuprofen/module.json
-MED-064,Naproxen,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-064_Naproxen/module.json
-MED-065,Topical NSAIDs,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-065_Topical_NSAIDs/module.json
-MED-066,Aspirin for Pain,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-066_Aspirin_for_Pain/module.json
-MED-067,Opioid Medicines,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-067_Opioid_Medicines/module.json
-MED-068,Tramadol,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-068_Tramadol/module.json
-MED-069,Muscle Relaxants,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-069_Muscle_Relaxants/module.json
-MED-070,Gabapentin,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-070_Gabapentin/module.json
-MED-071,Pregabalin,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-071_Pregabalin/module.json
-MED-072,Topical Pain Medicines,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-072_Topical_Pain_Medicines/module.json
-MED-073,Corticosteroids,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-073_Corticosteroids/module.json
-MED-074,Steroid Injections,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-074_Steroid_Injections/module.json
-MED-075,Pain Medicine Safety,Medications,Pain and Inflammation Medicines,1.0,drafts,drafts/MED-075_Pain_Medicine_Safety/module.json
-MED-076,Sleep Medicines,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-076_Sleep_Medicines/module.json
-MED-077,Benzodiazepines,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-077_Benzodiazepines/module.json
-MED-078,Z-Drugs,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-078_Z-Drugs/module.json
-MED-079,Sedating Antidepressants,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-079_Sedating_Antidepressants/module.json
-MED-080,Melatonin Receptor Agonists,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-080_Melatonin_Receptor_Agonists/module.json
-MED-081,Orexin Antagonists,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-081_Orexin_Antagonists/module.json
-MED-082,SSRIs,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-082_SSRIs/module.json
-MED-083,SNRIs,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-083_SNRIs/module.json
-MED-084,Tricyclic Antidepressants,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-084_Tricyclic_Antidepressants/module.json
-MED-085,Bupropion,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-085_Bupropion/module.json
-MED-086,Buspirone,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-086_Buspirone/module.json
-MED-087,Antipsychotic Medicines,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-087_Antipsychotic_Medicines/module.json
-MED-088,Mood Stabilizers,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-088_Mood_Stabilizers/module.json
-MED-089,ADHD Medicines,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-089_ADHD_Medicines/module.json
-MED-090,Mental Health Medicine Safety,Medications,Sleep and Mental Health Medicines,1.0,drafts,drafts/MED-090_Mental_Health_Medicine_Safety/module.json
-MED-091,Proton Pump Inhibitors,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-091_Proton_Pump_Inhibitors/module.json
-MED-092,H2 Blockers,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-092_H2_Blockers/module.json
-MED-093,Antacids,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-093_Antacids/module.json
-MED-094,Laxatives,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-094_Laxatives/module.json
-MED-095,Osmotic Laxatives,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-095_Osmotic_Laxatives/module.json
-MED-096,Stimulant Laxatives,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-096_Stimulant_Laxatives/module.json
-MED-097,Antidiarrheal Medicines,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-097_Antidiarrheal_Medicines/module.json
-MED-098,Antihistamines,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-098_Antihistamines/module.json
-MED-099,Inhaled Bronchodilators,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-099_Inhaled_Bronchodilators/module.json
-MED-100,Inhaled Corticosteroids,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-100_Inhaled_Corticosteroids/module.json
-MED-101,Asthma Controller Medicines,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-101_Asthma_Controller_Medicines/module.json
-MED-102,Nasal Steroid Sprays,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-102_Nasal_Steroid_Sprays/module.json
-MED-103,Decongestants,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-103_Decongestants/module.json
-MED-104,Cough Medicines,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-104_Cough_Medicines/module.json
-MED-105,Digestive and Respiratory Medicine Safety,Medications,Digestive and Respiratory Medicines,1.0,drafts,drafts/MED-105_Digestive_and_Respiratory_Medicine_Safety/module.json
-MED-106,Thyroid Hormone Replacement,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-106_Thyroid_Hormone_Replacement/module.json
-MED-107,Antithyroid Medicines,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-107_Antithyroid_Medicines/module.json
-MED-108,Menopause Hormone Therapy,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-108_Menopause_Hormone_Therapy/module.json
-MED-109,Testosterone Replacement Therapy,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-109_Testosterone_Replacement_Therapy/module.json
-MED-110,Oral Contraceptives,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-110_Oral_Contraceptives/module.json
-MED-111,Progestin-Only Contraceptives,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-111_Progestin-Only_Contraceptives/module.json
-MED-112,Bisphosphonates,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-112_Bisphosphonates/module.json
-MED-113,Denosumab,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-113_Denosumab/module.json
-MED-114,SERMs,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-114_SERMs/module.json
-MED-115,Parathyroid Hormone Analogues,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-115_Parathyroid_Hormone_Analogues/module.json
-MED-116,Vitamin D as Medicine,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-116_Vitamin_D_as_Medicine/module.json
-MED-117,Calcium Therapy,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-117_Calcium_Therapy/module.json
-MED-118,Glucocorticoid Risks to Bone,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-118_Glucocorticoid_Risks_to_Bone/module.json
-MED-119,Hormone Medicine Monitoring,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-119_Hormone_Medicine_Monitoring/module.json
-MED-120,Bone Medicine Safety,Medications,Hormone and Bone Medicines,1.0,drafts,drafts/MED-120_Bone_Medicine_Safety/module.json
-MED-121,Antibiotics,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-121_Antibiotics/module.json
-MED-122,Penicillins,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-122_Penicillins/module.json
-MED-123,Cephalosporins,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-123_Cephalosporins/module.json
-MED-124,Macrolides,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-124_Macrolides/module.json
-MED-125,Fluoroquinolones,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-125_Fluoroquinolones/module.json
-MED-126,Tetracyclines,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-126_Tetracyclines/module.json
-MED-127,Antiviral Medicines,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-127_Antiviral_Medicines/module.json
-MED-128,Antifungal Medicines,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-128_Antifungal_Medicines/module.json
-MED-129,Antiparasitic Medicines,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-129_Antiparasitic_Medicines/module.json
-MED-130,Antibiotic Resistance,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-130_Antibiotic_Resistance/module.json
-MED-131,Finishing an Antibiotic Course,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-131_Finishing_an_Antibiotic_Course/module.json
-MED-132,Probiotics With Antibiotics,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-132_Probiotics_With_Antibiotics/module.json
-MED-133,Antibiotic Side Effects,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-133_Antibiotic_Side_Effects/module.json
-MED-134,Drug Allergies and Antibiotics,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-134_Drug_Allergies_and_Antibiotics/module.json
-MED-135,Anti-Infective Medicine Safety,Medications,Anti-Infective Medicines,1.0,drafts,drafts/MED-135_Anti-Infective_Medicine_Safety/module.json
-MED-136,Medication Review,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-136_Medication_Review/module.json
-MED-137,Polypharmacy,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-137_Polypharmacy/module.json
-MED-138,Deprescribing,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-138_Deprescribing/module.json
-MED-139,Medication Lists,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-139_Medication_Lists/module.json
-MED-140,Pill Organizers,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-140_Pill_Organizers/module.json
-MED-141,Traveling With Medicines,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-141_Traveling_With_Medicines/module.json
-MED-142,Medicines and Driving,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-142_Medicines_and_Driving/module.json
-MED-143,Medicines and Exercise,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-143_Medicines_and_Exercise/module.json
-MED-144,Medicines and Heat,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-144_Medicines_and_Heat/module.json
-MED-145,Medicines and Dehydration,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-145_Medicines_and_Dehydration/module.json
-MED-146,Medicines in Older Adults,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-146_Medicines_in_Older_Adults/module.json
-MED-147,Kidney Function and Medication Dosing,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-147_Kidney_Function_and_Medication_Dosing/module.json
-MED-148,Liver Function and Medication Dosing,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-148_Liver_Function_and_Medication_Dosing/module.json
-MED-149,Preparing for a Medication Review,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-149_Preparing_for_a_Medication_Review/module.json
-MED-150,Building a Safe Medication Routine,Medications,Medication Management in Real Life,1.0,drafts,drafts/MED-150_Building_a_Safe_Medication_Routine/module.json
-SUP-001,Dietary Supplements Overview,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-001_Dietary_Supplements_Overview/module.json
-SUP-002,How Supplements Are Regulated,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-002_How_Supplements_Are_Regulated/module.json
-SUP-003,How to Read a Supplement Label,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-003_How_to_Read_a_Supplement_Label/module.json
-SUP-004,Supplement Quality Testing,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-004_Supplement_Quality_Testing/module.json
-SUP-005,Third-Party Supplement Certification,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-005_Third-Party_Supplement_Certification/module.json
-SUP-006,Supplement Contamination,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-006_Supplement_Contamination/module.json
-SUP-007,Supplement Adulteration,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-007_Supplement_Adulteration/module.json
-SUP-008,Supplement Dosage,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-008_Supplement_Dosage/module.json
-SUP-009,Supplement Timing,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-009_Supplement_Timing/module.json
-SUP-010,Supplement Absorption,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-010_Supplement_Absorption/module.json
-SUP-011,Food vs Supplements,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-011_Food_vs_Supplements/module.json
-SUP-012,Who May Need Supplements,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-012_Who_May_Need_Supplements/module.json
-SUP-013,Who Should Avoid Supplements,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-013_Who_Should_Avoid_Supplements/module.json
-SUP-014,Supplement Side Effects,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-014_Supplement_Side_Effects/module.json
-SUP-015,Supplement-Drug Interactions,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-015_Supplement-Drug_Interactions/module.json
-SUP-016,Supplement-Supplement Interactions,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-016_Supplement-Supplement_Interactions/module.json
-SUP-017,Megadosing Risks,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-017_Megadosing_Risks/module.json
-SUP-018,Natural Does Not Mean Safe,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-018_Natural_Does_Not_Mean_Safe/module.json
-SUP-019,Evidence Levels for Supplements,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-019_Evidence_Levels_for_Supplements/module.json
-SUP-020,Placebo Effects and Supplements,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-020_Placebo_Effects_and_Supplements/module.json
-SUP-021,Choosing a Supplement,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-021_Choosing_a_Supplement/module.json
-SUP-022,Tracking Supplement Use,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-022_Tracking_Supplement_Use/module.json
-SUP-023,Discussing Supplements With a Clinician,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-023_Discussing_Supplements_With_a_Clinician/module.json
-SUP-024,Stopping Unnecessary Supplements,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-024_Stopping_Unnecessary_Supplements/module.json
-SUP-025,Building a Safe Supplement Plan,Supplements,Supplement Foundations,1.0,drafts,drafts/SUP-025_Building_a_Safe_Supplement_Plan/module.json
-SUP-026,Vitamin A Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-026_Vitamin_A_Supplements/module.json
-SUP-027,Beta-Carotene Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-027_Beta-Carotene_Supplements/module.json
-SUP-028,Thiamin Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-028_Thiamin_Supplements/module.json
-SUP-029,Riboflavin Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-029_Riboflavin_Supplements/module.json
-SUP-030,Niacin Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-030_Niacin_Supplements/module.json
-SUP-031,Pantothenic Acid Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-031_Pantothenic_Acid_Supplements/module.json
-SUP-032,Vitamin B6 Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-032_Vitamin_B6_Supplements/module.json
-SUP-033,Biotin Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-033_Biotin_Supplements/module.json
-SUP-034,Folate Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-034_Folate_Supplements/module.json
-SUP-035,Folic Acid Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-035_Folic_Acid_Supplements/module.json
-SUP-036,Vitamin B12 Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-036_Vitamin_B12_Supplements/module.json
-SUP-037,Vitamin C Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-037_Vitamin_C_Supplements/module.json
-SUP-038,Vitamin D Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-038_Vitamin_D_Supplements/module.json
-SUP-039,Vitamin E Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-039_Vitamin_E_Supplements/module.json
-SUP-040,Vitamin K Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-040_Vitamin_K_Supplements/module.json
-SUP-041,Multivitamins,Supplements,Vitamins,1.0,drafts,drafts/SUP-041_Multivitamins/module.json
-SUP-042,Prenatal Vitamins,Supplements,Vitamins,1.0,drafts,drafts/SUP-042_Prenatal_Vitamins/module.json
-SUP-043,Senior Multivitamins,Supplements,Vitamins,1.0,drafts,drafts/SUP-043_Senior_Multivitamins/module.json
-SUP-044,B-Complex Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-044_B-Complex_Supplements/module.json
-SUP-045,High-Dose Vitamin Therapy,Supplements,Vitamins,1.0,drafts,drafts/SUP-045_High-Dose_Vitamin_Therapy/module.json
-SUP-046,Vitamin Deficiency Testing Before Supplements,Supplements,Vitamins,1.0,drafts,drafts/SUP-046_Vitamin_Deficiency_Testing_Before_Supplements/module.json
-SUP-047,Fat-Soluble Vitamin Toxicity,Supplements,Vitamins,1.0,drafts,drafts/SUP-047_Fat-Soluble_Vitamin_Toxicity/module.json
-SUP-048,Water-Soluble Vitamin Excess,Supplements,Vitamins,1.0,drafts,drafts/SUP-048_Water-Soluble_Vitamin_Excess/module.json
-SUP-049,Vitamin Supplements for Vegans,Supplements,Vitamins,1.0,drafts,drafts/SUP-049_Vitamin_Supplements_for_Vegans/module.json
-SUP-050,Vitamin Supplements for Older Adults,Supplements,Vitamins,1.0,drafts,drafts/SUP-050_Vitamin_Supplements_for_Older_Adults/module.json
-SUP-051,Calcium Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-051_Calcium_Supplements/module.json
-SUP-052,Iron Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-052_Iron_Supplements/module.json
-SUP-053,Magnesium Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-053_Magnesium_Supplements/module.json
-SUP-054,Zinc Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-054_Zinc_Supplements/module.json
-SUP-055,Potassium Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-055_Potassium_Supplements/module.json
-SUP-056,Selenium Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-056_Selenium_Supplements/module.json
-SUP-057,Iodine Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-057_Iodine_Supplements/module.json
-SUP-058,Copper Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-058_Copper_Supplements/module.json
-SUP-059,Manganese Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-059_Manganese_Supplements/module.json
-SUP-060,Chromium Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-060_Chromium_Supplements/module.json
-SUP-061,Phosphorus Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-061_Phosphorus_Supplements/module.json
-SUP-062,Molybdenum Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-062_Molybdenum_Supplements/module.json
-SUP-063,Electrolyte Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-063_Electrolyte_Supplements/module.json
-SUP-064,Trace Mineral Supplements,Supplements,Minerals,1.0,drafts,drafts/SUP-064_Trace_Mineral_Supplements/module.json
-SUP-065,Calcium Citrate vs Calcium Carbonate,Supplements,Minerals,1.0,drafts,drafts/SUP-065_Calcium_Citrate_vs_Calcium_Carbonate/module.json
-SUP-066,Magnesium Citrate,Supplements,Minerals,1.0,drafts,drafts/SUP-066_Magnesium_Citrate/module.json
-SUP-067,Magnesium Glycinate,Supplements,Minerals,1.0,drafts,drafts/SUP-067_Magnesium_Glycinate/module.json
-SUP-068,Magnesium Oxide,Supplements,Minerals,1.0,drafts,drafts/SUP-068_Magnesium_Oxide/module.json
-SUP-069,Iron Forms,Supplements,Minerals,1.0,drafts,drafts/SUP-069_Iron_Forms/module.json
-SUP-070,Zinc Forms,Supplements,Minerals,1.0,drafts,drafts/SUP-070_Zinc_Forms/module.json
-SUP-071,Mineral Deficiency and Supplementation,Supplements,Minerals,1.0,drafts,drafts/SUP-071_Mineral_Deficiency_and_Supplementation/module.json
-SUP-072,Mineral Toxicity,Supplements,Minerals,1.0,drafts,drafts/SUP-072_Mineral_Toxicity/module.json
-SUP-073,Mineral-Drug Interactions,Supplements,Minerals,1.0,drafts,drafts/SUP-073_Mineral-Drug_Interactions/module.json
-SUP-074,Mineral Supplements for Older Adults,Supplements,Minerals,2024-06-01,drafts,drafts/SUP-074_Mineral_Supplements_for_Older_Adults/module.json
-SUP-075,Mineral Supplements for Athletes,Supplements,Minerals,1.0,drafts,drafts/SUP-075_Mineral_Supplements_for_Athletes/module.json
-SUP-076,Creatine,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-076_Creatine/module.json
-SUP-077,Creatine Monohydrate,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-077_Creatine_Monohydrate/module.json
-SUP-078,Protein Powder,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-078_Protein_Powder/module.json
-SUP-079,Whey Protein,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-079_Whey_Protein/module.json
-SUP-080,Casein Protein,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-080_Casein_Protein/module.json
-SUP-081,Soy Protein Powder,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-081_Soy_Protein_Powder/module.json
-SUP-082,Pea Protein Powder,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-082_Pea_Protein_Powder/module.json
-SUP-083,Essential Amino Acid Supplements,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-083_Essential_Amino_Acid_Supplements/module.json
-SUP-084,Branched-Chain Amino Acids,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-084_Branched-Chain_Amino_Acids/module.json
-SUP-085,Beta-Alanine,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-085_Beta-Alanine/module.json
-SUP-086,Caffeine Supplements,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-086_Caffeine_Supplements/module.json
-SUP-087,Pre-Workout Supplements,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-087_Pre-Workout_Supplements/module.json
-SUP-088,Nitrate Supplements,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-088_Nitrate_Supplements/module.json
-SUP-089,Beetroot Supplements,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-089_Beetroot_Supplements/module.json
-SUP-090,Sodium Bicarbonate,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-090_Sodium_Bicarbonate/module.json
-SUP-091,Carbohydrate Gels,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-091_Carbohydrate_Gels/module.json
-SUP-092,Sports Drinks,Supplements,Performance Supplements,2024-06-07,drafts,drafts/SUP-092_Sports_Drinks/module.json
-SUP-093,Electrolyte Powders,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-093_Electrolyte_Powders/module.json
-SUP-094,Collagen Supplements for Exercise,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-094_Collagen_Supplements_for_Exercise/module.json
-SUP-095,HMB,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-095_HMB/module.json
-SUP-096,Citrulline,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-096_Citrulline/module.json
-SUP-097,Arginine,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-097_Arginine/module.json
-SUP-098,Taurine,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-098_Taurine/module.json
-SUP-099,Carnitine,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-099_Carnitine/module.json
-SUP-100,Performance Supplement Safety,Supplements,Performance Supplements,1.0,drafts,drafts/SUP-100_Performance_Supplement_Safety/module.json
-SUP-101,Fish Oil Supplements,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-101_Fish_Oil_Supplements/module.json
-SUP-102,Omega-3 Supplements,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-102_Omega-3_Supplements/module.json
-SUP-103,Plant Sterols,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-103_Plant_Sterols/module.json
-SUP-104,Soluble Fiber Supplements,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-104_Soluble_Fiber_Supplements/module.json
-SUP-105,Psyllium,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-105_Psyllium/module.json
-SUP-106,Berberine,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-106_Berberine/module.json
-SUP-107,Coenzyme Q10,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-107_Coenzyme_Q10/module.json
-SUP-108,Red Yeast Rice,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-108_Red_Yeast_Rice/module.json
-SUP-109,Garlic Supplements,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-109_Garlic_Supplements/module.json
-SUP-110,Cinnamon Supplements,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-110_Cinnamon_Supplements/module.json
-SUP-111,Fenugreek Supplements,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-111_Fenugreek_Supplements/module.json
-SUP-112,Chromium for Blood Sugar,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-112_Chromium_for_Blood_Sugar/module.json
-SUP-113,Alpha-Lipoic Acid,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-113_Alpha-Lipoic_Acid/module.json
-SUP-114,Inositol,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-114_Inositol/module.json
-SUP-115,Green Tea Extract,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-115_Green_Tea_Extract/module.json
-SUP-116,Soluble Corn Fiber,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-116_Soluble_Corn_Fiber/module.json
-SUP-117,Beta-Glucan Supplements,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-117_Beta-Glucan_Supplements/module.json
-SUP-118,Potassium for Blood Pressure,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-118_Potassium_for_Blood_Pressure/module.json
-SUP-119,Magnesium for Blood Pressure,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-119_Magnesium_for_Blood_Pressure/module.json
-SUP-120,Niacin for Cholesterol,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-120_Niacin_for_Cholesterol/module.json
-SUP-121,Supplements for Triglycerides,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-121_Supplements_for_Triglycerides/module.json
-SUP-122,Supplements for LDL Cholesterol,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-122_Supplements_for_LDL_Cholesterol/module.json
-SUP-123,Supplements for Blood Sugar,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-123_Supplements_for_Blood_Sugar/module.json
-SUP-124,Supplements for Weight Loss,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-124_Supplements_for_Weight_Loss/module.json
-SUP-125,Cardiometabolic Supplement Safety,Supplements,Cardiometabolic Supplements,1.0,drafts,drafts/SUP-125_Cardiometabolic_Supplement_Safety/module.json
-SUP-126,Probiotic Supplements,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-126_Probiotic_Supplements/module.json
-SUP-127,Prebiotic Supplements,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-127_Prebiotic_Supplements/module.json
-SUP-128,Synbiotics,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-128_Synbiotics/module.json
-SUP-129,Postbiotic Supplements,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-129_Postbiotic_Supplements/module.json
-SUP-130,Fiber Supplements,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-130_Fiber_Supplements/module.json
-SUP-131,Inulin,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-131_Inulin/module.json
-SUP-132,Partially Hydrolyzed Guar Gum,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-132_Partially_Hydrolyzed_Guar_Gum/module.json
-SUP-133,Methylcellulose,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-133_Methylcellulose/module.json
-SUP-134,Wheat Dextrin,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-134_Wheat_Dextrin/module.json
-SUP-135,Digestive Enzymes,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-135_Digestive_Enzymes/module.json
-SUP-136,Lactase Supplements,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-136_Lactase_Supplements/module.json
-SUP-137,Alpha-Galactosidase,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-137_Alpha-Galactosidase/module.json
-SUP-138,Peppermint Oil,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-138_Peppermint_Oil/module.json
-SUP-139,Ginger Supplements,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-139_Ginger_Supplements/module.json
-SUP-140,Turmeric Supplements,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-140_Turmeric_Supplements/module.json
-SUP-141,Glutamine for Gut Health,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-141_Glutamine_for_Gut_Health/module.json
-SUP-142,Zinc Carnosine,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-142_Zinc_Carnosine/module.json
-SUP-143,Activated Charcoal,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-143_Activated_Charcoal/module.json
-SUP-144,Aloe Vera Supplements,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-144_Aloe_Vera_Supplements/module.json
-SUP-145,Slippery Elm,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-145_Slippery_Elm/module.json
-SUP-146,Probiotics for Antibiotic-Associated Diarrhea,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-146_Probiotics_for_Antibiotic-Associated_Diarrhea/module.json
-SUP-147,Probiotics for IBS,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-147_Probiotics_for_IBS/module.json
-SUP-148,Fiber for Constipation,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-148_Fiber_for_Constipation/module.json
-SUP-149,Supplements for Reflux,Supplements,Digestive and Gut Supplements,2024-06-16,drafts,drafts/SUP-149_Supplements_for_Reflux/module.json
-SUP-150,Gut Supplement Safety,Supplements,Digestive and Gut Supplements,1.0,drafts,drafts/SUP-150_Gut_Supplement_Safety/module.json
-SUP-151,Melatonin,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-151_Melatonin/module.json
-SUP-152,Magnesium for Sleep,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-152_Magnesium_for_Sleep/module.json
-SUP-153,Valerian,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-153_Valerian/module.json
-SUP-154,L-Theanine,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-154_L-Theanine/module.json
-SUP-155,Glycine for Sleep,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-155_Glycine_for_Sleep/module.json
-SUP-156,Ashwagandha,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-156_Ashwagandha/module.json
-SUP-157,Rhodiola,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-157_Rhodiola/module.json
-SUP-158,Chamomile Supplements,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-158_Chamomile_Supplements/module.json
-SUP-159,Lavender Supplements,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-159_Lavender_Supplements/module.json
-SUP-160,Passionflower,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-160_Passionflower/module.json
-SUP-161,GABA Supplements,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-161_GABA_Supplements/module.json
-SUP-162,5-HTP,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-162_5-HTP/module.json
-SUP-163,SAM-e,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-163_SAM-e/module.json
-SUP-164,St John's Wort,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-164_St_John's_Wort/module.json
-SUP-165,Omega-3s and Mood,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-165_Omega-3s_and_Mood/module.json
-SUP-166,Vitamin D and Mood,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-166_Vitamin_D_and_Mood/module.json
-SUP-167,B Vitamins and Cognition,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-167_B_Vitamins_and_Cognition/module.json
-SUP-168,Creatine and Cognition,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-168_Creatine_and_Cognition/module.json
-SUP-169,Citicoline,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-169_Citicoline/module.json
-SUP-170,Alpha-GPC,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-170_Alpha-GPC/module.json
-SUP-171,Phosphatidylserine,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-171_Phosphatidylserine/module.json
-SUP-172,Bacopa,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-172_Bacopa/module.json
-SUP-173,Ginkgo Biloba,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-173_Ginkgo_Biloba/module.json
-SUP-174,Nootropic Supplements,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-174_Nootropic_Supplements/module.json
-SUP-175,Sleep and Stress Supplement Safety,Supplements,Sleep Stress and Cognition,1.0,drafts,drafts/SUP-175_Sleep_and_Stress_Supplement_Safety/module.json
-SUP-176,Collagen Supplements,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-176_Collagen_Supplements/module.json
-SUP-177,Glucosamine,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-177_Glucosamine/module.json
-SUP-178,Chondroitin,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-178_Chondroitin/module.json
-SUP-179,MSM,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-179_MSM/module.json
-SUP-180,Curcumin,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-180_Curcumin/module.json
-SUP-181,Boswellia,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-181_Boswellia/module.json
-SUP-182,Vitamin D for Bone Health,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-182_Vitamin_D_for_Bone_Health/module.json
-SUP-183,Calcium for Bone Health,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-183_Calcium_for_Bone_Health/module.json
-SUP-184,Creatine for Older Adults,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-184_Creatine_for_Older_Adults/module.json
-SUP-185,Protein Supplements for Older Adults,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-185_Protein_Supplements_for_Older_Adults/module.json
-SUP-186,CoQ10 for Older Adults,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-186_CoQ10_for_Older_Adults/module.json
-SUP-187,Resveratrol,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-187_Resveratrol/module.json
-SUP-188,NMN,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-188_NMN/module.json
-SUP-189,NAD Precursors,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-189_NAD_Precursors/module.json
-SUP-190,Spermidine,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-190_Spermidine/module.json
-SUP-191,Urolithin A,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-191_Urolithin_A/module.json
-SUP-192,Astaxanthin,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-192_Astaxanthin/module.json
-SUP-193,Lutein and Zeaxanthin,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-193_Lutein_and_Zeaxanthin/module.json
-SUP-194,AREDS Eye Supplements,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-194_AREDS_Eye_Supplements/module.json
-SUP-195,Saw Palmetto,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-195_Saw_Palmetto/module.json
-SUP-196,Cranberry Supplements,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-196_Cranberry_Supplements/module.json
-SUP-197,D-Mannose,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-197_D-Mannose/module.json
-SUP-198,Hair Skin and Nail Supplements,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-198_Hair_Skin_and_Nail_Supplements/module.json
-SUP-199,Joint Health Supplements,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-199_Joint_Health_Supplements/module.json
-SUP-200,Longevity Supplement Claims,Supplements,Healthy Aging and Specialty Supplements,1.0,drafts,drafts/SUP-200_Longevity_Supplement_Claims/module.json
+COND-206,Syncope,Medical Conditions,Neurologic and Cognitive,1.0,drafts,drafts/COND-206_Syncope/module.json
+COND-207,Memory Problems,Medical Conditions,Neurologic and Cognitive,1.0,drafts,drafts/COND-207_Memory_Problems/module.json
+COND-208,Brain Fog,Medical Conditions,Neurologic and Cognitive,1.0,drafts,drafts/COND-208_Brain_Fog/module.json
+COND-209,Delirium,Medical Conditions,Neurologic and Cognitive,1.0,drafts,drafts/COND-209_Delirium/module.json
+COND-210,Normal Pressure Hydrocephalus,Medical Conditions,Neurologic and Cognitive,1.0,drafts,drafts/COND-210_Normal_Pressure_Hydrocephalus/module.json
+COND-211,Generalized Anxiety Disorder,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-211_Generalized_Anxiety_Disorder/module.json
+COND-212,Panic Disorder,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-212_Panic_Disorder/module.json
+COND-213,Social Anxiety Disorder,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-213_Social_Anxiety_Disorder/module.json
+COND-214,Specific Phobias,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-214_Specific_Phobias/module.json
+COND-215,Health Anxiety,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-215_Health_Anxiety/module.json
+COND-216,Depression,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-216_Depression/module.json
+COND-217,Persistent Depressive Disorder,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-217_Persistent_Depressive_Disorder/module.json
+COND-218,Bipolar Disorder,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-218_Bipolar_Disorder/module.json
+COND-219,Obsessive-Compulsive Disorder,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-219_Obsessive-Compulsive_Disorder/module.json
+COND-220,Post-Traumatic Stress Disorder,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-220_Post-Traumatic_Stress_Disorder/module.json
+COND-221,Adjustment Disorder,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-221_Adjustment_Disorder/module.json
+COND-222,Burnout,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-222_Burnout/module.json
+COND-223,Insomnia and Mental Health,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-223_Insomnia_and_Mental_Health/module.json
+COND-224,Attention-Deficit Hyperactivity Disorder,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-224_Attention-Deficit_Hyperactivity_Disorder/module.json
+COND-225,Eating Disorders,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-225_Eating_Disorders/module.json
+COND-226,Binge-Eating Disorder,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-226_Binge-Eating_Disorder/module.json
+COND-227,Anorexia Nervosa,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-227_Anorexia_Nervosa/module.json
+COND-228,Bulimia Nervosa,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-228_Bulimia_Nervosa/module.json
+COND-229,Alcohol Use Disorder,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-229_Alcohol_Use_Disorder/module.json
+COND-230,Nicotine Dependence,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-230_Nicotine_Dependence/module.json
+COND-231,Cannabis Use Disorder,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-231_Cannabis_Use_Disorder/module.json
+COND-232,Opioid Use Disorder,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-232_Opioid_Use_Disorder/module.json
+COND-233,Gambling Disorder,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-233_Gambling_Disorder/module.json
+COND-234,Loneliness and Mental Health,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-234_Loneliness_and_Mental_Health/module.json
+COND-235,Grief,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-235_Grief/module.json
+COND-236,Caregiver Burnout,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-236_Caregiver_Burnout/module.json
+COND-237,Suicidal Thoughts,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-237_Suicidal_Thoughts/module.json
+COND-238,Self-Harm Awareness,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-238_Self-Harm_Awareness/module.json
+COND-239,Workplace Mental Health Problems,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-239_Workplace_Mental_Health_Problems/module.json
+COND-240,Stress-Related Disorders,Medical Conditions,Mental Health,1.0,drafts,drafts/COND-240_Stress-Related_Disorders/module.json
+COND-241,Endometriosis,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-241_Endometriosis/module.json
+COND-242,Uterine Fibroids,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-242_Uterine_Fibroids/module.json
+COND-243,Polycystic Ovary Syndrome in Women,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-243_Polycystic_Ovary_Syndrome_in_Women/module.json
+COND-244,Premenstrual Syndrome,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-244_Premenstrual_Syndrome/module.json
+COND-245,Premenstrual Dysphoric Disorder,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-245_Premenstrual_Dysphoric_Disorder/module.json
+COND-246,Heavy Menstrual Bleeding,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-246_Heavy_Menstrual_Bleeding/module.json
+COND-247,Irregular Menstruation,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-247_Irregular_Menstruation/module.json
+COND-248,Amenorrhea,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-248_Amenorrhea/module.json
+COND-249,Dysmenorrhea,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-249_Dysmenorrhea/module.json
+COND-250,Infertility in Women,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-250_Infertility_in_Women/module.json
+COND-251,Menopause,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-251_Menopause/module.json
+COND-252,Perimenopause,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-252_Perimenopause/module.json
+COND-253,Vaginal Atrophy,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-253_Vaginal_Atrophy/module.json
+COND-254,Pelvic Organ Prolapse,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-254_Pelvic_Organ_Prolapse/module.json
+COND-255,Urinary Incontinence in Women,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-255_Urinary_Incontinence_in_Women/module.json
+COND-256,Breast Cancer,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-256_Breast_Cancer/module.json
+COND-257,Cervical Cancer,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-257_Cervical_Cancer/module.json
+COND-258,Ovarian Cancer,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-258_Ovarian_Cancer/module.json
+COND-259,Endometrial Cancer,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-259_Endometrial_Cancer/module.json
+COND-260,Gestational Diabetes,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-260_Gestational_Diabetes/module.json
+COND-261,Preeclampsia,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-261_Preeclampsia/module.json
+COND-262,Postpartum Depression,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-262_Postpartum_Depression/module.json
+COND-263,Postpartum Anxiety,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-263_Postpartum_Anxiety/module.json
+COND-264,Pelvic Floor Dysfunction,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-264_Pelvic_Floor_Dysfunction/module.json
+COND-265,Ovarian Cysts,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-265_Ovarian_Cysts/module.json
+COND-266,Vaginitis,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-266_Vaginitis/module.json
+COND-267,Bacterial Vaginosis,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-267_Bacterial_Vaginosis/module.json
+COND-268,Yeast Infection,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-268_Yeast_Infection/module.json
+COND-269,HPV Infection,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-269_HPV_Infection/module.json
+COND-270,Female Sexual Dysfunction,Medical Conditions,Women's and Reproductive,1.0,drafts,drafts/COND-270_Female_Sexual_Dysfunction/module.json
+COND-271,Erectile Dysfunction,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-271_Erectile_Dysfunction/module.json
+COND-272,Male Infertility,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-272_Male_Infertility/module.json
+COND-273,Testosterone Deficiency,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-273_Testosterone_Deficiency/module.json
+COND-274,Gynecomastia,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-274_Gynecomastia/module.json
+COND-275,Benign Prostatic Hyperplasia in Men,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-275_Benign_Prostatic_Hyperplasia_in_Men/module.json
+COND-276,Prostate Cancer,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-276_Prostate_Cancer/module.json
+COND-277,Testicular Cancer,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-277_Testicular_Cancer/module.json
+COND-278,Male Pattern Hair Loss,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-278_Male_Pattern_Hair_Loss/module.json
+COND-279,Sleep Apnea in Men,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-279_Sleep_Apnea_in_Men/module.json
+COND-280,Gout in Men,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-280_Gout_in_Men/module.json
+COND-281,Psoriasis,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-281_Psoriasis/module.json
+COND-282,Eczema,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-282_Eczema/module.json
+COND-283,Acne,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-283_Acne/module.json
+COND-284,Rosacea,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-284_Rosacea/module.json
+COND-285,Shingles,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-285_Shingles/module.json
+COND-286,Seasonal Allergies,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-286_Seasonal_Allergies/module.json
+COND-287,Food Allergies,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-287_Food_Allergies/module.json
+COND-288,Anaphylaxis,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-288_Anaphylaxis/module.json
+COND-289,Iron Deficiency Anemia,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-289_Iron_Deficiency_Anemia/module.json
+COND-290,Vitamin B12 Deficiency,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-290_Vitamin_B12_Deficiency/module.json
+COND-291,Folate Deficiency,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-291_Folate_Deficiency/module.json
+COND-292,Sickle Cell Disease,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-292_Sickle_Cell_Disease/module.json
+COND-293,Thalassemia,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-293_Thalassemia/module.json
+COND-294,Chronic Fatigue Syndrome,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-294_Chronic_Fatigue_Syndrome/module.json
+COND-295,Postural Orthostatic Tachycardia Syndrome,Medical Conditions,Men's and Other Common Conditions,1.0,drafts,drafts/COND-295_Postural_Orthostatic_Tachycardia_Syndrome/module.json
