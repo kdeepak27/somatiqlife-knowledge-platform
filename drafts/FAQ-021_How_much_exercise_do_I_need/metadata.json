@@ -1,0 +1,33 @@
+{
+  "module_id": "FAQ-021",
+  "title": "How much exercise do I need?",
+  "subtitle": "Evidence-based answer to the common question: how much exercise do I need?",
+  "domain": "Frequently Asked Questions",
+  "category": "Exercise FAQs",
+  "som_stages": [
+    "Prevention",
+    "Health Optimization"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate Health Literacy",
+  "keywords": [
+    "exercise amount",
+    "physical activity guidelines",
+    "exercise duration",
+    "exercise frequency",
+    "exercise intensity",
+    "health benefits of exercise"
+  ],
+  "related_modules": [
+    "FAQ-022",
+    "EXR-015",
+    "HLTH-030"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
