@@ -1,0 +1,36 @@
+{
+  "module_id": "MEA-001",
+  "title": "Meal Planning Basics",
+  "subtitle": "Practical strategies, examples, and evidence related to meal planning basics.",
+  "domain": "Meal Planning",
+  "category": "Meal Planning Foundations",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General Public",
+    "Nutrition Enthusiasts",
+    "Health Coaches",
+    "Dietitians In Training"
+  ],
+  "reading_level": "Grade 8 - 10",
+  "keywords": [
+    "meal planning",
+    "nutrition",
+    "diet",
+    "healthy eating",
+    "portion control",
+    "meal prep",
+    "balanced diet"
+  ],
+  "related_modules": [
+    "NUT-012",
+    "WEI-005",
+    "FOO-003"
+  ],
+  "evidence_strength": "Moderate - supported by observational and behavioral studies; more randomized controlled trials needed for long-term outcomes",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
