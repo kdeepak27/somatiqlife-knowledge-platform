@@ -1,0 +1,36 @@
+{
+  "module_id": "BEH-030",
+  "title": "Creating a Personal Health Roadmap",
+  "subtitle": "Practical evidence-based approaches to creating a personal health roadmap.",
+  "domain": "Behavior Change",
+  "category": "Goal Setting",
+  "som_stages": [
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "personal health roadmap",
+    "goal setting",
+    "behavior change",
+    "health planning",
+    "self-management",
+    "health goals",
+    "motivation",
+    "monitoring"
+  ],
+  "related_modules": [
+    "BEH-010",
+    "BEH-020",
+    "BEH-045"
+  ],
+  "evidence_strength": "Established evidence with emerging application examples",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
