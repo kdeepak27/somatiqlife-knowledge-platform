@@ -1,0 +1,35 @@
+{
+  "module_id": "BEH-123",
+  "title": "Maximize Habits",
+  "subtitle": "How to apply maximize habits within a sustainable health improvement framework.",
+  "domain": "Behavior Change",
+  "category": "SOM Habit System",
+  "som_stages": [
+    "Initiation",
+    "Maintenance",
+    "Optimization"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Behavioral Scientists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "habits",
+    "behavior change",
+    "maximization",
+    "health improvement",
+    "sustainable habits",
+    "habit formation",
+    "behavioral psychology"
+  ],
+  "related_modules": [
+    "BEH-101",
+    "BEH-110",
+    "BEH-131"
+  ],
+  "evidence_strength": "Established evidence supported by behavioral science and neurobiology; emerging evidence in personalized maximize habit strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

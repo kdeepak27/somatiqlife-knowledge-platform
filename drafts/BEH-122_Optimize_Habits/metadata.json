@@ -1,0 +1,39 @@
+{
+  "module_id": "BEH-122",
+  "title": "Optimize Habits",
+  "subtitle": "How to apply optimize habits within a sustainable health improvement framework.",
+  "domain": "Behavior Change",
+  "category": "SOM Habit System",
+  "som_stages": [
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General public",
+    "Health coaches",
+    "Behavioral health professionals",
+    "Medical practitioners"
+  ],
+  "reading_level": "Intermediate (Grade 9-12)",
+  "keywords": [
+    "Habits",
+    "Behavior change",
+    "Sustainability",
+    "Routine optimization",
+    "Health improvement",
+    "Self-regulation",
+    "Cue-routine-reward",
+    "Mindfulness",
+    "Motivation",
+    "Self-efficacy"
+  ],
+  "related_modules": [
+    "BEH-115",
+    "BEH-130",
+    "BEH-145"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
