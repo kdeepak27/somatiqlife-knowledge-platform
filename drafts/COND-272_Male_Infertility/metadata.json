@@ -1,0 +1,35 @@
+{
+  "module_id": "COND-272",
+  "title": "Male Infertility",
+  "subtitle": "What male infertility is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Patient Education"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Male infertility",
+    "Sperm count",
+    "Semen analysis",
+    "Testosterone",
+    "Infertility causes",
+    "Lifestyle factors",
+    "Male reproductive health"
+  ],
+  "related_modules": [
+    "COND-110",
+    "COND-191",
+    "COND-284"
+  ],
+  "evidence_strength": "Established evidence for foundational concepts; moderate evidence for lifestyle interventions and emerging reproductive technologies; uncertain evidence for some supplements and environmental factors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,40 @@
+{
+  "module_id": "COND-274",
+  "title": "Gynecomastia",
+  "subtitle": "What gynecomastia is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Gynecomastia",
+    "Breast enlargement",
+    "Male breast tissue",
+    "Hormonal imbalance",
+    "Breast pain in men",
+    "Estrogen",
+    "Testosterone",
+    "Breast lumps",
+    "Breast cancer risk men",
+    "Medical evaluation gynecomastia",
+    "Treatment gynecomastia"
+  ],
+  "related_modules": [
+    "COND-159",
+    "COND-320",
+    "COND-410"
+  ],
+  "evidence_strength": "Established Evidence and Moderate Emerging Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

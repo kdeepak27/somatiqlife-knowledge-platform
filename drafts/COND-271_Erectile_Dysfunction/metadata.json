@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-271",
+  "title": "Erectile Dysfunction",
+  "subtitle": "What erectile dysfunction is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Recognition",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Grade 10+ educational level)",
+  "keywords": [
+    "erectile dysfunction",
+    "impotence",
+    "erectile difficulty",
+    "sexual health",
+    "vascular causes",
+    "psychogenic causes",
+    "PDE5 inhibitors",
+    "lifestyle factors",
+    "risk factors",
+    "evaluation"
+  ],
+  "related_modules": [
+    "COND-123-MaleHealth",
+    "COND-256-CardiovascularDisease",
+    "COND-180-DiabetesManagement"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-275",
+  "title": "Benign Prostatic Hyperplasia in Men",
+  "subtitle": "What benign prostatic hyperplasia in men is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Evaluation",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Men's Health Patients",
+    "Caregivers",
+    "Health Educators"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "benign prostatic hyperplasia",
+    "BPH",
+    "prostate enlargement",
+    "urinary symptoms",
+    "men's health",
+    "lower urinary tract symptoms",
+    "LUTS",
+    "alpha blockers",
+    "5-alpha reductase inhibitors",
+    "prostate physiology"
+  ],
+  "related_modules": [
+    "COND-127",
+    "COND-193",
+    "COND-250"
+  ],
+  "evidence_strength": "Established evidence with some emerging research on minimally invasive treatments and lifestyle interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
