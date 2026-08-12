@@ -1,0 +1,33 @@
+{
+  "module_id": "FAQ-035",
+  "title": "Why am I sore after exercise?",
+  "subtitle": "Evidence-based answer to the common question: why am i sore after exercise?",
+  "domain": "Frequently Asked Questions",
+  "category": "Exercise FAQs",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "muscle soreness",
+    "exercise",
+    "delayed onset muscle soreness",
+    "DOMS",
+    "muscle fatigue",
+    "muscle damage",
+    "inflammation"
+  ],
+  "related_modules": [
+    "FAQ-010",
+    "FAQ-022",
+    "EXR-101"
+  ],
+  "evidence_strength": "Established evidence for physiology and timeline; moderate evidence for treatment effectiveness; emerging research on individual variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

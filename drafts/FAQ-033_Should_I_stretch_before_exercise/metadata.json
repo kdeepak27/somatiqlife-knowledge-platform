@@ -1,0 +1,37 @@
+{
+  "module_id": "FAQ-033",
+  "title": "Should I stretch before exercise?",
+  "subtitle": "Evidence-based answer to the common question: should i stretch before exercise?",
+  "domain": "Frequently Asked Questions",
+  "category": "Exercise FAQs",
+  "som_stages": [
+    "Pre-exercise",
+    "Warm-up",
+    "Physical Activity"
+  ],
+  "audience": [
+    "General Public",
+    "Athletes",
+    "Fitness Enthusiasts",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "stretching",
+    "pre-exercise",
+    "warm-up",
+    "flexibility",
+    "injury prevention",
+    "performance",
+    "dynamic stretching",
+    "static stretching"
+  ],
+  "related_modules": [
+    "EXR-012",
+    "FIT-045",
+    "INJ-021"
+  ],
+  "evidence_strength": "Established and moderate evidence with some emerging data",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

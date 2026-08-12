@@ -1,0 +1,37 @@
+{
+  "module_id": "FAQ-032",
+  "title": "How can I improve VO2 max?",
+  "subtitle": "Evidence-based answer to the common question: how can i improve vo2 max?",
+  "domain": "Frequently Asked Questions",
+  "category": "Exercise FAQs",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Athletes",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (high school to college)",
+  "keywords": [
+    "VO2 max",
+    "aerobic capacity",
+    "cardiorespiratory fitness",
+    "exercise physiology",
+    "endurance",
+    "interval training",
+    "continuous training",
+    "oxygen uptake",
+    "fitness improvement"
+  ],
+  "related_modules": [
+    "FAQ-015-Exercise-Physiology-Basics",
+    "FAQ-021-Interval-Training-Benefits",
+    "FAQ-047-Safe-Exercise-Programming"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
