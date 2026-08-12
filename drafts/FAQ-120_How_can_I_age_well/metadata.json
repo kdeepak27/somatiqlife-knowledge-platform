@@ -1,0 +1,38 @@
+{
+  "module_id": "FAQ-120",
+  "title": "How can I age well?",
+  "subtitle": "Evidence-based answer to the common question: how can I age well?",
+  "domain": "Frequently Asked Questions",
+  "category": "Healthy Aging FAQs",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Healthy Aging"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "aging",
+    "healthy aging",
+    "longevity",
+    "preventive health",
+    "exercise",
+    "nutrition",
+    "mental health",
+    "sleep",
+    "social engagement",
+    "chronic disease management"
+  ],
+  "related_modules": [
+    "FAQ-101",
+    "HEA-205",
+    "PREV-310"
+  ],
+  "evidence_strength": "Strong evidence supports lifestyle factors like nutrition, exercise, and social engagement in promoting healthy aging, with moderate evidence for the efficacy of certain supplements and cognitive interventions. Genetic influence is significant but modifiable. Areas such as supplement safety and pharmacological anti-aging interventions require further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

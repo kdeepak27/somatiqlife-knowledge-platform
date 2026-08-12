@@ -1,0 +1,39 @@
+{
+  "module_id": "FAQ-119",
+  "title": "What should I track for heart health?",
+  "subtitle": "Evidence-based answer to the common question: what should I track for heart health?",
+  "domain": "Frequently Asked Questions",
+  "category": "Heart Health FAQs",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "heart health",
+    "cardiovascular health",
+    "blood pressure",
+    "cholesterol",
+    "exercise",
+    "diet",
+    "weight",
+    "glucose",
+    "ECG",
+    "heart rate variability"
+  ],
+  "related_modules": [
+    "CARD-001",
+    "FAQ-102",
+    "HTN-015"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
