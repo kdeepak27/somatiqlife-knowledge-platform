@@ -1,0 +1,37 @@
+{
+  "module_id": "BEH-019",
+  "title": "Outcome Goals",
+  "subtitle": "Practical evidence-based approaches to outcome goals.",
+  "domain": "Behavior Change",
+  "category": "Goal Setting",
+  "som_stages": [
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Psychologists",
+    "Behavioral Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Outcome Goals",
+    "Behavior Change",
+    "Goal Setting",
+    "Motivation",
+    "Self-Regulation",
+    "Performance Outcomes",
+    "SMART Goals",
+    "Behavioral Psychology"
+  ],
+  "related_modules": [
+    "BEH-005",
+    "BEH-028",
+    "BEH-037"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence on optimal integration strategies",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
