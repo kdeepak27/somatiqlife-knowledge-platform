@@ -1,0 +1,273 @@
+{
+  "module_id": "COND-281",
+  "title": "Psoriasis",
+  "subtitle": "What psoriasis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers",
+    "Dermatologists"
+  ],
+  "reading_level": "High school to general adult",
+  "keywords": [
+    "Psoriasis",
+    "Autoimmune skin disease",
+    "Plaque psoriasis",
+    "Psoriatic arthritis",
+    "Risk factors",
+    "Treatment",
+    "Topical therapy",
+    "Phototherapy",
+    "Systemic therapy"
+  ],
+  "customer_questions": [
+    "What is psoriasis and how does it affect the skin?",
+    "What causes psoriasis?",
+    "Are there any genetic factors linked to psoriasis?",
+    "What are common symptoms and types of psoriasis?",
+    "How is psoriasis diagnosed by healthcare providers?",
+    "What treatments are available for psoriasis?",
+    "Can lifestyle changes improve psoriasis symptoms?",
+    "Is psoriasis contagious?",
+    "What are the risk factors for developing psoriasis?",
+    "How does psoriasis relate to psoriatic arthritis?",
+    "What safety considerations should patients with psoriasis keep in mind?",
+    "Are there any common myths about psoriasis?"
+  ],
+  "retrieval_summary": "Psoriasis is a chronic autoimmune skin disease characterized by accelerated skin cell proliferation leading to red, scaly plaques primarily on the elbows, knees, scalp, and trunk. It results from a complex interplay of genetic, immunological, and environmental factors that disrupt normal skin cell turnover and immune regulation. Major types include plaque psoriasis, guttate, inverse, pustular, and erythrodermic forms, each with unique clinical features. Synonyms sometimes used include 'psoriatic disease' encompassing skin and joint involvement, notably psoriatic arthritis. Diagnosis is mainly clinical, supported by characteristic lesion morphology; definitive tests are limited. Treatments span topical agents, phototherapy, systemic immunomodulators, and biologics targeting specific immune pathways such as TNF-α and IL-17. Practical significance includes management of symptoms, improving quality of life, and reducing risk of comorbidities such as cardiovascular disease. Limitations exist in predicting individual treatment response and cure; psoriasis is generally chronic with fluctuating course. Safety aspects include monitoring for adverse effects of systemic therapies and managing psychological impact. Awareness of misconceptions such as infectiousness and lifestyle blame improves patient care and social support.",
+  "learning_objectives": [
+    "Understand the definition and pathophysiology of psoriasis.",
+    "Recognize the different clinical presentations and types of psoriasis.",
+    "Identify genetic and environmental risk factors contributing to psoriasis.",
+    "Describe common symptoms and how psoriasis is diagnosed.",
+    "Review available treatment options and their mechanisms.",
+    "Appreciate the relationship between psoriasis and systemic comorbidities.",
+    "Discuss practical lifestyle management strategies for psoriasis patients.",
+    "Explore safety considerations in psoriasis treatment and care.",
+    "Address common misconceptions about psoriasis.",
+    "Highlight the importance of multidisciplinary care including dermatology and rheumatology."
+  ],
+  "definition": "Psoriasis is a chronic, immune-mediated inflammatory skin disorder characterized by the rapid proliferation of keratinocytes resulting in thickened, scaly, erythematous plaques on the skin. It is considered an autoimmune disease involving dysregulation of the innate and adaptive immune systems, particularly T-helper 1 (Th1) and T-helper 17 (Th17) pathways.",
+  "why_this_matters": "Psoriasis affects approximately 2–3% of the global population and can lead to significant physical discomfort, psychological distress, and impaired quality of life. Understanding psoriasis is important because it is associated with systemic inflammation that can increase the risk for comorbidities such as cardiovascular disease, metabolic syndrome, and psoriatic arthritis. Effective management improves symptoms, reduces complications, and supports overall wellbeing.",
+  "sections": [
+    {
+      "heading": "Overview of Psoriasis: Definition and Types",
+      "content": "Psoriasis is a chronic autoimmune skin condition defined by accelerated skin cell turnover causing raised, red, scaly plaques. The most common type is plaque psoriasis, accounting for about 80–90% of cases. Other forms include guttate psoriasis (small drop-like lesions, often triggered by infections), inverse psoriasis (affects skin folds without scaling), pustular psoriasis (characterized by white pustules on red skin), and erythrodermic psoriasis (widespread redness and scaling). Each type varies in appearance, severity, and triggers."
+    },
+    {
+      "heading": "Pathophysiology and Mechanisms",
+      "content": "Psoriasis results from immune system dysregulation involving T-cells, dendritic cells, and proinflammatory cytokines such as tumor necrosis factor alpha (TNF-α), interleukin-17 (IL-17), and interleukin-23 (IL-23). This immune activation leads to excessive keratinocyte proliferation and impaired differentiation, creating thickened plaques. Genetic factors influence immune responses, and environmental triggers can precipitate or worsen lesions."
+    },
+    {
+      "heading": "Genetic and Environmental Risk Factors",
+      "content": "Genetic susceptibility is evidenced by familial clustering and identified psoriasis-associated genes such as HLA-C*06:02 and other loci related to immune regulation. Environmental risk factors include infections (e.g., streptococcal throat infection triggering guttate psoriasis), stress, smoking, alcohol use, obesity, medications (lithium, beta-blockers), and skin injury (Koebner phenomenon). These factors interact to influence disease onset and exacerbation."
+    },
+    {
+      "heading": "Clinical Presentation and Symptoms",
+      "content": "Psoriasis presents as well-demarcated, erythematous plaques with silvery scale, commonly on extensor surfaces, scalp, and lower back. Patients may experience itching, pain from skin fissures, and nail changes like pitting or onycholysis. In psoriatic arthritis, joint pain, swelling, and stiffness occur, often involving distal interphalangeal joints and the spine."
+    },
+    {
+      "heading": "Diagnostic Evaluation",
+      "content": "Diagnosis of psoriasis is primarily clinical, based on typical lesion morphology and distribution. Skin biopsy may be used in atypical cases to confirm diagnosis. Laboratory tests are generally unnecessary but may assess inflammation or comorbidities. Assessment tools like the Psoriasis Area and Severity Index (PASI) quantify disease severity to guide treatment."
+    },
+    {
+      "heading": "Treatment Options",
+      "content": "Psoriasis management depends on severity, disease extent, and patient preference. Topical therapies include corticosteroids, vitamin D analogs (calcipotriene), and calcineurin inhibitors. Phototherapy (UVB, PUVA) is effective for moderate disease. Systemic treatments include methotrexate, cyclosporine, acitretin, and biologics targeting TNF-α, IL-17, or IL-23 pathways. Treatment goals are to reduce lesions, improve quality of life, and minimize adverse effects."
+    },
+    {
+      "heading": "Lifestyle and Self-Management Strategies",
+      "content": "Lifestyle modifications, such as maintaining a healthy weight, quitting smoking, moderating alcohol intake, and stress reduction, can help manage psoriasis. Skin moisturization and avoiding triggers like skin trauma or infections are recommended. Patient education enhances adherence and self-care."
+    },
+    {
+      "heading": "Comorbidities Associated with Psoriasis",
+      "content": "Psoriasis is linked to increased risk for psoriatic arthritis, cardiovascular disease, metabolic syndrome, depression, and inflammatory bowel disease. This systemic inflammatory state necessitates comprehensive care beyond skin lesions, including screening and management of associated conditions."
+    },
+    {
+      "heading": "Safety Considerations in Treatment",
+      "content": "Safety monitoring is crucial, especially with systemic therapies and biologics that can suppress the immune system, increasing risk of infections and malignancy. Regular blood tests assess liver and kidney function. Awareness of medication side effects, drug interactions, and patient vaccination status improves safety."
+    },
+    {
+      "heading": "Common Misconceptions about Psoriasis",
+      "content": "Psoriasis is not contagious and cannot be transmitted through touch or sharing personal items. It is a medical disorder, not caused by poor hygiene or lifestyle choices alone. Many patients face stigma or misunderstanding, underscoring the importance of public education to dispel myths and support affected individuals."
+    },
+    {
+      "heading": "Psychosocial Impact and Quality of Life",
+      "content": "Psoriasis often affects mental health, causing anxiety, depression, and social isolation. Visible and symptomatic disease can impact self-esteem and daily activities. Psychological support, counseling, and patient support groups are important adjuncts to medical treatment."
+    },
+    {
+      "heading": "Emerging Therapies and Research Directions",
+      "content": "New treatments targeting specific immune pathways, such as IL-23 inhibitors, show promise with improved efficacy and safety profiles. Research continues to explore genetic markers for personalized therapy and novel delivery systems. Understanding long-term outcomes and comorbidity management remains an area of active investigation."
+    }
+  ],
+  "practical_guidance": [
+    "Consult a dermatologist for accurate diagnosis and tailored treatment.",
+    "Follow prescribed regimens consistently for best symptom control.",
+    "Use moisturizers regularly to reduce scaling and skin dryness.",
+    "Avoid known triggers such as smoking, excessive alcohol, and stress.",
+    "Monitor for signs of psoriatic arthritis or systemic symptoms.",
+    "Discuss potential side effects of systemic treatments with healthcare providers.",
+    "Maintain a healthy lifestyle including balanced diet and exercise.",
+    "Seek psychological support if experiencing distress related to psoriasis."
+  ],
+  "safety_notes": [
+    "Systemic immunosuppressants increase infection risk; report symptoms promptly.",
+    "Regular blood monitoring is necessary during systemic therapy.",
+    "Avoid abrupt discontinuation of prescribed medications without medical advice.",
+    "Use phototherapy under professional supervision to minimize risks.",
+    "Be alert to skin changes suggestive of adverse drug reactions or skin cancer."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Psoriasis is contagious and can be caught by touching someone with the condition.",
+      "reality": "Psoriasis is an autoimmune condition and is not contagious; it cannot be transmitted by contact."
+    },
+    {
+      "misconception": "Poor hygiene or dirt causes psoriasis.",
+      "reality": "Psoriasis is caused by immune system dysfunction, not by hygiene or cleanliness."
+    },
+    {
+      "misconception": "Psoriasis only affects the skin and is purely cosmetic.",
+      "reality": "Psoriasis can involve systemic inflammation and increase risk for arthritis and cardiovascular disease."
+    },
+    {
+      "misconception": "Sunlight always worsens psoriasis.",
+      "reality": "Moderate controlled phototherapy can improve psoriasis, although sunburn can worsen lesions."
+    }
+  ],
+  "clinical_pearls": [
+    "Early diagnosis and treatment can reduce disease burden and prevent complications.",
+    "Biologic therapies targeting specific cytokines have revolutionized psoriasis care.",
+    "Comprehensive care includes screening for cardiovascular and metabolic comorbidities.",
+    "Patient education improves adherence and reduces stigma.",
+    "Psychosocial support is an essential component of holistic management.",
+    "Topical therapy remains effective for mild disease and as adjunctive treatment.",
+    "Lifestyle interventions can complement medical therapy.",
+    "Regular follow-up is important to assess response and modify treatments."
+  ],
+  "key_takeaways": [
+    "Psoriasis is a chronic autoimmune skin disease characterized by red, scaly plaques.",
+    "Genetic predisposition and environmental triggers contribute to disease onset and flares.",
+    "There are multiple clinical types of psoriasis with varied presentations.",
+    "Diagnosis is mostly clinical; skin biopsy may be done when uncertain.",
+    "Treatment includes topical agents, phototherapy, systemic immunosuppressants, and biologics.",
+    "Psoriasis has systemic implications including psoriatic arthritis and cardiovascular risk.",
+    "Lifestyle changes such as smoking cessation and stress management support disease control.",
+    "Psoriasis is not contagious, and misconceptions can cause social stigma."
+  ],
+  "glossary": [
+    {
+      "term": "Psoriasis",
+      "definition": "A chronic autoimmune skin condition that causes red, scaly plaques due to rapid skin cell growth."
+    },
+    {
+      "term": "Plaque Psoriasis",
+      "definition": "The most common form of psoriasis characterized by raised, inflamed, and scaly patches on the skin."
+    },
+    {
+      "term": "Keratinocytes",
+      "definition": "The primary type of cell found in the epidermis, responsible for forming the protective outer layer of the skin."
+    },
+    {
+      "term": "Autoimmune Disease",
+      "definition": "A condition in which the immune system mistakenly attacks the body's own cells."
+    },
+    {
+      "term": "Cytokines",
+      "definition": "Small proteins released by cells that have a specific effect on interactions and communication between cells, especially in immune responses."
+    },
+    {
+      "term": "Biologic Therapy",
+      "definition": "Medications derived from living organisms that target specific components of the immune system to treat diseases like psoriasis."
+    },
+    {
+      "term": "Phototherapy",
+      "definition": "Treatment using specific wavelengths of ultraviolet light to reduce skin inflammation and slow skin cell growth."
+    },
+    {
+      "term": "Psoriatic Arthritis",
+      "definition": "An inflammatory arthritis associated with psoriasis affecting joints and connective tissue."
+    }
+  ],
+  "related_modules": [
+    "COND-315",
+    "COND-410",
+    "THER-204"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Typical Plaque Psoriasis Lesions",
+      "illustration_type": "Photograph",
+      "description": "Close-up image showing characteristic red, raised skin plaques with silvery scales on the elbow and knee.",
+      "alt_text": "Red scaly plaques on elbow and knee representing plaque psoriasis."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Immune Pathways in Psoriasis",
+      "illustration_type": "Diagram",
+      "description": "Diagram illustrating immune cells and cytokines (TNF-α, IL-17, IL-23) contributing to keratinocyte proliferation in psoriasis.",
+      "alt_text": "Diagram of immune system pathways involved in psoriasis inflammation."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Psoriasis Clinical Types",
+      "illustration_type": "Composite Image",
+      "description": "Images depicting different types of psoriasis: plaque, guttate, inverse, pustular, and erythrodermic forms.",
+      "alt_text": "Visual representation of various clinical presentations of psoriasis."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Treatment Modalities for Psoriasis",
+      "illustration_type": "Chart",
+      "description": "Flowchart summarizing topical, phototherapy, systemic, and biologic treatment options for psoriasis.",
+      "alt_text": "Chart outlining major treatment options for psoriasis by severity."
+    }
+  ],
+  "references": [
+    {
+      "title": "Psoriasis",
+      "organization_or_authors": "National Psoriasis Foundation",
+      "year": "2023",
+      "identifier": "https://www.psoriasis.org/about-psoriasis/",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Diagnosis and Management of Psoriasis: A Review",
+      "organization_or_authors": "American Academy of Dermatology",
+      "year": "2022",
+      "identifier": "https://www.aad.org/member/clinical-quality/guidelines/psoriasis",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Understanding the Systemic Nature of Psoriasis",
+      "organization_or_authors": "Menter A et al., Journal of the American Academy of Dermatology",
+      "year": "2021",
+      "identifier": "No DOI available",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Biologic Therapies for Psoriasis: Recent Advances",
+      "organization_or_authors": "Smith CH et al., Lancet",
+      "year": "2020",
+      "identifier": "No DOI available",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Psoriatic Arthritis: An Update",
+      "organization_or_authors": "Gladman DD et al., The New England Journal of Medicine",
+      "year": "2022",
+      "identifier": "No DOI available",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence for clinical features and standard treatments; moderate to emerging evidence for novel therapies and lifestyle interventions; ongoing research on genetic markers and systemic comorbidities.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

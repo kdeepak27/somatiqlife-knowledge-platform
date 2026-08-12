@@ -1,0 +1,35 @@
+{
+  "module_id": "COND-283",
+  "title": "Acne",
+  "subtitle": "What acne is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Identification",
+    "Evaluation",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "acne",
+    "pimples",
+    "comedones",
+    "sebaceous glands",
+    "skin inflammation",
+    "acne vulgaris"
+  ],
+  "related_modules": [
+    "COND-234-Dermatitis",
+    "COND-102-Hormonal-Health",
+    "COND-310-Skin-Infections"
+  ],
+  "evidence_strength": "Well-established evidence for acne causes and treatments; moderate evidence for dietary impacts; emerging evidence on microbiome role.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

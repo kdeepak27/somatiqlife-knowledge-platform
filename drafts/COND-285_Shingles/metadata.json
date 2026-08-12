@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-285",
+  "title": "Shingles",
+  "subtitle": "What shingles is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Awareness",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Men's Health",
+    "Caregivers"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "shingles",
+    "herpes zoster",
+    "varicella-zoster virus",
+    "rash",
+    "pain",
+    "postherpetic neuralgia",
+    "vaccination",
+    "antiviral therapy"
+  ],
+  "related_modules": [
+    "COND-112",
+    "COND-335",
+    "IMM-203"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and systematic reviews with some emerging evidence in pathophysiologic mechanisms and vaccine long-term effectiveness.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

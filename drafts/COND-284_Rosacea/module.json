@@ -1,0 +1,276 @@
+{
+  "module_id": "COND-284",
+  "title": "Rosacea",
+  "subtitle": "What rosacea is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Awareness",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Primary Care Providers",
+    "Dermatology Patients"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "rosacea",
+    "skin redness",
+    "facial flushing",
+    "telangiectasia",
+    "inflammation",
+    "skin care",
+    "vascular dysfunction"
+  ],
+  "customer_questions": [
+    "What is rosacea and how does it affect the skin?",
+    "What causes rosacea to develop?",
+    "Are there particular risk factors that increase the chance of rosacea?",
+    "What are the common symptoms and signs of rosacea?",
+    "How is rosacea diagnosed by healthcare professionals?",
+    "What treatments are available for managing rosacea?",
+    "Are there any lifestyle changes that help with rosacea symptoms?",
+    "Is rosacea related to acne or other skin conditions?",
+    "Can rosacea be prevented or cured?",
+    "What are the safety considerations when using rosacea treatments?",
+    "Does rosacea affect men differently than women?",
+    "Can rosacea lead to complications if untreated?"
+  ],
+  "retrieval_summary": "Rosacea is a chronic inflammatory skin condition primarily affecting the central face, characterized by persistent redness (erythema), flushing, visible blood vessels (telangiectasia), pimples, and sometimes thickened skin. It results from a complex interaction of genetic, vascular, environmental, and immune system factors, causing inflammation and vascular hyperreactivity. Key synonyms include \"adult acne\" (though this is a misnomer) and \"facial redness disorder.\" While it most commonly affects adults aged 30-50, particularly those with fair skin, rosacea can have varying presentations. Clinically, rosacea includes different subtypes such as erythematotelangiectatic, papulopustular, phymatous, and ocular rosacea. Diagnosis relies on clinical evaluation by a healthcare professional with no definitive laboratory test. Current treatments focus on symptom management, including topical and oral medications targeting inflammation and vascular changes, alongside lifestyle modifications to avoid known triggers like sun exposure, hot beverages, or stress. Importantly, rosacea is not contagious nor caused by poor hygiene, and it has no cure but can be effectively controlled. Safety considerations include potential side effects of medications (e.g., skin irritation, antibiotic resistance) and the need to avoid overuse of harsh skin products. Limitations of current evidence highlight the heterogeneity of rosacea presentations and response variability to treatments, necessitating personalized management plans. This module provides comprehensive, evidence-calibrated education on rosacea to support patient understanding, guide clinical discussions, and inform lifestyle choices that promote skin health and quality of life.",
+  "learning_objectives": [
+    "Define rosacea and recognize its clinical features.",
+    "Identify primary causes and risk factors linked to rosacea.",
+    "Describe common signs and symptoms of rosacea and its subtypes.",
+    "Understand the diagnostic approaches for rosacea.",
+    "Summarize current treatment options and their mechanisms.",
+    "Explain lifestyle modifications beneficial for rosacea management.",
+    "Recognize the safety considerations in rosacea treatment.",
+    "Dispel common misconceptions about rosacea.",
+    "Appreciate the impact of rosacea on quality of life.",
+    "Develop a foundation for patient education and self-care strategies."
+  ],
+  "definition": "Rosacea is a chronic inflammatory dermatological condition primarily affecting the central facial skin characterized by recurrent flushing, persistent redness (erythema), visible blood vessels (telangiectasia), papules, pustules, and in some cases skin thickening (phymatous changes).",
+  "why_this_matters": "Rosacea is a common yet under-recognized skin disorder that can significantly affect physical appearance, psychological well-being, and quality of life. Understanding its causes, symptoms, and management empowers patients and healthcare providers to reduce symptoms, prevent complications, and improve daily life.",
+  "sections": [
+    {
+      "heading": "What Is Rosacea?",
+      "content": "Rosacea is a chronic inflammatory skin condition that affects mainly the face. It is marked by episodes of facial redness, visible small blood vessels, bumps resembling acne, and sometimes a thickening or swelling of the skin, especially on the nose (rhinophyma). Rosacea is not contagious and tends to progress slowly over time if untreated. It most commonly impacts the central face including cheeks, nose, forehead, and chin."
+    },
+    {
+      "heading": "Causes and Mechanisms of Rosacea",
+      "content": "The exact cause of rosacea is not fully understood. Multiple factors are implicated, including genetic predisposition, abnormalities in facial blood vessels leading to vascular hyperreactivity, immune system dysregulation causing inflammation, presence of skin microorganisms such as Demodex mites, and environmental triggers like ultraviolet light. These factors interplay to cause chronic inflammation and visible facial redness."
+    },
+    {
+      "heading": "Risk Factors for Developing Rosacea",
+      "content": "Risk factors include fair skin phototypes (Fitzpatrick I-III), family history of rosacea, age between 30 and 50 years, female gender (though men often have more severe forms), and environmental exposures such as sun exposure or extreme temperatures. Emotional stress and certain dietary factors also contribute to flare-ups."
+    },
+    {
+      "heading": "Symptoms and Clinical Features",
+      "content": "Common symptoms include transient or persistent facial redness, frequent flushing episodes, visible dilated blood vessels (telangiectasia), appearance of papules and pustules resembling acne, burning or stinging sensations, dry skin, and in some cases, thickened skin especially around the nose. Ocular rosacea involves the eyes with symptoms like irritation, dryness, redness, and swelling."
+    },
+    {
+      "heading": "Types and Subtypes of Rosacea",
+      "content": "Rosacea is classified into four primary subtypes: 1) Erythematotelangiectatic rosacea characterized by flushing and redness with visible blood vessels, 2) Papulopustular rosacea involving redness with acne-like bumps, 3) Phymatous rosacea leading to skin thickening and swelling often of the nose (rhinophyma), and 4) Ocular rosacea affecting the eyes causing inflammation and irritation. Some patients may present with features of multiple subtypes."
+    },
+    {
+      "heading": "Diagnosis of Rosacea",
+      "content": "Rosacea diagnosis is clinical, based on physical examination of characteristic symptoms. No specific laboratory tests or biopsies are typically needed. Diagnostic criteria include presence of flushing combined with persistent central facial erythema, and/or papules/pustules without comedones. Diagnosis includes excluding other conditions such as acne vulgaris, lupus, or seborrheic dermatitis."
+    },
+    {
+      "heading": "Medical Treatments for Rosacea",
+      "content": "Treatment options include topical agents like metronidazole, azelaic acid, ivermectin, and brimonidine which reduce inflammation and redness. Oral antibiotics such as doxycycline are often used for anti-inflammatory effects. Laser and light-based therapies target visible blood vessels and redness. In severe phymatous rosacea, surgical and dermatologic procedures may be warranted. Treatment choice depends on subtype and severity."
+    },
+    {
+      "heading": "Lifestyle and Self-Care Strategies",
+      "content": "Patients benefit from identifying and avoiding personalized triggers such as sun exposure, hot drinks, spicy foods, alcohol, and stress. Daily skin care using gentle cleansers and moisturizers avoiding irritants is recommended. Sun protection with broad-spectrum sunscreen is essential. Adequate sleep and stress management may reduce flares. Patient education enhances adherence and symptom control."
+    },
+    {
+      "heading": "Safety Considerations in Rosacea Management",
+      "content": "Some treatments can cause skin irritation, dryness, or photosensitivity. Oral antibiotics should be used under medical supervision to avoid resistance. Laser treatments require experienced providers to minimize adverse effects. Patients should avoid harsh skin products and overuse of steroids on the face as topical steroids can exacerbate rosacea."
+    },
+    {
+      "heading": "Common Misconceptions About Rosacea",
+      "content": "Rosacea is often mistaken for acne, allergy, or simply skin redness from poor hygiene, which is untrue. It is not contagious. The belief that it is caused by poor cleanliness or lack of washing is incorrect. Rosacea cannot be cured but can be effectively managed. Some think it only affects women, but men can experience severe disease."
+    },
+    {
+      "heading": "Prognosis and Impact on Quality of Life",
+      "content": "Rosacea is a chronic condition with fluctuating severity. While not life-threatening, it can significantly impact mental health causing embarrassment, anxiety, and social withdrawal. Early treatment improves outcomes and limits progression. Ocular involvement requires prompt management to prevent vision problems. Regular follow-up supports long-term care."
+    }
+  ],
+  "practical_guidance": [
+    "Always consult a healthcare professional for diagnosis and individualized treatment.",
+    "Identify and avoid personal rosacea triggers to reduce flare-ups.",
+    "Use gentle, non-irritating skin care products formulated for sensitive skin.",
+    "Apply broad-spectrum sunscreen daily even on cloudy days.",
+    "Follow prescribed medication regimens and discuss side effects with your provider.",
+    "Do not use topical steroids on the face unless directed by a doctor.",
+    "Consider laser or light therapy options if redness and blood vessels are prominent.",
+    "Maintain good eye hygiene if ocular rosacea symptoms appear and seek ophthalmologic care.",
+    "Manage stress through relaxation techniques to help control symptoms.",
+    "Monitor for symptom worsening or new signs and report to your healthcare provider."
+  ],
+  "safety_notes": [
+    "Avoid unprescribed topical steroids on the face as they can worsen rosacea.",
+    "Monitor for signs of antibiotic side effects such as gastrointestinal upset or photosensitivity with oral doxycycline.",
+    "Protect skin from excessive sun exposure to prevent exacerbation of symptoms.",
+    "Laser and light therapies should be performed by trained specialists to minimize risk of burns or scarring.",
+    "Patch test new skin products if you have sensitive skin to avoid irritation."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Rosacea is the same as acne.",
+      "reality": "While rosacea can cause acne-like bumps, it is a separate inflammatory condition with different causes and treatment."
+    },
+    {
+      "misconception": "Rosacea is caused by poor hygiene.",
+      "reality": "Rosacea is not caused by cleanliness issues, but by a combination of vascular and immune system factors."
+    },
+    {
+      "misconception": "Rosacea is contagious.",
+      "reality": "Rosacea cannot be spread from person to person by contact."
+    },
+    {
+      "misconception": "Rosacea only affects women.",
+      "reality": "Although more common in women, men can develop rosacea and often have more severe forms."
+    }
+  ],
+  "clinical_pearls": [
+    "Rosacea often presents with flushing that transitions to persistent erythema over time.",
+    "Demodex mite overpopulation may contribute but is not the sole cause of rosacea.",
+    "Subtyping rosacea guides targeted treatment selection.",
+    "Avoidance of triggers significantly reduces flare frequency and severity.",
+    "Topical brimonidine can reduce visible redness by constricting blood vessels.",
+    "Oral doxycycline at sub-antimicrobial doses is effective for inflammation.",
+    "Phymatous rosacea requires dermatologic surgical evaluation.",
+    "Ocular rosacea may present with subtle symptoms and needs specialist referral."
+  ],
+  "key_takeaways": [
+    "Rosacea is a chronic inflammatory skin disorder primarily affecting facial blood vessels and skin.",
+    "It involves genetic, vascular, immune, and environmental factors leading to redness and inflammation.",
+    "The condition affects both men and women, more commonly in fair-skinned adults aged 30-50.",
+    "Symptoms include flushing, redness, visible blood vessels, acne-like bumps, and sometimes skin thickening.",
+    "Diagnosis is clinical; no specific lab test confirms rosacea.",
+    "Management involves topical and oral medications, laser therapy, and lifestyle modifications.",
+    "Avoiding known triggers such as sun and hot beverages helps control symptoms.",
+    "Rosacea is not contagious, not caused by poor hygiene, and cannot be cured but can be managed effectively."
+  ],
+  "glossary": [
+    {
+      "term": "Rosacea",
+      "definition": "A chronic inflammatory skin condition characterized by facial redness, flushing, visible blood vessels, and bumps."
+    },
+    {
+      "term": "Erythema",
+      "definition": "Redness of the skin caused by increased blood flow in superficial capillaries."
+    },
+    {
+      "term": "Telangiectasia",
+      "definition": "Small, widened blood vessels visible near the surface of the skin, often called \"spider veins.\""
+    },
+    {
+      "term": "Papules",
+      "definition": "Small, raised, solid pimples or swelling on the skin without pus."
+    },
+    {
+      "term": "Pustules",
+      "definition": "Small, inflamed, pus-filled lesions on the skin."
+    },
+    {
+      "term": "Phymatous Rosacea",
+      "definition": "A subtype of rosacea characterized by thickened skin and irregular surface nodules, often on the nose."
+    },
+    {
+      "term": "Ocular Rosacea",
+      "definition": "Rosacea affecting the eyes causing redness, irritation, and sometimes eyelid inflammation."
+    },
+    {
+      "term": "Demodex Mites",
+      "definition": "Microscopic mites that live in hair follicles and have been associated with rosacea."
+    },
+    {
+      "term": "Topical Steroids",
+      "definition": "Medications applied to the skin to reduce inflammation but which may worsen rosacea in some cases."
+    },
+    {
+      "term": "Flushing",
+      "definition": "A temporary redness and warmth of the face due to increased blood flow."
+    }
+  ],
+  "related_modules": [
+    "COND-102-Acne",
+    "COND-310-Seborrheic-Dermatitis",
+    "COND-245-Dermatitis",
+    "COND-408-Ocular-Diseases"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-rosacea-01",
+      "title": "Facial Areas Commonly Affected by Rosacea",
+      "illustration_type": "Diagram",
+      "description": "A front-facing illustration highlighting the central facial areas typically affected by rosacea including the cheeks, nose, forehead, and chin.",
+      "alt_text": "Diagram of face showing rosacea-affected areas in red."
+    },
+    {
+      "illustration_id": "ILL-rosacea-02",
+      "title": "Types of Rosacea",
+      "illustration_type": "Infographic",
+      "description": "Visual infographic depicting the four subtypes of rosacea with characteristic signs such as redness, papules, phymatous changes, and ocular symptoms.",
+      "alt_text": "Infographic showing features of erythematotelangiectatic, papulopustular, phymatous, and ocular rosacea."
+    },
+    {
+      "illustration_id": "ILL-rosacea-03",
+      "title": "Mechanisms Underlying Rosacea Pathogenesis",
+      "illustration_type": "Conceptual Diagram",
+      "description": "Diagram illustrating the interplay of vascular abnormalities, immune system dysregulation, microbial presence, and environmental triggers in rosacea development.",
+      "alt_text": "Conceptual diagram of causative factors in rosacea including blood vessels, immune cells, mites, and UV rays."
+    },
+    {
+      "illustration_id": "ILL-rosacea-04",
+      "title": "Common Triggers of Rosacea Flare-Ups",
+      "illustration_type": "Chart",
+      "description": "A chart listing and illustrating common rosacea triggers such as sun exposure, spicy foods, alcohol, stress, and temperature extremes.",
+      "alt_text": "Chart showing icons of rosacea triggers like sun, chili pepper, wine glass, and thermometer."
+    }
+  ],
+  "references": [
+    {
+      "title": "Rosacea: Clinical Features, Pathophysiology, and Treatment",
+      "organization_or_authors": "National Rosacea Society",
+      "year": "2022",
+      "identifier": "",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Evidence-Based Guideline for the Treatment of Rosacea",
+      "organization_or_authors": "American Academy of Dermatology",
+      "year": "2019",
+      "identifier": "https://www.aad.org/rosacea-guidelines",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Rosacea: An Update on Pathogenesis and Treatment",
+      "organization_or_authors": "Journal of the American Academy of Dermatology",
+      "year": "2021",
+      "identifier": "https://www.jaad.org/article/S0190-9622(21)00123-4/fulltext",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Demodex and Rosacea",
+      "organization_or_authors": "Dermatology Clinics",
+      "year": "2018",
+      "identifier": "https://doi.org/10.1016/j.det.2018.02.001",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Laser Therapy in Rosacea Management",
+      "organization_or_authors": "Dermatologic Surgery",
+      "year": "2020",
+      "identifier": "https://doi.org/10.1097/DSS.0000000000002476",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established and moderate evidence; ongoing research on pathophysiology and novel treatments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
