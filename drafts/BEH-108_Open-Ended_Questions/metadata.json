@@ -1,0 +1,36 @@
+{
+  "module_id": "BEH-108",
+  "title": "Open-Ended Questions",
+  "subtitle": "Communication principles, evidence, and practical application of open-ended questions.",
+  "domain": "Behavior Change",
+  "category": "Coaching and Communication",
+  "som_stages": [
+    "Engagement",
+    "Exploration",
+    "Action Planning"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Behavioral Counselors",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Open-Ended Questions",
+    "Communication",
+    "Motivational Interviewing",
+    "Behavior Change",
+    "Patient-Centered Communication",
+    "Active Listening",
+    "Coaching Techniques"
+  ],
+  "related_modules": [
+    "BEH-102-MotivationalInterviewing",
+    "COM-205-PatientCenteredCommunication",
+    "BEH-109-ActiveListeningTechniques"
+  ],
+  "evidence_strength": "Established and moderate evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

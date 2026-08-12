@@ -1,0 +1,37 @@
+{
+  "module_id": "BEH-106",
+  "title": "Health Coaching",
+  "subtitle": "Communication principles, evidence, and practical application of health coaching.",
+  "domain": "Behavior Change",
+  "category": "Coaching and Communication",
+  "som_stages": [
+    "Initiation",
+    "Maintenance",
+    "Relapse Prevention"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Healthcare Providers",
+    "Behavioral Scientists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "health coaching",
+    "behavior change",
+    "communication",
+    "motivational interviewing",
+    "self-efficacy",
+    "goal setting",
+    "patient engagement",
+    "chronic disease management"
+  ],
+  "related_modules": [
+    "BEH-101-BehaviorChangeBasics",
+    "BEH-202-MotivationalInterviewing",
+    "BEH-303-PatientEngagement"
+  ],
+  "evidence_strength": "Moderate - strong evidence with some variability due to heterogeneity in study designs and interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
