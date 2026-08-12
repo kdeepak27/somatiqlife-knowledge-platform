@@ -1,0 +1,39 @@
+{
+  "module_id": "FAQ-092",
+  "title": "What causes fatty liver?",
+  "subtitle": "Evidence-based answer to the common question: what causes fatty liver?",
+  "domain": "Frequently Asked Questions",
+  "category": "Metabolic Health FAQs",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Grades 8-12)",
+  "keywords": [
+    "fatty liver",
+    "nonalcoholic fatty liver disease",
+    "NAFLD",
+    "hepatic steatosis",
+    "liver fat",
+    "metabolic syndrome",
+    "obesity",
+    "insulin resistance",
+    "alcoholic fatty liver disease",
+    "liver health"
+  ],
+  "related_modules": [
+    "FAQ-088",
+    "FAQ-091",
+    "PATH-015",
+    "MET-030"
+  ],
+  "evidence_strength": "Established evidence based on clinical guidelines, epidemiological studies, and fundamental metabolic research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
