@@ -1,0 +1,38 @@
+{
+  "module_id": "BEH-112",
+  "title": "Giving Health Feedback",
+  "subtitle": "Communication principles, evidence, and practical application of giving health feedback.",
+  "domain": "Behavior Change",
+  "category": "Coaching and Communication",
+  "som_stages": [
+    "Awareness",
+    "Preparation",
+    "Action"
+  ],
+  "audience": [
+    "Health Coaches",
+    "Clinicians",
+    "Patients",
+    "Caregivers",
+    "Public Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Health Feedback",
+    "Communication",
+    "Behavior Change",
+    "Motivational Interviewing",
+    "Feedback Techniques",
+    "Patient Engagement",
+    "Health Coaching",
+    "Coaching Communication"
+  ],
+  "related_modules": [
+    "BEH-105",
+    "BEH-107",
+    "COM-204"
+  ],
+  "evidence_strength": "Established evidence supports motivational interviewing and empathetic communication to enhance health feedback effectiveness. Moderate evidence suggests tailoring and digital tools improve outcomes, but further research is needed on long-term effects and diverse populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

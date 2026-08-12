@@ -1,0 +1,35 @@
+{
+  "module_id": "BEH-111",
+  "title": "Shared Decision Making",
+  "subtitle": "Communication principles, evidence, and practical application of shared decision making.",
+  "domain": "Behavior Change",
+  "category": "Coaching and Communication",
+  "som_stages": [
+    "Engagement",
+    "Behavior Change",
+    "Maintenance"
+  ],
+  "audience": [
+    "Patients",
+    "Health Coaches",
+    "Healthcare Providers",
+    "Medical Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "shared decision making",
+    "patient-centered care",
+    "informed consent",
+    "health communication",
+    "decision aids",
+    "patient involvement"
+  ],
+  "related_modules": [
+    "BEH-102",
+    "COM-210",
+    "PAT-305"
+  ],
+  "evidence_strength": "Established evidence supports shared decision making's benefits on patient knowledge and satisfaction with moderate evidence on long-term clinical outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
