@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-247",
+  "title": "Irregular Menstruation",
+  "subtitle": "What irregular menstruation is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Self-Management"
+  ],
+  "audience": [
+    "General Public",
+    "Women",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Irregular menstruation",
+    "Menstrual cycle",
+    "Menstrual irregularity",
+    "Oligomenorrhea",
+    "Polymenorrhea",
+    "Amenorrhea",
+    "Dysmenorrhea",
+    "Hormonal imbalance",
+    "PCOS",
+    "Endometriosis"
+  ],
+  "related_modules": [
+    "COND-158",
+    "COND-201",
+    "COND-305"
+  ],
+  "evidence_strength": "Established evidence with guidance from clinical practice and expert consensus.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

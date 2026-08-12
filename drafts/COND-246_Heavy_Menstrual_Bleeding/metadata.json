@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-246",
+  "title": "Heavy Menstrual Bleeding",
+  "subtitle": "What heavy menstrual bleeding is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Recognition",
+    "Diagnosis",
+    "Management",
+    "Follow-up"
+  ],
+  "audience": [
+    "General public",
+    "Patients",
+    "Caregivers",
+    "Primary care providers",
+    "Gynecologists"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "Heavy menstrual bleeding",
+    "Menorrhagia",
+    "Abnormal uterine bleeding",
+    "Menstrual disorders",
+    "Menstrual physiology",
+    "Bleeding disorders"
+  ],
+  "related_modules": [
+    "COND-132: Menstrual Disorders Overview",
+    "COND-178: Uterine Fibroids",
+    "COND-210: Iron Deficiency Anemia"
+  ],
+  "evidence_strength": "Established evidence for definition, causes, common treatments; moderate evidence for emerging therapies; limited evidence for some lifestyle interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

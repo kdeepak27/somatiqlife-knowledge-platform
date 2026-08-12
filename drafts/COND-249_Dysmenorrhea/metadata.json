@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-249",
+  "title": "Dysmenorrhea",
+  "subtitle": "What dysmenorrhea is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Assessment",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Primary Care Clinicians",
+    "Gynecologists"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "dysmenorrhea",
+    "menstrual pain",
+    "primary dysmenorrhea",
+    "secondary dysmenorrhea",
+    "prostaglandins",
+    "NSAIDs",
+    "menstrual cramps",
+    "endometriosis",
+    "adenomyosis",
+    "pelvic pain"
+  ],
+  "related_modules": [
+    "COND-210",
+    "COND-314",
+    "COND-501"
+  ],
+  "evidence_strength": "Established evidence with some areas of emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
