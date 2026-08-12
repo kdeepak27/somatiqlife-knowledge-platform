@@ -1,0 +1,35 @@
+{
+  "module_id": "FAQ-030",
+  "title": "What is Zone 2 training?",
+  "subtitle": "Evidence-based answer to the common question: what is zone 2 training?",
+  "domain": "Frequently Asked Questions",
+  "category": "Exercise FAQs",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General public",
+    "Fitness enthusiasts",
+    "Endurance athletes",
+    "Healthcare professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Zone 2 training",
+    "Aerobic training",
+    "Heart rate zones",
+    "Endurance exercise",
+    "Cardiovascular fitness",
+    "Fat oxidation",
+    "Exercise physiology"
+  ],
+  "related_modules": [
+    "EXR-002",
+    "FAQ-002",
+    "HEA-021"
+  ],
+  "evidence_strength": "Moderate evidence supports Zone 2 training benefits for aerobic capacity and metabolic health, while more high-quality trials are needed for standardized protocols.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

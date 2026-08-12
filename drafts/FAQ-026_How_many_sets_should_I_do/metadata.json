@@ -1,0 +1,36 @@
+{
+  "module_id": "FAQ-026",
+  "title": "How many sets should I do?",
+  "subtitle": "Evidence-based answer to the common question: how many sets should I do?",
+  "domain": "Frequently Asked Questions",
+  "category": "Exercise FAQs",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General public",
+    "Exercise beginners",
+    "Fitness enthusiasts",
+    "Health professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Exercise sets",
+    "Strength training",
+    "Resistance training",
+    "Workout volume",
+    "Muscle hypertrophy",
+    "Training frequency",
+    "Exercise prescription"
+  ],
+  "related_modules": [
+    "FAQ-014",
+    "FAQ-018",
+    "FAQ-031"
+  ],
+  "evidence_strength": "Established evidence supports multiple sets for hypertrophy and strength gains, with moderate evidence regarding optimal upper limits and individual variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
