@@ -1,0 +1,41 @@
+{
+  "module_id": "BEH-078",
+  "title": "Food Environment",
+  "subtitle": "How food environment shapes behavior and practical strategies for improvement.",
+  "domain": "Behavior Change",
+  "category": "Environment and Social Support",
+  "som_stages": [
+    "Awareness",
+    "Motivation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Behavioral Scientists",
+    "Nutritionists",
+    "Policy Makers"
+  ],
+  "reading_level": "Intermediate - General Public",
+  "keywords": [
+    "food environment",
+    "behavior change",
+    "nutrition",
+    "obesogenic environment",
+    "food access",
+    "food deserts",
+    "social determinants",
+    "healthy eating",
+    "dietary behavior",
+    "public health"
+  ],
+  "related_modules": [
+    "BEH-054-BehaviorChangePrinciples",
+    "BEH-102-SocialSupport",
+    "BEH-120-NutritionBehavior"
+  ],
+  "evidence_strength": "Established evidence with emerging areas and noted limitations",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
