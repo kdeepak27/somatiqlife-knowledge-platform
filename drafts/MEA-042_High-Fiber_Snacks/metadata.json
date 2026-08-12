@@ -1,0 +1,38 @@
+{
+  "module_id": "MEA-042",
+  "title": "High-Fiber Snacks",
+  "subtitle": "Practical ways to plan high-fiber snacks for satiety and nutrient quality.",
+  "domain": "Meal Planning",
+  "category": "Snack Plans",
+  "som_stages": [
+    "Planning",
+    "Implementation"
+  ],
+  "audience": [
+    "Consumers",
+    "Dietitians",
+    "Nutritionists",
+    "Health Coaches"
+  ],
+  "reading_level": "8th grade to general adult",
+  "keywords": [
+    "fiber",
+    "dietary fiber",
+    "snacks",
+    "satiety",
+    "nutrition",
+    "meal planning",
+    "healthy snacks",
+    "gut health",
+    "bowel function",
+    "weight management"
+  ],
+  "related_modules": [
+    "MEA-015-Digestive-Health",
+    "MEA-030-Weight-Management",
+    "MEA-058-Nutrition-Basics"
+  ],
+  "evidence_strength": "Established evidence for benefits in satiety, digestive health, and weight management from high-fiber snacks; moderate evidence supporting prebiotic effects; emerging evidence on fiber types and individual responses.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

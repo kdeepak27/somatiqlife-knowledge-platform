@@ -1,0 +1,35 @@
+{
+  "module_id": "MEA-043",
+  "title": "Healthy Indian Snacks",
+  "subtitle": "Practical ways to plan healthy Indian snacks for satiety and nutrient quality.",
+  "domain": "Meal Planning",
+  "category": "Snack Plans",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Consumer",
+    "Nutritionist",
+    "Health Coach"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "Indian snacks",
+    "healthy snacks",
+    "satiety",
+    "nutrient quality",
+    "meal planning",
+    "snack nutrition",
+    "traditional snacks"
+  ],
+  "related_modules": [
+    "MEA-021: Indian Traditional Meals",
+    "MEA-054: Plant-Based Protein Options",
+    "MEA-033: Healthy Cooking Techniques"
+  ],
+  "evidence_strength": "Moderate evidence from observational studies and some clinical trials supports nutrient-based recommendations; limited direct trials on Indian snack-specific health outcomes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,35 @@
+{
+  "module_id": "MEA-041",
+  "title": "High-Protein Snacks",
+  "subtitle": "Practical ways to plan high-protein snacks for satiety and nutrient quality.",
+  "domain": "Meal Planning",
+  "category": "Snack Plans",
+  "som_stages": [
+    "planning",
+    "implementation"
+  ],
+  "audience": [
+    "general public",
+    "nutritionists",
+    "health coaches"
+  ],
+  "reading_level": "Intermediate (grade 8-10)",
+  "keywords": [
+    "protein snacks",
+    "satiety",
+    "nutrient density",
+    "snack planning",
+    "dietary protein",
+    "muscle health",
+    "weight management",
+    "snack ideas"
+  ],
+  "related_modules": [
+    "MEA-012",
+    "MEA-037",
+    "MEA-045"
+  ],
+  "evidence_strength": "Established and Moderate Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
