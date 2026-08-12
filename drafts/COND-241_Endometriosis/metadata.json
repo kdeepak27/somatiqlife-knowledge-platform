@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-241",
+  "title": "Endometriosis",
+  "subtitle": "What endometriosis is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Recognition",
+    "Evaluation",
+    "Management",
+    "Monitoring"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (Health literate)",
+  "keywords": [
+    "Endometriosis",
+    "Pelvic pain",
+    "Menstrual disorder",
+    "Chronic pelvic pain",
+    "Reproductive health",
+    "Hormonal therapy",
+    "Laparoscopy",
+    "Infertility",
+    "Dysmenorrhea"
+  ],
+  "related_modules": [
+    "COND-102",
+    "COND-155",
+    "MED-210"
+  ],
+  "evidence_strength": "Established evidence with ongoing research on etiology and diagnostic biomarkers",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

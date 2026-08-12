@@ -1,0 +1,40 @@
+{
+  "module_id": "COND-245",
+  "title": "Premenstrual Dysphoric Disorder",
+  "subtitle": "What premenstrual dysphoric disorder is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Support"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "Premenstrual Dysphoric Disorder",
+    "PMDD",
+    "Premenstrual Syndrome",
+    "PMS",
+    "Mood Disorders",
+    "Reproductive Health",
+    "Hormonal Fluctuations",
+    "Female Mental Health",
+    "Ovulation",
+    "Serotonin"
+  ],
+  "related_modules": [
+    "COND-102: Major Depressive Disorder",
+    "COND-150: Generalized Anxiety Disorder",
+    "COND-230: Premenstrual Syndrome"
+  ],
+  "evidence_strength": "Established evidence with some moderate emerging findings",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

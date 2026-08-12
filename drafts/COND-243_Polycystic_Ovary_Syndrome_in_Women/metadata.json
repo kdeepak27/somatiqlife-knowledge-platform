@@ -1,0 +1,37 @@
+{
+  "module_id": "COND-243",
+  "title": "Polycystic Ovary Syndrome in Women",
+  "subtitle": "What polycystic ovary syndrome in women is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Polycystic Ovary Syndrome",
+    "PCOS",
+    "Women's health",
+    "Endocrinology",
+    "Hormonal imbalance",
+    "Infertility",
+    "Metabolic syndrome",
+    "Lifestyle management"
+  ],
+  "related_modules": [
+    "COND-120-Endocrine-Disorders",
+    "COND-250-Infertility-in-Women",
+    "COND-300-Metabolic-Syndrome"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and first-line lifestyle management; moderate evidence for pharmacologic therapies and long-term outcomes; emerging evidence for novel treatments and metabolic interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

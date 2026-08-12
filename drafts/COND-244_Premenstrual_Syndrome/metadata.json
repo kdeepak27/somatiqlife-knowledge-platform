@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-244",
+  "title": "Premenstrual Syndrome",
+  "subtitle": "What premenstrual syndrome is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Recognition",
+    "Self-Management",
+    "Medical Consultation"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Layperson to Intermediate",
+  "keywords": [
+    "Premenstrual Syndrome",
+    "PMS",
+    "Premenstrual Dysphoric Disorder",
+    "PMDD",
+    "menstrual cycle",
+    "hormones",
+    "mood symptoms",
+    "luteal phase"
+  ],
+  "related_modules": [
+    "COND-246-PremenstrualDysphoricDisorder",
+    "COND-123-IrritableBowelSyndrome",
+    "COND-321-MoodDisorders"
+  ],
+  "evidence_strength": "Established evidence for symptomatology and hormonal influences; moderate evidence for lifestyle and nutritional interventions; emerging evidence for novel neurochemical targets and personalized treatments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
