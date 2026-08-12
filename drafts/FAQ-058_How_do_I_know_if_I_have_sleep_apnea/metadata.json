@@ -1,0 +1,38 @@
+{
+  "module_id": "FAQ-058",
+  "title": "How do I know if I have sleep apnea?",
+  "subtitle": "Evidence-based answer to the common question: how do i know if i have sleep apnea?",
+  "domain": "Frequently Asked Questions",
+  "category": "Sleep FAQs",
+  "som_stages": [
+    "Awareness",
+    "Assessment"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Learners"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep apnea",
+    "symptoms",
+    "diagnosis",
+    "snoring",
+    "daytime sleepiness",
+    "apnea",
+    "hypopnea",
+    "polysomnography",
+    "CPAP",
+    "obstructive sleep apnea",
+    "OSA"
+  ],
+  "related_modules": [
+    "FAQ-059",
+    "FAQ-062",
+    "FAQ-101"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and symptomatology, moderate evidence for some screening tools' accuracy, emerging evidence for novel therapies, safety well documented under clinical supervision.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "FAQ-057",
+  "title": "Should I take melatonin?",
+  "subtitle": "Evidence-based answer to the common question: should i take melatonin?",
+  "domain": "Frequently Asked Questions",
+  "category": "Sleep FAQs",
+  "som_stages": [
+    "Information Seeking",
+    "Symptom Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "melatonin",
+    "sleep aid",
+    "circadian rhythm",
+    "insomnia",
+    "jet lag",
+    "supplements",
+    "sleep disorders",
+    "natural hormone",
+    "drowsiness"
+  ],
+  "related_modules": [
+    "FAQ-023",
+    "FAQ-041",
+    "FAQ-088"
+  ],
+  "evidence_strength": "Established evidence for short-term use in jet lag and delayed sleep phase disorder; moderate evidence for general insomnia; emerging evidence in pediatric populations; limited long-term safety data.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
