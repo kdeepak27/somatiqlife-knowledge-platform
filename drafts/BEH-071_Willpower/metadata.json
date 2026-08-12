@@ -1,0 +1,37 @@
+{
+  "module_id": "BEH-071",
+  "title": "Willpower",
+  "subtitle": "Evidence-based ways to understand and strengthen willpower.",
+  "domain": "Behavior Change",
+  "category": "Motivation and Mindset",
+  "som_stages": [
+    "Conception",
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Students",
+    "Healthcare Providers",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "self-control",
+    "self-discipline",
+    "motivation",
+    "executive function",
+    "decision making",
+    "behavior change",
+    "delay of gratification"
+  ],
+  "related_modules": [
+    "BEH-045_Habit_Formation",
+    "BEH-089_Motivation_Basics",
+    "BEH-102_Stress_Management"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging perspectives in select areas such as ego depletion and glucose role.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "BEH-074",
+  "title": "Mental Contrasting",
+  "subtitle": "Evidence-based ways to understand and strengthen mental contrasting.",
+  "domain": "Behavior Change",
+  "category": "Motivation and Mindset",
+  "som_stages": [
+    "Initiation",
+    "Maintenance",
+    "Relapse Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Health Coaches",
+    "Behavioral Scientists",
+    "Psychologists",
+    "Motivational Therapists"
+  ],
+  "reading_level": "High school and above",
+  "keywords": [
+    "mental contrasting",
+    "motivation",
+    "behavior change",
+    "goal setting",
+    "self-regulation",
+    "psychology",
+    "cognitive technique"
+  ],
+  "related_modules": [
+    "BEH-056",
+    "BEH-069",
+    "BEH-082"
+  ],
+  "evidence_strength": "Strong evidence from experimental and meta-analytic studies supports mental contrasting as an effective motivation and behavior change technique, with moderate evidence for physiological mechanisms and applications across diverse populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
