@@ -1,0 +1,40 @@
+{
+  "module_id": "COND-218",
+  "title": "Bipolar Disorder",
+  "subtitle": "What bipolar disorder is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Mental Health",
+  "som_stages": [
+    "Recognition",
+    "Diagnosis",
+    "Management",
+    "Monitoring"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Bipolar disorder",
+    "Manic episodes",
+    "Depressive episodes",
+    "Mood swings",
+    "Mental illness",
+    "Mood stabilizers",
+    "Psychotherapy",
+    "Risk factors",
+    "Diagnosis",
+    "Safety"
+  ],
+  "related_modules": [
+    "COND-131_Depression",
+    "COND-209_Anxiety_Disorders",
+    "COND-220_Schizophrenia"
+  ],
+  "evidence_strength": "Established scientific evidence and clinical guidelines form the basis for this module, with some emerging research areas noted.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

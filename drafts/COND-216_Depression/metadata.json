@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-216",
+  "title": "Depression",
+  "subtitle": "What depression is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Mental Health",
+  "som_stages": [
+    "Recognition",
+    "Assessment",
+    "Management"
+  ],
+  "audience": [
+    "General public",
+    "Patients",
+    "Caregivers",
+    "Healthcare providers"
+  ],
+  "reading_level": "Intermediate (grade 8-10)",
+  "keywords": [
+    "depression",
+    "major depressive disorder",
+    "mood disorder",
+    "symptoms",
+    "treatment",
+    "risk factors",
+    "evaluation",
+    "lifestyle",
+    "safety"
+  ],
+  "related_modules": [
+    "COND-101 - Anxiety Disorders",
+    "COND-178 - Bipolar Disorder",
+    "COND-310 - Suicide Prevention"
+  ],
+  "evidence_strength": "Established evidence with some emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
