@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-252",
+  "title": "Perimenopause",
+  "subtitle": "What perimenopause is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Pre-menopause",
+    "Perimenopause",
+    "Menopause",
+    "Post-menopause"
+  ],
+  "audience": [
+    "General Public",
+    "Women",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "perimenopause",
+    "menopause transition",
+    "hormonal changes",
+    "menstrual irregularities",
+    "menopause symptoms",
+    "estrogen fluctuations",
+    "progesterone",
+    "hot flashes",
+    "lifestyle management",
+    "hormone therapy"
+  ],
+  "related_modules": [
+    "COND-240 Menopause Overview",
+    "COND-260 Osteoporosis in Postmenopausal Women",
+    "COND-275 Hormone Replacement Therapy"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and peer-reviewed literature; some emerging evidence regarding novel therapies and epidemiology; limitations due to hormonal variability and symptom heterogeneity.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

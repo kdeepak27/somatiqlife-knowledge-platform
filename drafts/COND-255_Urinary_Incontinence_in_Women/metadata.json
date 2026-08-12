@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-255",
+  "title": "Urinary Incontinence in Women",
+  "subtitle": "What urinary incontinence in women is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate - General Public",
+  "keywords": [
+    "Urinary incontinence",
+    "Female urinary symptoms",
+    "Bladder control",
+    "Stress urinary incontinence",
+    "Urge urinary incontinence",
+    "Mixed urinary incontinence",
+    "Pelvic floor muscles"
+  ],
+  "related_modules": [
+    "COND-122",
+    "COND-375",
+    "COND-398"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and systematic reviews",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

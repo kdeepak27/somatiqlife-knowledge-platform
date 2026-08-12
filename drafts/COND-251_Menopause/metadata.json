@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-251",
+  "title": "Menopause",
+  "subtitle": "What menopause is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Women's and Reproductive",
+  "som_stages": [
+    "Perimenopause",
+    "Menopause",
+    "Postmenopause"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate (8th-10th grade)",
+  "keywords": [
+    "Menopause",
+    "Perimenopause",
+    "Postmenopause",
+    "Hot flashes",
+    "Hormone Replacement Therapy",
+    "Estrogen",
+    "Ovarian failure",
+    "Bone health",
+    "Vasomotor symptoms",
+    "Menstrual cycle cessation"
+  ],
+  "related_modules": [
+    "COND-113 (Osteoporosis)",
+    "COND-095 (Cardiovascular Health in Women)",
+    "COND-178 (Hormonal Disorders)"
+  ],
+  "evidence_strength": "Established evidence with some moderate emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
