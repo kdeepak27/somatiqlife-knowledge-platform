@@ -1,0 +1,37 @@
+{
+  "module_id": "FAQ-168",
+  "title": "What is PCOS?",
+  "subtitle": "Evidence-based answer to the common question: what is pcos?",
+  "domain": "Frequently Asked Questions",
+  "category": "Women's Health FAQs",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Health Professionals"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "PCOS",
+    "Polycystic Ovary Syndrome",
+    "Hormones",
+    "Women’s Health",
+    "Reproductive Health",
+    "Insulin Resistance",
+    "Menstrual Irregularity",
+    "Hirsutism"
+  ],
+  "related_modules": [
+    "FAQ-101",
+    "FAQ-172",
+    "FAQ-185"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and systematic reviews predominantly supports the information provided. Some emerging areas involve genetic and personalized therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

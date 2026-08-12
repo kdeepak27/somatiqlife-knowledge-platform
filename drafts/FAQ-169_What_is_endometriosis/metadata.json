@@ -1,0 +1,36 @@
+{
+  "module_id": "FAQ-169",
+  "title": "What is endometriosis?",
+  "subtitle": "Evidence-based answer to the common question: what is endometriosis?",
+  "domain": "Frequently Asked Questions",
+  "category": "Women's Health FAQs",
+  "som_stages": [
+    "Recognition",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers",
+    "Healthcare Students"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "endometriosis",
+    "women's health",
+    "pelvic pain",
+    "menstrual disorders",
+    "chronic pain",
+    "gynecology",
+    "reproductive health"
+  ],
+  "related_modules": [
+    "FAQ-170",
+    "FAQ-172",
+    "WOMEN-021"
+  ],
+  "evidence_strength": "Established evidence from systematic reviews, clinical guidelines, and expert consensus",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
