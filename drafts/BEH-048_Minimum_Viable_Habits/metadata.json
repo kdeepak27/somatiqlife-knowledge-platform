@@ -1,0 +1,37 @@
+{
+  "module_id": "BEH-048",
+  "title": "Minimum Viable Habits",
+  "subtitle": "How to use minimum viable habits to support sustainable behavior change.",
+  "domain": "Behavior Change",
+  "category": "Consistency and Relapse",
+  "som_stages": [
+    "Initiation",
+    "Maintenance",
+    "Relapse Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Health Coaches",
+    "Behavioral Therapists",
+    "Psychologists"
+  ],
+  "reading_level": "Intermediate (U.S. grade 8-10)",
+  "keywords": [
+    "minimum viable habits",
+    "behavior change",
+    "habit formation",
+    "consistency",
+    "relapse prevention",
+    "small changes",
+    "habit stacking",
+    "sustainable behaviors"
+  ],
+  "related_modules": [
+    "BEH-020",
+    "BEH-033",
+    "BEH-055"
+  ],
+  "evidence_strength": "Moderate evidence supporting the efficacy of minimum viable habits primarily from behavioral psychology and habit formation research; limited direct randomized controlled trials specifically evaluating minimum viable habits as a standalone intervention.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
