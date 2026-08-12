@@ -1,0 +1,38 @@
+{
+  "module_id": "BEH-063",
+  "title": "Values and Health",
+  "subtitle": "Evidence-based ways to understand and strengthen values and health.",
+  "domain": "Behavior Change",
+  "category": "Motivation and Mindset",
+  "som_stages": [
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate (6th to 8th grade)",
+  "keywords": [
+    "Values",
+    "Health",
+    "Motivation",
+    "Mindset",
+    "Behavior Change",
+    "Well-being",
+    "Personal Beliefs",
+    "Psychology"
+  ],
+  "related_modules": [
+    "BEH-046-BehaviorChangeTechniques",
+    "PSY-102-MotivationTheories",
+    "MH-028-MindfulnessInMentalHealth",
+    "BEH-059-SelfEfficacyInHealth"
+  ],
+  "evidence_strength": "Moderate - Supported by psychological theory and clinical studies, with emerging neuroscience evidence. Some areas require further RCTs.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "BEH-065",
+  "title": "Growth Mindset",
+  "subtitle": "Evidence-based ways to understand and strengthen growth mindset.",
+  "domain": "Behavior Change",
+  "category": "Motivation and Mindset",
+  "som_stages": [
+    "awareness",
+    "understanding",
+    "application"
+  ],
+  "audience": [
+    "general public",
+    "students",
+    "educators",
+    "health professionals",
+    "coaches"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "growth mindset",
+    "motivation",
+    "neuroplasticity",
+    "self-efficacy",
+    "fixed mindset",
+    "behavior change",
+    "learning",
+    "resilience"
+  ],
+  "related_modules": [
+    "BEH-042-SelfEfficacy",
+    "BEH-058-MotivationTheories",
+    "EDU-021-LearningStrategies"
+  ],
+  "evidence_strength": "Moderate evidence supports the impact of growth mindset on motivation and learning outcomes, though effect sizes vary and context is important.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

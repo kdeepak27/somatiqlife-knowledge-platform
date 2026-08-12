@@ -1,0 +1,39 @@
+{
+  "module_id": "BEH-064",
+  "title": "Purpose and Behavior Change",
+  "subtitle": "Evidence-based ways to understand and strengthen purpose and behavior change.",
+  "domain": "Behavior Change",
+  "category": "Motivation and Mindset",
+  "som_stages": [
+    "Precontemplation",
+    "Contemplation",
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Coaches",
+    "Mental Health Professionals",
+    "Behavioral Scientists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Purpose",
+    "Behavior Change",
+    "Motivation",
+    "Mindset",
+    "Goal Setting",
+    "Self-Regulation",
+    "Neuroplasticity",
+    "Psychology"
+  ],
+  "related_modules": [
+    "BEH-021",
+    "BEH-045",
+    "BEH-072"
+  ],
+  "evidence_strength": "Established Evidence with Some Emerging Concepts",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
