@@ -1,0 +1,34 @@
+{
+  "module_id": "FAQ-103",
+  "title": "How can I lower blood pressure?",
+  "subtitle": "Evidence-based answer to the common question: how can i lower blood pressure?",
+  "domain": "Frequently Asked Questions",
+  "category": "Heart Health FAQs",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "General Public"
+  ],
+  "reading_level": "Intermediate - suitable for educated laypersons",
+  "keywords": [
+    "blood pressure",
+    "hypertension",
+    "blood pressure control",
+    "lifestyle",
+    "medication",
+    "diet",
+    "exercise"
+  ],
+  "related_modules": [
+    "FAQ-101",
+    "FAQ-102",
+    "HTN-Mgmt-201"
+  ],
+  "evidence_strength": "Established evidence supporting lifestyle modifications and pharmacologic management, with moderate emerging evidence in stress management and natural remedies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
