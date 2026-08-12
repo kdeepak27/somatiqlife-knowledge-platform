@@ -1,0 +1,38 @@
+{
+  "module_id": "FAQ-100",
+  "title": "What should I monitor for metabolic health?",
+  "subtitle": "Evidence-based answer to the common question: what should I monitor for metabolic health?",
+  "domain": "Frequently Asked Questions",
+  "category": "Metabolic Health FAQs",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Metabolic health",
+    "Blood glucose",
+    "Lipid profile",
+    "Blood pressure",
+    "Waist circumference",
+    "HbA1c",
+    "Insulin resistance",
+    "Triglycerides",
+    "Cholesterol",
+    "Metabolic syndrome"
+  ],
+  "related_modules": [
+    "MET-201",
+    "GEN-150",
+    "LIP-100"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
