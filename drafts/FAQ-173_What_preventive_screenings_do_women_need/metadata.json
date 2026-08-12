@@ -1,0 +1,39 @@
+{
+  "module_id": "FAQ-173",
+  "title": "What preventive screenings do women need?",
+  "subtitle": "Evidence-based answer to the common question: what preventive screenings do women need?",
+  "domain": "Frequently Asked Questions",
+  "category": "Women's Health FAQs",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Women",
+    "Healthcare Consumers"
+  ],
+  "reading_level": "High School - College",
+  "keywords": [
+    "Preventive Screening",
+    "Women’s Health",
+    "Cancer Screening",
+    "Mammogram",
+    "Pap Smear",
+    "Bone Density",
+    "Cholesterol",
+    "Blood Pressure",
+    "Colorectal Screening",
+    "HPV Test",
+    "Diabetes Screening",
+    "Vaccination"
+  ],
+  "related_modules": [
+    "FAQ-172",
+    "WOM-010",
+    "CHD-005"
+  ],
+  "evidence_strength": "Established evidence with moderate evidence for emerging screening modalities and personalized approaches",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

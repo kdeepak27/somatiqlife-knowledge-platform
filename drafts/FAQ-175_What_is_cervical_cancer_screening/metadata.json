@@ -1,0 +1,32 @@
+{
+  "module_id": "FAQ-175",
+  "title": "What is cervical cancer screening?",
+  "subtitle": "Evidence-based answer to the common question: what is cervical cancer screening?",
+  "domain": "Frequently Asked Questions",
+  "category": "Women's Health FAQs",
+  "som_stages": [
+    "Prevention",
+    "Screening"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate, Grade 8-10",
+  "keywords": [
+    "Cervical cancer screening",
+    "Pap test",
+    "HPV testing",
+    "Cervical cancer prevention",
+    "Women’s health"
+  ],
+  "related_modules": [
+    "FAQ-178: Human papillomavirus (HPV) infection and cervical cancer risk",
+    "FAQ-180: HPV vaccination: benefits and recommendations",
+    "FAQ-182: Interpreting Pap test results and follow-up care"
+  ],
+  "evidence_strength": "Established evidence with ongoing research on optimized screening intervals and methods",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
