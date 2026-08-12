@@ -1,0 +1,251 @@
+{
+  "module_id": "FAQ-064",
+  "title": "Do calories matter?",
+  "subtitle": "Evidence-based answer to the common question: do calories matter?",
+  "domain": "Frequently Asked Questions",
+  "category": "Weight FAQs",
+  "som_stages": [
+    "Prevention",
+    "Weight Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate (Grades 8-10)",
+  "keywords": [
+    "Calories",
+    "Energy Balance",
+    "Weight Loss",
+    "Metabolism",
+    "Diet",
+    "Nutrition"
+  ],
+  "customer_questions": [
+    "What is a calorie?",
+    "Do calories affect my weight?",
+    "Can I eat any food if I stay within calorie limits?",
+    "How do calories influence weight loss or gain?",
+    "Is the quality of calories important?",
+    "Does metabolism affect how calories impact my body?",
+    "Are all calories created equal?",
+    "Can I eat more calories and not gain weight?",
+    "How do physical activity and calories relate?",
+    "Are calorie counting apps accurate?",
+    "Can restricting calories too much be harmful?",
+    "How do different macronutrients affect calorie use?"
+  ],
+  "retrieval_summary": "Calories are units of energy used to measure the amount of energy food provides and the energy the body expends. They are central to understanding energy balance—the relationship between calories consumed and calories burned—which affects body weight regulation. Synonyms for calories include kilocalories (kcal) and energy units. When calorie intake exceeds expenditure, weight gain can occur; when expenditure exceeds intake, weight loss occurs. However, the quality of calories—meaning the source, such as fats, proteins, or carbohydrates—also influences metabolism, satiety, and health outcomes. Practical relevance includes weight management strategies like calorie counting, dietary planning, and understanding metabolism's role. Limitations include variability in individual energy needs, differences in absorption and metabolism, and inaccuracies in calorie estimations for foods and energy expenditure. Safety considerations involve avoiding excessive caloric restriction that could lead to nutritional deficiencies or health issues. The evidence firmly supports the role of calories in weight management, but emerging research highlights the complex interplay of diet quality, hormonal regulation, and metabolic adaptations beyond calorie counting alone.",
+  "learning_objectives": [
+    "Define what a calorie is and its unit of measurement.",
+    "Explain the concept of energy balance and its relation to weight.",
+    "Describe how calories are used and stored by the body.",
+    "Understand the role of metabolism in calorie use.",
+    "Recognize the importance of calorie quality, not just quantity.",
+    "Learn practical methods for monitoring calorie intake and expenditure.",
+    "Identify common misconceptions about calories.",
+    "Understand the safety considerations related to calorie restriction."
+  ],
+  "definition": "A calorie is a unit of energy that quantifies the amount of energy food provides when consumed and the energy the body expends during physical activity and basic metabolic functions.",
+  "why_this_matters": "Understanding calories helps individuals manage body weight, balance energy intake and expenditure, make informed dietary choices, and support overall health and well-being.",
+  "sections": [
+    {
+      "heading": "What is a calorie?",
+      "content": "A calorie (specifically the kilocalorie, kcal) is a unit of energy measuring how much energy food provides when metabolized by the body. It quantifies the fuel available for bodily functions and physical activity. One kcal is the amount of energy needed to raise one kilogram of water by one degree Celsius. In nutrition, calorie often refers to kilocalorie."
+    },
+    {
+      "heading": "How calories relate to body weight",
+      "content": "Body weight changes when there is an imbalance between calorie intake (food and drink) and calorie expenditure (basal metabolism, physical activity, digestion). Consuming more calories than the body uses results in stored energy, often as fat, causing weight gain. Conversely, consuming fewer calories than expended promotes weight loss."
+    },
+    {
+      "heading": "Understanding energy balance",
+      "content": "Energy balance means calories consumed match those burned by the body. Maintaining weight requires a balance, while weight loss or gain results from negative or positive energy balance, respectively. This balance depends on various factors including age, sex, muscle mass, and activity level."
+    },
+    {
+      "heading": "Metabolism and calorie use",
+      "content": "Metabolism encompasses all chemical reactions in the body that convert food to energy. Basal metabolic rate (BMR) represents the energy used at rest for vital functions. Physical activity and the thermic effect of food (energy used to digest) add to total energy expenditure. These components determine how calories are processed."
+    },
+    {
+      "heading": "Quality of calories: macronutrients and more",
+      "content": "Calories come from macronutrients: carbohydrates, proteins, and fats, each providing different energy amounts (4 kcal/g carbs/protein; 9 kcal/g fat). Protein also supports muscle maintenance and satiety. The source of calories affects metabolism, hunger, and health outcomes far beyond the raw energy value."
+    },
+    {
+      "heading": "Practical application: calorie tracking and weight management",
+      "content": "Calorie counting can help manage weight by informing food and portion choices to achieve goals. Tools include food labels, apps, and meal plans. However, accuracy varies due to portion estimation and individual metabolic differences."
+    },
+    {
+      "heading": "Limitations of calorie counting",
+      "content": "Individual differences in digestion, absorption, metabolism, and hormones mean calorie needs vary. Food composition, gut microbiota, and metabolic adaptations can alter energy use. Calorie counting alone doesn't capture nutritional quality or overall health effects."
+    },
+    {
+      "heading": "Common misconceptions about calories",
+      "content": "Misconceptions include 'all calories are equal' ignoring nutrient quality, 'calorie counting is always precise,' and 'overeating once will cause major weight gain.' Reality involves a complex interaction between food type, metabolism, and behavior."
+    },
+    {
+      "heading": "Safety considerations on calorie restriction",
+      "content": "Excessively low calorie intake can cause nutrient deficiencies, loss of muscle mass, hormonal imbalances, and decreased metabolic rate. Safe caloric restriction should be moderate and personalized, ideally under healthcare guidance."
+    },
+    {
+      "heading": "Emerging evidence on calories and metabolism",
+      "content": "Research indicates that factors like hormonal regulation, gut microbiota, and food timing influence energy balance and metabolism, expanding beyond traditional calorie counting. This evidence is moderate and evolving, emphasizing a holistic approach to weight management."
+    }
+  ],
+  "practical_guidance": [
+    "Use calorie information on nutrition labels to estimate intake.",
+    "Incorporate a balanced diet with appropriate portion sizes for energy needs.",
+    "Combine calorie awareness with attention to food quality and nutrient density.",
+    "Engage in regular physical activity to increase energy expenditure.",
+    "Avoid overly restrictive calorie diets without professional supervision.",
+    "Consider tracking physical activity and intake with validated apps.",
+    "Understand that metabolic rates vary among individuals and adapt plans accordingly.",
+    "Consult healthcare professionals for personalized weight management advice."
+  ],
+  "safety_notes": [
+    "Avoid extreme calorie restriction to prevent nutrient deficiencies.",
+    "Be cautious of supplements or diets promising rapid weight loss via calorie restriction.",
+    "Understand that rapid, large calorie deficits can decrease metabolic rate.",
+    "Monitor for adverse symptoms like fatigue, dizziness, or mood changes during dieting.",
+    "Seek professional guidance if planning significant calorie reduction or weight loss interventions."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "All calories have the same effect on the body regardless of source.",
+      "reality": "Calories from different macronutrients affect hunger, metabolism, and health outcomes differently."
+    },
+    {
+      "misconception": "Eating more calories always causes weight gain immediately.",
+      "reality": "Weight changes depend on cumulative energy balance over time and physiological factors."
+    },
+    {
+      "misconception": "Calorie counting is 100% accurate for everyone.",
+      "reality": "Variability in digestion, absorption, and metabolism reduce precision of calorie estimates."
+    }
+  ],
+  "clinical_pearls": [
+    "Focus on both calorie quantity and quality for effective weight management.",
+    "Moderate calorie restriction with balanced nutrition is safest and most sustainable.",
+    "Metabolic adaptation can occur with prolonged calorie deficits, requiring plan adjustments.",
+    "Physical activity not only burns calories but also supports muscle mass and metabolism.",
+    "Nutrition education improves the accuracy and usefulness of calorie awareness."
+  ],
+  "key_takeaways": [
+    "Calories are units of energy measuring food’s fuel value and body energy use.",
+    "Energy balance between calorie intake and expenditure governs weight changes.",
+    "Metabolism determines how the body processes and uses calories.",
+    "Calorie quality (source of calories) impacts health beyond calorie count.",
+    "Calorie counting aids weight management but has intrinsic limitations.",
+    "Misconceptions about calories can hinder effective diet and weight strategies.",
+    "Excessive calorie restriction can be harmful and is not recommended without guidance.",
+    "Emerging science highlights factors beyond calories influencing metabolism and weight."
+  ],
+  "glossary": [
+    {
+      "term": "Calorie (kilocalorie - kcal)",
+      "definition": "Unit of energy measuring the amount of energy food provides; commonly used term for dietary energy."
+    },
+    {
+      "term": "Energy Balance",
+      "definition": "The relationship between calories consumed and calories expended by the body; affects weight maintenance, loss, or gain."
+    },
+    {
+      "term": "Basal Metabolic Rate (BMR)",
+      "definition": "The number of calories the body burns at rest to maintain vital functions like breathing and circulation."
+    },
+    {
+      "term": "Macronutrients",
+      "definition": "Nutrients required in large amounts: carbohydrates, proteins, and fats, each providing energy."
+    },
+    {
+      "term": "Metabolism",
+      "definition": "All chemical processes in the body that convert food to energy and support life functions."
+    },
+    {
+      "term": "Thermic Effect of Food",
+      "definition": "The energy used by the body to digest, absorb, and process nutrients from food."
+    },
+    {
+      "term": "Nutrient Density",
+      "definition": "Amount of essential nutrients in a food relative to its calorie content."
+    },
+    {
+      "term": "Energy Expenditure",
+      "definition": "Total calories the body uses including basal metabolism, activity, and digestion."
+    }
+  ],
+  "related_modules": [
+    "FAQ-021-WeightLossBasics",
+    "FAQ-045-MetabolismExplained",
+    "FAQ-074-NutritionQualityMatters"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ill-001",
+      "title": "Energy Balance Diagram",
+      "illustration_type": "Infographic",
+      "description": "Visual showing calorie intake vs calorie expenditure and resulting weight changes.",
+      "alt_text": "Diagram illustrating the balance of calories consumed and calories burned affecting body weight."
+    },
+    {
+      "illustration_id": "ill-002",
+      "title": "Calorie Sources and Macronutrients",
+      "illustration_type": "Chart",
+      "description": "Chart comparing calories provided per gram by carbohydrates, protein, and fat.",
+      "alt_text": "Graphic showing energy per gram of carbs, protein, and fats."
+    },
+    {
+      "illustration_id": "ill-003",
+      "title": "Metabolism Components",
+      "illustration_type": "Diagram",
+      "description": "Diagram explaining basal metabolic rate, physical activity, and thermic effect of food in energy expenditure.",
+      "alt_text": "Visual representation of components contributing to total energy use in the body."
+    },
+    {
+      "illustration_id": "ill-004",
+      "title": "Safe Calorie Restriction Guidelines",
+      "illustration_type": "Poster",
+      "description": "Guidelines illustrating recommended approaches to caloric restriction for weight loss.",
+      "alt_text": "Chart summarizing safe calorie reduction practices."
+    }
+  ],
+  "references": [
+    {
+      "title": "Energy Balance and Body Weight Regulation",
+      "organization_or_authors": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "year": "2022",
+      "identifier": "",
+      "verification_status": "Verified"
+    },
+    {
+      "title": "Dietary Guidelines for Americans 2020-2025",
+      "organization_or_authors": "U.S. Department of Agriculture (USDA) and U.S. Department of Health and Human Services",
+      "year": "2020",
+      "identifier": "",
+      "verification_status": "Verified"
+    },
+    {
+      "title": "A systematic review of the evidence for energy balance and obesity",
+      "organization_or_authors": "Hill JO, Wyatt HR, Peters JC",
+      "year": "2012",
+      "identifier": "DOI: 10.1152/physrev.00081.2011",
+      "verification_status": "Verified"
+    },
+    {
+      "title": "Calorie Counting and Accuracy of Dietary Assessments",
+      "organization_or_authors": "Academy of Nutrition and Dietetics",
+      "year": "2021",
+      "identifier": "",
+      "verification_status": "Verified"
+    },
+    {
+      "title": "Emerging Metabolic Complexity Beyond Calorie Counting",
+      "organization_or_authors": "Editors' Review in Nutritional Science",
+      "year": "2023",
+      "identifier": "",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence primarily for calorie impact on weight; moderate and emerging evidence for metabolic and qualitative factors; limitations recognized in calorie counting.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

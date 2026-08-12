@@ -1,0 +1,37 @@
+{
+  "module_id": "FAQ-063",
+  "title": "How fast should I lose weight?",
+  "subtitle": "Evidence-based answer to the common question: how fast should i lose weight?",
+  "domain": "Frequently Asked Questions",
+  "category": "Weight FAQs",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "weight loss",
+    "rate of weight loss",
+    "fat loss",
+    "diet",
+    "exercise",
+    "metabolism",
+    "health",
+    "safety",
+    "BMI",
+    "calories"
+  ],
+  "related_modules": [
+    "FAQ-061",
+    "FAQ-062",
+    "FAQ-064"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

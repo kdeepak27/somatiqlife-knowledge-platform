@@ -1,0 +1,33 @@
+{
+  "module_id": "FAQ-064",
+  "title": "Do calories matter?",
+  "subtitle": "Evidence-based answer to the common question: do calories matter?",
+  "domain": "Frequently Asked Questions",
+  "category": "Weight FAQs",
+  "som_stages": [
+    "Prevention",
+    "Weight Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate (Grades 8-10)",
+  "keywords": [
+    "Calories",
+    "Energy Balance",
+    "Weight Loss",
+    "Metabolism",
+    "Diet",
+    "Nutrition"
+  ],
+  "related_modules": [
+    "FAQ-021-WeightLossBasics",
+    "FAQ-045-MetabolismExplained",
+    "FAQ-074-NutritionQualityMatters"
+  ],
+  "evidence_strength": "Established evidence primarily for calorie impact on weight; moderate and emerging evidence for metabolic and qualitative factors; limitations recognized in calorie counting.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

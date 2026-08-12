@@ -1,0 +1,35 @@
+{
+  "module_id": "FAQ-065",
+  "title": "Can I lose fat without counting calories?",
+  "subtitle": "Evidence-based answer to the common question: can i lose fat without counting calories?",
+  "domain": "Frequently Asked Questions",
+  "category": "Weight FAQs",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "fat loss",
+    "weight loss",
+    "calorie counting",
+    "energy balance",
+    "dietary habits",
+    "metabolism",
+    "weight management",
+    "nutrition"
+  ],
+  "related_modules": [
+    "FAQ-032",
+    "WGT-101",
+    "NUT-204"
+  ],
+  "evidence_strength": "Moderate evidence supports that fat loss without calorie counting is achievable through combined behavioral and dietary approaches; however, exact calorie tracking remains the most precise method.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
