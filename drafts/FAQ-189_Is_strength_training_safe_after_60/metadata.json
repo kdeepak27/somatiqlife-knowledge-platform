@@ -1,0 +1,37 @@
+{
+  "module_id": "FAQ-189",
+  "title": "Is strength training safe after 60?",
+  "subtitle": "Evidence-based answer to the common question: is strength training safe after 60?",
+  "domain": "Frequently Asked Questions",
+  "category": "Men's Health FAQs",
+  "som_stages": [
+    "Maintenance",
+    "Health Promotion"
+  ],
+  "audience": [
+    "Older Adults",
+    "Men",
+    "Caregivers",
+    "Health Educators"
+  ],
+  "reading_level": "Moderate (8th-10th grade)",
+  "keywords": [
+    "strength training",
+    "resistance exercise",
+    "older adults",
+    "safety",
+    "muscle health",
+    "aging",
+    "sarcopenia",
+    "exercise benefits",
+    "falls prevention"
+  ],
+  "related_modules": [
+    "FAQ-101-Muscle-Health-Aging",
+    "FAQ-202-Fall-Prevention-Seniors",
+    "EXR-350-Resistance-Training-Basics"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging evidence in cognitive benefits",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

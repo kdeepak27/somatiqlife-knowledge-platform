@@ -1,0 +1,34 @@
+{
+  "module_id": "FAQ-188",
+  "title": "How much protein do men need?",
+  "subtitle": "Evidence-based answer to the common question: how much protein do men need?",
+  "domain": "Frequently Asked Questions",
+  "category": "Men's Health FAQs",
+  "som_stages": [
+    "Prevention",
+    "Wellness",
+    "Health Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Men",
+    "Health Enthusiasts"
+  ],
+  "reading_level": "Grade 9",
+  "keywords": [
+    "protein intake",
+    "men's protein needs",
+    "dietary protein",
+    "muscle health",
+    "amino acids",
+    "protein requirements"
+  ],
+  "related_modules": [
+    "FAQ-123",
+    "FAQ-190",
+    "FAQ-200"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and systematic reviews with some areas of emerging research (e.g., optimal protein timing and plant protein combinations).",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
