@@ -1,0 +1,36 @@
+{
+  "module_id": "MEA-046",
+  "title": "Travel Snacks",
+  "subtitle": "Practical ways to plan travel snacks for satiety and nutrient quality.",
+  "domain": "Meal Planning",
+  "category": "Snack Plans",
+  "som_stages": [
+    "Preparation",
+    "Consumption",
+    "Post-Travel"
+  ],
+  "audience": [
+    "Consumers",
+    "Nutritionists",
+    "Travel Health Advisors"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "travel snacks",
+    "satiety",
+    "nutrient quality",
+    "meal planning",
+    "portable food",
+    "healthy snacks",
+    "snack planning",
+    "nutritional balance"
+  ],
+  "related_modules": [
+    "MEA-022-Nutrition-Basics",
+    "MEA-038-Snack-Combos",
+    "MEA-059-Child-Nutrition"
+  ],
+  "evidence_strength": "Established evidence for macronutrient effects on satiety; moderate evidence for emerging snack products; limited evidence on long-term outcomes of travel snack choices.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

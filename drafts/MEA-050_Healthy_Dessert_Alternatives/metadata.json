@@ -1,0 +1,36 @@
+{
+  "module_id": "MEA-050",
+  "title": "Healthy Dessert Alternatives",
+  "subtitle": "Practical ways to plan healthy dessert alternatives for satiety and nutrient quality.",
+  "domain": "Meal Planning",
+  "category": "Snack Plans",
+  "som_stages": [
+    "Planning",
+    "Implementation"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Dietitians",
+    "General Public"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "dessert alternatives",
+    "healthy snacks",
+    "nutrient density",
+    "satiety",
+    "natural sugars",
+    "low glycemic desserts",
+    "snack planning",
+    "whole foods"
+  ],
+  "related_modules": [
+    "MEA-017",
+    "MEA-022",
+    "MEA-055"
+  ],
+  "evidence_strength": "Moderate evidence supporting benefits of fiber and protein on satiety and glycemic control; emerging evidence for weight management; consensus on safety with allergen caution.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "MEA-049",
+  "title": "Snacks for Older Adults",
+  "subtitle": "Practical ways to plan snacks for older adults for satiety and nutrient quality.",
+  "domain": "Meal Planning",
+  "category": "Snack Plans",
+  "som_stages": [
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Nutritionists",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "snacks",
+    "older adults",
+    "nutrition",
+    "satiety",
+    "nutrient quality",
+    "meal planning",
+    "healthy aging",
+    "protein",
+    "fiber",
+    "hydration"
+  ],
+  "related_modules": [
+    "MEA-034-Nutrition-for-Older-Adults",
+    "MEA-051-Meal-Timing-in-Aging",
+    "MEA-067-Protein-Supplementation-in-Seniors"
+  ],
+  "evidence_strength": "Established and emerging evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
