@@ -1,0 +1,38 @@
+{
+  "module_id": "MEA-039",
+  "title": "Dinners for Blood Sugar",
+  "subtitle": "How to build and adapt dinners for blood sugar for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Dinner Plans",
+  "som_stages": [
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "People with Prediabetes",
+    "People with Diabetes",
+    "Caregivers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "Blood sugar",
+    "Dinner planning",
+    "Glycemic control",
+    "Balanced nutrition",
+    "Diabetes management",
+    "Carbohydrates",
+    "Fiber",
+    "Protein",
+    "Healthy fats",
+    "Meal timing"
+  ],
+  "related_modules": [
+    "MEA-025 - Meal Planning Basics",
+    "MEA-030 - Diabetes Friendly Meals",
+    "MEA-045 - Carbohydrate Counting"
+  ],
+  "evidence_strength": "Established evidence from nutrition science and clinical guidelines supports the role of balanced dinner composition in blood sugar management, with ongoing research refining personalized approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

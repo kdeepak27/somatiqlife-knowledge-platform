@@ -1,0 +1,37 @@
+{
+  "module_id": "MEA-036",
+  "title": "Quick Weeknight Dinners",
+  "subtitle": "How to build and adapt quick weeknight dinners for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Dinner Plans",
+  "som_stages": [
+    "Preparation",
+    "Mastery"
+  ],
+  "audience": [
+    "General Public",
+    "Home Cooks",
+    "Nutrition Enthusiasts"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "weeknight dinner",
+    "quick meals",
+    "balanced nutrition",
+    "meal planning",
+    "easy recipes",
+    "healthy dinners",
+    "food prep",
+    "nutrients",
+    "portion control",
+    "meal adaptation"
+  ],
+  "related_modules": [
+    "MEA-045",
+    "NUT-012",
+    "CUI-101"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging evidence on specific cooking method comparisons.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

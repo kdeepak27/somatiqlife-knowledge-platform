@@ -1,0 +1,37 @@
+{
+  "module_id": "MEA-038",
+  "title": "Dinners for Weight Management",
+  "subtitle": "How to build and adapt dinners for weight management for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Dinner Plans",
+  "som_stages": [
+    "Maintenance",
+    "Weight Loss"
+  ],
+  "audience": [
+    "Consumers",
+    "Nutritionists",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "weight management",
+    "dinner",
+    "meal planning",
+    "nutrition balance",
+    "caloric intake",
+    "macronutrients",
+    "portion control",
+    "healthy fats",
+    "fiber",
+    "lean protein"
+  ],
+  "related_modules": [
+    "MEA-024",
+    "MEA-045",
+    "MEA-052"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights on meal timing and individualized adaptations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

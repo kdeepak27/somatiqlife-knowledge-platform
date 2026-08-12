@@ -1,0 +1,36 @@
+{
+  "module_id": "MEA-040",
+  "title": "Dinners for Heart Health",
+  "subtitle": "How to build and adapt dinners for heart health for balanced nutrition.",
+  "domain": "Meal Planning",
+  "category": "Dinner Plans",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Patients at Risk for Cardiovascular Disease",
+    "Nutritionists",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "heart health",
+    "dinner",
+    "meal planning",
+    "nutrition",
+    "cardiovascular disease prevention",
+    "healthy fats",
+    "fiber",
+    "antioxidants"
+  ],
+  "related_modules": [
+    "MEA-015",
+    "NUT-022",
+    "MEA-052"
+  ],
+  "evidence_strength": "Established evidence with ongoing research on optimal dietary patterns and individual adaptation",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
