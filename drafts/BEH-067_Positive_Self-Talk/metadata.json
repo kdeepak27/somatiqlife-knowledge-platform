@@ -1,0 +1,37 @@
+{
+  "module_id": "BEH-067",
+  "title": "Positive Self-Talk",
+  "subtitle": "Evidence-based ways to understand and strengthen positive self-talk.",
+  "domain": "Behavior Change",
+  "category": "Motivation and Mindset",
+  "som_stages": [
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Professionals",
+    "Behavioral Therapists",
+    "Psychologists"
+  ],
+  "reading_level": "Upper Intermediate",
+  "keywords": [
+    "Positive self-talk",
+    "Self-motivation",
+    "Cognitive restructuring",
+    "Mindset",
+    "Behavior change",
+    "Mental health",
+    "Affirmations",
+    "Self-efficacy"
+  ],
+  "related_modules": [
+    "BEH-041",
+    "BEH-052",
+    "BEH-073"
+  ],
+  "evidence_strength": "Moderate to Strong",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

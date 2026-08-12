@@ -1,0 +1,38 @@
+{
+  "module_id": "BEH-068",
+  "title": "Managing Low Motivation",
+  "subtitle": "Evidence-based ways to understand and strengthen managing low motivation.",
+  "domain": "Behavior Change",
+  "category": "Motivation and Mindset",
+  "som_stages": [
+    "Contemplation",
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Health Coaches",
+    "Behavioral Therapists",
+    "Psychologists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Motivation",
+    "Low motivation",
+    "Behavior change",
+    "Mindset",
+    "Self-regulation",
+    "Mental health",
+    "Goal setting",
+    "Reward system"
+  ],
+  "related_modules": [
+    "BEH-045",
+    "MH-022",
+    "HLTH-033"
+  ],
+  "evidence_strength": "Established evidence for behavioral and cognitive interventions; emerging evidence for neurobiological targets; moderate evidence linking physical activity and nutrition with motivation; limitations in unverified supplements or rapid fixes.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
