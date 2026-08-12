@@ -1,0 +1,33 @@
+{
+  "module_id": "FAQ-053",
+  "title": "Does exercise improve sleep?",
+  "subtitle": "Evidence-based answer to the common question: does exercise improve sleep?",
+  "domain": "Frequently Asked Questions",
+  "category": "Sleep FAQs",
+  "som_stages": [
+    "Awareness",
+    "Understanding"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Health Enthusiasts"
+  ],
+  "reading_level": "Moderate (Grades 8-10)",
+  "keywords": [
+    "exercise",
+    "physical activity",
+    "sleep quality",
+    "sleep duration",
+    "insomnia",
+    "sleep physiology"
+  ],
+  "related_modules": [
+    "FAQ-001",
+    "FAQ-022",
+    "FAQ-076"
+  ],
+  "evidence_strength": "Established evidence with moderate variability and ongoing research for certain populations and exercise types.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

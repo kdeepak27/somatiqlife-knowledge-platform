@@ -1,0 +1,31 @@
+{
+  "module_id": "FAQ-054",
+  "title": "What is deep sleep?",
+  "subtitle": "Evidence-based answer to the common question: what is deep sleep?",
+  "domain": "Frequently Asked Questions",
+  "category": "Sleep FAQs",
+  "som_stages": [
+    "Normal Functioning"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "deep sleep",
+    "slow wave sleep",
+    "N3 sleep",
+    "sleep stages",
+    "sleep physiology"
+  ],
+  "related_modules": [
+    "FAQ-053",
+    "FAQ-055",
+    "SLE-101"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
