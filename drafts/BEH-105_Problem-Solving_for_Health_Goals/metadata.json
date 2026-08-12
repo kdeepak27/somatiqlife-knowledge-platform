@@ -1,0 +1,37 @@
+{
+  "module_id": "BEH-105",
+  "title": "Problem-Solving for Health Goals",
+  "subtitle": "How to identify, understand, and overcome problem-solving for health goals.",
+  "domain": "Behavior Change",
+  "category": "Problem Solving",
+  "som_stages": [
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Behavioral Health Professionals"
+  ],
+  "reading_level": "High School to College",
+  "keywords": [
+    "problem solving",
+    "health goals",
+    "behavior change",
+    "decision making",
+    "cognitive strategies",
+    "health behavior",
+    "self-efficacy",
+    "behavioral interventions"
+  ],
+  "related_modules": [
+    "BEH-102-Behavior-Change-Foundations",
+    "BEH-110-Motivation-and-Willpower",
+    "BEH-115-Health-Coaching-Techniques",
+    "PSY-210-Cognitive-Behavioral-Therapy-Basics"
+  ],
+  "evidence_strength": "Established Evidence with Moderate Emerging Evidence in Specific Applications",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
