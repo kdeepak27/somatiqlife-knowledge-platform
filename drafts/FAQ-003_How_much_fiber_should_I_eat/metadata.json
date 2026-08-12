@@ -1,0 +1,36 @@
+{
+  "module_id": "FAQ-003",
+  "title": "How much fiber should I eat?",
+  "subtitle": "Evidence-based answer to the common question: how much fiber should i eat?",
+  "domain": "Frequently Asked Questions",
+  "category": "Nutrition FAQs",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General public",
+    "Patients",
+    "Caregivers",
+    "Health educators"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "fiber",
+    "dietary fiber",
+    "fiber intake",
+    "nutrition",
+    "health benefits",
+    "recommended daily allowance",
+    "soluble fiber",
+    "insoluble fiber"
+  ],
+  "related_modules": [
+    "FAQ-002 (What is fiber and why is it important?)",
+    "NUTR-101 (Basic Nutrition concepts)",
+    "DIG-005 (Gut microbiome and health)"
+  ],
+  "evidence_strength": "Strong evidence from large observational and clinical studies supports fiber intake recommendations and health benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

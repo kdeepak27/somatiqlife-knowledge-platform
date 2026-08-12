@@ -1,0 +1,39 @@
+{
+  "module_id": "FAQ-005",
+  "title": "How much added sugar is too much?",
+  "subtitle": "Evidence-based answer to the common question: how much added sugar is too much?",
+  "domain": "Frequently Asked Questions",
+  "category": "Nutrition FAQs",
+  "som_stages": [
+    "Prevention",
+    "Wellness",
+    "Chronic Disease Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Health Educators"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "added sugar",
+    "sugar intake",
+    "nutrition guidelines",
+    "dietary sugar",
+    "health risks",
+    "sugar consumption",
+    "sugar limits",
+    "sucrose",
+    "high-fructose corn syrup",
+    "dietary recommendations"
+  ],
+  "related_modules": [
+    "NUTR-002",
+    "DEF-012",
+    "CHRONIC-101"
+  ],
+  "evidence_strength": "Established evidence from authoritative guidelines and systematic reviews supports limiting added sugar intake for health promotion.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
