@@ -1,0 +1,37 @@
+{
+  "module_id": "FAQ-160",
+  "title": "What happens during menopause?",
+  "subtitle": "Evidence-based answer to the common question: what happens during menopause?",
+  "domain": "Frequently Asked Questions",
+  "category": "Women's Health FAQs",
+  "som_stages": [
+    "Perimenopause",
+    "Menopause",
+    "Postmenopause"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "General Public"
+  ],
+  "reading_level": "Moderate (Health Literate)",
+  "keywords": [
+    "menopause",
+    "perimenopause",
+    "hot flashes",
+    "hormonal changes",
+    "estrogen",
+    "progesterone",
+    "menstrual cycle",
+    "symptoms",
+    "women's health"
+  ],
+  "related_modules": [
+    "FAQ-101: Understanding Perimenopause and Menopause",
+    "FAQ-175: Managing Hot Flashes and Night Sweats",
+    "FAQ-200: Osteoporosis and Women's Health"
+  ],
+  "evidence_strength": "Established evidence with some areas of emerging research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
