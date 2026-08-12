@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-214",
+  "title": "Specific Phobias",
+  "subtitle": "What specific phobias is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Mental Health",
+  "som_stages": [
+    "assessment",
+    "diagnosis",
+    "management",
+    "follow-up"
+  ],
+  "audience": [
+    "patients",
+    "caregivers",
+    "general public",
+    "healthcare professionals"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "specific phobia",
+    "anxiety disorder",
+    "fear",
+    "avoidance",
+    "symptoms",
+    "treatment",
+    "diagnosis"
+  ],
+  "related_modules": [
+    "COND-215",
+    "COND-220"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and behavioral treatments; moderate evidence for pharmacotherapy adjunct; emerging evidence for novel interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,41 @@
+{
+  "module_id": "COND-212",
+  "title": "Panic Disorder",
+  "subtitle": "What panic disorder is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Mental Health",
+  "som_stages": [
+    "Awareness",
+    "Early Recognition",
+    "Diagnosis",
+    "Management",
+    "Long-term Care"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "panic disorder",
+    "panic attacks",
+    "anxiety",
+    "mental health",
+    "treatment",
+    "symptoms",
+    "risk factors",
+    "diagnosis",
+    "management",
+    "lifestyle"
+  ],
+  "related_modules": [
+    "COND-105-Anxiety-Disorders",
+    "COND-214-Agoraphobia",
+    "COND-310-Depression"
+  ],
+  "evidence_strength": "Established evidence with ongoing research into mechanisms and optimal treatments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

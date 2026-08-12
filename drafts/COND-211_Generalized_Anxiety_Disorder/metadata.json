@@ -1,0 +1,36 @@
+{
+  "module_id": "COND-211",
+  "title": "Generalized Anxiety Disorder",
+  "subtitle": "What generalized anxiety disorder is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Mental Health",
+  "som_stages": [
+    "Recognition",
+    "Evaluation",
+    "Management",
+    "Follow-Up"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "General Public (Grade 8-10)",
+  "keywords": [
+    "Generalized anxiety disorder",
+    "GAD",
+    "Anxiety",
+    "Mental health",
+    "Symptoms",
+    "Treatment",
+    "Risk factors",
+    "Management"
+  ],
+  "related_modules": [
+    "COND-150",
+    "COND-220"
+  ],
+  "evidence_strength": "Established evidence for diagnostic criteria and first-line treatments; moderate and emerging evidence for alternative therapies and neurobiological mechanisms.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

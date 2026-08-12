@@ -1,0 +1,42 @@
+{
+  "module_id": "COND-213",
+  "title": "Social Anxiety Disorder",
+  "subtitle": "What social anxiety disorder is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Mental Health",
+  "som_stages": [
+    "Recognition",
+    "Assessment",
+    "Management",
+    "Follow-up",
+    "Lifestyle Optimization"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate (Grade 10)",
+  "keywords": [
+    "Social anxiety",
+    "Social phobia",
+    "Anxiety disorder",
+    "Cognitive behavioral therapy",
+    "Exposure therapy",
+    "Selective serotonin reuptake inhibitors",
+    "SSRIs",
+    "Risk factors",
+    "Symptoms",
+    "Mental health"
+  ],
+  "related_modules": [
+    "COND-140-Generalized-Anxiety-Disorder",
+    "COND-141-Depression",
+    "COND-215-Obsessive-Compulsive-Disorder",
+    "COND-220-Panic-Disorder"
+  ],
+  "evidence_strength": "Established evidence for diagnosis and first-line psychotherapeutic treatments; moderate evidence for pharmacological agents; emerging evidence for lifestyle and adjunct therapies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
