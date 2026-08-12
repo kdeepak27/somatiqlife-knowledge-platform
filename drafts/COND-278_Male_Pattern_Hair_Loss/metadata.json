@@ -1,0 +1,39 @@
+{
+  "module_id": "COND-278",
+  "title": "Male Pattern Hair Loss",
+  "subtitle": "What male pattern hair loss is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Diagnosis",
+    "Treatment",
+    "Follow-up"
+  ],
+  "audience": [
+    "General Public",
+    "Men Experiencing Hair Loss",
+    "Healthcare Providers",
+    "Dermatologists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "male pattern hair loss",
+    "androgenetic alopecia",
+    "hair thinning",
+    "hair loss causes",
+    "DHT",
+    "finasteride",
+    "minoxidil",
+    "scalp health"
+  ],
+  "related_modules": [
+    "COND-105",
+    "COND-178",
+    "COND-231"
+  ],
+  "evidence_strength": "Established evidence supports the hormonal and genetic basis of male pattern hair loss, and the efficacy of primary treatments minoxidil and finasteride. Emerging evidence exists for adjunct therapies such as PRP and laser treatment, though these require further clinical validation. Lifestyle factors have moderate supporting evidence but are not primary treatments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

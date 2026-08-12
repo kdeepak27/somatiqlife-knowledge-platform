@@ -1,0 +1,38 @@
+{
+  "module_id": "COND-279",
+  "title": "Sleep Apnea in Men",
+  "subtitle": "What sleep apnea in men is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Awareness",
+    "Evaluation",
+    "Management"
+  ],
+  "audience": [
+    "Adult Men",
+    "Clinicians",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep apnea",
+    "men's health",
+    "obstructive sleep apnea",
+    "central sleep apnea",
+    "risk factors",
+    "symptoms",
+    "diagnosis",
+    "treatment",
+    "CPAP",
+    "lifestyle"
+  ],
+  "related_modules": [
+    "COND-145",
+    "COND-222",
+    "COND-310"
+  ],
+  "evidence_strength": "Established evidence supports the diagnosis and first-line treatment approaches, including CPAP therapy and lifestyle modifications for obstructive sleep apnea in men. Moderate evidence exists for emerging therapies and personalized management strategies. Limitations include variability in adherence and response among individuals.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

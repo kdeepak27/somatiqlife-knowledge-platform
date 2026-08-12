@@ -1,0 +1,44 @@
+{
+  "module_id": "COND-277",
+  "title": "Testicular Cancer",
+  "subtitle": "What testicular cancer is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Awareness",
+    "Prevention",
+    "Early Detection",
+    "Diagnosis",
+    "Treatment",
+    "Management",
+    "Survivorship"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Medical Students",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Intermediate (Grade 9-12)",
+  "keywords": [
+    "testicular cancer",
+    "testis tumor",
+    "germ cell tumor",
+    "risk factors",
+    "symptoms",
+    "diagnosis",
+    "treatment",
+    "orchiectomy",
+    "chemo",
+    "radiation",
+    "survival"
+  ],
+  "related_modules": [
+    "COND-123",
+    "COND-189",
+    "COND-265"
+  ],
+  "evidence_strength": "Established evidence based on clinical guidelines, epidemiological data, and standard oncology practice.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

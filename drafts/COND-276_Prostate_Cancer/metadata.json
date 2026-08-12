@@ -1,0 +1,35 @@
+{
+  "module_id": "COND-276",
+  "title": "Prostate Cancer",
+  "subtitle": "What prostate cancer is, causes, risk factors, symptoms, evaluation, management, lifestyle considerations, and safety.",
+  "domain": "Medical Conditions",
+  "category": "Men's and Other Common Conditions",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Treatment",
+    "Survivorship"
+  ],
+  "audience": [
+    "Patients",
+    "Caregivers",
+    "General Public"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "prostate cancer",
+    "prostate gland",
+    "oncology",
+    "urology",
+    "cancer symptoms",
+    "cancer screening",
+    "cancer risk factors"
+  ],
+  "related_modules": [
+    "COND-102",
+    "COND-210"
+  ],
+  "evidence_strength": "Established evidence for epidemiology, diagnosis, and standard treatments; moderate evidence for lifestyle effects; emerging evidence for novel therapies and molecular markers.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
