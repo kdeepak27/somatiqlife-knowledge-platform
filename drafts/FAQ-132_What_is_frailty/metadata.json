@@ -1,0 +1,38 @@
+{
+  "module_id": "FAQ-132",
+  "title": "What is frailty?",
+  "subtitle": "Evidence-based answer to the common question: what is frailty?",
+  "domain": "Frequently Asked Questions",
+  "category": "Healthy Aging FAQs",
+  "som_stages": [
+    "General Knowledge",
+    "Preventive Care"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Grade 10 - Easy Adult",
+  "keywords": [
+    "frailty",
+    "frail",
+    "aging",
+    "vulnerability",
+    "sarcopenia",
+    "frailty syndrome",
+    "physical decline",
+    "health risk",
+    "frailty assessment"
+  ],
+  "related_modules": [
+    "FAQ-101",
+    "FAQ-110",
+    "FAQ-140",
+    "GUIDE-021"
+  ],
+  "evidence_strength": "Established evidence for frailty as a clinical syndrome and validated diagnostic criteria; moderate emerging evidence for reversibility and optimal intervention strategies; ongoing research into molecular mechanisms and personalized treatments.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

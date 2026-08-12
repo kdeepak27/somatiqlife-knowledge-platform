@@ -1,0 +1,38 @@
+{
+  "module_id": "FAQ-135",
+  "title": "Why does metabolism change with age?",
+  "subtitle": "Evidence-based answer to the common question: why does metabolism change with age?",
+  "domain": "Frequently Asked Questions",
+  "category": "Healthy Aging FAQs",
+  "som_stages": [
+    "Adult",
+    "Older Adult"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Health Enthusiasts"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "Metabolism",
+    "Aging",
+    "Basal Metabolic Rate",
+    "Muscle Mass",
+    "Hormones",
+    "Energy Expenditure",
+    "Metabolic Rate",
+    "Aging Physiology",
+    "Caloric Needs",
+    "Healthy Aging"
+  ],
+  "related_modules": [
+    "FAQ-140-AgingMuscle",
+    "FAQ-142-HormonesandAging",
+    "FAQ-150-PhysicalActivityOlderAdults"
+  ],
+  "evidence_strength": "Moderate to established evidence supports metabolic slowdown with age primarily due to muscle loss and hormonal changes. Lifestyle interventions are evidence-based to mitigate effects but individual variability exists. Some emerging research explores molecular mechanisms but human data are limited.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

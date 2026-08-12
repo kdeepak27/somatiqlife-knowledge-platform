@@ -1,0 +1,35 @@
+{
+  "module_id": "FAQ-134",
+  "title": "How does sleep change with age?",
+  "subtitle": "Evidence-based answer to the common question: how does sleep change with age?",
+  "domain": "Frequently Asked Questions",
+  "category": "Healthy Aging FAQs",
+  "som_stages": [
+    "Aging"
+  ],
+  "audience": [
+    "General public",
+    "Older adults",
+    "Caregivers",
+    "Healthcare providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Sleep",
+    "Aging",
+    "Sleep patterns",
+    "Sleep quality",
+    "Insomnia",
+    "Circadian rhythm",
+    "Older adults",
+    "Sleep duration"
+  ],
+  "related_modules": [
+    "FAQ-56",
+    "FAQ-72",
+    "FAQ-101"
+  ],
+  "evidence_strength": "Established evidence for age-related changes in sleep architecture and circadian rhythms; moderate to emerging evidence on interventions and individual variability; limitations include heterogeneity of older adult populations and comorbidities affecting generalizability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
