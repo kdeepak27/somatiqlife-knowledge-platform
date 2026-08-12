@@ -1,0 +1,39 @@
+{
+  "module_id": "MEA-061",
+  "title": "Meal Planning for Prediabetes",
+  "subtitle": "Evidence-based meal planning considerations related to meal planning for prediabetes.",
+  "domain": "Meal Planning",
+  "category": "Condition-Focused Planning",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Educators",
+    "Dietitians",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Intermediate - Consumer Health",
+  "keywords": [
+    "Prediabetes",
+    "Meal Planning",
+    "Nutrition",
+    "Blood Sugar",
+    "Glycemic Index",
+    "Carbohydrates",
+    "Fiber",
+    "Weight Management",
+    "Diabetes Prevention",
+    "Dietary Guidelines"
+  ],
+  "related_modules": [
+    "MEA-012",
+    "MEA-045",
+    "NUT-023",
+    "DIA-031"
+  ],
+  "evidence_strength": "Established evidence for carbohydrate quality, fiber intake, and weight management; emerging evidence for meal timing and intermittent fasting in prediabetes; moderate evidence for integrating physical activity with diet; limitations due to individual variability and need for personalized approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,38 @@
+{
+  "module_id": "MEA-064",
+  "title": "Meal Planning for High Cholesterol",
+  "subtitle": "Evidence-based meal planning considerations related to meal planning for high cholesterol.",
+  "domain": "Meal Planning",
+  "category": "Condition-Focused Planning",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Health Coaches",
+    "Nutritionists"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "cholesterol",
+    "meal planning",
+    "diet",
+    "lipids",
+    "cardiovascular health",
+    "nutrition",
+    "HDL",
+    "LDL",
+    "omega-3",
+    "saturated fat"
+  ],
+  "related_modules": [
+    "MEA-032",
+    "MEA-074",
+    "MEA-059"
+  ],
+  "evidence_strength": "Established evidence for dietary impact on cholesterol management; moderate evidence for specific supplements; emerging evidence for personalized nutrition approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

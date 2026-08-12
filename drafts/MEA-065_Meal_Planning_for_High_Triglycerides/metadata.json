@@ -1,0 +1,36 @@
+{
+  "module_id": "MEA-065",
+  "title": "Meal Planning for High Triglycerides",
+  "subtitle": "Evidence-based meal planning considerations related to meal planning for high triglycerides.",
+  "domain": "Meal Planning",
+  "category": "Condition-Focused Planning",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Triglycerides",
+    "Meal Planning",
+    "Cardiovascular Health",
+    "Dietary Fat",
+    "Omega-3 Fatty Acids",
+    "Carbohydrates",
+    "Fiber",
+    "Cholesterol",
+    "Nutrition"
+  ],
+  "related_modules": [
+    "MEA-010: Nutrition Fundamentals",
+    "MEA-032: Heart-Healthy Diets",
+    "MEA-048: Diabetes Meal Planning"
+  ],
+  "evidence_strength": "Established Evidence with Moderate Emerging Data on Meal Timing and Supplements",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

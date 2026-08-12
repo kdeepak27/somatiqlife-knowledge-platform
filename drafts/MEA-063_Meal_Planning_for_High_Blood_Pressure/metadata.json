@@ -1,0 +1,39 @@
+{
+  "module_id": "MEA-063",
+  "title": "Meal Planning for High Blood Pressure",
+  "subtitle": "Evidence-based meal planning considerations related to meal planning for high blood pressure.",
+  "domain": "Meal Planning",
+  "category": "Condition-Focused Planning",
+  "som_stages": [
+    "Prevention",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients with Hypertension",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Dietitians"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "hypertension",
+    "high blood pressure",
+    "meal planning",
+    "DASH diet",
+    "sodium reduction",
+    "potassium",
+    "dietary fiber",
+    "blood pressure management",
+    "cardiovascular health",
+    "nutrition"
+  ],
+  "related_modules": [
+    "MEA-034-Nutrition-For-Cardiovascular-Health",
+    "MEA-091-Sodium-Reduction-Techniques",
+    "MEA-045-Weight-Management-Meal-Planning"
+  ],
+  "evidence_strength": "Established evidence from systematic reviews, randomized controlled trials, and expert guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
