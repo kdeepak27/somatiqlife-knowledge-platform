@@ -1,0 +1,36 @@
+{
+  "module_id": "BEH-094",
+  "title": "Energy Barriers",
+  "subtitle": "How to identify, understand, and overcome energy barriers.",
+  "domain": "Behavior Change",
+  "category": "Problem Solving",
+  "som_stages": [
+    "Preparation",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Behavioral Scientists",
+    "Psychologists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "energy barriers",
+    "motivation",
+    "behavior change",
+    "fatigue",
+    "psychological barriers",
+    "physical barriers",
+    "overcoming obstacles"
+  ],
+  "related_modules": [
+    "BEH-056",
+    "PHY-101",
+    "MNT-020"
+  ],
+  "evidence_strength": "Moderate (based on observational studies, expert consensus, and emerging clinical trial data)",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

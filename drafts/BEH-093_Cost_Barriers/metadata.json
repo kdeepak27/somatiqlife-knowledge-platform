@@ -1,0 +1,39 @@
+{
+  "module_id": "BEH-093",
+  "title": "Cost Barriers",
+  "subtitle": "How to identify, understand, and overcome cost barriers.",
+  "domain": "Behavior Change",
+  "category": "Problem Solving",
+  "som_stages": [
+    "Identification",
+    "Intervention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Behavioral Scientists",
+    "Policy Makers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "cost barriers",
+    "financial barriers",
+    "health behavior",
+    "access to care",
+    "economic constraints",
+    "behavior change",
+    "problem solving",
+    "health equity",
+    "affordability",
+    "intervention strategies"
+  ],
+  "related_modules": [
+    "BEH-045",
+    "BEH-072",
+    "HEA-021"
+  ],
+  "evidence_strength": "Moderate - Evidence supports that reducing cost barriers improves health access and outcomes, though variability exists across populations and interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
