@@ -1,0 +1,39 @@
+{
+  "module_id": "CASE-052",
+  "title": "Case Study: Menopause Weight Gain",
+  "subtitle": "A realistic educational scenario integrating physiology, prevention, lifestyle, and safety for case study: menopause weight gain.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Women's Health Scenarios",
+  "som_stages": [
+    "Perimenopause",
+    "Menopause",
+    "Postmenopause"
+  ],
+  "audience": [
+    "Health Consumers",
+    "Clinicians",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate (Grades 10-12)",
+  "keywords": [
+    "menopause",
+    "weight gain",
+    "menopausal transition",
+    "metabolism",
+    "lifestyle modification",
+    "hormone changes",
+    "body composition",
+    "obesity prevention",
+    "physical activity",
+    "diet",
+    "women's health"
+  ],
+  "related_modules": [
+    "CASE-047",
+    "CASE-083",
+    "WH-012"
+  ],
+  "evidence_strength": "Established evidence with some moderate and emerging evidence areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

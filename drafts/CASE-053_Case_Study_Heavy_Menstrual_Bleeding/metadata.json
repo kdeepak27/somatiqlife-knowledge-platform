@@ -1,0 +1,39 @@
+{
+  "module_id": "CASE-053",
+  "title": "Case Study: Heavy Menstrual Bleeding",
+  "subtitle": "A realistic educational scenario integrating physiology, prevention, lifestyle, and safety for case study: heavy menstrual bleeding.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Women's Health Scenarios",
+  "som_stages": [
+    "Investigation",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Medical Students",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "Heavy Menstrual Bleeding",
+    "Menorrhagia",
+    "Menstrual Disorders",
+    "Female Reproductive Health",
+    "Bleeding Disorders",
+    "Hormonal Imbalance",
+    "Anemia",
+    "Treatment Options",
+    "Lifestyle",
+    "Safety"
+  ],
+  "related_modules": [
+    "WH-001",
+    "WH-023",
+    "HEM-012"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines, systematic reviews, and expert consensus supports the definitions, diagnostic criteria, and management strategies described in this module.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

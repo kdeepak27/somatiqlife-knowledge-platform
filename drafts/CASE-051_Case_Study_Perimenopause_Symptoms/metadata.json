@@ -1,0 +1,37 @@
+{
+  "module_id": "CASE-051",
+  "title": "Case Study: Perimenopause Symptoms",
+  "subtitle": "A realistic educational scenario integrating physiology, prevention, lifestyle, and safety for case study: perimenopause symptoms.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Women's Health Scenarios",
+  "som_stages": [
+    "Perimenopause",
+    "Menopause"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "perimenopause",
+    "menopause transition",
+    "menstrual cycle changes",
+    "hot flashes",
+    "hormonal fluctuations",
+    "lifestyle management",
+    "bone health",
+    "mental health",
+    "symptom prevention",
+    "women's health"
+  ],
+  "related_modules": [
+    "CASE-034-Menopause-Basics",
+    "CASE-052-Osteoporosis-Prevention",
+    "CASE-056-Women-Mental-Health-Midlife"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging data on lifestyle interventions",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
