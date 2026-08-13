@@ -1,0 +1,40 @@
+{
+  "module_id": "PROG-088",
+  "title": "No-Equipment Home Program",
+  "subtitle": "Time-efficient programming, progression, and practical strategies for no-equipment home program.",
+  "domain": "Exercise Programs",
+  "category": "Busy-Life Programs",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Busy Adults",
+    "Fitness Beginners",
+    "Exercise Enthusiasts",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "no-equipment exercise",
+    "home workout",
+    "bodyweight training",
+    "exercise progression",
+    "time-efficient fitness",
+    "functional training",
+    "strength training",
+    "cardiovascular fitness",
+    "physical activity",
+    "exercise safety"
+  ],
+  "related_modules": [
+    "PROG-041",
+    "PROG-072",
+    "HEAL-033"
+  ],
+  "evidence_strength": "Moderate evidence from recent exercise science studies supports the effectiveness of no-equipment bodyweight training for strength and endurance improvements in primarily untrained or moderately trained adults.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "PROG-089",
+  "title": "Minimal-Equipment Program",
+  "subtitle": "Time-efficient programming, progression, and practical strategies for minimal-equipment program.",
+  "domain": "Exercise Programs",
+  "category": "Busy-Life Programs",
+  "som_stages": [
+    "Engagement",
+    "Adaptation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General public",
+    "Fitness beginners",
+    "Busy adults",
+    "Personal trainers"
+  ],
+  "reading_level": "Intermediate health literacy",
+  "keywords": [
+    "minimal equipment",
+    "exercise programming",
+    "progression",
+    "time-efficient workouts",
+    "bodyweight training",
+    "resistance bands",
+    "functional fitness"
+  ],
+  "related_modules": [
+    "PROG-001",
+    "PROG-054",
+    "EXER-033"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials and position statements supports the effectiveness of minimal-equipment programs for general fitness outcomes; moderate evidence exists regarding maximal strength gains. Safety data are supported by expert consensus and observational studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

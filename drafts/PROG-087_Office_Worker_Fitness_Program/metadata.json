@@ -1,0 +1,39 @@
+{
+  "module_id": "PROG-087",
+  "title": "Office Worker Fitness Program",
+  "subtitle": "Time-efficient programming, progression, and practical strategies for office worker fitness program.",
+  "domain": "Exercise Programs",
+  "category": "Busy-Life Programs",
+  "som_stages": [
+    "Maintenance",
+    "Initial Conditioning",
+    "Progression"
+  ],
+  "audience": [
+    "Office Workers",
+    "Busy Professionals",
+    "Fitness Coaches",
+    "Occupational Health Specialists"
+  ],
+  "reading_level": "General Public / Intermediate",
+  "keywords": [
+    "office worker fitness",
+    "time-efficient exercise",
+    "desk exercise",
+    "progressive overload",
+    "physical activity",
+    "sedentary behavior",
+    "workplace wellness",
+    "strength training",
+    "cardiovascular health",
+    "exercise programming"
+  ],
+  "related_modules": [
+    "EXER-021",
+    "WORK-054",
+    "POST-099"
+  ],
+  "evidence_strength": "Moderate evidence supports that time-efficient, progressive office fitness programs improve health outcomes. Evidence is growing but long-term adherence and large-scale implementation studies are limited.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
