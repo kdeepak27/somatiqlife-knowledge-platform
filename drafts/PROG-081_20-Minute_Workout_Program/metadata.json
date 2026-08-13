@@ -1,0 +1,38 @@
+{
+  "module_id": "PROG-081",
+  "title": "20-Minute Workout Program",
+  "subtitle": "Time-efficient programming, progression, and practical strategies for 20-minute workout program.",
+  "domain": "Exercise Programs",
+  "category": "Busy-Life Programs",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Busy Professionals",
+    "Fitness Enthusiasts",
+    "Beginner Exercisers"
+  ],
+  "reading_level": "General Public with interest in fitness",
+  "keywords": [
+    "20-minute workout",
+    "high intensity interval training",
+    "quick exercise program",
+    "time-efficient fitness",
+    "progressive overload",
+    "busy lifestyle fitness",
+    "strength training",
+    "cardio",
+    "exercise adherence"
+  ],
+  "related_modules": [
+    "PROG-045-High-Intensity Interval Training Basics",
+    "PROG-067-Home-Based Strength Training",
+    "PROG-090-Fitness for Busy Professionals"
+  ],
+  "evidence_strength": "Established evidence for cardiovascular and general fitness improvements from short-duration, high-intensity workouts; moderate evidence for hypertrophy and specialized goals; emerging evidence in long-term adherence and psychological benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
