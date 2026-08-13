@@ -1,0 +1,36 @@
+{
+  "module_id": "CASE-037",
+  "title": "Case Study: Weekend-Only Exercise",
+  "subtitle": "A realistic educational scenario integrating training, progression, recovery, and safety for case study: weekend-only exercise.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Exercise Scenarios",
+  "som_stages": [
+    "Consideration",
+    "Planning",
+    "Action"
+  ],
+  "audience": [
+    "General Public",
+    "Exercise Enthusiasts",
+    "Fitness Trainers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Exercise",
+    "Weekend Workout",
+    "Physical Activity",
+    "Training Progression",
+    "Recovery",
+    "Exercise Safety",
+    "Fitness"
+  ],
+  "related_modules": [
+    "EXER-101",
+    "EXER-205",
+    "HEAL-110"
+  ],
+  "evidence_strength": "Established Evidence with Emerging Insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
