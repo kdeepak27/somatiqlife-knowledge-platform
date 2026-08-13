@@ -1,0 +1,38 @@
+{
+  "module_id": "MEA-097",
+  "title": "One-Week DASH Meal Plan",
+  "subtitle": "A flexible framework, examples, substitutions, and safety considerations for one-week DASH meal plan.",
+  "domain": "Meal Planning",
+  "category": "Weekly Plans",
+  "som_stages": [
+    "Preparation",
+    "Implementation",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Nutritionists",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "DASH diet",
+    "meal plan",
+    "dietary approach",
+    "hypertension",
+    "heart health",
+    "nutrition",
+    "healthy eating",
+    "meal substitutions",
+    "weekly menu",
+    "diet safety"
+  ],
+  "related_modules": [
+    "MEA-042-Heart-Healthy-Diet-Principles",
+    "MEA-078-Meal-Prepping-for-Cardiovascular-Health",
+    "MEA-111-Low-Sodium-Diet-Guidelines"
+  ],
+  "evidence_strength": "Established evidence supported by clinical trials and meta-analyses with moderate evidence on personalized substitutions and long-term adherence methods.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

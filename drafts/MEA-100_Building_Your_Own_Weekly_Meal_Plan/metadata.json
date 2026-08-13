@@ -1,0 +1,37 @@
+{
+  "module_id": "MEA-100",
+  "title": "Building Your Own Weekly Meal Plan",
+  "subtitle": "A flexible framework, examples, substitutions, and safety considerations for building your own weekly meal plan.",
+  "domain": "Meal Planning",
+  "category": "Weekly Plans",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Evaluation"
+  ],
+  "audience": [
+    "General public",
+    "Nutrition beginners",
+    "Health coaches",
+    "Dietitians"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "meal planning",
+    "weekly meals",
+    "nutrition",
+    "balanced diet",
+    "meal prep",
+    "healthy eating",
+    "substitutions",
+    "diet safety"
+  ],
+  "related_modules": [
+    "NUT-210",
+    "MEA-101",
+    "HLS-305"
+  ],
+  "evidence_strength": "Established evidence with emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
