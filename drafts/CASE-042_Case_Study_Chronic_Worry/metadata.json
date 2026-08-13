@@ -1,0 +1,39 @@
+{
+  "module_id": "CASE-042",
+  "title": "Case Study: Chronic Worry",
+  "subtitle": "A realistic educational scenario integrating behavior, mental well-being, evidence, and when to seek help for case study: chronic worry.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Stress and Mental Well-Being Scenarios",
+  "som_stages": [
+    "Recognition",
+    "Understanding",
+    "Management",
+    "Referral"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Caregivers",
+    "Primary Care Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Grade 10",
+  "keywords": [
+    "chronic worry",
+    "anxiety",
+    "stress",
+    "mental health",
+    "coping",
+    "behavioral intervention",
+    "physiology",
+    "when to seek help"
+  ],
+  "related_modules": [
+    "STRESS-101",
+    "ANX-054",
+    "MHI-210"
+  ],
+  "evidence_strength": "Established evidence for CBT and mindfulness interventions; emerging evidence for some pharmacological approaches; moderate evidence on physiological mechanisms with ongoing research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

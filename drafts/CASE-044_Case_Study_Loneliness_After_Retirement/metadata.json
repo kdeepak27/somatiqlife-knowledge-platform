@@ -1,0 +1,37 @@
+{
+  "module_id": "CASE-044",
+  "title": "Case Study: Loneliness After Retirement",
+  "subtitle": "A realistic educational scenario integrating behavior, mental well-being, evidence, and when to seek help for case study: loneliness after retirement.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Stress and Mental Well-Being Scenarios",
+  "som_stages": [
+    "Adult",
+    "Senior"
+  ],
+  "audience": [
+    "General Public",
+    "Retirees",
+    "Healthcare Providers",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Loneliness",
+    "Retirement",
+    "Mental Well-Being",
+    "Social Isolation",
+    "Stress",
+    "Geriatric Mental Health",
+    "Behavioral Health",
+    "Emotional Health",
+    "Aging"
+  ],
+  "related_modules": [
+    "CASE-012",
+    "CASE-027",
+    "CASE-039"
+  ],
+  "evidence_strength": "Established with moderate evidence and some emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

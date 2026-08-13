@@ -1,0 +1,40 @@
+{
+  "module_id": "CASE-040",
+  "title": "Case Study: Exercise for Healthy Aging",
+  "subtitle": "A realistic educational scenario integrating training, progression, recovery, and safety for case study: exercise for healthy aging.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Exercise Scenarios",
+  "som_stages": [
+    "Assessment",
+    "Planning",
+    "Implementation",
+    "Evaluation"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Educators",
+    "Fitness Professionals",
+    "Older Adults"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "healthy aging",
+    "exercise",
+    "training progression",
+    "recovery",
+    "safety",
+    "physical activity",
+    "older adults",
+    "workout plan",
+    "strength training",
+    "cardiovascular exercise"
+  ],
+  "related_modules": [
+    "EXER-101",
+    "AGING-203",
+    "FITN-305"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
