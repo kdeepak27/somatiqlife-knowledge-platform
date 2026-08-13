@@ -1,0 +1,39 @@
+{
+  "module_id": "PROG-078",
+  "title": "Exercise Program for Osteoporosis",
+  "subtitle": "Evidence-based exercise planning, progression, monitoring, and safety for exercise program for osteoporosis.",
+  "domain": "Exercise Programs",
+  "category": "Condition-Focused Programs",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Exercise Specialists",
+    "Physical Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "osteoporosis",
+    "exercise program",
+    "bone health",
+    "strength training",
+    "balance training",
+    "fall prevention",
+    "aerobic exercise",
+    "weight-bearing exercise",
+    "physical activity",
+    "fracture risk"
+  ],
+  "related_modules": [
+    "PROG-035",
+    "PROG-042",
+    "PROG-053"
+  ],
+  "evidence_strength": "Established evidence supporting exercise interventions in osteoporosis with moderate to strong evidence for fracture risk reduction through combined modalities.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

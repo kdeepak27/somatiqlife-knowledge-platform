@@ -1,0 +1,37 @@
+{
+  "module_id": "PROG-079",
+  "title": "Exercise Program for Chronic Back Pain",
+  "subtitle": "Evidence-based exercise planning, progression, monitoring, and safety for exercise program for chronic back pain.",
+  "domain": "Exercise Programs",
+  "category": "Condition-Focused Programs",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Monitoring"
+  ],
+  "audience": [
+    "General Public",
+    "Physical Therapists",
+    "Exercise Physiologists",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Moderate (Health Literate)",
+  "keywords": [
+    "Chronic back pain",
+    "Exercise therapy",
+    "Physical activity",
+    "Pain management",
+    "Rehabilitation",
+    "Core strengthening",
+    "Flexibility exercises",
+    "Aerobic conditioning"
+  ],
+  "related_modules": [
+    "PROG-045",
+    "PROG-052",
+    "PROG-081"
+  ],
+  "evidence_strength": "Moderate evidence supports exercise programs for reducing pain and improving function in chronic back pain, with acknowledged heterogeneity in individual responses.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

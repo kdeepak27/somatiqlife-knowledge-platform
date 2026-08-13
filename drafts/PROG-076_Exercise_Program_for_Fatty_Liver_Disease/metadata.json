@@ -1,0 +1,40 @@
+{
+  "module_id": "PROG-076",
+  "title": "Exercise Program for Fatty Liver Disease",
+  "subtitle": "Evidence-based exercise planning, progression, monitoring, and safety for exercise program for fatty liver disease.",
+  "domain": "Exercise Programs",
+  "category": "Condition-Focused Programs",
+  "som_stages": [
+    "Diagnosis",
+    "Management",
+    "Prevention"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Exercise Specialists",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "fatty liver disease",
+    "exercise program",
+    "nonalcoholic fatty liver disease",
+    "exercise prescription",
+    "aerobic exercise",
+    "resistance training",
+    "liver health",
+    "physical activity",
+    "insulin resistance",
+    "safety",
+    "monitoring"
+  ],
+  "related_modules": [
+    "PROG-054",
+    "PROG-089",
+    "NUTR-034"
+  ],
+  "evidence_strength": "Established evidence for aerobic and resistance exercise benefits; moderate evidence for optimal progression strategies; emerging evidence on personalized exercise prescriptions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "PROG-075",
+  "title": "Exercise Program for Obesity",
+  "subtitle": "Evidence-based exercise planning, progression, monitoring, and safety for exercise program for obesity.",
+  "domain": "Exercise Programs",
+  "category": "Condition-Focused Programs",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "Adults with obesity",
+    "Healthcare professionals",
+    "Exercise physiologists",
+    "Physical therapists",
+    "Fitness trainers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "obesity",
+    "exercise program",
+    "physical activity",
+    "weight management",
+    "aerobic exercise",
+    "resistance training",
+    "exercise safety",
+    "exercise progression"
+  ],
+  "related_modules": [
+    "PROG-042",
+    "PROG-058"
+  ],
+  "evidence_strength": "Established evidence supports combined aerobic and resistance exercise as a safe and effective component of multi-modal obesity treatment programs.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
