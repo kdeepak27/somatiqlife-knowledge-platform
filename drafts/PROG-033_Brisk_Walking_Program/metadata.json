@@ -1,0 +1,35 @@
+{
+  "module_id": "PROG-033",
+  "title": "Brisk Walking Program",
+  "subtitle": "A progressive endurance framework for brisk walking program, including intensity, recovery, and monitoring.",
+  "domain": "Exercise Programs",
+  "category": "Cardio Programs",
+  "som_stages": [
+    "Initiation",
+    "Adaptation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Healthcare Providers",
+    "Physical Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "brisk walking",
+    "endurance training",
+    "cardiovascular fitness",
+    "exercise intensity",
+    "recovery",
+    "exercise monitoring"
+  ],
+  "related_modules": [
+    "PROG-021",
+    "PROG-045",
+    "EXER-010"
+  ],
+  "evidence_strength": "Established evidence for cardiovascular benefits; moderate to emerging evidence for cellular adaptations and optimal recovery strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

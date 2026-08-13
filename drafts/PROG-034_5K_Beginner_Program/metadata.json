@@ -1,0 +1,36 @@
+{
+  "module_id": "PROG-034",
+  "title": "5K Beginner Program",
+  "subtitle": "A progressive endurance framework for 5k beginner program, including intensity, recovery, and monitoring.",
+  "domain": "Exercise Programs",
+  "category": "Cardio Programs",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "Beginners",
+    "Fitness Enthusiasts",
+    "Recreational Runners",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "5K Running",
+    "Beginner Running Program",
+    "Endurance Training",
+    "Running Intensity",
+    "Recovery",
+    "Heart Rate Monitoring",
+    "Progressive Overload"
+  ],
+  "related_modules": [
+    "PROG-012",
+    "FIT-021",
+    "REC-008"
+  ],
+  "evidence_strength": "Established evidence supported by exercise physiology research and clinical practice guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,39 @@
+{
+  "module_id": "PROG-030",
+  "title": "Core Strength Program",
+  "subtitle": "A structured approach to core strength program, including volume, progression, recovery, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Muscle Programs",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Evaluation"
+  ],
+  "audience": [
+    "General public",
+    "Fitness enthusiasts",
+    "Physical therapists",
+    "Personal trainers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "core strength",
+    "muscle fitness",
+    "exercise volume",
+    "progression",
+    "recovery",
+    "injury prevention",
+    "training safety",
+    "abdominal muscles",
+    "back muscles",
+    "stability"
+  ],
+  "related_modules": [
+    "PROG-012",
+    "PROG-045",
+    "PROG-082"
+  ],
+  "evidence_strength": "Established evidence supports core strength programs for improving stability and reducing back pain, with moderate evidence for enhanced athletic performance. Individual results vary.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
