@@ -1,0 +1,38 @@
+{
+  "module_id": "PROG-038",
+  "title": "Rowing Fitness Program",
+  "subtitle": "A progressive endurance framework for rowing fitness program, including intensity, recovery, and monitoring.",
+  "domain": "Exercise Programs",
+  "category": "Cardio Programs",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Monitoring"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Athletes",
+    "Exercise Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "rowing",
+    "endurance",
+    "cardio",
+    "fitness program",
+    "intensity",
+    "recovery",
+    "monitoring",
+    "exercise physiology",
+    "training plan",
+    "ergometer"
+  ],
+  "related_modules": [
+    "PROG-012",
+    "PROG-045"
+  ],
+  "evidence_strength": "Established evidence from exercise physiology and sports science supports the efficacy of progressive rowing programs to improve endurance and cardiovascular health. However, individual variation and technique influence outcomes. Emerging research continues to refine optimal training protocols and recovery strategies specific to rowing.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

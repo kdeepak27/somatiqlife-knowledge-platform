@@ -1,0 +1,38 @@
+{
+  "module_id": "PROG-036",
+  "title": "Cycling Fitness Program",
+  "subtitle": "A progressive endurance framework for cycling fitness program, including intensity, recovery, and monitoring.",
+  "domain": "Exercise Programs",
+  "category": "Cardio Programs",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Recreational Cyclists",
+    "Fitness Enthusiasts",
+    "Coaches and Trainers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "cycling fitness",
+    "endurance training",
+    "cardio program",
+    "exercise intensity",
+    "recovery",
+    "heart rate monitoring",
+    "training zones",
+    "periodization",
+    "fitness progression"
+  ],
+  "related_modules": [
+    "PROG-015",
+    "PROG-042",
+    "NUTR-021"
+  ],
+  "evidence_strength": "Established Evidence with Emerging Insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
