@@ -1,0 +1,36 @@
+{
+  "module_id": "MEA-081",
+  "title": "Meal Planning on a Budget",
+  "subtitle": "Practical strategies, examples, and tradeoffs related to meal planning on a budget.",
+  "domain": "Meal Planning",
+  "category": "Budget and Convenience",
+  "som_stages": [
+    "Preparation",
+    "Execution"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Nutritionists",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "meal planning",
+    "budget meals",
+    "food budgeting",
+    "meal prep",
+    "cost-effective nutrition",
+    "grocery shopping",
+    "meal budgeting",
+    "convenience meals"
+  ],
+  "related_modules": [
+    "MEA-034",
+    "NUT-112",
+    "FWD-059"
+  ],
+  "evidence_strength": "Established evidence based on nutritional science and economic studies, with emerging evidence supporting specific behavioral interventions and apps.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

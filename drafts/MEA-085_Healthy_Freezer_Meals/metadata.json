@@ -1,0 +1,38 @@
+{
+  "module_id": "MEA-085",
+  "title": "Healthy Freezer Meals",
+  "subtitle": "Practical strategies, examples, and tradeoffs related to healthy freezer meals.",
+  "domain": "Meal Planning",
+  "category": "Budget and Convenience",
+  "som_stages": [
+    "Preparation",
+    "Planning",
+    "Cooking",
+    "Storage"
+  ],
+  "audience": [
+    "General public",
+    "Busy adults",
+    "Parents",
+    "Nutrition educators"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "freezer meals",
+    "healthy eating",
+    "meal prep",
+    "nutritional balance",
+    "food safety",
+    "freezing techniques",
+    "convenience meals",
+    "budget meals"
+  ],
+  "related_modules": [
+    "MEA-042",
+    "MEA-108",
+    "MEA-076"
+  ],
+  "evidence_strength": "Established evidence supporting freezing as a preservation method with moderate evidence on nutrient retention variability depending on food type and preparation.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

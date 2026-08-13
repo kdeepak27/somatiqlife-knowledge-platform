@@ -1,0 +1,35 @@
+{
+  "module_id": "MEA-084",
+  "title": "Healthy Pantry Meals",
+  "subtitle": "Practical strategies, examples, and tradeoffs related to healthy pantry meals.",
+  "domain": "Meal Planning",
+  "category": "Budget and Convenience",
+  "som_stages": [
+    "Maintenance",
+    "Planning"
+  ],
+  "audience": [
+    "Consumers",
+    "Home Cooks",
+    "Nutrition Enthusiasts"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "pantry meals",
+    "healthy eating",
+    "meal planning",
+    "budget meals",
+    "convenience foods",
+    "nutritional balance",
+    "food storage",
+    "meal prep"
+  ],
+  "related_modules": [
+    "MEA-045",
+    "MEA-077",
+    "NUT-112"
+  ],
+  "evidence_strength": "Established evidence supports nutritional value of legumes and whole grains in pantry meals; moderate evidence indicates benefits and limitations of canned/dried food nutrients; emerging evidence on fortification and safety practices.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

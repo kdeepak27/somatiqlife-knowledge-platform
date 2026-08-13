@@ -1,0 +1,39 @@
+{
+  "module_id": "MEA-082",
+  "title": "Budget-Friendly Protein",
+  "subtitle": "Practical strategies, examples, and tradeoffs related to budget-friendly protein.",
+  "domain": "Meal Planning",
+  "category": "Budget and Convenience",
+  "som_stages": [
+    "Planning",
+    "Cooking",
+    "Supplementing"
+  ],
+  "audience": [
+    "General public",
+    "Budget-conscious consumers",
+    "Nutrition educators"
+  ],
+  "reading_level": "Intermediate (Grade 8-10)",
+  "keywords": [
+    "budget protein",
+    "affordable protein",
+    "protein sources",
+    "cost-effective nutrition",
+    "protein tradeoffs",
+    "meal planning protein",
+    "protein economics",
+    "plant-based protein",
+    "animal protein",
+    "protein quality",
+    "protein affordability"
+  ],
+  "related_modules": [
+    "MEA-021-Plant-Based Nutrition",
+    "MEA-034-Meal Planning Basics",
+    "MEA-055-Protein Quality and Digestibility"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence regarding meal planning strategies and cost optimization.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
