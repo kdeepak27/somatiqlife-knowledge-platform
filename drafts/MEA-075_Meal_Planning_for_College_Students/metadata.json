@@ -1,0 +1,39 @@
+{
+  "module_id": "MEA-075",
+  "title": "Meal Planning for College Students",
+  "subtitle": "Practical meal planning strategies related to meal planning for college students.",
+  "domain": "Meal Planning",
+  "category": "Life Stage Planning",
+  "som_stages": [
+    "Young Adult",
+    "College Life"
+  ],
+  "audience": [
+    "College Students",
+    "Parents",
+    "Healthcare Providers",
+    "Nutritionists",
+    "Dietitians"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "meal planning",
+    "college students",
+    "nutrition",
+    "budget-friendly meals",
+    "healthy eating",
+    "time management",
+    "snacking",
+    "meal prep",
+    "dietary needs",
+    "balanced diet"
+  ],
+  "related_modules": [
+    "MEA-020-Nutrition-Basics",
+    "MEA-032-Budget-Friendly-Eating",
+    "MEA-061-Meal-Prep-Techniques"
+  ],
+  "evidence_strength": "Established evidence supports the benefits of meal planning in improving diet quality among college students, with moderate emerging evidence on specific budgeting strategies and meal delivery impact. Safety recommendations are based on established food safety guidelines. Some practical applications reflect expert consensus and observational studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

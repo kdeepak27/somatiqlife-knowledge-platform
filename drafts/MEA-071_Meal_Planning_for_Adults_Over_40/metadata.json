@@ -1,0 +1,34 @@
+{
+  "module_id": "MEA-071",
+  "title": "Meal Planning for Adults Over 40",
+  "subtitle": "Practical meal planning strategies related to meal planning for adults over 40.",
+  "domain": "Meal Planning",
+  "category": "Life Stage Planning",
+  "som_stages": [
+    "Midlife",
+    "Aging"
+  ],
+  "audience": [
+    "Adults over 40",
+    "Caregivers",
+    "Nutritionists",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Meal Planning",
+    "Nutrition",
+    "Adults Over 40",
+    "Healthy Aging",
+    "Dietary Strategies",
+    "Chronic Disease Prevention"
+  ],
+  "related_modules": [
+    "MEA-034",
+    "MEA-056",
+    "NUT-021"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights on specialized meal planning strategies for aging populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,35 @@
+{
+  "module_id": "MEA-074",
+  "title": "Meal Planning for Busy Professionals",
+  "subtitle": "Practical meal planning strategies related to meal planning for busy professionals.",
+  "domain": "Meal Planning",
+  "category": "Life Stage Planning",
+  "som_stages": [
+    "Maintenance",
+    "Prevention"
+  ],
+  "audience": [
+    "Busy professionals",
+    "Working adults",
+    "Health-conscious individuals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "meal planning",
+    "time management",
+    "nutrition",
+    "healthy eating",
+    "busy professionals",
+    "meal prep",
+    "convenience foods",
+    "balanced diet"
+  ],
+  "related_modules": [
+    "MEA-056",
+    "MEA-091",
+    "NUT-023"
+  ],
+  "evidence_strength": "Established evidence from nutrition science and public health guidelines supports the efficacy of meal planning and batch cooking in improving diet quality and managing time for busy adults. Emerging evidence highlights cognitive and metabolic benefits, while safety recommendations are supported by food safety regulatory agencies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

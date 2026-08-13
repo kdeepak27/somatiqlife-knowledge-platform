@@ -1,0 +1,39 @@
+{
+  "module_id": "MEA-073",
+  "title": "Meal Planning During Menopause",
+  "subtitle": "Practical meal planning strategies related to meal planning during menopause.",
+  "domain": "Meal Planning",
+  "category": "Life Stage Planning",
+  "som_stages": [
+    "Perimenopause",
+    "Menopause",
+    "Postmenopause"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Dietitians",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "Menopause",
+    "Meal Planning",
+    "Nutrition",
+    "Hormonal Changes",
+    "Bone Health",
+    "Weight Management",
+    "Phytoestrogens",
+    "Calcium",
+    "Vitamin D",
+    "Menopausal Symptoms"
+  ],
+  "related_modules": [
+    "MEA-021",
+    "MEA-058",
+    "MEA-091"
+  ],
+  "evidence_strength": "Moderate evidence supports many nutritional strategies to improve bone health and reduce menopausal symptoms, though individual variations exist and some benefits require further research.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
