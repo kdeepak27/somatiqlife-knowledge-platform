@@ -1,0 +1,37 @@
+{
+  "module_id": "PROG-100",
+  "title": "Building Your Own Exercise Program",
+  "subtitle": "A goal-focused framework for building your own exercise program, including progression, recovery, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Goal-Based Programs",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Beginner Exercisers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "exercise program",
+    "fitness goals",
+    "progression",
+    "recovery",
+    "safety",
+    "workout planning",
+    "exercise physiology",
+    "motivation"
+  ],
+  "related_modules": [
+    "PROG-101",
+    "FIT-200",
+    "NUT-150"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence on optimal progression methods",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
