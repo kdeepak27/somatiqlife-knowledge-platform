@@ -1,0 +1,36 @@
+{
+  "module_id": "PROG-093",
+  "title": "General Fitness Program",
+  "subtitle": "A goal-focused framework for general fitness program, including progression, recovery, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Goal-Based Programs",
+  "som_stages": [
+    "Preparation",
+    "Active Phase",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "fitness program",
+    "exercise progression",
+    "physical recovery",
+    "training safety",
+    "goal-based exercise",
+    "exercise physiology",
+    "general fitness"
+  ],
+  "related_modules": [
+    "PROG-070",
+    "PROG-085",
+    "INJ-021"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

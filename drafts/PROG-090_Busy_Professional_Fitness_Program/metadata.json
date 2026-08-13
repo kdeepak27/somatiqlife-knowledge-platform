@@ -1,0 +1,37 @@
+{
+  "module_id": "PROG-090",
+  "title": "Busy Professional Fitness Program",
+  "subtitle": "Time-efficient programming, progression, and practical strategies for busy professional fitness program.",
+  "domain": "Exercise Programs",
+  "category": "Busy-Life Programs",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Maintenance"
+  ],
+  "audience": [
+    "Busy Professionals",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Time-efficient exercise",
+    "High-intensity training",
+    "Progressive overload",
+    "Physical activity",
+    "Work-life balance",
+    "Exercise adherence",
+    "Strength training",
+    "Cardiovascular health"
+  ],
+  "related_modules": [
+    "PROG-034",
+    "EXER-078",
+    "HEAL-102"
+  ],
+  "evidence_strength": "Established evidence supported by multiple randomized controlled trials and systematic reviews, supplemented by clinical guidelines and consensus statements.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
