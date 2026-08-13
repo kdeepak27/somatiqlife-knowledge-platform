@@ -1,0 +1,37 @@
+{
+  "module_id": "PROG-042",
+  "title": "HIIT Starter Program",
+  "subtitle": "A structured, evidence-based progression for hiit starter program, including suitability and safety.",
+  "domain": "Exercise Programs",
+  "category": "HIIT and Performance",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "Beginners",
+    "Fitness Enthusiasts",
+    "Health Coaches",
+    "Personal Trainers"
+  ],
+  "reading_level": "General Audience, Grade 9+",
+  "keywords": [
+    "High-Intensity Interval Training",
+    "HIIT",
+    "Exercise Progression",
+    "Cardiovascular Fitness",
+    "Metabolic Health",
+    "Workout Safety",
+    "Interval Training",
+    "Fitness Starter Programs"
+  ],
+  "related_modules": [
+    "PROG-011",
+    "PROG-025",
+    "EXER-034"
+  ],
+  "evidence_strength": "Established scientific evidence supports HIIT benefits in beginners when properly supervised and progressed.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
