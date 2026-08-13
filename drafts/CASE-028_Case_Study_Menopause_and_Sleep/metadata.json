@@ -1,0 +1,36 @@
+{
+  "module_id": "CASE-028",
+  "title": "Case Study: Menopause and Sleep",
+  "subtitle": "A realistic educational scenario integrating sleep science, behavior, safety, and practical options for case study: menopause and sleep.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Sleep Scenarios",
+  "som_stages": [
+    "Postmenopause",
+    "Perimenopause"
+  ],
+  "audience": [
+    "Consumers",
+    "Patients",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "menopause",
+    "sleep disturbances",
+    "hot flashes",
+    "insomnia",
+    "sleep apnea",
+    "hormone replacement therapy",
+    "behavioral therapy",
+    "circadian rhythm",
+    "sleep hygiene"
+  ],
+  "related_modules": [
+    "SOM-016-Sleep-Physiology",
+    "SOM-032-Behavioral-Sleep-Therapies",
+    "CASE-010-Hormonal-Effects-on-Sleep"
+  ],
+  "evidence_strength": "Established evidence supports the link between menopause and sleep disturbances and the effectiveness of behavioral therapies. Emerging evidence relates to the use and safety profile of hormone replacement therapy for sleep improvements. Evidence on herbal supplements and long-term outcomes remains uncertain.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

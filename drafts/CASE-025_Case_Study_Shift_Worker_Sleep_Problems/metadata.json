@@ -1,0 +1,40 @@
+{
+  "module_id": "CASE-025",
+  "title": "Case Study: Shift Worker Sleep Problems",
+  "subtitle": "A realistic educational scenario integrating sleep science, behavior, safety, and practical options for case study: shift worker sleep problems.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Sleep Scenarios",
+  "som_stages": [
+    "Recognition",
+    "Diagnosis",
+    "Management",
+    "Patient Education"
+  ],
+  "audience": [
+    "Patients",
+    "Healthcare Providers",
+    "Sleep Researchers",
+    "Occupational Health Professionals"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "Shift Work",
+    "Sleep Problems",
+    "Circadian Rhythm",
+    "Sleep Hygiene",
+    "Sleep Disorders",
+    "Shift Work Sleep Disorder",
+    "Fatigue",
+    "Safety",
+    "Behavioral Interventions",
+    "Pharmacotherapy"
+  ],
+  "related_modules": [
+    "SLEEP-010",
+    "SLEEP-015",
+    "OCCUP-002"
+  ],
+  "evidence_strength": "Established and moderate evidence from clinical guidelines, epidemiological studies, and physiological research supports the content, with emerging evidence in personalized interventions and pharmacological management.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

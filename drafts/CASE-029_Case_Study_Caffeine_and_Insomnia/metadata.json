@@ -1,0 +1,39 @@
+{
+  "module_id": "CASE-029",
+  "title": "Case Study: Caffeine and Insomnia",
+  "subtitle": "A realistic educational scenario integrating sleep science, behavior, safety, and practical options for case study: caffeine and insomnia.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Sleep Scenarios",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Sleep Specialists",
+    "Behavioral Health Counselors"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "caffeine",
+    "insomnia",
+    "sleep disturbance",
+    "sleep latency",
+    "adenosine receptor",
+    "sleep hygiene",
+    "stimulant",
+    "sleep onset latency",
+    "circadian rhythm",
+    "sleep quality"
+  ],
+  "related_modules": [
+    "SLEEP-012: Sleep Hygiene Basics",
+    "PHYSL-034: Neurochemistry of Sleep",
+    "BEHAV-021: Behavioral Strategies for Insomnia"
+  ],
+  "evidence_strength": "Established evidence supported by multiple clinical studies and meta-analyses, with moderate evidence for genetic variability effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

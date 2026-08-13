@@ -1,0 +1,36 @@
+{
+  "module_id": "CASE-026",
+  "title": "Case Study: Frequent Jet Lag",
+  "subtitle": "A realistic educational scenario integrating sleep science, behavior, safety, and practical options for case study: frequent jet lag.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Sleep Scenarios",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Monitoring"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Providers",
+    "Sleep Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "jet lag",
+    "circadian rhythm",
+    "sleep disruption",
+    "travel fatigue",
+    "chronobiology",
+    "light therapy",
+    "melatonin",
+    "behavioral interventions"
+  ],
+  "related_modules": [
+    "SLEEP-001",
+    "SLEEP-015",
+    "BEHAV-034"
+  ],
+  "evidence_strength": "Established evidence mainly from clinical studies and physiological research; some emerging evidence on long-term health effects and novel treatments; limitations in variability and personalized response acknowledged.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
