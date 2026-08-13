@@ -1,0 +1,38 @@
+{
+  "module_id": "PROG-061",
+  "title": "Strength After 50 Program",
+  "subtitle": "A practical, progressive exercise framework for strength after 50 program, tailored to healthy aging.",
+  "domain": "Exercise Programs",
+  "category": "Healthy Aging Programs",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Adults over 50",
+    "Fitness Trainers",
+    "Healthcare Providers",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Strength training",
+    "Healthy aging",
+    "Resistance exercise",
+    "Muscle mass",
+    "Sarcopenia",
+    "Progressive overload",
+    "Functional fitness",
+    "Older adults",
+    "Exercise safety",
+    "Physical activity"
+  ],
+  "related_modules": [
+    "PROG-034",
+    "PROG-047",
+    "PROG-079"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials and meta-analyses supports the safety and efficacy of strength training for healthy aging adults over 50.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

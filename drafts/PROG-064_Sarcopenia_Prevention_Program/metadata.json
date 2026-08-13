@@ -1,0 +1,39 @@
+{
+  "module_id": "PROG-064",
+  "title": "Sarcopenia Prevention Program",
+  "subtitle": "A practical, progressive exercise framework for sarcopenia prevention program, tailored to healthy aging.",
+  "domain": "Exercise Programs",
+  "category": "Healthy Aging Programs",
+  "som_stages": [
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "Older Adults",
+    "Health Coaches",
+    "Physical Therapists",
+    "Exercise Physiologists",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "sarcopenia",
+    "muscle loss",
+    "healthy aging",
+    "exercise program",
+    "strength training",
+    "resistance exercise",
+    "physical activity",
+    "elderly fitness",
+    "muscle mass",
+    "functional capacity"
+  ],
+  "related_modules": [
+    "PROG-023",
+    "NUTR-112",
+    "CLIN-045"
+  ],
+  "evidence_strength": "Strong evidence from randomized controlled trials supports resistance exercise and nutritional interventions for sarcopenia prevention; emerging data highlight the role of multimodal programs and individualized care.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "PROG-060",
+  "title": "Tai Chi Balance Program",
+  "subtitle": "A progressive routine for tai chi balance program, including frequency, progression, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Mobility and Balance",
+  "som_stages": [
+    "Prevention",
+    "Rehabilitation",
+    "Maintenance"
+  ],
+  "audience": [
+    "Older Adults",
+    "Physical Therapists",
+    "Fitness Coaches",
+    "General Public"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "Tai Chi",
+    "Balance Training",
+    "Mobility",
+    "Fall Prevention",
+    "Progressive Exercise",
+    "Exercise Frequency",
+    "Older Adults",
+    "Postural Control"
+  ],
+  "related_modules": [
+    "PROG-030",
+    "PROG-045",
+    "PROG-080"
+  ],
+  "evidence_strength": "Moderate to Strong for older adults balance improvement; Moderate and Emerging for neurological rehabilitation",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
