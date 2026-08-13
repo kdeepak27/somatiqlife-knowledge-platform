@@ -1,0 +1,37 @@
+{
+  "module_id": "CASE-005",
+  "title": "Case Study: Weight-Loss Plateau",
+  "subtitle": "A realistic educational scenario integrating assessment, evidence, priorities, and practical next steps for case study: weight-loss plateau.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Weight and Metabolic Scenarios",
+  "som_stages": [
+    "Assessment",
+    "Intervention Planning",
+    "Monitoring and Evaluation"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Professionals",
+    "Nutritionists",
+    "Fitness Trainers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Weight-loss plateau",
+    "Metabolic adaptation",
+    "Caloric deficit",
+    "Energy balance",
+    "Obesity management",
+    "Behavioral strategies",
+    "Exercise",
+    "Diet adherence"
+  ],
+  "related_modules": [
+    "CASE-001",
+    "NUTR-010",
+    "BEHV-007"
+  ],
+  "evidence_strength": "Established evidence for physiological mechanisms such as metabolic adaptation and effectiveness of behavioral strategies; moderate evidence for emerging interventions like intermittent fasting; ongoing research on individualized approaches and metabolic variability.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
