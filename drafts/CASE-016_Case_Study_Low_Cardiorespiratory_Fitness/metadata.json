@@ -1,0 +1,37 @@
+{
+  "module_id": "CASE-016",
+  "title": "Case Study: Low Cardiorespiratory Fitness",
+  "subtitle": "A realistic educational scenario integrating risk, evidence, lifestyle, and safety for case study: low cardiorespiratory fitness.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Heart Health Scenarios",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Monitoring"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Clinicians",
+    "Exercise Physiologists"
+  ],
+  "reading_level": "Middle School to Adult",
+  "keywords": [
+    "Cardiorespiratory fitness",
+    "VO2 max",
+    "Aerobic capacity",
+    "Exercise",
+    "Heart health",
+    "Risk factors",
+    "Physical activity",
+    "Metabolic health"
+  ],
+  "related_modules": [
+    "HEALTH-101-CRF",
+    "HEALTH-205-Exercise-Prescription",
+    "HEART-335-Cardiovascular-Risk"
+  ],
+  "evidence_strength": "Established evidence for associations between CRF and cardiovascular risk; moderate evidence for optimal exercise prescriptions; emerging evidence on new technologies and pharmacologic interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

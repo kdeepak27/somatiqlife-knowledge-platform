@@ -1,0 +1,38 @@
+{
+  "module_id": "CASE-017",
+  "title": "Case Study: Smoking and Heart Risk",
+  "subtitle": "A realistic educational scenario integrating risk, evidence, lifestyle, and safety for case study: smoking and heart risk.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Heart Health Scenarios",
+  "som_stages": [
+    "Prevention",
+    "Risk Assessment",
+    "Patient Education"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Students"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Smoking",
+    "Heart Disease",
+    "Cardiovascular Risk",
+    "Nicotine",
+    "Atherosclerosis",
+    "Heart Attack",
+    "Stroke",
+    "Cardiopulmonary Health",
+    "Tobacco Use",
+    "Lifestyle Risk Factors"
+  ],
+  "related_modules": [
+    "CASE-012",
+    "HEART-005",
+    "PREV-023"
+  ],
+  "evidence_strength": "Established evidence with some moderate emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

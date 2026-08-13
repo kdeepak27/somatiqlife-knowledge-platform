@@ -1,0 +1,36 @@
+{
+  "module_id": "CASE-019",
+  "title": "Case Study: Poor Sleep and Blood Pressure",
+  "subtitle": "A realistic educational scenario integrating risk, evidence, lifestyle, and safety for case study: poor sleep and blood pressure.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Heart Health Scenarios",
+  "som_stages": [
+    "Prevention",
+    "Early Detection",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep",
+    "blood pressure",
+    "hypertension",
+    "cardiovascular risk",
+    "sleep deprivation",
+    "lifestyle",
+    "heart health",
+    "case study"
+  ],
+  "related_modules": [
+    "CARD-101",
+    "SLEEP-203",
+    "HTN-145"
+  ],
+  "evidence_strength": "Established evidence supplemented by moderate and emerging research findings",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
