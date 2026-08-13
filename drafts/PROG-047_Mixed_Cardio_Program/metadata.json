@@ -1,0 +1,38 @@
+{
+  "module_id": "PROG-047",
+  "title": "Mixed Cardio Program",
+  "subtitle": "A structured, evidence-based progression for mixed cardio program, including suitability and safety.",
+  "domain": "Exercise Programs",
+  "category": "HIIT and Performance",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General public",
+    "Fitness enthusiasts",
+    "Personal trainers",
+    "Healthcare providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Cardiovascular training",
+    "Mixed cardio",
+    "HIIT",
+    "Steady-state cardio",
+    "Interval training",
+    "Endurance",
+    "Exercise progression",
+    "Safety",
+    "Performance"
+  ],
+  "related_modules": [
+    "PROG-032",
+    "PROG-056",
+    "EXER-101"
+  ],
+  "evidence_strength": "Established evidence for cardiovascular and metabolic benefits; moderate evidence for optimized progression and individual tailoring.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

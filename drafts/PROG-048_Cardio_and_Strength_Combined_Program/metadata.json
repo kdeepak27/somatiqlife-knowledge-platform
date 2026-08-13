@@ -1,0 +1,39 @@
+{
+  "module_id": "PROG-048",
+  "title": "Cardio and Strength Combined Program",
+  "subtitle": "A structured, evidence-based progression for cardio and strength combined program, including suitability and safety.",
+  "domain": "Exercise Programs",
+  "category": "HIIT and Performance",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Rehabilitation Specialists"
+  ],
+  "reading_level": "Intermediate - General public with some familiarity with exercise concepts",
+  "keywords": [
+    "Cardio",
+    "Strength Training",
+    "Combined Exercise",
+    "HIIT",
+    "Performance",
+    "Exercise Physiology",
+    "Muscle Strength",
+    "Cardiovascular Fitness",
+    "Exercise Safety",
+    "Program Design"
+  ],
+  "related_modules": [
+    "PROG-029",
+    "NUTR-015",
+    "PHYS-034"
+  ],
+  "evidence_strength": "Established with moderate evidence of interference effects; emerging evidence for optimal programming methods",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

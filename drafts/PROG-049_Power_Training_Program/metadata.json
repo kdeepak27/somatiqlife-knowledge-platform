@@ -1,0 +1,37 @@
+{
+  "module_id": "PROG-049",
+  "title": "Power Training Program",
+  "subtitle": "A structured, evidence-based progression for power training program, including suitability and safety.",
+  "domain": "Exercise Programs",
+  "category": "HIIT and Performance",
+  "som_stages": [
+    "Introduction",
+    "Progression",
+    "Optimization"
+  ],
+  "audience": [
+    "Fitness Enthusiasts",
+    "Athletes",
+    "Coaches",
+    "Rehabilitation Specialists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Power Training",
+    "Explosive Strength",
+    "Plyometrics",
+    "HIIT",
+    "Neuromuscular Adaptations",
+    "Exercise Progression",
+    "Safety in Training",
+    "Performance Enhancement"
+  ],
+  "related_modules": [
+    "PROG-025",
+    "PROG-034",
+    "PROG-051"
+  ],
+  "evidence_strength": "Established evidence with emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
