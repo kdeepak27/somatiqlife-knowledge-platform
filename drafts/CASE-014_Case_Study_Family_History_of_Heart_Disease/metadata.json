@@ -1,0 +1,39 @@
+{
+  "module_id": "CASE-014",
+  "title": "Case Study: Family History of Heart Disease",
+  "subtitle": "A realistic educational scenario integrating risk, evidence, lifestyle, and safety for case study: family history of heart disease.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Heart Health Scenarios",
+  "som_stages": [
+    "Prevention",
+    "Risk Assessment",
+    "Patient Education"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Health Educators",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Intermediate (Grades 9-11)",
+  "keywords": [
+    "Heart Disease",
+    "Family History",
+    "Cardiovascular Risk",
+    "Genetics",
+    "Lifestyle",
+    "Prevention",
+    "Cholesterol",
+    "Blood Pressure",
+    "Exercise",
+    "Diet"
+  ],
+  "related_modules": [
+    "CARD-005",
+    "PREV-034",
+    "GENE-021"
+  ],
+  "evidence_strength": "Established evidence supported by clinical guidelines and large genetic studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
