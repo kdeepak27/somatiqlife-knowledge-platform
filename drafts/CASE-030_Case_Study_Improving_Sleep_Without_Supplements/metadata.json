@@ -1,0 +1,36 @@
+{
+  "module_id": "CASE-030",
+  "title": "Case Study: Improving Sleep Without Supplements",
+  "subtitle": "A realistic educational scenario integrating sleep science, behavior, safety, and practical options for case study: improving sleep without supplements.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Sleep Scenarios",
+  "som_stages": [
+    "Assessment",
+    "Intervention",
+    "Follow-up"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Sleep Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "sleep hygiene",
+    "behavioral sleep improvement",
+    "non-pharmacologic sleep aids",
+    "insomnia management",
+    "circadian rhythms",
+    "sleep physiology",
+    "sleep disorders",
+    "sleep environment"
+  ],
+  "related_modules": [
+    "SOM-SLP-101",
+    "SOM-BHV-204",
+    "SOM-PHY-310"
+  ],
+  "evidence_strength": "Established evidence supplemented by moderate and emerging evidence where noted.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
