@@ -1,0 +1,37 @@
+{
+  "module_id": "PROG-072",
+  "title": "Exercise Program for Type 2 Diabetes",
+  "subtitle": "Evidence-based exercise planning, progression, monitoring, and safety for exercise program for type 2 diabetes.",
+  "domain": "Exercise Programs",
+  "category": "Condition-Focused Programs",
+  "som_stages": [
+    "Diagnosis",
+    "Treatment",
+    "Maintenance"
+  ],
+  "audience": [
+    "Patients with Type 2 Diabetes",
+    "Healthcare Providers",
+    "Exercise Professionals",
+    "Caregivers"
+  ],
+  "reading_level": "Intermediate (High School to Undergraduate)",
+  "keywords": [
+    "Type 2 Diabetes",
+    "Exercise Program",
+    "Physical Activity",
+    "Glycemic Control",
+    "Aerobic Exercise",
+    "Resistance Training",
+    "Exercise Safety",
+    "Exercise Monitoring"
+  ],
+  "related_modules": [
+    "PROG-045",
+    "CON-033",
+    "EDU-021"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

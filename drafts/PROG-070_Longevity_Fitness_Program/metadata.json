@@ -1,0 +1,39 @@
+{
+  "module_id": "PROG-070",
+  "title": "Longevity Fitness Program",
+  "subtitle": "A practical, progressive exercise framework for longevity fitness program, tailored to healthy aging.",
+  "domain": "Exercise Programs",
+  "category": "Healthy Aging Programs",
+  "som_stages": [
+    "Maintenance",
+    "Prevention",
+    "Optimization"
+  ],
+  "audience": [
+    "Adults",
+    "Older Adults",
+    "Health Coaches",
+    "Fitness Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Longevity",
+    "Fitness",
+    "Healthy Aging",
+    "Exercise Program",
+    "Progressive Training",
+    "Strength Training",
+    "Aerobic Exercise",
+    "Flexibility",
+    "Balance",
+    "Physical Activity"
+  ],
+  "related_modules": [
+    "PROG-045",
+    "PROG-067",
+    "PROG-090"
+  ],
+  "evidence_strength": "Strong evidence from randomized controlled trials and observational studies supports the efficacy of multi-component exercise programs in promoting healthy aging and longevity.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
