@@ -1,0 +1,36 @@
+{
+  "module_id": "CASE-060",
+  "title": "Case Study: Women's Preventive Health Planning",
+  "subtitle": "A realistic educational scenario integrating physiology, prevention, lifestyle, and safety for case study: women's preventive health planning.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Women's Health Scenarios",
+  "som_stages": [
+    "Adult Preventive Care",
+    "Chronic Disease Prevention",
+    "Hormonal Health Management"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Women's health",
+    "Preventive care",
+    "Screening",
+    "Hormonal health",
+    "Lifestyle modification",
+    "Vaccination",
+    "Bone density",
+    "Cardiovascular risk"
+  ],
+  "related_modules": [
+    "WOMEN-101",
+    "PREV-023",
+    "HORM-045"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and multiple longitudinal studies with some emerging evidence in personalized preventive strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

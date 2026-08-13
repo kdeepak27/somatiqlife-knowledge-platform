@@ -1,0 +1,38 @@
+{
+  "module_id": "CASE-061",
+  "title": "Case Study: Low Energy in a Man Over 50",
+  "subtitle": "A realistic educational scenario integrating prevention, lifestyle, evaluation, and safety for case study: low energy in a man over 50.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Men's Health Scenarios",
+  "som_stages": [
+    "Prevention",
+    "Evaluation",
+    "Lifestyle Optimization",
+    "Safety Considerations"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Educators",
+    "Primary Care Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "low energy",
+    "fatigue",
+    "men over 50",
+    "hypogonadism",
+    "sleep apnea",
+    "depression",
+    "thyroid dysfunction",
+    "lifestyle modification",
+    "clinical evaluation"
+  ],
+  "related_modules": [
+    "CASE-018",
+    "CASE-041",
+    "MEN-025"
+  ],
+  "evidence_strength": "Established and moderate evidence based on clinical guidelines and population studies, with emerging evidence on hormonal therapies and lifestyle interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
