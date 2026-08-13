@@ -1,0 +1,37 @@
+{
+  "module_id": "CASE-023",
+  "title": "Case Study: Waking During the Night",
+  "subtitle": "A realistic educational scenario integrating sleep science, behavior, safety, and practical options for case study: waking during the night.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Sleep Scenarios",
+  "som_stages": [
+    "Awareness",
+    "Understanding",
+    "Application"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Sleep Clinicians",
+    "Behavioral Health Specialists"
+  ],
+  "reading_level": "Moderate (7th-9th grade)",
+  "keywords": [
+    "night awakenings",
+    "sleep fragmentation",
+    "insomnia",
+    "sleep maintenance",
+    "circadian rhythm",
+    "sleep hygiene",
+    "behavioral therapy",
+    "sleep physiology"
+  ],
+  "related_modules": [
+    "SLEEP-001",
+    "SLEEP-007",
+    "CASE-012"
+  ],
+  "evidence_strength": "Established evidence combined with emerging data on individualized management approaches.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

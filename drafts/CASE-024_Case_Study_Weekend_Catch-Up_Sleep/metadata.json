@@ -1,0 +1,37 @@
+{
+  "module_id": "CASE-024",
+  "title": "Case Study: Weekend Catch-Up Sleep",
+  "subtitle": "A realistic educational scenario integrating sleep science, behavior, safety, and practical options for case study: weekend catch-up sleep.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Sleep Scenarios",
+  "som_stages": [
+    "All"
+  ],
+  "audience": [
+    "General Public",
+    "Patients",
+    "Healthcare Providers",
+    "Sleep Researchers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Sleep",
+    "Catch-up Sleep",
+    "Sleep Deprivation",
+    "Sleep Debt",
+    "Sleep Cycle",
+    "Circadian Rhythm",
+    "Sleep Hygiene",
+    "Napping",
+    "Sleep Recovery",
+    "Sleep Duration"
+  ],
+  "related_modules": [
+    "SLEEP-001",
+    "SLEEP-005",
+    "CASE-010"
+  ],
+  "evidence_strength": "Moderate evidence from experimental and observational studies supports partial benefits and significant limitations of weekend catch-up sleep.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
