@@ -1,0 +1,38 @@
+{
+  "module_id": "CASE-068",
+  "title": "Case Study: Prostate Screening Decision",
+  "subtitle": "A realistic educational scenario integrating prevention, lifestyle, evaluation, and safety for case study: prostate screening decision.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Men's Health Scenarios",
+  "som_stages": [
+    "Prevention",
+    "Screening",
+    "Decision Making",
+    "Patient Education"
+  ],
+  "audience": [
+    "Adult Men",
+    "Healthcare Providers",
+    "Health Educators",
+    "General Public"
+  ],
+  "reading_level": "Moderate (Health Literate Audience)",
+  "keywords": [
+    "prostate screening",
+    "PSA test",
+    "digital rectal exam",
+    "prostate cancer",
+    "men's health",
+    "prevention",
+    "risk factors",
+    "shared decision making",
+    "screening guidelines"
+  ],
+  "related_modules": [
+    "CASE-045-MEN-HEALTH-LIFESTYLE",
+    "CASE-051-MEN-HEALTH-URINARY-SYMPTOMS"
+  ],
+  "evidence_strength": "Moderate (based on guidelines and multiple randomized controlled trials with variable outcomes)",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

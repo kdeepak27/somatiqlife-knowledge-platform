@@ -1,0 +1,41 @@
+{
+  "module_id": "CASE-069",
+  "title": "Case Study: Men's Work Stress",
+  "subtitle": "A realistic educational scenario integrating prevention, lifestyle, evaluation, and safety for case study: men's work stress.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Men's Health Scenarios",
+  "som_stages": [
+    "Prevention",
+    "Evaluation",
+    "Lifestyle Management",
+    "Safety and Risk"
+  ],
+  "audience": [
+    "Men",
+    "Healthcare Providers",
+    "Health Educators",
+    "Employers"
+  ],
+  "reading_level": "High School to Adult",
+  "keywords": [
+    "Men's health",
+    "Work stress",
+    "Occupational stress",
+    "Stress management",
+    "Mental health",
+    "Lifestyle modification",
+    "Cardiovascular risk",
+    "Stress physiology",
+    "Stress evaluation",
+    "Workplace health"
+  ],
+  "related_modules": [
+    "CASE-043",
+    "CASE-057",
+    "LIFESTYLE-022",
+    "MENTALHEALTH-031"
+  ],
+  "evidence_strength": "Established evidence with some areas of emerging research, particularly regarding gender-specific responses and interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
