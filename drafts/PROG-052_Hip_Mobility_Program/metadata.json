@@ -1,0 +1,40 @@
+{
+  "module_id": "PROG-052",
+  "title": "Hip Mobility Program",
+  "subtitle": "A progressive routine for hip mobility program, including frequency, progression, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Mobility and Balance",
+  "som_stages": [
+    "Maintenance",
+    "Improvement",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Physical Therapists",
+    "Athletes",
+    "Older Adults"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "hip mobility",
+    "flexibility",
+    "range of motion",
+    "hip joint",
+    "exercise progression",
+    "safety",
+    "hip flexibility",
+    "mobility routine",
+    "joint health",
+    "balance"
+  ],
+  "related_modules": [
+    "PROG-044",
+    "PROG-060",
+    "PROG-073"
+  ],
+  "evidence_strength": "Moderate evidence for improved function and pain reduction with hip mobility exercises; emerging evidence for performance enhancement benefits.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,40 @@
+{
+  "module_id": "PROG-050",
+  "title": "Athletic Conditioning Program",
+  "subtitle": "A structured, evidence-based progression for athletic conditioning program, including suitability and safety.",
+  "domain": "Exercise Programs",
+  "category": "HIIT and Performance",
+  "som_stages": [
+    "assessment",
+    "progression",
+    "maintenance"
+  ],
+  "audience": [
+    "athletes",
+    "coaches",
+    "personal trainers",
+    "sports medicine professionals",
+    "fitness enthusiasts"
+  ],
+  "reading_level": "Intermediate - Advanced",
+  "keywords": [
+    "athletic conditioning",
+    "performance training",
+    "HIIT",
+    "exercise progression",
+    "sports physiology",
+    "training safety",
+    "endurance",
+    "strength training",
+    "periodization",
+    "injury prevention"
+  ],
+  "related_modules": [
+    "PROG-030",
+    "FIT-015",
+    "RECOV-021"
+  ],
+  "evidence_strength": "Established evidence with emerging areas requiring further research, especially individual response variability and optimized progression methods.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
