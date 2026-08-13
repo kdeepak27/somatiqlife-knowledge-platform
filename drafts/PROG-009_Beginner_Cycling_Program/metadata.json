@@ -1,0 +1,39 @@
+{
+  "module_id": "PROG-009",
+  "title": "Beginner Cycling Program",
+  "subtitle": "A structured, progressive, safety-conscious approach to beginner cycling program.",
+  "domain": "Exercise Programs",
+  "category": "Beginner Programs",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "Beginner Cyclists",
+    "Fitness Enthusiasts",
+    "General Public",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate (Grades 8-10)",
+  "keywords": [
+    "Cycling",
+    "Beginner Exercise",
+    "Bike Safety",
+    "Cardiovascular Fitness",
+    "Muscle Endurance",
+    "Cycling Equipment",
+    "Training Program",
+    "Physical Activity",
+    "Exercise Progression",
+    "Injury Prevention"
+  ],
+  "related_modules": [
+    "PROG-003-Cycling Endurance",
+    "SAF-001-Cycling Safety Basics",
+    "FIT-007-Basic Aerobic Training"
+  ],
+  "evidence_strength": "Established evidence supports cycling as an effective and safe beginner exercise with documented cardiovascular, muscular, and psychological benefits when programs follow progressive principles and safety guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

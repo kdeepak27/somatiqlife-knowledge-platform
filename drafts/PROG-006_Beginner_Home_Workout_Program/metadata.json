@@ -1,0 +1,40 @@
+{
+  "module_id": "PROG-006",
+  "title": "Beginner Home Workout Program",
+  "subtitle": "A structured, progressive, safety-conscious approach to beginner home workout program.",
+  "domain": "Exercise Programs",
+  "category": "Beginner Programs",
+  "som_stages": [
+    "Pre-contemplation",
+    "Contemplation",
+    "Preparation",
+    "Action"
+  ],
+  "audience": [
+    "General Adult Population",
+    "Beginners in Exercise",
+    "Home Exercisers",
+    "Individuals Seeking Low-Cost Fitness Options"
+  ],
+  "reading_level": "General Audience, Grade 8-10",
+  "keywords": [
+    "home workout",
+    "beginner exercise",
+    "bodyweight training",
+    "progressive overload",
+    "fitness safety",
+    "exercise physiology",
+    "physical activity guidelines",
+    "exercise equipment",
+    "workout routine",
+    "physical fitness"
+  ],
+  "related_modules": [
+    "PROG-003",
+    "EXER-010",
+    "FIT-101"
+  ],
+  "evidence_strength": "Established evidence supporting health benefits of home-based beginner exercise programs; moderate evidence supports optimal progression strategies and motivational methods; emerging evidence on long-term adherence factors.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

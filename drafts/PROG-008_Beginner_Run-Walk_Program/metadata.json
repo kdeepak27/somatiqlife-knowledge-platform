@@ -1,0 +1,35 @@
+{
+  "module_id": "PROG-008",
+  "title": "Beginner Run-Walk Program",
+  "subtitle": "A structured, progressive, safety-conscious approach to beginner run-walk program.",
+  "domain": "Exercise Programs",
+  "category": "Beginner Programs",
+  "som_stages": [
+    "Preparation",
+    "Initiation",
+    "Maintenance"
+  ],
+  "audience": [
+    "Beginners",
+    "General public",
+    "Fitness enthusiasts",
+    "Healthcare providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "run-walk program",
+    "beginner running",
+    "progressive exercise",
+    "exercise safety",
+    "cardiovascular fitness",
+    "interval training",
+    "physical activity guidelines"
+  ],
+  "related_modules": [
+    "PROG-007",
+    "PROG-009"
+  ],
+  "evidence_strength": "Established evidence with emerging insights into optimization and long-term outcomes",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
