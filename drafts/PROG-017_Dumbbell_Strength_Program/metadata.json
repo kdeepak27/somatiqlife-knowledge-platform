@@ -1,0 +1,36 @@
+{
+  "module_id": "PROG-017",
+  "title": "Dumbbell Strength Program",
+  "subtitle": "Programming principles, progression, exercise selection, and safety for dumbbell strength program.",
+  "domain": "Exercise Programs",
+  "category": "Strength Programs",
+  "som_stages": [
+    "Beginner",
+    "Intermediate",
+    "Advanced"
+  ],
+  "audience": [
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Physical Therapists",
+    "Sports Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Dumbbell Training",
+    "Strength Training",
+    "Resistance Exercise",
+    "Progressive Overload",
+    "Exercise Selection",
+    "Muscle Hypertrophy",
+    "Safety",
+    "Workout Programming"
+  ],
+  "related_modules": [
+    "PROG-011",
+    "PROG-022"
+  ],
+  "evidence_strength": "Established evidence with some moderate emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

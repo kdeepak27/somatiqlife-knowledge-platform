@@ -1,0 +1,35 @@
+{
+  "module_id": "PROG-019",
+  "title": "Bodyweight Strength Program",
+  "subtitle": "Programming principles, progression, exercise selection, and safety for bodyweight strength program.",
+  "domain": "Exercise Programs",
+  "category": "Strength Programs",
+  "som_stages": [
+    "Initiation",
+    "Adaptation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Exercise Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Bodyweight Training",
+    "Strength Development",
+    "Exercise Progression",
+    "Calisthenics",
+    "Muscle Conditioning",
+    "Functional Fitness",
+    "Exercise Safety"
+  ],
+  "related_modules": [
+    "PROG-021",
+    "PROG-032",
+    "HEAL-015"
+  ],
+  "evidence_strength": "Established evidence supports bodyweight training’s effectiveness for improving muscular strength and neuromuscular coordination especially in novice and intermediate individuals. Emerging evidence explores advanced training effects and clinical applications. Safety relies on established exercise science principles and injury prevention strategies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

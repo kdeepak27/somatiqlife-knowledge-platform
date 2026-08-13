@@ -1,329 +1,4 @@
 module_id,title,domain,category,version,stage,path
-BEH-001,How Behavior Change Works,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-001_How_Behavior_Change_Works/module.json
-BEH-002,Motivation,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-002_Motivation/module.json
-BEH-003,Ability and Opportunity,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-003_Ability_and_Opportunity/module.json
-BEH-004,Habit Formation,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-004_Habit_Formation/module.json
-BEH-005,Habit Loops,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-005_Habit_Loops/module.json
-BEH-006,Automatic Behavior,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-006_Automatic_Behavior/module.json
-BEH-007,Intentions vs Actions,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-007_Intentions_vs_Actions/module.json
-BEH-008,Behavioral Triggers,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-008_Behavioral_Triggers/module.json
-BEH-009,Rewards and Reinforcement,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-009_Rewards_and_Reinforcement/module.json
-BEH-010,Identity-Based Habits,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-010_Identity-Based_Habits/module.json
-BEH-011,Self-Efficacy,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-011_Self-Efficacy/module.json
-BEH-012,Readiness to Change,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-012_Readiness_to_Change/module.json
-BEH-013,Stages of Change,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-013_Stages_of_Change/module.json
-BEH-014,Behavioral Friction,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-014_Behavioral_Friction/module.json
-BEH-015,Environmental Design,Behavior Change,Behavior Change Foundations,1.0,drafts,drafts/BEH-015_Environmental_Design/module.json
-BEH-016,Setting Health Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-016_Setting_Health_Goals/module.json
-BEH-017,SMART Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-017_SMART_Goals/module.json
-BEH-018,Process Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-018_Process_Goals/module.json
-BEH-019,Outcome Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-019_Outcome_Goals/module.json
-BEH-020,Approach Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-020_Approach_Goals/module.json
-BEH-021,Avoidance Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-021_Avoidance_Goals/module.json
-BEH-022,Short-Term Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-022_Short-Term_Goals/module.json
-BEH-023,Long-Term Goals,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-023_Long-Term_Goals/module.json
-BEH-024,Breaking Goals Into Steps,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-024_Breaking_Goals_Into_Steps/module.json
-BEH-025,Choosing One Priority,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-025_Choosing_One_Priority/module.json
-BEH-026,Goal Difficulty,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-026_Goal_Difficulty/module.json
-BEH-027,Goal Review,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-027_Goal_Review/module.json
-BEH-028,Goal Adjustment,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-028_Goal_Adjustment/module.json
-BEH-029,Goal Conflict,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-029_Goal_Conflict/module.json
-BEH-030,Creating a Personal Health Roadmap,Behavior Change,Goal Setting,1.0,drafts,drafts/BEH-030_Creating_a_Personal_Health_Roadmap/module.json
-BEH-031,Self-Monitoring,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-031_Self-Monitoring/module.json
-BEH-032,Habit Tracking,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-032_Habit_Tracking/module.json
-BEH-033,Food Tracking,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-033_Food_Tracking/module.json
-BEH-034,Exercise Tracking,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-034_Exercise_Tracking/module.json
-BEH-035,Sleep Tracking,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-035_Sleep_Tracking/module.json
-BEH-036,Weight Tracking,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-036_Weight_Tracking/module.json
-BEH-037,Blood Pressure Tracking,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-037_Blood_Pressure_Tracking/module.json
-BEH-038,Progress Photos,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-038_Progress_Photos/module.json
-BEH-039,Journaling Progress,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-039_Journaling_Progress/module.json
-BEH-040,Weekly Reviews,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-040_Weekly_Reviews/module.json
-BEH-041,Feedback Loops,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-041_Feedback_Loops/module.json
-BEH-042,Using Wearables,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-042_Using_Wearables/module.json
-BEH-043,Avoiding Tracking Obsession,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-043_Avoiding_Tracking_Obsession/module.json
-BEH-044,Interpreting Plateaus,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-044_Interpreting_Plateaus/module.json
-BEH-045,Celebrating Progress,Behavior Change,Tracking and Feedback,1.0,drafts,drafts/BEH-045_Celebrating_Progress/module.json
-BEH-046,Building Consistency,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-046_Building_Consistency/module.json
-BEH-047,Starting Small,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-047_Starting_Small/module.json
-BEH-048,Minimum Viable Habits,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-048_Minimum_Viable_Habits/module.json
-BEH-049,Never Miss Twice,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-049_Never_Miss_Twice/module.json
-BEH-050,Restarting After a Lapse,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-050_Restarting_After_a_Lapse/module.json
-BEH-051,Relapse Prevention,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-051_Relapse_Prevention/module.json
-BEH-052,Handling Setbacks,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-052_Handling_Setbacks/module.json
-BEH-053,Returning After Vacation,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-053_Returning_After_Vacation/module.json
-BEH-054,Returning After Illness,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-054_Returning_After_Illness/module.json
-BEH-055,Handling Busy Weeks,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-055_Handling_Busy_Weeks/module.json
-BEH-056,Maintaining Habits During Travel,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-056_Maintaining_Habits_During_Travel/module.json
-BEH-057,Flexible Routines,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-057_Flexible_Routines/module.json
-BEH-058,All-or-Nothing Thinking,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-058_All-or-Nothing_Thinking/module.json
-BEH-059,Perfectionism and Habits,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-059_Perfectionism_and_Habits/module.json
-BEH-060,Long-Term Maintenance,Behavior Change,Consistency and Relapse,1.0,drafts,drafts/BEH-060_Long-Term_Maintenance/module.json
-BEH-061,Intrinsic Motivation,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-061_Intrinsic_Motivation/module.json
-BEH-062,Extrinsic Motivation,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-062_Extrinsic_Motivation/module.json
-BEH-063,Values and Health,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-063_Values_and_Health/module.json
-BEH-064,Purpose and Behavior Change,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-064_Purpose_and_Behavior_Change/module.json
-BEH-065,Growth Mindset,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-065_Growth_Mindset/module.json
-BEH-066,Self-Compassion and Change,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-066_Self-Compassion_and_Change/module.json
-BEH-067,Positive Self-Talk,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-067_Positive_Self-Talk/module.json
-BEH-068,Managing Low Motivation,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-068_Managing_Low_Motivation/module.json
-BEH-069,Motivation Waves,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-069_Motivation_Waves/module.json
-BEH-070,Decision Fatigue,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-070_Decision_Fatigue/module.json
-BEH-071,Willpower,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-071_Willpower/module.json
-BEH-072,Temptation Bundling,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-072_Temptation_Bundling/module.json
-BEH-073,Implementation Intentions,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-073_Implementation_Intentions/module.json
-BEH-074,Mental Contrasting,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-074_Mental_Contrasting/module.json
-BEH-075,Building Confidence,Behavior Change,Motivation and Mindset,1.0,drafts,drafts/BEH-075_Building_Confidence/module.json
-BEH-076,Home Environment and Habits,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-076_Home_Environment_and_Habits/module.json
-BEH-077,Work Environment and Habits,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-077_Work_Environment_and_Habits/module.json
-BEH-078,Food Environment,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-078_Food_Environment/module.json
-BEH-079,Exercise Environment,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-079_Exercise_Environment/module.json
-BEH-080,Sleep Environment,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-080_Sleep_Environment/module.json
-BEH-081,Social Support,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-081_Social_Support/module.json
-BEH-082,Accountability Partners,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-082_Accountability_Partners/module.json
-BEH-083,Family Behavior Change,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-083_Family_Behavior_Change/module.json
-BEH-084,Partner Support,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-084_Partner_Support/module.json
-BEH-085,Group Challenges,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-085_Group_Challenges/module.json
-BEH-086,Community Support,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-086_Community_Support/module.json
-BEH-087,Role Models,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-087_Role_Models/module.json
-BEH-088,Social Norms,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-088_Social_Norms/module.json
-BEH-089,Peer Influence,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-089_Peer_Influence/module.json
-BEH-090,Designing Healthy Defaults,Behavior Change,Environment and Social Support,1.0,drafts,drafts/BEH-090_Designing_Healthy_Defaults/module.json
-BEH-091,Identifying Barriers,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-091_Identifying_Barriers/module.json
-BEH-092,Time Barriers,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-092_Time_Barriers/module.json
-BEH-093,Cost Barriers,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-093_Cost_Barriers/module.json
-BEH-094,Energy Barriers,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-094_Energy_Barriers/module.json
-BEH-095,Travel Barriers,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-095_Travel_Barriers/module.json
-BEH-096,Family Barriers,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-096_Family_Barriers/module.json
-BEH-097,Work Barriers,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-097_Work_Barriers/module.json
-BEH-098,Pain and Exercise Barriers,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-098_Pain_and_Exercise_Barriers/module.json
-BEH-099,Weather Barriers,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-099_Weather_Barriers/module.json
-BEH-100,Food Cravings,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-100_Food_Cravings/module.json
-BEH-101,Emotional Eating,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-101_Emotional_Eating/module.json
-BEH-102,Procrastination,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-102_Procrastination/module.json
-BEH-103,Planning for Obstacles,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-103_Planning_for_Obstacles/module.json
-BEH-104,If-Then Plans,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-104_If-Then_Plans/module.json
-BEH-105,Problem-Solving for Health Goals,Behavior Change,Problem Solving,1.0,drafts,drafts/BEH-105_Problem-Solving_for_Health_Goals/module.json
-BEH-106,Health Coaching,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-106_Health_Coaching/module.json
-BEH-107,Motivational Interviewing,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-107_Motivational_Interviewing/module.json
-BEH-108,Open-Ended Questions,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-108_Open-Ended_Questions/module.json
-BEH-109,Reflective Listening,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-109_Reflective_Listening/module.json
-BEH-110,Supporting Autonomy,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-110_Supporting_Autonomy/module.json
-BEH-111,Shared Decision Making,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-111_Shared_Decision_Making/module.json
-BEH-112,Giving Health Feedback,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-112_Giving_Health_Feedback/module.json
-BEH-113,Receiving Health Feedback,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-113_Receiving_Health_Feedback/module.json
-BEH-114,Asking for Support,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-114_Asking_for_Support/module.json
-BEH-115,Talking About Weight,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-115_Talking_About_Weight/module.json
-BEH-116,Talking About Exercise,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-116_Talking_About_Exercise/module.json
-BEH-117,Talking About Food,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-117_Talking_About_Food/module.json
-BEH-118,Talking About Sleep,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-118_Talking_About_Sleep/module.json
-BEH-119,Talking About Stress,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-119_Talking_About_Stress/module.json
-BEH-120,Building a Coaching Relationship,Behavior Change,Coaching and Communication,1.0,drafts,drafts/BEH-120_Building_a_Coaching_Relationship/module.json
-BEH-121,Stabilize Habits,Behavior Change,SOM Habit System,1.0,drafts,drafts/BEH-121_Stabilize_Habits/module.json
-BEH-122,Optimize Habits,Behavior Change,SOM Habit System,1.0,drafts,drafts/BEH-122_Optimize_Habits/module.json
-BEH-123,Maximize Habits,Behavior Change,SOM Habit System,1.0,drafts,drafts/BEH-123_Maximize_Habits/module.json
-BEH-124,Choosing Stabilize Priorities,Behavior Change,SOM Habit System,1.0,drafts,drafts/BEH-124_Choosing_Stabilize_Priorities/module.json
-BEH-125,Choosing Optimize Priorities,Behavior Change,SOM Habit System,1.0,drafts,drafts/BEH-125_Choosing_Optimize_Priorities/module.json
-FAQ-001,How much protein do I need?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-001_How_much_protein_do_I_need/module.json
-FAQ-002,Are carbohydrates bad for health?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-002_Are_carbohydrates_bad_for_health/module.json
-FAQ-003,How much fiber should I eat?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-003_How_much_fiber_should_I_eat/module.json
-FAQ-004,Is dietary fat unhealthy?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-004_Is_dietary_fat_unhealthy/module.json
-FAQ-005,How much added sugar is too much?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-005_How_much_added_sugar_is_too_much/module.json
-FAQ-006,Is breakfast necessary?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-006_Is_breakfast_necessary/module.json
-FAQ-007,How often should I eat?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-007_How_often_should_I_eat/module.json
-FAQ-008,Are snacks unhealthy?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-008_Are_snacks_unhealthy/module.json
-FAQ-009,Is late-night eating bad?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-009_Is_late-night_eating_bad/module.json
-FAQ-010,How much water should I drink?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-010_How_much_water_should_I_drink/module.json
-FAQ-011,Is coffee healthy?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-011_Is_coffee_healthy/module.json
-FAQ-012,Is tea healthy?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-012_Is_tea_healthy/module.json
-FAQ-013,Are artificial sweeteners safe?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-013_Are_artificial_sweeteners_safe/module.json
-FAQ-014,Is intermittent fasting healthy?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-014_Is_intermittent_fasting_healthy/module.json
-FAQ-015,Is a vegetarian diet healthy?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-015_Is_a_vegetarian_diet_healthy/module.json
-FAQ-016,Is a vegan diet healthy?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-016_Is_a_vegan_diet_healthy/module.json
-FAQ-017,Is the Mediterranean diet best?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-017_Is_the_Mediterranean_diet_best/module.json
-FAQ-018,How do I read a nutrition label?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-018_How_do_I_read_a_nutrition_label/module.json
-FAQ-019,Do I need a multivitamin?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-019_Do_I_need_a_multivitamin/module.json
-FAQ-020,How can I eat healthy on a budget?,Frequently Asked Questions,Nutrition FAQs,1.0,drafts,drafts/FAQ-020_How_can_I_eat_healthy_on_a_budget/module.json
-FAQ-021,How much exercise do I need?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-021_How_much_exercise_do_I_need/module.json
-FAQ-022,Is walking enough exercise?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-022_Is_walking_enough_exercise/module.json
-FAQ-023,How many steps should I get?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-023_How_many_steps_should_I_get/module.json
-FAQ-024,Do I need cardio and strength training?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-024_Do_I_need_cardio_and_strength_training/module.json
-FAQ-025,How often should I strength train?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-025_How_often_should_I_strength_train/module.json
-FAQ-026,How many sets should I do?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-026_How_many_sets_should_I_do/module.json
-FAQ-027,How heavy should I lift?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-027_How_heavy_should_I_lift/module.json
-FAQ-028,Do I need to train to failure?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-028_Do_I_need_to_train_to_failure/module.json
-FAQ-029,How long should a workout be?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-029_How_long_should_a_workout_be/module.json
-FAQ-030,What is Zone 2 training?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-030_What_is_Zone_2_training/module.json
-FAQ-031,Is HIIT Necessary?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-031_Is_HIIT_Necessary/module.json
-FAQ-032,How can I improve VO2 max?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-032_How_can_I_improve_VO2_max/module.json
-FAQ-033,Should I stretch before exercise?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-033_Should_I_stretch_before_exercise/module.json
-FAQ-034,How much rest do I need between workouts?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-034_How_much_rest_do_I_need_between_workouts/module.json
-FAQ-035,Why am I sore after exercise?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-035_Why_am_I_sore_after_exercise/module.json
-FAQ-036,Can I exercise every day?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-036_Can_I_exercise_every_day/module.json
-FAQ-037,How do I start exercising after a long break?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-037_How_do_I_start_exercising_after_a_long_break/module.json
-FAQ-038,Is exercise safe after 50?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-038_Is_exercise_safe_after_50/module.json
-FAQ-039,How do I prevent exercise injuries?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-039_How_do_I_prevent_exercise_injuries/module.json
-FAQ-040,What is the best exercise for longevity?,Frequently Asked Questions,Exercise FAQs,1.0,drafts,drafts/FAQ-040_What_is_the_best_exercise_for_longevity/module.json
-FAQ-041,How much sleep do adults need?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-041_How_much_sleep_do_adults_need/module.json
-FAQ-042,Can I function well on six hours of sleep?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-042_Can_I_function_well_on_six_hours_of_sleep/module.json
-FAQ-043,Why do I wake up at night?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-043_Why_do_I_wake_up_at_night/module.json
-FAQ-044,Why am I tired after enough sleep?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-044_Why_am_I_tired_after_enough_sleep/module.json
-FAQ-045,How can I fall asleep faster?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-045_How_can_I_fall_asleep_faster/module.json
-FAQ-046,What should I do if I cannot sleep?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-046_What_should_I_do_if_I_cannot_sleep/module.json
-FAQ-047,Are naps good for health?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-047_Are_naps_good_for_health/module.json
-FAQ-048,Can I catch up on sleep on weekends?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-048_Can_I_catch_up_on_sleep_on_weekends/module.json
-FAQ-049,Does caffeine affect sleep?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-049_Does_caffeine_affect_sleep/module.json
-FAQ-050,Does alcohol help sleep?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-050_Does_alcohol_help_sleep/module.json
-FAQ-051,Do screens really affect sleep?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-051_Do_screens_really_affect_sleep/module.json
-FAQ-052,What bedroom temperature is best?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-052_What_bedroom_temperature_is_best/module.json
-FAQ-053,Does exercise improve sleep?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-053_Does_exercise_improve_sleep/module.json
-FAQ-054,What is deep sleep?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-054_What_is_deep_sleep/module.json
-FAQ-055,What is REM sleep?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-055_What_is_REM_sleep/module.json
-FAQ-056,Are sleep trackers accurate?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-056_Are_sleep_trackers_accurate/module.json
-FAQ-057,Should I take melatonin?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-057_Should_I_take_melatonin/module.json
-FAQ-058,How do I know if I have sleep apnea?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-058_How_do_I_know_if_I_have_sleep_apnea/module.json
-FAQ-059,Why do I snore?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-059_Why_do_I_snore/module.json
-FAQ-060,How can I improve my sleep naturally?,Frequently Asked Questions,Sleep FAQs,1.0,drafts,drafts/FAQ-060_How_can_I_improve_my_sleep_naturally/module.json
-FAQ-061,Why am I gaining weight?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-061_Why_am_I_gaining_weight/module.json
-FAQ-062,Why is weight loss so difficult?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-062_Why_is_weight_loss_so_difficult/module.json
-FAQ-063,How fast should I lose weight?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-063_How_fast_should_I_lose_weight/module.json
-FAQ-064,Do calories matter?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-064_Do_calories_matter/module.json
-FAQ-065,Can I lose fat without counting calories?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-065_Can_I_lose_fat_without_counting_calories/module.json
-FAQ-066,How much protein helps weight loss?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-066_How_much_protein_helps_weight_loss/module.json
-FAQ-067,Does walking help weight loss?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-067_Does_walking_help_weight_loss/module.json
-FAQ-068,Does strength training help weight loss?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-068_Does_strength_training_help_weight_loss/module.json
-FAQ-069,Why did my weight loss stop?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-069_Why_did_my_weight_loss_stop/module.json
-FAQ-070,Why does body weight fluctuate?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-070_Why_does_body_weight_fluctuate/module.json
-FAQ-071,Is belly fat more dangerous?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-071_Is_belly_fat_more_dangerous/module.json
-FAQ-072,Can I lose belly fat specifically?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-072_Can_I_lose_belly_fat_specifically/module.json
-FAQ-073,Does metabolism slow with age?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-073_Does_metabolism_slow_with_age/module.json
-FAQ-074,Can sleep affect weight?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-074_Can_sleep_affect_weight/module.json
-FAQ-075,Can stress affect weight?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-075_Can_stress_affect_weight/module.json
-FAQ-076,Should I weigh myself every day?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-076_Should_I_weigh_myself_every_day/module.json
-FAQ-077,What is a healthy weight?,Frequently Asked Questions,Weight FAQs,1.0.0,drafts,drafts/FAQ-077_What_is_a_healthy_weight/module.json
-FAQ-078,Is BMI useful?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-078_Is_BMI_useful/module.json
-FAQ-079,How do I maintain lost weight?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-079_How_do_I_maintain_lost_weight/module.json
-FAQ-080,What is the most sustainable way to lose weight?,Frequently Asked Questions,Weight FAQs,1.0,drafts,drafts/FAQ-080_What_is_the_most_sustainable_way_to_lose_weight/module.json
-FAQ-081,What is insulin resistance?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-081_What_is_insulin_resistance/module.json
-FAQ-082,What is prediabetes?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-082_What_is_prediabetes/module.json
-FAQ-083,Can prediabetes be reversed?,Frequently Asked Questions,Metabolic Health FAQs,1.0.0,drafts,drafts/FAQ-083_Can_prediabetes_be_reversed/module.json
-FAQ-084,What causes type 2 diabetes?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-084_What_causes_type_2_diabetes/module.json
-FAQ-085,How can I lower blood sugar naturally?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-085_How_can_I_lower_blood_sugar_naturally/module.json
-FAQ-086,What does HbA1c mean?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-086_What_does_HbA1c_mean/module.json
-FAQ-087,What is fasting glucose?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-087_What_is_fasting_glucose/module.json
-FAQ-088,Why does blood sugar rise after meals?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-088_Why_does_blood_sugar_rise_after_meals/module.json
-FAQ-089,Does walking after meals help blood sugar?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-089_Does_walking_after_meals_help_blood_sugar/module.json
-FAQ-090,Does strength training improve insulin sensitivity?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-090_Does_strength_training_improve_insulin_sensitivity/module.json
-FAQ-091,What is metabolic syndrome?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-091_What_is_metabolic_syndrome/module.json
-FAQ-092,What causes fatty liver?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-092_What_causes_fatty_liver/module.json
-FAQ-093,Can Fatty Liver Improve?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-093_Can_Fatty_Liver_Improve/module.json
-FAQ-094,What are triglycerides?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-094_What_are_triglycerides/module.json
-FAQ-095,How can I lower triglycerides?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-095_How_can_I_lower_triglycerides/module.json
-FAQ-096,What is visceral fat?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-096_What_is_visceral_fat/module.json
-FAQ-097,How can I improve metabolic health?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-097_How_can_I_improve_metabolic_health/module.json
-FAQ-098,Does sleep affect blood sugar?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-098_Does_sleep_affect_blood_sugar/module.json
-FAQ-099,Does stress raise blood sugar?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-099_Does_stress_raise_blood_sugar/module.json
-FAQ-100,What should I monitor for metabolic health?,Frequently Asked Questions,Metabolic Health FAQs,1.0,drafts,drafts/FAQ-100_What_should_I_monitor_for_metabolic_health/module.json
-FAQ-101,What is a healthy blood pressure?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-101_What_is_a_healthy_blood_pressure/module.json
-FAQ-102,Why does blood pressure rise with age?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-102_Why_does_blood_pressure_rise_with_age/module.json
-FAQ-103,How can I lower blood pressure?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-103_How_can_I_lower_blood_pressure/module.json
-FAQ-104,What is LDL cholesterol?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-104_What_is_LDL_cholesterol/module.json
-FAQ-105,What is HDL cholesterol?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-105_What_is_HDL_cholesterol/module.json
-FAQ-106,What is ApoB?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-106_What_is_ApoB/module.json
-FAQ-107,What is lipoprotein(a)?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-107_What_is_lipoprotein(a)/module.json
-FAQ-108,Should I worry about cholesterol in food?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-108_Should_I_worry_about_cholesterol_in_food/module.json
-FAQ-109,Does saturated fat raise cholesterol?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-109_Does_saturated_fat_raise_cholesterol/module.json
-FAQ-110,Does exercise lower cholesterol?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-110_Does_exercise_lower_cholesterol/module.json
-FAQ-111,How does fiber affect cholesterol?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-111_How_does_fiber_affect_cholesterol/module.json
-FAQ-112,What causes atherosclerosis?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-112_What_causes_atherosclerosis/module.json
-FAQ-113,How can I reduce heart attack risk?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-113_How_can_I_reduce_heart_attack_risk/module.json
-FAQ-114,How can I reduce stroke risk?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-114_How_can_I_reduce_stroke_risk/module.json
-FAQ-115,What is coronary calcium scoring?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-115_What_is_coronary_calcium_scoring/module.json
-FAQ-116,Does stress affect the heart?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-116_Does_stress_affect_the_heart/module.json
-FAQ-117,How does sleep affect heart health?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-117_How_does_sleep_affect_heart_health/module.json
-FAQ-118,Why are South Asians at higher cardiovascular risk?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-118_Why_are_South_Asians_at_higher_cardiovascular_risk/module.json
-FAQ-119,What should I track for heart health?,Frequently Asked Questions,Heart Health FAQs,1.0,drafts,drafts/FAQ-119_What_should_I_track_for_heart_health/module.json
-FAQ-120,How can I age well?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-120_How_can_I_age_well/module.json
-FAQ-121,Why do we lose muscle with age?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-121_Why_do_we_lose_muscle_with_age/module.json
-FAQ-122,How can I prevent muscle loss?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-122_How_can_I_prevent_muscle_loss/module.json
-FAQ-123,How much protein do older adults need?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-123_How_much_protein_do_older_adults_need/module.json
-FAQ-124,Can I build muscle after 60?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-124_Can_I_build_muscle_after_60/module.json
-FAQ-125,What exercise is most important after 50?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-125_What_exercise_is_most_important_after_50/module.json
-FAQ-126,How can I maintain balance?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-126_How_can_I_maintain_balance/module.json
-FAQ-127,How can I prevent falls?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-127_How_can_I_prevent_falls/module.json
-FAQ-128,How can I protect my bones?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-128_How_can_I_protect_my_bones/module.json
-FAQ-129,How can I reduce dementia risk?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-129_How_can_I_reduce_dementia_risk/module.json
-FAQ-130,Does exercise help brain aging?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-130_Does_exercise_help_brain_aging/module.json
-FAQ-131,How can I preserve mobility?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-131_How_can_I_preserve_mobility/module.json
-FAQ-132,What is frailty?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-132_What_is_frailty/module.json
-FAQ-133,Can frailty be reversed?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-133_Can_frailty_be_reversed/module.json
-FAQ-134,How does sleep change with age?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-134_How_does_sleep_change_with_age/module.json
-FAQ-135,Why does metabolism change with age?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-135_Why_does_metabolism_change_with_age/module.json
-FAQ-136,How can I maintain energy as I age?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-136_How_can_I_maintain_energy_as_I_age/module.json
-FAQ-137,What predicts healthy longevity?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-137_What_predicts_healthy_longevity/module.json
-FAQ-138,Do longevity supplements work?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-138_Do_longevity_supplements_work/module.json
-FAQ-139,What habits matter most for healthspan?,Frequently Asked Questions,Healthy Aging FAQs,1.0,drafts,drafts/FAQ-139_What_habits_matter_most_for_healthspan/module.json
-FAQ-140,What is chronic stress?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-140_What_is_chronic_stress/module.json
-FAQ-141,How does stress affect the body?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-141_How_does_stress_affect_the_body/module.json
-FAQ-142,How can I lower stress quickly?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-142_How_can_I_lower_stress_quickly/module.json
-FAQ-143,Do breathing exercises really work?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-143_Do_breathing_exercises_really_work/module.json
-FAQ-144,Does meditation reduce stress?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-144_Does_meditation_reduce_stress/module.json
-FAQ-145,How much exercise helps stress?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-145_How_much_exercise_helps_stress/module.json
-FAQ-146,Can stress cause physical symptoms?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-146_Can_stress_cause_physical_symptoms/module.json
-FAQ-147,Can stress affect digestion?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-147_Can_stress_affect_digestion/module.json
-FAQ-148,Can stress raise blood pressure?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-148_Can_stress_raise_blood_pressure/module.json
-FAQ-149,Can stress affect sleep?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-149_Can_stress_affect_sleep/module.json
-FAQ-150,What is burnout?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-150_What_is_burnout/module.json
-FAQ-151,How do I know if I am burned out?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-151_How_do_I_know_if_I_am_burned_out/module.json
-FAQ-152,How can I stop overthinking?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-152_How_can_I_stop_overthinking/module.json
-FAQ-153,How can I reduce worry?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-153_How_can_I_reduce_worry/module.json
-FAQ-154,How can I build resilience?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-154_How_can_I_build_resilience/module.json
-FAQ-155,Does social connection reduce stress?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-155_Does_social_connection_reduce_stress/module.json
-FAQ-156,How do I set healthier boundaries?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-156_How_do_I_set_healthier_boundaries/module.json
-FAQ-157,When should I seek help for stress?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-157_When_should_I_seek_help_for_stress/module.json
-FAQ-158,What is the best daily stress-management routine?,Frequently Asked Questions,Stress FAQs,1.0,drafts,drafts/FAQ-158_What_is_the_best_daily_stress-management_routine/module.json
-FAQ-159,What changes during perimenopause?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-159_What_changes_during_perimenopause/module.json
-FAQ-160,What happens during menopause?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-160_What_happens_during_menopause/module.json
-FAQ-161,Why does weight change during menopause?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-161_Why_does_weight_change_during_menopause/module.json
-FAQ-162,How can women protect bone health?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-162_How_can_women_protect_bone_health/module.json
-FAQ-163,How much protein do women over 40 need?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-163_How_much_protein_do_women_over_40_need/module.json
-FAQ-164,Is strength training safe for women?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-164_Is_strength_training_safe_for_women/module.json
-FAQ-165,How does the menstrual cycle affect exercise?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-165_How_does_the_menstrual_cycle_affect_exercise/module.json
-FAQ-166,What causes heavy periods?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-166_What_causes_heavy_periods/module.json
-FAQ-167,What causes irregular periods?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-167_What_causes_irregular_periods/module.json
-FAQ-168,What is PCOS?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-168_What_is_PCOS/module.json
-FAQ-169,What is endometriosis?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-169_What_is_endometriosis/module.json
-FAQ-170,What is menopause hormone therapy?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-170_What_is_menopause_hormone_therapy/module.json
-FAQ-171,How does menopause affect sleep?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-171_How_does_menopause_affect_sleep/module.json
-FAQ-172,How does menopause affect heart health?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-172_How_does_menopause_affect_heart_health/module.json
-FAQ-173,What preventive screenings do women need?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-173_What_preventive_screenings_do_women_need/module.json
-FAQ-174,How can women reduce breast cancer risk?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-174_How_can_women_reduce_breast_cancer_risk/module.json
-FAQ-175,What is cervical cancer screening?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-175_What_is_cervical_cancer_screening/module.json
-FAQ-176,How can women improve pelvic floor health?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-176_How_can_women_improve_pelvic_floor_health/module.json
-FAQ-177,How can women prevent iron deficiency?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-177_How_can_women_prevent_iron_deficiency/module.json
-FAQ-178,What habits matter most for women's healthy aging?,Frequently Asked Questions,Women's Health FAQs,1.0,drafts,drafts/FAQ-178_What_habits_matter_most_for_women's_healthy_aging/module.json
-FAQ-179,What preventive screenings do men need?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-179_What_preventive_screenings_do_men_need/module.json
-FAQ-180,What causes low testosterone?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-180_What_causes_low_testosterone/module.json
-FAQ-181,Should testosterone be checked routinely?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-181_Should_testosterone_be_checked_routinely/module.json
-FAQ-182,What is erectile dysfunction?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-182_What_is_erectile_dysfunction/module.json
-FAQ-183,What causes prostate enlargement?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-183_What_causes_prostate_enlargement/module.json
-FAQ-184,What is PSA testing?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-184_What_is_PSA_testing/module.json
-FAQ-185,How can men reduce prostate cancer risk?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-185_How_can_men_reduce_prostate_cancer_risk/module.json
-FAQ-186,Why do men gain belly fat with age?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-186_Why_do_men_gain_belly_fat_with_age/module.json
-FAQ-187,How can men maintain muscle after 40?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-187_How_can_men_maintain_muscle_after_40/module.json
-FAQ-188,How much protein do men need?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-188_How_much_protein_do_men_need/module.json
-FAQ-189,Is strength training safe after 60?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-189_Is_strength_training_safe_after_60/module.json
-FAQ-190,Why is sleep apnea common in men?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-190_Why_is_sleep_apnea_common_in_men/module.json
-FAQ-191,How can men improve heart health?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-191_How_can_men_improve_heart_health/module.json
-FAQ-192,How can men reduce diabetes risk?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-192_How_can_men_reduce_diabetes_risk/module.json
-FAQ-193,How does alcohol affect men's health?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-193_How_does_alcohol_affect_men's_health/module.json
-FAQ-194,How can men reduce stress?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-194_How_can_men_reduce_stress/module.json
-FAQ-195,Why is depression sometimes missed in men?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-195_Why_is_depression_sometimes_missed_in_men/module.json
-FAQ-196,How can men maintain sexual health?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-196_How_can_men_maintain_sexual_health/module.json
-FAQ-197,How can men improve energy?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-197_How_can_men_improve_energy/module.json
-FAQ-198,What habits matter most for men's healthy aging?,Frequently Asked Questions,Men's Health FAQs,1.0,drafts,drafts/FAQ-198_What_habits_matter_most_for_men's_healthy_aging/module.json
-FAQ-199,Integrating Frequently Asked Questions: Practical Synthesis 1,Frequently Asked Questions,Integrated Practice,1.0,drafts,drafts/FAQ-199_Integrating_Frequently_Asked_Questions_Practical_Synthesis_1/module.json
-FAQ-200,Integrating Frequently Asked Questions: Practical Synthesis 2,Frequently Asked Questions,Integrated Practice,1.0,drafts,drafts/FAQ-200_Integrating_Frequently_Asked_Questions_Practical_Synthesis_2/module.json
 MEA-001,Meal Planning Basics,Meal Planning,Meal Planning Foundations,1.0,drafts,drafts/MEA-001_Meal_Planning_Basics/module.json
 MEA-002,Building a Balanced Plate,Meal Planning,Meal Planning Foundations,1.0,drafts,drafts/MEA-002_Building_a_Balanced_Plate/module.json
 MEA-003,Planning Protein at Each Meal,Meal Planning,Meal Planning Foundations,1.0,drafts,drafts/MEA-003_Planning_Protein_at_Each_Meal/module.json
@@ -394,3 +69,53 @@ MEA-067,Meal Planning for Gout,Meal Planning,Condition-Focused Planning,1.0,draf
 MEA-068,Meal Planning for Osteoporosis,Meal Planning,Condition-Focused Planning,1.0,drafts,drafts/MEA-068_Meal_Planning_for_Osteoporosis/module.json
 MEA-069,Meal Planning for Constipation,Meal Planning,Condition-Focused Planning,1.0,drafts,drafts/MEA-069_Meal_Planning_for_Constipation/module.json
 MEA-070,Meal Planning for GERD,Meal Planning,Condition-Focused Planning,1.0,drafts,drafts/MEA-070_Meal_Planning_for_GERD/module.json
+MEA-071,Meal Planning for Adults Over 40,Meal Planning,Life Stage Planning,1.0,drafts,drafts/MEA-071_Meal_Planning_for_Adults_Over_40/module.json
+MEA-072,Meal Planning for Adults Over 60,Meal Planning,Life Stage Planning,1.0,drafts,drafts/MEA-072_Meal_Planning_for_Adults_Over_60/module.json
+MEA-073,Meal Planning During Menopause,Meal Planning,Life Stage Planning,1.0,drafts,drafts/MEA-073_Meal_Planning_During_Menopause/module.json
+MEA-074,Meal Planning for Busy Professionals,Meal Planning,Life Stage Planning,1.0,drafts,drafts/MEA-074_Meal_Planning_for_Busy_Professionals/module.json
+MEA-075,Meal Planning for College Students,Meal Planning,Life Stage Planning,1.0,drafts,drafts/MEA-075_Meal_Planning_for_College_Students/module.json
+MEA-076,Meal Planning for Families,Meal Planning,Life Stage Planning,1.0,drafts,drafts/MEA-076_Meal_Planning_for_Families/module.json
+MEA-077,Meal Planning for One Person,Meal Planning,Life Stage Planning,1.0,drafts,drafts/MEA-077_Meal_Planning_for_One_Person/module.json
+MEA-078,Meal Planning for Couples,Meal Planning,Life Stage Planning,1.0,drafts,drafts/MEA-078_Meal_Planning_for_Couples/module.json
+MEA-079,Meal Planning for Travelers,Meal Planning,Life Stage Planning,1.0,drafts,drafts/MEA-079_Meal_Planning_for_Travelers/module.json
+MEA-080,Meal Planning During Recovery,Meal Planning,Life Stage Planning,1.0,drafts,drafts/MEA-080_Meal_Planning_During_Recovery/module.json
+MEA-081,Meal Planning on a Budget,Meal Planning,Budget and Convenience,1.0,drafts,drafts/MEA-081_Meal_Planning_on_a_Budget/module.json
+MEA-082,Budget-Friendly Protein,Meal Planning,Budget and Convenience,1.0,drafts,drafts/MEA-082_Budget-Friendly_Protein/module.json
+MEA-083,Budget-Friendly Fiber,Meal Planning,Budget and Convenience,1.0,drafts,drafts/MEA-083_Budget-Friendly_Fiber/module.json
+MEA-084,Healthy Pantry Meals,Meal Planning,Budget and Convenience,1.0,drafts,drafts/MEA-084_Healthy_Pantry_Meals/module.json
+MEA-085,Healthy Freezer Meals,Meal Planning,Budget and Convenience,1.0,drafts,drafts/MEA-085_Healthy_Freezer_Meals/module.json
+MEA-086,Healthy Convenience Foods,Meal Planning,Budget and Convenience,1.0,drafts,drafts/MEA-086_Healthy_Convenience_Foods/module.json
+MEA-087,Healthy Takeout Planning,Meal Planning,Budget and Convenience,1.0,drafts,drafts/MEA-087_Healthy_Takeout_Planning/module.json
+MEA-088,Healthy Restaurant Planning,Meal Planning,Budget and Convenience,1.0,drafts,drafts/MEA-088_Healthy_Restaurant_Planning/module.json
+MEA-089,Batch Cooking,Meal Planning,Budget and Convenience,1.0,drafts,drafts/MEA-089_Batch_Cooking/module.json
+MEA-090,Reducing Food Waste,Meal Planning,Budget and Convenience,1.0,drafts,drafts/MEA-090_Reducing_Food_Waste/module.json
+MEA-091,One-Week Balanced Meal Plan,Meal Planning,Weekly Plans,1.0,drafts,drafts/MEA-091_One-Week_Balanced_Meal_Plan/module.json
+MEA-092,One-Week High-Protein Meal Plan,Meal Planning,Weekly Plans,1.0,drafts,drafts/MEA-092_One-Week_High-Protein_Meal_Plan/module.json
+MEA-093,One-Week High-Fiber Meal Plan,Meal Planning,Weekly Plans,1.0,drafts,drafts/MEA-093_One-Week_High-Fiber_Meal_Plan/module.json
+MEA-094,One-Week Vegetarian Meal Plan,Meal Planning,Weekly Plans,1.0,drafts,drafts/MEA-094_One-Week_Vegetarian_Meal_Plan/module.json
+MEA-095,One-Week Indian Healthy Meal Plan,Meal Planning,Weekly Plans,1.0,drafts,drafts/MEA-095_One-Week_Indian_Healthy_Meal_Plan/module.json
+MEA-096,One-Week Mediterranean Meal Plan,Meal Planning,Weekly Plans,1.0,drafts,drafts/MEA-096_One-Week_Mediterranean_Meal_Plan/module.json
+MEA-097,One-Week DASH Meal Plan,Meal Planning,Weekly Plans,1.0,drafts,drafts/MEA-097_One-Week_DASH_Meal_Plan/module.json
+MEA-098,One-Week Weight-Management Meal Plan,Meal Planning,Weekly Plans,1.0,drafts,drafts/MEA-098_One-Week_Weight-Management_Meal_Plan/module.json
+MEA-099,One-Week Blood-Sugar-Friendly Meal Plan,Meal Planning,Weekly Plans,1.0,drafts,drafts/MEA-099_One-Week_Blood-Sugar-Friendly_Meal_Plan/module.json
+MEA-100,Building Your Own Weekly Meal Plan,Meal Planning,Weekly Plans,1.0,drafts,drafts/MEA-100_Building_Your_Own_Weekly_Meal_Plan/module.json
+PROG-001,Beginner Walking Program,Exercise Programs,Beginner Programs,1.0,drafts,drafts/PROG-001_Beginner_Walking_Program/module.json
+PROG-002,Beginner Strength Program,Exercise Programs,Beginner Programs,1.0,drafts,drafts/PROG-002_Beginner_Strength_Program/module.json
+PROG-003,Beginner Cardio Program,Exercise Programs,Beginner Programs,1.0,drafts,drafts/PROG-003_Beginner_Cardio_Program/module.json
+PROG-004,Beginner Mobility Program,Exercise Programs,Beginner Programs,1.0,drafts,drafts/PROG-004_Beginner_Mobility_Program/module.json
+PROG-005,Beginner Balance Program,Exercise Programs,Beginner Programs,1.0,drafts,drafts/PROG-005_Beginner_Balance_Program/module.json
+PROG-006,Beginner Home Workout Program,Exercise Programs,Beginner Programs,1.0,drafts,drafts/PROG-006_Beginner_Home_Workout_Program/module.json
+PROG-007,Beginner Gym Program,Exercise Programs,Beginner Programs,1.0,drafts,drafts/PROG-007_Beginner_Gym_Program/module.json
+PROG-008,Beginner Run-Walk Program,Exercise Programs,Beginner Programs,1.0,drafts,drafts/PROG-008_Beginner_Run-Walk_Program/module.json
+PROG-009,Beginner Cycling Program,Exercise Programs,Beginner Programs,1.0,drafts,drafts/PROG-009_Beginner_Cycling_Program/module.json
+PROG-010,Beginner Swimming Program,Exercise Programs,Beginner Programs,1.0,drafts,drafts/PROG-010_Beginner_Swimming_Program/module.json
+PROG-011,Full-Body Strength Program,Exercise Programs,Strength Programs,1.0,drafts,drafts/PROG-011_Full-Body_Strength_Program/module.json
+PROG-012,Two-Day Strength Program,Exercise Programs,Strength Programs,1.0,drafts,drafts/PROG-012_Two-Day_Strength_Program/module.json
+PROG-013,Three-Day Strength Program,Exercise Programs,Strength Programs,1.0,drafts,drafts/PROG-013_Three-Day_Strength_Program/module.json
+PROG-014,Four-Day Strength Program,Exercise Programs,Strength Programs,1.0,drafts,drafts/PROG-014_Four-Day_Strength_Program/module.json
+PROG-015,Upper-Lower Strength Program,Exercise Programs,Strength Programs,1.0,drafts,drafts/PROG-015_Upper-Lower_Strength_Program/module.json
+PROG-016,Push-Pull-Legs Program,Exercise Programs,Strength Programs,1.0,drafts,drafts/PROG-016_Push-Pull-Legs_Program/module.json
+PROG-017,Dumbbell Strength Program,Exercise Programs,Strength Programs,1.0,drafts,drafts/PROG-017_Dumbbell_Strength_Program/module.json
+PROG-018,Resistance Band Program,Exercise Programs,Strength Programs,1.0,drafts,drafts/PROG-018_Resistance_Band_Program/module.json
+PROG-019,Bodyweight Strength Program,Exercise Programs,Strength Programs,1.0,drafts,drafts/PROG-019_Bodyweight_Strength_Program/module.json
+PROG-020,Kettlebell Strength Program,Exercise Programs,Strength Programs,1.0,drafts,drafts/PROG-020_Kettlebell_Strength_Program/module.json

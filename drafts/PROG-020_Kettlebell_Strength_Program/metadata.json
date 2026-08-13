@@ -1,0 +1,37 @@
+{
+  "module_id": "PROG-020",
+  "title": "Kettlebell Strength Program",
+  "subtitle": "Programming principles, progression, exercise selection, and safety for kettlebell strength program.",
+  "domain": "Exercise Programs",
+  "category": "Strength Programs",
+  "som_stages": [
+    "Strength Building",
+    "Conditioning",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Physical Therapists",
+    "Athletes"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "kettlebell",
+    "strength training",
+    "exercise programming",
+    "progression",
+    "functional fitness",
+    "safety",
+    "load management",
+    "exercise selection"
+  ],
+  "related_modules": [
+    "PROG-015",
+    "EXER-010",
+    "COND-005"
+  ],
+  "evidence_strength": "Moderate evidence from fitness-centered studies and emerging clinical research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
