@@ -1,0 +1,35 @@
+{
+  "module_id": "PROG-057",
+  "title": "Balance Improvement Program",
+  "subtitle": "A progressive routine for balance improvement program, including frequency, progression, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Mobility and Balance",
+  "som_stages": [
+    "Prevention",
+    "Rehabilitation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Physical Therapists",
+    "Fitness Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "balance",
+    "postural control",
+    "proprioception",
+    "vestibular system",
+    "exercise progression",
+    "fall prevention"
+  ],
+  "related_modules": [
+    "PROG-042",
+    "PROG-076",
+    "PROG-109"
+  ],
+  "evidence_strength": "Strong overall for older adults and rehabilitation populations; moderate to emerging for athletic populations and specific conditions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

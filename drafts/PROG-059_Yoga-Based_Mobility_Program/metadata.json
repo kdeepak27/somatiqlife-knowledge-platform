@@ -1,0 +1,39 @@
+{
+  "module_id": "PROG-059",
+  "title": "Yoga-Based Mobility Program",
+  "subtitle": "A progressive routine for yoga-based mobility program, including frequency, progression, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Mobility and Balance",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Rehabilitation"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Older Adults",
+    "Physical Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Yoga",
+    "Mobility",
+    "Flexibility",
+    "Balance",
+    "Progression",
+    "Safety",
+    "Exercise Routine",
+    "Stretching",
+    "Joint Health",
+    "Physical Activity"
+  ],
+  "related_modules": [
+    "PROG-007",
+    "PROG-033",
+    "PROG-046"
+  ],
+  "evidence_strength": "Established evidence supports yoga's benefits for mobility and balance, particularly in older adults; however, variability in study quality and protocols suggests the need for further high-quality trials to refine best practices.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
