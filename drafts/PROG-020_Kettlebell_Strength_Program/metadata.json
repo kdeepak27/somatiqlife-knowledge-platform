@@ -5,33 +5,32 @@
   "domain": "Exercise Programs",
   "category": "Strength Programs",
   "som_stages": [
-    "Strength Building",
-    "Conditioning",
-    "Rehabilitation"
+    "Initiation",
+    "Progression",
+    "Maintenance"
   ],
   "audience": [
+    "General Public",
     "Fitness Enthusiasts",
     "Personal Trainers",
-    "Physical Therapists",
-    "Athletes"
+    "Rehabilitation Specialists"
   ],
   "reading_level": "Intermediate",
   "keywords": [
     "kettlebell",
     "strength training",
-    "exercise programming",
+    "programming",
     "progression",
-    "functional fitness",
+    "exercise selection",
     "safety",
-    "load management",
-    "exercise selection"
+    "functional fitness",
+    "conditioning"
   ],
   "related_modules": [
     "PROG-015",
-    "EXER-010",
-    "COND-005"
+    "PROG-032"
   ],
-  "evidence_strength": "Moderate evidence from fitness-centered studies and emerging clinical research",
+  "evidence_strength": "Established evidence supports kettlebell training as effective for improving strength and conditioning in healthy adults when programs emphasize technique and progression. Emerging evidence highlights optimal periodization models specific to kettlebell modalities. Safety data favor supervised instruction for beginners to minimize injury risk.",
   "version": "1.0",
   "review_status": "AI draft - scientific, clinical, and editorial review required"
 }

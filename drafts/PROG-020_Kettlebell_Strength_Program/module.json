@@ -5,231 +5,236 @@
   "domain": "Exercise Programs",
   "category": "Strength Programs",
   "som_stages": [
-    "Strength Building",
-    "Conditioning",
-    "Rehabilitation"
+    "Initiation",
+    "Progression",
+    "Maintenance"
   ],
   "audience": [
+    "General Public",
     "Fitness Enthusiasts",
     "Personal Trainers",
-    "Physical Therapists",
-    "Athletes"
+    "Rehabilitation Specialists"
   ],
   "reading_level": "Intermediate",
   "keywords": [
     "kettlebell",
     "strength training",
-    "exercise programming",
+    "programming",
     "progression",
-    "functional fitness",
+    "exercise selection",
     "safety",
-    "load management",
-    "exercise selection"
+    "functional fitness",
+    "conditioning"
   ],
   "customer_questions": [
     "What is a kettlebell strength program?",
-    "How does kettlebell training improve strength?",
-    "What are the key principles of kettlebell programming?",
-    "How should kettlebell training be progressed safely?",
-    "What exercises are best for kettlebell strength programs?",
-    "Are kettlebell strength programs suitable for beginners?",
-    "What safety precautions should I take during kettlebell workouts?",
-    "How does kettlebell training compare to traditional weightlifting?",
-    "Can kettlebells help with functional strength and conditioning?",
-    "What common mistakes should be avoided in kettlebell training?",
-    "How often should kettlebell strength sessions be performed?",
-    "Is kettlebell training effective for muscle hypertrophy?"
+    "How does kettlebell training build strength?",
+    "What types of kettlebell exercises are best for strength?",
+    "How should I progress my kettlebell workouts safely?",
+    "Can kettlebell training replace traditional weightlifting?",
+    "What are common mistakes in kettlebell strength programs?",
+    "How often should I train with kettlebells for strength gains?",
+    "Are kettlebell programs suitable for beginners?",
+    "What safety precautions should I take when using kettlebells?",
+    "How do I select the right kettlebell weight?",
+    "What is the role of technique in kettlebell programs?",
+    "Can kettlebell training improve muscle endurance as well as strength?"
   ],
-  "retrieval_summary": "A kettlebell strength program is a structured exercise plan that uses kettlebells, a cast-iron or steel weight shaped like a cannonball with a handle, to improve muscular strength, power, and endurance. The program involves principles of progression, exercise selection, and safety tailored to individual goals such as general strength, functional fitness, or athletic performance. Mechanistically, kettlebell training enhances strength by integrating multi-joint movements that engage large muscle groups and improve intermuscular coordination. Exercises like swings, cleans, presses, and Turkish get-ups emphasize eccentric and concentric muscle actions and core stabilization. Major synonyms for the approach include ‘‘kettlebell training’’ and ‘‘kettlebell conditioning.\u0000The practical relevance of kettlebell strength programs lies in their versatility and functionality: they can be adapted for beginners through to advanced athletes with minimal equipment requirements. However, limitations include a learning curve for proper technique, challenges in load progression compared to traditional barbells, and potential injury if performed unsafely. Safety emphasizes mastery of form, gradual intensity increases, and appropriate warm-up and mobility work. Evidence supporting kettlebell training shows improvements in strength, power, cardiovascular fitness, and mobility, though much of the research is moderate level and often focused on fitness rather than clinical populations. This program module provides foundational knowledge, detailed exercise prescriptions, progression strategies, common misconceptions, and critical safety considerations for effective kettlebell strength training.",
+  "retrieval_summary": "A kettlebell strength program is a structured exercise regimen using kettlebells—cannonball-shaped weights with handles—to develop muscular strength and power. Strength gains from kettlebell training occur through mechanisms including progressive overload, neuromuscular adaptation, and functional movement patterns engaging multiple muscle groups simultaneously. Common synonymous terms include kettlebell training, kettlebell workouts, and hardstyle kettlebell training, each emphasizing different training philosophies or methods. Practical relevance of kettlebell programs includes improving strength, enhancing functional fitness useful in daily activities, sport performance, and rehabilitation contexts. Program design typically emphasizes graded progression, exercise variation for balanced muscle development, and prioritization of proper technique to maximize gains and minimize injury risk. Limitations include the challenge for absolute beginners in mastering technique, potential for overuse injuries without periodization, and the need for adequate coaching to ensure safety. Safety considerations require attention to kettlebell weight selection, joint mechanics, warm-up routines, and controlled execution of movements. High-quality evidence supports kettlebell training's efficacy for strength and power development but underscores the need for individualized progression and technique mastery. This module comprehensively covers essential programming principles, physiological mechanisms, common exercises, progression strategies, safety protocols, and addresses misconceptions to facilitate effective and safe kettlebell strength training.",
   "learning_objectives": [
-    "Define kettlebell strength training and understand its core programming principles.",
-    "Explain the physiological mechanisms through which kettlebell training improves strength.",
-    "Identify key kettlebell exercises and their applications in strength training.",
-    "Describe safe progression strategies to enhance performance and prevent injury.",
-    "Recognize common misconceptions and limitations of kettlebell strength training.",
-    "Apply practical guidelines for integrating kettlebell workouts into fitness routines.",
-    "Understand the evidence base and emerging research on kettlebell strength benefits.",
-    "Develop safety awareness including warm-up, technique, and load management for kettlebell training."
+    "Define kettlebell strength training and its key characteristics.",
+    "Understand physiological mechanisms underpinning strength gains from kettlebell use.",
+    "Identify primary kettlebell exercises for building strength.",
+    "Explain principles of progression and program design for kettlebell training.",
+    "Recognize common technical errors and safety risks associated with kettlebell use.",
+    "Develop strategies for selecting kettlebell weights appropriate to individual fitness levels.",
+    "Discuss the role of kettlebell training relative to traditional strength training methods.",
+    "Evaluate evidence regarding effectiveness and safety of kettlebell strength programs."
   ],
-  "definition": "A kettlebell strength program is a systematically designed training plan using kettlebells to enhance muscular strength, power, and endurance through progressive, multi-joint exercises emphasizing functional movement patterns.",
-  "why_this_matters": "Kettlebell training offers a versatile, portable, and effective method for improving muscular strength and functional fitness, appealing to a broad range of users from beginners to advanced athletes. Understanding programming principles and safety considerations helps maximize benefits while minimizing injury risk.",
+  "definition": "Kettlebell strength program refers to a structured plan of physical exercises primarily using kettlebells—weighted cast-iron balls with handles—to improve muscular strength, power, and conditioning through targeted resistance training with progression over time.",
+  "why_this_matters": "Strength training with kettlebells offers a functional and versatile method to enhance muscular power, coordination, and endurance, contributing to better performance in sports and daily activities while potentially reducing injury risks. Understanding proper programming and safety is essential to maximize benefits and prevent injury.",
   "sections": [
     {
       "heading": "Introduction to Kettlebell Strength Training",
-      "content": "Kettlebell strength training involves the use of a kettlebell—a cast iron or steel ball with a handle—to perform dynamic exercises that develop muscular strength, power, and endurance. Unlike traditional dumbbells or barbells, kettlebells allow for swinging and ballistic movements that can challenge the body’s strength and coordination simultaneously. The program focuses on systematic progression, exercise selection optimized for strength gains, and safety protocols tailored for varied fitness levels and goals."
+      "content": "Kettlebell strength training is a resistance exercise modality that utilizes a uniquely designed weighted implement—a kettlebell—characterized by a cast-iron or steel ball with an attached handle. This form of strength training emphasizes dynamic, multi-joint movements that develop muscular strength, power, endurance, and functional fitness. Originating from Russian training methods, kettlebells have gained global popularity due to their versatility, portability, and capacity to engage multiple muscle groups simultaneously. Unlike traditional dumbbells or barbells, kettlebell exercises often incorporate ballistic or swinging motions, which contribute to both strength and cardiovascular conditioning."
     },
     {
-      "heading": "Physiological Mechanisms of Strength Development with Kettlebells",
-      "content": "Kettlebell exercises recruit multiple muscle groups simultaneously, promoting neuromuscular coordination, muscular hypertrophy, and increased motor unit recruitment. Movements like swings and cleans involve rapid concentric and eccentric muscle contractions that develop both explosive power and muscular endurance. Core stabilization is integral during kettlebell work, enhancing postural control and functional strength. Adaptations occur through progressive overload and specificity principles similar to other forms of resistance training."
+      "heading": "Physiological Mechanisms of Strength Development",
+      "content": "Strength gains from kettlebell training occur through multiple physiological pathways including mechanical overload, neural adaptations, and muscle hypertrophy. The progressive increase in kettlebell load or volume challenges muscle fibers, stimulating microtrauma and subsequent repair, leading to hypertrophic growth. Neuromuscular adaptations enhance motor unit recruitment and firing rates, improving force generation and coordination. Additionally, the dynamic nature of kettlebell movements promotes joint stability and core activation, further augmenting strength development in functional movement patterns."
     },
     {
-      "heading": "Key Programming Principles for Kettlebell Strength",
-      "content": "Effective kettlebell strength programs emphasize principles such as progressive overload, specificity, variation, and recovery. Load progression can be achieved by increasing kettlebell weight, volume (sets and reps), complexity of movements, or intensity (tempo and rest intervals). Programming balances strength focus with endurance and technique practice. Periodization is used to systematically vary these parameters to optimize adaptations and prevent plateaus."
+      "heading": "Core Kettlebell Exercises for Strength",
+      "content": "Key kettlebell exercises that target strength development include the kettlebell swing, Turkish get-up, goblet squat, kettlebell clean and press, and kettlebell snatch. Each exercise engages multiple muscle groups; for example, the kettlebell swing primarily targets the posterior chain (hamstrings, glutes, spinal erectors) while also requiring core stabilization. The Turkish get-up challenges total body strength with emphasis on shoulder stability and core control. Selecting appropriate exercises depends on training goals, skill level, and individual biomechanics."
     },
     {
-      "heading": "Exercise Selection in Kettlebell Strength Training",
-      "content": "Core exercises often include kettlebell swings, cleans, snatches, presses, Turkish get-ups, goblet squats, and deadlifts. Each targets large muscle groups and integrates functional movement patterns. Selection depends on individual goals, fitness level, and physical constraints. Emphasis is on exercises that develop posterior chain strength, core stability, and unilateral balance. Compound multi-joint movements deliver maximal strength benefits compared to isolation exercises."
+      "heading": "Principles of Program Design and Progression",
+      "content": "Programming a kettlebell strength training regimen should follow established principles of progressive overload, exercise variation, and recovery. Progression may involve increasing kettlebell weight, volume, or complexity of movements. Beginner programs often start with lower weights, higher repetition ranges (8-12 reps), and fundamental exercises emphasizing technique. As proficiency improves, training can transition to heavier weights with lower repetitions (3-6 reps) for maximal strength focus. Periodization strategies, such as linear or undulating progression, are recommended to optimize adaptations and prevent plateaus or overtraining."
     },
     {
-      "heading": "Progression Strategies for Safe and Effective Training",
-      "content": "Progression should be gradual to avoid injury and ensure technique mastery. Strategies include incrementing kettlebell weight, increasing sets or repetitions, incorporating more complex movement patterns, or shortening rest periods. Beginners are encouraged to focus on technique with lighter weights before advancing. Utilizing deload weeks and monitoring fatigue can help manage overtraining risk. Tracking performance metrics supports informed progression."
+      "heading": "Technique and Movement Quality",
+      "content": "Proper technique is paramount in kettlebell strength training to maximize effectiveness and minimize injury risk. Emphasis should be placed on maintaining neutral spinal alignment, engaging the core, and using hip hinge mechanics in exercises like swings and deadlifts. Faulty techniques, such as excessive lumbar flexion or shoulder compensation, can lead to strains or overuse injuries. Instruction from certified professionals or use of video analysis can support technique refinement."
     },
     {
       "heading": "Safety Considerations and Injury Prevention",
-      "content": "Safety is paramount in kettlebell programs due to the dynamic, ballistic nature of exercises. Essential precautions include mastering technique under qualified supervision, performing thorough warm-ups emphasizing mobility and joint preparation, and selecting appropriate weights relative to skill level. Avoiding excessive fatigue and listening to pain signals reduces injury risk. Proper footwear and training environment contribute to safety. Particular attention should be given to lower back, shoulders, and wrists, common areas of strain."
+      "content": "Safety in kettlebell training encompasses appropriate weight selection, environment setup, warm-up routines, and cooldown practices. Users should select kettlebell weights that allow controlled, technically sound repetitions without compromising form. A clear space free of obstacles is necessary to avoid accidental impact injuries. Warm-up should include dynamic mobility exercises targeting joints and muscles involved in the planned workout. Monitoring for signs of overuse or acute injuries and implementing rest days or active recovery are critical components of a safe program."
     },
     {
-      "heading": "Common Misconceptions about Kettlebell Strength Training",
-      "content": "Contrary to some beliefs, kettlebell training is not just for cardiovascular conditioning but is highly effective for strength development. It is often mistakenly thought that kettlebells cannot build muscle mass; however, progressive overload applied via kettlebell exercises can stimulate hypertrophy. Another misconception is that kettlebell training is dangerous; with proper technique and programming, it is safe. Also, kettlebells are sometimes wrongly considered only suitable for advanced exercisers, but beginner-friendly progressions exist."
+      "heading": "Common Misconceptions About Kettlebell Strength Training",
+      "content": "Misconceptions include the belief that kettlebell training is solely for cardio conditioning or that it replaces traditional strength training completely. While kettlebell training improves cardiovascular fitness, it is also effective for muscular strength and power when programmed properly. Another misconception is that heavier weights are always better; in reality, technique and gradual progression are more important to reduce injury risk. Some believe kettlebell training is unsuitable for older adults; however, with appropriate scaling, it can be safely incorporated across age groups."
     },
     {
-      "heading": "Evidence and Research on Kettlebell Strength Benefits",
-      "content": "Moderate evidence supports the efficacy of kettlebell training in improving muscular strength, power, aerobic capacity, and functional fitness. Studies demonstrate that kettlebell swings can enhance posterior chain strength and power. Research also indicates improvements in cardiovascular markers and mobility. However, many studies have methodological limitations, small sample sizes, or focus on general fitness populations rather than clinical or elite athlete groups. More high-quality research is emerging to clarify these effects."
+      "heading": "Comparisons with Traditional Weightlifting",
+      "content": "Kettlebell strength programs differ from traditional barbell or machine-based resistance training in movement patterns, load distribution, and exercise dynamics. Kettlebell training emphasizes unilateral and ballistic movements, often improving coordination, balance, and core stability more than isolated machine exercises. However, barbells allow for easier progressive overload with heavier absolute loads, potentially benefitting maximal strength development. Many experts advocate combining kettlebell training with traditional methods to optimize comprehensive strength gains."
     },
     {
-      "heading": "Comparing Kettlebell Programs to Traditional Resistance Training",
-      "content": "Kettlebell training differs from traditional barbells and dumbbells primarily by enabling ballistic and swinging movements, integrating strength with coordination and cardiovascular elements. While barbells allow precise load increments and maximum strength testing, kettlebells provide versatile functional training and address muscular endurance and power uniquely. Depending on goals, kettlebell programs supplement or serve as an alternative to classic resistance training effectively."
+      "heading": "Limitations and Contraindications",
+      "content": "Limitations of kettlebell strength programs include a steeper learning curve for mastering technique, potential incompatibility with certain musculoskeletal conditions, and less practicality for achieving maximal absolute strength compared to heavy barbell lifting. Individuals with shoulder, lower back, or wrist pathologies should consult healthcare professionals before initiation. Additionally, improper programming or excessive volume without adequate recovery can lead to overuse injuries."
     },
     {
-      "heading": "Integrating Kettlebell Strength Training into Overall Fitness Plans",
-      "content": "A kettlebell strength program can complement cardiovascular, flexibility, and balance training for holistic fitness. Programming should consider individual goals, baseline fitness, and recovery needs. Typically, 2-3 kettlebell sessions per week focusing on technique and strength with appropriate rest days are effective. Nutrition and sleep also support adaptations. Cross-training with other modalities can mitigate monotony and reduce overuse injuries."
-    },
-    {
-      "heading": "Monitoring Progress and Adjusting the Program",
-      "content": "Tracking performance through logs of weight, sets, repetitions, and subjective exertion aids in evaluating progress and steering program adjustments. Coaches and trainees should regularly reassess movement quality and strength benchmarks. Incorporating feedback loops allows timely modifications to meet evolving goals and prevent plateaus. Objective measures like grip strength, vertical jump, or timed kettlebell swings can supplement subjective indicators."
+      "heading": "Evidence on Effectiveness and Safety",
+      "content": "Research supports kettlebell training as an effective modality for improving muscular strength, power, and aerobic capacity in healthy adults. Trials demonstrate improvements in grip strength, lower body power, and core stability following kettlebell interventions ranging from 6 to 12 weeks. Safety profiles are favorable when programs emphasize technique and appropriate progression; however, reported injuries are often linked to inadequate coaching or excessive loads. Current evidence encourages supervised training, especially in novice practitioners, to mitigate risks."
     }
   ],
   "practical_guidance": [
-    "Start with a professional assessment and learn fundamental kettlebell techniques before increasing intensity.",
-    "Choose a kettlebell weight that allows proper form throughout sets, initially favoring lighter loads.",
-    "Incorporate multi-joint, functional exercises (e.g., swings, Turkish get-ups) to maximize strength and stability development.",
-    "Progress weight or volume only after technique is consistent and fatigue is manageable.",
-    "Include warm-up routines focusing on mobility and dynamic stretches specific to kettlebell movements.",
-    "Schedule rest days and listen to your body to prevent overtraining or injury.",
-    "Consider coaching or instructional resources to refine technique and program design.",
-    "Use periodic reassessment to guide progression and adjust programming variables accordingly."
+    "Start with a certified kettlebell instructor for technique assessment.",
+    "Begin programs with lighter weights focusing on mastering form.",
+    "Progress load gradually, prioritizing movement quality over weight increments.",
+    "Incorporate multi-joint kettlebell exercises like swings, squats, and presses for balanced development.",
+    "Schedule 2-3 kettlebell strength workouts per week allowing 48 hours of recovery.",
+    "Perform appropriate warm-up and cooldown sequences surrounding kettlebell sessions.",
+    "Avoid training to failure; stop if form deteriorates or pain arises.",
+    "Use appropriate footwear and training environment free of clutter to prevent accidents."
   ],
   "safety_notes": [
-    "Always perform exercises in a spacious area free of obstacles to prevent accidental injury from the kettlebell trajectory.",
-    "Master technique under qualified supervision before increasing weight or exercise complexity.",
-    "Avoid training to failure; stop if pain occurs especially in joints or lower back.",
-    "Warm up thoroughly focusing on shoulders, hips, and core stability to prepare for dynamic movements.",
-    "Keep a neutral spine during lifts and avoid hyperextension or rounding of the back.",
-    "Use appropriate footwear with good grip to maintain stability during exercises.",
-    "Progress gradually to allow tendon and ligament adaptation to increased loads."
+    "Consult with a healthcare provider before beginning kettlebell training if you have musculoskeletal or cardiovascular conditions.",
+    "Do not use kettlebells that are damaged or have handles that impede grip.",
+    "Maintain spinal alignment during all exercises to reduce risk of injury.",
+    "Avoid rapid increases in volume or weight to prevent overuse syndromes.",
+    "Ensure sufficient hydration and rest to support recovery."
   ],
   "misconceptions": [
     {
-      "misconception": "Kettlebell training is only useful for cardio and conditioning, not strength.",
-      "reality": "Kettlebell training can effectively develop muscular strength, power, and hypertrophy when programmed for progressive overload."
+      "misconception": "Kettlebell training is just a cardio workout and does not build real strength.",
+      "reality": "Properly programmed kettlebell training effectively improves muscular strength and power, not just cardiovascular fitness."
     },
     {
-      "misconception": "Kettlebells are too dangerous and likely to cause injury.",
-      "reality": "When performed with proper technique and safety measures, kettlebell training is safe and well tolerated by most individuals."
+      "misconception": "Heavier kettlebells always mean better strength gains regardless of technique.",
+      "reality": "Correct technique and gradual progression are essential; too heavy weights increase injury risk without guaranteed benefits."
     },
     {
-      "misconception": "Only advanced athletes or fitness enthusiasts can benefit from kettlebell programs.",
-      "reality": "Kettlebell training is scalable and suitable for beginners through advanced trainees by adjusting weight, volume, and exercise complexity."
+      "misconception": "Kettlebells are unsafe for older adults and beginners.",
+      "reality": "With proper scaling and instruction, kettlebell training can be safe and beneficial across diverse populations."
     }
   ],
   "clinical_pearls": [
-    "Emphasize core stability during all kettlebell movements to protect the spine and enhance functional strength.",
-    "Start novices with fundamental movements like goblet squats and swings before progressing to complex exercises like snatches.",
-    "Deload weeks or active recovery phases can reduce injury risk and improve long-term adherence.",
-    "Incorporating unilateral kettlebell exercises helps balance strength and correct muscle imbalances.",
-    "Regular coaching feedback improves technique and enhances training outcomes."
+    "Focus on hip hinge mechanics to maximize posterior chain engagement.",
+    "Use the goblet squat to develop lower body strength while reinforcing posture.",
+    "Implement periodic technique assessments to prevent BAD habits under fatigue.",
+    "Incorporate unilateral kettlebell exercises to address muscular imbalances.",
+    "Dynamic kettlebell movements improve both strength and cardiovascular fitness simultaneously."
   ],
   "key_takeaways": [
-    "Kettlebell strength training uses dynamic, functional exercises to enhance muscular strength and power.",
-    "Programming principles include progressive overload, specificity, and balancing volume and intensity.",
-    "Key exercises include swings, Turkish get-ups, cleans, presses, and goblet squats.",
-    "Proper technique and gradual progression are critical for safety and effectiveness.",
-    "Kettlebell programs are adaptable for all fitness levels from beginners to athletes.",
-    "Moderate scientific evidence supports benefits for strength, power, and cardiovascular improvements.",
-    "Kettlebell training complements but does not replace traditional resistance training in some contexts.",
-    "Monitoring progress and implementing recovery strategies optimize results and injury prevention."
+    "Kettlebell strength programs build muscular strength through dynamic, multi-joint exercises using kettlebells.",
+    "Effective programming requires progressive overload, technical proficiency, and balanced muscle development.",
+    "Common exercises include swings, Turkish get-ups, goblet squats, clean and press, and snatches.",
+    "Proper technique reduces injury risk and enhances training outcomes.",
+    "Kettlebells combine strength and conditioning benefits, offering functional fitness improvements.",
+    "Progression should be gradual with attention to load, repetitions, and movement complexity.",
+    "Kettlebell training complements but does not fully replace traditional strength training with barbells or machines.",
+    "Safety depends on weight selection, environment, warm-up, recovery, and individual health status."
   ],
   "glossary": [
     {
       "term": "Kettlebell",
-      "definition": "A cast iron or steel ball with a handle used as a weight for strength and conditioning exercises."
+      "definition": "A cast-iron or steel ball with a handle used as a weight for strength and conditioning exercises."
     },
     {
-      "term": "Progressive Overload",
-      "definition": "The gradual increase of stress placed on the body during exercise training to stimulate adaptive improvements."
+      "term": "Progressive overload",
+      "definition": "The gradual increase of stress placed upon the body during exercise training to stimulate adaptation."
     },
     {
-      "term": "Turkish Get-Up",
-      "definition": "A complex, full-body kettlebell exercise involving standing up from a lying position while holding the kettlebell overhead."
+      "term": "Neuromuscular adaptation",
+      "definition": "Improvements in the nervous system's ability to activate muscles effectively."
     },
     {
-      "term": "Concentric Phase",
-      "definition": "The part of a muscle contraction where the muscle shortens while generating force."
+      "term": "Hip hinge",
+      "definition": "A movement pattern involving bending at the hips while maintaining a neutral spine, commonly used in kettlebell exercises."
     },
     {
-      "term": "Eccentric Phase",
-      "definition": "The part of a muscle contraction where the muscle lengthens under tension, often controlling movement."
+      "term": "Goblet squat",
+      "definition": "A squat exercise where the kettlebell is held at chest level, promoting upright torso and proper form."
+    },
+    {
+      "term": "Turkish get-up",
+      "definition": "A complex full-body kettlebell exercise focusing on strength, stability, and coordination."
+    },
+    {
+      "term": "Ballistic movement",
+      "definition": "A rapid, explosive movement often involving swinging or jumping actions."
+    },
+    {
+      "term": "Periodization",
+      "definition": "A training strategy that varies program variables systematically to optimize performance and recovery."
     }
   ],
   "related_modules": [
     "PROG-015",
-    "EXER-010",
-    "COND-005"
+    "PROG-032"
   ],
   "illustrations": [
     {
       "illustration_id": "ILL-001",
       "title": "Kettlebell Swing Technique",
       "illustration_type": "Diagram",
-      "description": "Step-by-step visual breakdown of the kettlebell swing emphasizing hip hinge and core engagement.",
-      "alt_text": "Diagram showing correct kettlebell swing posture and motion."
+      "description": "Step-by-step visual guide to performing the kettlebell swing with proper hip hinge mechanics and posture.",
+      "alt_text": "Diagram showing kettlebell swing movement phases with correct form."
     },
     {
       "illustration_id": "ILL-002",
       "title": "Turkish Get-Up Sequence",
-      "illustration_type": "Photo series",
-      "description": "Photographic sequence illustrating the phases of the Turkish get-up exercise with kettlebell.",
-      "alt_text": "Photos showing progressive positions in performing a Turkish get-up."
+      "illustration_type": "Photo Series",
+      "description": "Photographic breakdown demonstrating each stage of the Turkish get-up exercise, highlighting body positioning.",
+      "alt_text": "Photos illustrating stepwise execution of the Turkish get-up with kettlebell."
     },
     {
       "illustration_id": "ILL-003",
-      "title": "Common Kettlebell Exercises",
-      "illustration_type": "Infographic",
-      "description": "Infographic depicting various kettlebell strength exercises and targeted muscle groups.",
-      "alt_text": "Illustration of kettlebell exercises like swings, cleans, presses, with muscles highlighted."
+      "title": "Progression Chart for Kettlebell Training",
+      "illustration_type": "Chart",
+      "description": "Visual chart outlining weight, volume, and complexity progression over a 12-week kettlebell strength program.",
+      "alt_text": "Graph showing kettlebell training progression in weight and repetitions over time."
     },
     {
       "illustration_id": "ILL-004",
-      "title": "Safety Tips for Kettlebell Training",
-      "illustration_type": "Checklist",
-      "description": "Visual checklist highlighting key safety recommendations for kettlebell workouts.",
-      "alt_text": "Graphic showing safety measures such as warm-up, technique, and space clearance."
+      "title": "Common Technique Errors in Kettlebell Swings",
+      "illustration_type": "Diagram",
+      "description": "Illustrations identifying common faults like lumbar rounding and incorrect arm usage during swings, with corrections.",
+      "alt_text": "Diagram marking common kettlebell swing mistakes with suggested fixes."
     }
   ],
   "references": [
     {
-      "title": "Effect of kettlebell training on strength, power, and cardiovascular endurance",
-      "organization_or_authors": "Jay K et al.",
-      "year": "2013",
-      "identifier": "",
+      "title": "Kettlebell Training for Muscular Strength and Power",
+      "organization_or_authors": "Journal of Strength and Conditioning Research",
+      "year": "2021",
+      "identifier": "Unverified",
       "verification_status": "Unverified"
     },
     {
-      "title": "Kettlebell training for musculoskeletal health: a review",
-      "organization_or_authors": "Smith CM et al.",
-      "year": "2018",
-      "identifier": "",
-      "verification_status": "Unverified"
-    },
-    {
-      "title": "The role of kettlebell training in functional fitness",
-      "organization_or_authors": "National Strength and Conditioning Association",
+      "title": "Effects of Kettlebell Exercise on Strength and Aerobic Capacity: A Systematic Review",
+      "organization_or_authors": "Sports Medicine Journal",
       "year": "2020",
-      "identifier": "",
+      "identifier": "Unverified",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Biomechanics and Safety Considerations in Kettlebell Training",
+      "organization_or_authors": "Journal of Sports Science & Medicine",
+      "year": "2019",
+      "identifier": "Unverified",
       "verification_status": "Unverified"
     }
   ],
-  "evidence_strength": "Moderate evidence from fitness-centered studies and emerging clinical research",
+  "evidence_strength": "Established evidence supports kettlebell training as effective for improving strength and conditioning in healthy adults when programs emphasize technique and progression. Emerging evidence highlights optimal periodization models specific to kettlebell modalities. Safety data favor supervised instruction for beginners to minimize injury risk.",
   "version": "1.0",
   "review_status": "AI draft - scientific, clinical, and editorial review required"
 }

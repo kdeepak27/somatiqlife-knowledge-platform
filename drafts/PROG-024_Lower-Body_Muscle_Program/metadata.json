@@ -1,0 +1,37 @@
+{
+  "module_id": "PROG-024",
+  "title": "Lower-Body Muscle Program",
+  "subtitle": "A structured approach to lower-body muscle program, including volume, progression, recovery, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Muscle Programs",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Rehabilitation Patients",
+    "Trainers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "lower-body muscles",
+    "strength training",
+    "muscle hypertrophy",
+    "training volume",
+    "progressive overload",
+    "recovery",
+    "exercise safety",
+    "resistance training"
+  ],
+  "related_modules": [
+    "PROG-010",
+    "PROG-012"
+  ],
+  "evidence_strength": "Established evidence from controlled trials and physiological studies supports the role of volume, progressive overload, and recovery in lower-body muscle hypertrophy and strength gains, though individual responses vary.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

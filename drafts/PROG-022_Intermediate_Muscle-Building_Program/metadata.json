@@ -1,0 +1,35 @@
+{
+  "module_id": "PROG-022",
+  "title": "Intermediate Muscle-Building Program",
+  "subtitle": "A structured approach to intermediate muscle-building program, including volume, progression, recovery, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Muscle Programs",
+  "som_stages": [
+    "Intermediate"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Physical Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "muscle hypertrophy",
+    "strength training",
+    "progressive overload",
+    "training volume",
+    "recovery",
+    "nutrition",
+    "exercise progression",
+    "safety in weightlifting"
+  ],
+  "related_modules": [
+    "PROG-021-Beginner Muscle-Building Program",
+    "PROG-030-Advanced Muscle Hypertrophy Strategies",
+    "NUTR-015-Sports Nutrition Fundamentals"
+  ],
+  "evidence_strength": "Established evidence with some emerging insights",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
