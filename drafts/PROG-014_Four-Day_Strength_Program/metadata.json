@@ -1,0 +1,37 @@
+{
+  "module_id": "PROG-014",
+  "title": "Four-Day Strength Program",
+  "subtitle": "Programming principles, progression, exercise selection, and safety for four-day strength program.",
+  "domain": "Exercise Programs",
+  "category": "Strength Programs",
+  "som_stages": [
+    "Foundation",
+    "Development",
+    "Optimization"
+  ],
+  "audience": [
+    "General Fitness Enthusiasts",
+    "Strength Athletes",
+    "Personal Trainers",
+    "Physical Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "strength training",
+    "four-day split",
+    "exercise programming",
+    "progression",
+    "muscle hypertrophy",
+    "periodization",
+    "recovery",
+    "safety in strength training"
+  ],
+  "related_modules": [
+    "PROG-005",
+    "PROG-012",
+    "PROG-018"
+  ],
+  "evidence_strength": "Established Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
