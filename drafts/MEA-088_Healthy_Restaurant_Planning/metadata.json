@@ -1,0 +1,38 @@
+{
+  "module_id": "MEA-088",
+  "title": "Healthy Restaurant Planning",
+  "subtitle": "Practical strategies, examples, and tradeoffs related to healthy restaurant planning.",
+  "domain": "Meal Planning",
+  "category": "Budget and Convenience",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Evaluation"
+  ],
+  "audience": [
+    "Consumers",
+    "Dietitians",
+    "Health Coaches"
+  ],
+  "reading_level": "Grade 8-10",
+  "keywords": [
+    "healthy eating",
+    "restaurant planning",
+    "meal planning",
+    "budget",
+    "nutrition",
+    "convenience",
+    "diet quality",
+    "meal choices",
+    "portion control",
+    "food environment"
+  ],
+  "related_modules": [
+    "MEA-032",
+    "MEA-076",
+    "MEA-102"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence for practical strategies and emerging data on effectiveness in diverse populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

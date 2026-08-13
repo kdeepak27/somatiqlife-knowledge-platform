@@ -1,0 +1,250 @@
+{
+  "module_id": "MEA-088",
+  "title": "Healthy Restaurant Planning",
+  "subtitle": "Practical strategies, examples, and tradeoffs related to healthy restaurant planning.",
+  "domain": "Meal Planning",
+  "category": "Budget and Convenience",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Evaluation"
+  ],
+  "audience": [
+    "Consumers",
+    "Dietitians",
+    "Health Coaches"
+  ],
+  "reading_level": "Grade 8-10",
+  "keywords": [
+    "healthy eating",
+    "restaurant planning",
+    "meal planning",
+    "budget",
+    "nutrition",
+    "convenience",
+    "diet quality",
+    "meal choices",
+    "portion control",
+    "food environment"
+  ],
+  "customer_questions": [
+    "What is healthy restaurant planning?",
+    "How can I choose healthier options when dining out?",
+    "What are common nutritional pitfalls in restaurant meals?",
+    "How does budget affect healthy restaurant choices?",
+    "Are there practical strategies to save money and eat healthy at restaurants?",
+    "How do portion sizes in restaurants impact health?",
+    "What role does menu labeling play in healthy eating?",
+    "Can meal planning include restaurant dining?",
+    "What are some examples of healthy meals at common restaurants?",
+    "How does convenience influence healthy restaurant choices?",
+    "What tradeoffs might I need to consider when eating out healthily?",
+    "Are there misconceptions about healthy restaurant meals?"
+  ],
+  "retrieval_summary": "Healthy restaurant planning involves intentional strategies to select, prepare for, and consume meals at restaurants that align with nutritional and health goals while considering budget and convenience. It encompasses understanding the nutritional profiles of restaurant foods, recognizing common challenges such as large portion sizes, high calories, saturated fats, added sugars, and sodium, and applying practical approaches to mitigate these issues. Mechanisms include awareness of menu labeling, portion control, and ingredient selection, as well as scheduling and budgeting methods to integrate dining out healthfully into one's lifestyle. Major synonyms or related concepts include mindful eating out, restaurant meal planning, and healthy dining strategies. The relevance arises due to the increasing frequency of eating outside the home and its impact on diet quality and health outcomes, especially given the prevalence of obesity and chronic diseases linked to diet. Limitations include varying availability of healthy choices across different restaurant types, reliance on consumer nutrition literacy, and economic constraints that may restrict options. Safety considerations relate primarily to food allergies and timely management of chronic conditions such as diabetes when eating outside. Healthy restaurant planning can improve dietary balance, support weight management, and foster long-term health by combining nutritional understanding with real-world dining scenarios.",
+  "learning_objectives": [
+    "Define healthy restaurant planning and its components.",
+    "Identify common nutritional challenges associated with restaurant meals.",
+    "Understand the impact of portion sizes and menu labeling on meal choices.",
+    "Explore budget-conscious strategies to eat healthily at restaurants.",
+    "Apply practical tips for selecting and customizing restaurant meals.",
+    "Recognize tradeoffs and limitations when planning healthy restaurant dining.",
+    "Clarify misconceptions about healthy eating outside the home.",
+    "Highlight safety considerations related to eating out with health conditions."
+  ],
+  "definition": "Healthy restaurant planning refers to the deliberate process of preparing for and selecting meals at restaurants that support balanced nutrition, meet individual health goals, and align with budget and convenience needs. It involves knowledge of food composition, menu assessment, portion awareness, and practical strategies to optimize health outcomes while dining out.",
+  "why_this_matters": "With more people eating meals away from home in modern lifestyles, restaurant foods significantly influence overall diet quality and health. Effective healthy restaurant planning can prevent excessive calorie intake, reduce consumption of undesirable nutrients like saturated fats and sodium, and support chronic disease management. Additionally, it helps individuals balance enjoyment and social aspects of dining out with nutrition and budgetary goals.",
+  "sections": [
+    {
+      "heading": "Defining Healthy Restaurant Planning",
+      "content": "Healthy restaurant planning is the intentional act of choosing and preparing to consume meals at eateries that contribute positively to nutritional intake and align with personal health objectives. This includes understanding menu options, identifying nutrient-rich foods, factoring in budget constraints, and accommodating convenience needs. It differs from general meal planning by focusing specifically on the challenges and opportunities of dining out."
+    },
+    {
+      "heading": "Nutritional Challenges in Restaurant Meals",
+      "content": "Restaurant dishes often contain higher levels of calories, saturated fats, sugars, and sodium compared to home-cooked meals. Hidden ingredients like added sugars and excess oils increase caloric density. Additionally, cooking methods such as frying or heavy sauces can reduce nutritional quality. Understanding these challenges is crucial for making healthier choices when eating out."
+    },
+    {
+      "heading": "Impact of Portion Sizes on Health",
+      "content": "Portion sizes served in restaurants frequently exceed recommended serving sizes, contributing to overeating and increased calorie intake. Large portions can distort hunger and satiety cues, leading to weight gain over time. Strategies like sharing meals, ordering appetizers as main dishes, or packing leftovers can help manage portion control."
+    },
+    {
+      "heading": "Role of Menu Labeling and Nutrition Information",
+      "content": "Many restaurants provide menu labeling with calorie counts or nutrition information, assisting consumers in making informed decisions. Awareness and understanding of this information can guide healthier selections by comparing calorie content and nutrient profiles of dishes. However, availability and accuracy vary among establishments."
+    },
+    {
+      "heading": "Budget Considerations in Healthy Dining Out",
+      "content": "Eating healthily at restaurants may be perceived as more expensive, but strategic planning can mitigate costs. Choosing lunch menus, avoiding extras like sugary drinks, and selecting dishes with whole foods rather than processed options can support both health and budget. Recognizing affordable restaurants that offer nutritious options is key."
+    },
+    {
+      "heading": "Convenience and Its Influence on Restaurant Choices",
+      "content": "Convenience factors such as location, time constraints, and availability influence restaurant selection and meal choices. Fast food or quick-service restaurants often dominate due to speed but may lack healthful options. Planning for dining times and researching menus in advance improves the likelihood of healthier choices despite convenience pressures."
+    },
+    {
+      "heading": "Practical Strategies for Healthy Restaurant Planning",
+      "content": "Practical approaches include reviewing menus online before arrival, requesting modifications like dressing on the side, choosing grilled over fried items, and balancing meal components (protein, vegetables, whole grains). Employing portion control techniques and being mindful of beverages further enhances meal quality. Packing leftovers can reduce food waste and extend meal value."
+    },
+    {
+      "heading": "Examples of Healthy Restaurant Meals",
+      "content": "Many restaurants now offer healthier menu options such as salads with lean proteins, vegetable-based dishes, and whole grain sides. Examples include grilled chicken with steamed vegetables, sushi with brown rice, or customizable bowls emphasizing fresh ingredients. Selecting these options supports balanced nutrition while dining out."
+    },
+    {
+      "heading": "Tradeoffs and Limitations in Healthy Restaurant Planning",
+      "content": "Limitations include limited menu choices at some establishments, variability in ingredient quality, and social or cultural pressures that influence meal selections. Tradeoffs may involve choosing convenience over ideal nutrition or moderate indulgence during social occasions. Understanding these realities helps set realistic expectations and maintain long-term adherence."
+    },
+    {
+      "heading": "Common Misconceptions About Healthy Restaurant Eating",
+      "content": "A frequent misconception is that eating healthily at restaurants is universally expensive or lacks flavor. Another is believing that all menu-labeled foods are inherently healthy. Some assume that salads are always a good choice, but dressings and toppings can add calories. Addressing these myths empowers better decision-making."
+    },
+    {
+      "heading": "Safety Considerations When Dining Out",
+      "content": "Individuals with food allergies, intolerances, or chronic conditions like diabetes must consider ingredient transparency, timing of meals, and carbohydrate content when dining out. Communicating dietary restrictions to restaurant staff and planning for medication timing are critical safety practices. Awareness of cross-contamination risks is also important."
+    },
+    {
+      "heading": "Integrating Healthy Restaurant Planning Into Overall Meal Planning",
+      "content": "Healthy restaurant planning complements broader meal planning by providing options that fit within daily nutritional goals. Incorporating dining out occasions into weekly meal designs can enhance flexibility and satisfaction without compromising health. Tracking intake and maintaining balance across meals supports ongoing success."
+    }
+  ],
+  "practical_guidance": [
+    "Review restaurant menus online before visiting to identify healthier options.",
+    "Request modifications such as dressing on the side or grilled instead of fried.",
+    "Choose smaller portions or share dishes to manage calorie intake.",
+    "Opt for whole grains, lean proteins, and vegetables where possible.",
+    "Avoid sugary beverages and excessive alcohol during meals.",
+    "Utilize lunch menus or specials to reduce meal costs.",
+    "Be mindful of added sauces, dressings, and toppings that add calories.",
+    "Plan meal timing to avoid excessive hunger before dining out."
+  ],
+  "safety_notes": [
+    "Communicate food allergies and dietary restrictions clearly to restaurant staff.",
+    "Monitor blood sugar levels closely if diabetic when planning restaurant meals.",
+    "Consider potential cross-contamination in kitchens when allergies are present.",
+    "Avoid unknown or uncommon ingredients if allergic or intolerant.",
+    "Carry necessary medications such as epinephrine auto-injectors when dining out."
+  ],
+  "misconceptions": [
+    {
+      "misconception": "Eating healthily at restaurants is always expensive.",
+      "reality": "With strategic choices and planning, healthy dining out can fit various budgets."
+    },
+    {
+      "misconception": "Menu-labeled items are guaranteed to be healthy.",
+      "reality": "Menu labeling provides calorie and nutritional info but does not guarantee overall healthiness."
+    },
+    {
+      "misconception": "All salads at restaurants are healthy choices.",
+      "reality": "Some salads can be calorie-dense due to dressings, cheeses, or fried toppings."
+    }
+  ],
+  "clinical_pearls": [
+    "Portion control is as important as food type in managing calorie intake at restaurants.",
+    "Advance menu review facilitates healthier ordering decisions.",
+    "Balancing indulgent choices with nutrient-rich items maintains diet quality.",
+    "Understanding nutrition labels empowers consumers but requires basic literacy.",
+    "Communication with restaurant staff improves meal customization and safety."
+  ],
+  "key_takeaways": [
+    "Healthy restaurant planning helps balance nutrition, budget, and convenience when dining out.",
+    "Restaurant meals often contain higher calories, fats, sodium, and sugars than home-cooked meals.",
+    "Large restaurant portions can contribute to overeating and weight gain.",
+    "Menu labeling assists but does not replace personal judgment in healthy choices.",
+    "Budget-friendly strategies enable nutritious dining without overspending.",
+    "Convenience influences meal selection but can be managed with planning.",
+    "Customizing orders and controlling portions improve meal healthfulness.",
+    "Safety considerations are critical for those with allergies and chronic conditions."
+  ],
+  "glossary": [
+    {
+      "term": "Portion Control",
+      "definition": "Managing the amount of food consumed in one eating occasion to maintain a healthful intake."
+    },
+    {
+      "term": "Menu Labeling",
+      "definition": "Providing nutritional information such as calorie counts on restaurant menus to inform consumer choices."
+    },
+    {
+      "term": "Saturated Fats",
+      "definition": "Types of fats found in animal products and processed foods that can raise blood cholesterol levels."
+    },
+    {
+      "term": "Added Sugars",
+      "definition": "Sugars added to foods during processing or preparation, contributing extra calories without nutrients."
+    },
+    {
+      "term": "Whole Grains",
+      "definition": "Grains containing all essential parts and naturally-occurring nutrients, such as fiber and vitamins."
+    },
+    {
+      "term": "Cross-Contamination",
+      "definition": "The accidental transfer of allergens or harmful bacteria from one food item to another."
+    },
+    {
+      "term": "Mindful Eating",
+      "definition": "Paying full attention to the experience of eating and drinking, both inside and outside the body."
+    },
+    {
+      "term": "Caloric Density",
+      "definition": "The number of calories in a given weight or volume of food; high caloric density means more calories per bite."
+    }
+  ],
+  "related_modules": [
+    "MEA-032",
+    "MEA-076",
+    "MEA-102"
+  ],
+  "illustrations": [
+    {
+      "illustration_id": "ILL-001",
+      "title": "Healthy vs. Typical Restaurant Portion Sizes",
+      "illustration_type": "Infographic",
+      "description": "Visual comparison of common restaurant portion sizes with recommended serving sizes to illustrate overeating risks.",
+      "alt_text": "Side-by-side images of large restaurant portions and smaller recommended portions."
+    },
+    {
+      "illustration_id": "ILL-002",
+      "title": "Menu Labeling Example",
+      "illustration_type": "Diagram",
+      "description": "Sample restaurant menu highlighting calorie counts and nutritional info to demonstrate menu labeling.",
+      "alt_text": "Restaurant menu showing dishes with calorie counts and symbols for healthy options."
+    },
+    {
+      "illustration_id": "ILL-003",
+      "title": "Practical Tips for Ordering Healthy Restaurant Meals",
+      "illustration_type": "Checklist",
+      "description": "Graphic checklist suggesting practical strategies such as asking for sauces on the side and choosing grilled items.",
+      "alt_text": "Checklist titled 'Healthy Ordering Tips' with icons representing each tip."
+    },
+    {
+      "illustration_id": "ILL-004",
+      "title": "Budget-Friendly Healthy Restaurant Choices",
+      "illustration_type": "Table",
+      "description": "Table listing common restaurant meal options ranked by estimated price and nutritional value.",
+      "alt_text": "Table comparing cost and nutritional rating of various restaurant dishes."
+    }
+  ],
+  "references": [
+    {
+      "title": "Portion Size and Obesity",
+      "organization_or_authors": "National Institutes of Health",
+      "year": "2020",
+      "identifier": "NIH Publication",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Menu Labeling and Consumer Behavior: A Review",
+      "organization_or_authors": "Journal of Nutrition Education and Behavior",
+      "year": "2019",
+      "identifier": "PubMed ID: 31451295",
+      "verification_status": "Unverified"
+    },
+    {
+      "title": "Strategies to Reduce Sodium Intake from Restaurant Foods",
+      "organization_or_authors": "American Heart Association",
+      "year": "2021",
+      "identifier": "AHA Scientific Statement",
+      "verification_status": "Unverified"
+    }
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence for practical strategies and emerging data on effectiveness in diverse populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

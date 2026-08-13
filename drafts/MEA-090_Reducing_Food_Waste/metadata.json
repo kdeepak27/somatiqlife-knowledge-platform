@@ -1,0 +1,37 @@
+{
+  "module_id": "MEA-090",
+  "title": "Reducing Food Waste",
+  "subtitle": "Practical strategies, examples, and tradeoffs related to reducing food waste.",
+  "domain": "Meal Planning",
+  "category": "Budget and Convenience",
+  "som_stages": [
+    "Awareness",
+    "Decision",
+    "Action"
+  ],
+  "audience": [
+    "Consumers",
+    "Meal Planners",
+    "Household Budget Managers",
+    "Environmental Advocates"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "food waste",
+    "meal planning",
+    "budgeting",
+    "sustainability",
+    "preservation",
+    "portion control",
+    "leftovers",
+    "expiration dates"
+  ],
+  "related_modules": [
+    "NUT-204",
+    "SUS-110",
+    "HAB-300"
+  ],
+  "evidence_strength": "Established evidence with some moderate evidence on behavioral interventions.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
