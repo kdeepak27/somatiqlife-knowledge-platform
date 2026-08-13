@@ -1,0 +1,38 @@
+{
+  "module_id": "PROG-029",
+  "title": "Arm Strength Program",
+  "subtitle": "A structured approach to arm strength program, including volume, progression, recovery, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Muscle Programs",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Personal Trainers",
+    "Physical Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "arm strength",
+    "muscle strength",
+    "exercise volume",
+    "progression",
+    "recovery",
+    "safety",
+    "resistance training",
+    "hypertrophy",
+    "neuromuscular adaptation"
+  ],
+  "related_modules": [
+    "PROG-031",
+    "FIT-045",
+    "PHY-014"
+  ],
+  "evidence_strength": "Established evidence with emerging insights on program optimization",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,39 @@
+{
+  "module_id": "PROG-028",
+  "title": "Shoulder Strength Program",
+  "subtitle": "A structured approach to shoulder strength program, including volume, progression, recovery, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Muscle Programs",
+  "som_stages": [
+    "Strength Building",
+    "Muscle Conditioning",
+    "Injury Prevention"
+  ],
+  "audience": [
+    "General Adult Population",
+    "Athletes",
+    "Physical Therapists",
+    "Personal Trainers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "shoulder strength",
+    "shoulder muscles",
+    "strength training",
+    "progression",
+    "volume",
+    "recovery",
+    "safety",
+    "exercise programming",
+    "muscle hypertrophy",
+    "rotator cuff"
+  ],
+  "related_modules": [
+    "PROG-015",
+    "REHAB-007",
+    "EXER-042"
+  ],
+  "evidence_strength": "Established evidence for core training principles; moderate evidence for specific exercise and progression protocols; emerging evidence for individualized programming and recovery optimization.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

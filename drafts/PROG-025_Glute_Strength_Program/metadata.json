@@ -1,0 +1,37 @@
+{
+  "module_id": "PROG-025",
+  "title": "Glute Strength Program",
+  "subtitle": "A structured approach to glute strength program, including volume, progression, recovery, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Muscle Programs",
+  "som_stages": [
+    "Preparation",
+    "Implementation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Physical Therapists",
+    "Personal Trainers"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "gluteal muscles",
+    "strength training",
+    "progressive overload",
+    "muscle hypertrophy",
+    "rehabilitation",
+    "exercise volume",
+    "recovery",
+    "injury prevention"
+  ],
+  "related_modules": [
+    "PROG-015",
+    "REHB-032",
+    "EXER-008"
+  ],
+  "evidence_strength": "Established evidence for exercise selection and physiological mechanisms; moderate evidence for specific progression protocols; emerging evidence on neuromuscular activation strategies; safety considerations well supported.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
