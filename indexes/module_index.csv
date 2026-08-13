@@ -1,4 +1,23 @@
 module_id,title,domain,category,version,stage,path
+CASE-001,Case Study: Weight Gain After 40,Case Studies and Scenarios,Weight and Metabolic Scenarios,1.0,drafts,drafts/CASE-001_Case_Study_Weight_Gain_After_40/module.json
+CASE-002,Case Study: Prediabetes and Sedentary Lifestyle,Case Studies and Scenarios,Weight and Metabolic Scenarios,1.0,drafts,drafts/CASE-002_Case_Study_Prediabetes_and_Sedentary_Lifestyle/module.json
+CASE-003,Case Study: Type 2 Diabetes and Low Fitness,Case Studies and Scenarios,Weight and Metabolic Scenarios,1.0,drafts,drafts/CASE-003_Case_Study_Type_2_Diabetes_and_Low_Fitness/module.json
+CASE-004,Case Study: Abdominal Weight Gain,Case Studies and Scenarios,Weight and Metabolic Scenarios,1.0,drafts,drafts/CASE-004_Case_Study_Abdominal_Weight_Gain/module.json
+CASE-005,Case Study: Weight-Loss Plateau,Case Studies and Scenarios,Weight and Metabolic Scenarios,1.0,drafts,drafts/CASE-005_Case_Study_Weight-Loss_Plateau/module.json
+CASE-006,Case Study: Emotional Eating,Case Studies and Scenarios,Weight and Metabolic Scenarios,1.0,drafts,drafts/CASE-006_Case_Study_Emotional_Eating/module.json
+CASE-007,Case Study: Frequent Restaurant Eating,Case Studies and Scenarios,Weight and Metabolic Scenarios,1.0,drafts,drafts/CASE-007_Case_Study_Frequent_Restaurant_Eating/module.json
+CASE-008,Case Study: Vegetarian Protein Deficiency Risk,Case Studies and Scenarios,Weight and Metabolic Scenarios,1.0,drafts,drafts/CASE-008_Case_Study_Vegetarian_Protein_Deficiency_Risk/module.json
+CASE-009,Case Study: High Triglycerides,Case Studies and Scenarios,Weight and Metabolic Scenarios,1.0,drafts,drafts/CASE-009_Case_Study_High_Triglycerides/module.json
+CASE-010,Case Study: Fatty Liver Disease,Case Studies and Scenarios,Weight and Metabolic Scenarios,1.0,drafts,drafts/CASE-010_Case_Study_Fatty_Liver_Disease/module.json
+CASE-011,Case Study: Newly Diagnosed High Blood Pressure,Case Studies and Scenarios,Heart Health Scenarios,1.0,drafts,drafts/CASE-011_Case_Study_Newly_Diagnosed_High_Blood_Pressure/module.json
+CASE-012,Case Study: High LDL Cholesterol,Case Studies and Scenarios,Heart Health Scenarios,1.0,drafts,drafts/CASE-012_Case_Study_High_LDL_Cholesterol/module.json
+CASE-013,Case Study: High Lipoprotein(a),Case Studies and Scenarios,Heart Health Scenarios,1.0,drafts,drafts/CASE-013_Case_Study_High_Lipoprotein(a)/module.json
+CASE-014,Case Study: Family History of Heart Disease,Case Studies and Scenarios,Heart Health Scenarios,1.0,drafts,drafts/CASE-014_Case_Study_Family_History_of_Heart_Disease/module.json
+CASE-015,Case Study: South Asian Cardiovascular Risk,Case Studies and Scenarios,Heart Health Scenarios,1.0,drafts,drafts/CASE-015_Case_Study_South_Asian_Cardiovascular_Risk/module.json
+CASE-016,Case Study: Low Cardiorespiratory Fitness,Case Studies and Scenarios,Heart Health Scenarios,1.0,drafts,drafts/CASE-016_Case_Study_Low_Cardiorespiratory_Fitness/module.json
+CASE-017,Case Study: Smoking and Heart Risk,Case Studies and Scenarios,Heart Health Scenarios,1.0,drafts,drafts/CASE-017_Case_Study_Smoking_and_Heart_Risk/module.json
+CASE-018,Case Study: High Stress and Blood Pressure,Case Studies and Scenarios,Heart Health Scenarios,1.0,drafts,drafts/CASE-018_Case_Study_High_Stress_and_Blood_Pressure/module.json
+CASE-019,Case Study: Poor Sleep and Blood Pressure,Case Studies and Scenarios,Heart Health Scenarios,1.0,drafts,drafts/CASE-019_Case_Study_Poor_Sleep_and_Blood_Pressure/module.json
 MEA-001,Meal Planning Basics,Meal Planning,Meal Planning Foundations,1.0,drafts,drafts/MEA-001_Meal_Planning_Basics/module.json
 MEA-002,Building a Balanced Plate,Meal Planning,Meal Planning Foundations,1.0,drafts,drafts/MEA-002_Building_a_Balanced_Plate/module.json
 MEA-003,Planning Protein at Each Meal,Meal Planning,Meal Planning Foundations,1.0,drafts,drafts/MEA-003_Planning_Protein_at_Each_Meal/module.json
@@ -168,3 +187,34 @@ PROG-066,Fall Prevention Program,Exercise Programs,Healthy Aging Programs,1.0,dr
 PROG-067,Walking After 60 Program,Exercise Programs,Healthy Aging Programs,1.0,drafts,drafts/PROG-067_Walking_After_60_Program/module.json
 PROG-068,Cardio After 60 Program,Exercise Programs,Healthy Aging Programs,1.0,drafts,drafts/PROG-068_Cardio_After_60_Program/module.json
 PROG-069,Mobility After 60 Program,Exercise Programs,Healthy Aging Programs,1.0,drafts,drafts/PROG-069_Mobility_After_60_Program/module.json
+PROG-070,Longevity Fitness Program,Exercise Programs,Healthy Aging Programs,1.0,drafts,drafts/PROG-070_Longevity_Fitness_Program/module.json
+PROG-071,Exercise Program for Prediabetes,Exercise Programs,Condition-Focused Programs,1.0,drafts,drafts/PROG-071_Exercise_Program_for_Prediabetes/module.json
+PROG-072,Exercise Program for Type 2 Diabetes,Exercise Programs,Condition-Focused Programs,1.0,drafts,drafts/PROG-072_Exercise_Program_for_Type_2_Diabetes/module.json
+PROG-073,Exercise Program for High Blood Pressure,Exercise Programs,Condition-Focused Programs,1.0,drafts,drafts/PROG-073_Exercise_Program_for_High_Blood_Pressure/module.json
+PROG-074,Exercise Program for High Cholesterol,Exercise Programs,Condition-Focused Programs,1.0,drafts,drafts/PROG-074_Exercise_Program_for_High_Cholesterol/module.json
+PROG-075,Exercise Program for Obesity,Exercise Programs,Condition-Focused Programs,1.0,drafts,drafts/PROG-075_Exercise_Program_for_Obesity/module.json
+PROG-076,Exercise Program for Fatty Liver Disease,Exercise Programs,Condition-Focused Programs,1.0,drafts,drafts/PROG-076_Exercise_Program_for_Fatty_Liver_Disease/module.json
+PROG-077,Exercise Program for Osteoarthritis,Exercise Programs,Condition-Focused Programs,1.0,drafts,drafts/PROG-077_Exercise_Program_for_Osteoarthritis/module.json
+PROG-078,Exercise Program for Osteoporosis,Exercise Programs,Condition-Focused Programs,1.0,drafts,drafts/PROG-078_Exercise_Program_for_Osteoporosis/module.json
+PROG-079,Exercise Program for Chronic Back Pain,Exercise Programs,Condition-Focused Programs,1.0,drafts,drafts/PROG-079_Exercise_Program_for_Chronic_Back_Pain/module.json
+PROG-080,Exercise Program for Better Sleep,Exercise Programs,Condition-Focused Programs,1.0,drafts,drafts/PROG-080_Exercise_Program_for_Better_Sleep/module.json
+PROG-081,20-Minute Workout Program,Exercise Programs,Busy-Life Programs,1.0,drafts,drafts/PROG-081_20-Minute_Workout_Program/module.json
+PROG-082,30-Minute Workout Program,Exercise Programs,Busy-Life Programs,1.0,drafts,drafts/PROG-082_30-Minute_Workout_Program/module.json
+PROG-083,Three-Day Fitness Program,Exercise Programs,Busy-Life Programs,1.0,drafts,drafts/PROG-083_Three-Day_Fitness_Program/module.json
+PROG-084,Weekend Warrior Program,Exercise Programs,Busy-Life Programs,1.0,drafts,drafts/PROG-084_Weekend_Warrior_Program/module.json
+PROG-085,Travel Workout Program,Exercise Programs,Busy-Life Programs,1.0,drafts,drafts/PROG-085_Travel_Workout_Program/module.json
+PROG-086,Hotel Workout Program,Exercise Programs,Busy-Life Programs,1.0,drafts,drafts/PROG-086_Hotel_Workout_Program/module.json
+PROG-087,Office Worker Fitness Program,Exercise Programs,Busy-Life Programs,1.0,drafts,drafts/PROG-087_Office_Worker_Fitness_Program/module.json
+PROG-088,No-Equipment Home Program,Exercise Programs,Busy-Life Programs,1.0,drafts,drafts/PROG-088_No-Equipment_Home_Program/module.json
+PROG-089,Minimal-Equipment Program,Exercise Programs,Busy-Life Programs,1.0,drafts,drafts/PROG-089_Minimal-Equipment_Program/module.json
+PROG-090,Busy Professional Fitness Program,Exercise Programs,Busy-Life Programs,1.0,drafts,drafts/PROG-090_Busy_Professional_Fitness_Program/module.json
+PROG-091,Fat Loss Exercise Program,Exercise Programs,Goal-Based Programs,1.0,drafts,drafts/PROG-091_Fat_Loss_Exercise_Program/module.json
+PROG-092,Muscle Gain Exercise Program,Exercise Programs,Goal-Based Programs,1.0,drafts,drafts/PROG-092_Muscle_Gain_Exercise_Program/module.json
+PROG-093,General Fitness Program,Exercise Programs,Goal-Based Programs,1.0,drafts,drafts/PROG-093_General_Fitness_Program/module.json
+PROG-094,Improve VO2 Max Program,Exercise Programs,Goal-Based Programs,1.0,drafts,drafts/PROG-094_Improve_VO2_Max_Program/module.json
+PROG-095,Improve Strength Program,Exercise Programs,Goal-Based Programs,1.0,drafts,drafts/PROG-095_Improve_Strength_Program/module.json
+PROG-096,Improve Mobility Program,Exercise Programs,Goal-Based Programs,1.0,drafts,drafts/PROG-096_Improve_Mobility_Program/module.json
+PROG-097,Improve Balance Program,Exercise Programs,Goal-Based Programs,1.0,drafts,drafts/PROG-097_Improve_Balance_Program/module.json
+PROG-098,Improve Energy Program,Exercise Programs,Goal-Based Programs,1.0,drafts,drafts/PROG-098_Improve_Energy_Program/module.json
+PROG-099,Return to Exercise Program,Exercise Programs,Goal-Based Programs,1.0,drafts,drafts/PROG-099_Return_to_Exercise_Program/module.json
+PROG-100,Building Your Own Exercise Program,Exercise Programs,Goal-Based Programs,1.0,drafts,drafts/PROG-100_Building_Your_Own_Exercise_Program/module.json
