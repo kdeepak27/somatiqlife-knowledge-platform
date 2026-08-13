@@ -1,0 +1,40 @@
+{
+  "module_id": "MEA-078",
+  "title": "Meal Planning for Couples",
+  "subtitle": "Practical meal planning strategies related to meal planning for couples.",
+  "domain": "Meal Planning",
+  "category": "Life Stage Planning",
+  "som_stages": [
+    "Planning",
+    "Implementation",
+    "Maintenance"
+  ],
+  "audience": [
+    "Couples",
+    "Nutritionists",
+    "Dietitians",
+    "Health Coaches",
+    "General Public"
+  ],
+  "reading_level": "Medium (Grades 8-10)",
+  "keywords": [
+    "meal planning",
+    "couples",
+    "nutrition",
+    "diet",
+    "shared meals",
+    "healthy eating",
+    "food preferences",
+    "meal prep",
+    "portion control",
+    "communication"
+  ],
+  "related_modules": [
+    "MEA-012",
+    "MEA-045",
+    "MEA-089"
+  ],
+  "evidence_strength": "Moderate evidence supports the benefits of meal planning for couples on dietary adherence and relationship satisfaction. Emerging evidence indicates benefits of communication and technology use. Limitations exist due to the variability of couples’ dynamics and limited diverse study populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

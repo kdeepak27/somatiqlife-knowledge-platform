@@ -1,0 +1,37 @@
+{
+  "module_id": "MEA-076",
+  "title": "Meal Planning for Families",
+  "subtitle": "Practical meal planning strategies related to meal planning for families.",
+  "domain": "Meal Planning",
+  "category": "Life Stage Planning",
+  "som_stages": [
+    "Family Nutrition",
+    "Child Development",
+    "Parental Health"
+  ],
+  "audience": [
+    "Parents",
+    "Caregivers",
+    "Dietitians",
+    "Nutritionists"
+  ],
+  "reading_level": "General Audience",
+  "keywords": [
+    "meal planning",
+    "family meals",
+    "nutrition",
+    "healthy eating",
+    "meal prep",
+    "balanced diet",
+    "time management"
+  ],
+  "related_modules": [
+    "MEA-012ChildNutrition",
+    "MEA-039HealthyEatingHabits",
+    "MEA-054FoodSafetyAtHome",
+    "MEA-083CulturalNutritionPractices"
+  ],
+  "evidence_strength": "Established evidence with some moderate emerging aspects regarding behavioral impact",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
