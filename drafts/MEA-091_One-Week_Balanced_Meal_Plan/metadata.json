@@ -1,0 +1,39 @@
+{
+  "module_id": "MEA-091",
+  "title": "One-Week Balanced Meal Plan",
+  "subtitle": "A flexible framework, examples, substitutions, and safety considerations for one-week balanced meal plan.",
+  "domain": "Meal Planning",
+  "category": "Weekly Plans",
+  "som_stages": [
+    "Preparation",
+    "Implementation",
+    "Maintenance"
+  ],
+  "audience": [
+    "Consumers",
+    "Dietitians",
+    "Nutritionists",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Grade 8",
+  "keywords": [
+    "meal planning",
+    "balanced diet",
+    "weekly plan",
+    "nutrition",
+    "healthy eating",
+    "macronutrients",
+    "micronutrients",
+    "dietary substitutions",
+    "meal prep",
+    "safety"
+  ],
+  "related_modules": [
+    "MEA-032",
+    "MEA-078",
+    "MEA-103"
+  ],
+  "evidence_strength": "Established evidence from systematic reviews and clinical guidelines supports the benefits of balanced meal planning. Moderate evidence exists on the impact of meal timing and individual variability. Emerging research explores personalization via digital tools and diet adaptations. Safety precautions are emphasized for special populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

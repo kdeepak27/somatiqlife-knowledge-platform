@@ -1,0 +1,36 @@
+{
+  "module_id": "MEA-095",
+  "title": "One-Week Indian Healthy Meal Plan",
+  "subtitle": "A flexible framework, examples, substitutions, and safety considerations for one-week Indian healthy meal plan.",
+  "domain": "Meal Planning",
+  "category": "Weekly Plans",
+  "som_stages": [
+    "Planning",
+    "Implementation"
+  ],
+  "audience": [
+    "General Public",
+    "Individuals Seeking Healthy Eating",
+    "Dietitians",
+    "Nutritionists"
+  ],
+  "reading_level": "8th-10th Grade",
+  "keywords": [
+    "Indian cuisine",
+    "Healthy meal plan",
+    "Weekly meal planning",
+    "Balanced diet",
+    "Nutrition",
+    "Meal substitutions",
+    "Portion control",
+    "Plant-based proteins"
+  ],
+  "related_modules": [
+    "MEA-042",
+    "MEA-051",
+    "MEA-107"
+  ],
+  "evidence_strength": "Mixed evidence: Established benefits of balanced meals and basic nutrition; moderate evidence for spice-related health effects; safety recommendations based on public health guidelines.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
