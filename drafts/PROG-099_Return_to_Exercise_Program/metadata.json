@@ -1,0 +1,39 @@
+{
+  "module_id": "PROG-099",
+  "title": "Return to Exercise Program",
+  "subtitle": "A goal-focused framework for return to exercise program, including progression, recovery, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Goal-Based Programs",
+  "som_stages": [
+    "Preparation",
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Fitness Enthusiasts",
+    "Rehabilitation Patients",
+    "Athletes",
+    "Health Coaches"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Return to Exercise",
+    "Exercise Progression",
+    "Recovery",
+    "Exercise Safety",
+    "Exercise Programming",
+    "Exercise Physiology",
+    "Physical Activity",
+    "Exercise Limitations"
+  ],
+  "related_modules": [
+    "PROG-045",
+    "PROG-078",
+    "REHAB-012"
+  ],
+  "evidence_strength": "Established evidence supporting gradual progression and recovery principles; emerging evidence in individualized progression refinement and biomarkers for monitoring.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "PROG-097",
+  "title": "Improve Balance Program",
+  "subtitle": "A goal-focused framework for improve balance program, including progression, recovery, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Goal-Based Programs",
+  "som_stages": [
+    "Prevention",
+    "Rehabilitation",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Physical Therapists",
+    "Fitness Trainers"
+  ],
+  "reading_level": "Intermediate (health literate)",
+  "keywords": [
+    "Balance training",
+    "Postural control",
+    "Equilibrium",
+    "Falls prevention",
+    "Neuromuscular coordination",
+    "Proprioception",
+    "Vestibular system"
+  ],
+  "related_modules": [
+    "PROG-045",
+    "PROG-063",
+    "NEUR-021"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials and meta-analyses; moderate evidence for technology-assisted approaches; emerging evidence for special populations adaptations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,39 @@
+{
+  "module_id": "PROG-096",
+  "title": "Improve Mobility Program",
+  "subtitle": "A goal-focused framework for improve mobility program, including progression, recovery, and safety.",
+  "domain": "Exercise Programs",
+  "category": "Goal-Based Programs",
+  "som_stages": [
+    "Initiation",
+    "Progression",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Physical Therapists",
+    "Exercise Professionals",
+    "Rehabilitation Specialists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "mobility",
+    "exercise progression",
+    "recovery",
+    "range of motion",
+    "functional movement",
+    "joint health",
+    "flexibility",
+    "strength",
+    "neuromuscular control",
+    "injury prevention"
+  ],
+  "related_modules": [
+    "PROG-031",
+    "PROG-072",
+    "PROG-120"
+  ],
+  "evidence_strength": "Established and Moderate Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
