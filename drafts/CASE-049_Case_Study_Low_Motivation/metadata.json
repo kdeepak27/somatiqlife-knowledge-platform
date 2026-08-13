@@ -1,0 +1,38 @@
+{
+  "module_id": "CASE-049",
+  "title": "Case Study: Low Motivation",
+  "subtitle": "A realistic educational scenario integrating behavior, mental well-being, evidence, and when to seek help for case study: low motivation.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Stress and Mental Well-Being Scenarios",
+  "som_stages": [
+    "Recognition",
+    "Management",
+    "Referral"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Mental Health Educators"
+  ],
+  "reading_level": "Medium",
+  "keywords": [
+    "Low Motivation",
+    "Apathy",
+    "Mental Health",
+    "Behavioral Change",
+    "Stress",
+    "Well-Being",
+    "Depression",
+    "Energy Levels",
+    "Motivation Mechanisms",
+    "Treatment Approaches"
+  ],
+  "related_modules": [
+    "CASE-025",
+    "CASE-037",
+    "CASE-060"
+  ],
+  "evidence_strength": "Established evidence with emerging areas requiring further research",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

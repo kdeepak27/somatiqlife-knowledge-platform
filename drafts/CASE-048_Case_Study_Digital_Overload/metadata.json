@@ -1,0 +1,36 @@
+{
+  "module_id": "CASE-048",
+  "title": "Case Study: Digital Overload",
+  "subtitle": "A realistic educational scenario integrating behavior, mental well-being, evidence, and when to seek help for case study: digital overload.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Stress and Mental Well-Being Scenarios",
+  "som_stages": [
+    "Recognition",
+    "Understanding",
+    "Management"
+  ],
+  "audience": [
+    "General Public",
+    "Health Educators",
+    "Mental Health Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "digital overload",
+    "screen time",
+    "mental well-being",
+    "stress",
+    "technology fatigue",
+    "digital detox",
+    "behavioral health",
+    "digital addiction"
+  ],
+  "related_modules": [
+    "MH-101-MentalHealthBasics",
+    "STRESS-203-StressManagementStrategies",
+    "TECH-309-TechnologyAndHealth"
+  ],
+  "evidence_strength": "Moderate – Established physiological and psychological mechanisms supported by observational and intervention studies; some emerging evidence with recognized limitations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
