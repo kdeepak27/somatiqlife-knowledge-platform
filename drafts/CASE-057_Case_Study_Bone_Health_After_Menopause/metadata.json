@@ -1,0 +1,40 @@
+{
+  "module_id": "CASE-057",
+  "title": "Case Study: Bone Health After Menopause",
+  "subtitle": "A realistic educational scenario integrating physiology, prevention, lifestyle, and safety for case study: bone health after menopause.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Women's Health Scenarios",
+  "som_stages": [
+    "Postmenopause",
+    "Early Menopause",
+    "Midlife Health"
+  ],
+  "audience": [
+    "Patients",
+    "General Public",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "8th to 10th Grade",
+  "keywords": [
+    "bone health",
+    "menopause",
+    "osteoporosis",
+    "bone density",
+    "fracture risk",
+    "estrogen deficiency",
+    "calcium",
+    "vitamin D",
+    "physical activity",
+    "fracture prevention"
+  ],
+  "related_modules": [
+    "CASE-035: Osteoporosis Management",
+    "CASE-048: Hormone Replacement Therapy in Menopause",
+    "CASE-060: Nutrition for Women's Bone Health",
+    "CASE-072: Fall Prevention in Older Adults"
+  ],
+  "evidence_strength": "Established evidence from clinical guidelines and systematic reviews with some moderate evidence on lifestyle specifics and emerging evidence on dietary supplements.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

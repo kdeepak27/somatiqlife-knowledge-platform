@@ -1,0 +1,39 @@
+{
+  "module_id": "CASE-056",
+  "title": "Case Study: Sleep Problems During Menopause",
+  "subtitle": "A realistic educational scenario integrating physiology, prevention, lifestyle, and safety for case study: sleep problems during menopause.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Women's Health Scenarios",
+  "som_stages": [
+    "Midlife",
+    "Menopause Transition",
+    "Postmenopause"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Educators",
+    "Primary Care Providers",
+    "Sleep Specialists"
+  ],
+  "reading_level": "Intermediate - General Adult Audience",
+  "keywords": [
+    "Menopause",
+    "Sleep problems",
+    "Insomnia",
+    "Hot flashes",
+    "Hormonal changes",
+    "Sleep quality",
+    "Cognitive Behavioral Therapy",
+    "Sleep hygiene",
+    "Women's health",
+    "Perimenopause"
+  ],
+  "related_modules": [
+    "CASE-042",
+    "CASE-058",
+    "WOMEN-034"
+  ],
+  "evidence_strength": "Established evidence for hormonal and vasomotor causes of sleep disturbances; Moderate evidence for CBT-I and HRT benefits; Emerging evidence for pharmacologic sleep aids and lifestyle modifications.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "CASE-059",
+  "title": "Case Study: Postpartum Return to Exercise",
+  "subtitle": "A realistic educational scenario integrating physiology, prevention, lifestyle, and safety for case study: postpartum return to exercise.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Women's Health Scenarios",
+  "som_stages": [
+    "Postpartum",
+    "Recovery",
+    "Lifestyle Modification"
+  ],
+  "audience": [
+    "Postpartum Women",
+    "Healthcare Providers",
+    "Physical Therapists",
+    "Fitness Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Postpartum",
+    "Exercise",
+    "Physical Recovery",
+    "Pelvic Floor",
+    "Diastasis Recti",
+    "Breastfeeding",
+    "Physical Therapy",
+    "Exercise Safety"
+  ],
+  "related_modules": [
+    "WH-EX-001",
+    "WH-PELVIC-015",
+    "WH-NUTRI-022"
+  ],
+  "evidence_strength": "Moderate evidence supports benefits of postpartum exercise with emerging data on optimized regimens and timing.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

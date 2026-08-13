@@ -1,0 +1,36 @@
+{
+  "module_id": "CASE-055",
+  "title": "Case Study: PCOS and Metabolic Health",
+  "subtitle": "A realistic educational scenario integrating physiology, prevention, lifestyle, and safety for case study: pcos and metabolic health.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Women's Health Scenarios",
+  "som_stages": [
+    "Prevention",
+    "Diagnosis",
+    "Management"
+  ],
+  "audience": [
+    "Consumers",
+    "Healthcare Students",
+    "General Public"
+  ],
+  "reading_level": "Intermediate - Health Care Literacy",
+  "keywords": [
+    "PCOS",
+    "Polycystic Ovary Syndrome",
+    "Metabolic Health",
+    "Insulin Resistance",
+    "Lifestyle",
+    "Diet",
+    "Exercise",
+    "Women's Health"
+  ],
+  "related_modules": [
+    "ENDO-101",
+    "WOM-202",
+    "META-303"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging areas",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

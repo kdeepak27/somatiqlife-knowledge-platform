@@ -1,0 +1,39 @@
+{
+  "module_id": "CASE-058",
+  "title": "Case Study: Strength Training After Menopause",
+  "subtitle": "A realistic educational scenario integrating physiology, prevention, lifestyle, and safety for case study: strength training after menopause.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Women's Health Scenarios",
+  "som_stages": [
+    "Postmenopause",
+    "Early Menopause",
+    "Late Menopause"
+  ],
+  "audience": [
+    "Postmenopausal Women",
+    "Healthcare Providers",
+    "Fitness Professionals",
+    "Women's Health Educators"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "strength training",
+    "menopause",
+    "postmenopause",
+    "muscle health",
+    "bone density",
+    "osteoporosis prevention",
+    "hormonal changes",
+    "lifestyle",
+    "exercise safety",
+    "women's health"
+  ],
+  "related_modules": [
+    "WOMEN-035",
+    "OSTEO-012",
+    "PHYSIO-021"
+  ],
+  "evidence_strength": "Strong evidence from systematic reviews and clinical guidelines supports strength training as beneficial for musculoskeletal health in postmenopausal women. Emerging evidence addresses optimized protocols and adaptations for comorbidities. Safety data are robust when programs are supervised and individualized.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
