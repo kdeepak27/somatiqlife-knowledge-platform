@@ -1,0 +1,35 @@
+{
+  "module_id": "PROG-068",
+  "title": "Cardio After 60 Program",
+  "subtitle": "A practical, progressive exercise framework for cardio after 60 program, tailored to healthy aging.",
+  "domain": "Exercise Programs",
+  "category": "Healthy Aging Programs",
+  "som_stages": [
+    "Healthy Aging",
+    "Preventive Care"
+  ],
+  "audience": [
+    "Adults Age 60+",
+    "Caregivers",
+    "Fitness Professionals",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Moderate",
+  "keywords": [
+    "cardio exercise",
+    "aerobic fitness",
+    "older adults",
+    "healthy aging",
+    "exercise program",
+    "heart health",
+    "progressive training"
+  ],
+  "related_modules": [
+    "PROG-045",
+    "NUTR-022",
+    "PHYS-032"
+  ],
+  "evidence_strength": "Established evidence from randomized controlled trials, systematic reviews, and expert guidelines supports the benefits and safety of structured cardiovascular exercise programs tailored for adults over 60 years old.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

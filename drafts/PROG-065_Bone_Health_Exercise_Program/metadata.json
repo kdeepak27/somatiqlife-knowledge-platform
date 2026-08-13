@@ -1,0 +1,39 @@
+{
+  "module_id": "PROG-065",
+  "title": "Bone Health Exercise Program",
+  "subtitle": "A practical, progressive exercise framework for bone health exercise program, tailored to healthy aging.",
+  "domain": "Exercise Programs",
+  "category": "Healthy Aging Programs",
+  "som_stages": [
+    "Healthy Aging",
+    "Prevention",
+    "Maintenance"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Healthcare Providers",
+    "Fitness Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "bone health",
+    "exercise program",
+    "healthy aging",
+    "osteoporosis prevention",
+    "resistance training",
+    "weight-bearing exercise",
+    "balance training",
+    "bone density",
+    "fall prevention",
+    "progressive exercise"
+  ],
+  "related_modules": [
+    "PROG-042",
+    "NUTR-018",
+    "FALL-009"
+  ],
+  "evidence_strength": "Established evidence supports resistance and weight-bearing exercise to improve bone density and reduce fall related fractures. Emerging evidence emphasizes the added benefit of balance training; individual response and program adherence vary.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
