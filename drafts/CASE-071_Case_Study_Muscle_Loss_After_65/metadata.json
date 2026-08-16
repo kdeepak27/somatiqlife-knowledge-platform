@@ -1,0 +1,38 @@
+{
+  "module_id": "CASE-071",
+  "title": "Case Study: Muscle Loss After 65",
+  "subtitle": "A realistic educational scenario integrating function, prevention, evidence, and practical next steps for case study: muscle loss after 65.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Healthy Aging Scenarios",
+  "som_stages": [
+    "Prevention",
+    "Maintenance",
+    "Intervention"
+  ],
+  "audience": [
+    "Consumers",
+    "Caregivers",
+    "Health Educators"
+  ],
+  "reading_level": "Intermediate (Grade 9-10)",
+  "keywords": [
+    "muscle loss",
+    "sarcopenia",
+    "aging",
+    "physical function",
+    "prevention",
+    "nutrition",
+    "exercise",
+    "healthy aging",
+    "strength",
+    "mobility"
+  ],
+  "related_modules": [
+    "CASE-032",
+    "NUTR-015",
+    "EXER-022"
+  ],
+  "evidence_strength": "Established evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

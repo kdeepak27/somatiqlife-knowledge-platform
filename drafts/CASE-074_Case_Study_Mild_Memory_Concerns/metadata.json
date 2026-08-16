@@ -1,0 +1,39 @@
+{
+  "module_id": "CASE-074",
+  "title": "Case Study: Mild Memory Concerns",
+  "subtitle": "A realistic educational scenario integrating function, prevention, evidence, and practical next steps for case study: mild memory concerns.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Healthy Aging Scenarios",
+  "som_stages": [
+    "Awareness",
+    "Early Concern",
+    "Prevention"
+  ],
+  "audience": [
+    "General Public",
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Memory",
+    "Mild cognitive impairment",
+    "Healthy aging",
+    "Memory complaints",
+    "Cognitive function",
+    "Brain health",
+    "Prevention",
+    "Cognition",
+    "Neuropsychology",
+    "Memory assessment"
+  ],
+  "related_modules": [
+    "AGING-002",
+    "COG-014",
+    "NEURO-105"
+  ],
+  "evidence_strength": "Established evidence combined with moderate and emerging evidence for interventions and prognosis.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

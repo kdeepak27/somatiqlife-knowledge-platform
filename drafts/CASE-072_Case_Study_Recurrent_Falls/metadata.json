@@ -1,0 +1,37 @@
+{
+  "module_id": "CASE-072",
+  "title": "Case Study: Recurrent Falls",
+  "subtitle": "A realistic educational scenario integrating function, prevention, evidence, and practical next steps for case study: recurrent falls.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Healthy Aging Scenarios",
+  "som_stages": [
+    "Healthy Aging",
+    "Clinical Evaluation",
+    "Fall Prevention"
+  ],
+  "audience": [
+    "Older Adults",
+    "Caregivers",
+    "Healthcare Providers",
+    "Physical Therapists"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "recurrent falls",
+    "fall prevention",
+    "gait instability",
+    "functional assessment",
+    "fall risk",
+    "healthy aging",
+    "balance impairment",
+    "multifactorial falls"
+  ],
+  "related_modules": [
+    "CASE-015",
+    "CASE-023",
+    "PREV-034"
+  ],
+  "evidence_strength": "Established evidence with moderate variability in specific intervention outcomes and populations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
