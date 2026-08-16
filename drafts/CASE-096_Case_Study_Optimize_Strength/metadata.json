@@ -1,0 +1,38 @@
+{
+  "module_id": "CASE-096",
+  "title": "Case Study: Optimize Strength",
+  "subtitle": "A realistic SOM framework scenario integrating multiple domains, prioritization, evidence, and sustainable action for case study: optimize strength.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Integrated SOM Scenarios",
+  "som_stages": [
+    "Assessment",
+    "Planning",
+    "Implementation",
+    "Evaluation"
+  ],
+  "audience": [
+    "Consumers",
+    "Health Coaches",
+    "Fitness Trainers",
+    "Healthcare Professionals"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Strength Optimization",
+    "Resistance Training",
+    "Muscle Hypertrophy",
+    "Sustainable Action",
+    "Exercise Physiology",
+    "Evidence-Based Practice",
+    "Integrated Care"
+  ],
+  "related_modules": [
+    "EXER-023",
+    "NUTR-045",
+    "BEHV-067",
+    "GERO-012"
+  ],
+  "evidence_strength": "Established evidence with emerging support for integrated multi-domain approaches",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
