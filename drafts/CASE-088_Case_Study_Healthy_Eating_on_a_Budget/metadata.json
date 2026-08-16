@@ -1,0 +1,38 @@
+{
+  "module_id": "CASE-088",
+  "title": "Case Study: Healthy Eating on a Budget",
+  "subtitle": "A realistic educational scenario integrating lifestyle, behavior change, and practical planning for case study: healthy eating on a budget.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Family and Lifestyle Scenarios",
+  "som_stages": [
+    "Lifestyle Adjustment",
+    "Behavior Change",
+    "Planning and Implementation"
+  ],
+  "audience": [
+    "General Public",
+    "Families",
+    "Health Educators",
+    "Dietitians",
+    "Community Health Workers"
+  ],
+  "reading_level": "Easy to Moderate",
+  "keywords": [
+    "Healthy eating",
+    "budget meals",
+    "nutrition planning",
+    "meal prep",
+    "behavior change",
+    "family health",
+    "cost-effective nutrition",
+    "food budgeting"
+  ],
+  "related_modules": [
+    "NTR-002",
+    "BHV-014",
+    "LFS-031"
+  ],
+  "evidence_strength": "Established evidence supported by nutritional epidemiology and behavioral intervention studies with some emerging evidence on optimized budgeting tools.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

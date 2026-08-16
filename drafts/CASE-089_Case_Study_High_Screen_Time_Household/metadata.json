@@ -1,0 +1,39 @@
+{
+  "module_id": "CASE-089",
+  "title": "Case Study: High Screen Time Household",
+  "subtitle": "A realistic educational scenario integrating lifestyle, behavior change, and practical planning for case study: high screen time household.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Family and Lifestyle Scenarios",
+  "som_stages": [
+    "Prevention",
+    "Early Intervention",
+    "Health Promotion"
+  ],
+  "audience": [
+    "General Public",
+    "Parents",
+    "Healthcare Providers",
+    "Health Educators"
+  ],
+  "reading_level": "Grade 8 - 10",
+  "keywords": [
+    "screen time",
+    "family health",
+    "lifestyle",
+    "behavior change",
+    "digital media",
+    "child health",
+    "sleep hygiene",
+    "physical activity",
+    "mental health",
+    "screen addiction"
+  ],
+  "related_modules": [
+    "CASE-042:/Healthy Screen Habits for Children",
+    "CASE-103:/Sleep Hygiene and Digital Media",
+    "CASE-076:/Physical Activity Promotion in Families"
+  ],
+  "evidence_strength": "Strong evidence supports physiological and behavioral effects of excessive screen time, moderate evidence on long-term cognitive and mental health impacts, with ongoing research on emerging digital media effects.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

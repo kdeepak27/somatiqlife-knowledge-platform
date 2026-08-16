@@ -1,0 +1,40 @@
+{
+  "module_id": "CASE-086",
+  "title": "Case Study: Shift-Working Family",
+  "subtitle": "A realistic educational scenario integrating lifestyle, behavior change, and practical planning for case study: shift-working family.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Family and Lifestyle Scenarios",
+  "som_stages": [
+    "Lifestyle Assessment",
+    "Behavior Change Planning",
+    "Family Dynamics"
+  ],
+  "audience": [
+    "General Public",
+    "Healthcare Providers",
+    "Health Coaches",
+    "Shift Workers",
+    "Family Counselors"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "shift work",
+    "family health",
+    "sleep hygiene",
+    "circadian rhythm",
+    "work-life balance",
+    "behavior change",
+    "nutrition",
+    "exercise",
+    "stress management",
+    "time management"
+  ],
+  "related_modules": [
+    "CASE-021_Family_Sleep_Disorders",
+    "LIFESTYLE-034_Sleep_Hygiene_Education",
+    "NUTRITION-015_Shift_Work_Nutrition"
+  ],
+  "evidence_strength": "Combination of established and emerging evidence; some moderate to low-quality studies; clinical consensus supports many recommendations.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
