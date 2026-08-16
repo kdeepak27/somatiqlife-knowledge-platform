@@ -1,0 +1,35 @@
+{
+  "module_id": "CASE-082",
+  "title": "Case Study: Teen With Poor Sleep",
+  "subtitle": "A realistic educational scenario integrating lifestyle, behavior change, and practical planning for case study: teen with poor sleep.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Family and Lifestyle Scenarios",
+  "som_stages": [
+    "Adolescent Health"
+  ],
+  "audience": [
+    "Parents",
+    "Healthcare Providers",
+    "Educators",
+    "Teenagers"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "teen sleep",
+    "poor sleep",
+    "adolescent health",
+    "sleep hygiene",
+    "behavior change",
+    "circadian rhythm",
+    "sleep deprivation",
+    "family routines"
+  ],
+  "related_modules": [
+    "SOM-FAM-045",
+    "SOM-ADO-102",
+    "SOM-BEH-027"
+  ],
+  "evidence_strength": "Established and Moderate Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

@@ -1,0 +1,37 @@
+{
+  "module_id": "CASE-084",
+  "title": "Case Study: Parent With No Time to Exercise",
+  "subtitle": "A realistic educational scenario integrating lifestyle, behavior change, and practical planning for case study: parent with no time to exercise.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Family and Lifestyle Scenarios",
+  "som_stages": [
+    "Awareness",
+    "Assessment",
+    "Action",
+    "Maintenance"
+  ],
+  "audience": [
+    "Parents",
+    "Healthcare Providers",
+    "Health Educators",
+    "Behavioral Counselors"
+  ],
+  "reading_level": "Intermediate",
+  "keywords": [
+    "Exercise barriers",
+    "Parental health",
+    "Time management",
+    "Physical activity",
+    "Behavior change",
+    "Lifestyle planning",
+    "Family health"
+  ],
+  "related_modules": [
+    "PHY-045",
+    "LIF-102",
+    "BEH-018"
+  ],
+  "evidence_strength": "Established evidence on physical activity benefits; moderate and emerging evidence on micro workouts and behavior change in parents; limitations in long-term adherence studies.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
