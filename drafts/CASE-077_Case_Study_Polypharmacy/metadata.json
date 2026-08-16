@@ -1,0 +1,38 @@
+{
+  "module_id": "CASE-077",
+  "title": "Case Study: Polypharmacy",
+  "subtitle": "A realistic educational scenario integrating function, prevention, evidence, and practical next steps for case study: polypharmacy.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Healthy Aging Scenarios",
+  "som_stages": [
+    "Prevention",
+    "Management",
+    "Function Optimization"
+  ],
+  "audience": [
+    "Healthcare Consumers",
+    "Caregivers",
+    "Healthcare Professionals",
+    "Health Educators"
+  ],
+  "reading_level": "Middle School to Adult Literacy",
+  "keywords": [
+    "polypharmacy",
+    "medication management",
+    "older adults",
+    "drug interactions",
+    "adverse drug reactions",
+    "deprescribing",
+    "medication adherence",
+    "medication review",
+    "geriatric pharmacology"
+  ],
+  "related_modules": [
+    "CASE-032-Deprescribing-Process",
+    "CASE-053-Geriatric-Pharmacology",
+    "CASE-081-Medication-Adherence"
+  ],
+  "evidence_strength": "Established evidence for risks and management strategies; moderate evidence for deprescribing outcomes; emerging evidence for pharmacogenomics and digital tools.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
