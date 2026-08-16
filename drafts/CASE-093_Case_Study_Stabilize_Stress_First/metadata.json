@@ -1,0 +1,39 @@
+{
+  "module_id": "CASE-093",
+  "title": "Case Study: Stabilize Stress First",
+  "subtitle": "A realistic SOM framework scenario integrating multiple domains, prioritization, evidence, and sustainable action for case study: stabilize stress first.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Integrated SOM Scenarios",
+  "som_stages": [
+    "Assessment",
+    "Intervention Planning",
+    "Monitoring",
+    "Sustainable Action"
+  ],
+  "audience": [
+    "Healthcare Providers",
+    "Health Coaches",
+    "SOM Practitioners",
+    "Clinical Educators",
+    "Patients"
+  ],
+  "reading_level": "Intermediate - Health Literate",
+  "keywords": [
+    "Stress Management",
+    "Somatic Optimization Method (SOM)",
+    "Case Study",
+    "Integrated Care",
+    "Physiology of Stress",
+    "Sustainable Health",
+    "Prioritization",
+    "Mind-Body Interaction"
+  ],
+  "related_modules": [
+    "SOM-101-Stress-Biology",
+    "SOM-205-Integrated-Assessment",
+    "SOM-308-Mind-Body-Interventions"
+  ],
+  "evidence_strength": "Established evidence for stress physiology and behavioral interventions; moderate evidence for some biomarker applications; emerging evidence on integrated frameworks.",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

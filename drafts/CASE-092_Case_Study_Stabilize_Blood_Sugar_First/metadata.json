@@ -1,0 +1,43 @@
+{
+  "module_id": "CASE-092",
+  "title": "Case Study: Stabilize Blood Sugar First",
+  "subtitle": "A realistic SOM framework scenario integrating multiple domains, prioritization, evidence, and sustainable action for case study: stabilize blood sugar first.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Integrated SOM Scenarios",
+  "som_stages": [
+    "Screening",
+    "Assessment",
+    "Intervention Planning",
+    "Implementation",
+    "Monitoring",
+    "Evaluation"
+  ],
+  "audience": [
+    "Healthcare consumers",
+    "Clinicians",
+    "Health educators",
+    "Care coordinators"
+  ],
+  "reading_level": "Intermediate (health literate adults)",
+  "keywords": [
+    "blood sugar stabilization",
+    "glucose regulation",
+    "insulin resistance",
+    "hypoglycemia",
+    "hyperglycemia",
+    "type 2 diabetes",
+    "lifestyle medicine",
+    "nutritional interventions",
+    "pharmacology",
+    "case management"
+  ],
+  "related_modules": [
+    "MET-014: Metabolic Syndrome Basics",
+    "NUT-078: Nutritional Approaches to Diabetes",
+    "LIF-053: Lifestyle Interventions for Chronic Disease",
+    "PHA-022: Pharmacology of Antidiabetic Agents"
+  ],
+  "evidence_strength": "Established evidence with moderate emerging areas noted",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}

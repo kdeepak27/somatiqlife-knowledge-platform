@@ -1,0 +1,43 @@
+{
+  "module_id": "CASE-091",
+  "title": "Case Study: Stabilize Sleep First",
+  "subtitle": "A realistic SOM framework scenario integrating multiple domains, prioritization, evidence, and sustainable action for case study: stabilize sleep first.",
+  "domain": "Case Studies and Scenarios",
+  "category": "Integrated SOM Scenarios",
+  "som_stages": [
+    "Assessment",
+    "Prioritization",
+    "Intervention",
+    "Monitoring",
+    "Adjustment"
+  ],
+  "audience": [
+    "Healthcare Providers",
+    "Health Coaches",
+    "Sleep Specialists",
+    "Patients",
+    "Researchers"
+  ],
+  "reading_level": "Intermediate (Health Literate)",
+  "keywords": [
+    "Sleep stabilization",
+    "Sleep disorders",
+    "Integrated care",
+    "Somatic optimization",
+    "Sleep hygiene",
+    "Chronobiology",
+    "Sleep physiology",
+    "Case study",
+    "Health prioritization",
+    "Sustainable intervention"
+  ],
+  "related_modules": [
+    "SOM-404-SLEEPBIO",
+    "SOM-210-STRESSMGMT",
+    "SOM-115-CHRONOBIO",
+    "SOM-320-BEHAVIORMOD"
+  ],
+  "evidence_strength": "Established and Moderate Evidence",
+  "version": "1.0",
+  "review_status": "AI draft - scientific, clinical, and editorial review required"
+}
